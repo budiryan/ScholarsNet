@@ -15,7 +15,7 @@ with connection:
         traffic = json.load(open(path + f))
         for t in traffic:
             try:
-                cursor.execute('insert into arxiv_author values(NULL,?,?,?,?,?,?,?,?)', 
+                cursor.execute('insert into arxiv_author values(?,?,?,?,?,?,?,?)', 
                                                                 [t['category'], 
                                                                  t['link'], 
                                             ', '.join(a for a in t['other_authors'] if a != t['lead_author']),
