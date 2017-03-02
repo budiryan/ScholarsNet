@@ -1,0 +1,944 @@
+cs/9809009v1,1998-09-02T19:27:07Z,Developing numerical libraries in Java,G. W. Stewart,cs.MS,http://arxiv.org/pdf/cs/9809009v1
+cs/9809105v1,1998-09-24T20:56:11Z,Hyper-Systolic Matrix Multiplication,Klaus Schilling,cs.MS,http://arxiv.org/pdf/cs/9809105v1
+cs/0004004v1,2000-04-13T13:43:48Z,"Mathematical Software: Past, Present, and Future",Ronald F. Boisvert,cs.MS,http://arxiv.org/pdf/cs/0004004v1
+cs/0101001v1,2001-01-03T17:33:59Z,Automatic Differentiation Tools in Optimization Software,Jorge J. Moré,cs.MS,http://arxiv.org/pdf/cs/0101001v1
+cs/0101018v1,2001-01-19T21:14:52Z,GPCG: A Case Study in the Performance and Scalability of Optimization   Algorithms,Jorge J. Moré,cs.MS,http://arxiv.org/pdf/cs/0101018v1
+cs/0102001v2,2001-02-01T20:37:46Z,Benchmarking Optimization Software with Performance Profiles,Jorge J. Moré,cs.MS,http://arxiv.org/pdf/cs/0102001v2
+cs/0106051v1,2001-06-25T19:30:10Z,Users Guide for SnadiOpt: A Package Adding Automatic Differentiation to   Snopt,Julia Muetherig,cs.MS,http://arxiv.org/pdf/cs/0106051v1
+cs/0107025v2,2001-07-19T13:18:31Z,Computer validated proofs of a toolset for adaptable arithmetic,Laurent Thery,cs.MS,http://arxiv.org/pdf/cs/0107025v2
+cs/0306127v1,2003-06-24T12:37:26Z,Development of a Java Package for Matrix Programming,Henry BK Teo,cs.MS,http://arxiv.org/pdf/cs/0306127v1
+cs/0307009v1,2003-07-04T13:15:09Z,"Finding the ""truncated"" polynomial that is closest to a function",Jean-Michel Muller,cs.MS,http://arxiv.org/pdf/cs/0307009v1
+cs/0310057v1,2003-10-28T19:41:44Z,An Introduction to Using Software Tools for Automatic Differentiation,Andrea Walther,cs.MS,http://arxiv.org/pdf/cs/0310057v1
+cs/0406049v1,2004-06-25T20:37:44Z,"A Fast, Vectorizable Algorithm for Producing Single-Precision   Sine-Cosine Pairs",Marcus H. Mendenhall,cs.MS,http://arxiv.org/pdf/cs/0406049v1
+cs/0407052v1,2004-07-20T13:46:09Z,M@th Desktop and MD Tools - Mathematics and Mathematica Made Easy for   Students,Reinhard V. Simonovits,cs.MS,http://arxiv.org/pdf/cs/0407052v1
+cs/0408029v1,2004-08-13T21:25:42Z,Tsnnls: A solver for large sparse least squares problems with   non-negative variables,Michael Piatek,cs.MS,http://arxiv.org/pdf/cs/0408029v1
+cs/0503014v1,2005-03-04T19:20:04Z,ADF95: Tool for automatic differentiation of a FORTRAN code designed for   large numbers of independent variables,Christian W. Straka,cs.MS,http://arxiv.org/pdf/cs/0503014v1
+cs/0602005v1,2006-02-03T18:29:52Z,A library of Taylor models for PVS automatic proof checker,Marc Daumas,cs.MS,http://arxiv.org/pdf/cs/0602005v1
+cs/0603001v1,2006-03-01T15:45:57Z,BioSig - An application of Octave,Alois Schlögl,cs.MS,http://arxiv.org/pdf/cs/0603001v1
+cs/0603052v2,2006-03-13T12:05:08Z,Evaluation of interval extension of the power function by graph   decomposition,Evgueni Petrov,cs.MS,http://arxiv.org/pdf/cs/0603052v2
+cs/0604006v1,2006-04-03T12:56:32Z,Sparse Matrix Implementation in Octave,Andy Adler,cs.MS,http://arxiv.org/pdf/cs/0604006v1
+cs/0604039v1,2006-04-10T08:22:01Z,A Fixed-Point Type for Octave,Markus Muck,cs.MS,http://arxiv.org/pdf/cs/0604039v1
+cs/0604088v3,2006-04-23T09:39:02Z,How to Run Mathematica Batch-files in Background ?,Santanu K. Maiti,cs.MS,http://arxiv.org/pdf/cs/0604088v3
+cs/0605081v1,2006-05-18T15:49:04Z,Caractéristiques arithmétiques des processeurs graphiques,David Defour,cs.MS,http://arxiv.org/pdf/cs/0605081v1
+cs/0606101v4,2006-06-23T08:26:56Z,Stochastic Formal Methods: An application to accuracy of numeric   software,David Lester,cs.MS,http://arxiv.org/pdf/cs/0606101v4
+cs/0610110v4,2006-10-18T19:57:11Z,Stochastic Formal Methods for Hybrid Systems,Annick Truffert,cs.MS,http://arxiv.org/pdf/cs/0610110v4
+cs/0701186v2,2007-01-29T15:36:47Z,Certification of bounds on expressions involving rounded operators,Guillaume Melquiond,cs.MS,http://arxiv.org/pdf/cs/0701186v2
+cs/0703040v1,2007-03-08T19:49:35Z,Why the Standard Data Processing should be changed,Yefim Bakman,cs.MS,http://arxiv.org/pdf/cs/0703040v1
+0704.3141v1,2007-04-24T08:33:52Z,Algorithm for Evaluation of the Interval Power Function of Unconstrained   Arguments,Evgueni Petrov,cs.MS,http://arxiv.org/pdf/0704.3141v1
+0707.2347v5,2007-07-16T16:02:50Z,Memory efficient scheduling of Strassen-Winograd's matrix multiplication   algorithm,Wei Zhou,cs.MS,http://arxiv.org/pdf/0707.2347v5
+0707.4651v1,2007-07-31T17:04:34Z,Comments on the Reliability of Lawson and Hanson's Linear Distance   Programming Algorithm: Subroutine LDP,Alan Rufty,cs.MS,http://arxiv.org/pdf/0707.4651v1
+0803.2093v1,2008-03-14T07:09:13Z,GraphStream: A Tool for bridging the gap between Complex Systems and   Dynamic Graphs,Damien Olivier,cs.MS,http://arxiv.org/pdf/0803.2093v1
+0803.2386v1,2008-03-17T02:38:49Z,Conformal Computing: Algebraically connecting the hardware/software   boundary using a uniform approach to high-performance computation for   software and hardware applications,James E. Raynolds,cs.MS,http://arxiv.org/pdf/0803.2386v1
+0808.2794v1,2008-08-20T17:50:36Z,Accelerating Scientific Computations with Mixed Precision Algorithms,Stanimire Tomov,cs.MS,http://arxiv.org/pdf/0808.2794v1
+0811.1714v1,2008-11-11T14:23:49Z,Efficient Multiplication of Dense Matrices over GF(2),William Hart,cs.MS,http://arxiv.org/pdf/0811.1714v1
+0901.1413v1,2009-01-11T04:43:51Z,Bitslicing and the Method of Four Russians Over Larger Finite Fields,Robert W. Bradshaw,cs.MS,http://arxiv.org/pdf/0901.1413v1
+0903.4053v1,2009-03-24T10:10:37Z,The generating of Fractal Images Using MathCAD Program,Laura Stefan,cs.MS,http://arxiv.org/pdf/0903.4053v1
+0903.4307v1,2009-03-25T11:42:46Z,FISLAB - the Fuzzy Inference Tool-box for SCILAB,Simona Apostol,cs.MS,http://arxiv.org/pdf/0903.4307v1
+0903.4313v1,2009-03-25T12:10:32Z,The development of a fuzzy regulator with an entry and an output in   Fislab,Simona Apostol,cs.MS,http://arxiv.org/pdf/0903.4313v1
+0904.4152v1,2009-04-27T13:00:36Z,HONEI: A collection of libraries for numerical computations targeting   multiple processor architectures,Carsten Gutwenger,cs.MS,http://arxiv.org/pdf/0904.4152v1
+0905.4430v1,2009-05-27T14:11:37Z,"Limits of Educational Soft ""GeoGebra"" in a Critical Constructive Review",Valerian Antohe,cs.MS,http://arxiv.org/pdf/0905.4430v1
+0905.4598v1,2009-05-28T10:10:06Z,Iterative Methods for Systems' Solving - a C# approach,Claudiu Chirilov,cs.MS,http://arxiv.org/pdf/0905.4598v1
+0912.3398v1,2009-12-17T13:49:59Z,NetEvo: A computational framework for the evolution of dynamical complex   networks,Claire S. Grierson,cs.MS,http://arxiv.org/pdf/0912.3398v1
+1009.3457v2,2010-09-17T15:47:25Z,How to obtain efficient GPU kernels: an illustration using FMM & FGT   algorithms,Lorena A. Barba,cs.MS,http://arxiv.org/pdf/1009.3457v2
+1102.1523v1,2011-02-08T07:25:56Z,The NumPy array: a structure for efficient numerical computation,Gaël Varoquaux,cs.MS,http://arxiv.org/pdf/1102.1523v1
+1102.5711v1,2011-02-28T17:16:06Z,XMLlab : multimedia publication of simulations applets using XML and   Scilab,André Pauss,cs.MS,http://arxiv.org/pdf/1102.5711v1
+1106.1347v1,2011-06-03T09:17:11Z,Methods of Matrix Multiplication: An Overview of Several Methods and   their Implementation,Ivo Hedtke,cs.MS,http://arxiv.org/pdf/1106.1347v1
+1109.1264v1,2011-09-06T18:42:48Z,A New Vectorization Technique for Expression Templates in C++,A. Adelmann,cs.MS,http://arxiv.org/pdf/1109.1264v1
+1111.4144v2,2011-11-17T16:44:40Z,Matrix Inversion Using Cholesky Decomposition,Deepak Menon,cs.MS,http://arxiv.org/pdf/1111.4144v2
+1111.6900v1,2011-11-29T17:05:00Z,The M4RIE library for dense linear algebra over small fields with even   characteristic,Martin R. Albrecht,cs.MS,http://arxiv.org/pdf/1111.6900v1
+1201.1473v1,2012-01-06T18:49:43Z,A Representation of Binary Matrices,Krasimir Yordzhev,cs.MS,http://arxiv.org/pdf/1201.1473v1
+1202.5964v1,2012-02-27T15:02:13Z,Technique detection software for Sparse Matrices,Anila Usman,cs.MS,http://arxiv.org/pdf/1202.5964v1
+1203.6005v2,2012-03-27T15:57:59Z,The Kernel Quantum Probabilities (KQP) Library,Benjamin Piwowarski,cs.MS,http://arxiv.org/pdf/1203.6005v2
+1204.3020v1,2012-04-12T16:36:59Z,TeXmacs-Reduce interface,Andrey Grozin,cs.MS,http://arxiv.org/pdf/1204.3020v1
+1204.5577v2,2012-04-25T07:25:31Z,Automated derivation of the adjoint of high-level transient finite   element programs,Marie E. Rognes,cs.MS,http://arxiv.org/pdf/1204.5577v2
+1205.2927v1,2012-05-14T01:37:41Z,A Heterogeneous Accelerated Matrix Multiplication: OpenCL + APU + GPU+   Fast Matrix Multiply,Paolo D'Alberto,cs.MS,http://arxiv.org/pdf/1205.2927v1
+1208.4869v1,2012-08-23T21:52:32Z,User Manual for the Complex Conjugate Gradient Methods Library CCGPAK   2.0,Piotr J. Flatau,cs.MS,http://arxiv.org/pdf/1208.4869v1
+1209.1003v5,2012-09-05T14:58:51Z,A C++11 implementation of arbitrary-rank tensors for high-performance   computing,Alejandro M. Aragón,cs.MS,http://arxiv.org/pdf/1209.1003v5
+1302.3894v1,2013-02-15T21:30:51Z,A framework for automated PDE-constrained optimisation,P. E. Farrell,cs.MS,http://arxiv.org/pdf/1302.3894v1
+1307.3088v1,2013-07-11T12:35:11Z,"The Declaratron, semantic specification for scientific computation using   MathML",Peter Murray-Rust,cs.MS,http://arxiv.org/pdf/1307.3088v1
+1310.1191v1,2013-10-04T07:50:02Z,Numerical integration on GPUs for higher order finite elements,Paweł Macioł,cs.MS,http://arxiv.org/pdf/1310.1191v1
+1310.1194v1,2013-10-04T08:08:04Z,Vectorized OpenCL implementation of numerical integration for higher   order finite elements,Krzysztof Banaś,cs.MS,http://arxiv.org/pdf/1310.1194v1
+1404.3406v1,2014-04-13T18:13:32Z,Knowledge-Based Automatic Generation of Linear Algebra Algorithms and   Code,Diego Fabregat-Traver,cs.MS,http://arxiv.org/pdf/1404.3406v1
+1407.2925v1,2014-07-09T10:45:40Z,A data porting tool for coupling models with different discretization   needs,Virgil Iordache,cs.MS,http://arxiv.org/pdf/1407.2925v1
+1407.3383v1,2014-07-12T13:21:01Z,Modular SIMD arithmetic in Mathemagix,Guillaume Quintin,cs.MS,http://arxiv.org/pdf/1407.3383v1
+0910.1845v1,2009-10-09T20:11:36Z,Parallel Computation of Finite Element Navier-Stokes codes using MUMPS   Solver,Mandhapati P. Raju,cs.MS,http://arxiv.org/pdf/0910.1845v1
+1005.4395v1,2010-05-24T18:46:34Z,An OpenMath Content Dictionary for Tensor Concepts,Joseph B. Collins,cs.MS,http://arxiv.org/pdf/1005.4395v1
+1005.4762v1,2010-05-26T09:19:51Z,Adapting Mathematical Domain Reasoners,Johan Jeuring,cs.MS,http://arxiv.org/pdf/1005.4762v1
+1005.4973v3,2010-05-27T01:06:54Z,Variants of Mersenne Twister Suitable for Graphic Processors,Makoto Matsumoto,cs.MS,http://arxiv.org/pdf/1005.4973v3
+1006.0404v1,2010-06-02T14:30:55Z,Computational Complexity of Iterated Maps on the Interval (Extended   Abstract),Christoph Spandl,cs.MS,http://arxiv.org/pdf/1006.0404v1
+1006.1193v1,2010-06-07T07:37:49Z,Genbit Compress Tool(GBC): A Java-Based Tool to Compress DNA Sequences   and Compute Compression Ratio(bits/base) of Genomes,V. K. Kumar,cs.MS,http://arxiv.org/pdf/1006.1193v1
+1006.1744v1,2010-06-09T08:56:07Z,Efficient Decomposition of Dense Matrices over GF(2),Clément Pernet,cs.MS,http://arxiv.org/pdf/1006.1744v1
+1104.0199v1,2011-04-01T15:29:05Z,Optimisations for quadrature representations of finite element tensors   through automated code generation,Garth N. Wells,cs.MS,http://arxiv.org/pdf/1104.0199v1
+1104.0628v1,2011-04-04T17:12:55Z,Automated code generation for discontinuous Galerkin methods,Garth N. Wells,cs.MS,http://arxiv.org/pdf/1104.0628v1
+1104.1533v1,2011-04-08T09:40:04Z,Operand Folding Hardware Multipliers,Karim Sabeg,cs.MS,http://arxiv.org/pdf/1104.1533v1
+1211.6989v2,2012-11-29T17:15:08Z,A framework for the automation of generalised stability theory,Simon W. Funke,cs.MS,http://arxiv.org/pdf/1211.6989v2
+1308.1472v1,2013-08-07T04:15:42Z,ForestClaw: Hybrid forest-of-octrees AMR for hyperbolic conservation   laws,Andy R. Terrel,cs.MS,http://arxiv.org/pdf/1308.1472v1
+1309.5498v1,2013-09-21T16:45:13Z,High Precision Arithmetic for Scientific Applications,Foster Morrison,cs.MS,http://arxiv.org/pdf/1309.5498v1
+1312.0455v1,2013-12-02T13:47:14Z,Radix Conversion for IEEE754-2008 Mixed Radix Floating-Point Arithmetic,J. -M. Muller,cs.MS,http://arxiv.org/pdf/1312.0455v1
+1401.1942v3,2014-01-09T10:22:26Z,Test Problem Construction for Single-Objective Bilevel Optimization,Kalyanmoy Deb,cs.MS,http://arxiv.org/pdf/1401.1942v3
+1401.7962v1,2014-01-29T10:44:45Z,Numerical application and Turbo C program using the Gauss-Jordan Method,Cornelia Victoria,cs.MS,http://arxiv.org/pdf/1401.7962v1
+1402.5835v2,2014-02-24T14:26:08Z,Polcovar: Software for Computing the Mean and Variance of Subgraph   Counts in Random Graphs,Jérôme Kunegis,cs.MS,http://arxiv.org/pdf/1402.5835v2
+1403.6870v2,2014-03-26T21:51:41Z,A modified ziggurat algorithm for generating exponentially- and   normally-distributed pseudorandom numbers,Christopher D McFarland,cs.MS,http://arxiv.org/pdf/1403.6870v2
+1406.5369v1,2014-06-20T12:46:27Z,A Scala Prototype to Generate Multigrid Solver Implementations for   Different Problems and Target Multi-Core Platforms,Ulrich Ruede,cs.MS,http://arxiv.org/pdf/1406.5369v1
+1408.1363v1,2014-08-06T17:37:03Z,Lighthouse: A User-Centered Web Service for Linear Algebra Software,Elizabeth Jessup,cs.MS,http://arxiv.org/pdf/1408.1363v1
+1408.3082v2,2014-08-13T18:42:01Z,Algorithm xxx: RIDC Methods -- A Family of Parallel Time-Integrators,Kyle Ladd,cs.MS,http://arxiv.org/pdf/1408.3082v2
+1409.2008v2,2014-09-06T12:19:37Z,Computing the coefficients for the power series solution of the   Lane-Emden equation with the Python library SymPy,Klaus Rohe,cs.MS,http://arxiv.org/pdf/1409.2008v2
+1409.8186v1,2014-09-29T16:48:16Z,$μ$-diff: an open-source Matlab toolbox for computing multiple   scattering problems by disks,Hasan Alzubaidi,cs.MS,http://arxiv.org/pdf/1409.8186v1
+1410.1726v1,2014-10-07T13:43:53Z,KBLAS: An Optimized Library for Dense Matrix-Vector Multiplication on   GPU Accelerators,Hatem Ltaief,cs.MS,http://arxiv.org/pdf/1410.1726v1
+1411.1607v4,2014-11-06T13:39:40Z,Julia: A Fresh Approach to Numerical Computing,Viral B. Shah,cs.MS,http://arxiv.org/pdf/1411.1607v4
+1412.5316v1,2014-12-17T10:06:49Z,Twofolds in C and C++,Evgeny Latkin,cs.MS,http://arxiv.org/pdf/1412.5316v1
+1502.01367v2,2015-02-04T21:48:25Z,Visualizing Marden's theorem with Scilab,Klaus Rohe,cs.MS,http://arxiv.org/pdf/1502.01367v2
+1502.05216v1,2015-02-17T02:55:35Z,Twofold exp and log,Evgeny Latkin,cs.MS,http://arxiv.org/pdf/1502.05216v1
+1502.07405v1,2015-02-25T23:54:16Z,An efficient multi-core implementation of a novel HSS-structured   multifrontal solver using randomized sampling,Artem Napov,cs.MS,http://arxiv.org/pdf/1502.07405v1
+1503.04955v1,2015-03-17T09:03:34Z,Fast Multiplication of Large Integers: Implementation and Analysis of   the DKSS Algorithm,Christoph Lüders,cs.MS,http://arxiv.org/pdf/1503.04955v1
+1503.05464v2,2015-03-18T16:01:25Z,A distributed-memory package for dense Hierarchically Semi-Separable   matrix computations using randomization,Artem Napov,cs.MS,http://arxiv.org/pdf/1503.05464v2
+1503.06544v2,2015-03-23T07:45:09Z,GAIL---Guaranteed Automatic Integration Library in MATLAB: Documentation   for Version 2.1,Xuan Zhou,cs.MS,http://arxiv.org/pdf/1503.06544v2
+1504.01023v1,2015-04-04T16:56:02Z,Finite element numerical integration for first order approximations on   multi-core architectures,Jan Bielański,cs.MS,http://arxiv.org/pdf/1504.01023v1
+1504.06734v1,2015-04-25T14:45:33Z,Symmetric matrix inversion using modified Gaussian elimination,Nicolai Savelov,cs.MS,http://arxiv.org/pdf/1504.06734v1
+1505.00838v1,2015-05-04T23:05:54Z,Sparse Automatic Differentiation for Large-Scale Computations Using   Abstract Elementary Algebra,Stefan Klus,cs.MS,http://arxiv.org/pdf/1505.00838v1
+1505.01577v1,2015-05-07T04:09:24Z,Documentation Generator Focusing on Symbols for the HTML-ized Mizar   Library,Yasunari Shidama,cs.MS,http://arxiv.org/pdf/1505.01577v1
+1505.04633v1,2015-05-18T13:35:50Z,"Flexible, Scalable Mesh and Data Management using PETSc DMPlex",Gerard J. Gorman,cs.MS,http://arxiv.org/pdf/1505.04633v1
+1506.01598v2,2015-06-04T14:09:47Z,"decimalInfinite: All Decimals In Bits, No Loss, Same Order, Simple",Ghislain Fourny,cs.MS,http://arxiv.org/pdf/1506.01598v2
+1506.04496v1,2015-06-15T07:33:41Z,"The Peano software - parallel, automaton-based, dynamically adaptive   grid traversals",Tobias Weinzierl,cs.MS,http://arxiv.org/pdf/1506.04496v1
+1506.07749v1,2015-06-25T13:42:29Z,Efficient mesh management in Firedrake using PETSc-DMPlex,Gerard J. Gorman,cs.MS,http://arxiv.org/pdf/1506.07749v1
+1508.00688v1,2015-08-04T07:25:56Z,Accelerating R with high performance linear algebra libraries,Raluca Mariana Dragoescu,cs.MS,http://arxiv.org/pdf/1508.00688v1
+1508.02470v1,2015-08-11T02:06:01Z,Support for Non-conformal Meshes in PETSc's DMPlex Interface,Matthew G. Knepley,cs.MS,http://arxiv.org/pdf/1508.02470v1
+1508.03954v3,2015-08-17T08:51:04Z,Complex additive geometric multilevel solvers for Helmholtz equations on   spacetrees,Tobias Weinzierl,cs.MS,http://arxiv.org/pdf/1508.03954v3
+1508.05374v1,2015-05-11T19:11:56Z,POLYANA - A tool for the calculation of molecular radial distribution   functions based on Molecular Dynamics trajectories,Vasilios Raptis,cs.MS,http://arxiv.org/pdf/1508.05374v1
+1508.07231v1,2015-08-28T14:42:09Z,Clone and graft: Testing scientific applications as they are built,Wolfgang Bangerth,cs.MS,http://arxiv.org/pdf/1508.07231v1
+1509.02796v1,2015-09-09T14:53:02Z,Rust-Bio - a fast and safe bioinformatics library,Johannes Köster,cs.MS,http://arxiv.org/pdf/1509.02796v1
+1509.07164v1,2015-09-23T21:34:46Z,The Stan Math Library: Reverse-Mode Automatic Differentiation in C++,Michael Betancourt,cs.MS,http://arxiv.org/pdf/1509.07164v1
+1510.02789v1,2015-10-08T09:47:51Z,A novel code generation methodology for block diagram modeler and   simulators Scicos and VSS,Ramine Nikoukhah,cs.MS,http://arxiv.org/pdf/1510.02789v1
+1510.07244v1,2015-10-25T13:27:11Z,Approximation of BEM matrices using GPGPUs,Sven Christophersen,cs.MS,http://arxiv.org/pdf/1510.07244v1
+1511.03167v1,2015-11-10T16:22:27Z,BOAT: a cross-platform software for data analysis and numerical   computing with arbitrary-precision,Davide Pagano,cs.MS,http://arxiv.org/pdf/1511.03167v1
+1511.05986v2,2015-11-15T19:33:39Z,Computing with Harmonic Functions,Sheldon Axler,cs.MS,http://arxiv.org/pdf/1511.05986v2
+1511.07727v2,2015-11-24T14:28:13Z,DiffSharp: Automatic Differentiation Library,Jeffrey Mark Siskind,cs.MS,http://arxiv.org/pdf/1511.07727v2
+1512.00066v1,2015-11-30T22:08:23Z,Sparse Tensor Algebra as a Parallel Programming Model,Torsten Hoefler,cs.MS,http://arxiv.org/pdf/1512.00066v1
+1512.06136v1,2015-12-18T21:09:10Z,The interface for functions in the dune-functions module,Oliver Sander,cs.MS,http://arxiv.org/pdf/1512.06136v1
+1512.08790v1,2015-12-26T18:18:54Z,Dynamic Computation of Runge Kutta Fourth Order Algorithm for First and   Second Order Ordinary Differential Equation Using Java,A. O. Adekoya,cs.MS,http://arxiv.org/pdf/1512.08790v1
+1601.05871v1,2016-01-22T03:19:45Z,Task Parallel Incomplete Cholesky Factorization using 2D   Partitioned-Block Layout,Stephen L. Olivier,cs.MS,http://arxiv.org/pdf/1601.05871v1
+1601.07789v3,2016-01-26T13:24:40Z,Vectorization of Multibyte Floating Point Data Formats,David Gregg,cs.MS,http://arxiv.org/pdf/1601.07789v3
+1602.03643v1,2016-02-11T08:56:43Z,Oasis: a high-level/high-performance open source Navier-Stokes solver,Kristian Valen-Sendstad,cs.MS,http://arxiv.org/pdf/1602.03643v1
+1603.04483v1,2016-03-14T21:28:46Z,Fast calculation of inverse square root with the use of magic constant   $-$ analytical approach,Jan L. Cieśliński,cs.MS,http://arxiv.org/pdf/1603.04483v1
+1603.06424v1,2016-03-21T13:18:44Z,Interoperability in the OpenDreamKit Project: The Math-in-the-Middle   Approach,Nicolas M. Thiéry,cs.MS,http://arxiv.org/pdf/1603.06424v1
+1603.06914v4,2016-03-22T19:11:07Z,SimOutUtils - Utilities for analyzing time series simulation output,Agostinho C. Rosa,cs.MS,http://arxiv.org/pdf/1603.06914v4
+1603.07916v2,2016-03-25T14:07:49Z,A Subdivision Solver for Systems of Large Dense Polynomials,Rémi Imbach,cs.MS,http://arxiv.org/pdf/1603.07916v2
+1604.02528v1,2016-04-09T06:15:15Z,A Left-Looking Selected Inversion Algorithm and Task Parallelism on   Shared Memory Systems,Chao Yang,cs.MS,http://arxiv.org/pdf/1604.02528v1
+1604.05872v1,2016-04-20T09:39:29Z,An algorithm for the optimization of finite element integration loops,Paul H. J. Kelly,cs.MS,http://arxiv.org/pdf/1604.05872v1
+1604.05937v3,2016-04-20T13:05:04Z,"A structure-exploiting numbering algorithm for finite elements on   extruded meshes, and its performance evaluation in Firedrake",Paul H. J. Kelly,cs.MS,http://arxiv.org/pdf/1604.05937v3
+1604.06112v1,2016-04-20T20:07:48Z,Convex Hull Calculations: a Matlab Implementation and Correctness Proofs   for the lrs-Algorithm,Bernardete Ribeiro,cs.MS,http://arxiv.org/pdf/1604.06112v1
+1604.07163v1,2016-04-25T08:35:12Z,Extreme-scale Multigrid Components within PETSc,Barry F. Smith,cs.MS,http://arxiv.org/pdf/1604.07163v1
+1604.07242v1,2016-04-25T13:22:16Z,Implementation of $hp$-adaptive discontinuous finite element methods in   Dune-Fem,Christoph Gersbacher,cs.MS,http://arxiv.org/pdf/1604.07242v1
+1605.01078v1,2016-05-03T20:28:00Z,Implementing Strassen's Algorithm with BLIS,Robert A. van de Geijn,cs.MS,http://arxiv.org/pdf/1605.01078v1
+1605.05057v1,2016-05-17T08:40:14Z,The polymake XML file format,Michael Joswig,cs.MS,http://arxiv.org/pdf/1605.05057v1
+1605.06381v1,2016-05-20T14:44:55Z,OPESCI-FD: Automatic Code Generation Package for Finite Difference   Models,Tianjiao Sun,cs.MS,http://arxiv.org/pdf/1605.06381v1
+1606.06311v1,2016-06-20T20:14:12Z,Benchmarking Python Tools for Automatic Differentiation,Aung Thu,cs.MS,http://arxiv.org/pdf/1606.06311v1
+1606.07399v2,2016-06-23T18:37:41Z,jInv -- a flexible Julia package for PDE parameter estimation,Eldad Haber,cs.MS,http://arxiv.org/pdf/1606.07399v2
+1607.00145v2,2016-07-01T08:13:50Z,Design of a high-performance GEMM-like Tensor-Tensor Multiplication,Paolo Bientinesi,cs.MS,http://arxiv.org/pdf/1607.00145v2
+1607.00844v1,2016-07-01T18:59:11Z,Using the pyMIC Offload Module in PyFR,Peter Vincent,cs.MS,http://arxiv.org/pdf/1607.00844v1
+1607.00850v1,2016-07-01T19:05:11Z,Massively parallel implementation in Python of a pseudo-spectral DNS   code for turbulent flows,Mikael Mortensen,cs.MS,http://arxiv.org/pdf/1607.00850v1
+1607.02835v1,2016-07-11T06:51:50Z,Form Follows Function -- Do algorithms and applications challenge or   drag behind the hardware evolution?,Tobias Weinzierl,cs.MS,http://arxiv.org/pdf/1607.02835v1
+1607.04091v2,2016-07-14T11:26:28Z,Generalized Sampling in Julia,Morten Grud Rasmussen,cs.MS,http://arxiv.org/pdf/1607.04091v2
+1607.04245v1,2016-07-14T18:53:48Z,Finite Element Integration with Quadrature on the GPU,Andy R. Terrel,cs.MS,http://arxiv.org/pdf/1607.04245v1
+1607.07892v1,2016-07-26T20:32:29Z,Forward-Mode Automatic Differentiation in Julia,Theodore Papamarkou,cs.MS,http://arxiv.org/pdf/1607.07892v1
+1608.00044v2,2016-07-29T22:37:07Z,An Asynchronous Task-based Fan-Both Sparse Cholesky Solver,Katherine Yelick,cs.MS,http://arxiv.org/pdf/1608.00044v2
+1609.00076v1,2016-09-01T01:11:48Z,BLISlab: A Sandbox for Optimizing GEMM,Robert A. van de Geijn,cs.MS,http://arxiv.org/pdf/1609.00076v1
+1609.00999v1,2016-09-04T23:44:20Z,Automatic Generation of Vectorized Montgomery Algorithm,Lingchuan Meng,cs.MS,http://arxiv.org/pdf/1609.00999v1
+1609.04504v1,2016-09-15T04:09:48Z,cesium: Open-Source Platform for Time-Series Inference,Fernando Pérez,cs.MS,http://arxiv.org/pdf/1609.04504v1
+1611.01120v1,2016-11-03T18:27:00Z,Generating Families of Practical Fast Matrix Multiplication Algorithms,Robert A. van de Geijn,cs.MS,http://arxiv.org/pdf/1611.01120v1
+1611.01534v1,2016-11-03T10:09:13Z,GFA: Exploratory Analysis of Multiple Data Sources with Group Factor   Analysis,Samuel Kaski,cs.MS,http://arxiv.org/pdf/1611.01534v1
+1611.08035v1,2016-11-24T00:01:07Z,Automating the Last-Mile for High Performance Dense Linear Algebra,Franz Franchetti,cs.MS,http://arxiv.org/pdf/1611.08035v1
+1611.09567v1,2016-11-29T11:12:06Z,Moore: Interval Arithmetic in Modern C++,Walter F. Mascarenhas,cs.MS,http://arxiv.org/pdf/1611.09567v1
+1701.05913v1,2017-01-20T19:37:44Z,Scalable linear solvers for sparse linear systems from large-scale   numerical simulations,Zhangxin Chen,cs.MS,http://arxiv.org/pdf/1701.05913v1
+1702.04715v1,2017-02-14T20:49:22Z,Simflowny 2: An upgraded platform for scientific modeling and simulation,J. Massó,cs.MS,http://arxiv.org/pdf/1702.04715v1
+cond-mat/0605570v1,2006-05-23T18:04:56Z,Generalized Box-Muller method for generating q-Gaussian random deviates,Constantino Tsallis,cond-mat.stat-mech,http://arxiv.org/pdf/cond-mat/0605570v1
+cs/9901008v1,1999-01-16T16:54:01Z,Fast Computational Algorithms for the Discrete Wavelet Transform and   Applications of Localized Orthonormal Bases in Signal Classification,Eirik Fossgaard,cs.MS,http://arxiv.org/pdf/cs/9901008v1
+cs/9912021v2,1999-12-31T18:36:38Z,Seeing the Forest in the Tree: Applying VRML to Mathematical Problems in   Number Theory,Neil J. Gunther,cs.MS,http://arxiv.org/pdf/cs/9912021v2
+cs/0001018v1,2000-01-23T20:36:49Z,Adaptive simulated annealing (ASA): Lessons learned,Lester Ingber,cs.MS,http://arxiv.org/pdf/cs/0001018v1
+cs/0201007v2,2002-01-10T15:54:24Z,Algorithm for generating orthogonal matrices with rational elements,Ruslan Sharipov,cs.MS,http://arxiv.org/pdf/cs/0201007v2
+cs/0302026v1,2003-02-19T15:59:28Z,Recursive function templates as a solution of linear algebra expressions   in C++,Volodymyr Myrnyy,cs.MS,http://arxiv.org/pdf/cs/0302026v1
+cs/0307061v1,2003-07-28T09:35:52Z,Boundary knot method for Laplace and biharmonic problems,W. Chen,cs.CE,http://arxiv.org/pdf/cs/0307061v1
+cs/0310055v1,2003-10-28T16:56:44Z,Mace4 Reference Manual and Guide,William McCune,cs.SC,http://arxiv.org/pdf/cs/0310055v1
+cs/0310056v1,2003-10-28T19:17:38Z,OTTER 3.3 Reference Manual,William McCune,cs.SC,http://arxiv.org/pdf/cs/0310056v1
+cs/0401006v1,2004-01-09T12:09:51Z,Cluster computing performances using virtual processors and mathematical   software,Gianluca Argentini,cs.DC,http://arxiv.org/pdf/cs/0401006v1
+cs/0406025v1,2004-06-16T16:33:39Z,Directional Consistency for Continuous Numerical Constraints,Laurent Granvilliers,cs.AI,http://arxiv.org/pdf/cs/0406025v1
+cs/0409033v4,2004-09-17T10:39:45Z,Mean and Variance Estimation by Kriging,Tomasz Suslo,cs.NA,http://arxiv.org/pdf/cs/0409033v4
+cs/0505031v1,2005-05-11T18:50:32Z,Estudo e Implementacao de Algoritmos de Roteamento sobre Grafos em um   Sistema de Informacoes Geograficas,Horacio H. Yanasse,cs.MS,http://arxiv.org/pdf/cs/0505031v1
+cs/0509070v2,2005-09-22T15:45:35Z,A Maple Package for Computing Groebner Bases for Linear Recurrence   Relations,Daniel Robertz,cs.SC,http://arxiv.org/pdf/cs/0509070v2
+cs/0512056v1,2005-12-14T09:54:01Z,PURRS: Towards Computer Algebra Support for Fully Automatic Worst-Case   Complexity Analysis,Enea Zaffanella,cs.MS,http://arxiv.org/pdf/cs/0512056v1
+cs/0512072v1,2005-12-18T16:58:35Z,Computations with one and two real algebraic numbers,Elias P. Tsigaridas,cs.SC,http://arxiv.org/pdf/cs/0512072v1
+cs/0603005v4,2006-03-01T14:29:19Z,A Basic Introduction on Math-Link in Mathematica,Santanu K. Maiti,cs.MS,http://arxiv.org/pdf/cs/0603005v4
+cs/0604038v1,2006-04-10T06:30:02Z,UniCalc.LIN: a linear constraint solver for the UniCalc system,E. Botoeva,cs.MS,http://arxiv.org/pdf/cs/0604038v1
+cs/0605058v1,2006-05-14T17:05:14Z,"A Monadic, Functional Implementation of Real Numbers",Russell O'Connor,cs.NA,http://arxiv.org/pdf/cs/0605058v1
+cs/0605090v4,2006-05-20T05:43:55Z,Mathematica: A System of Computer Programs,Santanu K. Maiti,cs.MS,http://arxiv.org/pdf/cs/0605090v4
+cs/0606023v3,2006-06-06T12:11:23Z,Parallel Evaluation of Mathematica Programs in Remote Computers   Available in Network,Santanu K. Maiti,cs.MS,http://arxiv.org/pdf/cs/0606023v3
+cs/0609129v2,2006-09-22T18:53:17Z,One approach to the digital visualization of hedgehogs in holomorphic   dynamics,Alessandro Rosa,cs.MS,http://arxiv.org/pdf/cs/0609129v2
+cs/0610122v1,2006-10-20T11:22:52Z,Faithful Polynomial Evaluation with Compensated Horner Algorithm,Nicolas Louvet,cs.NA,http://arxiv.org/pdf/cs/0610122v1
+cs/0611127v1,2006-11-24T16:43:06Z,Coupling Methodology within the Software Platform Alliances,Clément Chavant,cs.MS,http://arxiv.org/pdf/cs/0611127v1
+cs/0612036v1,2006-12-06T14:34:29Z,Revisiting Matrix Product on Master-Worker Platforms,Frederic Vivien,cs.DC,http://arxiv.org/pdf/cs/0612036v1
+cs/0612085v1,2006-12-18T10:15:38Z,The Parma Polyhedra Library: Toward a Complete Set of Numerical   Abstractions for the Analysis and Verification of Hardware and Software   Systems,Enea Zaffanella,cs.MS,http://arxiv.org/pdf/cs/0612085v1
+cs/0612126v1,2006-12-22T19:19:41Z,The virtual reality framework for engineering objects,Nikolay P. Ivankov,cs.CE,http://arxiv.org/pdf/cs/0612126v1
+cs/0701122v2,2007-01-19T08:39:34Z,Applications of Polyhedral Computations to the Analysis and Verification   of Hardware and Software Systems,Enea Zaffanella,cs.CG,http://arxiv.org/pdf/cs/0701122v2
+cs/0702010v1,2007-02-01T17:54:50Z,A canonical form for some piecewise defined functions,Jacques Carette,cs.SC,http://arxiv.org/pdf/cs/0702010v1
+0705.2626v1,2007-05-18T02:25:16Z,Block Locally Optimal Preconditioned Eigenvalue Xolvers (BLOPEX) in   hypre and PETSc,E. E. Ovtchinnikov,cs.MS,http://arxiv.org/pdf/0705.2626v1
+0705.4369v1,2007-05-30T11:34:39Z,Computing Integer Powers in Floating-Point Arithmetic,Jean-Michel Muller,cs.NA,http://arxiv.org/pdf/0705.4369v1
+0707.1490v1,2007-07-10T16:23:43Z,Fast computing of velocity field for flows in industrial burners and   pumps,Gianluca Argentini,math.NA,http://arxiv.org/pdf/0707.1490v1
+0707.1716v1,2007-07-11T22:24:48Z,Numerical Calculation With Arbitrary Precision,L. G. S. Duarte,cs.NA,http://arxiv.org/pdf/0707.1716v1
+0708.3721v1,2007-08-28T07:14:29Z,Verified Real Number Calculations: A Library for Interval Arithmetic,César Muñoz,cs.MS,http://arxiv.org/pdf/0708.3721v1
+0708.3722v1,2007-08-28T07:15:08Z,Formally Verified Argument Reduction with a Fused-Multiply-Add,Ren Cang Li,cs.MS,http://arxiv.org/pdf/0708.3722v1
+0709.1272v3,2007-09-09T16:32:46Z,A Class of Parallel Tiled Linear Algebra Algorithms for Multicore   Architectures,Jack Dongarra,cs.MS,http://arxiv.org/pdf/0709.1272v3
+0711.4444v2,2007-11-28T08:04:18Z,Building the Tangent and Adjoint codes of the Ocean General Circulation   Model OPA with the Automatic Differentiation tool TAPENADE,Benjamin Dauvergne,cs.MS,http://arxiv.org/pdf/0711.4444v2
+0801.0523v1,2008-01-03T13:34:03Z,Certifying floating-point implementations using Gappa,Guillaume Melquiond,cs.NA,http://arxiv.org/pdf/0801.0523v1
+0802.2371v1,2008-02-17T09:48:07Z,Generic and Typical Ranks of Three-Way Arrays,J. ten Berge,cs.OH,http://arxiv.org/pdf/0802.2371v1
+0803.0439v1,2008-03-04T13:49:44Z,Optimizing polynomials for floating-point implementation,Christoph Quirin Lauter,cs.NA,http://arxiv.org/pdf/0803.0439v1
+0803.0874v3,2008-03-06T18:45:39Z,A Method for Solving Cyclic Block Penta-diagonal Systems of Linear   Equations,Milan Batista,cs.MS,http://arxiv.org/pdf/0803.0874v3
+0803.3459v1,2008-03-24T20:25:49Z,The QWalk Simulator of Quantum Walks,R. Portugal,quant-ph,http://arxiv.org/pdf/0803.3459v1
+0804.1021v1,2008-04-07T12:37:43Z,Differentiation of Kaltofen's division-free determinant algorithm,Gilles Villard,cs.SC,http://arxiv.org/pdf/0804.1021v1
+0806.3121v1,2008-06-19T02:06:57Z,Algorithmic Based Fault Tolerance Applied to High Performance Computing,Julien Langou,cs.DC,http://arxiv.org/pdf/0806.3121v1
+0808.0554v1,2008-08-05T05:20:51Z,Ranking and Unranking of Hereditarily Finite Functions and Permutations,Paul Tarau,cs.LO,http://arxiv.org/pdf/0808.0554v1
+0812.2769v2,2008-12-15T11:35:17Z,Geometric scaling: a simple preconditioner for certain linear systems   with discontinuous coefficients,Rachel Gordon,cs.MS,http://arxiv.org/pdf/0812.2769v2
+0901.1696v1,2009-01-13T01:08:27Z,"Rectangular Full Packed Format for Cholesky's Algorithm: Factorization,   Solution and Inversion",Julien Langou,cs.MS,http://arxiv.org/pdf/0901.1696v1
+0901.2665v1,2009-01-17T23:36:23Z,A Density Matrix-based Algorithm for Solving Eigenvalue Problems,Eric Polizzi,cs.CE,http://arxiv.org/pdf/0901.2665v1
+0901.4323v1,2009-01-26T21:48:35Z,On the bit-complexity of sparse polynomial multiplication,Grégoire Lecerf,cs.DS,http://arxiv.org/pdf/0901.4323v1
+0902.1040v2,2009-02-06T09:51:09Z,Fast solving of Weighted Pairing Least-Squares systems,Pierre Courrieu,cs.MS,http://arxiv.org/pdf/0902.1040v2
+0902.3088v1,2009-02-18T10:28:45Z,Automatic generation of non-uniform random variates for arbitrary   pointwise computable probability densities by tiling,Guido Germano,cs.MS,http://arxiv.org/pdf/0902.3088v1
+0902.3207v1,2009-02-18T17:53:36Z,Random numbers from the tails of probability distributions using the   transformation method,Guido Germano,cs.MS,http://arxiv.org/pdf/0902.3207v1
+0906.3065v1,2009-06-17T03:29:37Z,Real Solution Isolation with Multiplicity of Zero-Dimensional Triangular   Systems,Bican Xia,cs.SC,http://arxiv.org/pdf/0906.3065v1
+0906.4121v1,2009-06-22T20:29:09Z,On computing the Hermite form of a matrix of differential polynomials,Myung Sub Kim,cs.SC,http://arxiv.org/pdf/0906.4121v1
+0907.0792v1,2009-07-04T20:17:28Z,A generalized inner and outer product of arbitrary multi-dimensional   arrays using A Mathematics of Arrays (MoA),Lenore M. Mullin,cs.MS,http://arxiv.org/pdf/0907.0792v1
+0907.0796v1,2009-07-04T20:38:39Z,"Tensors and n-d Arrays:A Mathematics of Arrays (MoA), psi-Calculus and   the Composition of Tensor and Array Operations",James E. Raynolds,cs.MS,http://arxiv.org/pdf/0907.0796v1
+0908.3091v2,2009-08-21T10:37:52Z,Computational Understanding and Manipulation of Symmetries,Chrystopher L. Nehaniv,cs.AI,http://arxiv.org/pdf/0908.3091v2
+0908.4427v1,2009-08-30T21:53:01Z,Mesh Algorithms for PDE with Sieve I: Mesh Distribution,Dmitry A. Karpeev,cs.CE,http://arxiv.org/pdf/0908.4427v1
+0909.3248v1,2009-09-17T14:58:09Z,Topology of 2D and 3D Rational Curves,Gema Maria Diaz-Toca,cs.SC,http://arxiv.org/pdf/0909.3248v1
+0909.4888v1,2009-09-26T18:52:59Z,Approximating Mathematical Semantic Web Services Using Approximation   Formulas and Numerical Methods,Mugurel Ionut Andreica,cs.MS,http://arxiv.org/pdf/0909.4888v1
+0909.4955v2,2009-09-27T18:47:17Z,On the Different Shapes Arising in a Family of Rational Curves Depending   on a Parameter,Juan Gerardo Alcazar,cs.SC,http://arxiv.org/pdf/0909.4955v2
+0909.4956v1,2009-09-27T19:38:00Z,Local Shape of Generalized Offsets to Algebraic Curves,Juan Gerardo Alcazar,cs.SC,http://arxiv.org/pdf/0909.4956v1
+0911.1783v2,2009-11-09T21:17:43Z,Numerical Algebraic Geometry for Macaulay2,Anton Leykin,math.AG,http://arxiv.org/pdf/0911.1783v2
+1002.2594v1,2010-02-12T16:44:18Z,Fast Arithmetics in Artin-Schreier Towers over Finite Fields,Éric Schost,cs.SC,http://arxiv.org/pdf/1002.2594v1
+1002.2654v1,2010-02-13T01:19:53Z,Assessment Of The Wind Farm Impact On The Radar,Evgeny D. Norman,cs.CV,http://arxiv.org/pdf/1002.2654v1
+1002.3180v1,2010-02-16T22:17:56Z,Factorization of Non-Commutative Polynomials,Fabrizio Caruso,cs.MS,http://arxiv.org/pdf/1002.3180v1
+1002.4057v1,2010-02-22T06:11:41Z,Towards an Efficient Tile Matrix Inversion of Symmetric Positive   Definite Matrices on Multicore Architectures,Lee Rosenberg,cs.MS,http://arxiv.org/pdf/1002.4057v1
+1002.4725v1,2010-02-25T15:42:39Z,Transferring a symbolic polynomial expression from \emph{Mathematica} to   \emph{Matlab},A. Bret,cs.MS,http://arxiv.org/pdf/1002.4725v1
+1008.1700v2,2010-08-10T12:14:09Z,A domain decomposing parallel sparse linear system solver,Murat Manguoglu,cs.NA,http://arxiv.org/pdf/1008.1700v2
+1008.4874v3,2010-08-28T15:26:26Z,Applying dissipative dynamical systems to pseudorandom number   generation: Equidistribution property and statistical independence of bits at   distances up to logarithm of mesh size,L. Yu. Barash,physics.comp-ph,http://arxiv.org/pdf/1008.4874v3
+1010.1456v1,2010-10-07T15:35:24Z,A Hybrid Parallelization of AIM for Multi-Core Clusters: Implementation   Details and Benchmark Results on Ranger,Ali E. Yılmaz,cs.CE,http://arxiv.org/pdf/1010.1456v1
+1011.3318v1,2010-11-15T09:12:23Z,Domain Decomposition method on GPU cluster,Ken-Ichi Ishikawa,hep-lat,http://arxiv.org/pdf/1011.3318v1
+1101.3218v3,2011-01-17T14:06:26Z,A Symbolic Transformation Language and its Application to a Multiscale   Method,Michel Lenczner,cs.SC,http://arxiv.org/pdf/1101.3218v3
+1101.5151v1,2011-01-27T03:16:16Z,Simulation of Self-Assembly in the Abstract Tile Assembly Model with ISU   TAS,Matthew J. Patitz,cs.MS,http://arxiv.org/pdf/1101.5151v1
+1102.3774v1,2011-02-18T08:00:01Z,Quantum Anticipation Explorer,Hans-Rudolf Thomann,cs.MS,http://arxiv.org/pdf/1102.3774v1
+1105.6314v1,2011-05-31T15:25:33Z,Activity-Based Search for Black-Box Contraint-Programming Solvers,P. Van Hentenryck,cs.AI,http://arxiv.org/pdf/1105.6314v1
+1106.2176v2,2011-06-10T21:02:40Z,A Tuned and Scalable Fast Multipole Method as a Preeminent Algorithm for   Exascale Systems,Lorena Barba,cs.NA,http://arxiv.org/pdf/1106.2176v2
+1106.2263v1,2011-06-11T22:32:32Z,A Library for Implementing the Multiple Hypothesis Tracking Algorithm,José Gaspar,cs.DS,http://arxiv.org/pdf/1106.2263v1
+1106.4448v2,2011-06-22T13:58:58Z,Tactics for Reasoning modulo AC in Coq,Damien Pous,cs.MS,http://arxiv.org/pdf/1106.4448v2
+1107.3212v1,2011-07-16T09:06:49Z,Licensing the Mizar Mathematical Library,Lionel Mamane,cs.DL,http://arxiv.org/pdf/1107.3212v1
+1108.1548v3,2011-08-07T15:09:34Z,Some Software Packages for Partial SVD Computation,Zhouchen Lin,math.OC,http://arxiv.org/pdf/1108.1548v3
+1108.5815v2,2011-08-30T03:27:14Z,Hierarchical N-body simulations with auto-tuning for heterogeneous   systems,Lorena A. Barba,cs.NA,http://arxiv.org/pdf/1108.5815v2
+1110.3233v1,2011-10-14T15:04:14Z,Metaprogramming Applied to Numerical Problems,Karsten Ahnert,physics.comp-ph,http://arxiv.org/pdf/1110.3233v1
+1110.4473v1,2011-10-20T08:48:32Z,Proceedings 10th International Workshop on the ACL2 Theorem Prover and   its Applications,Julien Schmaltz,cs.LO,http://arxiv.org/pdf/1110.4473v1
+1110.5765v1,2011-10-26T11:17:21Z,Throughput-Distortion Computation Of Generic Matrix Multiplication:   Toward A Computation Channel For Digital Signal Processing Systems,Yiannis Andreopoulos,cs.MS,http://arxiv.org/pdf/1110.5765v1
+1111.3124v1,2011-11-14T07:50:31Z,A multiprecision matrix calculation library and its extension library   for a matrix-product-state simulation of quantum computing,Akira SaiToh,cs.MS,http://arxiv.org/pdf/1111.3124v1
+1111.3606v3,2011-11-15T18:32:29Z,tym: Typed Matlab,Hamid A. Toussi,cs.PL,http://arxiv.org/pdf/1111.3606v3
+1111.6549v1,2011-11-28T18:55:12Z,Efficient Dense Gaussian Elimination over the Finite Field with Two   Elements,Clément Pernet,cs.MS,http://arxiv.org/pdf/1111.6549v1
+1201.0490v3,2012-01-02T16:42:40Z,Scikit-learn: Machine Learning in Python,Édouard Duchesnay,cs.LG,http://arxiv.org/pdf/1201.0490v3
+1201.0499v1,2012-01-02T17:10:49Z,Evaluating polynomials in several variables and their derivatives on a   GPU computing processor,Genady Yoffe,cs.MS,http://arxiv.org/pdf/1201.0499v1
+1202.1055v1,2012-02-06T06:45:53Z,The Optimal Uncertainty Algorithm in the Mystic Framework,M. Ortiz,cs.DM,http://arxiv.org/pdf/1202.1055v1
+1202.1490v1,2012-02-07T18:37:07Z,Singular Values using Cholesky Decomposition,Kenan Kocagoez,cs.MS,http://arxiv.org/pdf/1202.1490v1
+1202.4061v2,2012-02-18T06:49:39Z,Implementation of a Unimodularity Test,Klaus Truemper,math.CO,http://arxiv.org/pdf/1202.4061v2
+1202.4830v1,2012-02-22T06:41:37Z,Automatic Deduction in Dynamic Geometry using Sage,Miguel A. Abánades,cs.MS,http://arxiv.org/pdf/1202.4830v1
+1202.4833v1,2012-02-22T06:42:02Z,Integrating DGSs and GATPs in an Adaptative and Collaborative   Blended-Learning Web-Environment,Pedro Quaresma,cs.CG,http://arxiv.org/pdf/1202.4833v1
+1202.4837v1,2012-02-22T06:43:11Z,The GF Mathematics Library,Sebastian Xambó,cs.MS,http://arxiv.org/pdf/1202.4837v1
+1203.1023v1,2012-03-05T19:49:02Z,"Can the Eureqa symbolic regression program, computer algebra and   numerical analysis help each other?",David R. Stoutemyer,cs.MS,http://arxiv.org/pdf/1203.1023v1
+1203.1295v1,2012-03-06T19:51:48Z,Subtotal ordering -- a pedagogically advantageous algorithm for   computing total degree reverse lexicographic order,David R. Stoutemyer,cs.SC,http://arxiv.org/pdf/1203.1295v1
+1203.1350v1,2012-03-06T23:02:46Z,Simplifying products of fractional powers of powers,David R. Stoutemyer,cs.SC,http://arxiv.org/pdf/1203.1350v1
+1203.1357v1,2012-03-07T00:34:35Z,Series misdemeanors,David R. Stoutemyer,cs.SC,http://arxiv.org/pdf/1203.1357v1
+1203.4009v1,2012-03-18T23:51:19Z,Scilab and SIP for Image Processing,Luciano da Fontoura Costa,cs.MS,http://arxiv.org/pdf/1203.4009v1
+1203.5846v1,2012-03-27T00:31:28Z,Series Crimes,David R. Stoutemyer,cs.SC,http://arxiv.org/pdf/1203.5846v1
+1204.3853v2,2012-04-17T17:25:52Z,Block-Structured Adaptive Mesh Refinement Algorithms for Vlasov   Simulation,J. W. Banks,cs.MS,http://arxiv.org/pdf/1204.3853v2
+1204.5086v1,2012-04-23T15:29:30Z,Reimplementing the Mathematical Subject Classification (MSC) as a Linked   Open Dataset,Ioannis Antoniou,cs.DL,http://arxiv.org/pdf/1204.5086v1
+1204.5094v2,2012-04-23T16:05:46Z,Point-and-write --- Documenting Formal Mathematics by Reference,Josef Urban,cs.MS,http://arxiv.org/pdf/1204.5094v2
+1205.0790v2,2012-05-03T18:24:54Z,Automating embedded analysis capabilities and managing software   complexity in multiphysics simulation part I: template-based generic   programming,Andrew G. Salinger,cs.MS,http://arxiv.org/pdf/1205.0790v2
+1205.2107v2,2012-05-09T21:20:55Z,High-Performance Solvers for Dense Hermitian Eigenproblems,Paolo Bientinesi,cs.MS,http://arxiv.org/pdf/1205.2107v2
+1205.3506v1,2012-05-15T20:42:23Z,Efficient Expression Templates for Operator Overloading-based Automatic   Differentiation,Roger Pawlowski,cs.MS,http://arxiv.org/pdf/1205.3506v1
+1205.3952v1,2012-05-17T15:18:00Z,Automating embedded analysis capabilities and managing software   complexity in multiphysics simulation part II: application to partial   differential equations,Matthew L. Staten,cs.MS,http://arxiv.org/pdf/1205.3952v1
+1205.4212v1,2012-05-17T07:32:57Z,Sample programs in C++ for matrix computations in max plus algebra,Gheorghe Ivan,cs.MS,http://arxiv.org/pdf/1205.4212v1
+1206.0141v2,2012-06-01T10:36:53Z,Parallelizing Mizar,Josef Urban,cs.MS,http://arxiv.org/pdf/1206.0141v2
+1206.3215v2,2012-06-14T19:07:42Z,Performance of FORTRAN and C GPU Extensions for a Benchmark Suite of   Fourier Pseudospectral Algorithms,P. Rigge,physics.comp-ph,http://arxiv.org/pdf/1206.3215v2
+1207.1916v1,2012-07-08T21:52:03Z,"How good are MatLab, Octave and Scilab for Computational Modelling?",Alejandro C. Frery,cs.MS,http://arxiv.org/pdf/1207.1916v1
+1207.2291v1,2012-07-10T10:21:34Z,On Formal Specification of Maple Programs,Wolfgang Schreiner,cs.MS,http://arxiv.org/pdf/1207.2291v1
+1208.6465v1,2012-08-31T11:32:31Z,Parallel Random Search Algorithm of Constrained Pseudo-Boolean   Optimization for Some Distinctive Large-Scale Problems,Lev Kazakovtsev,cs.DC,http://arxiv.org/pdf/1208.6465v1
+1209.4233v1,2012-09-18T15:17:10Z,Writing Reusable Digital Geometry Algorithms in a Generic Image   Processing Framework,Laurent Najman,cs.MS,http://arxiv.org/pdf/1209.4233v1
+1209.5429v4,2012-09-24T21:24:17Z,copulaedas: An R Package for Estimation of Distribution Algorithms Based   on Copulas,Marta Soto,cs.NE,http://arxiv.org/pdf/1209.5429v4
+1209.6626v3,2012-09-28T19:52:06Z,On Newton-Raphson iteration for multiplicative inverses modulo prime   powers,Jean-Guillaume Dumas,cs.SC,http://arxiv.org/pdf/1209.6626v3
+1210.0530v4,2012-10-01T01:04:04Z,Best Practices for Scientific Computing,Paul Wilson,cs.MS,http://arxiv.org/pdf/1210.0530v4
+1210.2536v1,2012-10-09T09:19:43Z,SMAT: An Input Adaptive Sparse Matrix-Vector Multiplication Auto-Tuner,Mingyu Chen,cs.MS,http://arxiv.org/pdf/1210.2536v1
+1210.2951v1,2012-10-10T15:13:55Z,Regular and Singular Boundary Problems in Maple,Markus Rosenkranz,cs.SC,http://arxiv.org/pdf/1210.2951v1
+1210.4539v2,2012-10-16T19:52:16Z,A Robust Complex Division in Scilab,Robert L. Smith,cs.MS,http://arxiv.org/pdf/1210.4539v2
+1210.4662v1,2012-10-17T08:09:08Z,A New Recursive Algorithm For Inverting A General Comrade Matrix,A. A. Karawia,cs.SC,http://arxiv.org/pdf/1210.4662v1
+1302.5674v3,2013-01-20T18:37:47Z,Factorization of Z-homogeneous polynomials in the First (q)-Weyl Algebra,Viktor Levandovskyy,cs.SC,http://arxiv.org/pdf/1302.5674v3
+1303.1651v2,2013-03-07T11:40:27Z,Model-guided Performance Analysis of the Sparse Matrix-Matrix   Multiplication,Ulrich Ruede,cs.PF,http://arxiv.org/pdf/1303.1651v2
+1304.1864v3,2013-04-06T08:14:25Z,Improved Accuracy and Parallelism for MRRR-based Eigensolvers -- A Mixed   Precision Approach,Paolo Bientinesi,cs.NA,http://arxiv.org/pdf/1304.1864v3
+1304.5546v1,2013-04-19T21:07:10Z,Solving Wave Equations on Unstructured Geometries,Jan S. Hesthaven,cs.MS,http://arxiv.org/pdf/1304.5546v1
+1304.6782v2,2013-04-25T01:21:48Z,"Minimal Residual Methods for Complex Symmetric, Skew Symmetric, and Skew   Hermitian Systems",Choi,cs.MS,http://arxiv.org/pdf/1304.6782v2
+1304.7049v1,2013-04-26T01:43:09Z,Subspace-preserving sparsification of matrices with minimal perturbation   to the near null-space. Part I: Basics,Chetan Jhurani,math.NA,http://arxiv.org/pdf/1304.7049v1
+1304.7050v1,2013-04-26T01:44:09Z,Subspace-preserving sparsification of matrices with minimal perturbation   to the near null-space. Part II: Approximation and Implementation,Chetan Jhurani,math.NA,http://arxiv.org/pdf/1304.7050v1
+1304.7123v1,2013-04-26T10:59:21Z,Proceedings International Workshop on the ACL2 Theorem Prover and its   Applications,Jared Davis,cs.LO,http://arxiv.org/pdf/1304.7123v1
+1304.7223v3,2013-04-26T16:46:48Z,Understanding Branch Cuts of Expressions,David Wilson,cs.MS,http://arxiv.org/pdf/1304.7223v3
+1304.7861v1,2013-04-30T04:14:44Z,Verified AIG Algorithms in ACL2,Sol Swords,cs.LO,http://arxiv.org/pdf/1304.7861v1
+1307.1343v1,2013-07-04T14:21:49Z,"Building Bricks with Bricks, with Mathematica",Daniele Filaretti,cs.MS,http://arxiv.org/pdf/1307.1343v1
+1307.1348v1,2013-07-04T14:29:01Z,Making simple proofs simpler,Corrado Monti,cs.MS,http://arxiv.org/pdf/1307.1348v1
+1307.1352v1,2013-07-04T14:33:31Z,A Mathematica package to cope with partially ordered sets,Pietro Codara,cs.MS,http://arxiv.org/pdf/1307.1352v1
+1307.2100v1,2013-07-08T14:12:46Z,Towards an Efficient Use of the BLAS Library for Multilinear Tensor   Contractions,Paolo Bientinesi,cs.MS,http://arxiv.org/pdf/1307.2100v1
+1307.5866v1,2013-07-22T20:15:34Z,"RNGSSELIB: Program library for random number generation. More   generators, parallel streams of random numbers and Fortran compatibility",L. N. Shchur,physics.comp-ph,http://arxiv.org/pdf/1307.5866v1
+1307.5869v2,2013-07-22T20:21:20Z,PRAND: GPU accelerated parallel random number generation library: Using   most reliable algorithms and applying parallelism of modern GPUs and CPUs,L. N. Shchur,physics.comp-ph,http://arxiv.org/pdf/1307.5869v2
+1307.6209v2,2013-07-23T12:50:28Z,A unified sparse matrix data format for efficient general sparse   matrix-vector multiply on modern processors with wide SIMD units,Alan R. Bishop,cs.MS,http://arxiv.org/pdf/1307.6209v2
+1307.7042v1,2013-07-26T14:18:21Z,Python for education: permutations,Andrzej Kapanowski,cs.MS,http://arxiv.org/pdf/1307.7042v1
+1310.3297v1,2013-10-11T21:17:59Z,Bertini for Macaulay2,Jose Israel Rodriguez,math.AG,http://arxiv.org/pdf/1310.3297v1
+1311.0681v1,2013-11-04T12:50:09Z,Computation of the Marcum Q-function,N. M. Temme,cs.MS,http://arxiv.org/pdf/1311.0681v1
+1311.1753v1,2013-11-07T17:18:42Z,GooFit: A library for massively parallelising maximum-likelihood fits,K. Tomko,cs.DC,http://arxiv.org/pdf/1311.1753v1
+1404.4410v2,2014-04-17T01:31:39Z,A heuristic prover for real inequalities,Cody Roux,cs.MS,http://arxiv.org/pdf/1404.4410v2
+1404.6383v2,2014-04-25T10:53:23Z,Bloscpack: a compressed lightweight serialization format for numerical   data,Valentin Haenel,cs.MS,http://arxiv.org/pdf/1404.6383v2
+1404.6388v2,2014-04-25T10:55:48Z,Performance of Python runtimes on a non-numeric scientific code,Riccardo Murri,cs.MS,http://arxiv.org/pdf/1404.6388v2
+1405.0700v1,2014-05-04T14:12:53Z,PLQCD library for Lattice QCD on multi-core machines,N. Papadopoulou,hep-lat,http://arxiv.org/pdf/1405.0700v1
+1405.3426v1,2014-05-14T09:43:09Z,Hipster: Integrating Theory Exploration in a Proof Assistant,Koen Claessen,cs.LO,http://arxiv.org/pdf/1405.3426v1
+1405.3630v1,2013-12-20T10:29:47Z,DDscat.C++ User and programmer guide,Vasyl Choliy,physics.comp-ph,http://arxiv.org/pdf/1405.3630v1
+1405.4644v1,2014-05-19T09:03:58Z,Changing Computing Paradigms Towards Power Efficiency,Alessandro Curioni,cs.MS,http://arxiv.org/pdf/1405.4644v1
+1405.4921v1,2014-05-19T23:53:58Z,Zgoubi: A startup guide for the complete beginner,Kai Hock,physics.acc-ph,http://arxiv.org/pdf/1405.4921v1
+1405.5956v1,2014-05-23T03:05:42Z,Realms: A Structure for Consolidating Knowledge about Mathematical   Theories,Michael Kohlhase,cs.MS,http://arxiv.org/pdf/1405.5956v1
+1407.0039v1,2014-06-27T00:13:14Z,Integer formula encoding SageTeX package,Edinah K. Gnang,cs.MS,http://arxiv.org/pdf/1407.0039v1
+1407.3189v1,2014-07-11T15:05:33Z,A modern resistive magnetohydrodynamics solver using C++ and the Boost   library,Lukas Einkemmer,cs.NA,http://arxiv.org/pdf/1407.3189v1
+1407.6245v1,2014-07-23T14:55:21Z,scikit-image: Image processing in Python,the scikit-image contributors,cs.MS,http://arxiv.org/pdf/1407.6245v1
+1407.6954v3,2014-07-25T16:12:26Z,The DUNE-ALUGrid Module,Martin Nolte,cs.MS,http://arxiv.org/pdf/1407.6954v3
+1507.02506v1,2015-07-09T13:38:55Z,GenASiS Basics: Object-oriented utilitarian functionality for   large-scale physics simulations,Reuben D. Budiardja,astro-ph.IM,http://arxiv.org/pdf/1507.02506v1
+1507.08101v3,2015-07-29T11:08:57Z,GHOST: Building blocks for high performance sparse linear algebra on   heterogeneous systems,Gerhard Wellein,cs.DC,http://arxiv.org/pdf/1507.08101v3
+0910.1923v1,2009-10-10T14:42:28Z,A Branch and Cut Algorithm for the Halfspace Depth Problem,Dan Chen,cs.CG,http://arxiv.org/pdf/0910.1923v1
+0910.5370v1,2009-10-28T01:48:42Z,Isogenies of Elliptic Curves: A Computational Approach,Daniel Shumow,cs.CR,http://arxiv.org/pdf/0910.5370v1
+1003.3689v2,2010-03-18T22:56:57Z,A Highly Efficient Parallel Algorithm for Computing the Fiedler Vector,Murat Manguoglu,cs.NA,http://arxiv.org/pdf/1003.3689v2
+1005.0080v1,2010-05-01T15:06:32Z,Electronic Geometry Textbook: A Geometric Textbook Knowledge Management   System,Xiaoyu Chen,cs.AI,http://arxiv.org/pdf/1005.0080v1
+1005.2314v1,2010-05-13T13:22:04Z,Some comments on C. S. Wallace's random number generators,Richard P. Brent,cs.MS,http://arxiv.org/pdf/1005.2314v1
+1005.3153v2,2010-05-18T10:42:40Z,NZMATH 1.0,Shigenori Uchiyama,math.NT,http://arxiv.org/pdf/1005.3153v2
+1006.0401v1,2010-06-02T14:30:40Z,Making big steps in trajectories,Margarita Korovina,cs.MS,http://arxiv.org/pdf/1006.0401v1
+1006.0758v2,2010-06-04T00:16:09Z,LSMR: An iterative algorithm for sparse least-squares problems,Michael Saunders,cs.MS,http://arxiv.org/pdf/1006.0758v2
+1006.4057v1,2010-06-21T13:00:22Z,Towards OpenMath Content Dictionaries as Linked Data,Christoph Lange,cs.DL,http://arxiv.org/pdf/1006.4057v1
+1103.0066v1,2011-03-01T02:05:42Z,Finite Element Integration on GPUs,Andy R. Terrel,cs.MS,http://arxiv.org/pdf/1103.0066v1
+1103.1482v1,2011-03-08T10:12:40Z,"The Planetary System: Executable Science, Technology, Engineering and   Math Papers",Vyacheslav Zholudev,cs.DL,http://arxiv.org/pdf/1103.1482v1
+1103.2405v1,2011-03-12T01:04:56Z,Fast Sparse Matrix-Vector Multiplication on GPUs: Implications for Graph   Mining,Ponnuswamy Sadayappan,cs.NA,http://arxiv.org/pdf/1103.2405v1
+1103.2952v1,2011-03-14T15:20:46Z,Data sets of very large linear feasibility problems solved by projection   methods,Wei Chen,cs.MS,http://arxiv.org/pdf/1103.2952v1
+1103.3020v1,2011-03-15T20:27:16Z,A study of the existing linear algebra libraries that you can use from   C++ (Une étude des bibliothèques d'algèbre linéaire utilisables en   C++),Claire Mouton,cs.MS,http://arxiv.org/pdf/1103.3020v1
+1103.6248v1,2011-03-31T17:29:27Z,DOLFIN: Automated Finite Element Computing,Garth N. Wells,cs.MS,http://arxiv.org/pdf/1103.6248v1
+1104.0689v1,2011-04-04T20:52:03Z,Algorithms for Computing Triangular Decompositions of Polynomial Systems,Marc Moreno Maza,cs.SC,http://arxiv.org/pdf/1104.0689v1
+1112.5717v2,2011-12-24T11:30:09Z,Rank-profile revealing Gaussian elimination and the CUP matrix   decomposition,Arne Storjohann,cs.MS,http://arxiv.org/pdf/1112.5717v2
+1211.0582v1,2012-11-02T23:55:22Z,High-Order Discontinuous Galerkin Methods by GPU Metaprogramming,Jan S. Hesthaven,cs.MS,http://arxiv.org/pdf/1211.0582v1
+1211.2075v1,2012-11-09T08:55:53Z,A multi-scale code for flexible hybrid simulations,O. Lopez-Acevedo,physics.comp-ph,http://arxiv.org/pdf/1211.2075v1
+1301.0763v1,2013-01-04T16:25:56Z,Improved QFT algorithm for power-of-two FFT,Lorenzo Pasquini,cs.DS,http://arxiv.org/pdf/1301.0763v1
+1301.1704v1,2013-01-08T21:57:20Z,Parallel Algorithms for Constructing Data Structures for Fast Multipole   Methods,Ramani Duraiswami,cs.MS,http://arxiv.org/pdf/1301.1704v1
+1301.4438v1,2013-01-18T17:23:01Z,Simultaneous computation of the row and column rank profiles,Ziad Sultan,cs.NA,http://arxiv.org/pdf/1301.4438v1
+1301.7744v3,2013-01-31T20:39:44Z,Exploiting Symmetry in Tensors for High Performance: Multiplication with   Symmetric Tensors,Tamara G. Kolda,math.NA,http://arxiv.org/pdf/1301.7744v3
+1305.3215v1,2013-05-14T17:21:29Z,A computer algebra user interface manifesto,David R. Stoutemyer,cs.SC,http://arxiv.org/pdf/1305.3215v1
+1305.4452v3,2013-05-20T07:26:33Z,PetIGA: A Framework for High-Performance Isogeometric Analysis,V. M. Calo,cs.MS,http://arxiv.org/pdf/1305.4452v3
+1305.4886v1,2013-05-21T17:08:54Z,Parallelizing Gaussian Process Calculations in R,Rollin C. Thomas,stat.CO,http://arxiv.org/pdf/1305.4886v1
+1305.5710v1,2013-05-24T12:26:45Z,Formal Mathematics on Display: A Wiki for Flyspeck,Herman Geuvers,cs.MS,http://arxiv.org/pdf/1305.5710v1
+1306.1036v1,2013-06-05T09:53:29Z,swMATH - a new information service for mathematical software,Wolfram Sperber,cs.DL,http://arxiv.org/pdf/1306.1036v1
+1306.3198v1,2013-06-13T19:06:45Z,A Universal Machine for Biform Theory Graphs,Florian Rabe,cs.LO,http://arxiv.org/pdf/1306.3198v1
+1306.5526v1,2013-06-24T07:33:16Z,Programs in C++ for matrix computations in min plus algebra,Gheorghe Ivan,math.RA,http://arxiv.org/pdf/1306.5526v1
+1306.5583v1,2013-06-24T11:44:30Z,vSMC: Parallel Sequential Monte Carlo in C++,Yan Zhou,stat.CO,http://arxiv.org/pdf/1306.5583v1
+1308.1464v1,2013-08-07T02:24:20Z,ManyClaw: Slicing and dicing Riemann solvers for next generation highly   parallel architectures,Kyle T. Mandli,cs.CE,http://arxiv.org/pdf/1308.1464v1
+1308.6523v1,2013-08-29T17:06:18Z,Branch Cuts in Maple 17,D. Wilson,cs.SC,http://arxiv.org/pdf/1308.6523v1
+1309.0238v1,2013-09-01T16:22:48Z,API design for machine learning software: experiences from the   scikit-learn project,Gaël Varoquaux,cs.LG,http://arxiv.org/pdf/1309.0238v1
+1309.1199v1,2013-09-04T22:22:52Z,Experiences with Automated Build and Test for Geodynamics Simulation   Codes,Louise H. Kellogg,cs.CE,http://arxiv.org/pdf/1309.1199v1
+1309.1204v2,2013-09-04T23:03:33Z,Achieving High Performance with Unified Residual Evaluation,Barry F. Smith,cs.MS,http://arxiv.org/pdf/1309.1204v2
+1309.1783v2,2013-09-06T21:55:23Z,DUNE as an Example of Sustainable Open Source Scientific Software   Development,Makus Blatt,cs.MS,http://arxiv.org/pdf/1309.1783v2
+1309.5377v1,2013-09-06T15:07:47Z,Advanced Techniques for Scientific Programming and Collaborative   Development of Open Source Software Packages at the International Centre for   Theoretical Physics (ICTP),Shawn T. Brown,cs.SE,http://arxiv.org/pdf/1309.5377v1
+1312.2873v2,2013-12-10T16:58:04Z,Efficient Random-Walk Methods for Approximating Polytope Volume,Vissarion Fisikopoulos,cs.CG,http://arxiv.org/pdf/1312.2873v2
+1312.3270v2,2013-12-11T18:25:46Z,Misfortunes of a mathematicians' trio using Computer Algebra Systems:   Can we trust?,Juan L. Varona,cs.SC,http://arxiv.org/pdf/1312.3270v2
+1401.0763v1,2014-01-04T01:31:48Z,A Study of Successive Over-relaxation Method Parallelization Over Modern   HPC Languages,Sparsh Mittal,cs.DC,http://arxiv.org/pdf/1401.0763v1
+1401.1290v1,2014-01-07T07:07:49Z,Program Verification of Numerical Computation,Garry Pantelis,cs.MS,http://arxiv.org/pdf/1401.1290v1
+1401.2248v4,2014-01-10T08:12:46Z,"Boolean Functions, Quantum Gates, Hamilton Operators, Spin Systems and   Computer Algebra",Willi-Hans Steeb,cs.MS,http://arxiv.org/pdf/1401.2248v4
+1402.0622v1,2014-02-04T05:52:47Z,Divide-And-Conquer Computation of Cylindrical Algebraic Decomposition,Adam Strzebonski,cs.SC,http://arxiv.org/pdf/1402.0622v1
+1402.3809v2,2014-02-16T15:43:05Z,Toward Resilient Algorithms and Applications,Michael A. Heroux,cs.MS,http://arxiv.org/pdf/1402.3809v2
+1403.1140v1,2014-03-05T14:14:12Z,Matrix Methods for Solving Algebraic Systems,Ioannis Z. Emiris,cs.MS,http://arxiv.org/pdf/1403.1140v1
+1403.2630v1,2014-03-11T16:23:23Z,A SageTeX Hypermatrix Algebra Package,Yuval Filmus,cs.MS,http://arxiv.org/pdf/1403.2630v1
+1403.7645v1,2014-03-29T16:30:21Z,Using RngStreams for Parallel Random Number Generation in C++ and R,Dennis Young,cs.MS,http://arxiv.org/pdf/1403.7645v1
+1406.0292v1,2014-06-02T08:44:33Z,Interactive Simplifier Tracing and Debugging in Isabelle,Lars Hupel,cs.MS,http://arxiv.org/pdf/1406.0292v1
+1406.1238v1,2014-06-04T23:49:33Z,Proceedings Twelfth International Workshop on the ACL2 Theorem Prover   and its Applications,Julien Schmaltz,cs.LO,http://arxiv.org/pdf/1406.1238v1
+1406.1561v1,2014-06-06T01:48:16Z,Formal Verification of Medina's Sequence of Polynomials for   Approximating Arctangent,John Cowles,cs.LO,http://arxiv.org/pdf/1406.1561v1
+1406.1796v1,2014-06-06T19:22:44Z,A Generic Numbering System based on Catalan Families of Combinatorial   Objects,Paul Tarau,cs.MS,http://arxiv.org/pdf/1406.1796v1
+1406.2079v4,2014-06-09T05:36:44Z,Program Verification of Numerical Computation - Part 2,Garry Pantelis,cs.LO,http://arxiv.org/pdf/1406.2079v4
+1406.2266v1,2014-06-06T01:47:12Z,Industrial-Strength Documentation for ACL2,Matt Kaufmann,cs.SE,http://arxiv.org/pdf/1406.2266v1
+1406.5550v2,2014-06-20T22:31:25Z,ViDaExpert: user-friendly tool for nonlinear visualization and analysis   of multidimensional vectorial data,Andrei Zinovyev,cs.MS,http://arxiv.org/pdf/1406.5550v2
+1408.0074v1,2014-08-01T04:29:30Z,Software for Computing the Spheroidal Wave Functions Using Arbitrary   Precision Arithmetic,Ramani Duraiswami,cs.MS,http://arxiv.org/pdf/1408.0074v1
+1408.5535v3,2014-08-23T23:19:39Z,A Preconditioned Hybrid SVD Method for Computing Accurately Singular   Triplets of Large Matrices,Andreas Stathopoulos,cs.NA,http://arxiv.org/pdf/1408.5535v3
+1409.4618v2,2014-09-16T13:08:47Z,Fast MATLAB assembly of FEM matrices in 2D and 3D: Edge elements,Jan Valdman,cs.MS,http://arxiv.org/pdf/1409.4618v2
+1409.7316v1,2014-09-25T16:20:16Z,An Analysis of Publication Venues for Automatic Differentiation Research,Barak A. Pearlmutter,cs.DL,http://arxiv.org/pdf/1409.7316v1
+1409.8608v1,2014-09-30T15:54:13Z,On the Performance Prediction of BLAS-based Tensor Contractions,Paolo Bientinesi,cs.MS,http://arxiv.org/pdf/1409.8608v1
+1410.0564v1,2014-10-02T14:27:17Z,Automatic Generation of Loop-Invariants for Matrix Operations,Paolo Bientinesi,cs.MS,http://arxiv.org/pdf/1410.0564v1
+1410.0567v1,2014-10-02T14:33:43Z,Knowledge-Based Automatic Generation of Partitioned Matrix Expressions,Paolo Bientinesi,cs.MS,http://arxiv.org/pdf/1410.0567v1
+1410.1764v1,2014-10-03T20:53:26Z,Chemora: A PDE Solving Framework for Modern HPC Architectures,Frank Löffler,cs.MS,http://arxiv.org/pdf/1410.1764v1
+1410.5263v2,2014-10-20T13:18:33Z,Building pattern recognition applications with the SPARE library,Fabio Massimo Frattale Mascioli,cs.CV,http://arxiv.org/pdf/1410.5263v2
+1410.7176v2,2014-10-27T10:35:42Z,Efficient implementation of elementary functions in the medium-precision   range,Fredrik Johansson,cs.MS,http://arxiv.org/pdf/1410.7176v2
+1410.8507v1,2014-10-30T19:29:08Z,External Use of TOPCAT's Plotting Library,M. B. Taylor,astro-ph.IM,http://arxiv.org/pdf/1410.8507v1
+1411.2860v1,2014-11-11T15:59:35Z,Precision-Energy-Throughput Scaling Of Generic Matrix Multiplication and   Convolution Kernels Via Linear Projections,Yiannis Andreopoulos,cs.MM,http://arxiv.org/pdf/1411.2860v1
+1412.3510v1,2014-12-11T00:52:41Z,An implementation of a randomized algorithm for principal component   analysis,Mark Tygert,stat.CO,http://arxiv.org/pdf/1412.3510v1
+1412.4690v2,2014-12-15T17:36:45Z,GPTIPS 2: an open-source software platform for symbolic data mining,Dominic P. Searson,cs.MS,http://arxiv.org/pdf/1412.4690v2
+1412.4825v1,2014-12-15T22:27:57Z,Efficient SIMD RNG for Varying-Parameter Streams: C++ Class BatchRNG,Mansour T. A. Sharabiani,stat.CO,http://arxiv.org/pdf/1412.4825v1
+1412.5720v1,2014-12-18T05:07:44Z,FlexDM: Enabling robust and reliable parallel data mining using WEKA,Alexandre Mendes,cs.MS,http://arxiv.org/pdf/1412.5720v1
+1412.6395v1,2014-12-19T15:51:21Z,"SClib, a hack for straightforward embedded C functions in Python",Hector E. Martinez,cs.MS,http://arxiv.org/pdf/1412.6395v1
+1412.7030v1,2014-12-22T15:47:51Z,Proceedings of the 7th European Conference on Python in Science   (EuroSciPy 2014),Nelle Varoquaux,cs.CE,http://arxiv.org/pdf/1412.7030v1
+1501.00324v1,2015-01-01T21:57:19Z,A New Sparse Matrix Vector Multiplication GPU Algorithm Designed for   Finite Element Problems,Eric Darve,cs.MS,http://arxiv.org/pdf/1501.00324v1
+1501.05709v1,2015-01-23T04:16:04Z,"Associative Arrays: Unified Mathematics for Spreadsheets, Databases,   Matrices, and Graphs",Hayden Jansen,cs.DB,http://arxiv.org/pdf/1501.05709v1
+1501.07350v2,2015-01-29T06:12:52Z,Performance Tuning of a Parallel 3-D FFT Package OpenFFT,Taisuke Ozaki,cs.MS,http://arxiv.org/pdf/1501.07350v2
+1502.05366v3,2015-02-18T20:13:26Z,"RSVDPACK: An implementation of randomized algorithms for computing the   singular value, interpolative, and CUR decompositions of matrices on   multi-core and GPU architectures",Per-Gunnar Martinsson,math.NA,http://arxiv.org/pdf/1502.05366v3
+1502.07191v4,2015-02-25T15:07:30Z,Construction and implementation of asymptotic expansions for   Jacobi--type orthogonal polynomials,Peter Opsomer,cs.MS,http://arxiv.org/pdf/1502.07191v4
+1503.01095v1,2015-03-03T20:40:39Z,libRoadRunner: A High Performance SBML Simulation and Analysis Library,Herbert M. Sauro,q-bio.SC,http://arxiv.org/pdf/1503.01095v1
+1503.08376v1,2015-03-29T01:51:49Z,Assessing Excel VBA Suitability for Monte Carlo Simulation,Alexei Botchkarev,cs.MS,http://arxiv.org/pdf/1503.08376v1
+1504.01329v1,2015-04-06T17:26:32Z,Achieving algorithmic resilience for temporal integration through   spectral deferred corrections,J. B. Bell,cs.CE,http://arxiv.org/pdf/1504.01329v1
+1504.01380v2,2015-04-06T16:00:32Z,The swept rule for breaking the latency barrier in time advancing PDEs,Qiqi Wang,cs.CE,http://arxiv.org/pdf/1504.01380v2
+1504.04714v1,2015-04-18T12:46:33Z,Enhancing the scalability and load balancing of the parallel selected   inversion algorithm via tree-based asynchronous communication,Chao Yang,cs.DC,http://arxiv.org/pdf/1504.04714v1
+1504.07890v1,2015-04-29T15:24:33Z,Large-scale linear regression: Development of high-performance routines,Paolo Bientinesi,cs.CE,http://arxiv.org/pdf/1504.07890v1
+1505.01962v2,2015-05-08T09:13:25Z,Applying Sorting Networks to Synthesize Optimized Sorting Libraries,Peter Schneider-Kamp,cs.DS,http://arxiv.org/pdf/1505.01962v2
+1505.03357v3,2015-05-13T12:34:54Z,A parallel edge orientation algorithm for quadrilateral meshes,David A. Ham,cs.MS,http://arxiv.org/pdf/1505.03357v3
+1505.05028v4,2015-05-19T14:50:14Z,Automatic and Transparent Transfer of Theorems along Isomorphisms in the   Coq Proof Assistant,Hugo Herbelin,cs.LO,http://arxiv.org/pdf/1505.05028v4
+1505.06848v1,2015-05-26T08:25:45Z,"Remark on ""Algorithm 916: Computing the Faddeyeva and Voigt functions"":   Efficiency Improvements and Fortran Translation",Mofreh R. Zaghloul,astro-ph.IM,http://arxiv.org/pdf/1505.06848v1
+1505.07570v6,2015-05-28T07:33:21Z,A Practical Guide to Randomized Matrix Computations with MATLAB   Implementations,Shusen Wang,cs.MS,http://arxiv.org/pdf/1505.07570v6
+1505.08019v1,2015-05-29T12:33:52Z,Research on the fast Fourier transform of image based on GPU,Qingyun Wang,cs.MS,http://arxiv.org/pdf/1505.08019v1
+1505.08023v1,2015-05-29T12:44:04Z,The Research and Optimization of Parallel Finite Element Algorithm based   on MiniFE,Daning Cheng,cs.DC,http://arxiv.org/pdf/1505.08023v1
+1506.03726v2,2015-06-11T16:08:54Z,Lacunaryx: Computing bounded-degree factors of lacunary polynomials,Bruno Grenet,cs.MS,http://arxiv.org/pdf/1506.03726v2
+1506.04776v1,2015-06-15T21:20:06Z,Encog: Library of Interchangeable Machine Learning Models for Java and   C#,Jeff Heaton,cs.MS,http://arxiv.org/pdf/1506.04776v1
+1506.04802v2,2015-06-16T00:10:16Z,A fast exact simulation method for a class of Markov jump processes,Lili Hu,math.NA,http://arxiv.org/pdf/1506.04802v2
+1506.05605v1,2015-06-18T09:47:41Z,Asynchronous processing of Coq documents: from the kernel up to the user   interface,Enrico Tassi,cs.LO,http://arxiv.org/pdf/1506.05605v1
+1506.06102v1,2015-06-19T18:04:01Z,GRINS: A Multiphysics Framework Based on the libMesh Finite Element   Library,Roy H. Stogner,cs.MS,http://arxiv.org/pdf/1506.06102v1
+1506.06185v1,2015-06-20T00:03:16Z,Resilience for Multigrid Software at the Extreme Scale,Barbara Wohlmuth,cs.MS,http://arxiv.org/pdf/1506.06185v1
+1506.06704v1,2015-04-25T07:16:35Z,Software realization of the complex spectra analysis algorithm in R,Vladimir Bakhrushin,cs.MS,http://arxiv.org/pdf/1506.06704v1
+1506.07094v3,2015-06-23T17:08:59Z,pyMOR - Generic Algorithms and Interfaces for Model Order Reduction,Felix Schindler,cs.MS,http://arxiv.org/pdf/1506.07094v3
+1506.07980v1,2015-06-26T07:44:38Z,"A Java Implementation of the SGA, UMDA, ECGA, and HBOA",Fernando G. Lobo,cs.NE,http://arxiv.org/pdf/1506.07980v1
+1506.08694v1,2015-06-26T07:53:57Z,A Java Implementation of Parameter-less Evolutionary Algorithms,Fernando G. Lobo,cs.MS,http://arxiv.org/pdf/1506.08694v1
+1506.08867v1,2015-06-26T07:58:32Z,Java Implementation of a Parameter-less Evolutionary Portfolio,Fernando G. Lobo,cs.MS,http://arxiv.org/pdf/1506.08867v1
+1508.01982v3,2015-08-09T03:55:19Z,JuMP: A Modeling Language for Mathematical Optimization,Miles Lubin,math.OC,http://arxiv.org/pdf/1508.01982v3
+1508.04740v2,2015-08-19T18:55:18Z,Marathon: An open source software library for the analysis of   Markov-Chain Monte Carlo algorithms,Annabell Berger,cs.DM,http://arxiv.org/pdf/1508.04740v2
+1508.05470v2,2015-08-22T04:43:36Z,Non-Metric Space Library Manual,Leonid Boytsov,cs.MS,http://arxiv.org/pdf/1508.05470v2
+1509.01347v3,2015-09-04T06:20:18Z,Verificarlo: checking floating point accuracy through Monte Carlo   Arithmetic,Eric Petit,cs.MS,http://arxiv.org/pdf/1509.01347v3
+1509.04627v1,2015-09-15T16:16:54Z,A tetrahedral space-filling curve for non-conforming adaptive meshes,Johannes Holke,cs.DC,http://arxiv.org/pdf/1509.04627v1
+1509.07659v2,2015-09-25T10:03:17Z,A dedicated greedy pursuit algorithm for sparse spectral representation   of music sound,Gagan Aggarwal,cs.SD,http://arxiv.org/pdf/1509.07659v2
+1510.01122v1,2015-10-05T12:19:46Z,On The Evolution Of User Support Topics in Computational Science and   Engineering Software,B. Smith,cs.OH,http://arxiv.org/pdf/1510.01122v1
+1510.02545v3,2015-10-09T02:07:10Z,Comparative computational results for some vertex and facet enumeration   codes,Charles Jordan,cs.MS,http://arxiv.org/pdf/1510.02545v3
+1510.04068v1,2015-10-14T12:56:13Z,Sapporo2: A versatile direct $N$-body library,Simon Portegies Zwart,astro-ph.IM,http://arxiv.org/pdf/1510.04068v1
+1511.00863v2,2015-11-03T11:26:28Z,Exact diagonalization of quantum lattice models on coprocessors,Ari Harju,cond-mat.str-el,http://arxiv.org/pdf/1511.00863v2
+1511.02171v1,2015-11-06T17:36:20Z,Multi-Threaded Dense Linear Algebra Libraries for Low-Power Asymmetric   Multicore Processors,Enrique S. Quintana-Ortí,cs.MS,http://arxiv.org/pdf/1511.02171v1
+1511.03415v1,2015-11-11T08:23:46Z,The Dune FoamGrid implementation for surface and network grids,Bernd Flemisch,cs.MS,http://arxiv.org/pdf/1511.03415v1
+1511.03614v1,2015-10-23T16:07:56Z,FIESTA 4: optimized Feynman integral calculations with GPU support,Alexander V. Smirnov,hep-ph,http://arxiv.org/pdf/1511.03614v1
+1511.03703v1,2015-11-11T21:55:35Z,"Embedded Ensemble Propagation for Improving Performance, Portability and   Scalability of Uncertainty Quantification on Emerging Computational   Architectures",S. Rajamanickam,cs.MS,http://arxiv.org/pdf/1511.03703v1
+1511.03742v2,2015-11-12T01:02:58Z,GEMMbench: a framework for reproducible and collaborative benchmarking   of matrix multiplication,Anton Lokhmotov,cs.MS,http://arxiv.org/pdf/1511.03742v2
+1511.07174v1,2015-11-23T11:06:12Z,Developing a High Performance Software Library with MPI and CUDA for   Matrix Computations,Tudorel Andrei,cs.DC,http://arxiv.org/pdf/1511.07174v1
+1511.07261v1,2015-11-23T15:06:47Z,A Python Extension for the Massively Parallel Multiphysics Simulation   Framework waLBerla,Ulrich Rüde,cs.DC,http://arxiv.org/pdf/1511.07261v1
+1601.02683v1,2016-01-11T23:03:10Z,Software for enumerative and analytic combinatorics,Andrew MacFie,cs.MS,http://arxiv.org/pdf/1601.02683v1
+1601.03623v2,2016-01-14T15:30:47Z,Evaluation of the Partitioned Global Address Space (PGAS) model for an   inviscid Euler solver,Alexander Ostermann,cs.DC,http://arxiv.org/pdf/1601.03623v2
+1602.01421v3,2016-02-03T19:23:44Z,An SSD-based eigensolver for spectral analysis on billion-node graphs,Alexander S. Szalay,cs.DC,http://arxiv.org/pdf/1602.01421v3
+1602.03638v1,2016-02-11T08:12:37Z,High performance Python for direct numerical simulations of turbulent   flows,Hans Petter Langtangen,cs.MS,http://arxiv.org/pdf/1602.03638v1
+1602.06763v1,2016-02-22T13:21:05Z,Recursive Algorithms for Dense Linear Algebra: The ReLAPACK Collection,Paolo Bientinesi,cs.MS,http://arxiv.org/pdf/1602.06763v1
+1602.07527v1,2016-02-24T14:35:31Z,Differentiation of the Cholesky decomposition,Iain Murray,stat.CO,http://arxiv.org/pdf/1602.07527v1
+1602.08477v1,2016-02-26T20:49:37Z,Alpaka - An Abstraction Library for Parallel Kernel Acceleration,Michael Bussmann,cs.DC,http://arxiv.org/pdf/1602.08477v1
+1602.08991v1,2016-02-25T22:42:50Z,Extending DUNE: The dune-xt modules,Felix Schindler,cs.MS,http://arxiv.org/pdf/1602.08991v1
+1603.01793v1,2016-03-06T06:21:30Z,Coupling of finite element method with boundary algebraic equations,A. V. Shanin,cs.NA,http://arxiv.org/pdf/1603.01793v1
+1603.06907v4,2016-03-22T18:57:41Z,micompr: An R Package for Multivariate Independent Comparison of   Observations,Agostinho C. Rosa,cs.MS,http://arxiv.org/pdf/1603.06907v4
+1603.07342v1,2016-03-23T20:14:34Z,BEANS - a software package for distributed Big Data analysis,Arkadiusz Hypki,astro-ph.IM,http://arxiv.org/pdf/1603.07342v1
+1604.03570v1,2016-04-12T20:13:04Z,BoxLib with Tiling: An AMR Software Framework,Didem Unat,cs.MS,http://arxiv.org/pdf/1604.03570v1
+1605.00998v1,2016-05-03T17:49:27Z,Blackbox: A procedure for parallel optimization of expensive black-box   functions,Yannis Korkolis,cs.MS,http://arxiv.org/pdf/1605.00998v1
+1605.02532v2,2016-05-09T11:24:39Z,HLinear: Exact Dense Linear Algebra in Haskell,Martin Westerholt-Raum,cs.MS,http://arxiv.org/pdf/1605.02532v2
+1606.00541v1,2016-06-02T05:54:09Z,Parallel Triangular Solvers on GPU,Bo Yang,cs.MS,http://arxiv.org/pdf/1606.00541v1
+1606.00545v1,2016-06-02T06:01:05Z,Development of Krylov and AMG linear solvers for large-scale sparse   matrices on GPUs,Zhangxin Chen,cs.MS,http://arxiv.org/pdf/1606.00545v1
+1606.04987v1,2016-06-13T17:54:41Z,Automatic finite element implementation of hyperelastic material with a   double numerical differentiation algorithm,Gregory J. Gerling,cs.CE,http://arxiv.org/pdf/1606.04987v1
+1606.05385v2,2016-06-16T23:19:58Z,D2O - a distributed data object for parallel high-performance computing   in Python,T. Enßlin,cs.MS,http://arxiv.org/pdf/1606.05385v2
+1607.00648v4,2016-07-03T14:54:45Z,Quasi-matrix-free hybrid multigrid on dynamically adaptive Cartesian   grids,Tobias Weinzierl,cs.NA,http://arxiv.org/pdf/1607.00648v4
+1607.01191v1,2016-07-05T11:02:45Z,"Best Practices for Replicability, Reproducibility and Reusability of   Computer-Based Experiments Exemplified by Model Reduction Software",Jens Saak,cs.MS,http://arxiv.org/pdf/1607.01191v1
+1607.01249v1,2016-07-05T13:53:57Z,TTC: A Tensor Transposition Compiler for Multiple Architectures,Paolo Bientinesi,cs.MS,http://arxiv.org/pdf/1607.01249v1
+1607.04254v1,2016-07-14T19:21:43Z,Composing Scalable Nonlinear Algebraic Solvers,Xuemin Tu,math.NA,http://arxiv.org/pdf/1607.04254v1
+1607.04767v1,2016-07-16T16:54:39Z,Optimized Automatic Code Generation for Geometric Algebra Based   Algorithms with Ray Tracing Application,Ahmad Hosney Awad Eid,cs.MS,http://arxiv.org/pdf/1607.04767v1
+1608.00099v1,2016-07-30T10:40:29Z,TRIOT: Faster iteration over multidimensional arrays in C++11,Oliver Serang,cs.MS,http://arxiv.org/pdf/1608.00099v1
+1608.00206v1,2016-07-31T10:22:40Z,"An exact, cache-localized algorithm for the sub-quadratic convolution of   hypercubes",Oliver Serang,cs.CG,http://arxiv.org/pdf/1608.00206v1
+1608.00476v2,2016-08-01T15:54:26Z,R package imputeTestbench to compare imputations methods for univariate   time series,Gualberto Asencio-Cortés,stat.ME,http://arxiv.org/pdf/1608.00476v2
+1608.04152v1,2016-08-14T23:17:03Z,Computation of the incomplete gamma function for negative values of the   argument,N. M. Temme,cs.MS,http://arxiv.org/pdf/1608.04152v1
+1608.04815v3,2016-08-17T00:06:48Z,A Functional Package for Automatic Solution of Ordinary Differential   Equations with Spectral Methods,Youran Zhang,cs.MS,http://arxiv.org/pdf/1608.04815v3
+1608.08658v2,2016-08-30T21:05:21Z,Devito: automated fast finite difference computation,Gerard Gorman,cs.MS,http://arxiv.org/pdf/1608.08658v2
+1609.03361v1,2016-09-12T12:15:36Z,Devito: Towards a generic Finite Difference DSL using Symbolic Python,Gerard Gorman,cs.MS,http://arxiv.org/pdf/1609.03361v1
+1609.04809v1,2016-09-15T05:05:29Z,An object oriented parallel finite element scheme for computations of   PDEs: Design and implementation,Ulrich Wilbrandt,cs.MS,http://arxiv.org/pdf/1609.04809v1
+1609.07301v1,2016-09-23T10:31:39Z,A Computer Algebra Package for Polynomial Sequence Recognition,Maxie D. Schmidt,math.CO,http://arxiv.org/pdf/1609.07301v1
+1609.08722v2,2016-09-28T01:48:48Z,Solving polynomial systems via homotopy continuation and monodromy,Jeff Sommars,math.AG,http://arxiv.org/pdf/1609.08722v2
+1610.06385v5,2016-10-20T12:46:07Z,Accelerating BLAS on Custom Architecture through Algorithm-Architecture   Co-design,Ranjani Narayan,cs.AR,http://arxiv.org/pdf/1610.06385v5
+1610.07944v1,2016-10-24T16:15:40Z,IB2d: a Python and MATLAB implementation of the immersed boundary method,Laura A. Miller,physics.flu-dyn,http://arxiv.org/pdf/1610.07944v1
+1611.03416v1,2016-11-10T17:40:53Z,Efficient Implementation of a Higher-Order Language with Built-In AD,Barak A. Pearlmutter,cs.PL,http://arxiv.org/pdf/1611.03416v1
+1611.03423v1,2016-11-10T17:50:06Z,DiffSharp: An AD Library for .NET Languages,Jeffrey Mark Siskind,cs.MS,http://arxiv.org/pdf/1611.03423v1
+1612.00530v1,2016-12-02T01:09:23Z,Implementation and evaluation of data-compression algorithms for   irregular-grid iterative methods on the PEZY-SC processor,Jun Makino,cs.MS,http://arxiv.org/pdf/1612.00530v1
+1612.04470v1,2016-12-14T03:22:44Z,Efficient Realization of Householder Transform through   Algorithm-Architecture Co-design for Acceleration of QR Factorization,Ranjani Narayan,cs.PF,http://arxiv.org/pdf/1612.04470v1
+1612.05778v1,2016-12-17T14:54:52Z,Parallel Integer Polynomial Multiplication,Yuzhen Xie,cs.SC,http://arxiv.org/pdf/1612.05778v1
+1612.07848v1,2016-12-23T01:16:54Z,BSEPACK User's Guide,Chao Yang,cs.MS,http://arxiv.org/pdf/1612.07848v1
+1612.08060v1,2016-12-23T18:40:46Z,TAPSpMV: Topology-Aware Parallel Sparse Matrix Vector Multiplication,Luke N. Olson,cs.DC,http://arxiv.org/pdf/1612.08060v1
+1701.00722v1,2017-01-02T23:21:43Z,"The Unum Number Format: Mathematical Foundations, Implementation and   Comparison to IEEE 754 Floating-Point Numbers",Laslo Hunhold,cs.NA,http://arxiv.org/pdf/1701.00722v1
+1702.00629v1,2017-02-02T11:41:32Z,gearshifft - The FFT Benchmark Suite for Heterogeneous Platforms,Matthias Werner,cs.PF,http://arxiv.org/pdf/1702.00629v1
+1702.01332v1,2017-02-04T19:49:06Z,"Manyopt: An Extensible Tool for Mixed, Non-Linear Optimization Through   SMT Solving",Michael Huth,cs.AI,http://arxiv.org/pdf/1702.01332v1
+1702.01460v3,2017-02-05T22:28:20Z,A scikit-based Python environment for performing multi-label   classification,Tomasz Kajdanowicz,cs.LG,http://arxiv.org/pdf/1702.01460v3
+cs/9903002v1,1999-03-01T11:03:47Z,An Algebraic Programming Style for Numerical Software and its   Optimization,J. Heering,cs.SE,http://arxiv.org/pdf/cs/9903002v1
+cs/0105033v1,2001-05-25T15:08:13Z,Lectures on Reduce and Maple at UAM I - Mexico,Marc Toussaint,cs.SC,http://arxiv.org/pdf/cs/0105033v1
+cs/0107036v2,2001-07-29T11:00:59Z,"TeXmacs interfaces to Maxima, MuPAD and REDUCE",A. G. Grozin,cs.SC,http://arxiv.org/pdf/cs/0107036v2
+cs/0303004v1,2003-03-06T09:19:42Z,Reliability Conditions in Quadrature Algorithms,N. M. Plakida,cs.NA,http://arxiv.org/pdf/cs/0303004v1
+cs/0305008v1,2003-05-13T17:48:35Z,A Representation of Changes of Images and its Application for   Developmental Biolology,MyungHo Kim,cs.CC,http://arxiv.org/pdf/cs/0305008v1
+cs/0401008v1,2004-01-13T14:29:26Z,Algorithm xxx: Modified Bessel functions of imaginary order and positive   argument,Nico M. Temme,cs.MS,http://arxiv.org/pdf/cs/0401008v1
+cs/0410044v5,2004-10-18T17:39:51Z,An Example of Clifford Algebras Calculations with GiNaC,Vladimir V. Kisil,cs.MS,http://arxiv.org/pdf/cs/0410044v5
+cs/0504039v1,2005-04-11T16:39:16Z,TeXmacs-maxima interface,A. G. Grozin,cs.SC,http://arxiv.org/pdf/cs/0504039v1
+cs/0510034v1,2005-10-14T01:03:55Z,COMODI: On the Graphical User Interface,Bazil Pârv,cs.HC,http://arxiv.org/pdf/cs/0510034v1
+cs/0510051v1,2005-10-18T09:55:42Z,Numerical resolution of some BVP using Bernstein polynomials,Gianluca Argentini,cs.NA,http://arxiv.org/pdf/cs/0510051v1
+cs/0512073v12,2005-12-17T15:09:11Z,Schwerdtfeger-Fillmore-Springer-Cnops Construction Implemented in GiNaC,Vladimir V. Kisil,cs.MS,http://arxiv.org/pdf/cs/0512073v12
+cs/0604066v1,2006-04-17T10:52:35Z,Univariate polynomial real root isolation: Continued Fractions revisited,Ioannis Z. Emiris,cs.SC,http://arxiv.org/pdf/cs/0604066v1
+cs/0607103v1,2006-07-23T16:12:47Z,Ideas by Statistical Mechanics (ISM),Lester Ingber,cs.CE,http://arxiv.org/pdf/cs/0607103v1
+cs/0608003v2,2006-08-01T19:25:17Z,On a solution to display non-filled-in quaternionic Julia sets,Alessandro Rosa,cs.GR,http://arxiv.org/pdf/cs/0608003v2
+cs/0609082v1,2006-09-14T18:32:46Z,Classifying extrema using intervals,Marek W. Gutowski,cs.MS,http://arxiv.org/pdf/cs/0609082v1
+cs/0610120v2,2006-10-20T05:11:21Z,Classdesc and Graphcode: support for scientific programming in C++,Duraid Madina,cs.MS,http://arxiv.org/pdf/cs/0610120v2
+cs/0703025v1,2007-03-06T14:05:28Z,LIBOPT - An environment for testing solvers on heterogeneous collections   of problems - Version 1.0,Xavier Jonsson,cs.MS,http://arxiv.org/pdf/cs/0703025v1
+cs/0703150v2,2007-03-30T00:53:48Z,Type-II/III DCT/DST algorithms with reduced number of arithmetic   operations,Steven G. Johnson,cs.NA,http://arxiv.org/pdf/cs/0703150v2
+hep-lat/0004007v4,2000-04-11T22:59:10Z,Matrix Distributed Processing: A set of C++ Tools for implementing   generic lattice computations on parallel systems,Massimo Di Pierro,hep-lat,http://arxiv.org/pdf/hep-lat/0004007v4
+hep-th/0208218v2,2002-08-29T16:37:45Z,Introducing LambdaTensor1.0 - A package for explicit symbolic and   numeric Lie algebra and Lie group calculations,Thomas Fischbacher,hep-th,http://arxiv.org/pdf/hep-th/0208218v2
+math/9905155v2,1999-05-25T20:13:09Z,An Implementation of the Bestvina-Handel Algorithm for Surface   Homeomorphisms,Peter Brinkmann,math.GR,http://arxiv.org/pdf/math/9905155v2
+math/0603606v1,2006-03-26T12:30:11Z,Lanczos $τ$-method optimal algorithm in APS for approximating the   mathematical functions,P. N. Denisenko,math.NA,http://arxiv.org/pdf/math/0603606v1
+math/0701020v12,2006-12-31T07:16:29Z,Some notes on a method for proving inequalities by computer,Branko J. Malesevic,math.CA,http://arxiv.org/pdf/math/0701020v12
+0705.1033v2,2007-05-08T05:59:55Z,Optimal Cache-Oblivious Mesh Layouts,Kebin Wang,cs.DS,http://arxiv.org/pdf/0705.1033v2
+0707.0701v2,2007-07-04T21:53:11Z,Clustering and Feature Selection using Sparse Principal Component   Analysis,Alexandre d'Aspremont,cs.AI,http://arxiv.org/pdf/0707.0701v2
+0707.4659v1,2007-07-31T16:54:33Z,Difference Equations in Massive Higher Order Calculations,C. Schneider,math-ph,http://arxiv.org/pdf/0707.4659v1
+0805.2438v1,2008-05-16T18:02:24Z,Certified Exact Transcendental Real Number Computation in Coq,Russell O'Connor,cs.LO,http://arxiv.org/pdf/0805.2438v1
+0807.2382v1,2008-07-15T14:18:23Z,Revisiting the upper bounding process in a safe Branch and Bound   algorithm,Michel Rueher,cs.NA,http://arxiv.org/pdf/0807.2382v1
+0808.0754v1,2008-08-06T01:05:09Z,"A Functional Hitchhiker's Guide to Hereditarily Finite Sets, Ackermann   Encodings and Pairing Functions",Paul Tarau,cs.MS,http://arxiv.org/pdf/0808.0754v1
+0810.5685v6,2008-10-31T13:35:08Z,Interpolation of Shifted-Lacunary Polynomials,Daniel S. Roche,cs.SC,http://arxiv.org/pdf/0810.5685v6
+0811.1081v1,2008-11-07T04:34:01Z,Parallel GPU Implementation of Iterative PCA Algorithms,M. Andrecut,q-bio.QM,http://arxiv.org/pdf/0811.1081v1
+0901.4417v2,2009-01-28T09:09:36Z,A novel type of branch and bound for maximum independent set,Marcel Wild,cs.DS,http://arxiv.org/pdf/0901.4417v2
+0902.3208v1,2009-02-18T17:59:47Z,A Fast Multigrid Algorithm for Energy Minimization Under Planar Density   Constraints,Achi Brandt,cs.DS,http://arxiv.org/pdf/0902.3208v1
+0905.0586v1,2009-05-05T12:04:12Z,WinBioinfTools: Bioinformatics Tools for Windows High Performance   Computing Server 2008,Hisham Mohamed,cs.MS,http://arxiv.org/pdf/0905.0586v1
+0906.1272v3,2009-06-06T12:44:23Z,The alternative operad is not Koszul,Pasha Zusmanovich,math.RA,http://arxiv.org/pdf/0906.1272v3
+0906.5339v2,2009-06-29T19:37:12Z,Asymmetric Quantum Cyclic Codes,Salah A. Aly,cs.IT,http://arxiv.org/pdf/0906.5339v2
+0909.0777v1,2009-09-03T22:26:32Z,Optimally Tuned Iterative Reconstruction Algorithms for Compressed   Sensing,David L. Donoho,cs.NA,http://arxiv.org/pdf/0909.0777v1
+0909.4950v2,2009-09-27T16:54:34Z,Implementing Gröbner bases for operads,Mikael Vejdemo-Johansson,cs.SC,http://arxiv.org/pdf/0909.4950v2
+0909.5413v1,2009-09-29T19:27:51Z,PetRBF--A parallel O(N) algorithm for radial basis function   interpolation,Matthew G. Knepley,cs.MS,http://arxiv.org/pdf/0909.5413v1
+0911.2889v1,2009-11-15T17:10:31Z,Global communications in multiprocessor simulations of flames,V. Karlin,cs.DC,http://arxiv.org/pdf/0911.2889v1
+1001.1435v6,2010-01-09T18:26:00Z,"JBotSim, a Tool for Fast Prototyping of Distributed Algorithms in   Dynamic Networks",Arnaud Casteigts,cs.MS,http://arxiv.org/pdf/1001.1435v6
+1001.1654v2,2010-01-11T13:37:38Z,Algorithmic Differentiation of Linear Algebra Functions with Application   in Optimum Experimental Design (Extended Version),L. Lehmann,cs.DS,http://arxiv.org/pdf/1001.1654v2
+1001.5272v1,2010-01-28T21:10:41Z,An in-place truncated Fourier transform and applications to polynomial   multiplication,Daniel S. Roche,cs.DS,http://arxiv.org/pdf/1001.5272v1
+1002.0012v1,2010-01-29T21:23:05Z,The Power of Vocabulary: The Case of Cyclotomic Polynomials,James H. Davenport,cs.SC,http://arxiv.org/pdf/1002.0012v1
+1002.4661v1,2010-02-24T23:47:53Z,Complementary approaches to understanding the plant circadian clock,Carl Troein,cs.CE,http://arxiv.org/pdf/1002.4661v1
+1002.4784v2,2010-02-25T13:39:09Z,Triangular Decomposition of Semi-algebraic Systems,Rong Xiao,cs.SC,http://arxiv.org/pdf/1002.4784v2
+1004.3173v2,2010-04-19T12:26:15Z,MP users guide,Richard P. Brent,cs.MS,http://arxiv.org/pdf/1004.3173v2
+1004.3719v1,2010-04-21T14:52:36Z,Exact Sparse Matrix-Vector Multiplication on GPU's and Multicore   Architectures,Pascal Giorgi,cs.DC,http://arxiv.org/pdf/1004.3719v1
+1004.5034v1,2010-04-28T14:12:43Z,Formal Proof of SCHUR Conjugate Function,Frédéric Toumazet,cs.LO,http://arxiv.org/pdf/1004.5034v1
+1007.3794v1,2010-07-22T03:31:39Z,Open Graphs and Computational Reasoning,Aleks Kissinger,cs.LO,http://arxiv.org/pdf/1007.3794v1
+1008.2909v1,2010-08-17T14:50:56Z,Runtime-Flexible Multi-dimensional Arrays and Views for C++98 and C++0x,Fred A. Hamprecht,cs.DS,http://arxiv.org/pdf/1008.2909v1
+1009.1170v1,2010-09-06T22:33:38Z,M-Learning: A New Paradigm of Learning Mathematics in Malaysia,Shakirah Mohd Taib,cs.MM,http://arxiv.org/pdf/1009.1170v1
+1009.1317v1,2010-07-28T12:20:06Z,"LinBox founding scope allocation, parallel building blocks, and separate   compilation",B. David Saunders,cs.SE,http://arxiv.org/pdf/1009.1317v1
+1009.4647v2,2010-09-23T15:54:20Z,Parameterized Adaptive Multidimensional Integration Routines (PAMIR):   Localization by Repeated 2^p Subdivision,Stephen L. Adler,hep-ph,http://arxiv.org/pdf/1009.4647v2
+1010.1386v1,2010-10-07T10:18:32Z,An Elimination Method for Solving Bivariate Polynomial Systems:   Eliminating the Usual Drawbacks,Michael Sagraloff,cs.MS,http://arxiv.org/pdf/1010.1386v1
+1011.1091v2,2010-11-04T09:57:00Z,alphaCertified: certifying solutions to polynomial systems,Frank Sottile,math.NA,http://arxiv.org/pdf/1011.1091v2
+1011.3077v1,2010-11-13T00:18:02Z,Minimizing Communication for Eigenproblems and the Singular Value   Decomposition,Ioana Dumitriu,math.NA,http://arxiv.org/pdf/1011.3077v1
+1011.3534v1,2010-11-15T21:59:11Z,Fast Multiplication of Matrices with Decay,Nicolas Bock,cs.DS,http://arxiv.org/pdf/1011.3534v1
+1101.3682v3,2011-01-19T13:14:32Z,Diversification improves interpolation,Daniel S. Roche,cs.SC,http://arxiv.org/pdf/1101.3682v3
+1102.3440v2,2011-02-16T21:48:45Z,Efficient numerical computation of the Pfaffian for dense and banded   skew-symmetric matrices,M. Wimmer,cond-mat.mes-hall,http://arxiv.org/pdf/1102.3440v2
+1102.4598v2,2011-02-22T19:57:11Z,Generating and using truly random quantum states in Mathematica,J. A. Miszczak,quant-ph,http://arxiv.org/pdf/1102.4598v2
+1105.4136v3,2011-05-20T17:29:57Z,A novel parallel algorithm for Gaussian Elimination of sparse   unsymmetric matrices,Riccardo Murri,cs.MS,http://arxiv.org/pdf/1105.4136v3
+1105.4324v1,2011-05-22T09:57:05Z,A search for an optimal start system for numerical homotopy continuation,Anton Leykin,math.NA,http://arxiv.org/pdf/1105.4324v1
+1105.4881v2,2011-05-24T20:15:08Z,PHCpack in Macaulay2,Jan Verschelde,math.AG,http://arxiv.org/pdf/1105.4881v2
+1106.1319v1,2011-06-07T11:36:55Z,ShearLab: A Rational Design of a Digital Parabolic Scaling Algorithm,Xiaosheng Zhuang,math.NA,http://arxiv.org/pdf/1106.1319v1
+1106.1862v1,2011-06-09T17:16:38Z,The MathScheme Library: Some Preliminary Experiments,Quang M. Tran,cs.MS,http://arxiv.org/pdf/1106.1862v1
+1106.5694v2,2011-06-28T14:53:58Z,GPU-Based Heuristic Solver for Linear Sum Assignment Problems Under   Real-time Constraints,Sameh El-Ansary,cs.DC,http://arxiv.org/pdf/1106.5694v2
+1107.0385v1,2011-07-02T15:07:48Z,An algorithm for autonomously plotting solution sets in the presence of   turning points,Jonathan Pollack,math.NA,http://arxiv.org/pdf/1107.0385v1
+1107.1119v1,2011-07-06T13:04:47Z,Integrating Generic Sensor Fusion Algorithms with Sound State   Representations through Encapsulation of Manifolds,Lutz Schröder,cs.RO,http://arxiv.org/pdf/1107.1119v1
+1108.0355v1,2011-08-01T16:24:33Z,Using Java for distributed computing in the Gaia satellite data   processing,Jose Hernandez,cs.CE,http://arxiv.org/pdf/1108.0355v1
+1109.0783v1,2011-09-05T01:57:07Z,"Specific ""scientific"" data structures, and their processing",Jerzy Karczmarczuk,cs.DS,http://arxiv.org/pdf/1109.0783v1
+1109.3739v2,2011-09-16T23:25:28Z,Parallel Sparse Matrix-Matrix Multiplication and Indexing:   Implementation and Experiments,John Gilbert,cs.DC,http://arxiv.org/pdf/1109.3739v2
+1109.5981v2,2011-09-27T18:06:44Z,LSRN: A Parallel Iterative Solver for Strongly Over- or Under-Determined   Systems,Michael W. Mahoney,cs.DS,http://arxiv.org/pdf/1109.5981v2
+1110.2263v1,2011-10-11T04:03:22Z,Asymptotic Methods of ODEs: Exploring Singularities of the Second Kind,Christopher J. Winfield,cs.SC,http://arxiv.org/pdf/1110.2263v1
+1110.3397v1,2011-10-15T09:41:24Z,Odeint - Solving ordinary differential equations in C++,Mario Mulansky,cs.MS,http://arxiv.org/pdf/1110.3397v1
+1110.4673v1,2011-10-21T00:45:38Z,How Can I Do That with ACL2? Recent Enhancements to ACL2,J Strother Moore,cs.MS,http://arxiv.org/pdf/1110.4673v1
+1110.4675v1,2011-10-21T00:45:53Z,Formal Verification of an Iterative Low-Power x86 Floating-Point   Multiplier with Redundant Feedback,Peter-Michael Seidel,cs.LO,http://arxiv.org/pdf/1110.4675v1
+1110.5441v2,2011-10-25T08:44:51Z,LINPRO: linear inverse problem library for data contaminated by   statistical noise,Gabriel Wlazlowski,cs.MS,http://arxiv.org/pdf/1110.5441v2
+1111.6374v2,2011-11-28T08:52:04Z,Solving Dense Generalized Eigenproblems on Multi-threaded Architectures,Enrique S. Quintana-Ortí,cs.PF,http://arxiv.org/pdf/1111.6374v2
+1111.6583v2,2011-11-27T10:53:39Z,"PyClaw: Accessible, Extensible, Scalable Tools for Wave Propagation   Problems",Matthew Emmett,math.NA,http://arxiv.org/pdf/1111.6583v2
+1201.0540v1,2012-01-02T21:48:33Z,ProofPeer - A Cloud-based Interactive Theorem Proving System,Steven Obua,cs.MS,http://arxiv.org/pdf/1201.0540v1
+1201.3179v1,2012-01-16T09:12:34Z,Matrix representation of a solution of a combinatorial problem of the   group theory,Lilyana Totina,cs.MS,http://arxiv.org/pdf/1201.3179v1
+1201.4050v2,2012-01-19T13:01:17Z,On the Shape of Curves that are Rational in Polar Coordinates,G. M. Díaz-Toca,cs.SC,http://arxiv.org/pdf/1201.4050v2
+1202.1056v1,2012-02-06T06:53:25Z,Building a Framework for Predictive Science,Michael A. G. Aivazis,cs.MS,http://arxiv.org/pdf/1202.1056v1
+1202.1820v2,2012-02-08T20:58:11Z,Fatgraph Algorithms and the Homology of the Kontsevich Complex,Riccardo Murri,math.AG,http://arxiv.org/pdf/1202.1820v2
+1202.2736v1,2012-02-13T14:14:00Z,"Function call overhead benchmarks with MATLAB, Octave, Python, Cython   and C",André Gaul,cs.PL,http://arxiv.org/pdf/1202.2736v1
+1202.4535v1,2012-02-21T05:56:10Z,Proceedings First Workshop on CTP Components for Educational Software,Ralph-Johan Back,cs.SY,http://arxiv.org/pdf/1202.4535v1
+1202.4828v1,2012-02-22T06:41:20Z,Towards an Intelligent Tutor for Mathematical Proofs,Marvin Schiller,cs.AI,http://arxiv.org/pdf/1202.4828v1
+1202.4831v1,2012-02-22T06:41:45Z,Formalization and Implementation of Algebraic Methods in Geometry,Predrag Janičić,cs.SC,http://arxiv.org/pdf/1202.4831v1
+1202.4834v1,2012-02-22T06:42:11Z,Computer-Assisted Program Reasoning Based on a Relational Semantics of   Programs,Wolfgang Schreiner,cs.LO,http://arxiv.org/pdf/1202.4834v1
+1202.4835v1,2012-02-22T06:42:17Z,Isabelle/PIDE as Platform for Educational Tools,Burkhart Wolff,cs.LO,http://arxiv.org/pdf/1202.4835v1
+1202.6522v5,2012-02-29T12:05:12Z,Efficient Spherical Harmonic Transforms aimed at pseudo-spectral   numerical simulations,Nathanaël Schaeffer,physics.comp-ph,http://arxiv.org/pdf/1202.6522v5
+1202.6548v2,2012-02-29T13:49:10Z,mlpy: Machine Learning Python,Cesare Furlanello,cs.MS,http://arxiv.org/pdf/1202.6548v2
+1203.1034v1,2012-03-05T21:00:01Z,General Complex Polynomial Root Solver and Its Further Optimization for   Binary Microlenses,A. Gould,astro-ph.EP,http://arxiv.org/pdf/1203.1034v1
+1203.1263v2,2012-03-06T17:45:07Z,NLSEmagic: Nonlinear Schrödinger Equation Multidimensional   Matlab-based GPU-accelerated Integrators using Compact High-order Schemes,R. M. Caplan,cs.MS,http://arxiv.org/pdf/1203.1263v2
+1203.1448v2,2012-03-07T12:04:05Z,"AD in Fortran, Part 1: Design",Jeffrey Mark Siskind,cs.PL,http://arxiv.org/pdf/1203.1448v2
+1203.1450v2,2012-03-07T12:16:30Z,"AD in Fortran, Part 2: Implementation via Prepreprocessor",Jeffrey Mark Siskind,cs.PL,http://arxiv.org/pdf/1203.1450v2
+1203.1692v5,2012-03-08T05:33:01Z,An Optimized Sparse Approximate Matrix Multiply for Matrices with Decay,Matt Challacombe,cs.NA,http://arxiv.org/pdf/1203.1692v5
+1203.3059v1,2012-03-14T12:00:08Z,Set Reduction In Nonlinear Equations,Ali Ecder,cs.MS,http://arxiv.org/pdf/1203.3059v1
+1203.4031v3,2012-03-19T03:47:55Z,FEAST Eigenvalue Solver v3.0 User Guide,James Kestyn,cs.MS,http://arxiv.org/pdf/1203.4031v3
+1204.0053v2,2012-03-31T00:56:44Z,Theory Presentation Combinators,Russell O'Connor,cs.MS,http://arxiv.org/pdf/1204.0053v2
+1204.0267v2,2012-04-01T21:23:23Z,Computational science and re-discovery: open-source implementations of   ellipsoidal harmonics for problems in potential theory,Matthew G. Knepley,cs.CE,http://arxiv.org/pdf/1204.0267v2
+1204.3052v1,2012-04-13T17:13:50Z,Heterogeneous Highly Parallel Implementation of Matrix Exponentiation   Using GPU,Prakash S Raghavendra,cs.DC,http://arxiv.org/pdf/1204.3052v1
+1205.1098v1,2012-05-05T04:30:14Z,Reliable Generation of High-Performance Matrix Algebra,Jeremy G. Siek,cs.MS,http://arxiv.org/pdf/1205.1098v1
+1205.2129v2,2012-05-10T00:48:08Z,Isogeometric analysis: an overview and computer implementation aspects,Timon Rabczuk,cs.NA,http://arxiv.org/pdf/1205.2129v2
+1205.5975v1,2012-05-27T15:22:23Z,A Domain-Specific Compiler for Linear Algebra Operations,Paolo Bientinesi,cs.MS,http://arxiv.org/pdf/1205.5975v1
+1206.0111v1,2012-06-01T07:36:54Z,OpenGM: A C++ Library for Discrete Graphical Models,Joerg H. Kappes,cs.AI,http://arxiv.org/pdf/1206.0111v1
+1206.5754v6,2012-06-25T18:19:45Z,Bayesian Modeling with Gaussian Processes using the GPstuff Toolbox,Aki Vehtari,stat.ML,http://arxiv.org/pdf/1206.5754v6
+1206.6466v1,2012-06-27T19:59:59Z,Utilizing Static Analysis and Code Generation to Accelerate Neural   Networks,Kunle Olukotun,cs.NE,http://arxiv.org/pdf/1206.6466v1
+1207.0398v1,2012-07-02T14:19:23Z,Multivariate Polynomials in Sage,Viviane Pons,math.CO,http://arxiv.org/pdf/1207.0398v1
+1207.1161v1,2012-07-05T04:55:03Z,Modular Arithmetic Expressions and Primality Testing via DNA   Self-Assembly,Jaley Dholakiya,cs.ET,http://arxiv.org/pdf/1207.1161v1
+1207.1380v1,2012-07-04T16:10:18Z,Bayes Blocks: An Implementation of the Variational Bayesian Building   Blocks Framework,Juha Karhunen,cs.MS,http://arxiv.org/pdf/1207.1380v1
+1207.1413v1,2012-07-04T16:23:35Z,Discovery of non-gaussian linear causal models using ICA,Patrik O. Hoyer,cs.LG,http://arxiv.org/pdf/1207.1413v1
+1207.1746v1,2012-07-06T23:30:06Z,A Generic Library for Stencil Computations,Ugo Varetto,cs.MS,http://arxiv.org/pdf/1207.1746v1
+1207.2300v1,2012-07-10T10:35:17Z,Towards the Formal Specification and Verification of Maple Programs,Wolfgang Schreiner,cs.MS,http://arxiv.org/pdf/1207.2300v1
+1207.3315v1,2012-07-13T17:42:52Z,Verifying an algorithm computing Discrete Vector Fields for digital   imaging,Julio Rubio,cs.AI,http://arxiv.org/pdf/1207.3315v1
+1207.3441v1,2012-07-14T16:47:03Z,Isabelle/jEdit --- a Prover IDE within the PIDE framework,Makarius Wenzel,cs.LO,http://arxiv.org/pdf/1207.3441v1
+1208.2504v2,2012-08-13T06:22:37Z,"Computational topology with Regina: Algorithms, heuristics and   implementations",Benjamin A. Burton,math.GT,http://arxiv.org/pdf/1208.2504v2
+1208.3866v2,2012-08-19T16:56:04Z,Analytical Nonlocal Electrostatics Using Eigenfunction Expansions of   Boundary-Integral Operators,Peter R. Brune,physics.chem-ph,http://arxiv.org/pdf/1208.3866v2
+1208.3970v1,2012-08-20T10:56:41Z,Employing online quantum random number generators for generating truly   random quantum states in Mathematica,J. A. Miszczak,physics.comp-ph,http://arxiv.org/pdf/1208.3970v1
+1208.4721v1,2012-08-23T11:09:57Z,"Hamilton Operators, Discrete Symmetries, Brute Force and SymbolicC++",Yorick Hardy,cs.MS,http://arxiv.org/pdf/1208.4721v1
+1209.0735v1,2012-08-31T21:07:48Z,Lambert W Function for Applications in Physics,Darko Veberic,cs.MS,http://arxiv.org/pdf/1209.0735v1
+1209.0960v2,2012-09-05T13:07:36Z,A Massively Parallel Algebraic Multigrid Preconditioner based on   Aggregation for Elliptic Problems with Heterogeneous Coefficients,Peter Bastian,math.NA,http://arxiv.org/pdf/1209.0960v2
+1209.1711v1,2012-09-08T12:31:50Z,Programming Languages for Scientific Computing,Matthew G. Knepley,cs.PL,http://arxiv.org/pdf/1209.1711v1
+1209.2364v2,2012-09-11T16:37:20Z,Performance Modeling for Dense Linear Algebra,Paolo Bientinesi,cs.MS,http://arxiv.org/pdf/1209.2364v2
+1210.0800v2,2012-10-02T15:08:27Z,Orthogononalization on a general purpose graphics processing unit with   double double and quad double arithmetic,Genady Yoffe,cs.MS,http://arxiv.org/pdf/1210.0800v2
+1210.2950v1,2012-10-10T15:11:49Z,Symbolic Analysis for Boundary Problems: From Rewriting to Parametrized   Gröbner Bases,Bruno Buchberger,cs.SC,http://arxiv.org/pdf/1210.2950v1
+1210.6293v1,2012-10-23T17:15:03Z,MLPACK: A Scalable C++ Machine Learning Library,Alexander G. Gray,cs.MS,http://arxiv.org/pdf/1210.6293v1
+1210.7292v2,2012-10-27T05:46:13Z,Optimized M2L Kernels for the Chebyshev Interpolation based Fast   Multipole Method,Eric Darve,cs.NA,http://arxiv.org/pdf/1210.7292v2
+1210.7325v1,2012-10-27T14:26:32Z,Solving Sequences of Generalized Least-Squares Problems on   Multi-threaded Architectures,Paolo Bientinesi,cs.MS,http://arxiv.org/pdf/1210.7325v1
+1210.8418v1,2012-10-26T03:14:03Z,Demonstrating the Usefulness of CAELinux for Computer Aided Engineering   using an Example of the Three Dimensional Reconstruction of a Pig Liver,Kirana Kumara P.,cs.MS,http://arxiv.org/pdf/1210.8418v1
+1212.0520v1,2012-12-03T20:20:02Z,A modular framework for randomness extraction based on Trevisan's   construction,Volkher B. Scholz,cs.IT,http://arxiv.org/pdf/1212.0520v1
+1212.2350v1,2012-12-11T09:24:46Z,Automated verification of termination certificates,Kim Quyen Ly,cs.LO,http://arxiv.org/pdf/1212.2350v1
+1212.6326v2,2012-12-27T08:56:00Z,Programming CUDA and OpenCL: A Case Study Using Modern C++ Libraries,Peter Gottschling,cs.MS,http://arxiv.org/pdf/1212.6326v2
+1302.0432v4,2013-02-02T22:30:20Z,FEAST as a Subspace Iteration Eigensolver Accelerated by Approximate   Spectral Projection,Eric Polizzi,math.NA,http://arxiv.org/pdf/1302.0432v4
+1302.1737v1,2013-02-07T13:15:45Z,Kleene Algebra with Tests and Coq Tools for While Programs,Damien Pous,cs.LO,http://arxiv.org/pdf/1302.1737v1
+1302.2738v2,2013-02-12T09:38:46Z,RandFile package for Mathematica for accessing file-based sources of   randomness,M. Wahl,physics.comp-ph,http://arxiv.org/pdf/1302.2738v2
+1302.4332v1,2013-02-18T16:03:08Z,Streaming Data from HDD to GPUs for Sustained Peak Performance,Paolo Bientinesi,cs.DC,http://arxiv.org/pdf/1302.4332v1
+1302.5133v1,2013-02-20T21:37:43Z,"Q#, a quantum computation package for the .NET platform",M. A. El-Dosuky,cs.ET,http://arxiv.org/pdf/1302.5133v1
+1303.0934v1,2013-03-05T05:55:59Z,GURLS: a Least Squares Library for Supervised Learning,Lorenzo Rosasco,cs.LG,http://arxiv.org/pdf/1303.0934v1
+1303.2140v2,2013-03-08T22:32:22Z,Possible Directions for Improving Dependency Versioning in R,Jeroen Ooms,cs.SE,http://arxiv.org/pdf/1303.2140v2
+1303.3182v1,2013-03-13T15:04:05Z,Tiled Algorithms for Matrix Computations on Multicore Architectures,Henricus Bouwmeester,cs.NA,http://arxiv.org/pdf/1303.3182v1
+1303.3761v2,2013-03-15T13:03:40Z,Update report: LEO-II version 1.5,Nik Sultana,cs.LO,http://arxiv.org/pdf/1303.3761v2
+1303.4193v3,2013-03-18T09:20:41Z,A Qualitative Comparison of the Suitability of Four Theorem Provers for   Basic Auction Theory,Wolfgang Windsteiger,cs.LO,http://arxiv.org/pdf/1303.4193v3
+1303.4808v3,2013-03-20T01:57:36Z,The RAppArmor Package: Enforcing Security Policies in R Using Dynamic   Sandboxing on Linux,Jeroen Ooms,cs.CR,http://arxiv.org/pdf/1303.4808v3
+1303.4928v2,2013-03-20T13:05:33Z,Parameter identification in large kinetic networks with BioPARKIN,Peter Deuflhard,cs.MS,http://arxiv.org/pdf/1303.4928v2
+1303.6034v2,2013-03-25T06:18:35Z,ZKCM: a C++ library for multiprecision matrix computation with   applications in quantum information,Akira SaiToh,cs.MS,http://arxiv.org/pdf/1303.6034v2
+1303.6257v2,2013-03-25T19:19:47Z,Sampling exactly from the normal distribution,Charles F. F. Karney,physics.comp-ph,http://arxiv.org/pdf/1303.6257v2
+1303.7425v1,2013-03-29T15:47:45Z,Highly Scalable Multiplication for Distributed Sparse Multivariate   Polynomials on Many-core Systems,Jacques Laskar,cs.SC,http://arxiv.org/pdf/1303.7425v1
+1304.0864v1,2013-04-03T08:01:42Z,Efficient Generation of Correctness Certificates for the Abstract Domain   of Polyhedra,Michaël Périn,cs.PL,http://arxiv.org/pdf/1304.0864v1
+1304.0878v2,2013-04-03T09:11:25Z,C Language Extensions for Hybrid CPU/GPU Programming with StarPU,Ludovic Courtès,cs.MS,http://arxiv.org/pdf/1304.0878v2
+1304.1356v1,2013-04-04T13:06:34Z,The Graph Grammar Library - a generic framework for chemical graph   rewrite systems,Christoph Flamm,cs.MS,http://arxiv.org/pdf/1304.1356v1
+1304.2272v1,2013-04-08T17:13:39Z,Algorithms for Large-scale Whole Genome Association Analysis,Paolo Bientinesi,cs.CE,http://arxiv.org/pdf/1304.2272v1
+1304.6899v1,2013-04-25T12:59:31Z,An implementation of the relational k-means algorithm,Balázs Szalkai,cs.LG,http://arxiv.org/pdf/1304.6899v1
+1304.7053v1,2013-04-26T02:22:14Z,A GEMM interface and implementation on NVIDIA GPUs for multiple small   matrices,Paul Mullowney,cs.MS,http://arxiv.org/pdf/1304.7053v1
+1304.7054v1,2013-04-26T02:22:25Z,Batched Kronecker product for 2-D matrices and 3-D arrays on NVIDIA GPUs,Chetan Jhurani,cs.MS,http://arxiv.org/pdf/1304.7054v1
+1304.7855v1,2013-04-30T04:13:58Z,"Enhancements to ACL2 in Versions 5.0, 6.0, and 6.1",J Strother Moore,cs.MS,http://arxiv.org/pdf/1304.7855v1
+1307.1335v1,2013-07-04T14:06:46Z,"Investigating independent subsets of graphs, with Mathematica",Ottavio M. D'Antona,cs.MS,http://arxiv.org/pdf/1307.1335v1
+1307.1528v1,2013-07-05T06:21:33Z,Proceedings 10th International Workshop On User Interfaces for Theorem   Provers,Christoph Lüth,cs.LO,http://arxiv.org/pdf/1307.1528v1
+1307.1942v1,2013-07-08T04:41:18Z,PROOFTOOL: a GUI for the GAPT Framework,Bruno Woltzenlogel-Paleo,cs.LO,http://arxiv.org/pdf/1307.1942v1
+1307.1945v1,2013-07-08T04:42:02Z,Theorema 2.0: A Graphical User Interface for a Mathematical Assistant   System,Wolfgang Windsteiger,cs.MS,http://arxiv.org/pdf/1307.1945v1
+1307.3522v1,2013-07-12T17:31:45Z,Acceleration of univariate global optimization algorithms working with   Lipschitz functions and Lipschitz first derivatives,Yaroslav D. Sergeyev,math.OC,http://arxiv.org/pdf/1307.3522v1
+1307.3529v1,2013-07-12T17:56:23Z,Solving ordinary differential equations on the Infinity Computer by   working with infinitesimals numerically,Yaroslav D. Sergeyev,math.NA,http://arxiv.org/pdf/1307.3529v1
+1307.4302v1,2013-07-15T13:59:30Z,Lipschitz gradients for global optimization in a one-point-based   partitioning scheme,Yaroslav D. Sergeyev,math.OC,http://arxiv.org/pdf/1307.4302v1
+1307.4839v1,2013-07-18T06:45:12Z,FullSWOF_Paral: Comparison of two parallelization strategies (MPI and   SKELGIS) on a software designed for hydrology applications,Georges Sadaka,math.NA,http://arxiv.org/pdf/1307.4839v1
+1307.6488v1,2013-07-24T16:52:44Z,From Physics Model to Results: An Optimizing Framework for   Cross-Architecture Code Generation,Jian Tao,physics.comp-ph,http://arxiv.org/pdf/1307.6488v1
+1307.6638v1,2013-07-25T06:52:00Z,Supporting 64-bit global indices in Epetra and other Trilinos packages   -- Techniques used and lessons learned,James M. Willenbring,cs.MS,http://arxiv.org/pdf/1307.6638v1
+1310.0056v2,2013-09-30T21:05:03Z,Modernizing PHCpack through phcpy,Jan Verschelde,cs.MS,http://arxiv.org/pdf/1310.0056v2
+1310.4716v1,2013-10-17T14:30:42Z,SOSTOOLS Version 3.00 Sum of Squares Optimization Toolbox for MATLAB,Pablo Parrilo,math.OC,http://arxiv.org/pdf/1310.4716v1
+1310.5551v1,2013-10-18T19:58:03Z,SymbolicData:SDEval - Benchmarking for Everyone,Andreas Nareike,cs.SC,http://arxiv.org/pdf/1310.5551v1
+1310.8455v1,2013-10-31T10:56:22Z,Composing and Factoring Generalized Green's Operators and Ordinary   Boundary Problems,Georg Regensburger,cs.SC,http://arxiv.org/pdf/1310.8455v1
+1311.2719v1,2013-11-12T09:12:54Z,Lattice Simulations using OpenACC compilers,Pushan Majumdar,hep-lat,http://arxiv.org/pdf/1311.2719v1
+1311.5735v1,2013-11-22T12:39:29Z,MEIGO: an open-source software suite based on metaheuristics for global   optimization in systems biology and bioinformatics,Julio Saez-Rodriguez,math.OC,http://arxiv.org/pdf/1311.5735v1
+1404.0390v3,2014-04-01T20:14:51Z,Further scramblings of Marsaglia's xorshift generators,Sebastiano Vigna,cs.DS,http://arxiv.org/pdf/1404.0390v3
+1404.2891v1,2014-04-10T17:59:44Z,A New Highly Parallel Non-Hermitian Eigensolver,Eric Polizzi,math.NA,http://arxiv.org/pdf/1404.2891v1
+1404.4161v2,2014-04-16T08:09:56Z,An Optimized and Scalable Eigensolver for Sequences of Eigenvalue   Problems,Edoardo Di Napoli,cs.MS,http://arxiv.org/pdf/1404.4161v2
+1404.4893v1,2014-04-18T21:48:34Z,CTBNCToolkit: Continuous Time Bayesian Network Classifier Toolkit,Fabio Stella,cs.AI,http://arxiv.org/pdf/1404.4893v1
+1405.0320v1,2014-05-01T23:00:24Z,Computing all Affine Solution Sets of Binomial Systems,Jan Verschelde,cs.SC,http://arxiv.org/pdf/1405.0320v1
+1405.3758v1,2014-05-15T06:55:21Z,Search Interfaces for Mathematicians,Andrea Kohlhase,cs.HC,http://arxiv.org/pdf/1405.3758v1
+1405.5668v1,2014-05-22T08:41:00Z,NLCertify: A Tool for Formal Nonlinear Optimization,Victor Magron,cs.MS,http://arxiv.org/pdf/1405.5668v1
+1405.7012v4,2014-05-27T19:01:57Z,A formally verified proof of the Central Limit Theorem,Luke Serafin,cs.MS,http://arxiv.org/pdf/1405.7012v4
+1405.7290v2,2014-05-28T16:07:12Z,PyRDM: A Python-based library for automating the management and online   publication of scientific software and data,Matthew D. Piggott,cs.CE,http://arxiv.org/pdf/1405.7290v2
+1405.7470v1,2014-05-29T05:53:56Z,Loo.py: transformation-based code generation for GPUs and CPUs,Andreas Klöckner,cs.PL,http://arxiv.org/pdf/1405.7470v1
+1407.0904v2,2014-07-03T13:01:45Z,COFFEE: an Optimizing Compiler for Finite Element Local Assembly,Paul H. J. Kelly,cs.MS,http://arxiv.org/pdf/1407.0904v2
+1407.2905v1,2014-07-10T19:08:32Z,Run-time extensibility and librarization of simulation software,Barry F. Smith,cs.SE,http://arxiv.org/pdf/1407.2905v1
+1407.3262v1,2014-06-25T19:38:09Z,Elements of Design for Containers and Solutions in the LinBox Library,B. David Saunders,cs.MS,http://arxiv.org/pdf/1407.3262v1
+1407.5953v1,2014-07-22T17:42:29Z,Implementing cryptographic pairings at standard security levels,Jérôme Milan,math.NT,http://arxiv.org/pdf/1407.5953v1
+1407.8078v1,2014-07-30T15:13:03Z,Zolotarev Quadrature Rules and Load Balancing for the FEAST Eigensolver,Gautier Viaud,math.NA,http://arxiv.org/pdf/1407.8078v1
+1507.01066v2,2015-07-04T05:20:22Z,Graphulo Implementation of Server-Side Sparse Matrix Multiply in the   Accumulo Database,Adam Fuchs,cs.DB,http://arxiv.org/pdf/1507.01066v2
+1507.01888v1,2015-07-05T15:32:13Z,"MADNESS: A Multiresolution, Adaptive Numerical Environment for   Scientific Simulation",Yukina Yokoi,cs.MS,http://arxiv.org/pdf/1507.01888v1
+0910.0663v7,2009-10-05T03:08:43Z,Transmission line inspires a new distributed algorithm to solve linear   system of circuit,Huazhong Yang,cs.CE,http://arxiv.org/pdf/0910.0663v7
+1003.1628v1,2010-03-08T13:47:25Z,Having Fun with Lambert W(x) Function,Darko Veberic,cs.MS,http://arxiv.org/pdf/1003.1628v1
+1003.4628v2,2010-03-24T12:46:52Z,"Efficient Construction, Update and Downdate Of The Coefficients Of   Interpolants Based On Polynomials Satisfying A Three-Term Recurrence Relation",Pedro Gonnet,cs.NA,http://arxiv.org/pdf/1003.4628v2
+1003.4629v2,2010-03-24T12:47:13Z,A Review of Error Estimation in Adaptive Quadrature,Pedro Gonnet,cs.NA,http://arxiv.org/pdf/1003.4629v2
+1003.5192v1,2010-03-26T17:32:10Z,"wiki.openmath.org - how it works, how you can participate",Christoph Lange,cs.DL,http://arxiv.org/pdf/1003.5192v1
+1003.5196v1,2010-03-26T18:17:01Z,SWiM -- A Semantic Wiki for Mathematical Knowledge Management,Christoph Lange,cs.DL,http://arxiv.org/pdf/1003.5196v1
+1003.6036v3,2010-03-31T12:26:10Z,Computational Complexity of Iterated Maps on the Interval,Christoph Spandl,cs.NA,http://arxiv.org/pdf/1003.6036v3
+1005.0146v1,2010-05-02T16:12:32Z,The Formulator MathML Editor Project: User-Friendly Authoring of Content   Markup Documents,Valentyn Yanchuk,cs.DL,http://arxiv.org/pdf/1005.0146v1
+1005.1252v1,2010-05-07T17:31:20Z,"Universal algorithms, mathematics of semirings and parallel computations",A. N. Sobolevski,math.NA,http://arxiv.org/pdf/1005.1252v1
+1005.2819v1,2010-05-17T06:58:07Z,SABRE: A Tool for Stochastic Analysis of Biochemical Reaction Networks,Verena Wolf,cs.CE,http://arxiv.org/pdf/1005.2819v1
+1005.3992v2,2010-05-19T11:26:36Z,Groebner bases in Java with applications in computer graphics,Milan Z. Campara,cs.MS,http://arxiv.org/pdf/1005.3992v2
+1005.4117v1,2010-05-22T10:10:33Z,Random Numbers in Scientific Computing: An Introduction,Helmut G. Katzgraber,physics.comp-ph,http://arxiv.org/pdf/1005.4117v1
+1005.4661v2,2010-05-22T22:21:10Z,Nonsingular Efficient Modeling of Rotations in 3-space using three   components,Norman J. Goldstein,cs.MS,http://arxiv.org/pdf/1005.4661v2
+1006.2183v1,2010-06-11T02:10:58Z,Highly Parallel Sparse Matrix-Matrix Multiplication,John R. Gilbert,cs.DC,http://arxiv.org/pdf/1006.2183v1
+1103.3160v2,2011-03-16T12:55:13Z,sin[n Delta t sin (n Delta t1)] as a source of unpredictable dynamics,Stefano Morosetti,nlin.CD,http://arxiv.org/pdf/1103.3160v2
+1104.1187v1,2011-04-06T20:29:22Z,Computational Tools for Cohomology of Toric Varieties,Thorsten Rahn,hep-th,http://arxiv.org/pdf/1104.1187v1
+1104.1696v1,2011-04-09T11:54:31Z,Symbolic computation of weighted Moore-Penrose inverse using   partitioning method,M. D,cs.SC,http://arxiv.org/pdf/1104.1696v1
+1104.4518v2,2011-04-22T23:42:40Z,Parallel Breadth-First Search on Distributed Memory Systems,Kamesh Madduri,cs.DC,http://arxiv.org/pdf/1104.4518v2
+1112.5588v2,2011-12-23T14:03:56Z,Sparse matrix-vector multiplication on GPGPU clusters: A new storage   format and a scalable implementation,Alan R. Bishop,cs.DC,http://arxiv.org/pdf/1112.5588v2
+1211.3056v2,2012-11-13T17:28:03Z,GPU-accelerated generation of correctly-rounded elementary functions,Stef Graillat,cs.MS,http://arxiv.org/pdf/1211.3056v2
+1211.3567v1,2012-11-15T10:38:46Z,A Bernstein Polynomial Collocation Method for the Solution of Elliptic   Boundary Value Problems,Bosko Rasuo,math.NA,http://arxiv.org/pdf/1211.3567v1
+1211.4047v2,2012-11-16T21:56:02Z,Unified Form Language: A domain-specific language for weak formulations   of partial differential equations,Garth N. Wells,cs.MS,http://arxiv.org/pdf/1211.4047v2
+1211.4892v1,2012-11-20T22:08:31Z,Confusion of Tagged Perturbations in Forward Automatic Differentiation   of Higher-Order Functions,Jeffrey Mark Siskind,cs.SC,http://arxiv.org/pdf/1211.4892v1
+1211.5904v1,2012-11-26T10:15:29Z,Application-tailored Linear Algebra Algorithms: A search-based Approach,Paolo Bientinesi,cs.MS,http://arxiv.org/pdf/1211.5904v1
+1211.7110v1,2012-11-29T22:38:57Z,Algorithms for discovering and proving theorems about permutation   patterns,Henning Ulfarsson,math.CO,http://arxiv.org/pdf/1211.7110v1
+1301.0044v1,2013-01-01T01:54:57Z,Formal Model-Driven Engineering: Generating Data and Behavioural   Components,Jim Davies,cs.SE,http://arxiv.org/pdf/1301.0044v1
+1301.0114v1,2013-01-01T18:29:39Z,Tree-based Arithmetic and Compressed Representations of Giant Numbers,Paul Tarau,cs.PL,http://arxiv.org/pdf/1301.0114v1
+1301.0128v1,2013-01-01T19:58:26Z,Binary Tree Arithmetic with Generalized Constructors,Paul Tarau,cs.MS,http://arxiv.org/pdf/1301.0128v1
+1301.0129v1,2013-01-01T20:10:51Z,On Two Infinite Families of Pairing Bijections,Paul Tarau,cs.MS,http://arxiv.org/pdf/1301.0129v1
+1301.1334v2,2013-01-07T20:59:13Z,"Object-oriented implementations of the MPDATA advection equation solver   in C++, Python and Fortran",Maciej Fijałkowski,physics.comp-ph,http://arxiv.org/pdf/1301.1334v2
+1301.2102v3,2013-01-10T12:22:23Z,A block MINRES algorithm based on the banded Lanczos method,Kirk M. Soodhalter,math.NA,http://arxiv.org/pdf/1301.2102v3
+1301.2650v3,2013-01-12T05:36:09Z,Krylov Subspace Recycling for Sequences of Shifted Linear Systems,Fei Xue,math.NA,http://arxiv.org/pdf/1301.2650v3
+1301.2707v2,2013-01-12T19:00:15Z,ALGORITHM 937: MINRES-QLP for Singular Symmetric and Hermitian Linear   Equations and Least-Squares Problems,Michael A. Saunders,cs.MS,http://arxiv.org/pdf/1301.2707v2
+1301.3863v1,2013-01-16T15:50:42Z,YGGDRASIL - A Statistical Package for Learning Split Models,Soren Hojsgaard,cs.AI,http://arxiv.org/pdf/1301.3863v1
+1301.6879v5,2013-01-29T10:05:37Z,A Unified Software Framework for Empirical Gramians,Mario Ohlberger,math.OC,http://arxiv.org/pdf/1301.6879v5
+1301.7283v1,2013-01-30T16:52:05Z,On the effects of scaling on the performance of Ipopt,J. A. Scott,math.OC,http://arxiv.org/pdf/1301.7283v1
+1305.1422v3,2013-05-07T06:43:26Z,Somoclu: An Efficient Parallel Library for Self-Organizing Maps,Li Zhao,cs.DC,http://arxiv.org/pdf/1305.1422v3
+1305.3122v1,2013-05-14T11:52:17Z,An efficient way to perform the assembly of finite element matrices in   Matlab and Octave,Gilles Scarella,cs.NA,http://arxiv.org/pdf/1305.3122v1
+1305.3625v1,2013-05-15T20:16:42Z,Making the case of GPUs in courses on computational physics,Knut Skogstrand Gjerden,physics.comp-ph,http://arxiv.org/pdf/1305.3625v1
+1305.5120v1,2013-05-21T10:08:01Z,A Parallel and Scalable Iterative Solver for Sequences of Dense   Eigenproblems Arising in FLAPW,Edoardo Di Napoli,cs.DC,http://arxiv.org/pdf/1305.5120v1
+1306.1128v1,2013-06-05T14:56:04Z,Arithmetic Algorithms for Hereditarily Binary Natural Numbers,Paul Tarau,cs.DS,http://arxiv.org/pdf/1306.1128v1
+1306.5771v1,2013-06-24T20:22:29Z,Panphasia: a user guide,Stephen Booth,astro-ph.IM,http://arxiv.org/pdf/1306.5771v1
+1306.6291v4,2013-06-26T16:57:40Z,A Method for Fast Diagonalization of a 2x2 or 3x3 Real Symmetric Matrix,M. J. Kronenburg,math.NA,http://arxiv.org/pdf/1306.6291v4
+1306.6675v1,2013-06-27T22:30:55Z,Next generation input-output data format for HEP using Google's protocol   buffers,S. V. Chekanov,cs.CE,http://arxiv.org/pdf/1306.6675v1
+1308.3493v1,2013-08-15T20:00:02Z,xTras: a field-theory inspired xAct package for Mathematica,Teake Nutma,cs.SC,http://arxiv.org/pdf/1308.3493v1
+1308.4214v1,2013-08-20T02:50:43Z,Pylearn2: a machine learning research library,Yoshua Bengio,stat.ML,http://arxiv.org/pdf/1308.4214v1
+1308.5200v1,2013-08-23T18:35:59Z,"Manopt, a Matlab toolbox for optimization on manifolds",Rodolphe Sepulchre,cs.MS,http://arxiv.org/pdf/1308.5200v1
+1308.5846v1,2013-08-27T12:46:37Z,A Domain Decomposition Approach to Implementing Fault Slip in   Finite-Element Models of Quasi-static and Dynamic Crustal Deformation,Charles A. Williams,physics.geo-ph,http://arxiv.org/pdf/1308.5846v1
+1308.6029v3,2013-08-28T02:14:20Z,Algorithm 950: Ncpol2sdpa---Sparse Semidefinite Programming Relaxations   for Polynomial Optimization Problems of Noncommuting Variables,Peter Wittek,cs.MS,http://arxiv.org/pdf/1308.6029v3
+1309.0671v1,2013-09-03T13:38:05Z,BayesOpt: A Library for Bayesian optimization with Robotics Applications,Ruben Martinez-Cantin,cs.RO,http://arxiv.org/pdf/1309.0671v1
+1309.1780v1,2013-09-06T21:41:20Z,Software Abstractions and Methodologies for HPC Simulation Codes on   Future Architectures,R. Thakur,cs.CE,http://arxiv.org/pdf/1309.1780v1
+1309.1781v1,2013-09-06T21:48:39Z,Experiences from Software Engineering of Large Scale AMR Multiphysics   Code Frameworks,B. Van Straalen,cs.CE,http://arxiv.org/pdf/1309.1781v1
+1309.1812v2,2013-09-07T03:18:51Z,Cactus: Issues for Sustainable Simulation Software,Erik Schnetter,cs.CE,http://arxiv.org/pdf/1309.1812v2
+1309.5479v1,2013-09-21T14:00:40Z,Higher-order Reverse Automatic Differentiation with emphasis on the   third-order,Artur L. Gower,cs.MS,http://arxiv.org/pdf/1309.5479v1
+1312.2266v4,2013-12-08T21:31:14Z,"The deal.II Library, Version 8.1",Toby D. Young,math.NA,http://arxiv.org/pdf/1312.2266v4
+1312.2674v1,2013-12-10T05:31:23Z,Silent error detection in numerical time-stepping schemes,Robert Schreiber,cs.NA,http://arxiv.org/pdf/1312.2674v1
+1312.3020v1,2013-12-11T02:33:45Z,Sparse Allreduce: Efficient Scalable Communication for Power-Law Data,John Canny,cs.DC,http://arxiv.org/pdf/1312.3020v1
+1312.6182v1,2013-12-21T00:38:02Z,Large-Scale Paralleled Sparse Principal Component Analysis,K. Lu,cs.MS,http://arxiv.org/pdf/1312.6182v1
+1312.6488v1,2013-12-23T09:12:09Z,Early Observations on Performance of Google Compute Engine for   Scientific Computing,Miranda Zhang,cs.DC,http://arxiv.org/pdf/1312.6488v1
+1401.0827v1,2014-01-04T16:42:05Z,Interaction entre mathématique et informatique Libre/Open Source par   le logiciel mathématique,K. I. A. Derouiche,cs.MS,http://arxiv.org/pdf/1401.0827v1
+1401.2720v3,2014-01-13T06:12:17Z,A hierarchically blocked Jacobi SVD algorithm for single and multiple   graphics processing units,Vedran Novaković,cs.NA,http://arxiv.org/pdf/1401.2720v3
+1401.3013v1,2014-01-13T21:18:48Z,Resilience in Numerical Methods: A Position on Fault Models and   Methodologies,Frank Mueller,cs.MS,http://arxiv.org/pdf/1401.3013v1
+1401.3301v2,2014-01-14T19:36:39Z,An efficient way to assemble finite element matrices in vector languages,Gilles Scarella,cs.MS,http://arxiv.org/pdf/1401.3301v2
+1401.4950v1,2014-01-20T15:52:03Z,MRRR-based Eigensolvers for Multi-core Processors and Supercomputers,Matthias Petschow,cs.MS,http://arxiv.org/pdf/1401.4950v1
+1401.5353v1,2014-01-21T15:43:52Z,STABLAB Documentation for KdV : Numerical proof of stability of roll   waves in the small-amplitude limit for inclined thin film flow,Blake Barker,cs.MS,http://arxiv.org/pdf/1401.5353v1
+1401.6694v2,2014-01-26T21:37:51Z,Multivariate sparse interpolation using randomized Kronecker   substitutions,Daniel S. Roche,cs.SC,http://arxiv.org/pdf/1401.6694v2
+1401.7372v1,2014-01-28T23:57:02Z,RProtoBuf: Efficient Cross-Language Data Serialization in R,Jeroen Ooms,stat.CO,http://arxiv.org/pdf/1401.7372v1
+1401.8230v2,2014-01-29T20:20:18Z,Increasing precision of uniform pseudorandom number generators,Alexey Gulov,cs.MS,http://arxiv.org/pdf/1401.8230v2
+1402.1285v1,2014-02-06T09:16:38Z,Constructing Performance Models for Dense Linear Algebra Algorithms on   Cray XE Systems,María J. Martín,cs.DC,http://arxiv.org/pdf/1402.1285v1
+1402.2626v2,2014-02-11T20:18:31Z,GPU acceleration of Newton's method for large systems of polynomial   equations in double double and quad double arithmetic,Xiangcheng Yu,cs.DC,http://arxiv.org/pdf/1402.2626v2
+1402.5086v1,2014-02-20T17:34:49Z,Symmetric QR Algorithm with Permutations,Aravindh Krishnamoorthy,cs.NA,http://arxiv.org/pdf/1402.5086v1
+1402.5897v1,2014-02-21T12:23:19Z,A Study on the Influence of Caching: Sequences of Dense Linear Algebra   Kernels,Paolo Bientinesi,cs.MS,http://arxiv.org/pdf/1402.5897v1
+1402.6076v1,2014-02-25T07:50:50Z,Machine Learning at Scale,Jeremy M. Stanley,cs.LG,http://arxiv.org/pdf/1402.6076v1
+1402.6246v5,2014-01-22T19:18:20Z,"An experimental exploration of Marsaglia's xorshift generators,   scrambled",Sebastiano Vigna,cs.DS,http://arxiv.org/pdf/1402.6246v5
+1402.6635v1,2014-02-22T15:47:58Z,Tensor computations in computer algebra systems,L. A. Sevastyanov,cs.SC,http://arxiv.org/pdf/1402.6635v1
+1403.1200v1,2014-03-05T17:36:34Z,Recent software developments for special functions in the   Santander-Amsterdam project,N. M. Temme,math.CA,http://arxiv.org/pdf/1403.1200v1
+1403.2036v1,2014-03-09T08:09:02Z,Straightforward Bibliography Management in R with the RefManageR Package,Mathew W. McLean,cs.DL,http://arxiv.org/pdf/1403.2036v1
+1403.2805v1,2014-03-12T04:21:10Z,The jsonlite Package: A Practical and Consistent Mapping Between JSON   Data and R Objects,Jeroen Ooms,stat.CO,http://arxiv.org/pdf/1403.2805v1
+1403.4238v1,2014-03-17T18:26:41Z,Computer Vision Accelerators for Mobile Systems based on OpenCL GPGPU   Co-Processing,Joseph R. Cavallaro,cs.DC,http://arxiv.org/pdf/1403.4238v1
+1403.5355v2,2014-03-21T03:45:08Z,The MIXMAX random number generator,Konstantin G. Savvidy,hep-lat,http://arxiv.org/pdf/1403.5355v2
+1403.6426v1,2014-03-25T17:21:55Z,High Performance Solutions for Big-data GWAS,Paolo Bientinesi,q-bio.GN,http://arxiv.org/pdf/1403.6426v1
+1406.0089v3,2014-05-31T16:02:54Z,Recursive Algorithms for Distributed Forests of Octrees,Omar Ghattas,cs.DC,http://arxiv.org/pdf/1406.0089v3
+1406.1066v3,2014-06-04T15:01:23Z,Fast Matlab compatible sparse assembly on multicore computers,Dimitar Lukarski,cs.DC,http://arxiv.org/pdf/1406.1066v3
+1406.1556v1,2014-06-06T01:46:54Z,"Enhancements to ACL2 in Versions 6.2, 6.3, and 6.4",J Strother Moore,cs.AI,http://arxiv.org/pdf/1406.1556v1
+1406.4806v1,2014-06-04T00:03:52Z,The OpenCPU System: Towards a Universal Interface for Scientific   Computing through Separation of Concerns,Jeroen Ooms,stat.CO,http://arxiv.org/pdf/1406.4806v1
+1406.5565v1,2014-06-21T01:50:54Z,An Open Source Pattern Recognition Toolbox for MATLAB,Sam Keene,stat.ML,http://arxiv.org/pdf/1406.5565v1
+1406.7648v2,2014-06-30T09:56:20Z,Bayesian Network Constraint-Based Structure Learning Algorithms:   Parallel and Optimised Implementations in the bnlearn R Package,Marco Scutari,stat.CO,http://arxiv.org/pdf/1406.7648v2
+1408.0393v1,2014-08-02T16:17:40Z,Standards for Graph Algorithm Primitives,Andrew Yoo,cs.MS,http://arxiv.org/pdf/1408.0393v1
+1408.0854v1,2014-08-05T03:18:28Z,Semi-Analytical Computation of Acoustic Scattering by Spheroids and   Disks,Ramani Duraiswami,cs.MS,http://arxiv.org/pdf/1408.0854v1
+1408.1900v1,2014-08-07T07:16:07Z,A Report of a Significant Error On a Frequently Used Pseudo Random   Number Generator,M. Cemal Yalabik,cs.MS,http://arxiv.org/pdf/1408.1900v1
+1408.2858v2,2014-08-12T21:23:11Z,Experimental Evaluation of Multi-Round Matrix Multiplication on   MapReduce,Francesco Silvestri,cs.DC,http://arxiv.org/pdf/1408.2858v2
+1408.3264v7,2014-08-14T12:37:57Z,A brief survey on deep belief networks and introducing a new object   oriented toolbox (DeeBNet),Mohammad Mehdi Homayounpour,cs.CV,http://arxiv.org/pdf/1408.3264v7
+1408.4701v2,2014-08-20T15:46:07Z,Orbital-Free Density Functional Theory Implementation with the Projector   Augmented-Wave Method,O. Lopez-Acevedo,physics.comp-ph,http://arxiv.org/pdf/1408.4701v2
+1408.5925v1,2014-08-25T20:50:08Z,A Framework for Lattice QCD Calculations on GPUs,B. Joó,hep-lat,http://arxiv.org/pdf/1408.5925v1
+1408.6373v1,2014-08-27T10:13:45Z,Concurrent Cuba,T. Hahn,physics.comp-ph,http://arxiv.org/pdf/1408.6373v1
+1409.0669v1,2014-09-02T11:21:13Z,Performance Portability Study of Linear Algebra Kernels in OpenCL,Ansgar Jüngel,cs.MS,http://arxiv.org/pdf/1409.0669v1
+1409.1354v3,2014-09-04T08:21:16Z,CosmoMC Installation and Running Guidelines,Dong Zhao,astro-ph.IM,http://arxiv.org/pdf/1409.1354v3
+1409.2908v1,2014-09-09T22:28:36Z,A Framework for Practical Parallel Fast Matrix Multiplication,Grey Ballard,cs.DC,http://arxiv.org/pdf/1409.2908v1
+1409.3144v1,2014-09-09T10:37:20Z,Enhancing R with Advanced Compilation Tools and Methods,Duncan Temple Lang,stat.CO,http://arxiv.org/pdf/1409.3144v1
+1409.5757v1,2014-09-19T18:48:58Z,"Intel Cilk Plus for Complex Parallel Algorithms: ""Enormous Fast Fourier   Transform"" (EFFT) Library",Andrey Vladimirov,cs.MS,http://arxiv.org/pdf/1409.5757v1
+1410.0759v3,2014-10-03T06:16:43Z,cuDNN: Efficient Primitives for Deep Learning,Evan Shelhamer,cs.NE,http://arxiv.org/pdf/1410.0759v3
+1410.1387v1,2014-10-02T18:15:22Z,High-Order Finite-differences on multi-threaded architectures using OCCA,Timothy Warburton,math.NA,http://arxiv.org/pdf/1410.1387v1
+1410.4054v3,2014-10-15T13:23:31Z,Pipelined Iterative Solvers with Kernel Fusion for Graphics Processing   Units,Tibor Grasser,cs.MS,http://arxiv.org/pdf/1410.4054v3
+1410.4345v2,2014-10-16T09:28:18Z,HOPE: A Python Just-In-Time compiler for astrophysical computations,Alexandre Refregier,astro-ph.IM,http://arxiv.org/pdf/1410.4345v2
+1410.4821v1,2014-10-17T18:53:04Z,Convex Optimization in Julia,Stephen Boyd,math.OC,http://arxiv.org/pdf/1410.4821v1
+1410.8772v1,2014-10-30T08:29:11Z,Programming the Adapteva Epiphany 64-core Network-on-chip Coprocessor,Alistair P. Rendell,cs.AR,http://arxiv.org/pdf/1410.8772v1
+1411.1830v2,2014-11-07T05:10:34Z,Introduction to the R package TDA,Clément Maria,cs.MS,http://arxiv.org/pdf/1411.1830v2
+1411.2940v3,2014-11-11T19:47:45Z,Automated generation and symbolic manipulation of tensor product finite   elements,Colin J. Cotter,math.NA,http://arxiv.org/pdf/1411.2940v3
+1411.3834v1,2014-11-14T09:15:48Z,"Simple, Parallel, High-Performance Virtual Machines for Extreme   Computations",Jürgen Reuter,physics.comp-ph,http://arxiv.org/pdf/1411.3834v1
+1411.4439v1,2014-11-17T11:27:55Z,Conjugate gradient solvers on Intel Xeon Phi and NVIDIA GPUs,M. Wagner,physics.comp-ph,http://arxiv.org/pdf/1411.4439v1
+1412.0436v4,2014-12-01T11:35:47Z,An Infra-Structure for Performance Estimation and Experimental   Comparison of Predictive Models in R,Luis Torgo,cs.MS,http://arxiv.org/pdf/1412.0436v4
+1412.2562v1,2014-12-08T13:56:17Z,Minkowski sum of HV-polytopes in Rn,Denis Teissandier,cs.CG,http://arxiv.org/pdf/1412.2562v1
+1412.2564v2,2014-12-08T13:57:21Z,Minkowski Sum of Polytopes Defined by Their Vertices,Denis Teissandier,cs.CG,http://arxiv.org/pdf/1412.2564v2
+1412.4564v3,2014-12-15T12:23:35Z,MatConvNet - Convolutional Neural Networks for MATLAB,Karel Lenc,cs.CV,http://arxiv.org/pdf/1412.4564v3
+1412.6367v1,2014-12-19T15:06:50Z,PyFAI: a Python library for high performance azimuthal integration on   GPU,Giannis Ashiotis,astro-ph.IM,http://arxiv.org/pdf/1412.6367v1
+1412.6407v1,2014-12-19T16:03:26Z,Enhancing SfePy with Isogeometric Analysis,Robert Cimrman,cs.MS,http://arxiv.org/pdf/1412.6407v1
+1412.6890v2,2014-12-22T07:17:01Z,Software for Distributed Computation on Medical Databases: A   Demonstration Project,Philip W. Lavori,stat.CO,http://arxiv.org/pdf/1412.6890v2
+1501.00179v3,2014-12-31T17:34:59Z,A persistence landscapes toolbox for topological statistics,Pawel Dlotko,cs.CG,http://arxiv.org/pdf/1501.00179v3
+1501.01578v1,2015-01-07T18:06:17Z,GammaCHI: a package for the inversion and computation of the gamma and   chi-square cumulative distribution functions (central and noncentral),N. M. Temme,cs.MS,http://arxiv.org/pdf/1501.01578v1
+1501.01809v3,2015-01-08T11:57:05Z,Firedrake: automating the finite element method by composing   abstractions,Paul H. J. Kelly,cs.MS,http://arxiv.org/pdf/1501.01809v3
+1501.03341v1,2015-01-14T13:34:50Z,Solving Polynomial Systems by Penetrating Gradient Algorithm Applying   Deepest Descent Strategy,Ivo Beros,math.OC,http://arxiv.org/pdf/1501.03341v1
+1501.04979v3,2015-01-16T01:22:55Z,FASTA: A Generalized Implementation of Forward-Backward Splitting,Richard Baraniuk,cs.MS,http://arxiv.org/pdf/1501.04979v3
+1502.06064v1,2015-02-21T04:29:41Z,MILJS : Brand New JavaScript Libraries for Matrix Calculation and   Machine Learning,Tatsuya Harada,stat.ML,http://arxiv.org/pdf/1502.06064v1
+1503.00855v1,2015-03-03T08:21:32Z,How to speed up R code: an introduction,Nathan Uyttendaele,stat.CO,http://arxiv.org/pdf/1503.00855v1
+1503.01034v2,2015-03-03T18:20:39Z,Quantomatic: A Proof Assistant for Diagrammatic Reasoning,Vladimir Zamdzhiev,cs.LO,http://arxiv.org/pdf/1503.01034v2
+1503.01073v1,2015-02-27T08:48:24Z,T3PS: Tool for Parallel Processing in Parameter Scans,Vinzenz Maurer,cs.MS,http://arxiv.org/pdf/1503.01073v1
+1503.04099v1,2015-03-13T15:21:06Z,Algorithms and complexity for Turaev-Viro invariants,Jonathan Spreer,math.GT,http://arxiv.org/pdf/1503.04099v1
+1503.04501v1,2015-03-16T02:07:50Z,Computer Assisted Parallel Program Generation,Shigeo Kawata,physics.comp-ph,http://arxiv.org/pdf/1503.04501v1
+1503.05032v2,2015-03-17T13:18:49Z,CSR5: An Efficient Storage Format for Cross-Platform Sparse   Matrix-Vector Multiplication,Brian Vinter,cs.MS,http://arxiv.org/pdf/1503.05032v2
+1503.06182v1,2015-03-20T18:02:33Z,A Multi-Threaded Version of MCFM,Walter T. Giele,physics.comp-ph,http://arxiv.org/pdf/1503.06182v1
+1503.07659v2,2015-03-26T09:40:56Z,Loo.py: From Fortran to performance via transformation and substitution   rules,Andreas Klöckner,cs.PL,http://arxiv.org/pdf/1503.07659v2
+1504.01161v1,2015-04-05T20:58:18Z,Python bindings for libcloudph++,Davide Del Vento,physics.comp-ph,http://arxiv.org/pdf/1504.01161v1
+1504.02914v1,2015-04-11T20:33:06Z,Representing numeric data in 32 bits while preserving 64-bit precision,Radford M. Neal,stat.CO,http://arxiv.org/pdf/1504.02914v1
+1504.05022v2,2015-04-20T11:58:05Z,A Framework for General Sparse Matrix-Matrix Multiplication on GPUs and   Heterogeneous Processors,Brian Vinter,cs.MS,http://arxiv.org/pdf/1504.05022v2
+1504.06474v2,2015-04-24T11:23:38Z,Speculative Segmented Sum for Sparse Matrix-Vector Multiplication on   Heterogeneous Processors,Brian Vinter,cs.MS,http://arxiv.org/pdf/1504.06474v2
+1504.08035v1,2015-04-29T21:58:50Z,The ELAPS Framework: Experimental Linear Algebra Performance Studies,Paolo Bientinesi,cs.PF,http://arxiv.org/pdf/1504.08035v1
+1505.00344v1,2015-05-02T13:57:16Z,Fireflies: New software for interactively exploring dynamical systems   using GPU computing,Robert Merrison-Hort,cs.MS,http://arxiv.org/pdf/1505.00344v1
+1505.00383v1,2015-05-03T00:50:23Z,Tracking Many Solution Paths of a Polynomial Homotopy on a Graphics   Processing Unit,Xiangcheng Yu,cs.MS,http://arxiv.org/pdf/1505.00383v1
+1505.01629v1,2015-05-07T08:54:19Z,LeoPARD --- A Generic Platform for the Implementation of Higher-Order   Reasoners,Christoph Benzmüller,cs.LO,http://arxiv.org/pdf/1505.01629v1
+1505.05241v1,2015-05-20T04:11:49Z,Software for the Gale transform of fewnomial systems and a Descartes   rule for fewnomials,Frank Sottile,math.AG,http://arxiv.org/pdf/1505.05241v1
+1505.06807v1,2015-05-26T05:12:23Z,MLlib: Machine Learning in Apache Spark,Ameet Talwalkar,cs.LG,http://arxiv.org/pdf/1505.06807v1
+1505.07589v3,2015-05-28T08:25:45Z,SYM-ILDL: Incomplete $LDL^{T}$ Factorization of Symmetric Indefinite and   Skew-Symmetric Matrices,Paul Liu,cs.MS,http://arxiv.org/pdf/1505.07589v3
+1505.08067v1,2015-05-29T14:45:03Z,Efficient FFT mapping on GPU for radar processing application: modeling   and implementation,Michel Syska,cs.MS,http://arxiv.org/pdf/1505.08067v1
+1506.04462v1,2015-06-15T02:49:10Z,Accurate computation of Galerkin double surface integrals in the 3-D   boundary element method,Ramani Duraiswami,physics.comp-ph,http://arxiv.org/pdf/1506.04462v1
+1506.04463v1,2015-06-15T02:55:29Z,FEAST Eigensolver for non-Hermitian Problems,Ping Tak Peter Tang,math.NA,http://arxiv.org/pdf/1506.04463v1
+1506.06194v1,2015-06-20T02:25:14Z,Unstructured Overlapping Mesh Distribution in Parallel,Gerard J. Gorman,cs.MS,http://arxiv.org/pdf/1506.06194v1
+1506.06745v1,2015-06-22T17:17:34Z,GraphMaps: Browsing Large Graphs as Interactive Maps,Xiaoji Chen,cs.GR,http://arxiv.org/pdf/1506.06745v1
+1506.08258v1,2015-06-27T04:34:26Z,Trigger detection for adaptive scientific workflows using percentile   sampling,Maher Salloum,cs.CE,http://arxiv.org/pdf/1506.08258v1
+1506.08988v1,2015-06-30T08:35:15Z,Architecture-Aware Configuration and Scheduling of Matrix Multiplication   on Asymmetric Multicore Processors,Enrique S. Quintana-Ortí,cs.PF,http://arxiv.org/pdf/1506.08988v1
+1508.02219v1,2015-08-10T12:26:49Z,Using the VBARMS method in parallel computing,Aldo Bonfiglioli,math.NA,http://arxiv.org/pdf/1508.02219v1
+1508.03211v1,2015-08-13T13:42:35Z,Computing accurate Horner form approximations to special functions in   finite precision arithmetic,Tor G. J. Myklebust,cs.NA,http://arxiv.org/pdf/1508.03211v1
+1508.07582v1,2015-08-30T14:47:50Z,Approximating the Sum of Correlated Lognormals: An Implementation,Mitchell Kerman,q-fin.GN,http://arxiv.org/pdf/1508.07582v1
+1509.00864v1,2015-09-02T20:23:07Z,Strong Pseudoprimes to Twelve Prime Bases,Jonathan Webster,math.NT,http://arxiv.org/pdf/1509.00864v1
+1509.03604v2,2015-09-11T18:39:59Z,Fundamental concepts in the Cyclus nuclear fuel cycle simulation   framework,Paul P. H. Wilson,cs.SE,http://arxiv.org/pdf/1509.03604v2
+1509.04518v1,2015-09-15T12:24:58Z,A deterministic global optimization using smooth diagonal auxiliary   functions,Dmitri E. Kvasov,math.OC,http://arxiv.org/pdf/1509.04518v1
+1509.04692v1,2015-09-15T19:25:33Z,Scalable Metropolis Monte Carlo for simulation of hard shapes,Sharon C. Glotzer,cond-mat.soft,http://arxiv.org/pdf/1509.04692v1
+1509.04706v1,2015-09-15T18:23:56Z,Direct high-order edge-preserving regularization for tomographic image   reconstruction,Peter D. Lee,cs.CV,http://arxiv.org/pdf/1509.04706v1
+1509.06397v1,2015-09-21T20:44:12Z,SnapVX: A Network-Based Convex Optimization Solver,Jure Leskovec,cs.SI,http://arxiv.org/pdf/1509.06397v1
+1509.06935v2,2015-09-23T12:04:23Z,A shared memory implementation of pipelined Parareal,Daniel Ruprecht,cs.MS,http://arxiv.org/pdf/1509.06935v2
+1509.07919v1,2015-09-25T23:04:17Z,Analysis of A Splitting Approach for the Parallel Solution of Linear   Systems on GPU Cards,Dan Negrut,cs.DC,http://arxiv.org/pdf/1509.07919v1
+1510.08642v1,2015-10-29T10:58:55Z,Performance evaluation of multiple precision matrix multiplications   using parallelized Strassen and Winograd algorithms,Tomonori Kouya,math.NA,http://arxiv.org/pdf/1510.08642v1
+1511.02134v1,2015-11-06T16:07:04Z,A quantitative performance analysis for Stokes solvers at the extreme   scale,Barbara Wohlmuth,cs.CE,http://arxiv.org/pdf/1511.02134v1
+1511.02166v1,2015-11-06T17:17:36Z,Evaluation of the Intel Xeon Phi and NVIDIA K80 as accelerators for   two-dimensional panel codes,Lukas Einkemmer,cs.DC,http://arxiv.org/pdf/1511.02166v1
+1511.06487v3,2015-11-20T04:54:22Z,mplrs: A scalable parallel vertex/facet enumeration code,Charles Jordan,cs.MS,http://arxiv.org/pdf/1511.06487v3
+1512.01274v1,2015-12-03T22:49:21Z,MXNet: A Flexible and Efficient Machine Learning Library for   Heterogeneous Distributed Systems,Zheng Zhang,cs.DC,http://arxiv.org/pdf/1512.01274v1
+1512.02960v1,2015-12-09T17:32:30Z,Ensembles of Cycles Programmed in GiNaC,Vladimir V. Kisil,cs.CG,http://arxiv.org/pdf/1512.02960v1
+1512.03487v1,2015-12-10T23:51:19Z,Grid: A next generation data parallel C++ QCD library,Antonin Portelli,hep-lat,http://arxiv.org/pdf/1512.03487v1
+1601.04458v1,2016-01-18T10:38:52Z,Reducing local minima in fitness landscapes of parameter estimation by   using piecewise evaluation and state estimation,Sven Sahle,q-bio.QM,http://arxiv.org/pdf/1601.04458v1
+1601.07944v1,2016-01-28T22:49:50Z,Discontinuous Galerkin methods on graphics processing units for   nonlinear hyperbolic conservation laws,Lilia Krivodonova,cs.DC,http://arxiv.org/pdf/1601.07944v1
+1602.01376v1,2016-02-03T17:23:24Z,Inv-ASKIT: A Parallel Fast Diret Solver for Kernel Matrices,George Biros,cs.NA,http://arxiv.org/pdf/1602.01376v1
+1603.00293v2,2016-03-01T14:44:47Z,RWebData: A High-Level Interface to the Programmable Web,Ulrich Matter,stat.CO,http://arxiv.org/pdf/1603.00293v2
+1603.02297v1,2016-03-07T21:13:00Z,TTC: A high-performance Compiler for Tensor Transpositions,Paolo Bientinesi,cs.MS,http://arxiv.org/pdf/1603.02297v1
+1603.02526v1,2016-03-08T14:13:38Z,Testing fine-grained parallelism for the ADMM on a factor-graph,José Bento,cs.DC,http://arxiv.org/pdf/1603.02526v1
+1603.03236v4,2016-03-10T12:23:12Z,Pymanopt: A Python Toolbox for Optimization on Manifolds using Automatic   Differentiation,Sebastian Weichwald,cs.MS,http://arxiv.org/pdf/1603.03236v4
+1603.04787v1,2016-03-15T18:00:52Z,States and channels in quantum mechanics without complex numbers,J. A. Miszczak,physics.comp-ph,http://arxiv.org/pdf/1603.04787v1
+1603.05835v2,2016-03-18T11:01:23Z,A Flexible Primal-Dual Toolbox,Hendrik Dirks,math.OC,http://arxiv.org/pdf/1603.05835v2
+1603.06017v1,2016-03-18T23:53:10Z,Automatic Theorem Proving in Walnut,Hamoon Mousavi,cs.FL,http://arxiv.org/pdf/1603.06017v1
+1603.07008v1,2016-03-22T22:07:18Z,A mixed precision semi-Lagrangian algorithm and its performance on   accelerators,Lukas Einkemmer,cs.MS,http://arxiv.org/pdf/1603.07008v1
+1604.01416v1,2016-04-05T20:28:26Z,dMath: A Scalable Linear Algebra and Math Library for Heterogeneous   GP-GPU Architectures,Anthony Skjellum,cs.NE,http://arxiv.org/pdf/1604.01416v1
+1604.08079v2,2016-04-27T14:13:11Z,UBL: an R package for Utility-based Learning,Luis Torgo,cs.MS,http://arxiv.org/pdf/1604.08079v2
+1605.00410v1,2016-05-02T09:47:10Z,Computing Real Roots of Real Polynomials ... and now For Real!,Michael Sagraloff,cs.MS,http://arxiv.org/pdf/1605.00410v1
+1605.00492v2,2016-05-02T14:06:24Z,High level implementation of geometric multigrid solvers for finite   element problems: applications in atmospheric modelling,Eike Hermann Müller,cs.MS,http://arxiv.org/pdf/1605.00492v2
+1605.02688v1,2016-05-09T18:32:34Z,Theano: A Python framework for fast computation of mathematical   expressions,Ying Zhang,cs.SC,http://arxiv.org/pdf/1605.02688v1
+1606.00094v2,2016-06-01T02:17:26Z,"Boda-RTC: Productive Generation of Portable, Efficient Code for   Convolutional Neural Networks on Mobile Computing Platforms",Kurt Keutzer,cs.DC,http://arxiv.org/pdf/1606.00094v2
+1606.05563v1,2016-06-17T15:28:40Z,Computing all Space Curve Solutions of Polynomial Systems by Polyhedral   Methods,Jan Verschelde,cs.SC,http://arxiv.org/pdf/1606.05563v1
+1606.05790v2,2016-06-18T18:46:20Z,Mathematical Foundations of the GraphBLAS,Timothy Mattson,cs.MS,http://arxiv.org/pdf/1606.05790v2
+1606.06604v1,2016-06-21T14:51:11Z,Stochastic Runge-Kutta Software Package for Stochastic Differential   Equations,L. A. Sevastyanov,physics.comp-ph,http://arxiv.org/pdf/1606.06604v1
+1606.06977v2,2016-06-22T15:07:11Z,Computing hypergeometric functions rigorously,Fredrik Johansson,cs.MS,http://arxiv.org/pdf/1606.06977v2
+1606.07085v2,2016-06-22T20:08:47Z,From NoSQL Accumulo to NewSQL Graphulo: Design and Utility of Graph   Algorithms inside a BigTable Database,Bill Howe,cs.DB,http://arxiv.org/pdf/1606.07085v2
+1607.00291v3,2016-07-01T15:37:59Z,High-Performance Tensor Contraction without Transposition,Devin A. Matthews,cs.MS,http://arxiv.org/pdf/1607.00291v3
+1607.00346v3,2016-07-01T18:37:34Z,Distributed-memory Hierarchical Interpolative Factorization,Lexing Ying,math.NA,http://arxiv.org/pdf/1607.00346v3
+1607.01404v2,2016-07-05T20:15:56Z,PRIMME_SVDS: A High-Performance Preconditioned SVD Solver for Accurate   Large-Scale Computations,Andreas Stathopoulos,cs.MS,http://arxiv.org/pdf/1607.01404v2
+1607.01477v2,2016-07-06T04:19:04Z,Accelerating eigenvector and pseudospectra computation using blocked   multi-shift triangular solves,Jack Poulson,cs.MS,http://arxiv.org/pdf/1607.01477v2
+1607.02904v1,2016-07-11T11:23:04Z,The Vectorization of the Tersoff Multi-Body Potential: An Exercise in   Performance Portability,Paolo Bientinesi,cs.CE,http://arxiv.org/pdf/1607.02904v1
+1608.02148v2,2016-08-06T19:47:48Z,Randomized Matrix Decompositions using R,J. Nathan Kutz,stat.CO,http://arxiv.org/pdf/1608.02148v2
+1608.04041v1,2016-08-14T00:58:41Z,Julia Implementation of the Dynamic Distributed Dimensional Data Model,Dylan Hutchison,cs.MS,http://arxiv.org/pdf/1608.04041v1
+1608.07573v2,2016-08-26T11:58:00Z,"Containers for portable, productive and performant scientific computing",Garth N. Wells,cs.DC,http://arxiv.org/pdf/1608.07573v2
+1609.00829v1,2016-09-03T13:59:43Z,Efficient computation of Laguerre polynomials,N. M. Temme,cs.NA,http://arxiv.org/pdf/1609.00829v1
+1609.01088v1,2016-09-05T10:41:14Z,GTApprox: surrogate modeling for industrial design,Dmitry Yarotsky,cs.MS,http://arxiv.org/pdf/1609.01088v1
+1609.01277v2,2016-09-05T10:11:31Z,OpenSBLI: A framework for the automated derivation and parallel   execution of finite difference solvers on a range of computer architectures,Neil D. Sandham,cs.MS,http://arxiv.org/pdf/1609.01277v2
+1609.02831v1,2016-09-09T15:21:19Z,Nanosurveyor: a framework for real-time data processing,Stefano Marchesini,physics.ins-det,http://arxiv.org/pdf/1609.02831v1
+1609.03457v1,2016-09-08T06:07:23Z,Math-Aware Search Engines: Physics Applications and Overview,Deanna C. Pineau,cs.DL,http://arxiv.org/pdf/1609.03457v1
+1609.07008v1,2016-09-22T15:01:30Z,Betweenness Centrality is more Parallelizable than Dense Matrix   Multiplication,Torsten Hoefler,cs.DC,http://arxiv.org/pdf/1609.07008v1
+1609.08642v1,2016-09-27T20:09:03Z,Benchmarking the Graphulo Processing Framework,Jeremy Kepner,cs.DB,http://arxiv.org/pdf/1609.08642v1
+1609.09841v1,2016-09-30T18:02:54Z,GPU Acceleration of Hermite Methods for the Simulation of Wave   Propagation,Timothy Warburton,math.NA,http://arxiv.org/pdf/1609.09841v1
+1610.00345v1,2016-10-02T20:07:28Z,Density Estimation with Distribution Element Trees,Daniel W. Meyer,stat.ME,http://arxiv.org/pdf/1610.00345v1
+1610.03034v1,2016-10-10T19:14:59Z,Numerical Implicitization for Macaulay2,Joe Kileel,math.AG,http://arxiv.org/pdf/1610.03034v1
+1610.05141v1,2016-10-17T14:38:02Z,"Efficient Random Sampling - Parallel, Vectorized, Cache-Efficient, and   Online",Carsten Dachsbacher,cs.DS,http://arxiv.org/pdf/1610.05141v1
+1610.05329v1,2016-10-17T20:07:09Z,"OpenMP, OpenMP/MPI, and CUDA/MPI C programs for solving the   time-dependent dipolar Gross-Pitaevskii equation",Antun Balaz,cond-mat.quant-gas,http://arxiv.org/pdf/1610.05329v1
+1610.07310v1,2016-10-24T07:30:27Z,Large Scale Parallel Computations in R through Elemental,Paolo Bientinesi,stat.CO,http://arxiv.org/pdf/1610.07310v1
+1610.08128v1,2016-10-26T00:26:44Z,The Reverse Cuthill-McKee Algorithm in Distributed-Memory,Esmond G. Ng,cs.DC,http://arxiv.org/pdf/1610.08128v1
+1610.08713v1,2016-10-27T11:14:53Z,The Probabilistic Model Checker Storm (Extended Abstract),Matthias Volk,cs.SE,http://arxiv.org/pdf/1610.08713v1
+1610.09874v1,2016-10-31T11:34:29Z,Anisotropic mesh adaptation in Firedrake with PETSc DMPlex,Gerard J. Gorman,math.NA,http://arxiv.org/pdf/1610.09874v1
+1611.00675v1,2016-11-02T16:39:06Z,emgr - The Empirical Gramian Framework,Christian Himpe,cs.MS,http://arxiv.org/pdf/1611.00675v1
+1611.02274v1,2016-11-06T18:11:16Z,GPU-Based Parallel Integration of Large Numbers of Independent ODE   Systems,Chih-Jen Sung,cs.MS,http://arxiv.org/pdf/1611.02274v1
+1611.02831v1,2016-11-09T06:23:37Z,Arb: Efficient Arbitrary-Precision Midpoint-Radius Interval Arithmetic,Fredrik Johansson,cs.MS,http://arxiv.org/pdf/1611.02831v1
+1611.03410v1,2016-11-10T17:29:24Z,Binomial Checkpointing for Arbitrary Programs with No User Annotation,Barak A. Pearlmutter,cs.PL,http://arxiv.org/pdf/1611.03410v1
+1611.06365v1,2016-11-19T13:55:29Z,A Case for Malleable Thread-Level Linear Algebra Libraries: The LU   Factorization with Partial Pivoting,Robert van de Geijn,cs.DC,http://arxiv.org/pdf/1611.06365v1
+1611.06892v1,2016-11-18T15:11:48Z,Bidiagonalization with Parallel Tiled Algorithms,Jack Dongarra,cs.MS,http://arxiv.org/pdf/1611.06892v1
+1611.06945v1,2016-11-21T18:49:23Z,A Metaprogramming and Autotuning Framework for Deploying Deep Learning   Applications,Kurt Keutzer,cs.NE,http://arxiv.org/pdf/1611.06945v1
+1611.07819v1,2016-11-19T00:24:12Z,dMath: Distributed Linear Algebra for DL,Trevor Gale,cs.DC,http://arxiv.org/pdf/1611.07819v1
+1611.08832v1,2016-11-27T12:27:03Z,Verifying Integer Programming Results,Daniel E. Steffy,math.OC,http://arxiv.org/pdf/1611.08832v1
+1612.02495v2,2016-12-08T00:19:54Z,An initial investigation of the performance of GPU-based swept   time-space decomposition,Kyle E Niemeyer,physics.comp-ph,http://arxiv.org/pdf/1612.02495v2
+1612.03772v1,2016-12-09T19:13:03Z,SimTensor: A synthetic tensor data generator,Joao Gama,cs.MS,http://arxiv.org/pdf/1612.03772v1
+1612.05313v1,2016-12-15T23:52:29Z,The Method of Gauss-Newton to Compute Power Series Solutions of   Polynomial Homotopies,Jan Verschelde,math.NA,http://arxiv.org/pdf/1612.05313v1
+1612.07526v1,2016-12-22T10:19:09Z,An efficient hybrid tridiagonal divide-and-conquer algorithm on   distributed memory architectures,Xuebin Chi,cs.MS,http://arxiv.org/pdf/1612.07526v1
+1701.03980v1,2017-01-15T01:53:23Z,DyNet: The Dynamic Neural Network Toolkit,Pengcheng Yin,stat.ML,http://arxiv.org/pdf/1701.03980v1
+1701.05431v1,2017-01-19T14:29:17Z,A task-driven implementation of a simple numerical solver for hyperbolic   conservation laws,Vincent Perrier,cs.DC,http://arxiv.org/pdf/1701.05431v1
+0704.0090v1,2007-04-01T14:35:40Z,Real Options for Project Schedules (ROPS),Lester Ingber,cs.CE,http://arxiv.org/pdf/0704.0090v1
+0712.4126v1,2007-12-25T03:14:32Z,TRUST-TECH based Methods for Optimization and Learning,Chandan K. Reddy,cs.AI,http://arxiv.org/pdf/0712.4126v1
+0808.0540v1,2008-08-05T04:59:56Z,Executable Set Theory and Arithmetic Encodings in Prolog,Paul Tarau,cs.LO,http://arxiv.org/pdf/0808.0540v1
+1101.4369v2,2011-01-23T13:38:46Z,Univariate real root isolation in an extension field,Elias Tsigaridas,cs.SC,http://arxiv.org/pdf/1101.4369v2
+1201.1548v1,2012-01-07T11:57:44Z,Exact Symbolic-Numeric Computation of Planar Algebraic Curves,Michael Sagraloff,cs.CG,http://arxiv.org/pdf/1201.1548v1
+1202.4384v1,2012-02-20T17:05:30Z,Computable Hilbert Schemes,Paolo Lella,math.AG,http://arxiv.org/pdf/1202.4384v1
+1206.1187v2,2012-06-06T11:30:42Z,Parallel random variates generator for GPUs based on normal numbers,Tim Wilkin,cs.MS,http://arxiv.org/pdf/1206.1187v2
+1208.1157v2,2012-08-06T13:11:28Z,Swarm-NG: a CUDA Library for Parallel n-body Integrations with focus on   Simulations of Planetary Systems,Jorg Peters,astro-ph.EP,http://arxiv.org/pdf/1208.1157v2
+1210.7683v1,2012-10-29T14:58:03Z,Computing Petaflops over Terabytes of Data: The Case of Genome-Wide   Association Studies,Paolo Bientinesi,cs.MS,http://arxiv.org/pdf/1210.7683v1
+1310.2805v1,2013-10-10T13:24:07Z,MizAR 40 for Mizar 40,Josef Urban,cs.AI,http://arxiv.org/pdf/1310.2805v1
+1311.4533v3,2013-11-18T20:54:26Z,A Study of Speed of the Boundary Element Method as applied to the   Realtime Computational Simulation of Biological Organs,Kirana Kumara P,cs.CE,http://arxiv.org/pdf/1311.4533v3
+1405.7879v2,2014-05-30T14:36:33Z,Kahler: An Implementation of Discrete Exterior Calculus on Hermitian   Manifolds,Alex Eftimiades,cs.NA,http://arxiv.org/pdf/1405.7879v2
+1407.7786v2,2014-07-29T17:30:23Z,Numerical Methods for the Computation of the Confluent and Gauss   Hypergeometric Functions,Mason A. Porter,math.NA,http://arxiv.org/pdf/1407.7786v2
+1005.1320v1,2010-05-08T05:14:00Z,The myth of equidistribution for high-dimensional simulation,Richard P. Brent,cs.MS,http://arxiv.org/pdf/1005.1320v1
+1103.2695v1,2011-03-14T15:48:52Z,Software for Generation of Classes of Test Functions with Known Local   and Global Minima for Global Optimization,Yaroslav D. Sergeyev,math.OC,http://arxiv.org/pdf/1103.2695v1
+1103.3076v2,2011-03-16T01:50:33Z,PyDEC: Software and Algorithms for Discretization of Exterior Calculus,Anil N. Hirani,cs.NA,http://arxiv.org/pdf/1103.3076v2
+1103.4697v1,2011-03-24T08:26:01Z,Arrangement Computation for Planar Algebraic Curves,Michael Sagraloff,cs.SC,http://arxiv.org/pdf/1103.4697v1
+1104.1698v1,2011-04-09T12:09:08Z,About the generalized LM-inverse and the weighted Moore-Penrose inverse,Selver H. Pepí,cs.SC,http://arxiv.org/pdf/1104.1698v1
+1305.2550v2,2013-05-12T01:04:55Z,HERMES: towards an integrated toolbox to characterize functional and   effective brain connectivity,Francisco del-Pozo,q-bio.NC,http://arxiv.org/pdf/1305.2550v2
+1306.1295v3,2013-06-06T05:08:44Z,MathGR: a tensor and GR computation package to keep it simple,Yi Wang,cs.MS,http://arxiv.org/pdf/1306.1295v3
+1308.1536v2,2013-08-07T11:24:07Z,A Parallel Algorithm for Calculation of Large Determinants with High   Accuracy for GPUs and MPI clusters,Yuri Matiyasevich,cs.DC,http://arxiv.org/pdf/1308.1536v2
+1309.4962v1,2013-09-19T13:22:31Z,HOL(y)Hammer: Online ATP Service for HOL Light,Josef Urban,cs.AI,http://arxiv.org/pdf/1309.4962v1
+1406.4923v1,2014-06-19T00:44:12Z,"Achieving 100,000,000 database inserts per second using Accumulo and D4M",Charles Yee,cs.DB,http://arxiv.org/pdf/1406.4923v1
+1406.5597v1,2014-06-21T11:19:59Z,Transpose-free Fast Fourier Transform for Turbulence Simulation,M. Chaudhuri,cs.MS,http://arxiv.org/pdf/1406.5597v1
+1406.6900v3,2014-06-26T14:37:40Z,Efficient Gluing of Numerical Continuation and a Multiple Solution   Method for Elliptic PDEs,Christian Kuehn,math.DS,http://arxiv.org/pdf/1406.6900v3
+1406.6924v1,2014-06-26T15:35:00Z,Strongly stable ideals and Hilbert polynomials,Paolo Lella,cs.SC,http://arxiv.org/pdf/1406.6924v1
+1408.1727v1,2014-08-07T22:53:51Z,Cluster-level tuning of a shallow water equation solver on the Intel MIC   architecture,Cliff Addison,cs.MS,http://arxiv.org/pdf/1408.1727v1
+1408.4587v1,2014-08-20T10:00:15Z,"EURETILE D7.3 - Dynamic DAL benchmark coding, measurements on MPI   version of DPSNN-STDP (distributed plastic spiking neural net) and   improvements to other DAL codes",Piero Vicini,cs.DC,http://arxiv.org/pdf/1408.4587v1
+1412.7160v1,2014-12-22T21:00:07Z,The NIFTY way of Bayesian signal inference,Marco Selig,astro-ph.IM,http://arxiv.org/pdf/1412.7160v1
+1501.06625v3,2015-01-26T23:54:20Z,Accelerating Polynomial Homotopy Continuation on a Graphics Processing   Unit with Double Double and Quad Double Arithmetic,Xiangcheng Yu,cs.MS,http://arxiv.org/pdf/1501.06625v3
+1503.05743v1,2015-03-19T12:41:29Z,"Implementation of a Practical Distributed Calculation System with   Browsers and JavaScript, and Application to Distributed Deep Learning",Tatsuya Harada,cs.DC,http://arxiv.org/pdf/1503.05743v1
+1506.02618v1,2015-06-08T19:05:49Z,Solving Polynomial Systems in the Cloud with Polynomial Homotopy   Continuation,Xiangcheng Yu,cs.MS,http://arxiv.org/pdf/1506.02618v1
+1510.04914v1,2015-10-16T15:18:42Z,Hybridization of Interval CP and Evolutionary Algorithms for Optimizing   Difficult Problems,Jean-Marc Alliot,cs.AI,http://arxiv.org/pdf/1510.04914v1
+1606.01289v2,2016-06-03T22:06:58Z,Conforming restricted Delaunay mesh generation for piecewise smooth   complexes,Darren Engwirda,cs.CG,http://arxiv.org/pdf/1606.01289v2
+1607.03252v1,2016-07-12T07:47:45Z,Scheduling massively parallel multigrid for multilevel Monte Carlo   methods,Barbara Wohlmuth,cs.CE,http://arxiv.org/pdf/1607.03252v1
+1610.09146v1,2016-10-28T09:45:31Z,Performance evaluation of explicit finite difference algorithms with   varying amounts of computational and memory intensity,Neil D. Sandham,cs.DS,http://arxiv.org/pdf/1610.09146v1
+cs/0303031v1,2003-03-28T20:47:50Z,A Bird's eye view of Matrix Distributed Processing,Massimo Di Pierro,cs.DC,http://arxiv.org/pdf/cs/0303031v1
+hep-ph/0411100v2,2004-11-07T17:13:45Z,LSJK - a C++ library for arbitrary-precision numeric evaluation of the   generalized log-sine functions,A. Sheplyakov,hep-ph,http://arxiv.org/pdf/hep-ph/0411100v2
+math/0608789v7,2006-08-31T14:59:20Z,One method for proving inequalities by computer,Branko J. Malesevic,math.CA,http://arxiv.org/pdf/math/0608789v7
+nlin/0407062v1,2004-07-27T12:51:53Z,Construction of Single-valued Solutions for Nonintegrable Systems with   the Help of the Painleve Test,S. Yu. Vernov,nlin.SI,http://arxiv.org/pdf/nlin/0407062v1
+0907.2557v2,2009-07-15T11:14:37Z,The Multiple Zeta Value Data Mine,J. A. M. Vermaseren,math-ph,http://arxiv.org/pdf/0907.2557v2
+0912.0161v4,2009-12-01T10:36:18Z,"Community landscapes: an integrative approach to determine overlapping   network module hierarchy, identify key nodes and predict network dynamics",Peter Csermely,physics.comp-ph,http://arxiv.org/pdf/0912.0161v4
+1001.3213v2,2010-01-19T07:54:16Z,Using Premia and Nsp for Constructing a Risk Management Benchmark for   Testing Parallel Architecture,Bernard Lapeyre,cs.CE,http://arxiv.org/pdf/1001.3213v2
+1203.1017v1,2012-03-05T19:39:05Z,On the asymptotic and practical complexity of solving bivariate systems   over the reals,Elias P. Tsigaridas,cs.SC,http://arxiv.org/pdf/1203.1017v1
+1112.4523v1,2011-12-19T22:51:21Z,Complexity and Algorithms for Euler Characteristic of Simplicial   Complexes,Eduardo Sáenz de Cabezón,cs.CG,http://arxiv.org/pdf/1112.4523v1
+1408.3270v2,2014-08-14T13:11:15Z,JIDT: An information-theoretic toolkit for studying the dynamics of   complex systems,Joseph T. Lizier,cs.IT,http://arxiv.org/pdf/1408.3270v2
+1410.6910v3,2014-10-25T11:02:26Z,SPIKY: A graphical user interface for monitoring spike train synchrony,Nebojsa Bozanic,physics.data-an,http://arxiv.org/pdf/1410.6910v3
+1504.02366v1,2015-04-09T16:31:25Z,"A Collection of Challenging Optimization Problems in Science,   Engineering and Economics",Crina Grosan,cs.NA,http://arxiv.org/pdf/1504.02366v1
+1301.4499v2,2013-01-18T21:00:01Z,NIFTY - Numerical Information Field Theory - a versatile Python library   for signal inference,Torsten A. Enßlin,astro-ph.IM,http://arxiv.org/pdf/1301.4499v2

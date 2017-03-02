@@ -1,0 +1,1000 @@
+cs/9810022v1,1998-10-26T16:52:34Z,Broy-Lamport Specification Problem: A Gurevich Abstract State Machine   Solution,James K. Huggins,cs.SE,http://arxiv.org/pdf/cs/9810022v1
+cs/9810023v1,1998-10-26T18:46:06Z,Equivalence is in the Eye of the Beholder,James K. Huggins,cs.SE,http://arxiv.org/pdf/cs/9810023v1
+cs/9810024v1,1998-10-26T19:13:12Z,Evolving Algebras and Partial Evaluation,James K. Huggins,cs.SE,http://arxiv.org/pdf/cs/9810024v1
+cs/9810025v1,1998-10-26T19:19:04Z,An Offline Partial Evaluator for Evolving Algebras,James K. Huggins,cs.SE,http://arxiv.org/pdf/cs/9810025v1
+cs/9810026v1,1998-10-26T19:24:37Z,The Railroad Crossing Problem: An Experiment with Instantaneous Actions   and Immediate Reactions,James K. Huggins,cs.SE,http://arxiv.org/pdf/cs/9810026v1
+cs/9811007v1,1998-11-02T19:34:17Z,Second Product Line Practice Workshop Report,J. Withey,cs.SE,http://arxiv.org/pdf/cs/9811007v1
+cs/9811011v1,1998-11-04T14:32:22Z,Case Study in Survivable Network System Analysis,Nancy Mead,cs.SE,http://arxiv.org/pdf/cs/9811011v1
+cs/9811014v1,1998-11-09T19:32:38Z,Abstract State Machines 1988-1998: Commented ASM Bibliography,James K. Huggins,cs.SE,http://arxiv.org/pdf/cs/9811014v1
+cs/9902008v1,1999-02-05T12:01:56Z,Managing Object-Oriented Integration and Regression Testing,Mario Winter,cs.SE,http://arxiv.org/pdf/cs/9902008v1
+cs/9903018v1,1999-03-30T11:28:44Z,LuaJava - A Scripting Tool for Java,Noemi Rodriguez,cs.SE,http://arxiv.org/pdf/cs/9903018v1
+cs/9906030v1,1999-06-28T17:30:59Z,SCR3: towards usability of formal methods,M. Chechik,cs.SE,http://arxiv.org/pdf/cs/9906030v1
+cs/9906031v1,1999-06-28T18:06:27Z,Events in Linear-Time Properties,M. Chechik,cs.SE,http://arxiv.org/pdf/cs/9906031v1
+cs/9906032v1,1999-06-29T15:29:42Z,Formal Modeling in a Commercial Setting: A Case Study,M. Chechik,cs.SE,http://arxiv.org/pdf/cs/9906032v1
+cs/9907019v1,1999-07-12T13:34:21Z,A Reasonable C++ Wrappered Java Native Interface,Craig Bordelon,cs.SE,http://arxiv.org/pdf/cs/9907019v1
+cs/9912018v1,1999-12-24T15:59:23Z,Computation in an algebra of test selection criteria,Shmuel Zaks,cs.SE,http://arxiv.org/pdf/cs/9912018v1
+cs/0011029v1,2000-11-21T08:09:10Z,Systematic Debugging of Attribute Grammars,Masataka Sassa,cs.SE,http://arxiv.org/pdf/cs/0011029v1
+cs/0012009v1,2000-12-14T13:49:52Z,Finding Failure Causes through Automated Testing,Andreas Zeller,cs.SE,http://arxiv.org/pdf/cs/0012009v1
+cs/0012014v1,2000-12-18T11:59:31Z,Slicing of Constraint Logic Programs,Jan Maluszynski,cs.SE,http://arxiv.org/pdf/cs/0012014v1
+cs/0105008v1,2001-05-05T08:09:08Z,Applying Slicing Technique to Software Architectures,Jianjun Zhao,cs.SE,http://arxiv.org/pdf/cs/0105008v1
+cs/0105009v1,2001-05-05T08:41:43Z,Using Dependence Analysis to Support Software Architecture Understanding,Jianjun Zhao,cs.SE,http://arxiv.org/pdf/cs/0105009v1
+cs/0105010v1,2001-05-05T09:18:11Z,On Assessing the Complexity of Software Architectures,Jianjun Zhao,cs.SE,http://arxiv.org/pdf/cs/0105010v1
+cs/0109019v1,2001-09-14T15:12:51Z,Tracing Execution of Software for Design Coverage,Alexander Ran,cs.SE,http://arxiv.org/pdf/cs/0109019v1
+cs/0111013v1,2001-11-06T22:12:14Z,"Quality Control, Testing and Deployment Results in NIF ICCS",Michael R. Gorvad,cs.SE,http://arxiv.org/pdf/cs/0111013v1
+cs/0111014v1,2001-11-07T10:01:57Z,Visual DCT - Visual EPICS Database Configuration Tool,A. Luedeke,cs.SE,http://arxiv.org/pdf/cs/0111014v1
+cs/0111016v1,2001-11-07T21:50:43Z,Application Software Structure Enables Nif Operations Kirby W. Fong,Randy T. Shelton,cs.SE,http://arxiv.org/pdf/cs/0111016v1
+cs/0111019v2,2001-11-08T19:00:26Z,Application of digital regulated Power Supplies for Magnet Control at   the Swiss Light Source,A. Luedeke,cs.SE,http://arxiv.org/pdf/cs/0111019v2
+cs/0111021v3,2001-11-09T14:35:51Z,System Integration of High Level Applications during the Commissioning   of the Swiss Light Source,A. Luedeke,cs.SE,http://arxiv.org/pdf/cs/0111021v3
+cs/0111045v1,2001-11-16T22:04:52Z,The Overview of the National Ignition Facility Distributed Computer   Control System,J. P. Woodruff,cs.SE,http://arxiv.org/pdf/cs/0111045v1
+cs/0201023v1,2002-01-26T11:32:31Z,Model-Based Software Engineering and Ada: Synergy for the Development of   Safety-Critical Systems,Hans-Peter Zaengerl,cs.SE,http://arxiv.org/pdf/cs/0201023v1
+cs/0201028v1,2002-01-30T22:28:52Z,Software Validation using Power Profiles,Alexander Ran,cs.SE,http://arxiv.org/pdf/cs/0201028v1
+cs/0204014v1,2002-04-09T09:33:44Z,An Assessment of the Consistency for Software Measurement Methods,F. Torre Cervigon,cs.SE,http://arxiv.org/pdf/cs/0204014v1
+cs/0204034v1,2002-04-15T23:33:24Z,Monitoring and Debugging Concurrent and Distributed Object-Oriented   Systems,Joseph R. Kiniry,cs.SE,http://arxiv.org/pdf/cs/0204034v1
+cs/0204035v1,2002-04-15T23:40:52Z,Semantic Properties for Lightweight Specification in Knowledgeable   Development Environments,Joseph R. Kiniry,cs.SE,http://arxiv.org/pdf/cs/0204035v1
+cs/0204036v1,2002-04-15T23:50:42Z,Semantic Component Composition,Joseph R. Kiniry,cs.SE,http://arxiv.org/pdf/cs/0204036v1
+cs/0206021v1,2002-06-14T09:24:53Z,The analysis of the IFPUG method sensitivity,F. Torre Cervigon,cs.SE,http://arxiv.org/pdf/cs/0206021v1
+cs/0207044v3,2002-07-11T16:57:59Z,Declarative program development in Prolog with GUPU,Stefan Kral,cs.SE,http://arxiv.org/pdf/cs/0207044v3
+cs/0207046v2,2002-07-11T16:25:20Z,COINS: a constraint-based interactive solving system,Patrice Boizumault,cs.SE,http://arxiv.org/pdf/cs/0207046v2
+cs/0207047v2,2002-07-11T16:43:30Z,Tracing and Explaining Execution of CLP(FD) Programs,Mats Carlsson,cs.SE,http://arxiv.org/pdf/cs/0207047v2
+cs/0207048v2,2002-07-11T18:05:59Z,CLPGUI: a generic graphical user interface for constraint logic   programming over finite domains,Francois Fages,cs.SE,http://arxiv.org/pdf/cs/0207048v2
+cs/0207049v2,2002-07-11T16:50:45Z,More Precise Yet Efficient Type Inference for Logic Programs,Francisco Bueno,cs.SE,http://arxiv.org/pdf/cs/0207049v2
+cs/0207050v2,2002-07-11T16:52:49Z,Value withdrawal explanations: a theoretical tool for programming   environments,Willy Lesaint,cs.SE,http://arxiv.org/pdf/cs/0207050v2
+cs/0207051v2,2002-07-11T17:17:17Z,Exporting Prolog source code,Nicos Angelopoulos,cs.SE,http://arxiv.org/pdf/cs/0207051v2
+cs/0207052v1,2002-07-12T01:23:51Z,Proceedings of the 12th International Workshop on Logic Programming   Environments,Alexandre Tessier,cs.SE,http://arxiv.org/pdf/cs/0207052v1
+cs/0207053v1,2002-07-12T01:22:20Z,An Architecture for Making Object-Oriented Systems Available from Prolog,Anjo Anjewierden,cs.SE,http://arxiv.org/pdf/cs/0207053v1
+cs/0207054v1,2002-07-12T01:17:13Z,Enhancing Usefulness of Declarative Programming Frameworks through   Complete Integration,Olof Torgersson,cs.SE,http://arxiv.org/pdf/cs/0207054v1
+cs/0303013v2,2003-03-18T15:51:06Z,Extending the code generation capabilities of the Together CASE tool to   support Data Definition languages,Massimo Marino,cs.SE,http://arxiv.org/pdf/cs/0303013v2
+cs/0305037v2,2003-05-20T10:21:17Z,Power Law Distributions in Class Relationships,Steve Counsell,cs.SE,http://arxiv.org/pdf/cs/0305037v2
+cs/0305049v1,2003-05-28T15:16:08Z,The Athena Data Dictionary and Description Language,Craig Tull,cs.SE,http://arxiv.org/pdf/cs/0305049v1
+cs/0306005v1,2003-05-30T21:59:14Z,The Virtual Monte Carlo,for the ALICE Collaboration,cs.SE,http://arxiv.org/pdf/cs/0306005v1
+cs/0306054v1,2003-06-12T17:08:34Z,OVAL: the CMS Testing Robot,C. Charlot,cs.SE,http://arxiv.org/pdf/cs/0306054v1
+cs/0306057v1,2003-06-12T17:31:32Z,IceCube's Development Environment,D. Glowacki,cs.SE,http://arxiv.org/pdf/cs/0306057v1
+cs/0306076v1,2003-06-13T21:36:06Z,FAYE: A Java Implement of the Frame/Stream/Stop Analysis Model,S. Patton,cs.SE,http://arxiv.org/pdf/cs/0306076v1
+cs/0306078v1,2003-06-16T17:22:59Z,ROOT Status and Future Developments,Rene Brun,cs.SE,http://arxiv.org/pdf/cs/0306078v1
+cs/0306080v1,2003-06-14T00:07:06Z,BOA: Framework for Automated Builds,N. Ratnikova,cs.SE,http://arxiv.org/pdf/cs/0306080v1
+cs/0306082v1,2003-06-14T01:16:51Z,The Community Authorization Service: Status and Future,S. Tuecke,cs.SE,http://arxiv.org/pdf/cs/0306082v1
+cs/0306083v1,2003-06-14T03:03:11Z,The Athena Startup Kit,W. T. L. P. Lavrijsen,cs.SE,http://arxiv.org/pdf/cs/0306083v1
+cs/0306085v1,2003-06-14T02:57:32Z,GANGA: a user-Grid interface for Atlas and LHCb,R. W. L. Jones,cs.SE,http://arxiv.org/pdf/cs/0306085v1
+cs/0306089v1,2003-06-14T06:56:24Z,The StoreGate: a Data Model for the Atlas Software Architecture,S. Rajagopalan,cs.SE,http://arxiv.org/pdf/cs/0306089v1
+cs/0306098v1,2003-06-16T12:19:18Z,Making refactoring decisions in large-scale Java systems: an empirical   stance,Steve Counsell,cs.SE,http://arxiv.org/pdf/cs/0306098v1
+cs/0306101v1,2003-06-16T17:25:53Z,The DataFlow System of the ATLAS Trigger and DAQ,G. Lehmann,cs.SE,http://arxiv.org/pdf/cs/0306101v1
+cs/0306108v1,2003-06-18T03:13:44Z,Web Engineering,Bebo White,cs.SE,http://arxiv.org/pdf/cs/0306108v1
+cs/0309029v1,2003-09-16T13:55:32Z,Instrumenting self-modifying code,K. De Bosschere,cs.SE,http://arxiv.org/pdf/cs/0309029v1
+cs/0309031v1,2003-09-17T06:35:44Z,Timestamp Based Execution Control for C and Java Programs,Minoru Terada,cs.SE,http://arxiv.org/pdf/cs/0309031v1
+cs/0309032v1,2003-09-17T12:42:58Z,Towards declarative diagnosis of constraint programs over finite domains,Alexandre Tessier,cs.SE,http://arxiv.org/pdf/cs/0309032v1
+cs/0309037v1,2003-09-22T00:52:59Z,Postmortem Object Type Identification,Bryan M. Cantrill,cs.SE,http://arxiv.org/pdf/cs/0309037v1
+cs/0309047v1,2003-09-24T12:51:18Z,Causes and Effects in Computer Programs,Andreas Zeller,cs.SE,http://arxiv.org/pdf/cs/0309047v1
+cs/0309055v1,2003-09-30T01:19:11Z,A mathematical framework for automated bug localization,Tadanori Mizuno,cs.SE,http://arxiv.org/pdf/cs/0309055v1
+cs/0310007v1,2003-10-06T11:51:15Z,Event-based Program Analysis with DeWiz,J. Volkert,cs.SE,http://arxiv.org/pdf/cs/0310007v1
+cs/0310015v1,2003-10-09T07:00:11Z,Debugging Tool for Localizing Faulty Processes in Message Passing   Programs,Kenichi Hagihara,cs.SE,http://arxiv.org/pdf/cs/0310015v1
+cs/0310016v1,2003-10-09T14:51:57Z,Debugging Backwards in Time,Bil Lewis,cs.SE,http://arxiv.org/pdf/cs/0310016v1
+cs/0310024v1,2003-10-14T08:42:16Z,Availability Guarantee for Deterministic Replay Starting Points in   Real-Time Systems,Daniel Sundmark,cs.SE,http://arxiv.org/pdf/cs/0310024v1
+cs/0310026v1,2003-10-15T08:26:22Z,Generalized Systematic Debugging for Attribute Grammars,Masataka Sassa,cs.SE,http://arxiv.org/pdf/cs/0310026v1
+cs/0310040v1,2003-10-18T22:44:47Z,Automated Fault Localization Using Potential Invariants,Steven P. Reiss,cs.SE,http://arxiv.org/pdf/cs/0310040v1
+cs/0310042v1,2003-10-22T09:31:18Z,Rigorous design of tracers: an experiment for constraint logic   programming,Pierre Deransart,cs.SE,http://arxiv.org/pdf/cs/0310042v1
+cs/0311037v1,2003-11-25T01:38:12Z,DUCT: An Interactive Define-Use Chain Navigation Tool for Relative   Debugging,David Abramson,cs.SE,http://arxiv.org/pdf/cs/0311037v1
+cs/0402006v1,2004-02-02T19:34:53Z,MammoGrid: Large-Scale Distributed Mammogram Analysis,Tony Solomonides,cs.SE,http://arxiv.org/pdf/cs/0402006v1
+cs/0402015v1,2004-02-09T12:43:13Z,A Preliminary Study for the development of an Early Method for the   Measurement in Function Points of a Software Product,Gustavo Uria Paino,cs.SE,http://arxiv.org/pdf/cs/0402015v1
+cs/0407038v1,2004-07-16T10:18:42Z,Model Checking of Statechart Models: Survey and Research Directions,S. Ramesh,cs.SE,http://arxiv.org/pdf/cs/0407038v1
+cs/0407050v1,2004-07-20T15:15:48Z,Modeling and Validating Hybrid Systems Using VDM and Mathematica,Reinhold Kainhofer,cs.SE,http://arxiv.org/pdf/cs/0407050v1
+cs/0407051v2,2004-07-20T13:04:36Z,"Bug shallowness in open-source, Macintosh software",G Gordon Worley III,cs.SE,http://arxiv.org/pdf/cs/0407051v2
+cs/0411096v1,2004-11-29T03:38:48Z,Inter-Package Dependency Networks in Open-Source Software,Eugene Wallingford,cs.SE,http://arxiv.org/pdf/cs/0411096v1
+cs/0502040v1,2005-02-08T01:15:47Z,Testing Systems of Concurrent Black-boxes--an Automata-Theoretic and   Decompositional Approach,Zhe Dang,cs.SE,http://arxiv.org/pdf/cs/0502040v1
+cs/0503002v1,2005-03-02T00:21:11Z,Local and Global Analysis: Complementary Activities for Increasing the   Effectiveness of Requirements Verification and Validation,James D. Arthur,cs.SE,http://arxiv.org/pdf/cs/0503002v1
+cs/0503003v1,2005-03-02T00:46:46Z,An Objectives-Driven Process for Selecting Methods to Support   Requirements Engineering Activities,James D. Arthur,cs.SE,http://arxiv.org/pdf/cs/0503003v1
+cs/0503004v1,2005-03-02T01:05:32Z,"Effective Requirements Generation: Synchronizing Early Verification &   Validation, Methods and Method Selection Criteria",James D. Arthur,cs.SE,http://arxiv.org/pdf/cs/0503004v1
+cs/0503050v1,2005-03-21T21:26:48Z,Systematic Method for Path-Complete White Box Testing,Nikita Sakhanenko,cs.SE,http://arxiv.org/pdf/cs/0503050v1
+cs/0503068v1,2005-03-24T13:55:53Z,A Survey of Reverse Engineering and Program Comprehension,Michael L. Nelson,cs.SE,http://arxiv.org/pdf/cs/0503068v1
+cs/0504109v1,2005-04-29T14:59:23Z,Prototype of Fault Adaptive Embedded Software for Large-Scale Real-Time   Systems,Michael Haney,cs.SE,http://arxiv.org/pdf/cs/0504109v1
+cs/0505029v2,2005-05-11T18:23:19Z,Automated Improvement for Component Reuse,Muthu Ramachandran,cs.SE,http://arxiv.org/pdf/cs/0505029v2
+cs/0506050v1,2005-06-13T13:25:14Z,The Workshop - Implementing Well Structured Enterprise Applications,J. Buchmann,cs.SE,http://arxiv.org/pdf/cs/0506050v1
+cs/0506067v1,2005-06-15T21:48:06Z,Measuring Woody: The Size of Debian 3.0,Jesus Gonzalez-Barahona,cs.SE,http://arxiv.org/pdf/cs/0506067v1
+cs/0507061v1,2005-07-24T09:43:27Z,Software Architecture Overview,Andre Adrian,cs.SE,http://arxiv.org/pdf/cs/0507061v1
+cs/0508105v1,2005-08-24T11:30:26Z,A Tracer Driver for Versatile Dynamic Analyses of Constraint Logic   Programs,Mireille Ducasse,cs.SE,http://arxiv.org/pdf/cs/0508105v1
+cs/0511018v2,2005-11-03T23:29:55Z,From General Systems to Soft Systems to Soft Computing: Applications for   Large and Complex Real World Systems,Prashant,cs.SE,http://arxiv.org/pdf/cs/0511018v2
+cs/0601035v1,2006-01-10T09:50:45Z,Deductive Object Programming,Francois Colonna,cs.SE,http://arxiv.org/pdf/cs/0601035v1
+cs/0601118v1,2006-01-28T00:08:30Z,A Formal Architecture-Centric Model-Driven Approach for the Automatic   Generation of Grid Applications,Flavio Oquendo,cs.SE,http://arxiv.org/pdf/cs/0601118v1
+cs/0601119v1,2006-01-28T17:40:44Z,Engineering Conceptual Data Models from Domain Ontologies: A Critical   Evaluation,Richard McClatchey,cs.SE,http://arxiv.org/pdf/cs/0601119v1
+cs/0603033v1,2006-03-09T08:44:43Z,Inter-component communication methods in object-oriented frameworks,Vaghinak Petrosyan,cs.SE,http://arxiv.org/pdf/cs/0603033v1
+cs/0603037v1,2006-03-09T13:59:18Z,Deriving Conceptual Data Models from Domain Ontologies for   Bioinformatics,Richard McClatchey,cs.SE,http://arxiv.org/pdf/cs/0603037v1
+cs/0604073v2,2006-04-19T16:46:23Z,Octave-GTK: A GTK binding for GNU Octave,Leela Velusamy,cs.SE,http://arxiv.org/pdf/cs/0604073v2
+cs/0605020v1,2006-05-05T10:25:26Z,Applied MVC Patterns. A pattern language,Sergey Alpaev,cs.SE,http://arxiv.org/pdf/cs/0605020v1
+cs/0606092v2,2006-06-21T07:23:25Z,Static Analysis using Parameterised Boolean Equation Systems,Pedro Merino,cs.SE,http://arxiv.org/pdf/cs/0606092v2
+cs/0606108v1,2006-06-26T19:24:14Z,A Product Oriented Modelling Concept: Holons for systems synchronisation   and interoperability,Khalid Benali,cs.SE,http://arxiv.org/pdf/cs/0606108v1
+cs/0606112v1,2006-06-27T11:21:23Z,Product Centric Holons for Synchronisation and Interoperability in   Manufacturing Environments,Gérard Morel,cs.SE,http://arxiv.org/pdf/cs/0606112v1
+cs/0607044v1,2006-07-11T09:23:09Z,Use of UML and Model Transformations for Workflow Process Definitions,Valdis Vitolins,cs.SE,http://arxiv.org/pdf/cs/0607044v1
+cs/0607063v1,2006-07-12T20:35:10Z,Prioritizing Software Inspection Results using Static Profiling,Leon Moonen,cs.SE,http://arxiv.org/pdf/cs/0607063v1
+cs/0607116v1,2006-07-26T09:26:14Z,Program Spectra Analysis in Embedded Software: A Case Study,Arjan JC van Gemund,cs.SE,http://arxiv.org/pdf/cs/0607116v1
+cs/0607121v1,2006-07-27T10:16:16Z,"Object-Based Groupware: Theory, Design and Implementation Issues",Gleb G. Pogodayev,cs.SE,http://arxiv.org/pdf/cs/0607121v1
+cs/0608038v1,2006-08-07T19:03:07Z,Morphisms of Coloured Petri Nets,Joachim Wehler,cs.SE,http://arxiv.org/pdf/cs/0608038v1
+cs/0608111v2,2006-08-29T10:10:32Z,An Architectural Style for Ajax,Arie van Deursen,cs.SE,http://arxiv.org/pdf/cs/0608111v2
+cs/0609024v2,2006-09-06T18:12:27Z,"Linux, Open Source and Unicode",Prashant,cs.SE,http://arxiv.org/pdf/cs/0609024v2
+cs/0609025v2,2006-09-06T18:21:23Z,A XML Schema Definition based Universal User Interface,Prashant,cs.SE,http://arxiv.org/pdf/cs/0609025v2
+cs/0609147v2,2006-09-26T17:50:19Z,Identifying Crosscutting Concerns Using Fan-in Analysis,Leon Moonen,cs.SE,http://arxiv.org/pdf/cs/0609147v2
+cs/0610094v2,2006-10-15T07:36:19Z,Migrating Multi-page Web Applications to Single-page AJAX Interfaces,Arie van Deursen,cs.SE,http://arxiv.org/pdf/cs/0610094v2
+cs/0610096v1,2006-10-16T09:05:05Z,Partial Evaluation for Program Comprehension,Sandrine Blazy,cs.SE,http://arxiv.org/pdf/cs/0610096v1
+cs/0610097v1,2006-10-16T09:07:14Z,Reuse of Specification Patterns with the B Method,Régine Laleau,cs.SE,http://arxiv.org/pdf/cs/0610097v1
+cs/0611071v1,2006-11-15T17:12:54Z,Capabilities Engineering: Constructing Change-Tolerant Systems,Shawn A. Bohner,cs.SE,http://arxiv.org/pdf/cs/0611071v1
+cs/0611072v2,2006-11-15T22:32:43Z,Reconciling Synthesis and Decomposition: A Composite Approach to   Capability Identification,Robert P. Broadwater,cs.SE,http://arxiv.org/pdf/cs/0611072v2
+cs/0611110v3,2006-11-21T19:23:32Z,The Implications of Network-Centric Software Systems on Software   Architecture: A Critical Evaluation,James D. Arthur,cs.SE,http://arxiv.org/pdf/cs/0611110v3
+cs/0612082v1,2006-12-18T08:40:53Z,Developing efficient parsers in Prolog: the CLF manual (v1.0),Thierry Despeyroux,cs.SE,http://arxiv.org/pdf/cs/0612082v1
+cs/0612092v1,2006-12-19T16:35:46Z,Agile Adoption Process Framework,James Arthur,cs.SE,http://arxiv.org/pdf/cs/0612092v1
+cs/0612131v2,2006-12-23T01:00:32Z,Architecting Network-Centric Software Systems: A Style-Based Beginning,Amine Chigani James D. Arthur Shawn Bohner,cs.SE,http://arxiv.org/pdf/cs/0612131v2
+cs/0701010v1,2007-01-01T05:08:06Z,Determining the Applicability of Agile Practices to Mission and   Life-critical Systems,James Arthur,cs.SE,http://arxiv.org/pdf/cs/0701010v1
+cs/0701132v2,2007-01-21T19:34:45Z,Certifying controls and systems software,Mardavij Roozbehani,cs.SE,http://arxiv.org/pdf/cs/0701132v2
+cs/0701200v1,2007-01-31T16:41:02Z,Reasoning from a schema and from an analog in software code reuse,Françoise Detienne,cs.SE,http://arxiv.org/pdf/cs/0701200v1
+cs/0702083v1,2007-02-14T09:53:37Z,Improving Prolog programs: Refactoring for Prolog,Bart Demoen,cs.SE,http://arxiv.org/pdf/cs/0702083v1
+cs/0703012v1,2007-03-02T20:46:26Z,Pre-Requirement Specification Traceability: Bridging the Complexity Gap   through Capabilities,Manuel Pérez-Quiñones,cs.SE,http://arxiv.org/pdf/cs/0703012v1
+cs/0703021v1,2007-03-05T20:58:44Z,Addressing Components' Evolvement and Execution Behavior to Measure   Component-Based Software Reliability,Mei-Huei Tang,cs.SE,http://arxiv.org/pdf/cs/0703021v1
+cs/0703069v3,2007-03-14T23:32:43Z,Portlet Wrappers using JavaScript,Paul Fodor,cs.SE,http://arxiv.org/pdf/cs/0703069v3
+cs/0703080v1,2007-03-15T12:55:46Z,A Systematic Approach to Web-Application Development,Paul Fodor,cs.SE,http://arxiv.org/pdf/cs/0703080v1
+0704.1294v1,2007-04-10T19:11:51Z,A Disciplined Approach to Adopting Agile Practices: The Agile Adoption   Framework,Shawn Bohner,cs.SE,http://arxiv.org/pdf/0704.1294v1
+0705.3616v1,2007-05-24T16:21:35Z,On How Developers Test Open Source Software Systems,Arie van Deursen,cs.SE,http://arxiv.org/pdf/0705.3616v1
+0705.4415v1,2007-05-30T15:31:07Z,PERCEVAL: a Computer-Driven System for Experimentation on Auditory and   Visual Perception,Bernard Teston,cs.SE,http://arxiv.org/pdf/0705.4415v1
+0706.1456v2,2007-06-11T12:22:15Z,A Generic Model of Contracts for Embedded Systems,Roberto Passerone,cs.SE,http://arxiv.org/pdf/0706.1456v2
+0707.1639v1,2007-07-11T14:55:26Z,Interface groups and financial transfer architectures,Alban Ponse,cs.SE,http://arxiv.org/pdf/0707.1639v1
+0707.2291v2,2007-07-16T09:38:23Z,An Integrated Crosscutting Concern Migration Strategy and its   Application to JHotDraw,Arie van Deursen,cs.SE,http://arxiv.org/pdf/0707.2291v2
+0707.4166v1,2007-07-27T19:29:29Z,Parsimony Principles for Software Components and Metalanguages,Todd L. Veldhuizen,cs.SE,http://arxiv.org/pdf/0707.4166v1
+0710.4641v1,2007-10-25T08:11:39Z,UML 2.0 - Overview and Perspectives in SoC Design,Tim Schattkowsky,cs.SE,http://arxiv.org/pdf/0710.4641v1
+0710.4682v1,2007-10-25T09:07:10Z,Applying UML and MDA to Real Systems Design,Ian Oliver,cs.SE,http://arxiv.org/pdf/0710.4682v1
+0710.4700v1,2007-10-25T09:22:50Z,A Decompilation Approach to Partitioning Software for   Microprocessor/FPGA Platforms,Frank Vahid,cs.SE,http://arxiv.org/pdf/0710.4700v1
+0710.4755v1,2007-10-25T09:53:16Z,Model Reuse through Hardware Design Patterns,Juan Carlos Lopez,cs.SE,http://arxiv.org/pdf/0710.4755v1
+0710.4793v1,2007-10-25T11:50:54Z,Unified Modeling of Complex Real-Time Control Systems,Cai Chi-Lan,cs.SE,http://arxiv.org/pdf/0710.4793v1
+0710.4829v1,2007-10-25T12:08:52Z,AutoMoDe - Model-Based Development of Automotive Software,Bernhard Schatz,cs.SE,http://arxiv.org/pdf/0710.4829v1
+0711.0538v1,2007-11-04T19:24:57Z,Spreadsheet Engineering: A Research Framework,Thomas A. Grossman,cs.SE,http://arxiv.org/pdf/0711.0538v1
+0711.0607v1,2007-11-05T11:05:42Z,Exploring the Composition of Unit Test Suites,Serge Demeyer,cs.SE,http://arxiv.org/pdf/0711.0607v1
+0711.0836v3,2007-11-06T11:01:21Z,Machine structure oriented control code logic,C. A. Middelburg,cs.SE,http://arxiv.org/pdf/0711.0836v3
+0712.0109v1,2007-12-01T21:27:59Z,Recommended Practices for Spreadsheet Testing,Raymond R. Panko,cs.SE,http://arxiv.org/pdf/0712.0109v1
+0712.2943v1,2007-12-18T12:25:02Z,Software (Re-)Engineering with PSF,Bob Diertens,cs.SE,http://arxiv.org/pdf/0712.2943v1
+0712.3115v1,2007-12-19T08:11:37Z,Software (Re-)Engineering with PSF II: from architecture to   implementation,Bob Diertens,cs.SE,http://arxiv.org/pdf/0712.3115v1
+0712.3128v1,2007-12-19T09:46:23Z,Software (Re-)Engineering with PSF III: an IDE for PSF,Bob Diertens,cs.SE,http://arxiv.org/pdf/0712.3128v1
+0801.4774v1,2008-01-30T21:35:17Z,Source Code Protection for Applications Written in Microsoft Excel and   Google Spreadsheet,Thomas A. Grossman,cs.SE,http://arxiv.org/pdf/0801.4774v1
+0801.4775v1,2008-01-30T21:53:43Z,"Spreadsheet Assurance by ""Control Around"" is a Viable Alternative to the   Traditional Approach",Jacques de Swart,cs.SE,http://arxiv.org/pdf/0801.4775v1
+0801.4802v1,2008-01-31T00:39:38Z,Investigating the Potential of Test-Driven Development for Spreadsheet   Engineering,Kevin McDaid,cs.SE,http://arxiv.org/pdf/0801.4802v1
+0802.1586v1,2008-02-12T08:40:51Z,Program Promises,Simen Hagen,cs.SE,http://arxiv.org/pdf/0802.1586v1
+0802.3628v1,2008-02-25T14:20:18Z,Dynamic data models: an application of MOP-based persistence in Common   Lisp,Simon E. B. Thierry,cs.SE,http://arxiv.org/pdf/0802.3628v1
+0802.3895v1,2008-02-27T00:37:56Z,Complexity Metrics for Spreadsheet Models,Andrej Bregar,cs.SE,http://arxiv.org/pdf/0802.3895v1
+0802.3940v1,2008-02-27T00:25:47Z,Spreadsheet Structure Discovery with Logic Programming,Jocelyn Paine,cs.SE,http://arxiv.org/pdf/0802.3940v1
+0803.0015v1,2008-02-29T21:49:18Z,EuSpRIG 2006 Commercial Spreadsheet Review,Simon Murphy,cs.SE,http://arxiv.org/pdf/0803.0015v1
+0803.0162v1,2008-03-03T01:05:40Z,A Software Development Methodology for Research and Prototyping in   Financial Markets,Ben Van Vliet,cs.SE,http://arxiv.org/pdf/0803.0162v1
+0803.0163v1,2008-03-03T01:11:39Z,Rapid Spreadsheet Reshaping with Excelsior: multiple drastic changes to   content and layout are easy when you represent enough structure,Duncan Williamson,cs.SE,http://arxiv.org/pdf/0803.0163v1
+0803.0666v1,2008-03-05T14:04:19Z,An approach to control collaborative processes in PLM systems,Abdelaziz Bouras,cs.SE,http://arxiv.org/pdf/0803.0666v1
+0803.1751v1,2008-03-12T11:36:41Z,TellTable Spreadsheet Audit: from Technical Possibility to Operating   Prototype,Neil Smith,cs.SE,http://arxiv.org/pdf/0803.1751v1
+0803.2027v1,2008-03-13T18:41:21Z,Excelsior: Bringing the Benefits of Modularisation to Excel,Jocelyn Paine,cs.SE,http://arxiv.org/pdf/0803.2027v1
+0804.0366v1,2008-04-02T14:50:29Z,Merging Object and Process Diagrams for Business Information Modeling,Patrick Chénais,cs.SE,http://arxiv.org/pdf/0804.0366v1
+0805.0650v1,2008-05-06T06:53:01Z,Plat_Forms -- a contest: The web development platform comparison,Lutz Prechelt,cs.SE,http://arxiv.org/pdf/0805.0650v1
+0805.1740v1,2008-05-12T20:31:41Z,Detecting Errors in Spreadsheets,Roland T. Mittermeir,cs.SE,http://arxiv.org/pdf/0805.1740v1
+0805.4218v1,2008-05-27T20:56:35Z,A Structured Methodology for Spreadsheet Modelling,Kamalesen Rajalingham,cs.SE,http://arxiv.org/pdf/0805.4218v1
+0805.4219v1,2008-05-27T21:11:48Z,Building Financial Accuracy into Spreadsheets,Andrew Hawker,cs.SE,http://arxiv.org/pdf/0805.4219v1
+0805.4224v1,2008-05-27T21:27:42Z,Classification of Spreadsheet Errors,Brian Knight,cs.SE,http://arxiv.org/pdf/0805.4224v1
+0806.1100v1,2008-06-06T07:39:49Z,Design Patterns for Complex Event Processing,Adrian Paschke,cs.SE,http://arxiv.org/pdf/0806.1100v1
+0806.2730v1,2008-06-17T09:20:54Z,A Process Algebra Software Engineering Environment,B. Diertens,cs.SE,http://arxiv.org/pdf/0806.2730v1
+0807.0161v1,2008-07-01T13:53:44Z,Increase of Software Safety,Arkadiy Khandjian,cs.SE,http://arxiv.org/pdf/0807.0161v1
+0807.3187v1,2008-07-20T21:10:34Z,"When, why and how to test spreadsheets",Louise Pryor,cs.SE,http://arxiv.org/pdf/0807.3187v1
+0807.4224v1,2008-07-26T08:55:36Z,Encapsulation theory fundamentals,Edmund Kirwan,cs.SE,http://arxiv.org/pdf/0807.4224v1
+0808.0055v1,2008-08-01T04:38:22Z,Integrating OPC Data into GSN Infrastructures,Patrice Moreaux,cs.SE,http://arxiv.org/pdf/0808.0055v1
+0808.0347v1,2008-08-03T20:14:30Z,Towards a Process for Developing Maintenance Tools in Academia,Hausi A. Müller,cs.SE,http://arxiv.org/pdf/0808.0347v1
+0808.3292v1,2008-08-25T02:53:47Z,Network Motifs in Object-Oriented Software Systems,Jing Liu,cs.SE,http://arxiv.org/pdf/0808.3292v1
+0809.1409v1,2008-09-08T19:07:17Z,Domain Specific Software Architecture for Design Center Automation,Vijaya Balakrishna,cs.SE,http://arxiv.org/pdf/0809.1409v1
+0809.4108v1,2008-09-24T07:26:30Z,The ADAPT Tool: From AADL Architectural Models to Stochastic Petri Nets   through Model Transformation,Mohamed Kaaniche,cs.SE,http://arxiv.org/pdf/0809.4108v1
+0809.4109v1,2008-09-24T07:26:34Z,Software dependability modeling using an industry-standard architecture   description language,Mohamed Kaaniche,cs.SE,http://arxiv.org/pdf/0809.4109v1
+0809.4812v1,2008-09-28T01:44:28Z,"Control software analysis, Part I Open-loop properties",Fernando Alegre,cs.SE,http://arxiv.org/pdf/0809.4812v1
+0810.0874v2,2008-10-06T04:50:01Z,Software Engineering & Systems Design Nature,Kirill A Sorudeykin,cs.SE,http://arxiv.org/pdf/0810.0874v2
+0811.1947v1,2008-11-12T20:08:51Z,Pilotage des processus collaboratifs dans les systèmes PLM. Quels   indicateurs pour quelle évaluation des performances ?,Abdelaziz Bouras,cs.SE,http://arxiv.org/pdf/0811.1947v1
+0811.1950v1,2008-11-12T20:09:41Z,Collaborative process control: Observation of tracks generated by PLM   system,Abdelaziz Bouras,cs.SE,http://arxiv.org/pdf/0811.1950v1
+0811.2578v1,2008-11-16T14:47:16Z,Encapsulation theory: the configuration efficiency limit,Edmund Kirwan,cs.SE,http://arxiv.org/pdf/0811.2578v1
+0811.3492v1,2008-11-21T09:47:26Z,Dynamic System Adaptation by Constraint Orchestration,E. P. de Vink,cs.SE,http://arxiv.org/pdf/0811.3492v1
+0811.3620v1,2008-11-21T19:45:50Z,Solving package dependencies: from EDOS to Mancoosi,Stefano Zacchiroli,cs.SE,http://arxiv.org/pdf/0811.3620v1
+0811.3621v1,2008-11-21T19:46:46Z,Description of the CUDF Format,Stefano Zacchiroli,cs.SE,http://arxiv.org/pdf/0811.3621v1
+0811.4364v1,2008-11-26T16:36:29Z,Revisiting the Core Ontology and Problem in Requirements Engineering,Stephane Faulkner,cs.SE,http://arxiv.org/pdf/0811.4364v1
+0812.3716v1,2008-12-19T07:53:12Z,Context-aware adaptation for group communication support applications   with dynamic architecture,Mohamed Jmaiel,cs.SE,http://arxiv.org/pdf/0812.3716v1
+0812.3719v1,2008-12-19T08:03:21Z,"Architecture Logicielles pour des Applications hétérogènes,   distribuées et reconfigurables",Philippe Roose,cs.SE,http://arxiv.org/pdf/0812.3719v1
+0901.2069v1,2009-01-14T17:28:18Z,Encapsulation theory: the transformation equations of absolute   information hiding,Edmund Kirwan,cs.SE,http://arxiv.org/pdf/0901.2069v1
+0901.3620v1,2009-01-23T08:42:21Z,Enterprise model verification and validation: an approach,François Prunet,cs.SE,http://arxiv.org/pdf/0901.3620v1
+0902.0924v1,2009-02-05T15:26:41Z,Towards a Theory of Requirements Elicitation: Acceptability Condition   for the Relative Validity of Requirements,Stephane Faulkner,cs.SE,http://arxiv.org/pdf/0902.0924v1
+0902.3136v1,2009-02-18T13:23:52Z,A distributed editing environment for XML documents,Laurent Théry,cs.SE,http://arxiv.org/pdf/0902.3136v1
+0903.0053v1,2009-02-28T08:30:56Z,Workflow Patterns in Process Modeling,Florin Fortis,cs.SE,http://arxiv.org/pdf/0903.0053v1
+0903.0054v1,2009-02-28T08:40:04Z,Considerations on Resource Usage in Exceptions and Failures in Workflows,Victoria Iordan,cs.SE,http://arxiv.org/pdf/0903.0054v1
+0903.0571v1,2009-03-03T17:01:54Z,Adaptation of Black-Box Software Components,Rolf Andreas Rasenack,cs.SE,http://arxiv.org/pdf/0903.0571v1
+0903.0914v1,2009-03-05T05:36:22Z,Artificial table testing dynamically adaptive systems,Benoit Baudry,cs.SE,http://arxiv.org/pdf/0903.0914v1
+0903.3797v1,2009-03-23T06:54:51Z,Personal report of the 3rd ECMDA-FA'07 conference,Benoît Combemale,cs.SE,http://arxiv.org/pdf/0903.3797v1
+0903.4267v1,2009-03-25T09:14:39Z,Delving into Transition to the Semantic Web,Lucian Luca,cs.SE,http://arxiv.org/pdf/0903.4267v1
+0903.4875v2,2009-03-27T18:52:05Z,"Extensible Component Based Architecture for FLASH, A Massively Parallel,   Multiphysics Simulation Code",A. Siegal,cs.SE,http://arxiv.org/pdf/0903.4875v2
+0903.5024v1,2009-03-29T06:04:28Z,Analysis Paralysis: when to stop?,Er. Akshay Bhardwaj,cs.SE,http://arxiv.org/pdf/0903.5024v1
+0904.0293v2,2009-04-02T02:29:47Z,INFRAWEBS axiom editor - a graphical ontology-driven tool for creating   complex logical expressions,Ivan Dilov,cs.SE,http://arxiv.org/pdf/0904.0293v2
+0904.2769v2,2009-04-17T19:40:05Z,Non Homogeneous Poisson Process Model based Optimal Modular Software   Testing using Fault Tolerance,Sanjay Chaudhary,cs.SE,http://arxiv.org/pdf/0904.2769v2
+0904.3633v1,2009-04-23T09:11:50Z,Business Process Modeling Notation - An Overview,Alexandra Fortis,cs.SE,http://arxiv.org/pdf/0904.3633v1
+0904.3634v1,2009-04-23T09:22:22Z,Tailored business solutions by workflow technologies,Alexandra Fortis,cs.SE,http://arxiv.org/pdf/0904.3634v1
+0904.3648v1,2009-04-23T10:38:24Z,Computer Aided Optimization of the Unconventional Processing,Mihai Titu,cs.SE,http://arxiv.org/pdf/0904.3648v1
+0904.3698v1,2009-04-23T14:02:18Z,Semantic Linkage of Control Systems,Karl Hayo Siemsen,cs.SE,http://arxiv.org/pdf/0904.3698v1
+0904.3716v1,2009-04-23T15:01:45Z,Failover of Software Services with State Replication,Rolf Andreas Rasenack,cs.SE,http://arxiv.org/pdf/0904.3716v1
+0904.3718v1,2009-04-23T15:05:01Z,Architecture of the Neurath Basic Model View Controller,R. A. Rasenack,cs.SE,http://arxiv.org/pdf/0904.3718v1
+0904.4411v1,2009-04-28T14:24:23Z,Ingénierie système d'un système d'information d'entreprise   centré sur le produit basée sur un cadre de modélisation   multi-échelles : application à un cas d'étude de l'AIP lorrain,Jean-Yves Bron,cs.SE,http://arxiv.org/pdf/0904.4411v1
+0905.4226v1,2009-05-26T14:20:59Z,Strong Dependencies between Software Components,Stefano Zacchiroli,cs.SE,http://arxiv.org/pdf/0905.4226v1
+0905.4592v1,2009-05-28T09:49:02Z,Modélisation des facteurs influençant la performance de la   chaîne logistique,Lorraine Trilling,cs.SE,http://arxiv.org/pdf/0905.4592v1
+0905.4613v1,2009-05-28T11:17:25Z,Athos - The C# GUI Generator,Daniela Ilea,cs.SE,http://arxiv.org/pdf/0905.4613v1
+0905.4863v1,2009-05-29T13:42:19Z,Derivation of UML Based Performance Models for Design Assessment in a   Reuse Based Software Development Approach,R. Vasantha,cs.SE,http://arxiv.org/pdf/0905.4863v1
+0906.1429v1,2009-06-08T08:03:23Z,Améliorer les performances de l'industrie logicielle par une meilleure   compréhension des besoins,Pierre Mévellec,cs.SE,http://arxiv.org/pdf/0906.1429v1
+0906.1667v1,2009-06-09T09:14:25Z,Analyser Framework to verify Software Component,Rolf Andreas Rasenack,cs.SE,http://arxiv.org/pdf/0906.1667v1
+0906.3245v1,2009-06-17T16:49:03Z,Goal-oriented Data Warehouse Quality Measurement,Jesús Pardillo,cs.SE,http://arxiv.org/pdf/0906.3245v1
+0906.3916v1,2009-06-22T03:54:04Z,An Introduction to Simulation-Based Techniques for Automated Service   Composition,Fabio Patrizi,cs.SE,http://arxiv.org/pdf/0906.3916v1
+0906.3921v1,2009-06-22T06:08:14Z,Fairness as a QoS Measure for Web Services,Paola Campli,cs.SE,http://arxiv.org/pdf/0906.3921v1
+0906.3924v1,2009-06-22T06:26:17Z,Service-oriented Context-aware Framework,Balázs Pataki,cs.SE,http://arxiv.org/pdf/0906.3924v1
+0906.3930v1,2009-06-22T06:56:40Z,Towards a Unifying View of QoS-Enhanced Web Service Description and   Discovery Approaches,Sylvia Ilieva,cs.SE,http://arxiv.org/pdf/0906.3930v1
+0906.4149v1,2009-06-23T01:34:37Z,Adaptive Process Management in Highly Dynamic and Pervasive Scenarios,Massimiliano de Leoni,cs.SE,http://arxiv.org/pdf/0906.4149v1
+0906.4900v1,2009-06-26T10:52:52Z,Proceedings Fourth European Young Researchers Workshop on Service   Oriented Computing,Maurice H. ter Beek,cs.SE,http://arxiv.org/pdf/0906.4900v1
+0906.5393v1,2009-06-30T01:22:27Z,Measurable & Scalable NFRs using Fuzzy Logic and Likert Scale,Faisal Munir Malik,cs.SE,http://arxiv.org/pdf/0906.5393v1
+0907.0404v1,2009-07-02T15:19:39Z,"Agent based Model for providing optimized, synchronized and failure free   execution of workflow process",Saqib Saeed,cs.SE,http://arxiv.org/pdf/0907.0404v1
+0907.1238v1,2009-07-07T15:29:58Z,ChOrDa: a methodology for the modeling of business processes with BPMN,Danilo Montesi,cs.SE,http://arxiv.org/pdf/0907.1238v1
+0907.2039v1,2009-07-12T12:31:58Z,Refining interfaces: the case of the B method,Anamaria M. Moreira,cs.SE,http://arxiv.org/pdf/0907.2039v1
+0907.2072v2,2009-07-12T21:49:21Z,SMT-Based Bounded Model Checking for Embedded ANSI-C Software,Joao Marques-Silva,cs.SE,http://arxiv.org/pdf/0907.2072v2
+0907.3983v2,2009-07-23T04:39:37Z,Service-oriented high level architecture,Xichun Liu,cs.SE,http://arxiv.org/pdf/0907.3983v2
+0908.0191v1,2009-08-03T06:14:40Z,The Levels of Conceptual Interoperability Model: Applying Systems   Engineering Principles to M&S,Weiping WANG,cs.SE,http://arxiv.org/pdf/0908.0191v1
+0908.2506v1,2009-08-18T07:29:27Z,Software Engineering with Process Algebra: Modelling Client / Server   Architectures,B. Diertens,cs.SE,http://arxiv.org/pdf/0908.2506v1
+0909.0732v1,2009-09-03T19:06:50Z,A Step towards Software Corrective Maintenance Using RCM model,Shakeel Ahmad,cs.SE,http://arxiv.org/pdf/0909.0732v1
+0909.1361v1,2009-09-08T19:44:49Z,Statechart Verification with iState,Dai Tri Man Le,cs.SE,http://arxiv.org/pdf/0909.1361v1
+0909.1364v1,2009-09-08T00:50:30Z,High level architecture evolved modular federation object model,Weiping Wang,cs.SE,http://arxiv.org/pdf/0909.1364v1
+0909.2090v1,2009-09-11T06:19:01Z,Context Aware Adaptable Applications - A global approach,Sophie Laplace,cs.SE,http://arxiv.org/pdf/0909.2090v1
+0909.2103v1,2009-09-11T07:37:04Z,MESURE Tool to benchmark Java Card platforms,Pierre Paradinas,cs.SE,http://arxiv.org/pdf/0909.2103v1
+0909.2145v1,2009-09-11T11:08:07Z,A general XML-based distributed software architecture for accessing and   sharing ressources,Laurent Romary,cs.SE,http://arxiv.org/pdf/0909.2145v1
+0909.2183v1,2009-09-11T14:43:54Z,A Survey on Service Composition Middleware in Pervasive Environments,Frederic Le Mouel,cs.SE,http://arxiv.org/pdf/0909.2183v1
+0909.3414v1,2009-09-18T11:56:33Z,Three-dimensional conceptual model for service-oriented simulation,Yifan Zhu,cs.SE,http://arxiv.org/pdf/0909.3414v1
+0909.5087v1,2009-09-28T13:12:57Z,Towards maintainer script modernization in FOSS distributions,Stefano Zacchiroli,cs.SE,http://arxiv.org/pdf/0909.5087v1
+0909.5091v1,2009-09-28T13:31:17Z,Expressing advanced user preferences in component installation,Stefano Zacchiroli,cs.SE,http://arxiv.org/pdf/0909.5091v1
+0911.0428v1,2009-11-02T21:08:05Z,From Method Fragments to Method Services,Carine Souveyet,cs.SE,http://arxiv.org/pdf/0911.0428v1
+0911.0430v1,2009-11-02T21:08:33Z,"Enhancing the Guidance of the Intentional Model ""MAP"": Graph Theory   Application",Colette Rolland,cs.SE,http://arxiv.org/pdf/0911.0430v1
+0911.1494v1,2009-11-08T08:37:36Z,Situational Method Engineering: Fundamentals and Experiences,Rebecca Deneckere,cs.SE,http://arxiv.org/pdf/0911.1494v1
+0911.1495v1,2009-11-08T08:38:06Z,Method Chunks Selection by Multicriteria Techniques: an Extension of the   Assembly-based Approach,Camille Salinesi,cs.SE,http://arxiv.org/pdf/0911.1495v1
+0911.1496v1,2009-11-08T08:38:34Z,Improving Software Development Processes with Multicriteria Methods,Camille Salinesi,cs.SE,http://arxiv.org/pdf/0911.1496v1
+0911.3306v1,2009-11-17T13:36:59Z,Software Engineering Education by Example,Pascal Urso,cs.SE,http://arxiv.org/pdf/0911.3306v1
+0911.3784v1,2009-11-19T12:48:54Z,Continuous Verification of Large Embedded Software using SMT-Based   Bounded Model Checking,Joao Marques-Silva,cs.SE,http://arxiv.org/pdf/0911.3784v1
+0912.0473v1,2009-12-02T17:40:48Z,Inferring Information from Feature Diagrams to Product Line Economic   Models,Jose Antonio Cerrada,cs.SE,http://arxiv.org/pdf/0912.0473v1
+0912.0982v1,2009-12-05T05:49:57Z,Ethics Understanding of Software Professional In Risk Reducing   Reusability Coding Using Inclusion Set Theory,Dr. A. Krishnan,cs.SE,http://arxiv.org/pdf/0912.0982v1
+0912.0983v1,2009-12-05T05:52:20Z,Architectural Design Activities for JAS,Lena Khaled,cs.SE,http://arxiv.org/pdf/0912.0983v1
+0912.2301v1,2009-12-11T18:10:27Z,Fault Predictions in Object Oriented Software,R Thushara,cs.SE,http://arxiv.org/pdf/0912.2301v1
+0912.2320v1,2009-12-11T19:01:23Z,"Identifying the Importance of Software Reuse in COCOMO81, COCOMOII",G. SriRamGanesh,cs.SE,http://arxiv.org/pdf/0912.2320v1
+1001.0683v1,2010-01-05T11:50:23Z,Introducing Automated Regression Testing in Open Source Projects,Christopher Oezbek,cs.SE,http://arxiv.org/pdf/1001.0683v1
+1001.1970v1,2010-01-12T18:26:55Z,A Framework for Validation of Object Oriented Design Metrics,M. Kumar,cs.SE,http://arxiv.org/pdf/1001.1970v1
+1001.2386v1,2010-01-14T08:36:43Z,Towards Improving the Mental Model of Software Developers through   Cartographic Visualization,Oscar Nierstrasz,cs.SE,http://arxiv.org/pdf/1001.2386v1
+1001.3473v1,2010-01-20T07:08:06Z,Software Metrics Evaluation Based on Entropy,Kamakshi Prasad,cs.SE,http://arxiv.org/pdf/1001.3473v1
+1001.3489v1,2010-01-20T07:51:59Z,Applying MVC and PAC patterns in mobile applications,D. Simic,cs.SE,http://arxiv.org/pdf/1001.3489v1
+1001.3497v2,2010-01-20T08:11:10Z,Mapping of SOA and RUP: DOA as Case Study,Shakeel Ahmad,cs.SE,http://arxiv.org/pdf/1001.3497v2
+1001.3539v1,2010-01-20T10:30:31Z,Multicore Applications in Real Time Systems,T. R. Gopalakrishnan Nair,cs.SE,http://arxiv.org/pdf/1001.3539v1
+1001.3552v1,2010-01-20T11:14:59Z,Effective Defect Prevention Approach in Software Process for Achieving   Better Quality Levels,T. R. Gopalakrishnan Nair,cs.SE,http://arxiv.org/pdf/1001.3552v1
+1001.3555v1,2010-01-20T11:28:26Z,Estimation of Defect proneness Using Design complexity Measurements in   Object- Oriented Software,V. Kamakshi Prasad,cs.SE,http://arxiv.org/pdf/1001.3555v1
+1001.3725v1,2010-01-21T05:38:46Z,Effectiveness Of Defect Prevention In I.T. For Product Development,T. R. Gopalakrishnan Nair,cs.SE,http://arxiv.org/pdf/1001.3725v1
+1001.3734v1,2010-01-21T06:56:10Z,Software Components for Web Services,R. Selvarani,cs.SE,http://arxiv.org/pdf/1001.3734v1
+1001.3918v1,2010-01-22T05:45:55Z,Defect Prevention Approaches in Medium Scale it Enterprises,T. R. Gopalakrishnan Nair,cs.SE,http://arxiv.org/pdf/1001.3918v1
+1001.3919v1,2010-01-22T06:09:51Z,Mapping General System Characteristics to Non- Functional Requirements,T. R. Gopalakrishnan Nair,cs.SE,http://arxiv.org/pdf/1001.3919v1
+1001.4129v1,2010-01-23T04:50:24Z,Defect Prevention Approaches In Medium Scale It Enterprises,T. R. Gopalakrishnan Nair,cs.SE,http://arxiv.org/pdf/1001.4129v1
+1001.4192v1,2010-01-23T19:15:52Z,"Review and Analysis of The Issues of Unified Modeling Language for   Visualizing, Specifying, Constructing and Documenting the Artifacts of a   Software-Intensive System",S. S. Riaz Ahamed,cs.SE,http://arxiv.org/pdf/1001.4192v1
+1001.4193v1,2010-01-23T19:23:09Z,Studying the Feasibility and Importance of Software Testing: An Analysis,S. S. Riaz Ahamed,cs.SE,http://arxiv.org/pdf/1001.4193v1
+1001.4220v2,2010-01-24T02:51:46Z,Modelling Variability for System Families,Shamim H. Ripon,cs.SE,http://arxiv.org/pdf/1001.4220v2
+1001.4299v1,2010-01-25T02:02:33Z,Identification of Logical Errors through Monte-Carlo Simulation,Lawrence I. Goldman,cs.SE,http://arxiv.org/pdf/1001.4299v1
+1001.5310v1,2010-01-29T01:37:30Z,Proceedings Second Workshop on Formal Aspects of Virtual Organisations,John Fitzgerald,cs.SE,http://arxiv.org/pdf/1001.5310v1
+1001.5358v1,2010-01-29T08:52:54Z,Design of Run time Architectures for Real time UML Models an Actor   Centric Approach,V. Kamakshi Prasad,cs.SE,http://arxiv.org/pdf/1001.5358v1
+1002.0154v1,2010-01-31T20:23:01Z,Usages et conception des TIC : Proposition d'un modèle d'aide à la   représentation de problème de conception,Pierre Humbert,cs.SE,http://arxiv.org/pdf/1002.0154v1
+1002.0678v1,2010-02-03T09:35:21Z,FORMT: Form-based Mutation Testing of Logical Specifications,Andreas Zinnen,cs.SE,http://arxiv.org/pdf/1002.0678v1
+1002.1005v1,2010-02-04T14:52:44Z,A Framework for Agile Development of Component-Based Applications,Laurence Duchien,cs.SE,http://arxiv.org/pdf/1002.1005v1
+1002.1188v1,2010-02-05T10:35:59Z,Framework for Visualizing Model-Driven Software Evolution and its   Application,Karanam Madhavi,cs.SE,http://arxiv.org/pdf/1002.1188v1
+1002.1199v1,2010-02-05T11:07:46Z,Reliable Mining of Automatically Generated Test Cases from Software   Requirements Specification (SRS),G. V. Uma,cs.SE,http://arxiv.org/pdf/1002.1199v1
+1002.1692v1,2010-02-08T19:25:52Z,The Importance Analysis of Use Case Map with Markov Chains,Lee Sub Lee,cs.SE,http://arxiv.org/pdf/1002.1692v1
+1002.2197v1,2010-02-10T20:08:36Z,Test Case Generation using Mutation Operators and Fault Classification,Dr. Antony Selvadoss Thanamani,cs.SE,http://arxiv.org/pdf/1002.2197v1
+1002.2686v1,2010-02-13T06:40:19Z,Performance Analysis of View Maintenance Techniques for DW,R. Selvarani,cs.SE,http://arxiv.org/pdf/1002.2686v1
+1002.2829v1,2010-02-15T08:30:48Z,Dynamic Cognitive Process Application of Blooms Taxonomy for Complex   Software Design in the Cognitive Domain,R Selvarani,cs.SE,http://arxiv.org/pdf/1002.2829v1
+1002.3008v1,2010-02-16T06:19:35Z,Cognitive Process of Comprehension in Requirement Analysis in IT   Applications,R. Selvarani,cs.SE,http://arxiv.org/pdf/1002.3008v1
+1002.3015v1,2010-02-16T06:53:21Z,GPRS Based Intranet Remote Administration GIRA,Pushpavathi T. P,cs.SE,http://arxiv.org/pdf/1002.3015v1
+1002.3031v1,2010-02-16T08:37:49Z,Quantifying the Deign Quality of Object Oriented System The metric based   rules and heuristic,Kamakshi Prasad,cs.SE,http://arxiv.org/pdf/1002.3031v1
+1002.3711v1,2010-02-19T10:55:39Z,Theory of Regulatory Compliance for Requirements Engineering,Angelo Susi,cs.SE,http://arxiv.org/pdf/1002.3711v1
+1002.3996v2,2010-02-21T19:23:17Z,Improvement in RUP Project Management via Service Monitoring: Best   Practice of SOA,Arjamand Bano,cs.SE,http://arxiv.org/pdf/1002.3996v2
+1004.0604v1,2010-04-05T09:52:05Z,On Generation of Firewall Log Status Reporter (SRr) Using Perl,Tzusheng Pei,cs.SE,http://arxiv.org/pdf/1004.0604v1
+1004.1239v1,2010-04-08T03:58:30Z,Analysis of Empirical Software Effort Estimation Models,Dhavachelvan Ponnurangam,cs.SE,http://arxiv.org/pdf/1004.1239v1
+1004.1708v1,2010-04-10T11:17:35Z,Mathematical Principles in Software Quality Engineering,Rakesh. L,cs.SE,http://arxiv.org/pdf/1004.1708v1
+1004.1773v1,2010-04-11T08:14:56Z,A Model of Cloud Based Application Environment for Software Testing,R. Baskaran,cs.SE,http://arxiv.org/pdf/1004.1773v1
+1004.2178v1,2010-04-13T13:25:12Z,GénéSyst : Génération d'un système de transitions   étiquetées à partir d'une spécification B événementiel,Nicolas Stouls,cs.SE,http://arxiv.org/pdf/1004.2178v1
+1004.2889v1,2010-04-16T17:24:33Z,Code forking in open-source software: a requirements perspective,John Mylopoulos,cs.SE,http://arxiv.org/pdf/1004.2889v1
+1004.3258v1,2010-04-19T17:53:38Z,Multiple Criteria Decision-Making Preprocessing Using Data Mining Tools,A. Mosavi,cs.SE,http://arxiv.org/pdf/1004.3258v1
+1004.3263v1,2010-04-19T18:01:45Z,DRMS Co-design by F4MS,Mohsine Eleuldj,cs.SE,http://arxiv.org/pdf/1004.3263v1
+1004.3270v1,2010-04-19T18:12:32Z,Optimized Fuzzy Logic Based Framework for Effort Estimation in Software   Development,Harsh Kumar Verma,cs.SE,http://arxiv.org/pdf/1004.3270v1
+1004.3277v1,2010-04-19T18:30:52Z,A Pedagogical Evaluation and Discussion about the Lack of Cohesion in   Method (LCOM) Metric Using Field Experiment,Ezekiel Okike,cs.SE,http://arxiv.org/pdf/1004.3277v1
+1004.3640v1,2010-04-21T07:34:19Z,An Object-Oriented Metamodel for Bunge-Wand-Weber Ontology,Rushikesh K. Joshi,cs.SE,http://arxiv.org/pdf/1004.3640v1
+1004.4447v1,2010-04-26T09:30:32Z,Maintainability Estimation Model for Object-Oriented Software in Design   Phase (MEMOOD),R. A. Khan,cs.SE,http://arxiv.org/pdf/1004.4447v1
+1004.4463v1,2010-04-26T10:10:07Z,A Metrics Based Model for Understandability Quantification,Khurram Mustafa,cs.SE,http://arxiv.org/pdf/1004.4463v1
+1007.1023v1,2010-07-07T00:13:06Z,CONFIGEN: A tool for managing configuration options,Vincent David,cs.SE,http://arxiv.org/pdf/1007.1023v1
+1007.1722v1,2010-07-10T14:14:30Z,A tool stack for implementing Behaviour-Driven Development in Python   Language,Rogerio Atem de Carvalho,cs.SE,http://arxiv.org/pdf/1007.1722v1
+1007.2381v1,2010-07-14T17:24:02Z,A methodological approach on the architectural development of integrated   e-learning systems,Tutu Ionut,cs.SE,http://arxiv.org/pdf/1007.2381v1
+1007.3589v1,2010-07-21T09:13:49Z,On the Cooperation of Independent Registries,Matteo Miraz,cs.SE,http://arxiv.org/pdf/1007.3589v1
+1007.5092v1,2010-07-29T00:13:00Z,Handling Data-Based Concurrency in Context-Aware Service Protocols,Carlos Canal,cs.SE,http://arxiv.org/pdf/1007.5092v1
+1007.5093v1,2010-07-29T00:13:04Z,On Coordinating Collaborative Objects,Abdessamad Imine,cs.SE,http://arxiv.org/pdf/1007.5093v1
+1007.5115v1,2010-07-29T06:06:25Z,Bayesian Network Based XP Process Modelling,Luigi Benedicenti,cs.SE,http://arxiv.org/pdf/1007.5115v1
+1007.5117v1,2010-07-29T06:18:31Z,Code Quality Evaluation Methodology Using The ISO/IEC 9126 Standard,Nikos Tsirakis,cs.SE,http://arxiv.org/pdf/1007.5117v1
+1007.5123v1,2010-07-29T06:53:20Z,Building Reusable Software Component For Optimization Check in ABAP   Coding,S. S. V. N. Sharma,cs.SE,http://arxiv.org/pdf/1007.5123v1
+1007.5126v1,2010-07-29T07:02:17Z,Examining Requirements Change Rework Effort: A Study,June Verner,cs.SE,http://arxiv.org/pdf/1007.5126v1
+1007.5127v1,2010-07-29T07:08:52Z,Towards Performance Measurement And Metrics Based Analysis of PLA   Applications,Zeeshan Ahmed,cs.SE,http://arxiv.org/pdf/1007.5127v1
+1008.1671v1,2010-08-10T09:23:09Z,A Parsing Scheme for Finding the Design Pattern and Reducing the   Development Cost of Reusable Object Oriented Software,Mohammad Sabbir Hasan,cs.SE,http://arxiv.org/pdf/1008.1671v1
+1008.2458v3,2010-08-14T16:26:14Z,A Case Study in Matching Service Descriptions to Implementations in an   Existing System,Girish M. Rama,cs.SE,http://arxiv.org/pdf/1008.2458v3
+1008.2542v1,2010-08-15T18:41:05Z,Integration of Design Patterns and Mobile Applications in a Management   System for Monitoring Maintenance Cathode Plates of Mining Company Quebrada   Blanca SA,Oscar Sandoval Carlos,cs.SE,http://arxiv.org/pdf/1008.2542v1
+1008.2647v1,2010-08-16T13:16:03Z,Searching publications on software testing,C. A. Middelburg,cs.SE,http://arxiv.org/pdf/1008.2647v1
+1008.3321v1,2010-08-19T15:01:14Z,Software Development Standard and Software Engineering Practice: A Case   Study of Bangladesh,Md. Shoyaib,cs.SE,http://arxiv.org/pdf/1008.3321v1
+1008.4174v1,2010-08-24T23:01:46Z,Spreadsheets Grow Up: Three Spreadsheet Engineering Methodologies for   Large Financial Planning Models,Ozgur Ozluk,cs.SE,http://arxiv.org/pdf/1008.4174v1
+1009.0152v1,2010-09-01T10:18:05Z,Three Controlled Experiments in Software Engineering with the Two-Tier   Programming Toolkit: Final Report,Epameinondas Gasparis,cs.SE,http://arxiv.org/pdf/1009.0152v1
+1009.1412v1,2010-09-07T21:35:50Z,Spreadsheet Refactoring,Patrick O'Beirne,cs.SE,http://arxiv.org/pdf/1009.1412v1
+1009.2765v1,2010-09-14T20:15:45Z,How do Range Names Hinder Novice Spreadsheet Debugging Performance?,Kevin McDaid,cs.SE,http://arxiv.org/pdf/1009.2765v1
+1009.2775v1,2010-09-14T20:32:29Z,Spreadsheet Risk Management in Organisations,Eoin Langan,cs.SE,http://arxiv.org/pdf/1009.2775v1
+1009.2785v1,2010-09-14T20:54:42Z,The Detection of Human Spreadsheet Errors by Humans versus Inspection   (Auditing) Software,Raymond R. Panko,cs.SE,http://arxiv.org/pdf/1009.2785v1
+1009.2787v1,2010-09-14T21:14:24Z,Teaching Spreadsheets: Curriculum Design Principles,Francoise Tort,cs.SE,http://arxiv.org/pdf/1009.2787v1
+1009.2797v1,2010-09-14T21:39:37Z,What we understand is what we get: Assessment in Spreadsheets,Michael Kohlhase,cs.SE,http://arxiv.org/pdf/1009.2797v1
+1009.2902v1,2010-09-15T12:02:04Z,Informal Control code logic,Jan A. Bergstra,cs.SE,http://arxiv.org/pdf/1009.2902v1
+1009.3462v1,2010-09-17T16:09:29Z,On Modelling and Analysis of Dynamic Reconfiguration of Dependable   Real-Time Systems,Anirban Bhattacharyya,cs.SE,http://arxiv.org/pdf/1009.3462v1
+1009.3710v1,2010-09-20T07:19:26Z,Optimizing Computation of Recovery Plans for BPEL Applications,Marsha Chechik,cs.SE,http://arxiv.org/pdf/1009.3710v1
+1009.3714v1,2010-09-20T07:19:50Z,Browser-based Analysis of Web Framework Applications,Michael Goedicke,cs.SE,http://arxiv.org/pdf/1009.3714v1
+1009.3715v1,2010-09-20T07:19:53Z,Contracting the Facebook API,Tevfik Bultan,cs.SE,http://arxiv.org/pdf/1009.3715v1
+1009.3911v1,2010-09-20T18:50:08Z,Deriving Specifications of Dependable Systems: toward a Method,Manuel Mazzara,cs.SE,http://arxiv.org/pdf/1009.3911v1
+1009.4259v1,2010-09-22T04:02:03Z,Modeling and Analyzing Adaptive User-Centric Systems in Real-Time Maude,Andreas Schroeder,cs.SE,http://arxiv.org/pdf/1009.4259v1
+1009.5087v1,2010-09-26T12:38:05Z,Bus Protocols: MSC-Based Specifications and Translation into Program of   Verification Tool for Formal Verification,Kamrul Hasan Talukder,cs.SE,http://arxiv.org/pdf/1009.5087v1
+1009.5088v1,2010-09-26T12:38:18Z,Modelling Variability for System Families,Khademul Islam Molla,cs.SE,http://arxiv.org/pdf/1009.5088v1
+1009.5698v1,2010-09-28T21:15:49Z,Defending the future: An MSc module in End User Computing Risk   Management,Simon Thorne,cs.SE,http://arxiv.org/pdf/1009.5698v1
+1009.5705v1,2010-09-28T21:46:50Z,"Spreadsheets - the Good, the Bad and the Downright Ugly",Angus Dunn,cs.SE,http://arxiv.org/pdf/1009.5705v1
+1010.2337v1,2010-10-12T09:51:51Z,Proceedings International Workshop on Component and Service   Interoperability,Gwen Salaün,cs.SE,http://arxiv.org/pdf/1010.2337v1
+1010.2354v1,2010-10-12T11:30:47Z,Predicting Coding Effort in Projects Containing XML Code,Marlon Dumas,cs.SE,http://arxiv.org/pdf/1010.2354v1
+1010.2822v1,2010-10-14T05:15:54Z,"Contract Aware Components, 10 years after",Noël Plouzeau,cs.SE,http://arxiv.org/pdf/1010.2822v1
+1010.2825v1,2010-10-14T05:16:22Z,Components Interoperability through Mediating Connector Patterns,Paola Inverardi,cs.SE,http://arxiv.org/pdf/1010.2825v1
+1010.2827v1,2010-10-14T05:16:31Z,Multilevel Contracts for Trusted Components,Christian Attiogbé,cs.SE,http://arxiv.org/pdf/1010.2827v1
+1010.3045v1,2010-10-14T23:53:07Z,The Emerging Web of Social Machines,Vinícius Garcia,cs.SE,http://arxiv.org/pdf/1010.3045v1
+1010.3100v1,2010-10-15T09:01:45Z,On Object-Orientation,B. Diertens,cs.SE,http://arxiv.org/pdf/1010.3100v1
+1010.4092v3,2010-10-20T03:08:09Z,Predicting Bugs' Components via Mining Bug Reports,Hongping Hu,cs.SE,http://arxiv.org/pdf/1010.4092v3
+1010.4891v1,2010-10-23T16:34:51Z,Mayavi: a package for 3D visualization of scientific data,Gaël Varoquaux,cs.SE,http://arxiv.org/pdf/1010.4891v1
+1010.6155v1,2010-10-29T09:05:27Z,Well-formedness and typing rules for UML Composite Structures,Iulian Ober,cs.SE,http://arxiv.org/pdf/1010.6155v1
+1011.0278v1,2010-11-01T09:51:34Z,Formalization of the data flow diagram rules for consistency check,Siow Yen yen,cs.SE,http://arxiv.org/pdf/1011.0278v1
+1011.0280v1,2010-11-01T10:03:32Z,From UML Specification into Implementation using Object Mapping,Rosziati Ibrahim,cs.SE,http://arxiv.org/pdf/1011.0280v1
+1011.0594v1,2010-11-02T12:19:46Z,Heuristic Approach of Automated Test Data Generation for Program having   Array of Different Dimensions and Loops with Variable Number of Iteration,Bichitra Kalita,cs.SE,http://arxiv.org/pdf/1011.0594v1
+1011.0604v1,2010-11-02T12:54:18Z,Improving the Technical Aspects of Software Testing in Enterprises,Tim A. Majchrzak,cs.SE,http://arxiv.org/pdf/1011.0604v1
+1011.1021v1,2010-11-03T22:08:02Z,What's the point of documentation?,Louise Pryor,cs.SE,http://arxiv.org/pdf/1011.1021v1
+1011.1551v1,2010-11-06T10:27:01Z,An Introduction to Software Engineering and Fault Tolerance,Alexander Romanovsky,cs.SE,http://arxiv.org/pdf/1011.1551v1
+1011.2163v1,2010-11-09T18:00:35Z,Component Based Development,Debayan Bose,cs.SE,http://arxiv.org/pdf/1011.2163v1
+1011.2238v1,2010-11-09T23:55:05Z,Introducing Business Language Driven Development,Fernando Luiz de Carvalho e Silva,cs.SE,http://arxiv.org/pdf/1011.2238v1
+1011.2652v1,2010-11-11T13:42:45Z,A Formal Model for Dynamically Adaptable Services,Jorge Fox,cs.SE,http://arxiv.org/pdf/1011.2652v1
+1011.5389v1,2010-11-24T15:03:12Z,A Model for Configuration Management of Open Software Systems,Paolo Milazzo,cs.SE,http://arxiv.org/pdf/1011.5389v1
+1011.6461v1,2010-11-30T05:24:01Z,Precisely Analyzing Loss in Interface Adapter Chains,Yoo Chung,cs.SE,http://arxiv.org/pdf/1011.6461v1
+1012.0038v1,2010-11-30T21:56:11Z,Testing by C++ template metaprograms,Norbert Pataki,cs.SE,http://arxiv.org/pdf/1012.0038v1
+1012.1153v1,2010-12-06T12:37:37Z,Mobiles ortsbezogenes Projektmanagement,Jan Zibuschka,cs.SE,http://arxiv.org/pdf/1012.1153v1
+1012.1640v1,2010-12-07T23:38:12Z,Constraint-Guided Workflow Composition Based on the EDAM Ontology,Tiziana Margaria,cs.SE,http://arxiv.org/pdf/1012.1640v1
+1012.2469v1,2010-12-11T15:56:40Z,UCMExporter: Supporting Scenario Transformations from Use Case Maps,Yong He,cs.SE,http://arxiv.org/pdf/1012.2469v1
+1012.5739v1,2010-12-28T11:28:17Z,Business Mereology: Imaginative Definitions of Insourcing and   Outsourcing Transformations,S. F. M. van Vlijmen,cs.SE,http://arxiv.org/pdf/1012.5739v1
+1101.0105v1,2010-12-30T16:25:55Z,Integration of Communication Analysis and the OO Method: Manual   derivation of the Conceptual Model. The SuperStationery Co. lab demo,Marcela Ruiz,cs.SE,http://arxiv.org/pdf/1101.0105v1
+1101.1718v1,2011-01-10T08:31:45Z,Precise Schedulability Analysis for unfeasible to notify separately for   comprehensive - EDF Scheduling of interrupted Hard Real-Time Tasks on the   similar Multiprocessors,Jagbeer Singh,cs.SE,http://arxiv.org/pdf/1101.1718v1
+1101.4731v1,2011-01-25T06:57:34Z,Interface Theories for (A)synchronously Communicating Modal   I/O-Transition Systems,Stephan Janisch,cs.SE,http://arxiv.org/pdf/1101.4731v1
+1101.5341v2,2011-01-27T17:11:24Z,A practical guide to Message Structures: a modelling technique for   information systems analysis and design,Marcela Ruiz,cs.SE,http://arxiv.org/pdf/1101.5341v2
+1101.5957v1,2011-01-31T13:31:20Z,A Kind of Representation of Common Knowledge and its Application in   Requirements Analysis,Jianmin Wang,cs.SE,http://arxiv.org/pdf/1101.5957v1
+1102.0583v1,2011-02-02T23:04:49Z,Thin Client Web-Based Campus Information Systems for Fiji National   University,Bimal Aklesh Kumar,cs.SE,http://arxiv.org/pdf/1102.0583v1
+1102.1059v2,2011-02-05T08:31:07Z,Code-based Automated Program Fixing,Bertrand Meyer,cs.SE,http://arxiv.org/pdf/1102.1059v2
+1102.3529v1,2011-02-17T09:04:29Z,A Tool for the Certification of PLCs based on a Coq Semantics for   Sequential Function Charts,Jan Olaf Blech,cs.SE,http://arxiv.org/pdf/1102.3529v1
+1102.4162v1,2011-02-21T08:38:49Z,Comparative Study on DFD to UML Diagrams Transformations,Aamer Nadeem,cs.SE,http://arxiv.org/pdf/1102.4162v1
+1102.4178v1,2011-02-21T10:14:56Z,Mixed-Variable Requirements Roadmaps and their Role in the Requirements   Engineering of Adaptive Systems,Neil A. Ernst,cs.SE,http://arxiv.org/pdf/1102.4178v1
+1102.4179v1,2011-02-21T10:17:29Z,Runtime Adaptability driven by Negotiable Quality Requirements,Adina Mosincat,cs.SE,http://arxiv.org/pdf/1102.4179v1
+1102.4518v3,2011-02-22T14:21:31Z,BP Variability Case Studies Development using different Modeling   Approaches,Vicente Pelechano,cs.SE,http://arxiv.org/pdf/1102.4518v3
+1102.4519v3,2011-02-22T14:21:31Z,Theoretical Count of Function Points for Non-Measurable Items,Nilo Serpa,cs.SE,http://arxiv.org/pdf/1102.4519v3
+1102.5193v1,2011-02-25T08:54:48Z,Lightweight Service Oriented Architecture for Pervasive Computing,Michel Riveill,cs.SE,http://arxiv.org/pdf/1102.5193v1
+1105.0153v1,2011-05-01T08:35:14Z,The Development of Electronic Payment System for Universities in   Indonesia: On Resolving Key Success Factors,Nico Saputro,cs.SE,http://arxiv.org/pdf/1105.0153v1
+1105.0390v1,2011-05-02T18:06:48Z,MCA Based Performance Evaluation of Project Selection,Bijan Sarkar,cs.SE,http://arxiv.org/pdf/1105.0390v1
+1105.0768v4,2011-05-04T09:07:54Z,Collaborative Software Development on the Web,Bertrand Meyer,cs.SE,http://arxiv.org/pdf/1105.0768v4
+1105.1191v1,2011-05-05T23:17:47Z,Software Architecture for Fiji National University Campus Information   Systems,Bimal Aklesh Kumar,cs.SE,http://arxiv.org/pdf/1105.1191v1
+1105.1633v3,2011-05-09T11:24:16Z,Computation of WCET using Program Slicing and Real-Time Model-Checking,Franck Cassez,cs.SE,http://arxiv.org/pdf/1105.1633v3
+1105.2335v1,2011-05-11T23:03:38Z,Hierarchical Complexity: Measures of High Level Modularity,Alejandro Fernández,cs.SE,http://arxiv.org/pdf/1105.2335v1
+1105.4468v1,2011-05-23T11:26:10Z,Standardization of information systems development processes and banking   industry adaptations,Tuna Ozcer,cs.SE,http://arxiv.org/pdf/1105.4468v1
+1105.6128v1,2011-05-30T22:34:51Z,MDA based-approach for UML Models Complete Comparison,Salma Mouline,cs.SE,http://arxiv.org/pdf/1105.6128v1
+1106.2686v1,2011-06-14T12:17:44Z,Automated Software Testing Using Metahurestic Technique Based on An Ant   Colony Optimization,Km Baby,cs.SE,http://arxiv.org/pdf/1106.2686v1
+1106.3961v2,2011-06-20T16:26:27Z,Stochastic Semantics and Statistical Model Checking for Networks of   Priced Timed Automata,Zheng Wang,cs.SE,http://arxiv.org/pdf/1106.3961v2
+1106.4091v1,2011-06-21T05:24:16Z,Bigraphical Refinement,Thomas Hildebrandt,cs.SE,http://arxiv.org/pdf/1106.4091v1
+1106.4095v1,2011-06-21T05:24:55Z,Refinement for Probabilistic Systems with Nondeterminism,David Streader,cs.SE,http://arxiv.org/pdf/1106.4095v1
+1106.4097v1,2011-06-21T05:25:11Z,Formalising the Continuous/Discrete Modeling Step,Runlei Huang,cs.SE,http://arxiv.org/pdf/1106.4097v1
+1106.4099v1,2011-06-21T05:25:23Z,Perspicuity and Granularity in Refinement,Eerke Boiten,cs.SE,http://arxiv.org/pdf/1106.4099v1
+1106.4700v1,2011-06-23T12:45:37Z,Verifying Eiffel Programs with Boogie,Bertrand Meyer,cs.SE,http://arxiv.org/pdf/1106.4700v1
+1106.5962v1,2011-06-29T15:05:15Z,Proceedings Second International Workshop on Algebraic Methods in   Model-based Software Engineering,Vlad Rusu,cs.SE,http://arxiv.org/pdf/1106.5962v1
+1107.0067v1,2011-06-30T21:45:00Z,Prototyping the Semantics of a DSL using ASF+SDF: Link to Formal   Verification of DSL Models,Luc Engelen,cs.SE,http://arxiv.org/pdf/1107.0067v1
+1107.1166v1,2011-07-06T15:52:36Z,Reachability Analysis of Time Basic Petri Nets: a Time Coverage Approach,Lorenzo Capra,cs.SE,http://arxiv.org/pdf/1107.1166v1
+1107.1198v1,2011-07-06T17:54:32Z,QuantUM: Quantitative Safety Analysis of UML Models,Stefan Leue,cs.SE,http://arxiv.org/pdf/1107.1198v1
+1107.2683v1,2011-07-13T21:58:38Z,An IDE to Build and Check Task Flow Models,Hermenegildo Fernandez Santos,cs.SE,http://arxiv.org/pdf/1107.2683v1
+1107.3201v1,2011-07-16T07:07:44Z,Estimation of Characteristics of a Software Team for Implementing   Effective Inspection Process through Inspection Performance Metric,Suma. V,cs.SE,http://arxiv.org/pdf/1107.3201v1
+1107.3297v1,2011-07-17T12:51:30Z,Semantic annotation of requirements for automatic UML class diagram   generation,Sondes Bouabid,cs.SE,http://arxiv.org/pdf/1107.3297v1
+1108.0228v1,2011-08-01T03:57:54Z,Modelling and Simulation of Asynchronous Real-Time Systems using Timed   Rebeca,Marjan Sirjani,cs.SE,http://arxiv.org/pdf/1108.0228v1
+1108.0427v1,2011-08-01T20:22:21Z,A Methodology for assessing Agile Software Development Approaches,Shvetha Soundararajan,cs.SE,http://arxiv.org/pdf/1108.0427v1
+1108.0467v1,2011-08-02T02:27:25Z,On the reaction time of some synchronous systems,Guy Vidal-Naquet,cs.SE,http://arxiv.org/pdf/1108.0467v1
+1108.1068v2,2011-08-04T12:38:29Z,Stateful Testing: Finding More Errors in Code and Contracts,Bertrand Meyer,cs.SE,http://arxiv.org/pdf/1108.1068v2
+1108.1314v1,2011-08-05T12:12:31Z,Security Model For Service-Oriented Architecture,Oldooz Karimi,cs.SE,http://arxiv.org/pdf/1108.1314v1
+1108.1352v1,2011-08-05T15:40:43Z,Program slicing techniques and its applications,Dr. M. Hemalatha,cs.SE,http://arxiv.org/pdf/1108.1352v1
+1108.1447v1,2011-08-06T04:06:55Z,Impact of Software Requirement Volatility Pattern on Project Dynamics:   Evidences from a Case Study,Subhajit Dasgupta,cs.SE,http://arxiv.org/pdf/1108.1447v1
+1108.1461v4,2011-08-06T08:00:31Z,"Understanding need of ""Uncertainty Analysis"" in the system Design   process",Kardile Vilas Vasantrao,cs.SE,http://arxiv.org/pdf/1108.1461v4
+1108.1862v1,2011-08-09T06:38:27Z,Input-output Conformance Testing for Channel-based Service Connectors,Leonid Makhnist,cs.SE,http://arxiv.org/pdf/1108.1862v1
+1108.2349v1,2011-08-11T08:51:32Z,Specification and Verification of Context-dependent Services,Mubarak Mohammad,cs.SE,http://arxiv.org/pdf/1108.2349v1
+1108.2350v1,2011-08-11T08:51:38Z,Product Lines for Service Oriented Applications - PL for SOA,Mercy N. Njima,cs.SE,http://arxiv.org/pdf/1108.2350v1
+1108.2357v1,2011-08-11T09:27:41Z,Automated Functional Testing based on the Navigation of Web Applications,Juan Carlos Dueñas,cs.SE,http://arxiv.org/pdf/1108.2357v1
+1108.2384v1,2011-08-11T12:09:47Z,Maximal Structuring of Acyclic Process Models,Mathias Weske,cs.SE,http://arxiv.org/pdf/1108.2384v1
+1108.3342v1,2011-08-16T20:03:01Z,Patterns for Business-to-consumer E-Commerce Applications,Eduardo B. Fernandez,cs.SE,http://arxiv.org/pdf/1108.3342v1
+1108.4094v1,2011-08-20T07:21:51Z,OSD: A Source Level Bug Localization Technique Incorporating Control   Flow and State Information in Object Oriented Program,Partha Pratim Ray,cs.SE,http://arxiv.org/pdf/1108.4094v1
+1108.4770v1,2011-08-24T07:35:21Z,A Classification Framework for Web Browser Cross-Context Communication,Ivan Budiselic,cs.SE,http://arxiv.org/pdf/1108.4770v1
+1108.5295v1,2011-08-26T13:34:54Z,Checking Finite State Machine Conformance when there are Distributed   Observations,Robert M Hierons,cs.SE,http://arxiv.org/pdf/1108.5295v1
+1109.0098v1,2011-09-01T06:08:56Z,Assessing the Feasibility of Developing a Federated ERP System,Mogens Bjerre,cs.SE,http://arxiv.org/pdf/1109.0098v1
+1109.0246v1,2011-09-01T17:55:27Z,Critical Aspects of Modern Open Source SoftwareTechnology to Support   Emerging Demands,Sohail Nazir,cs.SE,http://arxiv.org/pdf/1109.0246v1
+1109.0324v1,2011-09-01T23:04:32Z,A qos ontology-based component selection,Zizette Boufaida,cs.SE,http://arxiv.org/pdf/1109.0324v1
+1109.1648v1,2011-09-08T07:58:03Z,BRIDGE: A Model for Modern Software Development Process to Cater the   Present Software Crisis,Ardhendu Mandal,cs.SE,http://arxiv.org/pdf/1109.1648v1
+1109.1651v1,2011-09-08T08:07:58Z,SRS BUILDER 1.0: An Upper Type CASE Tool For Requirement Specification,Ardhendu Mandal,cs.SE,http://arxiv.org/pdf/1109.1651v1
+1109.1891v1,2011-09-09T04:18:04Z,Comprehensive measurement framework for enterprise architectures,Shantanu K. Dixit,cs.SE,http://arxiv.org/pdf/1109.1891v1
+1109.2075v1,2011-09-09T17:42:29Z,Evidence-Based Comparison of Modularity Support Between Java and Object   Teams,Miguel Pessoa Monteiro,cs.SE,http://arxiv.org/pdf/1109.2075v1
+1109.2873v1,2011-09-13T18:11:02Z,MDA-based ATL transformation to generate MVC 2 web models,M'hamed Rahmouni,cs.SE,http://arxiv.org/pdf/1109.2873v1
+1109.5505v1,2011-09-26T09:44:25Z,On the Simulation of Time-Triggered Systems on a Chip with BIP,Thanh Hung Nguyen,cs.SE,http://arxiv.org/pdf/1109.5505v1
+1109.6740v1,2011-09-30T08:09:02Z,SLALOM: a Language for SLA specification and monitoring,Vasco Amaral,cs.SE,http://arxiv.org/pdf/1109.6740v1
+1109.6794v1,2011-09-30T11:25:41Z,Do Software Languages Engineers Evaluate their Languages?,Vasco Amaral,cs.SE,http://arxiv.org/pdf/1109.6794v1
+1109.6802v1,2011-09-30T12:01:09Z,An overview of metrics-based approaches to support software components   reusability assessment,Fernando Brito e Abreu,cs.SE,http://arxiv.org/pdf/1109.6802v1
+1110.0070v2,2011-10-01T04:28:36Z,"Enhance accuracy in Software cost and schedule estimation by using   ""Uncertainty Analysis and Assessment"" in the system modeling process",Kardile Vilas Vasantrao,cs.SE,http://arxiv.org/pdf/1110.0070v2
+1110.1354v1,2011-10-06T19:21:55Z,Sources of Inter-package Conflicts in Debian,Stefano Zacchiroli,cs.SE,http://arxiv.org/pdf/1110.1354v1
+1110.1957v1,2011-10-10T08:29:37Z,Stratified Outsourcing Theory,S. F. M. van Vlijmen,cs.SE,http://arxiv.org/pdf/1110.1957v1
+1110.2258v1,2011-10-11T03:15:39Z,A comparative study of process mediator components that support   behavioral incompatibility,Mohd Sapiyan Baba,cs.SE,http://arxiv.org/pdf/1110.2258v1
+1110.3379v1,2011-10-15T04:25:47Z,Identifying Reference Objects by Hierarchical Clustering in Java   Environment,Dr. G. Geetha,cs.SE,http://arxiv.org/pdf/1110.3379v1
+1110.3384v1,2011-10-15T05:26:48Z,X-ray view on a Class using Conceptual Analysis in Java Environment,Prof. Mritunjay Kumar Rai,cs.SE,http://arxiv.org/pdf/1110.3384v1
+1110.4500v2,2011-10-20T11:24:20Z,Semantic conflict resolution for integration of business components,Abderrahim Sekkaki,cs.SE,http://arxiv.org/pdf/1110.4500v2
+1110.4501v1,2011-10-20T11:25:40Z,An Ontology-Based Method for Semantic Integration of Business Components,Larbi Kzaz,cs.SE,http://arxiv.org/pdf/1110.4501v1
+1110.6879v1,2011-10-31T18:10:57Z,Incorporating Agile with MDA Case Study: Online Polling System,Shweta Singh,cs.SE,http://arxiv.org/pdf/1110.6879v1
+1111.0562v1,2011-11-02T16:56:31Z,Model-driven system development: Experimental design and report of the   pilot experiment,Óscar Pastor,cs.SE,http://arxiv.org/pdf/1111.0562v1
+1111.0870v1,2011-09-29T08:54:13Z,A Formal Approach for Agent Based Large Concurrent Intelligent Systems,Jagdish L. Raheja,cs.SE,http://arxiv.org/pdf/1111.0870v1
+1111.1022v1,2011-11-04T00:52:06Z,Towards the integration of formal specification in the Áncora   methodology,Martín José José,cs.SE,http://arxiv.org/pdf/1111.1022v1
+1111.1586v1,2011-11-07T14:12:44Z,Evaluation of Computability Criterions for Runtime Web Service   Integration,S. Abarna,cs.SE,http://arxiv.org/pdf/1111.1586v1
+1111.1598v1,2011-11-07T14:45:06Z,Design and Validation of Safety Cruise Control System for Automobiles,Ashwin Tumma,cs.SE,http://arxiv.org/pdf/1111.1598v1
+1111.1826v1,2011-11-08T08:35:03Z,Monitoring Software Reliability using Statistical Process control: An   MMLE approach,R. R. L. Kantam,cs.SE,http://arxiv.org/pdf/1111.1826v1
+1111.1904v1,2011-11-08T13:34:36Z,Aspects of Assembly and Cascaded Aspects of Assembly: Logical and   Temporal Properties,Michel Riveill,cs.SE,http://arxiv.org/pdf/1111.1904v1
+1111.2750v1,2011-11-07T14:01:25Z,Finite State Machine Based Evaluation Model for Web Service Reliability   Analysis,Lakshmi. P,cs.SE,http://arxiv.org/pdf/1111.2750v1
+1111.2826v1,2011-11-11T19:15:09Z,Concurrent Development of Model and Implementation,S. Gruner,cs.SE,http://arxiv.org/pdf/1111.2826v1
+1111.3001v1,2011-11-13T11:01:52Z,A Comprehensive Study of Commonly Practiced Heavy and Light Weight   Software Methodologies,Usman Ali Khan,cs.SE,http://arxiv.org/pdf/1111.3001v1
+1111.4736v1,2011-11-21T05:24:14Z,GMF: A Model Migration Case for the Transformation Tool Contest,Markus Herrmannsdoerfer,cs.SE,http://arxiv.org/pdf/1111.4736v1
+1111.4739v1,2011-11-21T05:24:36Z,HelloWorld! An Instructive Case for the Transformation Tool Contest,Steffen Mazanek,cs.SE,http://arxiv.org/pdf/1111.4739v1
+1111.4740v1,2011-11-21T05:24:44Z,Solving the TTC 2011 Model Migration Case with Edapt,Markus Herrmannsdoerfer,cs.SE,http://arxiv.org/pdf/1111.4740v1
+1111.4741v1,2011-11-21T05:24:51Z,Solving the TTC 2011 Model Migration Case with UML-RSDS,S. Kolahdouz-Rahimi,cs.SE,http://arxiv.org/pdf/1111.4741v1
+1111.4743v1,2011-11-21T05:25:11Z,Solving the TTC 2011 Compiler Optimization Case with QVTR-XSLT,Volker Stolz,cs.SE,http://arxiv.org/pdf/1111.4743v1
+1111.4746v1,2011-11-21T05:25:30Z,Solving the TTC 2011 Compiler Optimization Case with GROOVE,Eduardo Zambon,cs.SE,http://arxiv.org/pdf/1111.4746v1
+1111.4748v1,2011-11-21T05:25:42Z,Solving the TTC 2011 Reengineering Case with VIATRA2,Gábor Bergmann,cs.SE,http://arxiv.org/pdf/1111.4748v1
+1111.4749v1,2011-11-21T05:25:49Z,Solving the TTC 2011 Reengineering Case with Edapt,Markus Herrmannsdoerfer,cs.SE,http://arxiv.org/pdf/1111.4749v1
+1111.4752v1,2011-11-21T05:26:26Z,Solving the TTC 2011 Reengineering Case with Henshin,Johannes Tietje,cs.SE,http://arxiv.org/pdf/1111.4752v1
+1111.4753v1,2011-11-21T05:26:33Z,Saying Hello World with Edapt - A Solution to the TTC 2011 Instructive   Case,Markus Herrmannsdoerfer,cs.SE,http://arxiv.org/pdf/1111.4753v1
+1111.4754v1,2011-11-21T05:26:42Z,Saying Hello World with GROOVE - A Solution to the TTC 2011 Instructive   Case,Eduardo Zambon,cs.SE,http://arxiv.org/pdf/1111.4754v1
+1111.4756v1,2011-11-21T05:27:11Z,Saying Hello World with Henshin - A Solution to the TTC 2011 Instructive   Case,Johannes Tietje,cs.SE,http://arxiv.org/pdf/1111.4756v1
+1111.4758v1,2011-11-21T05:27:33Z,Saying Hello World with VIATRA2 - A Solution to the TTC 2011 Instructive   Case,Gábor Bergmann,cs.SE,http://arxiv.org/pdf/1111.4758v1
+1111.4761v1,2011-11-21T05:51:52Z,Saying HelloWorld with QVTR-XSLT - A Solution to the TTC 2011   Instructive Case,Volker Stolz,cs.SE,http://arxiv.org/pdf/1111.4761v1
+1111.4763v1,2011-11-21T05:55:55Z,Saying Hello World with UML-RSDS - A Solution to the 2011 Instructive   Case,S. Kolahdouz-Rahimi,cs.SE,http://arxiv.org/pdf/1111.4763v1
+1111.4764v1,2011-11-21T05:56:02Z,Saying Hello World with Epsilon - A Solution to the 2011 Instructive   Case,Fiona A. C. Polack,cs.SE,http://arxiv.org/pdf/1111.4764v1
+1111.5002v1,2011-11-21T20:50:55Z,Drivers of the Cost of Spreadsheet Audit,David Colver,cs.SE,http://arxiv.org/pdf/1111.5002v1
+1111.5007v1,2011-11-21T20:59:57Z,Leveraging User Profile and Behaviour to Design Practical Spreadsheet   Controls for the Finance Function,Nancy Wu,cs.SE,http://arxiv.org/pdf/1111.5007v1
+1111.5133v3,2011-11-22T09:35:20Z,Decentralised LTL Monitoring,Yliès Falcone,cs.SE,http://arxiv.org/pdf/1111.5133v3
+1111.5170v1,2011-11-22T12:07:40Z,Concurrent Models for Function Execution,Bob Diertens,cs.SE,http://arxiv.org/pdf/1111.5170v1
+1111.5172v1,2011-11-22T12:10:20Z,Communicating Concurrent Functions,Bob Diertens,cs.SE,http://arxiv.org/pdf/1111.5172v1
+1111.5640v1,2011-11-23T22:31:13Z,A New Proposed Technique to Improve Software Regression Testing Cost,Seifedine Kadry,cs.SE,http://arxiv.org/pdf/1111.5640v1
+1111.5721v1,2011-11-24T11:08:02Z,"MAPSS, a Multi-Aspect Partner and Service Selection Method",Willy Picard,cs.SE,http://arxiv.org/pdf/1111.5721v1
+1111.6730v1,2011-11-29T08:54:22Z,Minimizing the Risk of Architectural Decay by using Architecture-Centric   Evolution Process,M. Aqeel Iqbal,cs.SE,http://arxiv.org/pdf/1111.6730v1
+1111.6858v1,2011-11-29T15:41:13Z,"Workbook Structure Analysis - ""Coping with the Imperfect""",Ray Hooper,cs.SE,http://arxiv.org/pdf/1111.6858v1
+1111.6866v1,2011-11-29T15:59:44Z,"Spreadsheets in Financial Departments: An Automated Analysis of 65,000   Spreadsheets using the Luminous Technology",Shane Hayes,cs.SE,http://arxiv.org/pdf/1111.6866v1
+1111.6870v1,2011-11-29T16:06:26Z,Beyond The Desktop Spreadsheet,Stephen McCrory,cs.SE,http://arxiv.org/pdf/1111.6870v1
+1111.6872v1,2011-11-29T16:18:22Z,Effect of Range Naming Conventions on Reliability and Development Time   for Simple Spreadsheet Formulas,Kevin McDaid,cs.SE,http://arxiv.org/pdf/1111.6872v1
+1111.6878v1,2011-11-29T16:28:56Z,From Good Practices to Effective Policies for Preventing Errors in   Spreadsheets,Daniel Kulesz,cs.SE,http://arxiv.org/pdf/1111.6878v1
+1111.6884v1,2011-11-29T16:36:59Z,A Platform for Spreadsheet Composition,Michele Stecca,cs.SE,http://arxiv.org/pdf/1111.6884v1
+1111.6895v1,2011-11-29T16:56:43Z,Breviz: Visualizing Spreadsheets using Dataflow Diagrams,Arie van Deursen,cs.SE,http://arxiv.org/pdf/1111.6895v1
+1111.6902v1,2011-11-29T17:07:59Z,Requirements for Automated Assessment of Spreadsheet Maintainability,Miguel A. Ferreira,cs.SE,http://arxiv.org/pdf/1111.6902v1
+1111.6907v1,2011-11-29T17:17:48Z,Towards Evaluating the Quality of a Spreadsheet: The Case of the   Analytical Spreadsheet Model,Johncharles Sander,cs.SE,http://arxiv.org/pdf/1111.6907v1
+1111.6909v1,2011-11-29T17:27:27Z,In Search of a Taxonomy for Classifying Qualitative Spreadsheet Errors,Kala Chand Seal,cs.SE,http://arxiv.org/pdf/1111.6909v1
+1111.6917v1,2011-11-29T17:54:07Z,Spreadsheet on Cloud -- Framework for Learning and Health Management   System,Manu Sheel Gupta,cs.SE,http://arxiv.org/pdf/1111.6917v1
+1201.0357v1,2012-01-01T15:14:51Z,Empirical study of performance of data binding in ASP.NET web   applications,Ivan Velinov,cs.SE,http://arxiv.org/pdf/1201.0357v1
+1201.0595v1,2012-01-03T09:10:13Z,Formalizing Traceability and Derivability in Software Product Lines,Jean-Vivien Millo,cs.SE,http://arxiv.org/pdf/1201.0595v1
+1201.0851v1,2012-01-04T09:18:26Z,Order Handling in Convergent Environments,Toni Stojanovski,cs.SE,http://arxiv.org/pdf/1201.0851v1
+1201.0853v1,2012-01-04T09:23:19Z,Rapid Application Development Using Software Factories,Tomislav Dzekov,cs.SE,http://arxiv.org/pdf/1201.0853v1
+1201.1481v1,2012-01-06T19:44:34Z,A MDA approach for defining WS-Policy semantic non-functional properties,Ounsa Roudies,cs.SE,http://arxiv.org/pdf/1201.1481v1
+1201.1611v1,2012-01-08T06:45:05Z,Identifying Clusters of Concepts in a Low Cohesive Class for Extract   Class Refactoring Using Metrics Supplemented Agglomerative Clustering   Technique,K. Narendar Reddy,cs.SE,http://arxiv.org/pdf/1201.1611v1
+1201.1967v1,2012-01-10T05:16:11Z,Investigating the Awareness of Applying the Important Web Application   Development and Measurement Practices in Small Software Firms,Moath Husni,cs.SE,http://arxiv.org/pdf/1201.1967v1
+1201.2031v1,2012-01-10T11:52:32Z,General Methodology for developing UML models from UI,K. Rajani Kanth,cs.SE,http://arxiv.org/pdf/1201.2031v1
+1201.2823v1,2012-01-13T12:34:41Z,Event Space Theory and Its Application,Wang Weitao,cs.SE,http://arxiv.org/pdf/1201.2823v1
+1201.3078v1,2012-01-15T10:18:01Z,Empirical Confirmation (and Refutation) of Presumptions on Software,Dany Moshkovich,cs.SE,http://arxiv.org/pdf/1201.3078v1
+1201.3416v1,2012-01-17T03:31:50Z,Verifying Real-time Commit Protocols Using Dense-time Model Checking   Technology,Terry Woodings,cs.SE,http://arxiv.org/pdf/1201.3416v1
+1201.3929v1,2012-01-18T21:06:18Z,About Instruction Sequence Testing,J. A. Bergstra,cs.SE,http://arxiv.org/pdf/1201.3929v1
+1201.3985v1,2012-01-19T07:28:31Z,Fault Localization for Java Programs using Probabilistic Program   Dependence Graph,B. Giri Babu,cs.SE,http://arxiv.org/pdf/1201.3985v1
+1201.4142v1,2012-01-19T18:46:44Z,Identifying Coordination Problems in Software Development: Finding   Mismatches between Software and Project Team Structures,Kuldeep Kumar,cs.SE,http://arxiv.org/pdf/1201.4142v1
+1201.4500v1,2012-01-21T19:27:18Z,Requirements and the baseline plan,M. Rizwan Jameel Qureshi,cs.SE,http://arxiv.org/pdf/1201.4500v1
+1201.5230v1,2012-01-25T10:29:28Z,Invertible Program Restructurings for Continuing Modular Maintenance,Akram Ajouli,cs.SE,http://arxiv.org/pdf/1201.5230v1
+1201.5735v1,2012-01-27T10:11:23Z,Deconcentration of Attention: Addressing the Complexity of Software   Engineering,Igor Kusakov,cs.SE,http://arxiv.org/pdf/1201.5735v1
+1201.6033v1,2012-01-29T12:51:06Z,Compact Symbolic Execution (technical report),Marek Trtík,cs.SE,http://arxiv.org/pdf/1201.6033v1
+1201.6078v2,2012-01-29T20:40:52Z,@tComment: Testing Javadoc Comments to Detect Comment-Code   Inconsistencies,Gary T. Leavens,cs.SE,http://arxiv.org/pdf/1201.6078v2
+1201.6141v2,2012-01-30T09:39:39Z,Four Layered Approach to Non-Functional Requirements Analysis,A. Ananda Rao,cs.SE,http://arxiv.org/pdf/1201.6141v2
+1202.0652v1,2012-02-03T10:31:15Z,Agile Research,Hamish Cunningham,cs.SE,http://arxiv.org/pdf/1202.0652v1
+1202.0723v2,2012-02-02T15:14:17Z,Assessment of OGC Web Processing Services for REST principles,Joaquín Huerta,cs.SE,http://arxiv.org/pdf/1202.0723v2
+1202.0788v1,2012-02-03T17:47:27Z,STANSE: Bug-finding Framework for C Programs,Marek Trtík,cs.SE,http://arxiv.org/pdf/1202.0788v1
+1202.1717v1,2012-02-08T14:46:43Z,Collaboration for enhancing the system development process in open   source diligence,Murtaza Hussain Shaikh,cs.SE,http://arxiv.org/pdf/1202.1717v1
+1202.1718v1,2012-02-08T14:48:18Z,A transformation approach for collaboration based requirement models,Aicha Mokhtari,cs.SE,http://arxiv.org/pdf/1202.1718v1
+1202.1953v1,2012-02-09T11:12:09Z,Arduino Tool: For Interactive Artwork Installations,Murtaza Hussain Shaikh,cs.SE,http://arxiv.org/pdf/1202.1953v1
+1202.2425v1,2012-02-11T09:58:44Z,The artifacts of component-based development,Shaukat Ali Hayat,cs.SE,http://arxiv.org/pdf/1202.2425v1
+1202.2427v1,2012-02-11T10:37:13Z,Autonomic html interface generator for web applications,Mohammad Alwani,cs.SE,http://arxiv.org/pdf/1202.2427v1
+1202.2429v1,2012-02-11T10:43:58Z,Building sustainable ecosystem-oriented architectures,Youssef Bassil,cs.SE,http://arxiv.org/pdf/1202.2429v1
+1202.2498v1,2012-02-12T08:38:28Z,Survey-Based Analysis of the Proposed Component-Based Development   Process,M. E. Sandhu,cs.SE,http://arxiv.org/pdf/1202.2498v1
+1202.2499v1,2012-02-12T08:55:07Z,Evaluation of the Improved XP Software Development Model,M. Rizwan Jameel Qureshi,cs.SE,http://arxiv.org/pdf/1202.2499v1
+1202.2501v1,2012-02-12T08:59:21Z,An Improved XP Software Development Model,S. A. Hussain,cs.SE,http://arxiv.org/pdf/1202.2501v1
+1202.2504v1,2012-02-12T09:11:04Z,Seamless Long Term Learning in Agile Teams for Sustainable Leadership,Muhammad Kashif,cs.SE,http://arxiv.org/pdf/1202.2504v1
+1202.2506v1,2012-02-12T09:17:23Z,Improvement of Key Problems of Software Testing in Quality Assurance,M. Rizwan Jameel Qureshi,cs.SE,http://arxiv.org/pdf/1202.2506v1
+1202.2508v1,2012-02-12T09:22:54Z,A Validation of the Proposed Component-Based Development Process,M. E. Sandhu,cs.SE,http://arxiv.org/pdf/1202.2508v1
+1202.2510v1,2012-02-12T09:27:19Z,A New Teaching Model For The Subject Of Software Project Management,Asif Mehmood,cs.SE,http://arxiv.org/pdf/1202.2510v1
+1202.2511v1,2012-02-12T09:34:14Z,A Step Forward To Component-based Software Cost Estimation in   Object-oriented Environment,M. Rizwan Jameel Qureshi,cs.SE,http://arxiv.org/pdf/1202.2511v1
+1202.2513v1,2012-02-12T10:24:43Z,Empirical Evaluation of the Proposed eXScrum Model: Results of a Case   Study,M. Rizwan Jameel Qureshi,cs.SE,http://arxiv.org/pdf/1202.2513v1
+1202.2514v1,2012-02-12T10:29:07Z,A Comprehensive Study of Commonly Practiced Heavy & Light Weight   Software Methodologies,Usman Ali Khan,cs.SE,http://arxiv.org/pdf/1202.2514v1
+1202.2515v1,2012-02-12T10:38:47Z,A Framework for Next Generation Mobile and Wireless Networks Application   Development using Hybrid Component Based Development Model,Asif Irshad Khan,cs.SE,http://arxiv.org/pdf/1202.2515v1
+1202.2516v1,2012-02-12T10:47:54Z,Novel Component Based Development Model For Sip-Based Mobile Application,Asif Irshad Khan,cs.SE,http://arxiv.org/pdf/1202.2516v1
+1202.2572v2,2012-02-12T21:06:31Z,A Formal Approach for the Development of Service-Oriented Applications,Ciprian Dobre,cs.SE,http://arxiv.org/pdf/1202.2572v2
+1202.2731v1,2012-02-13T13:55:15Z,Risk Assessment Techniques and Survey Method for COTS Components,Shalini Raghav,cs.SE,http://arxiv.org/pdf/1202.2731v1
+1202.3466v1,2012-02-15T22:28:55Z,Novel Component-Based Development Model for SIP-Based Mobile Application   (1202),Asif Irshad Khan,cs.SE,http://arxiv.org/pdf/1202.3466v1
+1202.4099v1,2012-02-18T19:53:05Z,Web Services-Enhanced Agile Modeling and Integrating Business Processes,Ounsa Roudiès,cs.SE,http://arxiv.org/pdf/1202.4099v1
+1202.4527v1,2012-02-21T05:12:13Z,Study Paper on Test Case generation for GUI Based Testing,Emi Retna,cs.SE,http://arxiv.org/pdf/1202.4527v1
+1202.4836v1,2012-02-22T06:43:05Z,Fault Based Techniques for Testing Boolean Expressions: A Survey,S. Taruna,cs.SE,http://arxiv.org/pdf/1202.4836v1
+1202.5516v1,2012-02-24T18:02:14Z,Reusable Services from the neuGRID Project for Grid-Based Health   Applications,the neuGRID Consortium,cs.SE,http://arxiv.org/pdf/1202.5516v1
+1202.5609v1,2012-02-25T05:23:21Z,A Framework Studio for Component Reusability,Salman Abdul Moiz,cs.SE,http://arxiv.org/pdf/1202.5609v1
+1202.5826v1,2012-02-27T05:37:19Z,Proceedings 7th Workshop on Model-Based Testing,Holger Schlingloff,cs.SE,http://arxiv.org/pdf/1202.5826v1
+1202.5919v1,2012-02-27T13:11:35Z,FLOW-Methode - Methodenbeschreibung zur Anwendung von FLOW,Kurt Schneider,cs.SE,http://arxiv.org/pdf/1202.5919v1
+1202.6118v1,2012-02-28T05:33:02Z,Model-Based Security Testing,Martin Schneider,cs.SE,http://arxiv.org/pdf/1202.6118v1
+1202.6119v1,2012-02-28T05:33:10Z,Reusing Test-Cases on Different Levels of Abstraction in a Model Based   Development Tool,Daniel Ratiu,cs.SE,http://arxiv.org/pdf/1202.6119v1
+1202.6120v1,2012-02-28T05:33:17Z,Applying SMT Solvers to the Test Template Framework,Claudia Frydman,cs.SE,http://arxiv.org/pdf/1202.6120v1
+1202.6121v1,2012-02-28T05:33:24Z,Exact Gap Computation for Code Coverage Metrics in ISO-C,Christian Berg,cs.SE,http://arxiv.org/pdf/1202.6121v1
+1202.6122v1,2012-02-28T05:33:32Z,Using Built-In Domain-Specific Modeling Support to Guide Model-Based   Test Generation,Olli-Pekka Puolitaival,cs.SE,http://arxiv.org/pdf/1202.6122v1
+1202.6123v1,2012-02-28T05:33:46Z,Towards Symbolic Model-Based Mutation Testing: Combining Reachability   and Refinement Checking,Elisabeth Jöbstl,cs.SE,http://arxiv.org/pdf/1202.6123v1
+1202.6124v1,2012-02-28T05:33:49Z,"Talking quiescence: a rigorous theory that supports parallel   composition, action hiding and determinisation",Mariëlle Stoelinga,cs.SE,http://arxiv.org/pdf/1202.6124v1
+1202.6125v1,2012-02-28T05:33:53Z,Rule-based Test Generation with Mind Maps,Dimitry Polivaev,cs.SE,http://arxiv.org/pdf/1202.6125v1
+1202.6126v1,2012-02-28T05:34:00Z,Constraint-Based Heuristic On-line Test Generation from   Non-deterministic I/O EFSMs,Marko Kääramees,cs.SE,http://arxiv.org/pdf/1202.6126v1
+1202.6127v1,2012-02-28T05:34:07Z,Model-Based Testing of Safety Critical Real-Time Control Logic Software,Alexey Khoroshilov,cs.SE,http://arxiv.org/pdf/1202.6127v1
+1202.6600v1,2012-02-29T16:53:57Z,On the Role of Service Concept in IT,Lucian Luca,cs.SE,http://arxiv.org/pdf/1202.6600v1
+1202.6623v1,2012-02-29T17:47:38Z,Aspects of SOA: An Entry Point for Starters,Qusay F. Hassan,cs.SE,http://arxiv.org/pdf/1202.6623v1
+1203.0200v2,2012-03-01T14:36:04Z,An Interface using SOA Framework For Mediclaim Provider,T. Bhuvaneswari,cs.SE,http://arxiv.org/pdf/1203.0200v2
+1203.0400v1,2012-03-02T09:25:06Z,"Bridging the Gap between Technical Heterogeneity of Context-Aware   Platforms: Experimenting a Service Based Connectivity between Adaptable   Android, WComp and OpenORB",Sihem Cherif,cs.SE,http://arxiv.org/pdf/1203.0400v1
+1203.1314v1,2012-03-06T20:48:22Z,Model based Software Develeopment: Issues & Challenges,Mohammed Rizwanullah,cs.SE,http://arxiv.org/pdf/1203.1314v1
+1203.1328v1,2012-03-06T21:04:03Z,Performance Analysis of HR Portal Domain Components Extraction,A. A. Moiz Qyser,cs.SE,http://arxiv.org/pdf/1203.1328v1
+1203.1717v1,2012-03-08T09:30:58Z,Requirements Engineering Methods: A Classification Framework and   Research Challenges,Ivan Jureta,cs.SE,http://arxiv.org/pdf/1203.1717v1
+1203.1760v1,2012-03-08T11:53:19Z,BPEL-RF: A formal framework for BPEL orchestrations integrating   distributed resources,Gregorio Dıaz,cs.SE,http://arxiv.org/pdf/1203.1760v1
+1203.2704v1,2012-03-13T03:28:55Z,A model and framework for reliable build systems,George Necula,cs.SE,http://arxiv.org/pdf/1203.2704v1
+1203.3085v1,2012-03-14T13:52:42Z,An Agile Method for E-Service Composition,Seyyed Mohsen Hashemi,cs.SE,http://arxiv.org/pdf/1203.3085v1
+1203.3263v1,2012-03-15T03:49:52Z,Originator usage control with business process slicing,Frédérique Biennier,cs.SE,http://arxiv.org/pdf/1203.3263v1
+1203.5403v1,2012-03-24T10:49:06Z,"Distributed, Cross-Platform, and Regression Testing Architecture for   Service-Oriented Architecture",Youssef Bassil,cs.SE,http://arxiv.org/pdf/1203.5403v1
+1203.5748v1,2012-03-26T18:07:54Z,Self-Healing by Means of Runtime Execution Profiling,Jinsuk Baek,cs.SE,http://arxiv.org/pdf/1203.5748v1
+1203.6439v1,2012-03-29T06:23:13Z,An Analytical Approach for Project Managers in Effective Defect   Management in Software Process,N. R. Shashi Kumar,cs.SE,http://arxiv.org/pdf/1203.6439v1
+1203.6445v1,2012-03-29T06:53:48Z,Analysis of Test Efficiency during Software Development Process,Pranesh Kumar Tiwari,cs.SE,http://arxiv.org/pdf/1203.6445v1
+1204.0193v1,2012-04-01T10:46:00Z,Communication Language Specifications For Digital Ecosystems,Youssef Bassil,cs.SE,http://arxiv.org/pdf/1204.0193v1
+1204.0195v1,2012-04-01T10:59:37Z,Management Language Specifications For Digital Ecosystems,Youssef Bassil,cs.SE,http://arxiv.org/pdf/1204.0195v1
+1204.0368v1,2012-04-02T11:13:05Z,An Approach for Agile SOA Development using Agile Principals,Mohsenzadeh Mehran,cs.SE,http://arxiv.org/pdf/1204.0368v1
+1204.1232v1,2012-04-05T14:03:00Z,Experimenting with Component-Based Middleware for Adaptive Fault   Tolerant Computing,Matthieu Roy,cs.SE,http://arxiv.org/pdf/1204.1232v1
+1204.1425v1,2012-04-06T07:54:12Z,Web service selection based on ranking of qos using associative   classification,Emad Pejman,cs.SE,http://arxiv.org/pdf/1204.1425v1
+1204.1881v1,2012-04-09T14:05:02Z,Four Conceptions of Instruction Sequence Faults,Jan A. Bergstra,cs.SE,http://arxiv.org/pdf/1204.1881v1
+1204.1967v1,2012-04-09T11:51:03Z,A Semantic-Based Approach for Detecting and Decomposing God Classes,Sooyong Park,cs.SE,http://arxiv.org/pdf/1204.1967v1
+1204.2404v1,2012-04-11T10:36:12Z,Investigating Effort Prediction of Software Projects on the ISBSG   Dataset,Ali Idri,cs.SE,http://arxiv.org/pdf/1204.2404v1
+1204.2974v1,2012-04-13T12:52:41Z,Tackling the testing migration problem with SAT-Solvers,Joachim Breitner,cs.SE,http://arxiv.org/pdf/1204.2974v1
+1204.3410v1,2012-04-16T09:02:33Z,Airborne software tests on a fully virtual platform,Philippe Le Meur,cs.SE,http://arxiv.org/pdf/1204.3410v1
+1204.3689v1,2012-04-17T02:34:30Z,Evaluating CRM Implementation in Healthcare Organization,Mohammad Nabil Almunawar,cs.SE,http://arxiv.org/pdf/1204.3689v1
+1204.4224v3,2012-04-18T23:28:43Z,Software Mutational Robustness,Stephanie Forrest,cs.SE,http://arxiv.org/pdf/1204.4224v3
+1204.4428v1,2012-04-19T18:27:58Z,EDCC 2012 - Fast Abstracts & Student Forum Proceedings,Ilir Gashi,cs.SE,http://arxiv.org/pdf/1204.4428v1
+1204.4909v1,2012-04-22T16:35:41Z,Evaluation of the Design Metric to Reduce the Number of Defects in   Software Development,Waseem Qureshi,cs.SE,http://arxiv.org/pdf/1204.4909v1
+1204.6396v1,2012-04-28T10:48:19Z,Comparing Soft Computing Techniques For Early Stage Software Development   Effort Estimations,Mrinal Kanti Ghose,cs.SE,http://arxiv.org/pdf/1204.6396v1
+1204.6719v1,2012-04-30T18:39:55Z,The Design and Algorithms of a Verification Condition Generator,Radu Grigore,cs.SE,http://arxiv.org/pdf/1204.6719v1
+1205.0042v1,2012-04-30T22:08:39Z,jpf-concurrent: An extension of Java PathFinder for java.util.concurrent,Nastaran Shafiei,cs.SE,http://arxiv.org/pdf/1205.0042v1
+1205.0104v1,2012-05-01T07:41:54Z,Migration of data for iKnow application at EURM - a case study,Toni Stojanovski,cs.SE,http://arxiv.org/pdf/1205.0104v1
+1205.0750v1,2012-05-03T16:06:17Z,Towards a new metamodel for the Task Flow Model of the Discovery Method,Carlos Alberto Fernandez-y-Fernandez,cs.SE,http://arxiv.org/pdf/1205.0750v1
+1205.0839v1,2012-05-04T00:47:53Z,Development of application for discovering and binding to published   geospatial processes in distributed environments,Sergey M. Krasnopeyev,cs.SE,http://arxiv.org/pdf/1205.0839v1
+1205.0987v1,2012-05-04T15:42:30Z,Communication Analysis modelling techniques,Marcela Ruiz,cs.SE,http://arxiv.org/pdf/1205.0987v1
+1205.1102v2,2012-05-05T05:41:22Z,Towards Ecology Inspired Software Engineering,Martin Monperrus,cs.SE,http://arxiv.org/pdf/1205.1102v2
+1205.3576v2,2012-05-16T06:55:00Z,Dexpler: Converting Android Dalvik Bytecode to Jimple for Static   Analysis with Soot,Yves Le Traon,cs.SE,http://arxiv.org/pdf/1205.3576v2
+1205.4194v2,2012-05-18T16:46:28Z,Decision Taking as a Service,Jan A. Bergstra,cs.SE,http://arxiv.org/pdf/1205.4194v2
+1205.4261v1,2012-05-18T20:48:55Z,Deployment of software components: Application to Wireless System,Bouzerita Mohamed,cs.SE,http://arxiv.org/pdf/1205.4261v1
+1205.4626v1,2012-05-21T15:03:11Z,Examining the Impact of Platform Properties on Quality Attributes,T. V. Prabhakar,cs.SE,http://arxiv.org/pdf/1205.4626v1
+1205.4699v1,2012-05-21T19:20:01Z,Issues of Architectural Description Languages for Handling Dynamic   Reconfiguration,Thais Batista,cs.SE,http://arxiv.org/pdf/1205.4699v1
+1205.4928v1,2012-05-22T14:33:41Z,Grey-box GUI Testing: Efficient Generation of Event Sequences,Martin Schäf,cs.SE,http://arxiv.org/pdf/1205.4928v1
+1205.4951v2,2012-05-22T15:40:00Z,Speculative Symbolic Execution,Ji Wang,cs.SE,http://arxiv.org/pdf/1205.4951v2
+1205.5106v2,2012-05-23T07:17:42Z,OTS/CafeOBJ2JML: An attempt to combine Design By Contract with   Behavioral Specifications,Panayiotis Frangos,cs.SE,http://arxiv.org/pdf/1205.5106v2
+1205.5373v2,2012-05-24T08:55:38Z,An Adaptive XP-based approach to Agile Development,Lian Luo,cs.SE,http://arxiv.org/pdf/1205.5373v2
+1205.5615v1,2012-05-25T05:28:29Z,A Literature Review of Code Clone Analysis to Improve Software   Maintenance Process,Salah Uddin Ahmed,cs.SE,http://arxiv.org/pdf/1205.5615v1
+1205.5783v1,2012-05-25T19:26:29Z,Model Driven Mutation Applied to Adaptative Systems Testing,Yves Le Traon,cs.SE,http://arxiv.org/pdf/1205.5783v1
+1205.6162v1,2012-05-28T17:05:39Z,Current Web Application Development and Measurement Practices for Small   Software Firms,Moath Husni,cs.SE,http://arxiv.org/pdf/1205.6162v1
+1205.6177v1,2012-05-28T18:27:29Z,Decision Taking versus Action Determination,Jan A. Bergstra,cs.SE,http://arxiv.org/pdf/1205.6177v1
+1205.6361v1,2012-05-29T13:38:15Z,Querying Source Code with Natural Language,Mira Mezini,cs.SE,http://arxiv.org/pdf/1205.6361v1
+1205.6363v1,2012-05-29T13:39:36Z,What Should Developers Be Aware Of? An Empirical Study on the Directives   of API Documentation,Mira Mezini,cs.SE,http://arxiv.org/pdf/1205.6363v1
+1205.6399v1,2012-05-29T15:45:58Z,Forming Teams for Teaching Programming based on Static Code Analysis,Clifton Clunie,cs.SE,http://arxiv.org/pdf/1205.6399v1
+1205.6440v1,2012-05-29T18:10:25Z,Monitoring Software Reliability using Statistical Process Control An   Ordered Statistics Approach,R. R. L. Kantham,cs.SE,http://arxiv.org/pdf/1205.6440v1
+1205.6594v1,2012-05-30T09:11:27Z,Towards a better understanding of testing if conditionals,Tanay Kanti Paul,cs.SE,http://arxiv.org/pdf/1205.6594v1
+1205.6677v1,2012-05-30T13:45:32Z,Cross-View of Testing Techniques Toward Improving Web-Based Application   Testing,Sherif Mazen,cs.SE,http://arxiv.org/pdf/1205.6677v1
+1205.6904v1,2012-05-31T07:35:04Z,A Simulation Model for the Waterfall Software Development Life Cycle,Youssef Bassil,cs.SE,http://arxiv.org/pdf/1205.6904v1
+1206.0122v1,2012-06-01T08:19:16Z,ACME vs PDDL: support for dynamic reconfiguration of software   architectures,Jérémy Buisson,cs.SE,http://arxiv.org/pdf/1206.0122v1
+1206.0361v1,2012-06-02T10:35:05Z,Defect Management Using Depth of Inspection and the Inspection   Performance Metric,V Suma,cs.SE,http://arxiv.org/pdf/1206.0361v1
+1206.0373v1,2012-06-02T12:47:40Z,Generation and Optimization of Test cases for Object-Oriented Software   Using State Chart Diagram,Durga Prasad Mohapatra,cs.SE,http://arxiv.org/pdf/1206.0373v1
+1206.0603v1,2012-06-04T12:58:35Z,The COMICS Tool - Computing Minimal Counterexamples for Discrete-time   Markov Chains,Bernd Becker,cs.SE,http://arxiv.org/pdf/1206.0603v1
+1206.0788v1,2012-06-04T23:02:43Z,Timed Test Case Generation Using Labeled Prioritized Time Petri Nets,Abdelkader Adla,cs.SE,http://arxiv.org/pdf/1206.0788v1
+1206.4120v1,2012-06-19T04:10:53Z,Experience on Re-engineering Applying with Software Product Line,Waraporn Jirapanthong,cs.SE,http://arxiv.org/pdf/1206.4120v1
+1206.4477v1,2012-06-20T12:38:48Z,Modeling Languages: metrics and assessing tools,Pedro Rangel Henriques,cs.SE,http://arxiv.org/pdf/1206.4477v1
+1206.5104v1,2012-06-22T10:38:07Z,Automatic Test Generation for Space,Pedro Rangel Henriques,cs.SE,http://arxiv.org/pdf/1206.5104v1
+1206.5166v1,2012-06-22T14:43:57Z,Linking Quality Attributes and Constraints with Architectural Decisions,Xavier Franch,cs.SE,http://arxiv.org/pdf/1206.5166v1
+1206.5430v1,2012-06-23T19:16:20Z,Home Healthcare Process: Challenges and Open Issues,N. Smith-Guerin,cs.SE,http://arxiv.org/pdf/1206.5430v1
+1207.0546v1,2012-07-02T23:20:07Z,Challenges of Upgrading a Virtual Appliance,Kamran Karimi,cs.SE,http://arxiv.org/pdf/1207.0546v1
+1207.0592v1,2012-07-03T07:48:43Z,Significance of Quality Metrics in Software Development Process,V. Suma,cs.SE,http://arxiv.org/pdf/1207.0592v1
+1207.0855v1,2012-07-03T23:00:24Z,An Exploratory Study of Forces and Frictions affecting Large-Scale   Model-Driven Development,C. Albert Thompson,cs.SE,http://arxiv.org/pdf/1207.0855v1
+1207.1173v1,2012-07-05T07:22:15Z,A Comprehensive Model to achieve Service Reusability for Multi level   stakeholders using Non-Functional attributes of Service Oriented Architecture,C. Punitha Devi,cs.SE,http://arxiv.org/pdf/1207.1173v1
+1207.2234v1,2012-07-10T06:47:05Z,Using Constraints for Equivalent Mutant Detection,Franz Wotawa,cs.SE,http://arxiv.org/pdf/1207.2234v1
+1207.2236v1,2012-07-10T06:47:18Z,Verified System Development with the AutoFocus Tool Chain,David Trachtenherz,cs.SE,http://arxiv.org/pdf/1207.2236v1
+1207.2237v1,2012-07-10T06:47:33Z,Predictive Software Measures based on Z Specifications - A Case Study,Abdollah Tabareh,cs.SE,http://arxiv.org/pdf/1207.2237v1
+1207.2596v1,2012-07-11T11:14:29Z,Full Data Controlled Web-Based Feed Aggregator,Haruna Isah,cs.SE,http://arxiv.org/pdf/1207.2596v1
+1207.2606v1,2012-07-11T12:06:32Z,Ontology for Mobile Phone Operating Systems,Ridha Bouallegue,cs.SE,http://arxiv.org/pdf/1207.2606v1
+1207.2718v1,2012-07-11T17:39:18Z,An Approach For Integration Testing In Online Retail Applications,Imran Akhtar Khan,cs.SE,http://arxiv.org/pdf/1207.2718v1
+1207.2736v1,2012-07-10T06:47:26Z,ROSA Analyser: An automatized approach to analyse processes of ROSA,Fernando L. Pelayo,cs.SE,http://arxiv.org/pdf/1207.2736v1
+1207.2742v1,2012-07-11T18:43:10Z,A model driven method for promoting reuse in SOA-solutions by managing   variability,Mahmoud Nassar,cs.SE,http://arxiv.org/pdf/1207.2742v1
+1207.3036v1,2012-07-11T10:25:14Z,Dynamic Web Service Composition based on Network Modeling with   Statistical Analysis and Backtracking,P. Varalakshmi,cs.SE,http://arxiv.org/pdf/1207.3036v1
+1207.3213v1,2012-07-13T12:16:54Z,Quality Assurance And Integration Testing Aspects In Web Based   Applications,Roopa Singh,cs.SE,http://arxiv.org/pdf/1207.3213v1
+1207.3277v1,2012-07-13T15:19:33Z,Design for Distributed Moroccan Hospital Pharmacy Information   Environment with Service Oriented Architecture,Ounsa Roudiés,cs.SE,http://arxiv.org/pdf/1207.3277v1
+1207.3872v1,2012-07-17T03:59:58Z,Top Down Approach: SIMULINK Mixed Hardware / Software Design,Mostafa Rizk,cs.SE,http://arxiv.org/pdf/1207.3872v1
+1207.4938v1,2012-07-20T12:40:36Z,A Methodology to manage victim components using CBO measure,Salman Abdul Moiz,cs.SE,http://arxiv.org/pdf/1207.4938v1
+1207.4966v1,2012-07-20T14:43:29Z,Service Oriented Architecture A Revolution For Comprehensive Web Based   Project Management Software,Mahtab alam,cs.SE,http://arxiv.org/pdf/1207.4966v1
+1207.5545v1,2012-07-23T21:43:05Z,An analysis of social network connect services,Joaquín Salvachúa,cs.SE,http://arxiv.org/pdf/1207.5545v1
+1207.6831v1,2012-07-10T15:00:32Z,Une approche IDM de transformation exogène de Wright vers Ada,Fourati Farah,cs.SE,http://arxiv.org/pdf/1207.6831v1
+1207.7121v1,2012-07-09T13:19:22Z,Vérification d'assemblages de composants logiciels : Application aux   modèles de composants UML2.0 et Ugatze,Mourad Kmimech,cs.SE,http://arxiv.org/pdf/1207.7121v1
+1208.0044v1,2012-07-09T15:58:44Z,Maintenance de l'outil Wr2fdr de traduction de Wright vers CSP,Mouti Hammami,cs.SE,http://arxiv.org/pdf/1208.0044v1
+1208.0592v2,2012-08-02T17:03:00Z,Debugging Invariant Issues in Pseudo Embedded Program: an Analytical   Approach,Banibrata Bag,cs.SE,http://arxiv.org/pdf/1208.0592v2
+1208.0594v1,2012-08-02T17:04:05Z,Debugging Memory Issues In Embedded Linux: A Case Study,Ansuman Banerjee,cs.SE,http://arxiv.org/pdf/1208.0594v1
+1208.1906v1,2012-08-09T13:38:26Z,Batch Spreadsheet for C Programmers,Richard Perry,cs.SE,http://arxiv.org/pdf/1208.1906v1
+1208.2265v1,2012-08-10T04:39:26Z,Minimal TestCase Generation for Object-Oriented Software with State   Charts,Durga Prasad Mohapatra,cs.SE,http://arxiv.org/pdf/1208.2265v1
+1208.2460v1,2012-08-12T20:01:57Z,Decision Taking for Selling Thread Startup,Jan A. Bergstra,cs.SE,http://arxiv.org/pdf/1208.2460v1
+1208.2563v1,2012-08-13T12:22:58Z,Towards a Formalization of the OSGi Component Framework,Jan Olaf Blech,cs.SE,http://arxiv.org/pdf/1208.2563v1
+1208.3337v4,2012-08-16T10:37:21Z,What Good Are Strong Specifications?,Bertrand Meyer,cs.SE,http://arxiv.org/pdf/1208.3337v4
+1208.3340v2,2012-08-16T11:01:57Z,Concurrent Models for Object Execution,Bob Diertens,cs.SE,http://arxiv.org/pdf/1208.3340v2
+1208.3887v1,2012-08-19T20:09:06Z,"BPM, Agile, and Virtualization Combine to Create Effective Solutions",Robert Hyer,cs.SE,http://arxiv.org/pdf/1208.3887v1
+1208.3890v1,2012-08-19T20:33:45Z,Significance of Rapid Solutions Development to Business Process   Management,Steve Kruba,cs.SE,http://arxiv.org/pdf/1208.3890v1
+1208.4635v1,2012-08-22T22:01:53Z,A Case Study on Formal Verification of Self-Adaptive Behaviors in a   Decentralized System,Danny Weyns,cs.SE,http://arxiv.org/pdf/1208.4635v1
+1208.5195v1,2012-08-26T06:55:07Z,Decreasing defect rate of test cases by designing and analysis for   recursive modules of a program structure: Improvement in test cases,Ihsan Ullah,cs.SE,http://arxiv.org/pdf/1208.5195v1
+1208.6264v1,2012-08-30T18:54:02Z,The Boost.Build System,Vladimir Prus,cs.SE,http://arxiv.org/pdf/1208.6264v1
+1208.6408v2,2012-08-31T07:20:35Z,Java Source-code Clustering: Unifying Syntactic and Semantic Features,Janardan Misra,cs.SE,http://arxiv.org/pdf/1208.6408v2
+1209.1327v1,2012-09-06T16:08:34Z,The frog and the octopus: a conceptual model of software development,Philippe Kruchten,cs.SE,http://arxiv.org/pdf/1209.1327v1
+1209.1551v1,2012-09-07T14:30:28Z,The Meaning of Requirements and Adaptation,Amit K. Chopra,cs.SE,http://arxiv.org/pdf/1209.1551v1
+1209.1699v1,2012-09-08T09:16:58Z,Proceedings Sixth Workshop on Formal Languages and Analysis of   Contract-Oriented Software,Anders P. Ravn,cs.SE,http://arxiv.org/pdf/1209.1699v1
+1209.2382v1,2012-09-08T06:39:01Z,Raw Report on the Model Checking Contest at Petri Nets 2012,K. Wolf,cs.SE,http://arxiv.org/pdf/1209.2382v1
+1209.2516v1,2012-09-12T08:09:51Z,Efficient Indicators to Evaluate the Status of Software Development   Effort Estimation inside the Organizations,Roliana Ibrahim,cs.SE,http://arxiv.org/pdf/1209.2516v1
+1209.2553v1,2012-09-12T10:35:01Z,Optimization of fuzzy analogy in software cost estimation using   linguistic variables,S. Sridhar,cs.SE,http://arxiv.org/pdf/1209.2553v1
+1209.2659v1,2012-09-12T16:45:20Z,Reliability improvement with PSP of Web-based software application,Pedro Mejía-Alvarez,cs.SE,http://arxiv.org/pdf/1209.2659v1
+1209.3517v1,2012-09-16T20:23:47Z,Measuring Spreadsheet Formula Understandability,Arie van Deursen,cs.SE,http://arxiv.org/pdf/1209.3517v1
+1209.3518v1,2012-09-16T20:42:37Z,On the Interpretation of Spreadsheets within their Environment,Stephen Allen,cs.SE,http://arxiv.org/pdf/1209.3518v1
+1209.3878v1,2012-09-18T09:01:24Z,Content Management in Ruby on Rails,Joaquín Salvachúa,cs.SE,http://arxiv.org/pdf/1209.3878v1
+1209.4453v1,2012-09-20T08:27:46Z,A Metric for the Activeness of a Distributed Object Oriented Component   Library,Deepak Kumar Sharma,cs.SE,http://arxiv.org/pdf/1209.4453v1
+1209.4633v1,2012-09-20T08:37:25Z,A Metric For The Activeness Of An Object-Oriented Component Library,Nitin Bhardwaj,cs.SE,http://arxiv.org/pdf/1209.4633v1
+1209.4634v1,2012-09-20T14:20:50Z,A Metric for the Activeness of a Class,T V Prasad,cs.SE,http://arxiv.org/pdf/1209.4634v1
+1209.4635v1,2012-09-20T14:39:45Z,DolNet: A Division Of Labour Based Distributed Object Oriented Software   Process Model,Deepak Kumar Sharma,cs.SE,http://arxiv.org/pdf/1209.4635v1
+1209.5257v1,2012-09-24T13:17:25Z,A Graphical Tool for Testing Timed Systems based on Meta- Modeling and   Graph Grammars,Djamel-Eddine Saidouni,cs.SE,http://arxiv.org/pdf/1209.5257v1
+1209.5490v1,2012-09-25T04:19:04Z,Consistent Layout for Thematic Software Maps,Oscar Nierstrasz,cs.SE,http://arxiv.org/pdf/1209.5490v1
+1209.5573v1,2012-09-25T10:51:01Z,Defect Management Strategies in Software Development,T. R. Gopalakrishnan Nair,cs.SE,http://arxiv.org/pdf/1209.5573v1
+1209.5800v1,2012-09-26T00:27:33Z,Lessons Learned from Evaluating MDE Abstractions in an Industry Case   Study,Gail C. Murphy,cs.SE,http://arxiv.org/pdf/1209.5800v1
+1209.6163v1,2012-09-27T08:53:56Z,From Functions to Object-Orientation by Abstraction,Bob Diertens,cs.SE,http://arxiv.org/pdf/1209.6163v1
+1209.6466v1,2012-09-28T09:55:55Z,Four-Step Approach Model of Inspection (FAMI) for Effective Defect   Management in Software Development,T. R. Gopalakrishnan Nair,cs.SE,http://arxiv.org/pdf/1209.6466v1
+1210.1179v1,2012-10-01T12:26:40Z,Extending OWL-S for the Composition of Web Services Generated With a   Legacy Application Wrapper,Bernard Gibaud,cs.SE,http://arxiv.org/pdf/1210.1179v1
+1210.1291v1,2012-10-04T04:13:57Z,Graphical Visualization of Risk Assessment for Effective Risk Management   during Software Development Process,Suma. V,cs.SE,http://arxiv.org/pdf/1210.1291v1
+1210.2506v2,2012-10-09T07:16:54Z,Enabling Reusability in Agile Software Development,Inderveer Chana,cs.SE,http://arxiv.org/pdf/1210.2506v2
+1210.3320v1,2012-10-11T18:57:40Z,Contemporary Semantic Web Service Frameworks: An Overview and   Comparisons,Norbik Bashah Idris,cs.SE,http://arxiv.org/pdf/1210.3320v1
+1210.3604v1,2012-10-12T19:08:27Z,User-Centric Optimization for Constraint Web Service Composition using a   Fuzzy-guided Genetic Algorithm System,Mohsen Hashemi,cs.SE,http://arxiv.org/pdf/1210.3604v1
+1210.3640v1,2012-10-12T21:09:46Z,Conducting Verification And Validation Of Multi- Agent Systems,Nedhal Al Saiyd,cs.SE,http://arxiv.org/pdf/1210.3640v1
+1210.3756v1,2012-10-14T04:10:32Z,A Conceptual Framework to Analyze Enterprise Business Solutions from a   Software Architecture Perspective,Basem Y. Alkazemi,cs.SE,http://arxiv.org/pdf/1210.3756v1
+1210.3758v1,2012-10-14T04:30:17Z,On verification of software components,Basem Y. Alkazemi,cs.SE,http://arxiv.org/pdf/1210.3758v1
+1210.3858v1,2012-10-15T00:00:20Z,Application of classical compilation techniques for syntactic and   semantic analysis of specification written in Object Z,Kais Haddar,cs.SE,http://arxiv.org/pdf/1210.3858v1
+1210.4686v1,2012-10-17T10:20:39Z,Black-Box Verification for GUI Applications,Andreas Podelski,cs.SE,http://arxiv.org/pdf/1210.4686v1
+1210.5262v1,2012-10-18T21:08:15Z,Hands-Off Spreadsheets,Colin A. Kerr,cs.SE,http://arxiv.org/pdf/1210.5262v1
+1210.6115v1,2012-10-23T02:55:21Z,Analyzing Consistency of Behavioral REST Web Service Interfaces,Ivan Porres,cs.SE,http://arxiv.org/pdf/1210.6115v1
+1210.6636v1,2012-10-24T19:24:59Z,"Informaticology: combining Computer Science, Data Science, and Fiction   Science",Jan A. Bergstra,cs.SE,http://arxiv.org/pdf/1210.6636v1
+1210.6815v2,2012-10-25T12:38:19Z,Formally Checking Large Data Sets in the Railways,Michael Leuschel,cs.SE,http://arxiv.org/pdf/1210.6815v2
+1210.7030v1,2012-10-26T00:50:43Z,Lessons Learned/Sharing the Experience of Developing a Metro System Case   Study,Renato Silva,cs.SE,http://arxiv.org/pdf/1210.7030v1
+1210.7032v1,2012-10-26T01:03:59Z,Dependability-Explicit Engineering with Event-B: Overview of Recent   Achievements,Elena Troubitsyna,cs.SE,http://arxiv.org/pdf/1210.7032v1
+1210.7034v1,2012-10-26T01:11:39Z,Building on the DEPLOY Legacy: Code Generation and Simulation,John Colley,cs.SE,http://arxiv.org/pdf/1210.7034v1
+1210.7035v1,2012-10-26T01:11:59Z,Development of Fault Tolerant MAS with Cooperative Error Recovery by   Refinement in Event-B,Linas Laibinis,cs.SE,http://arxiv.org/pdf/1210.7035v1
+1210.7036v1,2012-10-26T01:12:26Z,Towards Refinement Strategy Planning for Event-B,Shinichi Honiden,cs.SE,http://arxiv.org/pdf/1210.7036v1
+1210.7039v1,2012-10-26T01:16:06Z,Formal Data Validation with Event-B,Marielle Doche-Petit,cs.SE,http://arxiv.org/pdf/1210.7039v1
+1210.7138v1,2012-10-26T13:20:00Z,Legacy Software Restructuring: Analyzing a Concrete Case,Jannik Laval,cs.SE,http://arxiv.org/pdf/1210.7138v1
+1210.7283v1,2012-10-27T03:01:38Z,Abstract Data Types in Event-B - An Application of Generic Instantiation,Naoto Sato,cs.SE,http://arxiv.org/pdf/1210.7283v1
+1210.8011v1,2012-10-30T13:57:19Z,Reusability Framework for Cloud Computing,Rishideep Singh,cs.SE,http://arxiv.org/pdf/1210.8011v1
+1212.0312v1,2012-12-03T08:45:18Z,Software Reuse in Medical Database for Cardiac Patients using Pearson   Family Equations,M. H. M. Krishna Prasad,cs.SE,http://arxiv.org/pdf/1212.0312v1
+1212.1762v1,2012-12-08T06:31:55Z,A Change Support Model for Distributed Collaborative Work,Koichiro Ochimizu,cs.SE,http://arxiv.org/pdf/1212.1762v1
+1212.1796v1,2012-12-08T14:21:04Z,On Extracting Unit Tests from Interactive Programming Sessions,Adrian Kuhn,cs.SE,http://arxiv.org/pdf/1212.1796v1
+1212.3060v1,2012-12-13T06:07:22Z,A use case driven approach for system level testing,Zahid Hussain Qaisar,cs.SE,http://arxiv.org/pdf/1212.3060v1
+1212.3067v1,2012-12-13T07:06:29Z,The application of cause effect graph for the college placement process,Namrata Ojha,cs.SE,http://arxiv.org/pdf/1212.3067v1
+1212.3248v1,2012-12-13T18:15:26Z,A survey of service oriented architecture systems testing,Ebrahim Shamsoddin-Motlagh,cs.SE,http://arxiv.org/pdf/1212.3248v1
+1212.4246v1,2012-12-18T07:09:30Z,Sysml Knowledge base for Designing Dependable Complex System,Nabil Sadou,cs.SE,http://arxiv.org/pdf/1212.4246v1
+1212.4258v1,2012-12-18T08:01:54Z,Compositional Verification of Evolving Software Product Lines,Ganesh Khandu Narwane,cs.SE,http://arxiv.org/pdf/1212.4258v1
+1212.4959v1,2012-12-20T09:48:12Z,D'Event-B vers UML/OCL en passant par UML/EM-OCL,Imen Sayar,cs.SE,http://arxiv.org/pdf/1212.4959v1
+1212.5089v1,2012-12-20T15:38:10Z,Dead code elimination based pointer analysis for multithreaded programs,Mohamed A. El-Zawawy,cs.SE,http://arxiv.org/pdf/1212.5089v1
+1212.5204v1,2012-12-20T19:39:10Z,FReD: Automated Debugging via Binary Search through a Process Lifetime,Gene Cooperman,cs.SE,http://arxiv.org/pdf/1212.5204v1
+1212.5491v1,2012-12-21T15:33:16Z,Concurrent object-oriented development with behavioral design patterns,Hassan Gomaa,cs.SE,http://arxiv.org/pdf/1212.5491v1
+1212.6041v1,2012-12-25T13:03:03Z,XML parser GUI using .NET Technology,Jimbo Claver,cs.SE,http://arxiv.org/pdf/1212.6041v1
+1302.1153v1,2013-02-05T19:06:06Z,On the need for optimization of the software development processes in   short-term projects,Jorge Rafael Aguilar Cisneros,cs.SE,http://arxiv.org/pdf/1302.1153v1
+1302.1355v1,2013-02-06T13:16:44Z,Characterizing and Evaluating The Impact of Software Interface Clones,Osama Shata,cs.SE,http://arxiv.org/pdf/1302.1355v1
+1302.1393v1,2013-02-06T15:01:33Z,Semantic integration process of business components to support   information system designers,Abderrahim Sekkaki,cs.SE,http://arxiv.org/pdf/1302.1393v1
+1302.1591v1,2013-02-06T21:45:34Z,Automatically Mining Program Build Information via Signature Matching,Charng-Da Lu,cs.SE,http://arxiv.org/pdf/1302.1591v1
+1302.1912v1,2013-02-08T00:02:19Z,Testing and Evaluation of Service Oriented Systems,Ashim Raj Singla,cs.SE,http://arxiv.org/pdf/1302.1912v1
+1302.2193v1,2013-02-09T04:53:29Z,Circumstantial-Evidence-Based Judgment for Software Effort Estimation,He Zhang,cs.SE,http://arxiv.org/pdf/1302.2193v1
+1302.2657v1,2013-02-11T22:41:25Z,Metrics for Assessing The Design of Software Interfaces,Osama Shata,cs.SE,http://arxiv.org/pdf/1302.2657v1
+1302.2747v1,2013-02-12T10:09:13Z,Effective factors in agile transformation process from change management   perspective,Abu Bakar Md. Sultan,cs.SE,http://arxiv.org/pdf/1302.2747v1
+1302.2748v1,2013-02-12T10:09:42Z,A Systematic Literature Review on relationship between agile methods and   Open Source Software Development methodology,Abu Bakar Md Sultan,cs.SE,http://arxiv.org/pdf/1302.2748v1
+1302.4061v1,2013-02-17T12:09:46Z,The Sensemaking-Coevolution-Implementation Theory of Software Design,Paul Ralph,cs.SE,http://arxiv.org/pdf/1302.4061v1
+1302.4780v1,2013-02-20T00:34:13Z,Proceedings 10th International Workshop on Formal Engineering Approaches   to Software Components and Architectures,Jan Kofroň,cs.SE,http://arxiv.org/pdf/1302.4780v1
+1302.5169v1,2013-02-21T03:58:47Z,Extensible Technology-Agnostic Runtime Verification,Gordon J. Pace,cs.SE,http://arxiv.org/pdf/1302.5169v1
+1302.5170v1,2013-02-21T03:59:02Z,Sequence Diagram Test Case Specification and Virtual Integration   Analysis using Timed-Arc Petri Nets,Peter Battram,cs.SE,http://arxiv.org/pdf/1302.5170v1
+1302.5454v1,2013-02-22T00:03:48Z,Statistical Approach for Predicting Factors of Mood Method for Object   Oriented,Fawzi Altaani,cs.SE,http://arxiv.org/pdf/1302.5454v1
+1302.5788v1,2013-02-23T10:56:05Z,Unified Modeling Language for Describing Business Value Chain Activities,Ashim Raj Singla,cs.SE,http://arxiv.org/pdf/1302.5788v1
+1303.0379v1,2013-03-02T11:53:08Z,Proceedings Eighth Workshop on Model-Based Testing,Holger Schlingloff,cs.SE,http://arxiv.org/pdf/1303.0379v1
+1303.0395v1,2013-03-02T16:08:18Z,ICT System Design & Implementation Using Wireless Sensors to Support   Elderly In-home Assistance,Stefan Plank,cs.SE,http://arxiv.org/pdf/1303.0395v1
+1303.1006v1,2013-03-05T12:18:09Z,Industrial-Strength Model-Based Testing - State of the Art and Current   Challenges,Jan Peleska,cs.SE,http://arxiv.org/pdf/1303.1006v1
+1303.1007v1,2013-03-05T12:18:14Z,Towards the Usage of MBT at ETSI,Milan Zoric,cs.SE,http://arxiv.org/pdf/1303.1007v1
+1303.1008v1,2013-03-05T12:18:23Z,Testing Java implementations of algebraic specifications,Filipe Luís,cs.SE,http://arxiv.org/pdf/1303.1008v1
+1303.1010v1,2013-03-05T12:18:37Z,Runtime Verification Based on Executable Models: On-the-Fly Matching of   Timed Traces,Alexander Kamkin,cs.SE,http://arxiv.org/pdf/1303.1010v1
+1303.1011v1,2013-03-05T12:18:52Z,Top-Down and Bottom-Up Approach for Model-Based Testing of Product Lines,Hartmut Lackner,cs.SE,http://arxiv.org/pdf/1303.1011v1
+1303.1238v1,2013-03-06T02:06:59Z,Toward the Integration of Traditional and Agile Approaches,Stephen C-Y. Lu,cs.SE,http://arxiv.org/pdf/1303.1238v1
+1303.1971v1,2013-03-08T12:28:44Z,Improving the management of cost and scope in software projects using   agile practices,Enio Júnior Seidel,cs.SE,http://arxiv.org/pdf/1303.1971v1
+1303.2554v1,2013-03-11T15:51:28Z,Artifact Lifecycle Discovery,Marlon Dumas,cs.SE,http://arxiv.org/pdf/1303.2554v1
+1303.2646v1,2013-03-11T19:55:14Z,Work Issues in Software Engineering,Jeremy Leipzig,cs.SE,http://arxiv.org/pdf/1303.2646v1
+1303.2784v1,2013-03-12T06:18:16Z,Using State Infection Conditions to Detect Equivalent Mutants and Speed   up Mutation Analysis,Gordon Fraser,cs.SE,http://arxiv.org/pdf/1303.2784v1
+1303.2966v1,2013-03-12T17:47:01Z,Automatic instantiation of abstract tests on specific configurations for   large critical control systems,Antonio Orazzo,cs.SE,http://arxiv.org/pdf/1303.2966v1
+1303.4056v1,2013-03-17T12:13:55Z,A weaving process to define requirements for Cooperative Information   System,Pierre Jean Charrel,cs.SE,http://arxiv.org/pdf/1303.4056v1
+1303.4761v1,2013-03-19T20:42:40Z,IEC 61499 vs. 61131: A Comparison Based on Misperceptions,Kleanthis Thramboulidis,cs.SE,http://arxiv.org/pdf/1303.4761v1
+1303.5541v1,2013-03-22T08:31:49Z,Lowering the Barrier to Reuse through Test-Driven Search,Colin Atkinson,cs.SE,http://arxiv.org/pdf/1303.5541v1
+1303.5874v1,2013-03-23T18:54:02Z,BIMS: Biomedical Information Management System,Jesús Bisbal,cs.SE,http://arxiv.org/pdf/1303.5874v1
+1303.5926v1,2013-03-24T08:30:44Z,STC: Semantic Taxonomical Clustering for Service Category Learning,Yugyung Lee,cs.SE,http://arxiv.org/pdf/1303.5926v1
+1303.5938v1,2013-03-24T11:21:16Z,The Two Paradigms of Software Design,Paul Ralph,cs.SE,http://arxiv.org/pdf/1303.5938v1
+1303.5950v1,2013-03-24T14:23:36Z,High Quality Requirement Engineering and Applying Priority Based Tools   for QoS Standardization in Web Service Architecture,C. Dinesh,cs.SE,http://arxiv.org/pdf/1303.5950v1
+1303.7379v1,2013-03-29T12:40:54Z,Control Explicit---Data Symbolic Model Checking: An Introduction,Petr Bauch,cs.SE,http://arxiv.org/pdf/1303.7379v1
+1304.0116v1,2013-03-30T15:22:58Z,The Illusion of Requirements in Software Development,Paul Ralph,cs.SE,http://arxiv.org/pdf/1304.0116v1
+1304.0374v1,2013-04-01T15:13:11Z,Software Cognitive Information Measure based on Relation Between   Structures,Song Han,cs.SE,http://arxiv.org/pdf/1304.0374v1
+1304.1002v1,2013-04-03T16:22:58Z,A Literature Survey on Empirical Evidence in Software Engineering,Ralf Lämmel,cs.SE,http://arxiv.org/pdf/1304.1002v1
+1304.2080v1,2013-04-08T00:08:49Z,Web Services Modeling and Composition Approach using Object-Oriented   Petri Nets,Allaoua Chaoui,cs.SE,http://arxiv.org/pdf/1304.2080v1
+1304.2326v1,2013-04-08T19:23:51Z,Sharing of Semantically Enhanced Information for the Adaptive Execution   of Business Processes,Pigi Kouki,cs.SE,http://arxiv.org/pdf/1304.2326v1
+1304.3716v1,2013-04-12T19:58:49Z,From Declarative Model to Solution: Scheduling Scenario Synthesis,Mirko Randic,cs.SE,http://arxiv.org/pdf/1304.3716v1
+1304.3912v1,2013-04-14T12:21:40Z,Comparative Study and Analysis of Variability Tools,Mahendra Reddy Bhumula,cs.SE,http://arxiv.org/pdf/1304.3912v1
+1304.4539v1,2013-04-16T18:08:25Z,A Survey of Software Reliability Models,Ganesh J. Pai,cs.SE,http://arxiv.org/pdf/1304.4539v1
+1304.4664v1,2013-04-17T01:38:23Z,Product line Development Architectural Model,J. L. Raheja,cs.SE,http://arxiv.org/pdf/1304.4664v1
+1304.5257v2,2013-04-18T21:12:06Z,What Makes Code Hard to Understand?,Andrew Lumsdaine,cs.SE,http://arxiv.org/pdf/1304.5257v2
+1304.5317v1,2013-04-19T06:00:31Z,K model for designing Data Driven Test Automation Frameworks and its   Design Architecture Snow Leopard,Rohan R. Kachewar,cs.SE,http://arxiv.org/pdf/1304.5317v1
+1304.5553v1,2013-04-19T21:36:25Z,GPU Scripting and Code Generation with PyCUDA,Ahmed Fasih,cs.SE,http://arxiv.org/pdf/1304.5553v1
+1304.6505v1,2013-04-24T08:11:49Z,Software Design Principles of a DFS Tower A-CWP Prototype,Benjamin Weiß,cs.SE,http://arxiv.org/pdf/1304.6505v1
+1304.6506v1,2013-04-24T08:19:29Z,Toward Recovering Complete SRS for Softbody Simulation System and a   Sample Application - a Team 4 SOEN6481-W13 Project Report,Faisal Alrashdi,cs.SE,http://arxiv.org/pdf/1304.6506v1
+1304.6656v1,2013-04-16T13:00:15Z,A new modeling approach to the safety evaluation of N-modular redundant   computer systems in presence of imperfect maintenance,Valeria Vittorini,cs.SE,http://arxiv.org/pdf/1304.6656v1
+1304.7345v1,2013-04-27T08:13:49Z,SOA Embedded in BPM: A High Level View of Object Oriented Paradigm,Imran Sarwar Bajwa,cs.SE,http://arxiv.org/pdf/1304.7345v1
+1304.7346v1,2013-04-27T08:17:53Z,SBVR vs OCL: A Comparative Analysis of Standards,Mark Lee,cs.SE,http://arxiv.org/pdf/1304.7346v1
+1304.8034v2,2013-04-30T15:30:50Z,A Syntactic-Semantic Approach to Incremental Verification,Dino Mandrioli,cs.SE,http://arxiv.org/pdf/1304.8034v2
+1307.1719v1,2013-07-05T21:07:04Z,Identifying change patterns in software history,Matthew Sottile,cs.SE,http://arxiv.org/pdf/1307.1719v1
+1307.2075v2,2013-07-08T13:00:36Z,A Web-based modeling tool for the SEMAT Essence theory of Software   Engineering,Pekka Abrahamsson,cs.SE,http://arxiv.org/pdf/1307.2075v2
+1307.2580v2,2013-07-09T20:04:02Z,Towards an Approach for Analysing the Strategic Alignment of Software   Requirements using Quantified Goal Graphs,Badr Haque,cs.SE,http://arxiv.org/pdf/1307.2580v2
+1307.3086v1,2013-07-11T12:26:50Z,Towards a Good ABS Design for more Reliable Vehicles on the Roads,Mohamed Benmohammed,cs.SE,http://arxiv.org/pdf/1307.3086v1
+1307.3356v1,2013-07-12T07:52:39Z,Comparative Study on Agile software development methodologies,Dr Syed Akhter Hossain,cs.SE,http://arxiv.org/pdf/1307.3356v1
+1307.3398v1,2013-07-12T10:28:07Z,Agent Based Software Testing Framework (ABSTF) for Application   Maintenance,P. Karthika,cs.SE,http://arxiv.org/pdf/1307.3398v1
+1307.4062v2,2013-07-15T19:26:23Z,Empirical Evidence of Large-Scale Diversity in API Usage of   Object-Oriented Software,Martin Monperrus,cs.SE,http://arxiv.org/pdf/1307.4062v2
+1307.4174v1,2013-07-16T06:33:36Z,Ontology Based Feature Driven Development Life Cycle,M. Afshar Alam,cs.SE,http://arxiv.org/pdf/1307.4174v1
+1307.4695v1,2013-07-17T16:48:06Z,A Design Methodology for Software Measurement Programs,Alejandro Sanchez Guinea,cs.SE,http://arxiv.org/pdf/1307.4695v1
+1307.6901v1,2013-07-26T00:58:34Z,"Specification Construction Using Behaviours, Equivalences, and SMT   Solvers",Farah El-Hariri,cs.SE,http://arxiv.org/pdf/1307.6901v1
+1307.7096v1,2013-07-26T16:53:13Z,Toward Recovering Complete SRS for Softbody Simulation System and a   Sample Application -- a Team 9a SOEN6481 W13 Project Report,Mahin Abbasipour,cs.SE,http://arxiv.org/pdf/1307.7096v1
+1307.7790v1,2013-07-30T02:46:25Z,Using SOA with Web Services for effective Integration of Hospital   Information Systems via an Enterprise Service Bus,Quist-Aphetsi Kester,cs.SE,http://arxiv.org/pdf/1307.7790v1
+1307.8179v1,2013-07-31T00:47:44Z,Using SOA with Web Services for effective data integration of Enterprise   Pharmaceutical Information Systems,Ajibade Ibrahim Kayode,cs.SE,http://arxiv.org/pdf/1307.8179v1
+1310.0152v1,2013-10-01T06:13:04Z,Managing and Analysing Software Product Line Requirements,Touhid Bhuiyan,cs.SE,http://arxiv.org/pdf/1310.0152v1
+1310.0242v1,2013-10-01T11:12:06Z,Towards Base Rates in Software Analytics,Magiel Bruntink,cs.SE,http://arxiv.org/pdf/1310.0242v1
+1310.1506v1,2013-10-05T18:32:42Z,Codeless Screen-Oriented Programming for Enterprise Mobile Applications,Idan Ben-Harrush,cs.SE,http://arxiv.org/pdf/1310.1506v1
+1310.2365v1,2013-10-09T06:08:38Z,The Unified Approach For Organizational Network Vulnerability Assessment,Mrs. Rohini Temkar,cs.SE,http://arxiv.org/pdf/1310.2365v1
+1310.2464v1,2013-10-09T13:13:28Z,Eclipse-IT 2013: Proceedings of VIII Workshop of the Italian Eclipse   Community,Elvinia Riccobene,cs.SE,http://arxiv.org/pdf/1310.2464v1
+1310.2474v3,2013-10-09T13:27:14Z,Towards Statistical Prioritization for Software Product Lines Testing,Patrick Heymans,cs.SE,http://arxiv.org/pdf/1310.2474v3
+1310.2545v2,2013-10-09T17:05:59Z,Product Backlog Rating: A Case Study On Measuring Test Quality In Scrum,Jacob Chakareski,cs.SE,http://arxiv.org/pdf/1310.2545v2
+1310.3308v2,2013-10-11T22:57:27Z,A Preliminary Field Study of Game Programming on Mobile Devices,Tao Xie,cs.SE,http://arxiv.org/pdf/1310.3308v2
+1310.4989v2,2013-10-18T12:21:54Z,Do System Test Cases Grow Old?,Robert Feldt,cs.SE,http://arxiv.org/pdf/1310.4989v2
+1310.5220v1,2013-10-19T12:12:21Z,Multi criteria decision making approach for selecting effort estimation   model,Dr. Navdeep Kaur,cs.SE,http://arxiv.org/pdf/1310.5220v1
+1310.5221v1,2013-10-19T12:25:00Z,Soft computing techniques for software effort estimation,Navdeep Kaur,cs.SE,http://arxiv.org/pdf/1310.5221v1
+1310.5222v1,2013-10-19T12:32:07Z,Effect of data preprocessing on software effort estimation,Sukhjit Singh Sehra,cs.SE,http://arxiv.org/pdf/1310.5222v1
+1310.5962v1,2013-10-22T15:35:37Z,RBAC Architecture Design Issues in Institutions Collaborative   Environment,Burhan Gill,cs.SE,http://arxiv.org/pdf/1310.5962v1
+1310.5988v2,2013-10-22T17:14:27Z,Towards Applying Text Mining Techniques on Software Quality Standards   and Models,Katalin Balla,cs.SE,http://arxiv.org/pdf/1310.5988v2
+1310.6686v1,2013-10-24T17:58:50Z,Estado Actual de la Práctica de la Ingeniería de Software en   México,Fabiola Angulo Molina,cs.SE,http://arxiv.org/pdf/1310.6686v1
+1310.7469v1,2013-10-28T15:56:25Z,Mining the Temporal Evolution of the Android Bug Reporting Community via   Sliding Windows,Mario A. Nascimento,cs.SE,http://arxiv.org/pdf/1310.7469v1
+1310.8111v1,2013-10-30T12:06:52Z,Towards an Assessment-oriented Model for External Information System   Quality Characterization,Bouchaib Bounabat,cs.SE,http://arxiv.org/pdf/1310.8111v1
+1311.0228v1,2013-11-01T17:23:06Z,Improving Software Developer's Competence: Is the Personal Software   Process Working?,Jouni Lappalainen,cs.SE,http://arxiv.org/pdf/1311.0228v1
+1311.1197v1,2013-11-05T20:59:13Z,Software Reuse in Cardiology Related Medical Database Using K-Means   Clustering Technique,M. H. M. Krishna Prasad,cs.SE,http://arxiv.org/pdf/1311.1197v1
+1311.1322v2,2013-11-06T09:38:41Z,Modelling Families of Business Process Variants: A Decomposition Driven   Method,Raimundas Matulevičius,cs.SE,http://arxiv.org/pdf/1311.1322v2
+1311.1323v1,2013-11-06T09:40:37Z,How Does Kanban Impact Communication and Collaboration in Software   Engineering Teams?,Jürgen Münch,cs.SE,http://arxiv.org/pdf/1311.1323v1
+1311.1334v1,2013-11-06T10:09:04Z,Onboarding in Open Source Software Projects: A Preliminary Analysis,Jürgen Münch,cs.SE,http://arxiv.org/pdf/1311.1334v1
+1311.1343v1,2013-11-06T10:36:15Z,Verification for Reliable Product Lines,Axel Legay,cs.SE,http://arxiv.org/pdf/1311.1343v1
+1311.1618v1,2013-11-07T09:48:28Z,Experiences and Insights from Applying GQM+Strategies in a Systems   Product Development Organisation,Jari Partanen,cs.SE,http://arxiv.org/pdf/1311.1618v1
+1311.1698v1,2013-11-05T13:24:14Z,A Survey on the State of the Practice in Distributed Software   Development: Criteria for Task Allocation,Dieter Rombach,cs.SE,http://arxiv.org/pdf/1311.1698v1
+1311.1729v1,2013-11-07T16:14:50Z,Managing Requirement Elicitation Issues Using Step-Wise Refinement Model,Sakthi Kumaresh,cs.SE,http://arxiv.org/pdf/1311.1729v1
+1311.1895v2,2013-11-08T08:18:23Z,Mining Crash Fix Patterns,Ning Chen,cs.SE,http://arxiv.org/pdf/1311.1895v2
+1311.2412v1,2013-11-11T10:42:35Z,PLOS/Mozilla Scientific Code Review Pilot: Summary of Findings,Greg Wilson,cs.SE,http://arxiv.org/pdf/1311.2412v1
+1311.2535v1,2013-11-11T19:16:40Z,Issues about the Adoption of Formal Methods for Dependable Composition   of Web Services,Michele Ciavotta,cs.SE,http://arxiv.org/pdf/1311.2535v1
+1311.2968v1,2013-11-12T21:56:40Z,An Experience based Evaluation Process for ERP bids,Abdul Jawad Chaudhry,cs.SE,http://arxiv.org/pdf/1311.2968v1
+1311.3026v1,2013-11-13T06:32:38Z,Incrementally Introducing Process Model Rationale Support in an   Organization,William E. Riddle,cs.SE,http://arxiv.org/pdf/1311.3026v1
+1311.3243v1,2013-11-13T18:31:11Z,Systems Variability Modeling: A Textual Model Mixing Class and Feature   Concepts,Mohammad H. Alomari,cs.SE,http://arxiv.org/pdf/1311.3243v1
+1311.3414v1,2013-11-14T08:28:45Z,Mining Software Repair Models for Reasoning on the Search Space of   Automated Program Fixing,Martin Monperrus,cs.SE,http://arxiv.org/pdf/1311.3414v1
+1311.3523v3,2013-11-14T15:00:25Z,"First Workshop on Sustainable Software for Science: Practice and   Experiences (WSSSPE): Submission and Peer-Review Process, and Results",David Proctor,cs.SE,http://arxiv.org/pdf/1311.3523v3
+1311.3626v1,2013-11-14T19:40:19Z,Verification and Validation Issues in Systems of Systems,Eric Honour,cs.SE,http://arxiv.org/pdf/1311.3626v1
+1311.3627v1,2013-11-14T19:40:33Z,Variability and Evolution in Systems of Systems,Goetz Botterweck,cs.SE,http://arxiv.org/pdf/1311.3627v1
+1311.3628v1,2013-11-14T19:40:41Z,Systems of Systems Modeled by a Hierarchical Part-Whole State-Based   Formalism,Luca Pazzi,cs.SE,http://arxiv.org/pdf/1311.3628v1
+1311.3629v1,2013-11-14T19:40:50Z,System-of-Systems Complexity,Hermann Kopetz,cs.SE,http://arxiv.org/pdf/1311.3629v1
+1311.3630v1,2013-11-14T19:41:00Z,Challenges for modelling and analysis in embedded systems and   systems-of-systems design,Boudewijn R. Haverkort,cs.SE,http://arxiv.org/pdf/1311.3630v1
+1311.3631v1,2013-11-14T19:41:12Z,Contracts and Behavioral Patterns for SoS: The EU IP DANSE approach,Axel Legay,cs.SE,http://arxiv.org/pdf/1311.3631v1
+1311.3632v1,2013-11-14T19:41:25Z,SoS contract verification using statistical model checking,Alexandre Arnold,cs.SE,http://arxiv.org/pdf/1311.3632v1
+1311.3798v1,2013-11-15T10:31:46Z,Integrating Inspection and Test Processes Based on Context-Specific   Assumptions,Bernd Freimut,cs.SE,http://arxiv.org/pdf/1311.3798v1
+1311.4176v3,2013-11-17T16:15:03Z,ComReg: A Complex Network Approach to Prioritize Test Cases for   Regression Testing,Jacob Chakareski,cs.SE,http://arxiv.org/pdf/1311.4176v3
+1311.4615v1,2013-11-19T03:21:57Z,A Notion of Dynamic Interface for Depth-Bounded Object-Oriented Packages,Damien Zufferey,cs.SE,http://arxiv.org/pdf/1311.4615v1
+1311.4934v2,2013-11-20T01:58:30Z,Dynamic Package Interfaces - Extended Version,Damien Zufferey,cs.SE,http://arxiv.org/pdf/1311.4934v2
+1311.5270v2,2013-11-21T00:03:26Z,Automated Feature Identification in Web Applications,Pekka Abrahamsson,cs.SE,http://arxiv.org/pdf/1311.5270v2
+1311.5587v1,2013-11-21T21:27:49Z,Dynamic Integration of ALM Tools for Agile Software Development,Jörg Lässig,cs.SE,http://arxiv.org/pdf/1311.5587v1
+1311.6145v1,2013-11-24T17:02:17Z,Towards a Formalism-Based Toolkit for Automotive Applications,Manuel Mazzara,cs.SE,http://arxiv.org/pdf/1311.6145v1
+1311.6221v1,2013-11-25T07:42:08Z,The Effects of GQM+Strategies on Organizational Alignment,Jari Partanen,cs.SE,http://arxiv.org/pdf/1311.6221v1
+1311.6224v1,2013-11-25T08:11:56Z,Linking Software Development and Business Strategy Through Measurement,Adam Trendowicz,cs.SE,http://arxiv.org/pdf/1311.6224v1
+1311.6249v1,2013-11-25T10:13:49Z,Distributed-Pair Programming can work well and is not just Distributed   Pair-Programming,Stephan Salinger,cs.SE,http://arxiv.org/pdf/1311.6249v1
+1311.6264v1,2013-11-25T11:14:07Z,Inspection and Test Process Integration Based on Explicit Test   Prioritization Strategies,Robert Eschbach,cs.SE,http://arxiv.org/pdf/1311.6264v1
+1311.6329v2,2013-11-25T15:16:35Z,Flexible Invariants Through Semantic Collaboration,Bertrand Meyer,cs.SE,http://arxiv.org/pdf/1311.6329v2
+1311.6606v1,2013-11-26T09:57:51Z,Random Grammar-based Testing for Covering All Non-Terminals,Olga Kouchnarenko,cs.SE,http://arxiv.org/pdf/1311.6606v1
+1311.6659v1,2013-11-26T13:29:24Z,MARTE Profile-based MDA approach for semantic NFP-aware Web services,Ounsa Roudies,cs.SE,http://arxiv.org/pdf/1311.6659v1
+1311.6933v1,2013-11-27T11:17:43Z,Attaining High-performing Software Teams with Agile and Lean Practices:   An Empirical Case Study,Jürgen Münch,cs.SE,http://arxiv.org/pdf/1311.6933v1
+1311.7313v2,2013-11-28T13:28:25Z,Improving CASA Runtime Performance by Exploiting Basic Feature Model   Analysis,Alexander Egyed,cs.SE,http://arxiv.org/pdf/1311.7313v2
+1404.0417v3,2014-04-01T23:04:12Z,Mining Idioms from Source Code,Charles Sutton,cs.SE,http://arxiv.org/pdf/1404.0417v3
+1404.0436v1,2014-04-02T02:52:51Z,Proceedings 11th International Workshop on Formal Engineering approaches   to Software Components and Architectures,Jan Kofroň,cs.SE,http://arxiv.org/pdf/1404.0436v1
+1404.0698v1,2014-04-02T20:37:09Z,Adaptability Checking in Multi-Level Complex Systems,Luca Tesei,cs.SE,http://arxiv.org/pdf/1404.0698v1
+1404.0846v1,2014-04-03T10:43:37Z,Towards Verifying Safety Properties of Real-Time Probabilistic Systems,Heinz Schmidt,cs.SE,http://arxiv.org/pdf/1404.0846v1
+1404.0849v1,2014-04-03T10:44:09Z,Comprehensive Monitor-Oriented Compensation Programming,Gordon J. Pace,cs.SE,http://arxiv.org/pdf/1404.0849v1
+1404.0855v1,2014-04-03T10:45:10Z,Transformation of UML Behavioral Diagrams to Support Software Model   Checking,Nandamudi Lankalapalli Vijaykumar,cs.SE,http://arxiv.org/pdf/1404.0855v1
+1404.1279v3,2014-04-04T15:01:46Z,Event-Flow Graphs for Efficient Path-Sensitive Analyses,Suresh Kothari,cs.SE,http://arxiv.org/pdf/1404.1279v3
+1404.1621v3,2014-04-06T21:03:45Z,Proposal of a multiagent-based smart environment for the IoT,Leszek Kotulski,cs.SE,http://arxiv.org/pdf/1404.1621v3
+1404.2155v1,2014-04-07T06:47:45Z,An Efficient Solution for Model Checking Abstract State Machine Using   Bogor,Saeed Doostali,cs.SE,http://arxiv.org/pdf/1404.2155v1
+1404.2713v1,2014-04-10T07:26:07Z,"Transaction Handling in COM, EJB and .NET",Miraldi Fifo,cs.SE,http://arxiv.org/pdf/1404.2713v1
+1404.2737v2,2014-04-10T08:48:55Z,User Centered Development of Agent-based Business Process Models and   Notations,Robert Singer,cs.SE,http://arxiv.org/pdf/1404.2737v2
+1404.2939v1,2014-04-10T20:16:06Z,Modeling Enterprise Architecture Using Timed Colored PETRI Net: Single   Processor Scheduling,Elham Abdolrahimi Niyari,cs.SE,http://arxiv.org/pdf/1404.2939v1
+1404.3056v2,2014-04-11T10:04:12Z,Principles of Antifragile Software,Martin Monperrus,cs.SE,http://arxiv.org/pdf/1404.3056v2
+1404.3186v1,2014-04-11T18:57:52Z,Automatic Repair of Buggy If Conditions and Missing Preconditions with   SMT,Martin Monperrus,cs.SE,http://arxiv.org/pdf/1404.3186v1
+1404.3280v1,2014-04-12T11:01:26Z,An Ontology Oriented Architecture for Context Aware Services Adaptation,Abdelaziz Kriouile,cs.SE,http://arxiv.org/pdf/1404.3280v1
+1404.3382v1,2014-04-13T13:48:04Z,An Approach for Computing Dynamic Slice of Concurrent Aspect-Oriented   Programs,Durga Prasad Mohapatra,cs.SE,http://arxiv.org/pdf/1404.3382v1
+1404.3537v1,2014-04-14T10:57:29Z,BeSpaceD: Towards a Tool Framework and Methodology for the Specification   and Verification of Spatial Behavior of Distributed Software Component   Systems,Heinz Schmidt,cs.SE,http://arxiv.org/pdf/1404.3537v1
+1404.4100v1,2014-04-15T22:32:21Z,Locating Crashing Faults based on Crash Stack Traces,Sunghun Kim,cs.SE,http://arxiv.org/pdf/1404.4100v1
+1404.4713v1,2014-04-18T07:37:52Z,Knowledge-Driven Game Design by Non-Programmers,Avinoam Alfia,cs.SE,http://arxiv.org/pdf/1404.4713v1
+1404.4970v1,2014-04-19T16:47:55Z,Prediction of rate of improvement of software quality and development   effort on the basis of Degreeof excellence with respect to number of lines of   code,Vandana Bhattacherjee,cs.SE,http://arxiv.org/pdf/1404.4970v1
+1404.5034v2,2014-04-20T12:03:08Z,Sustaining IT PMOs during Cycles of Global Recession,Musheer Ahmad,cs.SE,http://arxiv.org/pdf/1404.5034v2
+1404.6603v1,2014-04-26T05:32:16Z,Who watches the watchers: Validating the ProB Validation Tool,Michael Leuschel,cs.SE,http://arxiv.org/pdf/1404.6603v1
+1404.6743v1,2014-04-27T12:06:14Z,A Formal Approach to System Integration Testing,Martin Elshuber,cs.SE,http://arxiv.org/pdf/1404.6743v1
+1404.6801v1,2014-04-27T18:10:44Z,Nothing is Certain but Doubt and Tests,John A. McDermid,cs.SE,http://arxiv.org/pdf/1404.6801v1
+1404.6802v1,2014-04-27T18:28:31Z,Formalism of Requirements for Safety-Critical Software: Where Does the   Benefit Come From?,Andrew Rae,cs.SE,http://arxiv.org/pdf/1404.6802v1
+1404.6803v1,2014-04-27T18:31:37Z,Towards Assessing Necessary Competence,Chris W. Johnson,cs.SE,http://arxiv.org/pdf/1404.6803v1
+1404.6804v1,2014-04-27T18:34:38Z,The Efficacy of DO-178B,Dewi Daniels,cs.SE,http://arxiv.org/pdf/1404.6804v1
+1404.6805v1,2014-04-27T18:39:17Z,On the efficacy of safety-related software standards,Giuseppe Lami,cs.SE,http://arxiv.org/pdf/1404.6805v1
+1404.6830v1,2014-04-27T21:34:55Z,Orthogonal Fault Tolerance for Dynamically Adaptive Systems,Sobia K Khan,cs.SE,http://arxiv.org/pdf/1404.6830v1
+1404.6833v1,2014-04-27T21:44:54Z,Unit verification procedure as a test of real time messaging-based   processes,Miklos Taliga,cs.SE,http://arxiv.org/pdf/1404.6833v1
+1404.6844v1,2014-04-28T00:38:10Z,Evaluating the Assessment of Software Fault-Freeness,Lorenzo Strigini,cs.SE,http://arxiv.org/pdf/1404.6844v1
+1404.6846v1,2014-04-28T00:53:00Z,An Approach to Maintaining Safety Case Evidence After A System Change,Iain Bate,cs.SE,http://arxiv.org/pdf/1404.6846v1
+1404.7260v1,2014-04-29T07:12:29Z,Refinement-Based Specification: Requirements and Architecture,Maria Spichkova,cs.SE,http://arxiv.org/pdf/1404.7260v1
+1404.7265v1,2014-04-29T07:49:47Z,Do we really need to write documentation for a system? CASE tool   add-ons: generator+editor for a precise documentation,Dongyue Mou,cs.SE,http://arxiv.org/pdf/1404.7265v1
+1404.7414v2,2014-04-29T16:04:40Z,Summary of the First Workshop on Sustainable Software for Science:   Practice and Experiences (WSSSPE1),Colin Venters,cs.SE,http://arxiv.org/pdf/1404.7414v2
+1404.7509v1,2014-04-29T20:01:55Z,On Cloud-Based Engineering of Dependable Systems,Sami Alajrami,cs.SE,http://arxiv.org/pdf/1404.7509v1
+1404.7513v2,2014-04-29T20:11:05Z,A formal approach for correct-by-construction system substitution,Guillaume Babin,cs.SE,http://arxiv.org/pdf/1404.7513v2
+1404.7528v2,2014-04-29T20:55:28Z,The Utility and Practicality of Quantifying Software Reliability,Rob Ashmore,cs.SE,http://arxiv.org/pdf/1404.7528v2
+1404.7542v1,2014-04-29T21:39:04Z,A formal experiment to assess the efficacy of certification standards,Virginie Wiels,cs.SE,http://arxiv.org/pdf/1404.7542v1
+1404.7558v1,2014-04-30T00:28:43Z,Monitoring service quality: methods and solutions to implement a   managerial dash-board to improve software development,Salvatore D'Antonio,cs.SE,http://arxiv.org/pdf/1404.7558v1
+1404.7560v1,2014-04-30T00:36:55Z,Integrated Maintenance: analysis and perspective of innovation in   railway sector,Roberto Nappi,cs.SE,http://arxiv.org/pdf/1404.7560v1
+1404.7564v1,2014-04-30T00:48:29Z,End-users needs and requirements for tools to support critical   infrastructures protection,Witold Holubowicz,cs.SE,http://arxiv.org/pdf/1404.7564v1
+1404.7565v2,2014-04-30T00:52:03Z,Investigating SCADA Failures in Interdependent Critical Infrastructure   Systems,Razgar Ebrahimy,cs.SE,http://arxiv.org/pdf/1404.7565v2
+1404.7618v2,2014-04-30T07:40:14Z,Modeling and Execution of Multienterprise Business Processes,Stefan Raß,cs.SE,http://arxiv.org/pdf/1404.7618v2
+1404.7763v2,2014-04-30T15:35:15Z,Deployment Calculation and Analysis for a Fail-Operational Automotive   Platform,Michael Armbruster,cs.SE,http://arxiv.org/pdf/1404.7763v2
+1404.7775v4,2014-04-30T16:05:51Z,Fault Modelling in System-of-Systems Contracts,Klaus Kristensen,cs.SE,http://arxiv.org/pdf/1404.7775v4
+1404.7778v2,2014-04-30T16:17:16Z,SoS Fault Modelling at the Architectural Level in an Emergency Response   Case Study,Afra Alrbaiyan,cs.SE,http://arxiv.org/pdf/1404.7778v2
+1404.7792v2,2014-04-30T16:43:25Z,Towards Verification of Constituent Systems through Automated Proof,Richard Payne,cs.SE,http://arxiv.org/pdf/1404.7792v2
+1404.7814v1,2014-04-30T17:57:44Z,A tlm-based platform to specify and verify component-based real-time   systems,Zolfy Lighvan Mina,cs.SE,http://arxiv.org/pdf/1404.7814v1
+1405.0319v2,2014-05-01T22:43:21Z,On Formalisms for Dynamic Reconfiguration of Dependable Systems,Manuel Mazzara,cs.SE,http://arxiv.org/pdf/1405.0319v2
+1405.0325v2,2014-05-01T23:56:30Z,Big Data in Critical Infrastructures Security Monitoring: Challenges and   Opportunities,S. Russo,cs.SE,http://arxiv.org/pdf/1405.0325v2
+1405.0327v1,2014-05-02T00:35:04Z,Big Data Analytics for QoS Prediction Through Probabilistic Model   Checking,Luigi Romano,cs.SE,http://arxiv.org/pdf/1405.0327v1
+1405.0554v1,2014-05-03T05:06:29Z,Proceedings Third International Workshop on Engineering Safety and   Security Systems,Yang Liu,cs.SE,http://arxiv.org/pdf/1405.0554v1
+1405.0650v1,2014-05-04T05:45:59Z,Configuration in ERP SaaS Multi-Tenancy,Djamal Ziani,cs.SE,http://arxiv.org/pdf/1405.0650v1
+1405.0773v2,2014-05-05T03:42:37Z,Simplification of Training Data for Cross-Project Defect Prediction,Yutao Ma,cs.SE,http://arxiv.org/pdf/1405.0773v2
+1405.0786v1,2014-05-05T06:22:08Z,Fault Localization in a Software Project using Back-Tracking Principles   of Matrix Dependency,Ramani S,cs.SE,http://arxiv.org/pdf/1405.0786v1
+1405.1113v1,2014-05-06T00:53:32Z,Formal Safety and Security Assessment of an Avionic Architecture with   Alloy,Frédérique Vallée,cs.SE,http://arxiv.org/pdf/1405.1113v1
+1405.1131v2,2014-05-06T02:32:41Z,Analyzing the Non-Functional Requirements in the Desharnais Dataset for   Software Effort Estimation,Danny Ho,cs.SE,http://arxiv.org/pdf/1405.1131v2
+1405.1505v1,2014-05-07T04:47:31Z,System Software: Concepts and Approach,Dr. Manju Kaushik,cs.SE,http://arxiv.org/pdf/1405.1505v1
+1405.1512v1,2014-05-07T06:07:35Z,Stream processing components: Isabelle/HOL formalisation and case   studies,Maria Spichkova,cs.SE,http://arxiv.org/pdf/1405.1512v1
+1405.1873v1,2014-05-08T10:49:43Z,Change Management and Version Control of Scientific Applications,Anastas Misev,cs.SE,http://arxiv.org/pdf/1405.1873v1
+1405.2066v1,2014-05-08T19:48:33Z,How and When to Flatten Java Classes?,Jehad Al Dallal,cs.SE,http://arxiv.org/pdf/1405.2066v1
+1405.2918v1,2014-05-12T16:43:43Z,Autotuning and Self-Adaptability in Concurrency Libraries,Walter F. Tichy,cs.SE,http://arxiv.org/pdf/1405.2918v1
+1405.2986v1,2014-05-12T22:15:14Z,Semantic Support for Log Analysis of Safety-Critical Embedded Systems,Massimo Ficco,cs.SE,http://arxiv.org/pdf/1405.2986v1
+1405.2998v2,2014-05-12T23:42:30Z,The Tenth European Dependable Computer Conference,Marc-Olivier Killijian,cs.SE,http://arxiv.org/pdf/1405.2998v2
+1405.3017v1,2014-05-13T02:48:01Z,Formalisation and Analysis of Component Dependencies,Maria Spichkova,cs.SE,http://arxiv.org/pdf/1405.3017v1
+1405.3496v1,2014-05-14T13:42:37Z,Current Concepts in Version Control Systems,Petr Baudiš,cs.SE,http://arxiv.org/pdf/1405.3496v1
+1405.3724v1,2014-05-15T02:05:56Z,Integration of Inter-Connectivity of Information System (i3) using Web   Services,Ali Hassan Sodhro,cs.SE,http://arxiv.org/pdf/1405.3724v1
+1405.4399v1,2014-05-17T14:04:18Z,An Efficient Binary Technique for Trace Simplifications of Concurrent   Programs,Mohammad N. Alanazi,cs.SE,http://arxiv.org/pdf/1405.4399v1
+1405.4422v2,2014-05-17T18:05:21Z,"Software developers, moods, emotions, and performance",Pekka Abrahamsson,cs.SE,http://arxiv.org/pdf/1405.4422v2
+1405.4824v1,2014-05-19T18:19:32Z,Measuring Cost of Quality (CoQ) on SDLC Projects is Indispensible for   Effective Software Quality Assurance,M. M. Sufyan Beg,cs.SE,http://arxiv.org/pdf/1405.4824v1
+1405.5003v2,2014-05-20T09:12:41Z,Formal Consistency Checking over Specifications in Natural Languages,Yesheng Chai,cs.SE,http://arxiv.org/pdf/1405.5003v2
+1405.6179v1,2014-02-06T08:28:09Z,Metrics for BPEL Process Reusability Analysis in a Workflow System,R. Ranjan,cs.SE,http://arxiv.org/pdf/1405.6179v1
+1405.6335v1,2014-05-24T19:16:42Z,Application of Sizing Estimation Techniques for Business Critical   Software Project Management,M. M. Sufyan Beg,cs.SE,http://arxiv.org/pdf/1405.6335v1
+1405.6817v1,2014-05-27T07:05:04Z,Kevoree Modeling Framework (KMF): Efficient modeling techniques for   runtime use,Jean-Marc Jézéquel,cs.SE,http://arxiv.org/pdf/1405.6817v1
+1407.0063v2,2014-06-30T21:30:34Z,Toward Software Measurement and Quality Analysis of MARF and GIPSY Case   Studies a Team 13 SOEN6611-S14 Project Report,Zakaria Nasereldine,cs.SE,http://arxiv.org/pdf/1407.0063v2
+1407.0927v1,2014-07-03T14:08:57Z,Modelling an Aircraft Landing System in Event-B (Full Report),Neeraj Kumar Singh,cs.SE,http://arxiv.org/pdf/1407.0927v1
+1407.1063v1,2014-07-03T21:12:35Z,"CBM-Of-TRaCE: An Ontology-Driven Framework for the Improvement of   Business Service Traceability, Consistency Management and Reusability",Nima Karimpour Darav,cs.SE,http://arxiv.org/pdf/1407.1063v1
+1407.1257v1,2014-07-04T15:01:28Z,Usage of Optimal Restructuring Plan in Detection of Code Smells,T. Pandiyavathi,cs.SE,http://arxiv.org/pdf/1407.1257v1
+1407.1328v1,2014-07-04T21:06:35Z,"Toward Software Measurement and Quality Analysis of MARF and GIPSY Case   Studies, a Team 8 SOEN6611-S14 Project Report",Suman Alungh,cs.SE,http://arxiv.org/pdf/1407.1328v1
+1407.2077v1,2014-07-08T13:34:27Z,A Cyber-Physical System-based Approach for Industrial Automation Systems,Kleanthis Thramboulidis,cs.SE,http://arxiv.org/pdf/1407.2077v1
+1407.2330v1,2014-07-09T01:10:33Z,Synthetic Minority Over-sampling TEchnique(SMOTE) for Predicting   Software Build Outcomes,Andy M. Connor,cs.SE,http://arxiv.org/pdf/1407.2330v1
+1407.2541v1,2014-07-09T15:56:21Z,Mining Software Metrics from Jazz,Russel Pears,cs.SE,http://arxiv.org/pdf/1407.2541v1
+1407.3063v1,2014-07-11T08:25:37Z,The Need for a Versioned Data Analysis Software Environment,René Meusel,cs.SE,http://arxiv.org/pdf/1407.3063v1
+1407.3091v1,2014-07-11T10:03:39Z,UCov: a User-Defined Coverage Criterion for Test Case Intent   Verification,Wes Masri,cs.SE,http://arxiv.org/pdf/1407.3091v1
+1407.3347v1,2014-07-12T05:47:14Z,Case Study Of GIPSY and MARF,Renuka Milkoori,cs.SE,http://arxiv.org/pdf/1407.3347v1
+1407.3891v1,2014-07-15T06:40:40Z,Experience using Coloured Petri Nets to Model Railway Interlocking   Tables,Somsak Vanit-Anunchai,cs.SE,http://arxiv.org/pdf/1407.3891v1
+1407.4106v2,2014-07-15T19:38:51Z,Building Sustainable Software - The CSDMS Approach,James P. M. Syvitski,cs.SE,http://arxiv.org/pdf/1407.4106v2
+1407.4266v1,2014-07-16T11:52:02Z,Web API Fragility: How Robust is Your Web API Client,Hans-Gerhard Gross,cs.SE,http://arxiv.org/pdf/1407.4266v1
+1407.4607v1,2014-07-17T09:16:07Z,Leveraging Time Distortion for seamless Navigation into Data Space-Time   Continuum,Brice Morin,cs.SE,http://arxiv.org/pdf/1407.4607v1
+1407.4903v1,2014-07-18T07:50:52Z,An Analysis of Research in Software Engineering: Assessment and Trends,Yutao Ma,cs.SE,http://arxiv.org/pdf/1407.4903v1
+1407.5286v4,2014-07-20T13:18:21Z,"Inferring Loop Invariants by Mutation, Dynamic Analysis, and Static   Checking",Andreas Zeller,cs.SE,http://arxiv.org/pdf/1407.5286v4
+1407.5319v1,2014-07-20T18:20:37Z,Impact Analysis of Allocation of Resources by Project Manager on Success   of Software Projects,Shashi Kumar N. R,cs.SE,http://arxiv.org/pdf/1407.5319v1
+1407.5323v1,2014-07-20T18:46:47Z,A Parametric Analysis of Project Management Performance to Enhance   Software Development Process,Suma V,cs.SE,http://arxiv.org/pdf/1407.5323v1
+1407.5407v2,2014-07-21T08:10:07Z,Open-source development experiences in scientific software: the HANDE   quantum Monte Carlo project,A. J. W. Thom,cs.SE,http://arxiv.org/pdf/1407.5407v2
+1407.5456v1,2014-07-21T11:09:21Z,Research of Load Testing and Result Based on Loadrunner,Manju Kaushik,cs.SE,http://arxiv.org/pdf/1407.5456v1
+1407.5610v1,2014-07-21T19:44:33Z,TFPaaS : Test-first Performance as a Service to Cloud for Software   Testing Environment,Kazi Sakib,cs.SE,http://arxiv.org/pdf/1407.5610v1
+1407.5648v2,2014-07-21T20:08:50Z,Code Review For and By Scientists,Greg Wilson,cs.SE,http://arxiv.org/pdf/1407.5648v2
+1407.5701v1,2014-07-22T00:47:46Z,"Sustainable Software Ecosystems: Software Engineers, Domain Scientists,   and Engineers Collaborating for Science",Bob O'Bara,cs.SE,http://arxiv.org/pdf/1407.5701v1
+1407.6102v1,2014-07-23T03:42:33Z,Requirements engineering current practice and capability in small and   medium software development enterprises in New Zealand,Andy M. Connor,cs.SE,http://arxiv.org/pdf/1407.6102v1
+1407.6103v1,2014-07-23T03:50:22Z,An automatic architecture reconstruction and refactoring framework,Andy M. Connor,cs.SE,http://arxiv.org/pdf/1407.6103v1
+1407.6104v1,2014-07-23T03:53:21Z,Mining developer communication data streams,Russel Pears,cs.SE,http://arxiv.org/pdf/1407.6104v1
+1407.6220v3,2014-07-23T14:00:48Z,Which Sustainable Software Practices Do Scientists Find Most Useful?,Greg Wilson,cs.SE,http://arxiv.org/pdf/1407.6220v3
+1407.6655v1,2014-07-24T17:23:49Z,Contribution à la modélisation explicite des plates-formes   d'exécution pour l'IDM,Sébastien Gérard,cs.SE,http://arxiv.org/pdf/1407.6655v1
+1407.7257v1,2014-07-27T17:06:01Z,Service Level Agreement Complexity: Processing Concerns for Standalone   and Aggregate SLAs,Gregory L. Heileman,cs.SE,http://arxiv.org/pdf/1407.7257v1
+1407.7443v3,2014-07-28T15:27:10Z,Property-Driven Fence Insertion using Reorder Bounded Model Checking,Daniel Kroening,cs.SE,http://arxiv.org/pdf/1407.7443v3
+1407.8251v1,2014-07-31T01:08:44Z,Type Variability and Completeness of Interfaces in Java Applications,Osama Shata,cs.SE,http://arxiv.org/pdf/1407.8251v1
+1407.8320v1,2014-07-31T08:55:20Z,An Implementation of Web Services for Inter-Connectivity of Information   Systems,Muhammad Umer Syed,cs.SE,http://arxiv.org/pdf/1407.8320v1
+1407.8377v1,2014-07-31T12:29:26Z,"SLI, a New Metric to determine Success of a Software Project",Suma V,cs.SE,http://arxiv.org/pdf/1407.8377v1
+1507.00212v1,2015-07-01T12:50:11Z,Aspect OntoMaven - Aspect-Oriented Ontology Development and   Configuration With OntoMaven,Ralph Schaefermeier,cs.SE,http://arxiv.org/pdf/1507.00212v1
+1507.00604v2,2015-07-02T14:34:26Z,On the Popularity of GitHub Applications: A Preliminary Note,Jailton Coelho,cs.SE,http://arxiv.org/pdf/1507.00604v2
+1507.01062v1,2015-07-04T04:17:14Z,Intention-Oriented Process Model Discovery from Incident Management   Event Logs,Ashish Sureka,cs.SE,http://arxiv.org/pdf/1507.01062v1
+1507.01715v2,2015-07-07T08:56:08Z,Report on the Second Workshop on Sustainable Software for Science:   Practice and Experiences (WSSSPE2),Richard Littauer,cs.SE,http://arxiv.org/pdf/1507.01715v2
+1507.04004v1,2015-07-14T20:03:04Z,Case Management: a data set of definitions,Matheus Hauder,cs.SE,http://arxiv.org/pdf/1507.04004v1
+1507.05274v1,2015-07-19T10:45:46Z,Multi-Lingual Ontology Server (MOS) for discovering Web services,Nael Salman,cs.SE,http://arxiv.org/pdf/1507.05274v1
+1507.05654v1,2015-07-20T20:59:18Z,Business Process Mining Approaches: A Relative Comparison,Faheem Ahmed,cs.SE,http://arxiv.org/pdf/1507.05654v1
+1507.05742v1,2015-07-21T08:28:02Z,Harvesting Fix Hints in the History of Bugs,Tegawendé F. Bissyandé,cs.SE,http://arxiv.org/pdf/1507.05742v1
+1507.06260v1,2015-07-22T17:20:31Z,"Requirements Problem and Solution Concepts for Adaptive Systems   Engineering, and their Relationship to Mathematical Optimisation, Decision   Analysis, and Expected Utility Theory",Ivan Jureta,cs.SE,http://arxiv.org/pdf/1507.06260v1
+1507.06753v1,2015-07-24T06:32:55Z,Extracting State Transition Models from i* Models,Aditya Ghose,cs.SE,http://arxiv.org/pdf/1507.06753v1
+1507.06873v1,2015-07-24T15:05:27Z,Soft Skills and Software Development: A Reflection from the Software   Industry,Piers Campbell,cs.SE,http://arxiv.org/pdf/1507.06873v1
+1507.06882v1,2015-07-24T15:25:46Z,Contributors Preference in Open Source Software Usability: An Empirical   Study,Luiz Fernando Capretz,cs.SE,http://arxiv.org/pdf/1507.06882v1
+1507.06888v1,2015-07-24T15:30:07Z,Do Personality Profiles Differ in the Pakistani Software Industry and   Academia - A Case Study,Luiz Fernando Capretz,cs.SE,http://arxiv.org/pdf/1507.06888v1
+1507.06893v1,2015-07-24T15:40:01Z,Do Open Source Software Developers Listen to Their Users?,Luiz Fernando Capretz,cs.SE,http://arxiv.org/pdf/1507.06893v1
+1507.06896v1,2015-07-24T15:52:36Z,Personality Dimensions and Temperaments of Engineering Professors and   Students - A Survey,Luiz Fernando Capretz,cs.SE,http://arxiv.org/pdf/1507.06896v1
+1507.06897v1,2015-07-24T15:57:41Z,A Business Maturity Model of Software Product Line Engineering,Luiz Fernando Capretz,cs.SE,http://arxiv.org/pdf/1507.06897v1
+1507.06901v1,2015-07-24T16:03:35Z,An Architecture Process Maturity Model of Software Product Line   Engineering,Luiz Fernando Capretz,cs.SE,http://arxiv.org/pdf/1507.06901v1
+1507.06906v1,2015-07-24T16:20:16Z,Exploratory Analysis of Quality Practices in Open Source Domain,Danny Ho,cs.SE,http://arxiv.org/pdf/1507.06906v1
+1507.06917v1,2015-07-24T16:49:42Z,Improving Software Effort Estimation Using Neuro-Fuzzy Model with   SEER-SEM,Luiz Fernando Capretz,cs.SE,http://arxiv.org/pdf/1507.06917v1
+1507.06925v1,2015-07-24T17:32:44Z,An Empirical Study on the Procedure to Derive Software Quality   Estimation Models,Luiz Fernando Capretz,cs.SE,http://arxiv.org/pdf/1507.06925v1
+1507.06927v1,2015-07-24T17:39:03Z,Myths and Realities about Online Forums in Open Source Software   Development: An Empirical Study,Luiz Fernando Capretz,cs.SE,http://arxiv.org/pdf/1507.06927v1
+1507.06929v1,2015-07-24T17:42:27Z,Building an OSS Quality Estimation Model with CATREG,Luiz Fernando Capretz,cs.SE,http://arxiv.org/pdf/1507.06929v1
+1507.06934v1,2015-07-24T18:04:33Z,A Neuro-Fuzzy Model for Function Point Calibration,Luiz Fernando Capretz,cs.SE,http://arxiv.org/pdf/1507.06934v1
+1507.06941v1,2015-07-24T18:17:46Z,A Decision Support Tool for Assessing the Maturity of Software Product   Line Process,Luiz Fernando Capretz,cs.SE,http://arxiv.org/pdf/1507.06941v1
+1507.06948v1,2015-07-24T18:29:37Z,A Framework for Process Assessment of Software Product Line,Luiz Fernando Capretz,cs.SE,http://arxiv.org/pdf/1507.06948v1
+1507.06949v1,2015-07-24T18:33:41Z,C# Traceability System,Luiz Fernando Capretz,cs.SE,http://arxiv.org/pdf/1507.06949v1
+1507.06952v1,2015-07-24T18:40:32Z,Framework for Version Control & Dependency Link of Components & Products   in a Software Product Line,Luiz Fernando Capretz,cs.SE,http://arxiv.org/pdf/1507.06952v1
+1507.06959v1,2015-07-24T19:00:19Z,The Challenges of CASE Design Integration in the Telecommunication   Application Domain,Luiz Fernando Capretz,cs.SE,http://arxiv.org/pdf/1507.06959v1
+1507.07306v1,2015-07-27T06:00:09Z,Learning API Usages from Bytecode: A Statistical Approach,Tung Thanh Nguyen,cs.SE,http://arxiv.org/pdf/1507.07306v1
+1507.07908v1,2015-07-24T15:48:05Z,Addressing User Requirements in Opens Source Software: The Role of   Online Forums,Luiz Fernando Capretz,cs.SE,http://arxiv.org/pdf/1507.07908v1
+1507.07969v2,2015-07-28T21:50:06Z,TDD for Embedded Systems: A Basic Approach and Toolset,Milena Silveira de Azevedo,cs.SE,http://arxiv.org/pdf/1507.07969v2
+1507.08036v1,2015-07-29T06:59:32Z,AFDI: A Virtualization-based Accelerated Fault Diagnosis Innovation for   High Availability Computing,Yao Zhao,cs.SE,http://arxiv.org/pdf/1507.08036v1
+1507.08037v1,2015-07-29T07:02:16Z,Using Feature Models for Distributed Deployment in Extended Smart Home   Architecture,Jacques Pulou,cs.SE,http://arxiv.org/pdf/1507.08037v1
+1507.08888v1,2015-07-31T14:26:30Z,Service Dependability with Continuously Revised Assurance Cases by   Multiple Stakeholders: A Case Study,Kimio Kuramitsu,cs.SE,http://arxiv.org/pdf/1507.08888v1
+0910.0493v1,2009-10-02T21:57:54Z,From Requirements to code: an Architecture-centric Approach for   producing Quality Systems,Patrizio Pelliccione,cs.SE,http://arxiv.org/pdf/0910.0493v1
+0910.1690v1,2009-10-09T09:19:51Z,Tool-Assisted Multi-Facet Analysis of Formal Specifications (Using   Alelier-B and ProB),Christian Attiogbe,cs.SE,http://arxiv.org/pdf/0910.1690v1
+0910.1901v1,2009-10-10T06:33:39Z,Can Component/Service-Based Systems Be Proved Correct?,Christian Attiogbe,cs.SE,http://arxiv.org/pdf/0910.1901v1
+1003.1456v1,2010-03-07T11:49:16Z,A Methodology for Empirical Quality Assessment of Object-Oriented Design,M. Kumar,cs.SE,http://arxiv.org/pdf/1003.1456v1
+1003.1476v1,2010-03-07T14:14:30Z,Concurrent Approach to Flynn's SPMD Classification through Java,Bala Dhandayuthapani Veerasamy,cs.SE,http://arxiv.org/pdf/1003.1476v1
+1003.1682v1,2010-03-08T17:22:31Z,An Entry Point for Formal Methods: Specification and Analysis of Event   Logs,Margaret Smith,cs.SE,http://arxiv.org/pdf/1003.1682v1
+1003.1741v2,2010-03-08T22:05:18Z,Formalization and Validation of Safety-Critical Requirements,Stefano Tonetta,cs.SE,http://arxiv.org/pdf/1003.1741v2
+1003.3330v1,2010-03-17T09:25:21Z,Cloud Process Execution Engine - Evaluation of the Core Concepts,Erich Schikuta,cs.SE,http://arxiv.org/pdf/1003.3330v1
+1003.3338v1,2010-03-17T09:58:33Z,An Algebraic Formalization of the GoF Design Patterns,Juan de Lara,cs.SE,http://arxiv.org/pdf/1003.3338v1
+1003.3880v2,2010-03-19T20:09:53Z,Lessons from the Failure and Subsequent Success of a Complex Healthcare   Sector IT Project,Ian Sommerville,cs.SE,http://arxiv.org/pdf/1003.3880v2
+1003.4077v2,2010-03-22T06:27:17Z,Mapping The Best Practices of XP and Project Management: Well defined   approach for Project Manager,Shakeel Ahmad,cs.SE,http://arxiv.org/pdf/1003.4077v2
+1003.5777v1,2010-03-30T09:57:26Z,Specifying Reusable Components,Bertrand Meyer,cs.SE,http://arxiv.org/pdf/1003.5777v1
+1005.0162v2,2010-05-02T20:00:42Z,Software Requirements Specification of the IUfA's UUIS -- a Team 4   COMP5541-W10 Project Approach,Yu Ming Zhang,cs.SE,http://arxiv.org/pdf/1005.0162v2
+1005.0169v1,2010-05-02T22:15:33Z,"Software Design Document, Testing, Deployment and Configuration   Management, and User Manual of the UUIS -- a Team 4 COMP5541-W10 Project   Approach",Abdulrahman Al-Sharawi,cs.SE,http://arxiv.org/pdf/1005.0169v1
+1005.0330v1,2010-05-03T15:57:09Z,Software Requirements Specification of the IUfA's UUIS -- a Team 1   COMP5541-W10 Project Approach,Rana Hassan,cs.SE,http://arxiv.org/pdf/1005.0330v1
+1005.0595v1,2010-05-04T17:54:20Z,"Software Design Document, Testing, and Deployment and Configuration   Management of the UUIS - a Team 1 COMP5541-W10 Project Approach",Rana Hassan,cs.SE,http://arxiv.org/pdf/1005.0595v1
+1005.0609v1,2010-05-04T19:07:27Z,Software Requirements Specification of the IUfA's UUIS -- a Team 3   COMP5541-W10 Project Approach,Yassine Amaiche,cs.SE,http://arxiv.org/pdf/1005.0609v1
+1005.0665v2,2010-05-05T04:16:21Z,"Software Design Document, Testing, Deployment and Configuration   Management of the UUIS--a Team 2 COMP5541-W10 Project Approach",Yongxin Zhu,cs.SE,http://arxiv.org/pdf/1005.0665v2
+1005.0783v2,2010-05-05T15:59:50Z,Software Requirements Specification of the IUfA's UUIS -- a Team 2   COMP5541-W10 Project Approach,Yongxin Zhu,cs.SE,http://arxiv.org/pdf/1005.0783v2
+1005.0854v1,2010-05-05T21:01:35Z,"Software Design Document, Testing, Deployment and Configuration   Management of the IUfA's UUIS -- a Team 3 COMP5541-W10 Project Approach",René Toutant,cs.SE,http://arxiv.org/pdf/1005.0854v1
+1005.2299v1,2010-05-13T11:18:41Z,Incorporating prediction models in the SelfLet framework: a plugin   approach,Elisabetta Di Nitto,cs.SE,http://arxiv.org/pdf/1005.2299v1
+1005.2882v1,2010-05-17T11:15:17Z,On Testing Constraint Programs,Lebbah Yahia,cs.SE,http://arxiv.org/pdf/1005.2882v1
+1005.4021v3,2010-05-21T17:33:44Z,Software Effort Estimation using Radial Basis and Generalized Regression   Neural Networks,S. N. S. V. S. C. Ramesh,cs.SE,http://arxiv.org/pdf/1005.4021v3
+1005.4123v1,2010-05-22T12:39:27Z,"A Structured Framework for Assessing the ""Goodness"" of Agile Methods",James. D. Arthur,cs.SE,http://arxiv.org/pdf/1005.4123v1
+1005.4271v1,2010-05-24T07:45:33Z,Selection of Architecture Styles using Analytic Network Process for the   Optimization of Software Architecture,A. N. Aruna Kumari,cs.SE,http://arxiv.org/pdf/1005.4271v1
+1005.4363v1,2010-05-24T15:45:10Z,A model for semantic integration of business components,Abderrahim Sekkaki,cs.SE,http://arxiv.org/pdf/1005.4363v1
+1005.4525v1,2010-05-25T10:23:38Z,Towards an architecture for semantic integration of business components,Abderrahim Sekkaki,cs.SE,http://arxiv.org/pdf/1005.4525v1
+1005.4975v1,2010-05-27T01:08:58Z,Filling the Gap between Business Process Modeling and Behavior Driven   Development,Fernando Luis de Carvalho e Silva,cs.SE,http://arxiv.org/pdf/1005.4975v1
+1006.1182v1,2010-06-07T06:36:53Z,A Parsing Scheme for Finding the Design Pattern and Reducing the   Development Cost of Reusable Object Oriented Software,Mohammad Sabbir Hasan,cs.SE,http://arxiv.org/pdf/1006.1182v1
+1006.1244v1,2010-06-07T12:44:06Z,Exploring the Impact of Socio-Technical Core-Periphery Structures in   Open Source Software Development,Jos van Hillegersberg,cs.SE,http://arxiv.org/pdf/1006.1244v1
+1006.1683v1,2010-06-09T02:16:17Z,Object-oriented modelling with unified modelling language 2.0 for simple   software application based on agile methodology,Spits Warnars,cs.SE,http://arxiv.org/pdf/1006.1683v1

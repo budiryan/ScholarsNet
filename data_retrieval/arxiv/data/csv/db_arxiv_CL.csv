@@ -1,0 +1,1000 @@
+cs/9809020v1,1998-09-15T23:49:32Z,Linear Segmentation and Segment Significance,Kathleen R. McKeown,cs.CL,http://arxiv.org/pdf/cs/9809020v1
+cs/9809022v1,1998-09-17T11:10:14Z,"Modelling Users, Intentions, and Structure in Spoken Dialog",Heinrich Niemann,cs.CL,http://arxiv.org/pdf/cs/9809022v1
+cs/9809024v2,1998-09-18T00:33:47Z,A Lexicalized Tree Adjoining Grammar for English,XTAG Research Group,cs.CL,http://arxiv.org/pdf/cs/9809024v2
+cs/9809026v1,1998-09-18T03:45:45Z,Prefix Probabilities from Stochastic Tree Adjoining Grammars,Giorgio Satta,cs.CL,http://arxiv.org/pdf/cs/9809026v1
+cs/9809027v1,1998-09-18T03:58:57Z,Conditions on Consistency of Probabilistic Tree Adjoining Grammars,Anoop Sarkar,cs.CL,http://arxiv.org/pdf/cs/9809027v1
+cs/9809028v1,1998-09-18T04:44:02Z,Separating Dependency from Constituency in a Tree Rewriting System,Anoop Sarkar,cs.CL,http://arxiv.org/pdf/cs/9809028v1
+cs/9809029v1,1998-09-18T05:03:48Z,Incremental Parser Generation for Tree Adjoining Grammars,Anoop Sarkar,cs.CL,http://arxiv.org/pdf/cs/9809029v1
+cs/9809050v1,1998-09-23T12:59:39Z,"A Freely Available Morphological Analyzer, Disambiguator and Context   Sensitive Lemmatizer for German",Manfred Wettler,cs.CL,http://arxiv.org/pdf/cs/9809050v1
+cs/9809106v1,1998-09-25T11:02:08Z,Processing Unknown Words in HPSG,Markus Walther,cs.CL,http://arxiv.org/pdf/cs/9809106v1
+cs/9809107v1,1998-09-25T14:32:38Z,Computing Declarative Prosodic Morphology,Markus Walther,cs.CL,http://arxiv.org/pdf/cs/9809107v1
+cs/9809112v1,1998-09-28T07:49:11Z,On the Evaluation and Comparison of Taggers: The Effect of Noise in   Testing Corpora,L. Marquez,cs.CL,http://arxiv.org/pdf/cs/9809112v1
+cs/9809113v1,1998-09-28T07:50:55Z,Improving Tagging Performance by Using Voting Taggers,H. Rodriguez,cs.CL,http://arxiv.org/pdf/cs/9809113v1
+cs/9810014v1,1998-10-13T20:33:05Z,Resources for Evaluation of Summarization Techniques,Susan Lee,cs.CL,http://arxiv.org/pdf/cs/9810014v1
+cs/9810015v1,1998-10-13T21:17:13Z,Restrictions on Tree Adjoining Languages,William Schuler,cs.CL,http://arxiv.org/pdf/cs/9810015v1
+cs/9811008v1,1998-11-02T21:29:41Z,Translating near-synonyms: Possibilities and preferences in the   interlingua,Philip Edmonds,cs.CL,http://arxiv.org/pdf/cs/9811008v1
+cs/9811009v1,1998-11-02T23:06:19Z,Choosing the Word Most Typical in Context Using a Lexical Co-occurrence   Network,Philip Edmonds,cs.CL,http://arxiv.org/pdf/cs/9811009v1
+cs/9811016v1,1998-11-11T11:06:34Z,Comparing a statistical and a rule-based tagger for German,Gerold Schneider,cs.CL,http://arxiv.org/pdf/cs/9811016v1
+cs/9811022v2,1998-11-12T17:31:17Z,Expoiting Syntactic Structure for Language Modeling,Frederick Jelinek,cs.CL,http://arxiv.org/pdf/cs/9811022v2
+cs/9811025v2,1998-11-13T16:53:15Z,A Structured Language Model,Ciprian Chelba,cs.CL,http://arxiv.org/pdf/cs/9811025v2
+cs/9812001v3,1998-12-01T11:43:32Z,A Probabilistic Approach to Lexical Semantic Knowledge Acquisition and S   tructural Disambiguation,Hang LI,cs.CL,http://arxiv.org/pdf/cs/9812001v3
+cs/9812005v1,1998-12-04T16:16:35Z,Optimal Multi-Paragraph Text Segmentation by Dynamic Programming,Oskari Heinonen,cs.CL,http://arxiv.org/pdf/cs/9812005v1
+cs/9812018v1,1998-12-16T16:37:01Z,A Flexible Shallow Approach to Text Generation,Helmut Horacek,cs.CL,http://arxiv.org/pdf/cs/9812018v1
+cs/9901005v1,1999-01-13T17:37:00Z,An Empirical Approach to Temporal Reference Resolution (journal version),Kenneth K. McKeever,cs.CL,http://arxiv.org/pdf/cs/9901005v1
+cs/9902001v1,1999-01-31T18:57:45Z,Compacting the Penn Treebank Grammar,Yorick Wilks,cs.CL,http://arxiv.org/pdf/cs/9902001v1
+cs/9902029v1,1999-02-25T14:41:24Z,"The ""Fodor""-FODOR fallacy bites back",Yorick Wilks,cs.CL,http://arxiv.org/pdf/cs/9902029v1
+cs/9902030v1,1999-02-25T14:41:32Z,Is Word Sense Disambiguation just one more NLP task?,Yorick Wilks,cs.CL,http://arxiv.org/pdf/cs/9902030v1
+cs/9903003v1,1999-03-02T12:30:55Z,A Formal Framework for Linguistic Annotation,Mark Liberman,cs.CL,http://arxiv.org/pdf/cs/9903003v1
+cs/9903008v1,1999-03-05T22:03:13Z,Empirically Evaluating an Adaptable Spoken Dialogue System,Shimei Pan,cs.CL,http://arxiv.org/pdf/cs/9903008v1
+cs/9904008v1,1999-04-15T14:00:41Z,Transducers from Rewrite Rules with Backreferences,Gertjan van Noord,cs.CL,http://arxiv.org/pdf/cs/9904008v1
+cs/9904009v1,1999-04-15T16:03:27Z,An ascription-based approach to speech acts,Yorick Wilks,cs.CL,http://arxiv.org/pdf/cs/9904009v1
+cs/9904018v1,1999-04-24T23:45:26Z,A Computational Memory and Processing Model for Processing,Janet E. Cahn,cs.CL,http://arxiv.org/pdf/cs/9904018v1
+cs/9905001v1,1999-05-02T20:48:21Z,Supervised Grammar Induction Using Training Data with Limited   Constituent Information,Rebecca Hwa,cs.CL,http://arxiv.org/pdf/cs/9905001v1
+cs/9906003v1,1999-06-02T12:03:14Z,The syntactic processing of particles in Japanese spoken language,Melanie Siegel,cs.CL,http://arxiv.org/pdf/cs/9906003v1
+cs/9906009v1,1999-06-06T17:36:34Z,Cascaded Markov Models,Thorsten Brants,cs.CL,http://arxiv.org/pdf/cs/9906009v1
+cs/9906014v1,1999-06-14T10:06:31Z,Evaluation of the NLP Components of the OVIS2 Spoken Dialogue System,Remko Bonnema,cs.CL,http://arxiv.org/pdf/cs/9906014v1
+cs/9906015v1,1999-06-14T22:06:24Z,Learning Transformation Rules to Find Grammatical Relations,Alexander Yeh,cs.CL,http://arxiv.org/pdf/cs/9906015v1
+cs/9906020v1,1999-06-22T08:28:26Z,Temporal Meaning Representations in a Natural Language Front-End,I. Androutsopoulos,cs.CL,http://arxiv.org/pdf/cs/9906020v1
+cs/9906025v1,1999-06-24T16:56:45Z,Mapping Multilingual Hierarchies Using Relaxation Labeling,G. Rigau,cs.CL,http://arxiv.org/pdf/cs/9906025v1
+cs/9906026v1,1999-06-25T08:16:23Z,Robust Grammatical Analysis for Spoken Dialogue Systems,Mark-Jan Nederhof,cs.CL,http://arxiv.org/pdf/cs/9906026v1
+cs/9906034v1,1999-06-30T23:06:09Z,A Unified Example-Based and Lexicalist Approach to Machine Translation,Janine Toole,cs.CL,http://arxiv.org/pdf/cs/9906034v1
+cs/9907003v1,1999-07-05T14:51:26Z,Annotation graphs as a framework for multidimensional linguistic data   analysis,Mark Liberman,cs.CL,http://arxiv.org/pdf/cs/9907003v1
+cs/9907006v1,1999-07-06T12:44:20Z,Representing Text Chunks,Jorn Veenstra,cs.CL,http://arxiv.org/pdf/cs/9907006v1
+cs/9907007v2,1999-07-06T16:25:46Z,Cross-Language Information Retrieval for Technical Documents,Tetsuya Ishikawa,cs.CL,http://arxiv.org/pdf/cs/9907007v2
+cs/9907008v1,1999-07-06T18:35:41Z,Explanation-based Learning for Machine Translation,Paul McFetridge,cs.CL,http://arxiv.org/pdf/cs/9907008v1
+cs/9907010v1,1999-07-07T09:28:40Z,Language Identification With Confidence Limits,David Elworthy,cs.CL,http://arxiv.org/pdf/cs/9907010v1
+cs/9907012v1,1999-07-08T09:46:37Z,Selective Magic HPSG Parsing,Guido Minnen,cs.CL,http://arxiv.org/pdf/cs/9907012v1
+cs/9907013v1,1999-07-08T10:08:59Z,Corpus Annotation for Parser Evaluation,Ted Briscoe,cs.CL,http://arxiv.org/pdf/cs/9907013v1
+cs/9907017v1,1999-07-09T22:39:52Z,A Bootstrap Approach to Automatically Generating Lexical Transfer Rules,Janine Toole,cs.CL,http://arxiv.org/pdf/cs/9907017v1
+cs/9907021v1,1999-07-14T09:21:16Z,Architectural Considerations for Conversational Systems -- The   Verbmobil/INTARC Experience,Hans Weber,cs.CL,http://arxiv.org/pdf/cs/9907021v1
+cs/9908001v1,1999-08-01T14:02:57Z,Detecting Sub-Topic Correspondence through Bipartite Term Clustering,Eli Shamir,cs.CL,http://arxiv.org/pdf/cs/9908001v1
+cs/9909002v1,1999-09-02T15:53:07Z,Semantic robust parsing for noun extraction from natural language   queries,Vincenzo Pallotta,cs.CL,http://arxiv.org/pdf/cs/9909002v1
+cs/9910020v1,1999-10-23T11:19:35Z,Selective Sampling for Example-based Word Sense Disambiguation,Hozumi Tanaka,cs.CL,http://arxiv.org/pdf/cs/9910020v1
+cs/9910022v1,1999-10-25T15:00:52Z,Practical experiments with regular approximation of context-free   languages,Mark-Jan Nederhof,cs.CL,http://arxiv.org/pdf/cs/9910022v1
+cs/9911006v1,1999-11-15T05:48:03Z,Question Answering System Using Syntactic Information,H. Isahara,cs.CL,http://arxiv.org/pdf/cs/9911006v1
+cs/9911011v1,1999-11-19T16:10:51Z,One-Level Prosodic Morphology,Markus Walther,cs.CL,http://arxiv.org/pdf/cs/9911011v1
+cs/9912003v1,1999-12-13T04:42:25Z,Resolution of Indirect Anaphora in Japanese Sentences Using Examples 'X   no Y (Y of X)',M. Nagao,cs.CL,http://arxiv.org/pdf/cs/9912003v1
+cs/9912004v1,1999-12-13T04:46:20Z,Pronoun Resolution in Japanese Sentences Using Surface Expressions and   Examples,M. Nagao,cs.CL,http://arxiv.org/pdf/cs/9912004v1
+cs/9912005v1,1999-12-13T05:20:40Z,An Estimate of Referent of Noun Phrases in Japanese Sentences,M. Nagao,cs.CL,http://arxiv.org/pdf/cs/9912005v1
+cs/9912006v1,1999-12-13T05:19:46Z,Resolution of Verb Ellipsis in Japanese Sentence using Surface   Expressions and Examples,M. Nagao,cs.CL,http://arxiv.org/pdf/cs/9912006v1
+cs/9912007v1,1999-12-13T06:01:19Z,"An Example-Based Approach to Japanese-to-English Translation of Tense,   Aspect, and Modality",H. Isahara,cs.CL,http://arxiv.org/pdf/cs/9912007v1
+cs/9912009v1,1999-12-15T11:02:22Z,Deduction over Mixed-Level Logic Representations for Text Passage   Retrieval,Michael Hess,cs.CL,http://arxiv.org/pdf/cs/9912009v1
+cs/9912017v1,1999-12-23T15:48:26Z,Mixed-Level Knowledge Representation and Variable-Depth Inference in   Natural Language Processing,Michael Hess,cs.CL,http://arxiv.org/pdf/cs/9912017v1
+cs/0001010v1,2000-01-14T16:01:31Z,A Real World Implementation of Answer Extraction,M. Hess,cs.CL,http://arxiv.org/pdf/cs/0001010v1
+cs/0001012v1,2000-01-18T23:19:22Z,Measures of Distributional Similarity,Lillian Lee,cs.CL,http://arxiv.org/pdf/cs/0001012v1
+cs/0001020v1,2000-01-24T20:18:16Z,Exploiting Syntactic Structure for Natural Language Modeling,Ciprian Chelba,cs.CL,http://arxiv.org/pdf/cs/0001020v1
+cs/0001021v1,2000-01-24T20:55:17Z,Refinement of a Structured Language Model,Frederick Jelinek,cs.CL,http://arxiv.org/pdf/cs/0001021v1
+cs/0001022v1,2000-01-24T21:18:37Z,Recognition Performance of a Structured Language Model,Frederick Jelinek,cs.CL,http://arxiv.org/pdf/cs/0001022v1
+cs/0001023v1,2000-01-25T19:35:01Z,Structured Language Modeling for Speech Recognition,Frederick Jelinek,cs.CL,http://arxiv.org/pdf/cs/0001023v1
+cs/0002007v1,2000-02-11T19:17:18Z,Requirements of Text Processing Lexicons,K. Litkowski,cs.CL,http://arxiv.org/pdf/cs/0002007v1
+cs/0002017v1,2000-02-27T04:09:59Z,An Usage Measure Based on Psychophysical Relations,V. Kromer,cs.CL,http://arxiv.org/pdf/cs/0002017v1
+cs/0003055v1,2000-03-13T09:55:08Z,TnT - A Statistical Part-of-Speech Tagger,Thorsten Brants,cs.CL,http://arxiv.org/pdf/cs/0003055v1
+cs/0003060v1,2000-03-14T13:09:28Z,Message Classification in the Call Center,Roman G. Arens,cs.CL,http://arxiv.org/pdf/cs/0003060v1
+cs/0003074v1,2000-03-23T11:29:15Z,A Finite State and Data-Oriented Method for Grapheme to Phoneme   Conversion,Gosse Bouma,cs.CL,http://arxiv.org/pdf/cs/0003074v1
+cs/0003081v1,2000-03-29T16:35:58Z,Variable Word Rate N-grams,Steve Renals,cs.CL,http://arxiv.org/pdf/cs/0003081v1
+cs/0003083v1,2000-03-30T16:56:02Z,Advances in domain independent linear text segmentation,Freddy Y. Y. Choi,cs.CL,http://arxiv.org/pdf/cs/0003083v1
+cs/0003084v1,2000-03-30T16:52:50Z,Information Extraction from Broadcast News,Steve Renals,cs.CL,http://arxiv.org/pdf/cs/0003084v1
+cs/0004016v1,2000-04-28T03:18:09Z,Looking at discourse in a corpus: The role of lexical cohesion,Tony Berber Sardinha,cs.CL,http://arxiv.org/pdf/cs/0004016v1
+cs/0005006v1,2000-05-07T00:15:59Z,A Simple Approach to Building Ensembles of Naive Bayesian Classifiers   for Word Sense Disambiguation,Ted Pedersen,cs.CL,http://arxiv.org/pdf/cs/0005006v1
+cs/0005015v1,2000-05-10T11:58:12Z,Noun Phrase Recognition by System Combination,Erik F. Tjong Kim Sang,cs.CL,http://arxiv.org/pdf/cs/0005015v1
+cs/0005016v1,2000-05-10T14:51:14Z,Improving Testsuites via Instrumentation,Norbert Broeker,cs.CL,http://arxiv.org/pdf/cs/0005016v1
+cs/0005019v1,2000-05-12T14:12:15Z,"On the Scalability of the Answer Extraction System ""ExtrAns""",Michael Hess,cs.CL,http://arxiv.org/pdf/cs/0005019v1
+cs/0005025v1,2000-05-22T14:07:28Z,Finite-State Reduplication in One-Level Prosodic Morphology,Markus Walther,cs.CL,http://arxiv.org/pdf/cs/0005025v1
+cs/0005029v1,2000-05-30T17:10:33Z,Ranking suspected answers to natural language questions using predictive   annotation,Valerie Samn,cs.CL,http://arxiv.org/pdf/cs/0005029v1
+cs/0006003v1,2000-06-01T18:42:24Z,Exploiting Diversity in Natural Language Processing: Combining Parsers,Eric Brill,cs.CL,http://arxiv.org/pdf/cs/0006003v1
+cs/0006011v1,2000-06-05T18:04:51Z,Bagging and Boosting a Treebank Parser,Eric Brill,cs.CL,http://arxiv.org/pdf/cs/0006011v1
+cs/0006012v1,2000-06-05T21:33:03Z,Exploiting Diversity for Natural Language Parsing,John C. Henderson,cs.CL,http://arxiv.org/pdf/cs/0006012v1
+cs/0006017v1,2000-06-09T17:28:40Z,Turning Speech Into Scripts,Frankie James,cs.CL,http://arxiv.org/pdf/cs/0006017v1
+cs/0006019v1,2000-06-09T21:41:54Z,A Compact Architecture for Dialogue Management Based on Scripts and   Meta-Outputs,Frankie James,cs.CL,http://arxiv.org/pdf/cs/0006019v1
+cs/0006020v1,2000-06-09T20:49:03Z,A Comparison of the XTAG and CLE Grammars for English,Frankie James,cs.CL,http://arxiv.org/pdf/cs/0006020v1
+cs/0006021v1,2000-06-09T22:03:10Z,Compiling Language Models from a Linguistically Motivated Unification   Grammar,Mark Gawron,cs.CL,http://arxiv.org/pdf/cs/0006021v1
+cs/0006023v2,2000-06-11T06:06:10Z,Dialogue Act Modeling for Automatic Tagging and Recognition of   Conversational Speech,M. Meteer,cs.CL,http://arxiv.org/pdf/cs/0006023v2
+cs/0006024v1,2000-06-11T06:00:11Z,Can Prosody Aid the Automatic Classification of Dialog Acts in   Conversational Speech?,C. Van Ess-Dykema,cs.CL,http://arxiv.org/pdf/cs/0006024v1
+cs/0006025v1,2000-06-11T18:20:20Z,Entropy-based Pruning of Backoff Language Models,A. Stolcke,cs.CL,http://arxiv.org/pdf/cs/0006025v1
+cs/0006028v1,2000-06-13T21:06:27Z,Trainable Methods for Surface Natural Language Generation,Adwait Ratnaparkhi,cs.CL,http://arxiv.org/pdf/cs/0006028v1
+cs/0006036v1,2000-06-27T04:39:57Z,Prosody-Based Automatic Segmentation of Speech into Sentences and Topics,G. Tur,cs.CL,http://arxiv.org/pdf/cs/0006036v1
+cs/0006038v1,2000-06-28T10:06:02Z,Approximation and Exactness in Finite State Optimality Theory,Gertjan van Noord,cs.CL,http://arxiv.org/pdf/cs/0006038v1
+cs/0006044v1,2000-06-30T13:22:33Z,Finite-State Non-Concatenative Morphotactics,Lauri Karttunen,cs.CL,http://arxiv.org/pdf/cs/0006044v1
+cs/0007009v1,2000-07-06T14:15:26Z,Incremental construction of minimal acyclic finite-state automata,Richard Watson,cs.CL,http://arxiv.org/pdf/cs/0007009v1
+cs/0007018v1,2000-07-13T12:46:00Z,Bootstrapping a Tagged Corpus through Combination of Existing   Heterogeneous Taggers,Walter Daelemans,cs.CL,http://arxiv.org/pdf/cs/0007018v1
+cs/0007022v1,2000-07-13T18:26:38Z,ATLAS: A flexible and extensible architecture for linguistic annotation,Mark Liberman,cs.CL,http://arxiv.org/pdf/cs/0007022v1
+cs/0007024v1,2000-07-13T18:51:48Z,"Many uses, many annotations for large speech corpora: Switchboard and   TDT as case studies",Steven Bird,cs.CL,http://arxiv.org/pdf/cs/0007024v1
+cs/0007031v2,2000-07-21T06:07:31Z,Parameter-free Model of Rank Polysemantic Distribution,Victor Kromer,cs.CL,http://arxiv.org/pdf/cs/0007031v2
+cs/0007035v1,2000-07-25T17:20:47Z,Mapping WordNets Using Structural Information,G. Rigau,cs.CL,http://arxiv.org/pdf/cs/0007035v1
+cs/0007036v1,2000-07-25T17:40:00Z,"Language identification of controlled systems: Modelling, control and   anomaly detection",R. Vilela Mendes,cs.CL,http://arxiv.org/pdf/cs/0007036v1
+cs/0008003v1,2000-08-07T16:06:15Z,Interfacing Constraint-Based Grammars and Generation Algorithms,Stephan Busemann,cs.CL,http://arxiv.org/pdf/cs/0008003v1
+cs/0008004v1,2000-08-08T22:42:51Z,Comparing two trainable grammatical relations finders,Alexander Yeh,cs.CL,http://arxiv.org/pdf/cs/0008004v1
+cs/0008005v1,2000-08-08T23:52:02Z,More accurate tests for the statistical significance of result   differences,Alexander Yeh,cs.CL,http://arxiv.org/pdf/cs/0008005v1
+cs/0008007v1,2000-08-10T03:21:33Z,Tagger Evaluation Given Hierarchical Tag Sets,Philip Resnik,cs.CL,http://arxiv.org/pdf/cs/0008007v1
+cs/0008012v1,2000-08-17T13:13:42Z,Applying System Combination to Base Noun Phrase Identification,Dan Roth,cs.CL,http://arxiv.org/pdf/cs/0008012v1
+cs/0008013v1,2000-08-18T12:06:36Z,Meta-Learning for Phonemic Annotation of Corpora,Steven Gillis,cs.CL,http://arxiv.org/pdf/cs/0008013v1
+cs/0008014v1,2000-08-18T13:56:10Z,Aspects of Pattern-Matching in Data-Oriented Parsing,Guy De Pauw,cs.CL,http://arxiv.org/pdf/cs/0008014v1
+cs/0008015v1,2000-08-18T16:07:17Z,Temiar Reduplication in One-Level Prosodic Morphology,Markus Walther,cs.CL,http://arxiv.org/pdf/cs/0008015v1
+cs/0008017v1,2000-08-21T19:27:18Z,Efficient probabilistic top-down and left-corner parsing,Mark Johnson,cs.CL,http://arxiv.org/pdf/cs/0008017v1
+cs/0008021v1,2000-08-22T15:16:22Z,Compact non-left-recursive grammars using the selective left-corner   transform and factoring,Brian Roark,cs.CL,http://arxiv.org/pdf/cs/0008021v1
+cs/0008023v1,2000-08-23T07:38:22Z,Selectional Restrictions in HPSG,Robert Dale,cs.CL,http://arxiv.org/pdf/cs/0008023v1
+cs/0008024v1,2000-08-23T12:38:08Z,Estimation of Stochastic Attribute-Value Grammars using an Informative   Sample,Miles Osborne,cs.CL,http://arxiv.org/pdf/cs/0008024v1
+cs/0008026v1,2000-08-24T13:28:25Z,Noun-phrase co-occurrence statistics for semi-automatic semantic lexicon   construction,Eugene Charniak,cs.CL,http://arxiv.org/pdf/cs/0008026v1
+cs/0008027v1,2000-08-24T16:38:53Z,"Measuring efficiency in high-accuracy, broad-coverage statistical   parsing",Eugene Charniak,cs.CL,http://arxiv.org/pdf/cs/0008027v1
+cs/0008028v1,2000-08-25T17:23:07Z,Estimators for Stochastic ``Unification-Based'' Grammars,Stefan Riezler,cs.CL,http://arxiv.org/pdf/cs/0008028v1
+cs/0008029v1,2000-08-25T17:31:53Z,Exploiting auxiliary distributions in stochastic unification-based   grammars,Stefan Riezler,cs.CL,http://arxiv.org/pdf/cs/0008029v1
+cs/0008030v1,2000-08-28T08:10:14Z,Metonymy Interpretation Using X NO Y Examples,Hitoshi Isahara,cs.CL,http://arxiv.org/pdf/cs/0008030v1
+cs/0008031v1,2000-08-28T08:17:18Z,Bunsetsu Identification Using Category-Exclusive Rules,Hitoshi Isahara,cs.CL,http://arxiv.org/pdf/cs/0008031v1
+cs/0008032v1,2000-08-28T08:27:22Z,Japanese Probabilistic Information Retrieval Using Location and Category   Information,Hitoshi Isahara,cs.CL,http://arxiv.org/pdf/cs/0008032v1
+cs/0008033v1,2000-08-28T19:51:32Z,Temporal Expressions in Japanese-to-English Machine Translation,Hajime Uchino,cs.CL,http://arxiv.org/pdf/cs/0008033v1
+cs/0008034v1,2000-08-30T13:14:58Z,Lexicalized Stochastic Modeling of Constraint-Based Grammars using   Log-Linear Measures and EM Training,Mark Johnson,cs.CL,http://arxiv.org/pdf/cs/0008034v1
+cs/0008035v1,2000-08-30T13:24:06Z,Using a Probabilistic Class-Based Lexicon for Lexical Ambiguity   Resolution,Mats Rooth,cs.CL,http://arxiv.org/pdf/cs/0008035v1
+cs/0008036v1,2000-08-30T13:57:19Z,Probabilistic Constraint Logic Programming. Formal Foundations of   Quantitative and Statistical Inference in Constraint-Based Natural Language   Processing,Stefan Riezler,cs.CL,http://arxiv.org/pdf/cs/0008036v1
+cs/0009003v1,2000-09-08T15:48:53Z,Automatic Extraction of Subcategorization Frames for Czech,Daniel Zeman,cs.CL,http://arxiv.org/pdf/cs/0009003v1
+cs/0009008v1,2000-09-18T12:08:54Z,Introduction to the CoNLL-2000 Shared Task: Chunking,Sabine Buchholz,cs.CL,http://arxiv.org/pdf/cs/0009008v1
+cs/0009011v1,2000-09-19T00:44:47Z,Anaphora Resolution in Japanese Sentences Using Surface Expressions and   Examples,Masaki Murata,cs.CL,http://arxiv.org/pdf/cs/0009011v1
+cs/0009015v1,2000-09-20T13:23:17Z,A Tableaux Calculus for Ambiguous Quantification,Maarten de Rijke,cs.CL,http://arxiv.org/pdf/cs/0009015v1
+cs/0009025v1,2000-09-27T13:22:54Z,Parsing with the Shortest Derivation,Rens Bod,cs.CL,http://arxiv.org/pdf/cs/0009025v1
+cs/0009026v1,2000-09-27T13:38:31Z,An improved parser for data-oriented lexical-functional analysis,Rens Bod,cs.CL,http://arxiv.org/pdf/cs/0009026v1
+cs/0010012v1,2000-10-07T02:24:21Z,Finding consensus in speech recognition: word error minimization and   other applications of confusion networks,A. Stolcke,cs.CL,http://arxiv.org/pdf/cs/0010012v1
+cs/0010020v1,2000-10-11T22:30:09Z,Using existing systems to supplement small amounts of annotated   grammatical relations training data,Alexander Yeh,cs.CL,http://arxiv.org/pdf/cs/0010020v1
+cs/0010024v1,2000-10-17T08:31:48Z,Exploring automatic word sense disambiguation with decision lists and   the Web,David Martinez,cs.CL,http://arxiv.org/pdf/cs/0010024v1
+cs/0010025v1,2000-10-17T09:05:27Z,Extraction of semantic relations from a Basque monolingual dictionary   using Constraint Grammar,Ruben Urizar,cs.CL,http://arxiv.org/pdf/cs/0010025v1
+cs/0010026v1,2000-10-17T09:56:54Z,Enriching very large ontologies using the WWW,David Martinez,cs.CL,http://arxiv.org/pdf/cs/0010026v1
+cs/0010027v1,2000-10-17T10:26:33Z,One Sense per Collocation and Genre/Topic Variations,Eneko Agirre,cs.CL,http://arxiv.org/pdf/cs/0010027v1
+cs/0010030v1,2000-10-23T15:14:02Z,Reduction of Intermediate Alphabets in Finite-State Transducer Cascades,Andre Kempe,cs.CL,http://arxiv.org/pdf/cs/0010030v1
+cs/0011001v1,2000-11-02T09:02:12Z,Utilizing the World Wide Web as an Encyclopedia: Extracting Term   Descriptions from Semi-Structured Texts,Tetsuya Ishikawa,cs.CL,http://arxiv.org/pdf/cs/0011001v1
+cs/0011002v1,2000-11-02T10:00:27Z,A Novelty-based Evaluation Method for Information Retrieval,Tetsuya Ishikawa,cs.CL,http://arxiv.org/pdf/cs/0011002v1
+cs/0011003v1,2000-11-02T10:32:08Z,Applying Machine Translation to Two-Stage Cross-Language Information   Retrieval,Tetsuya Ishikawa,cs.CL,http://arxiv.org/pdf/cs/0011003v1
+cs/0011020v2,2000-11-16T17:40:10Z,The Use of Instrumentation in Grammar Engineering,Norbert Broeker,cs.CL,http://arxiv.org/pdf/cs/0011020v2
+cs/0011034v1,2000-11-22T15:35:46Z,Semantic interpretation of temporal information by abductive inference,Frank Van Eynde,cs.CL,http://arxiv.org/pdf/cs/0011034v1
+cs/0011035v1,2000-11-23T08:41:52Z,Abductive reasoning with temporal information,Frank Van Eynde,cs.CL,http://arxiv.org/pdf/cs/0011035v1
+cs/0011040v1,2000-11-24T23:51:21Z,Do All Fragments Count?,Rens Bod,cs.CL,http://arxiv.org/pdf/cs/0011040v1
+cs/0102020v1,2001-02-22T21:05:01Z,Multi-Syllable Phonotactic Modelling,Anja Belz,cs.CL,http://arxiv.org/pdf/cs/0102020v1
+cs/0102021v1,2001-02-22T13:09:25Z,Taking Primitive Optimality Theory Beyond the Finite State,Daniel Albro,cs.CL,http://arxiv.org/pdf/cs/0102021v1
+cs/0102022v2,2001-02-22T14:10:20Z,Finite-State Phonology: Proceedings of the 5th Workshop of the ACL   Special Interest Group in Computational Phonology (SIGPHON),Alain Theriault,cs.CL,http://arxiv.org/pdf/cs/0102022v2
+cs/0102026v1,2001-02-24T06:56:43Z,Mathematical Model of Word Length on the Basis of the Cebanov-Fucks   Distribution with Uniform Parameter Distribution,Victor Kromer,cs.CL,http://arxiv.org/pdf/cs/0102026v1
+cs/0103007v1,2001-03-08T06:30:27Z,"Two-parameter Model of Word Length ""Language - Genre""",Victor Kromer,cs.CL,http://arxiv.org/pdf/cs/0103007v1
+cs/0103010v1,2001-03-12T08:23:19Z,Magical Number Seven Plus or Minus Two: Syntactic Structure Recognition   in Japanese and English Sentences,Hitoshi Isahara,cs.CL,http://arxiv.org/pdf/cs/0103010v1
+cs/0103011v1,2001-03-12T08:29:59Z,A Machine-Learning Approach to Estimating the Referential Properties of   Japanese Noun Phrases,Hitoshi Isahara,cs.CL,http://arxiv.org/pdf/cs/0103011v1
+cs/0103012v1,2001-03-12T08:43:11Z,"Meaning Sort - Three examples: dictionary construction, tagged corpus   construction, and information presentation system",Hitoshi Isahara,cs.CL,http://arxiv.org/pdf/cs/0103012v1
+cs/0103013v1,2001-03-12T09:36:50Z,CRL at Ntcir2,Hitoshi Isahara,cs.CL,http://arxiv.org/pdf/cs/0103013v1
+cs/0103026v1,2001-03-29T23:08:33Z,A Decision Tree of Bigrams is an Accurate Predictor of Word Sense,Ted Pedersen,cs.CL,http://arxiv.org/pdf/cs/0103026v1
+cs/0104010v1,2001-04-03T23:22:17Z,Type Arithmetics: Computation based on the theory of types,Oleg Kiselyov,cs.CL,http://arxiv.org/pdf/cs/0104010v1
+cs/0104019v1,2001-04-27T22:50:31Z,Dynamic Nonlocal Language Modeling via Hierarchical Topic-Based   Adaptation,David Yarowsky,cs.CL,http://arxiv.org/pdf/cs/0104019v1
+cs/0104022v1,2001-04-30T15:12:52Z,Microplanning with Communicative Intentions: The SPUD System,Martha Palmer,cs.CL,http://arxiv.org/pdf/cs/0104022v1
+cs/0105001v1,2001-05-02T05:29:27Z,Correction of Errors in a Modality Corpus Used for Machine Translation   by Using Machine-learning Method,Hitoshi Isahara,cs.CL,http://arxiv.org/pdf/cs/0105001v1
+cs/0105002v1,2001-05-02T07:49:14Z,Man [and Woman] vs. Machine: A Case Study in Base Noun Phrase Learning,Grace Ngai,cs.CL,http://arxiv.org/pdf/cs/0105002v1
+cs/0105005v1,2001-05-04T08:55:02Z,A Complete WordNet1.5 to WordNet1.6 Mapping,G. Rigau,cs.CL,http://arxiv.org/pdf/cs/0105005v1
+cs/0105012v1,2001-05-07T14:25:22Z,Joint and conditional estimation of tagging and parsing models,Mark Johnson,cs.CL,http://arxiv.org/pdf/cs/0105012v1
+cs/0105016v1,2001-05-08T15:35:07Z,Probabilistic top-down parsing and language modeling,Brian Roark,cs.CL,http://arxiv.org/pdf/cs/0105016v1
+cs/0105019v1,2001-05-09T17:01:10Z,Robust Probabilistic Predictive Syntactic Processing,Brian Roark,cs.CL,http://arxiv.org/pdf/cs/0105019v1
+cs/0105023v1,2001-05-14T09:05:45Z,Generating a 3D Simulation of a Car Accident from a Written Description   in Natural Language: the CarSim System,Pierre Nugues,cs.CL,http://arxiv.org/pdf/cs/0105023v1
+cs/0105035v1,2001-05-30T03:55:23Z,Historical Dynamics of Lexical System as Random Walk Process,Victor Kromer,cs.CL,http://arxiv.org/pdf/cs/0105035v1
+cs/0105037v1,2001-05-31T18:08:57Z,Integrating Prosodic and Lexical Cues for Automatic Topic Segmentation,E. Shriberg,cs.CL,http://arxiv.org/pdf/cs/0105037v1
+cs/0106015v1,2001-06-10T06:14:09Z,Organizing Encyclopedic Knowledge based on the Web and its Application   to Question Answering,Tetsuya Ishikawa,cs.CL,http://arxiv.org/pdf/cs/0106015v1
+cs/0106043v1,2001-06-20T14:16:17Z,Using the Distribution of Performance for Studying Statistical NLP   Systems and Corpora,Yuval Krymolowski,cs.CL,http://arxiv.org/pdf/cs/0106043v1
+cs/0106047v1,2001-06-21T20:37:43Z,Modeling informational novelty in a conversational system with a hybrid   statistical and grammar-based approach to natural language generation,Adwait Ratnaparkhi,cs.CL,http://arxiv.org/pdf/cs/0106047v1
+cs/0107005v1,2001-07-03T10:27:44Z,The Role of Conceptual Relations in Word Sense Disambiguation,Felisa Verdejo,cs.CL,http://arxiv.org/pdf/cs/0107005v1
+cs/0107006v1,2001-07-03T18:06:05Z,Looking Under the Hood : Tools for Diagnosing your Question Answering   Engine,Michael Thelen,cs.CL,http://arxiv.org/pdf/cs/0107006v1
+cs/0107016v1,2001-07-15T12:51:01Z,Introduction to the CoNLL-2001 Shared Task: Clause Identification,Herve Dejean,cs.CL,http://arxiv.org/pdf/cs/0107016v1
+cs/0107017v1,2001-07-15T13:21:48Z,Learning Computational Grammars,Erik F. Tjong Kim Sang,cs.CL,http://arxiv.org/pdf/cs/0107017v1
+cs/0107018v1,2001-07-15T13:32:36Z,Combining a self-organising map with memory-based learning,Erik F. Tjong Kim Sang,cs.CL,http://arxiv.org/pdf/cs/0107018v1
+cs/0107019v2,2001-07-16T22:59:15Z,Applying Natural Language Generation to Indicative Summarization,Judith L. Klavans,cs.CL,http://arxiv.org/pdf/cs/0107019v2
+cs/0107020v1,2001-07-17T15:26:13Z,Transformation-Based Learning in the Fast Lane,Radu Florian,cs.CL,http://arxiv.org/pdf/cs/0107020v1
+cs/0107021v1,2001-07-17T15:43:03Z,Multidimensional Transformation-Based Learning,Grace Ngai,cs.CL,http://arxiv.org/pdf/cs/0107021v1
+cs/0108005v1,2001-08-09T19:24:28Z,A Bit of Progress in Language Modeling,Joshua Goodman,cs.CL,http://arxiv.org/pdf/cs/0108005v1
+cs/0108006v1,2001-08-09T19:17:58Z,Classes for Fast Maximum Entropy Training,Joshua Goodman,cs.CL,http://arxiv.org/pdf/cs/0108006v1
+cs/0108022v1,2001-08-29T03:59:31Z,Portability of Syntactic Structure for Language Modeling,Ciprian Chelba,cs.CL,http://arxiv.org/pdf/cs/0108022v1
+cs/0109010v2,2001-09-09T16:41:59Z,Anaphora and Discourse Structure,Alistair Knott,cs.CL,http://arxiv.org/pdf/cs/0109010v2
+cs/0109015v1,2001-09-13T14:52:41Z,Boosting Trees for Anti-Spam Email Filtering,Lluis Marquez,cs.CL,http://arxiv.org/pdf/cs/0109015v1
+cs/0109020v1,2001-09-15T22:44:55Z,Modelling Semantic Association and Conceptual Inheritance for Semantic   Analysis,Pascal Vaillant,cs.CL,http://arxiv.org/pdf/cs/0109020v1
+cs/0109029v1,2001-09-18T14:00:27Z,Learning class-to-class selectional preferences,D. Martinez,cs.CL,http://arxiv.org/pdf/cs/0109029v1
+cs/0109030v1,2001-09-18T14:14:52Z,Knowledge Sources for Word Sense Disambiguation,David Martinez,cs.CL,http://arxiv.org/pdf/cs/0109030v1
+cs/0109031v2,2001-09-18T14:18:58Z,Enriching WordNet concepts with topic signatures,David Martinez,cs.CL,http://arxiv.org/pdf/cs/0109031v2
+cs/0109039v1,2001-09-20T06:42:11Z,"Testing for Mathematical Lineation in Jim Crace's ""Quarantine"" and T. S.   Eliot's ""Four Quartets""",Hideaki Aoyama,cs.CL,http://arxiv.org/pdf/cs/0109039v1
+cs/0110015v1,2001-10-03T18:34:36Z,Richer Syntactic Dependencies for Structured Language Modeling,Peng Xu,cs.CL,http://arxiv.org/pdf/cs/0110015v1
+cs/0110027v1,2001-10-11T11:29:49Z,Part-of-Speech Tagging with Two Sequential Transducers,Andre Kempe,cs.CL,http://arxiv.org/pdf/cs/0110027v1
+cs/0110050v1,2001-10-24T11:01:08Z,What is the minimal set of fragments that achieves maximal parse   accuracy?,Rens Bod,cs.CL,http://arxiv.org/pdf/cs/0110050v1
+cs/0110051v1,2001-10-24T11:30:50Z,Combining semantic and syntactic structure for language modeling,Rens Bod,cs.CL,http://arxiv.org/pdf/cs/0110051v1
+cs/0111064v1,2001-11-30T20:30:52Z,A procedure for unsupervised lexicon learning,Anand Venkataraman,cs.CL,http://arxiv.org/pdf/cs/0111064v1
+cs/0111065v1,2001-11-30T20:40:50Z,A Statistical Model for Word Discovery in Transcribed Speech,Anand Venkataraman,cs.CL,http://arxiv.org/pdf/cs/0111065v1
+cs/0112003v1,2001-12-05T05:35:07Z,"Using a Support-Vector Machine for Japanese-to-English Translation of   Tense, Aspect, and Modality",Hitoshi Isahara,cs.CL,http://arxiv.org/pdf/cs/0112003v1
+cs/0112004v1,2001-12-05T05:48:21Z,Part of Speech Tagging in Thai Language Using Support Vector Machine,Hitoshi Isahara,cs.CL,http://arxiv.org/pdf/cs/0112004v1
+cs/0112005v1,2001-12-05T05:56:13Z,Universal Model for Paraphrasing -- Using Transformation Based on a   Defined Criteria --,Hitoshi Isahara,cs.CL,http://arxiv.org/pdf/cs/0112005v1
+cs/0204003v1,2002-04-02T21:14:40Z,Blind Normalization of Speech From Different Channels and Speakers,David N. Levin,cs.CL,http://arxiv.org/pdf/cs/0204003v1
+cs/0204007v1,2002-04-03T18:55:01Z,An Integrated Framework for Treebanks and Multilayer Annotations,Steven Bird,cs.CL,http://arxiv.org/pdf/cs/0204007v1
+cs/0204022v1,2002-04-10T15:37:26Z,"Annotation Graphs and Servers and Multi-Modal Resources: Infrastructure   for Interdisciplinary Education, Research and Development",Steven Bird,cs.CL,http://arxiv.org/pdf/cs/0204022v1
+cs/0204023v1,2002-04-10T15:49:24Z,Computational Phonology,Steven Bird,cs.CL,http://arxiv.org/pdf/cs/0204023v1
+cs/0204025v1,2002-04-11T11:22:43Z,Phonology,Steven Bird,cs.CL,http://arxiv.org/pdf/cs/0204025v1
+cs/0204027v1,2002-04-11T16:41:28Z,Integrating selectional preferences in WordNet,David Martinez,cs.CL,http://arxiv.org/pdf/cs/0204027v1
+cs/0204028v1,2002-04-12T07:41:55Z,Decision Lists for English and Basque,David Martinez,cs.CL,http://arxiv.org/pdf/cs/0204028v1
+cs/0204029v1,2002-04-12T07:49:32Z,The Basque task: did systems perform in the upperbound?,Eli Pociello,cs.CL,http://arxiv.org/pdf/cs/0204029v1
+cs/0204049v1,2002-04-24T14:48:31Z,Memory-Based Shallow Parsing,Erik F. Tjong Kim Sang,cs.CL,http://arxiv.org/pdf/cs/0204049v1
+cs/0205006v1,2002-05-08T14:39:19Z,Unsupervised discovery of morphologically related words based on   orthographic and semantic similarity,Harald Trost,cs.CL,http://arxiv.org/pdf/cs/0205006v1
+cs/0205009v1,2002-05-10T18:55:25Z,Mostly-Unsupervised Statistical Segmentation of Japanese Kanji Sequences,Lillian Lee,cs.CL,http://arxiv.org/pdf/cs/0205009v1
+cs/0205017v1,2002-05-13T11:18:08Z,Ellogon: A New Text Engineering Platform,Constantine D. Spyropoulos,cs.CL,http://arxiv.org/pdf/cs/0205017v1
+cs/0205027v1,2002-05-17T09:33:52Z,A variable-free dynamic semantics,Chung-chieh Shan,cs.CL,http://arxiv.org/pdf/cs/0205027v1
+cs/0205028v1,2002-05-17T12:51:00Z,NLTK: The Natural Language Toolkit,Steven Bird,cs.CL,http://arxiv.org/pdf/cs/0205028v1
+cs/0205057v1,2002-05-21T14:37:22Z,Unsupervised Discovery of Morphemes,Krista Lagus,cs.CL,http://arxiv.org/pdf/cs/0205057v1
+cs/0205065v1,2002-05-25T21:32:09Z,Bootstrapping Lexical Choice via Multiple-Sequence Alignment,Lillian Lee,cs.CL,http://arxiv.org/pdf/cs/0205065v1
+cs/0205067v1,2002-05-27T18:42:10Z,Evaluating the Effectiveness of Ensembles of Decision Trees in   Disambiguating Senseval Lexical Samples,Ted Pedersen,cs.CL,http://arxiv.org/pdf/cs/0205067v1
+cs/0205068v1,2002-05-27T18:49:01Z,Assessing System Agreement and Instance Difficulty in the Lexical Sample   Tasks of Senseval-2,Ted Pedersen,cs.CL,http://arxiv.org/pdf/cs/0205068v1
+cs/0205069v1,2002-05-27T18:57:11Z,Machine Learning with Lexical Features: The Duluth Approach to   Senseval-2,Ted Pedersen,cs.CL,http://arxiv.org/pdf/cs/0205069v1
+cs/0206014v1,2002-06-09T10:07:36Z,A Method for Open-Vocabulary Speech-Driven Text Retrieval,Tetsuya Ishikawa,cs.CL,http://arxiv.org/pdf/cs/0206014v1
+cs/0206015v1,2002-06-09T10:53:49Z,Japanese/English Cross-Language Information Retrieval: Exploration of   Query Translation and Transliteration,Tetsuya Ishikawa,cs.CL,http://arxiv.org/pdf/cs/0206015v1
+cs/0206030v1,2002-06-20T07:13:59Z,A Probabilistic Method for Analyzing Japanese Anaphora Integrating Zero   Pronoun Detection and Resolution,Tetsuya Ishikawa,cs.CL,http://arxiv.org/pdf/cs/0206030v1
+cs/0206034v1,2002-06-24T07:46:06Z,Applying a Hybrid Query Translation Method to Japanese/English   Cross-Language Patent Retrieval,Tetsuya Ishikawa,cs.CL,http://arxiv.org/pdf/cs/0206034v1
+cs/0206035v1,2002-06-24T08:00:45Z,PRIME: A System for Multi-lingual Patent Retrieval,Tetsuya Ishikawa,cs.CL,http://arxiv.org/pdf/cs/0206035v1
+cs/0206036v1,2002-06-24T08:38:36Z,Language Modeling for Multi-Domain Speech-Driven Text Retrieval,Tetsuya Ishikawa,cs.CL,http://arxiv.org/pdf/cs/0206036v1
+cs/0206037v1,2002-06-24T10:28:02Z,Speech-Driven Text Retrieval: Using Target IR Collections for   Statistical Language Model Adaptation in Speech Recognition,Tetsuya Ishikawa,cs.CL,http://arxiv.org/pdf/cs/0206037v1
+cs/0207002v1,2002-07-02T01:15:33Z,Using eigenvectors of the bigram graph to infer morpheme identity,John Goldsmith,cs.CL,http://arxiv.org/pdf/cs/0207002v1
+cs/0207003v1,2002-07-02T15:08:44Z,Analysis of Titles and Readers For Title Generation Centered on the   Readers,Yasusi Sinohara,cs.CL,http://arxiv.org/pdf/cs/0207003v1
+cs/0207005v1,2002-07-03T11:54:21Z,Efficient Deep Processing of Japanese,Emily M. Bender,cs.CL,http://arxiv.org/pdf/cs/0207005v1
+cs/0208020v1,2002-08-13T03:39:20Z,Using the DIFF Command for Natural Language Processing,Hitoshi Isahara,cs.CL,http://arxiv.org/pdf/cs/0208020v1
+cs/0208035v1,2002-08-21T14:09:48Z,Evaluation of Coreference Rules on Complex Narrative Texts,Isabelle Robba,cs.CL,http://arxiv.org/pdf/cs/0208035v1
+cs/0208036v1,2002-08-21T14:28:51Z,Three New Methods for Evaluating Reference Resolution,Isabelle Robba,cs.CL,http://arxiv.org/pdf/cs/0208036v1
+cs/0208037v1,2002-08-21T14:36:13Z,Cooperation between Pronoun and Reference Resolution for Unrestricted   Texts,Isabelle Robba,cs.CL,http://arxiv.org/pdf/cs/0208037v1
+cs/0208038v1,2002-08-21T14:43:18Z,Reference Resolution Beyond Coreference: a Conceptual Frame and its   Application,Gerard Sabah,cs.CL,http://arxiv.org/pdf/cs/0208038v1
+cs/0209002v1,2002-09-02T16:55:34Z,A Chart-Parsing Algorithm for Efficient Semantic Analysis,Pascal Vaillant,cs.CL,http://arxiv.org/pdf/cs/0209002v1
+cs/0209003v1,2002-09-03T05:28:56Z,Rerendering Semantic Ontologies: Automatic Extensions to UMLS through   Corpus Analytics,J. Castano,cs.CL,http://arxiv.org/pdf/cs/0209003v1
+cs/0209010v1,2002-09-05T19:03:06Z,Introduction to the CoNLL-2002 Shared Task: Language-Independent Named   Entity Recognition,Erik F. Tjong Kim Sang,cs.CL,http://arxiv.org/pdf/cs/0209010v1
+cs/0211017v1,2002-11-14T16:16:44Z,Probabilistic Parsing Strategies,Giorgio Satta,cs.CL,http://arxiv.org/pdf/cs/0211017v1
+cs/0212015v1,2002-12-09T13:09:10Z,Answering Subcognitive Turing Test Questions: A Reply to French,Peter D. Turney,cs.CL,http://arxiv.org/pdf/cs/0212015v1
+cs/0302014v1,2003-02-12T06:31:54Z,An Algorithm for Aligning Sentences in Bilingual Corpora Using Lexical   Information,S. M. Bendre,cs.CL,http://arxiv.org/pdf/cs/0302014v1
+cs/0302032v1,2003-02-22T23:37:26Z,Empirical Methods for Compound Splitting,Kevin Knight,cs.CL,http://arxiv.org/pdf/cs/0302032v1
+cs/0303002v2,2003-03-05T08:50:42Z,About compression of vocabulary in computer oriented languages,V. P. Maslov,cs.CL,http://arxiv.org/pdf/cs/0303002v2
+cs/0303007v1,2003-03-14T05:15:20Z,Glottochronology and problems of protolanguage reconstruction,Kromer Victor,cs.CL,http://arxiv.org/pdf/cs/0303007v1
+cs/0304006v1,2003-04-02T23:02:44Z,Learning to Paraphrase: An Unsupervised Approach Using Multiple-Sequence   Alignment,Lillian Lee,cs.CL,http://arxiv.org/pdf/cs/0304006v1
+cs/0304019v1,2003-04-10T22:25:01Z,Blind Normalization of Speech From Different Channels,David N. Levin,cs.CL,http://arxiv.org/pdf/cs/0304019v1
+cs/0304024v1,2003-04-17T02:22:06Z,Glottochronologic Retrognostic of Language System,Kromer Victor,cs.CL,http://arxiv.org/pdf/cs/0304024v1
+cs/0304027v1,2003-04-21T22:10:21Z,"""I'm sorry Dave, I'm afraid I can't do that"": Linguistics, Statistics,   and Natural Language Processing circa 2001",Lillian Lee,cs.CL,http://arxiv.org/pdf/cs/0304027v1
+cs/0304029v1,2003-04-22T13:45:37Z,An XML based Document Suite,Manuela Kunze,cs.CL,http://arxiv.org/pdf/cs/0304029v1
+cs/0304035v1,2003-04-23T08:02:53Z,Exploiting Sublanguage and Domain Characteristics in a Bootstrapping   Approach to Lexicon and Ontology Creation,Manuela Kunze,cs.CL,http://arxiv.org/pdf/cs/0304035v1
+cs/0304036v1,2003-04-23T08:32:19Z,An Approach for Resource Sharing in Multilingual NLP,Chun Xiao,cs.CL,http://arxiv.org/pdf/cs/0304036v1
+cs/0305041v2,2003-05-23T19:38:22Z,Factorization of Language Models through Backing-Off Lattices,Wei Wang,cs.CL,http://arxiv.org/pdf/cs/0305041v2
+cs/0306050v1,2003-06-12T12:35:00Z,Introduction to the CoNLL-2003 Shared Task: Language-Independent Named   Entity Recognition,Fien De Meulder,cs.CL,http://arxiv.org/pdf/cs/0306050v1
+cs/0306062v1,2003-06-13T09:05:10Z,Learning to Order Facts for Discourse Planning in Natural Language   Generation,Ion Androutsopoulos,cs.CL,http://arxiv.org/pdf/cs/0306062v1
+cs/0306099v1,2003-06-16T13:54:03Z,An Improved k-Nearest Neighbor Algorithm for Text Categorization,Qin Lu,cs.CL,http://arxiv.org/pdf/cs/0306099v1
+cs/0307028v1,2003-07-11T14:43:51Z,Issues in Communication Game,Koiti Hasida,cs.CL,http://arxiv.org/pdf/cs/0307028v1
+cs/0307030v1,2003-07-11T15:42:51Z,Parsing and Generation with Tabulation and Compilation,Takashi Miyata,cs.CL,http://arxiv.org/pdf/cs/0307030v1
+cs/0307044v1,2003-07-19T12:24:33Z,The Linguistic DS: Linguisitic Description in MPEG-7,Koiti Hasida,cs.CL,http://arxiv.org/pdf/cs/0307044v1
+cs/0308016v1,2003-08-07T09:01:56Z,Collaborative Creation of Digital Content in Indian Languages,Rajeev Sangal,cs.CL,http://arxiv.org/pdf/cs/0308016v1
+cs/0308017v1,2003-08-07T09:17:16Z,Information Revolution,Rajeev Sangal,cs.CL,http://arxiv.org/pdf/cs/0308017v1
+cs/0308018v1,2003-08-07T09:24:46Z,Anusaaraka: Overcoming the Language Barrier in India,G Umamaheshwara Rao,cs.CL,http://arxiv.org/pdf/cs/0308018v1
+cs/0308019v1,2003-08-07T09:40:04Z,Language Access: An Information Based Approach,Rajeev Sangal,cs.CL,http://arxiv.org/pdf/cs/0308019v1
+cs/0308020v1,2003-08-07T10:08:43Z,LERIL : Collaborative Effort for Creating Lexical Resources,Durgesh D Rao,cs.CL,http://arxiv.org/pdf/cs/0308020v1
+cs/0309019v1,2003-09-12T12:43:00Z,Building a Test Collection for Speech-Driven Web Retrieval,Katunobu Itou,cs.CL,http://arxiv.org/pdf/cs/0309019v1
+cs/0309021v1,2003-09-13T06:54:58Z,A Cross-media Retrieval System for Lecture Videos,Tetsuya Ishikawa,cs.CL,http://arxiv.org/pdf/cs/0309021v1
+cs/0310014v1,2003-10-08T16:40:33Z,Effective XML Representation for Spoken Language in Organisations,Dali Dong,cs.CL,http://arxiv.org/pdf/cs/0310014v1
+cs/0310058v1,2003-10-29T20:13:30Z,Application Architecture for Spoken Language Resources in Organisational   Settings,Philip C. Windridge,cs.CL,http://arxiv.org/pdf/cs/0310058v1
+cs/0311033v1,2003-11-21T19:48:17Z,The Rank-Frequency Analysis for the Functional Style Corpora in the   Ukrainian Language,Andrij A. Rovenchak,cs.CL,http://arxiv.org/pdf/cs/0311033v1
+cs/0311036v1,2003-11-24T18:05:40Z,Measuring the Functional Load of Phonological Contrasts,Partha Niyogi,cs.CL,http://arxiv.org/pdf/cs/0311036v1
+cs/0402055v1,2004-02-24T09:34:16Z,Lexical Base as a Compressed Language Model of the World (on the   material of the Ukrainian language),Solomiya Buk,cs.CL,http://arxiv.org/pdf/cs/0402055v1
+cs/0404007v1,2004-04-05T02:14:50Z,Polarity sensitivity and evaluation order in type-logical grammar,Chung-chieh Shan,cs.CL,http://arxiv.org/pdf/cs/0404007v1
+cs/0404009v1,2004-04-05T11:51:43Z,Tabular Parsing,Giorgio Satta,cs.CL,http://arxiv.org/pdf/cs/0404009v1
+cs/0404025v1,2004-04-10T08:43:31Z,Test Collections for Patent-to-Patent Retrieval and Patent Map   Generation in NTCIR-4 Workshop,Noriko Kando,cs.CL,http://arxiv.org/pdf/cs/0404025v1
+cs/0405037v1,2004-05-10T16:05:23Z,A Probabilistic Model of Machine Translation,V. K. Petrov,cs.CL,http://arxiv.org/pdf/cs/0405037v1
+cs/0405039v1,2004-05-12T14:14:52Z,"Catching the Drift: Probabilistic Content Models, with Applications to   Generation and Summarization",Lillian Lee,cs.CL,http://arxiv.org/pdf/cs/0405039v1
+cs/0406031v1,2004-06-17T12:29:29Z,A Public Reference Implementation of the RAP Anaphora Resolution   Algorithm,Tat-Seng Chua,cs.CL,http://arxiv.org/pdf/cs/0406031v1
+cs/0406054v1,2004-06-28T10:25:22Z,Building a linguistic corpus from bee dance data,J. J. Paijmans,cs.CL,http://arxiv.org/pdf/cs/0406054v1
+cs/0407002v1,2004-07-01T16:18:52Z,Annotating Predicate-Argument Structure for a Parallel Treebank,Frank Schumacher,cs.CL,http://arxiv.org/pdf/cs/0407002v1
+cs/0407005v3,2004-07-01T22:02:10Z,Statistical Machine Translation by Generalized Parsing,Wei Wang,cs.CL,http://arxiv.org/pdf/cs/0407005v3
+cs/0407026v1,2004-07-10T11:18:42Z,Summarizing Encyclopedic Term Descriptions on the Web,Tetsuya Ishikawa,cs.CL,http://arxiv.org/pdf/cs/0407026v1
+cs/0407027v1,2004-07-10T11:45:57Z,Unsupervised Topic Adaptation for Lecture Speech Retrieval,Tetsuya Ishikawa,cs.CL,http://arxiv.org/pdf/cs/0407027v1
+cs/0407028v1,2004-07-10T11:57:17Z,Effects of Language Modeling on Speech-driven Question Answering,Katunobu Itou,cs.CL,http://arxiv.org/pdf/cs/0407028v1
+cs/0407046v1,2004-07-19T11:57:42Z,A Bimachine Compiler for Ranked Tagging Rules,Kathrine Hammervold,cs.CL,http://arxiv.org/pdf/cs/0407046v1
+cs/0408052v1,2004-08-22T19:32:48Z,Application of the Double Metaphone Algorithm to Amharic Orthography,Daniel Yacob,cs.CL,http://arxiv.org/pdf/cs/0408052v1
+cs/0408059v1,2004-08-26T10:50:45Z,Proofing Tools Technology at Neurosoft S.A.,A. Vagelatos,cs.CL,http://arxiv.org/pdf/cs/0408059v1
+cs/0408060v1,2004-08-26T12:44:15Z,Verbal chunk extraction in French using limited resources,Francois Trouilleux,cs.CL,http://arxiv.org/pdf/cs/0408060v1
+cs/0408061v1,2004-08-26T13:17:38Z,An electronic dictionary as a basis for NLP tools: The Greek case,G. Orphanos,cs.CL,http://arxiv.org/pdf/cs/0408061v1
+cs/0409008v1,2004-09-07T13:46:50Z,A Model for Fine-Grained Alignment of Multilingual Texts,Hendrik Feddes,cs.CL,http://arxiv.org/pdf/cs/0409008v1
+cs/0409058v1,2004-09-29T20:34:04Z,A Sentimental Education: Sentiment Analysis Using Subjectivity   Summarization Based on Minimum Cuts,Lillian Lee,cs.CL,http://arxiv.org/pdf/cs/0409058v1
+cs/0412015v2,2004-12-03T17:10:17Z,A Tutorial on the Expectation-Maximization Algorithm Including   Maximum-Likelihood Estimation and EM Training of Probabilistic Context-Free   Grammars,Detlef Prescher,cs.CL,http://arxiv.org/pdf/cs/0412015v2
+cs/0412016v1,2004-12-03T18:10:17Z,Inside-Outside Estimation Meets Dynamic EM,Detlef Prescher,cs.CL,http://arxiv.org/pdf/cs/0412016v1
+cs/0412114v1,2004-12-29T15:19:03Z,"State of the Art, Evaluation and Recommendations regarding ""Document   Processing and Visualization Techniques""",Pierre Andrews,cs.CL,http://arxiv.org/pdf/cs/0412114v1
+cs/0412117v1,2004-12-30T02:01:45Z,Thematic Annotation: extracting concepts out of documents,Martin Rajman,cs.CL,http://arxiv.org/pdf/cs/0412117v1
+cs/0501078v1,2005-01-26T22:43:17Z,Multi-document Biography Summarization,Eduard Hovy,cs.CL,http://arxiv.org/pdf/cs/0501078v1
+cs/0504022v1,2005-04-06T20:04:55Z,A Matter of Opinion: Sentiment Analysis and Business Intelligence   (position paper),Lillian Lee,cs.CL,http://arxiv.org/pdf/cs/0504022v1
+cs/0510015v1,2005-10-05T14:23:19Z,Word sense disambiguation criteria: a systematic study,Laurent Audibert,cs.CL,http://arxiv.org/pdf/cs/0510015v1
+cs/0511076v1,2005-11-21T14:50:52Z,Using phonetic constraints in acoustic-to-articulatory inversion,Yves Laprie,cs.CL,http://arxiv.org/pdf/cs/0511076v1
+cs/0511079v1,2005-11-22T07:06:43Z,An elitist approach for extracting automatically well-realized speech   sounds with high confidence,Yves Laprie,cs.CL,http://arxiv.org/pdf/cs/0511079v1
+cs/0512102v1,2005-12-28T13:45:54Z,"Statistical Parameters of the Novel ""Perekhresni stezhky"" (""The   Cross-Paths"") by Ivan Franko",Andrij Rovenchak,cs.CL,http://arxiv.org/pdf/cs/0512102v1
+cs/0601005v1,2006-01-04T18:33:53Z,Analyzing language development from a network approach,Y. Yao,cs.CL,http://arxiv.org/pdf/cs/0601005v1
+cs/0604027v1,2006-04-07T13:10:30Z,Unification of multi-lingual scientific terminological resources using   the ISO 16642 standard. The TermSciences initiative,the termsciences Collaboration,cs.CL,http://arxiv.org/pdf/cs/0604027v1
+cs/0606006v1,2006-06-01T09:14:51Z,Foundations of Modern Language Resource Archives,Laurent Romary,cs.CL,http://arxiv.org/pdf/cs/0606006v1
+cs/0606096v1,2006-06-22T13:26:52Z,Building a resource for studying translation shifts,Lea Cyrus,cs.CL,http://arxiv.org/pdf/cs/0606096v1
+cs/0607051v1,2006-07-11T19:13:25Z,Raisonner avec des diagrammes : perspectives cognitives et   computationnelles,Catherine Recanati,cs.CL,http://arxiv.org/pdf/cs/0607051v1
+cs/0609019v1,2006-09-06T11:41:27Z,Improving Term Extraction with Terminological Resources,Thierry Hamon,cs.CL,http://arxiv.org/pdf/cs/0609019v1
+cs/0609043v1,2006-09-08T14:01:57Z,Challenging the principle of compositionality in interpreting natural   language texts,François Lévy,cs.CL,http://arxiv.org/pdf/cs/0609043v1
+cs/0609044v1,2006-09-08T14:11:50Z,The role of time in considering collections,François Lévy,cs.CL,http://arxiv.org/pdf/cs/0609044v1
+cs/0609058v1,2006-09-12T07:10:15Z,The JRC-Acquis: A multilingual aligned parallel corpus with 20+   languages,Daniel Varga,cs.CL,http://arxiv.org/pdf/cs/0609058v1
+cs/0610116v1,2006-10-19T17:42:57Z,DepAnn - An Annotation Tool for Dependency Treebanks,Tuomo Kakkonen,cs.CL,http://arxiv.org/pdf/cs/0610116v1
+cs/0610124v1,2006-10-20T11:48:38Z,"Dependency Treebanks: Methods, Annotation Schemes and Tools",Tuomo Kakkonen,cs.CL,http://arxiv.org/pdf/cs/0610124v1
+cs/0611026v1,2006-11-06T14:37:27Z,Un modèle générique d'organisation de corpus en ligne: application   à la FReeBank,Jean-Marie Pierrel,cs.CL,http://arxiv.org/pdf/cs/0611026v1
+cs/0611069v1,2006-11-15T12:35:45Z,Scaling Construction Grammar up to Production Systems: the SCIM,Guillaume Pitel,cs.CL,http://arxiv.org/pdf/cs/0611069v1
+cs/0611113v1,2006-11-22T03:24:54Z,"An Anthological Review of Research Utilizing MontyLingua, a Python-Based   End-to-End Text Processor",Maurice HT Ling,cs.CL,http://arxiv.org/pdf/cs/0611113v1
+cs/0701135v1,2007-01-22T00:45:31Z,Complex networks and human language,Jinyun KE,cs.CL,http://arxiv.org/pdf/cs/0701135v1
+cs/0701181v1,2007-01-27T19:09:53Z,A Note on Local Ultrametricity in Text,Fionn Murtagh,cs.CL,http://arxiv.org/pdf/cs/0701181v1
+cs/0701194v1,2007-01-30T16:58:07Z,Menzerath-Altmann Law for Syntactic Structures in Ukrainian,Andrij Rovenchak,cs.CL,http://arxiv.org/pdf/cs/0701194v1
+cs/0702081v1,2007-02-14T06:05:20Z,Random Sentences from a Generalized Phrase-Structure Grammar Interpreter,Rick Dale,cs.CL,http://arxiv.org/pdf/cs/0702081v1
+0704.3708v2,2007-04-27T17:13:37Z,Network statistics on early English Syntax: Structural criteria,Bernat Corominas-Murtra,cs.CL,http://arxiv.org/pdf/0704.3708v2
+0707.3269v1,2007-07-22T15:24:48Z,International Standard for a Linguistic Annotation Framework,Nancy Ide,cs.CL,http://arxiv.org/pdf/0707.3269v1
+0707.3270v1,2007-07-22T15:25:27Z,A Formal Model of Dictionary Structure and Content,Adam Kilgarriff,cs.CL,http://arxiv.org/pdf/0707.3270v1
+0708.1564v1,2007-08-11T13:09:27Z,Learning Phonotactics Using ILP,Stasinos Konstantopoulos,cs.CL,http://arxiv.org/pdf/0708.1564v1
+0709.2401v1,2007-09-15T01:37:21Z,Bootstrapping Deep Lexical Resources: Resources for Courses,Timothy Baldwin,cs.CL,http://arxiv.org/pdf/0709.2401v1
+0710.0225v1,2007-10-01T08:23:24Z,On the role of autocorrelations in texts,A. A. Snarskii,cs.CL,http://arxiv.org/pdf/0710.0225v1
+0710.0228v1,2007-10-01T08:31:56Z,On the fractal nature of mutual relevance sequences in the Internet news   message flows,A. Snarskii,cs.CL,http://arxiv.org/pdf/0710.0228v1
+0710.2852v1,2007-10-15T15:45:13Z,Generating models for temporal representations,Sébastien Hinderer,cs.CL,http://arxiv.org/pdf/0710.2852v1
+0710.2988v1,2007-10-16T09:16:24Z,Using Description Logics for Recognising Textual Entailment,Paul Bedaride,cs.CL,http://arxiv.org/pdf/0710.2988v1
+0710.5382v1,2007-10-29T10:48:48Z,Some Reflections on the Task of Content Determination in the Context of   Multi-Document Summarization of Evolving Events,Stergos D. Afantenos,cs.CL,http://arxiv.org/pdf/0710.5382v1
+0711.0666v1,2007-11-05T15:20:47Z,Discriminative Phoneme Sequences Extraction for Non-Native Speaker's   Origin Classification,Jean-Paul Haton,cs.CL,http://arxiv.org/pdf/0711.0666v1
+0711.0811v1,2007-11-06T08:23:49Z,Combined Acoustic and Pronunciation Modelling for Non-Native Speech   Recognition,Irina Illina,cs.CL,http://arxiv.org/pdf/0711.0811v1
+0711.1038v1,2007-11-07T08:51:09Z,Amélioration des Performances des Systèmes Automatiques de   Reconnaissance de la Parole pour la Parole Non Native,Jean-Paul Haton,cs.CL,http://arxiv.org/pdf/0711.1038v1
+0711.2444v1,2007-11-15T15:39:48Z,Proof nets for display logic,Richard Moot,cs.CL,http://arxiv.org/pdf/0711.2444v1
+0711.3412v1,2007-11-21T16:47:57Z,Morphological annotation of Korean with Directly Maintainable Resources,Jee-Sun Nam,cs.CL,http://arxiv.org/pdf/0711.3412v1
+0711.3449v1,2007-11-21T20:34:08Z,Lexicon management and standard formats,Eric Laporte,cs.CL,http://arxiv.org/pdf/0711.3449v1
+0711.3452v1,2007-11-21T20:38:29Z,In memoriam Maurice Gross,Eric Laporte,cs.CL,http://arxiv.org/pdf/0711.3452v1
+0711.3453v1,2007-11-21T20:41:59Z,A resource-based Korean morphological annotation system,Eric Laporte,cs.CL,http://arxiv.org/pdf/0711.3453v1
+0711.3454v1,2007-11-21T20:44:04Z,Graphes paramétrés et outils de lexicalisation,Sébastien Paumier,cs.CL,http://arxiv.org/pdf/0711.3454v1
+0711.3457v1,2007-11-21T20:49:21Z,Evaluation of a Grammar of French Determiners,Eric Laporte,cs.CL,http://arxiv.org/pdf/0711.3457v1
+0711.3605v1,2007-11-22T15:54:31Z,Very strict selectional restrictions,Maria Carmelita P. Dias,cs.CL,http://arxiv.org/pdf/0711.3605v1
+0711.3691v2,2007-11-23T09:45:13Z,"Outilex, plate-forme logicielle de traitement de textes écrits",Eric Laporte,cs.CL,http://arxiv.org/pdf/0711.3691v2
+0711.3726v1,2007-11-23T13:44:55Z,Let's get the student into the driver's seat,Stergos D. Afantenos,cs.CL,http://arxiv.org/pdf/0711.3726v1
+0711.4475v6,2007-11-28T12:16:08Z,Valence extraction using EM selection and co-occurrence matrices,Łukasz Dębowski,cs.CL,http://arxiv.org/pdf/0711.4475v6
+0712.3705v1,2007-12-21T08:55:17Z,Framework and Resources for Natural Language Parser Evaluation,Tuomo Kakkonen,cs.CL,http://arxiv.org/pdf/0712.3705v1
+0801.3817v1,2008-01-24T18:41:01Z,"Robustness Evaluation of Two CCG, a PCFG and a Link Grammar Parsers",Tuomo Kakkonen,cs.CL,http://arxiv.org/pdf/0801.3817v1
+0801.4716v1,2008-01-30T17:10:24Z,Methods to integrate a language model with semantic information for a   word prediction component,Jean-Yves Antoine,cs.CL,http://arxiv.org/pdf/0801.4716v1
+0802.4198v1,2008-02-28T12:58:49Z,Some properties of the Ukrainian writing system,Andrij Rovenchak,cs.CL,http://arxiv.org/pdf/0802.4198v1
+0804.0143v1,2008-04-01T11:33:39Z,Effects of High-Order Co-occurrences on Word Semantic Similarities,Guy Denhière,cs.CL,http://arxiv.org/pdf/0804.0143v1
+0804.4584v1,2008-04-29T11:39:18Z,Feature Unification in TAG Derivation Trees,Joseph Le Roux,cs.CL,http://arxiv.org/pdf/0804.4584v1
+0805.2303v1,2008-05-15T13:30:08Z,Graph Algorithms for Improving Type-Logical Proof Search,Richard Moot,cs.CL,http://arxiv.org/pdf/0805.2303v1
+0805.2537v1,2008-05-16T13:58:44Z,A toolkit for a generative lexicon,Christian Bassac,cs.CL,http://arxiv.org/pdf/0805.2537v1
+0805.3366v1,2008-05-21T23:44:06Z,Computational Representation of Linguistic Structures using   Domain-Specific Languages,Paul O. Samuelsdorff,cs.CL,http://arxiv.org/pdf/0805.3366v1
+0805.3410v1,2008-05-22T08:48:28Z,Exploring a type-theoretic approach to accessibility constraint   modelling,Sylvain Pogodalla,cs.CL,http://arxiv.org/pdf/0805.3410v1
+0805.4369v1,2008-05-28T14:56:18Z,A semantic space for modeling children's semantic memory,Sandra Jhean,cs.CL,http://arxiv.org/pdf/0805.4369v1
+0805.4521v1,2008-05-29T11:53:39Z,Textual Entailment Recognizing by Theorem Proving Approach,Militon Frentiu,cs.CL,http://arxiv.org/pdf/0805.4521v1
+0806.2581v1,2008-06-16T13:48:55Z,A chain dictionary method for Word Sense Disambiguation and applications,Militon Frentiu,cs.CL,http://arxiv.org/pdf/0806.2581v1
+0806.3787v2,2008-06-23T23:27:20Z,Computational Approaches to Measuring the Similarity of Short Contexts :   A Review of Applications and Methods,Ted Pedersen,cs.CL,http://arxiv.org/pdf/0806.3787v2
+0807.0311v1,2008-07-02T09:49:14Z,About the creation of a parallel bilingual corpora of web-publications,V. V. Zhygalo,cs.CL,http://arxiv.org/pdf/0807.0311v1
+0807.3622v1,2008-07-23T09:05:50Z,TuLiPA: Towards a Multi-Formalism Parsing Environment for Grammar   Engineering,Kilian Evang,cs.CL,http://arxiv.org/pdf/0807.3622v1
+0808.2904v1,2008-08-21T10:54:54Z,Investigation of the Zipf-plot of the extinct Meroitic language,Reginald D. Smith,cs.CL,http://arxiv.org/pdf/0808.2904v1
+0808.3563v1,2008-08-26T18:17:44Z,What It Feels Like To Hear Voices: Fond Memories of Julian Jaynes,Stevan Harnad,cs.CL,http://arxiv.org/pdf/0808.3563v1
+0808.3616v3,2008-08-27T02:02:40Z,Constructing word similarities in Meroitic as an aid to decipherment,Reginald D. Smith,cs.CL,http://arxiv.org/pdf/0808.3616v3
+0808.3889v1,2008-08-28T11:59:34Z,Open architecture for multilingual parallel texts,M. T. Carrasco Benitez,cs.CL,http://arxiv.org/pdf/0808.3889v1
+0809.3250v1,2008-09-18T20:48:13Z,Using descriptive mark-up to formalize translation quality assessment,Andrey Kutuzov,cs.CL,http://arxiv.org/pdf/0809.3250v1
+0810.0200v1,2008-10-01T15:53:36Z,Distribution of complexities in the Vai script,Charles Riley,cs.CL,http://arxiv.org/pdf/0810.0200v1
+0810.1199v1,2008-10-07T14:40:19Z,Une grammaire formelle du créole martiniquais pour la génération   automatique,Pascal Vaillant,cs.CL,http://arxiv.org/pdf/0810.1199v1
+0810.1207v1,2008-10-07T14:50:59Z,A Layered Grammar Model: Using Tree-Adjoining Grammars to Build a Common   Syntactic Kernel for Related Dialects,Pascal Vaillant,cs.CL,http://arxiv.org/pdf/0810.1207v1
+0811.0579v1,2008-11-04T19:31:58Z,UNL-French deconversion as transfer & generation from an interlingua   with possible quality enhancement through offline human interaction,Christian Boitet,cs.CL,http://arxiv.org/pdf/0811.0579v1
+0811.1260v1,2008-11-08T10:44:43Z,The Application of Fuzzy Logic to Collocation Extraction,H. S. Dhami,cs.CL,http://arxiv.org/pdf/0811.1260v1
+0901.3017v1,2009-01-20T12:55:55Z,Statistical analysis of the Indus script using $n$-grams,R. Adhikari,cs.CL,http://arxiv.org/pdf/0901.3017v1
+0901.4180v2,2009-01-27T06:29:10Z,Google distance between words,Alberto J. Evangelista,cs.CL,http://arxiv.org/pdf/0901.4180v2
+0902.1033v1,2009-02-06T09:28:58Z,New Confidence Measures for Statistical Machine Translation,Kamel Smaïli,cs.CL,http://arxiv.org/pdf/0902.1033v1
+0902.2345v1,2009-02-13T17:08:10Z,What's in a Message?,Nicolas Hernandez,cs.CL,http://arxiv.org/pdf/0902.2345v1
+0902.3072v1,2009-02-18T08:51:28Z,Syntactic variation of support verb constructions,Anastasia Yannacopoulou,cs.CL,http://arxiv.org/pdf/0902.3072v1
+0903.5168v1,2009-03-30T09:45:20Z,Mathematical Model for Transformation of Sentences from Active Voice to   Passive Voice,H. S. Dhami,cs.CL,http://arxiv.org/pdf/0903.5168v1
+0905.1609v1,2009-05-11T12:17:36Z,Acquisition of morphological families and derivational series from a   machine readable dictionary,Nabil Hathout,cs.CL,http://arxiv.org/pdf/0905.1609v1
+0906.0675v1,2009-06-03T09:53:12Z,Encoding models for scholarly literature,Laurent Romary,cs.CL,http://arxiv.org/pdf/0906.0675v1
+0906.2415v1,2009-06-12T23:50:06Z,Without a 'doubt'? Unsupervised discovery of downward-entailing   operators,Richard Ducott,cs.CL,http://arxiv.org/pdf/0906.2415v1
+0906.5114v1,2009-06-28T02:32:53Z,Non-Parametric Bayesian Areal Linguistics,Hal Daumé III,cs.CL,http://arxiv.org/pdf/0906.5114v1
+0907.0785v1,2009-07-04T18:43:16Z,A Bayesian Model for Discovering Typological Implications,Lyle Campbell,cs.CL,http://arxiv.org/pdf/0907.0785v1
+0907.0804v1,2009-07-04T22:57:26Z,Induction of Word and Phrase Alignments for Automatic Document   Summarization,Daniel Marcu,cs.CL,http://arxiv.org/pdf/0907.0804v1
+0907.0806v1,2009-07-04T22:26:47Z,A Noisy-Channel Model for Document Compression,Daniel Marcu,cs.CL,http://arxiv.org/pdf/0907.0806v1
+0907.0807v1,2009-07-04T22:28:15Z,A Large-Scale Exploration of Effective Global Features for a Joint   Entity Detection and Tracking Model,Daniel Marcu,cs.CL,http://arxiv.org/pdf/0907.0807v1
+0907.2452v1,2009-07-14T21:02:14Z,Pattern Based Term Extraction Using ACABIT System,Laurent Romary,cs.CL,http://arxiv.org/pdf/0907.2452v1
+0907.3781v1,2009-07-22T06:25:59Z,Un système modulaire d'acquisition automatique de traductions à   partir du Web,Stéphanie Léon,cs.CL,http://arxiv.org/pdf/0907.3781v1
+0908.4413v1,2009-08-30T18:50:19Z,Multiple Retrieval Models and Regression Models for Prior Art Search,Laurent Romary,cs.CL,http://arxiv.org/pdf/0908.4413v1
+0908.4431v1,2009-08-30T23:20:41Z,An OLAC Extension for Dravidian Languages,B Prabhulla Chandran Pillai,cs.CL,http://arxiv.org/pdf/0908.4431v1
+0909.1147v1,2009-09-07T06:29:51Z,Empowering OLAC Extension using Anusaaraka and Effective text processing   using Double Byte coding,B Prabhulla Chandran Pillai,cs.CL,http://arxiv.org/pdf/0909.1147v1
+0909.2379v1,2009-09-12T22:27:57Z,Implementation of Rule Based Algorithm for Sandhi-Vicheda Of Compound   Hindi Words,Vishal Goyal,cs.CL,http://arxiv.org/pdf/0909.2379v1
+0909.2626v1,2009-09-14T19:10:59Z,Reference Resolution within the Framework of Cognitive Grammar,Laurent Romary,cs.CL,http://arxiv.org/pdf/0909.2626v1
+0909.2715v1,2009-09-15T06:02:56Z,Marking-up multiple views of a Text: Discourse and Reference,Laurent Romary,cs.CL,http://arxiv.org/pdf/0909.2715v1
+0909.2718v1,2009-09-15T06:09:47Z,A Common XML-based Framework for Syntactic Annotations,Tomaz Erjavec,cs.CL,http://arxiv.org/pdf/0909.2718v1
+0909.2719v1,2009-09-15T06:10:45Z,Standards for Language Resources,Laurent Romary,cs.CL,http://arxiv.org/pdf/0909.2719v1
+0909.3027v1,2009-09-16T14:38:19Z,Language Models for Handwritten Short Message Services,Emmanuel Morin,cs.CL,http://arxiv.org/pdf/0909.3027v1
+0909.3028v1,2009-09-16T14:39:05Z,Vers la reconnaissance de mini-messages manuscrits,Christian Viard-Gaudin,cs.CL,http://arxiv.org/pdf/0909.3028v1
+0909.3444v1,2009-09-18T14:23:05Z,Analyse en dépendances à l'aide des grammaires d'interaction,Guy Perrier,cs.CL,http://arxiv.org/pdf/0909.3444v1
+0909.3445v1,2009-09-18T14:25:29Z,Grouping Synonyms by Definitions,Fabienne Venant,cs.CL,http://arxiv.org/pdf/0909.3445v1
+0909.3591v1,2009-09-19T15:38:55Z,"Mathematics, Recursion, and Universals in Human Languages",A. Karousou,cs.CL,http://arxiv.org/pdf/0909.3591v1
+0909.4280v1,2009-09-23T18:55:53Z,Towards Multimodal Content Representation,Laurent Romary,cs.CL,http://arxiv.org/pdf/0909.4280v1
+0911.0894v1,2009-11-04T19:33:21Z,A New Computational Schema for Euphonic Conjunctions in Sanskrit   Processing,Meenakshi Lakshmanan,cs.CL,http://arxiv.org/pdf/0911.0894v1
+0911.0907v1,2009-11-04T18:32:08Z,ANN-based Innovative Segmentation Method for Handwritten text in   Assamese,Kandarpa Kumar Sarma,cs.CL,http://arxiv.org/pdf/0911.0907v1
+0911.1516v2,2009-11-08T10:57:04Z,A Discourse-based Approach in Text-based Machine Translation,Kyung Sup Kwak,cs.CL,http://arxiv.org/pdf/0911.1516v2
+0911.1517v2,2009-11-09T13:52:05Z,Resolution of Unidentified Words in Machine Translation,Kyung Sup Kwak,cs.CL,http://arxiv.org/pdf/0911.1517v2
+0911.1842v1,2009-11-10T07:12:03Z,Standards for Language Resources,Laurent Romary,cs.CL,http://arxiv.org/pdf/0911.1842v1
+0911.2284v2,2009-11-12T01:48:12Z,A New Look at the Classical Entropy of Written English,Fabio G. Guerrero,cs.CL,http://arxiv.org/pdf/0911.2284v2
+0911.5116v1,2009-11-26T16:27:58Z,Standardization of the formal representation of lexical information for   NLP,Laurent Romary,cs.CL,http://arxiv.org/pdf/0911.5116v1
+0912.1820v1,2009-12-09T18:03:20Z,Parsing of part-of-speech tagged Assamese Texts,Utpal Sharma,cs.CL,http://arxiv.org/pdf/0912.1820v1
+0912.2881v2,2009-12-15T13:30:14Z,Representing human and machine dictionaries in Markup languages,Andreas Witt,cs.CL,http://arxiv.org/pdf/0912.2881v2
+1001.2267v1,2010-01-13T19:02:18Z,"Speech Recognition by Machine, A Review",S. K. Katti,cs.CL,http://arxiv.org/pdf/1001.2267v1
+1001.4273v1,2010-01-24T20:23:10Z,Sentence Simplification Aids Protein-Protein Interaction Extraction,Graciela Gonzalez,cs.CL,http://arxiv.org/pdf/1001.4273v1
+1001.4277v1,2010-01-24T20:35:29Z,Towards Effective Sentence Simplification for Automatic Processing of   Biomedical Text,Graciela Gonzalez,cs.CL,http://arxiv.org/pdf/1001.4277v1
+1002.0478v1,2010-02-02T13:23:47Z,Étude et traitement automatique de l'anglais du XVIIe siècle :   outils morphosyntaxiques et dictionnaires,Hélène Pignot,cs.CL,http://arxiv.org/pdf/1002.0478v1
+1002.0479v1,2010-02-02T13:24:20Z,"""Mind your p's and q's"": or the peregrinations of an apostrophe in 17th   Century English",Hélène Pignot,cs.CL,http://arxiv.org/pdf/1002.0479v1
+1002.0481v2,2010-02-02T13:24:38Z,Recognition and translation Arabic-French of Named Entities: case of the   Sport places,Héla Fehri,cs.CL,http://arxiv.org/pdf/1002.0481v2
+1002.0485v1,2010-02-02T13:35:02Z,"Morphological study of Albanian words, and processing with NooJ",Klara Lagji,cs.CL,http://arxiv.org/pdf/1002.0485v1
+1002.0773v1,2010-02-03T16:06:24Z,Approximations to the MMI criterion and their effect on lattice-based   MMI,Steven Wegmann,cs.CL,http://arxiv.org/pdf/1002.0773v1
+1002.0904v1,2010-02-04T06:30:14Z,On Event Structure in the Torn Dress,Serguei A. Mokhov,cs.CL,http://arxiv.org/pdf/1002.0904v1
+1002.1095v1,2010-02-04T22:48:31Z,Towards a Heuristic Categorization of Prepositional Phrases in English   with WordNet,Serguei A. Mokhov,cs.CL,http://arxiv.org/pdf/1002.1095v1
+1002.1919v2,2010-02-09T20:01:06Z,Thai Rhetorical Structure Analysis,Ohm Sornil,cs.CL,http://arxiv.org/pdf/1002.1919v2
+1002.3320v1,2010-02-17T17:30:22Z,Co-channel Interference Cancellation for Space-Time Coded OFDM Systems   Using Adaptive Beamforming and Null Deepening,Raungrong Suleesathira,cs.CL,http://arxiv.org/pdf/1002.3320v1
+1002.4820v1,2010-02-25T16:27:36Z,SLAM : Solutions lexicales automatique pour métaphores,Karine Duvignau,cs.CL,http://arxiv.org/pdf/1002.4820v1
+1004.4181v1,2010-04-23T17:00:18Z,Displacement Calculus,Oriol Valentín,cs.CL,http://arxiv.org/pdf/1004.4181v1
+1008.0170v1,2010-08-01T12:45:58Z,Symmetric categorial grammar: residuation and Galois connections,Michael Moortgat,cs.CL,http://arxiv.org/pdf/1008.0170v1
+1008.1986v1,2010-08-11T20:01:59Z,For the sake of simplicity: Unsupervised extraction of lexical   simplifications from Wikipedia,Lillian Lee,cs.CL,http://arxiv.org/pdf/1008.1986v1
+1008.3169v2,2010-08-18T20:08:22Z,Don't 'have a clue'? Unsupervised co-learning of downward-entailing   operators,Lillian Lee,cs.CL,http://arxiv.org/pdf/1008.3169v2
+1009.1117v2,2010-09-06T18:35:08Z,Constructions définitoires des tables du Lexique-Grammaire,Christian Leclère,cs.CL,http://arxiv.org/pdf/1009.1117v2
+1009.3238v1,2010-09-16T18:19:57Z,Tableaux for the Lambek-Grishin calculus,Arno Bastenhof,cs.CL,http://arxiv.org/pdf/1009.3238v1
+1010.1826v1,2010-10-09T10:09:18Z,A probabilistic top-down parser for minimalist grammars,Thomas Mainguy,cs.CL,http://arxiv.org/pdf/1010.1826v1
+1010.2384v1,2010-10-12T13:20:30Z,Learning Taxonomy for Text Segmentation by Formal Concept Analysis,Zsuzsana Marian,cs.CL,http://arxiv.org/pdf/1010.2384v1
+1011.0519v1,2010-11-02T06:37:31Z,Stabilizing knowledge through standards - A perspective for the   humanities,Laurent Romary,cs.CL,http://arxiv.org/pdf/1011.0519v1
+1011.0835v1,2010-11-03T10:05:15Z,A PDTB-Styled End-to-End Discourse Parser,Min-Yen Kan,cs.CL,http://arxiv.org/pdf/1011.0835v1
+1011.2922v1,2010-11-12T14:43:04Z,Emoticonsciousness,Jerom Janssen,cs.CL,http://arxiv.org/pdf/1011.2922v1
+1011.4155v1,2010-11-18T08:59:55Z,Motifs de graphe pour le calcul de dépendances syntaxiques complètes,Guy Perrier,cs.CL,http://arxiv.org/pdf/1011.4155v1
+1011.4623v1,2010-11-21T00:15:27Z,Opinion Polarity Identification through Adjectives,Fred Popowich,cs.CL,http://arxiv.org/pdf/1011.4623v1
+1011.5188v2,2010-11-23T18:20:40Z,La réduction de termes complexes dans les langues de spécialité,Elisa Lavagnino,cs.CL,http://arxiv.org/pdf/1011.5188v2
+1012.5962v2,2010-12-29T15:40:09Z,Annotated English,Jose Hernandez-Orallo,cs.CL,http://arxiv.org/pdf/1012.5962v2
+1101.5076v6,2011-01-26T14:56:20Z,Geometric representations for minimalist grammars,Sabrina Gerth,cs.CL,http://arxiv.org/pdf/1101.5076v6
+1101.5494v1,2011-01-28T09:58:39Z,Developing a New Approach for Arabic Morphological Analysis and   Generation,Noureddine Chenfour,cs.CL,http://arxiv.org/pdf/1101.5494v1
+1101.5757v1,2011-01-30T10:41:46Z,Polarized Montagovian Semantics for the Lambek-Grishin calculus,Arno Bastenhof,cs.CL,http://arxiv.org/pdf/1101.5757v1
+1105.1072v1,2011-05-05T13:51:46Z,English-Lithuanian-English Machine Translation lexicon and engine:   current state and future work,B. Tamulynas,cs.CL,http://arxiv.org/pdf/1105.1072v1
+1105.1226v1,2011-05-06T05:26:43Z,Multilingual lexicon design tool and database management system for MT,B. Tamulynas,cs.CL,http://arxiv.org/pdf/1105.1226v1
+1105.6162v2,2011-05-31T05:03:06Z,A statistical learning algorithm for word segmentation,Jerry R. Van Aken,cs.CL,http://arxiv.org/pdf/1105.6162v2
+1106.0673v1,2011-06-03T14:54:46Z,Computational Approach to Anaphora Resolution in Spanish Dialogues,M. Palomar,cs.CL,http://arxiv.org/pdf/1106.0673v1
+1106.5264v1,2011-06-26T21:05:14Z,Acquiring Correct Knowledge for Natural Language Generation,S. G. Sripada,cs.CL,http://arxiv.org/pdf/1106.5264v1
+1106.5973v1,2011-06-27T20:13:07Z,Entropy of Telugu,Venkata Ravinder Paruchuri,cs.CL,http://arxiv.org/pdf/1106.5973v1
+1107.0193v3,2011-07-01T11:01:52Z,On the origin of ambiguity in efficient communication,Bernat Corominas-Murtra,cs.CL,http://arxiv.org/pdf/1107.0193v3
+1107.1753v1,2011-07-09T00:40:06Z,Notes on Electronic Lexicography,Yavor Parvanov,cs.CL,http://arxiv.org/pdf/1107.1753v1
+1107.4687v2,2011-07-23T12:56:02Z,Fence - An Efficient Parser with Ambiguity Support for Model-Driven   Language Specification,Francisco J. Cortijo,cs.CL,http://arxiv.org/pdf/1107.4687v2
+1107.4723v2,2011-07-24T06:27:56Z,"A Semantic Relatedness Measure Based on Combined Encyclopedic,   Ontological and Collocational Knowledge",Vitaly Klyuev,cs.CL,http://arxiv.org/pdf/1107.4723v2
+1107.4734v1,2011-07-24T08:35:12Z,Design of Arabic Diacritical Marks,Azzeddine Lazrek,cs.CL,http://arxiv.org/pdf/1107.4734v1
+1107.4796v1,2011-07-24T20:37:57Z,Use Pronunciation by Analogy for text to speech system in Persian   language,Mohammad hosein Yektaee,cs.CL,http://arxiv.org/pdf/1107.4796v1
+1107.5743v1,2011-07-28T15:37:56Z,NEMO: Extraction and normalization of organization names from PubMed   affiliation strings,Philip Topham,cs.CL,http://arxiv.org/pdf/1107.5743v1
+1107.5744v1,2011-07-28T15:40:31Z,BioSimplify: an open source sentence simplification engine to improve   recall in automatic biomedical information extraction,Graciela Gonzalez,cs.CL,http://arxiv.org/pdf/1107.5744v1
+1107.5752v2,2011-07-28T15:59:21Z,An Effective Approach to Biomedical Information Extraction with Limited   Training Data,Siddhartha Jonnalagadda,cs.CL,http://arxiv.org/pdf/1107.5752v2
+1108.0353v2,2011-08-01T16:20:50Z,Cross-moments computation for stochastic context-free grammars,Miomir S. Stankovic,cs.CL,http://arxiv.org/pdf/1108.0353v2
+1108.0631v3,2011-08-02T17:33:36Z,Serialising the ISO SynAF Syntactic Object Model,Florian Zipser,cs.CL,http://arxiv.org/pdf/1108.0631v3
+1108.1966v1,2011-08-09T16:03:24Z,A Concise Query Language with Search and Transform Operations for   Corpora with Multiple Levels of Annotation,Anil Kumar Singh,cs.CL,http://arxiv.org/pdf/1108.1966v1
+1108.3843v1,2011-08-18T20:04:28Z,Using Inverse lambda and Generalization to Translate English to Formal   Languages,Jiayu Zhou,cs.CL,http://arxiv.org/pdf/1108.3843v1
+1108.3848v1,2011-08-18T20:12:50Z,Language understanding as a step towards human level intelligence -   automatizing the construction of the initial dictionary from example   sentences,Juraj Dzifcak,cs.CL,http://arxiv.org/pdf/1108.3848v1
+1108.4052v1,2011-08-19T21:41:29Z,Query Expansion: Term Selection using the EWC Semantic Relatedness   Measure,Yannis Haralambous,cs.CL,http://arxiv.org/pdf/1108.4052v1
+1108.5096v1,2011-08-25T14:15:46Z,"Minimalist Grammars and Minimalist Categorial Grammars, definitions   toward inclusion of generated languages",Maxime Amblard,cs.CL,http://arxiv.org/pdf/1108.5096v1
+1109.0069v2,2011-09-01T02:20:12Z,Inter-rater Agreement on Sentence Formality,Xiaofei Lu,cs.CL,http://arxiv.org/pdf/1109.0069v2
+1109.0624v1,2011-09-03T14:30:44Z,Building Ontologies to Understand Spoken Tunisian Dialect,Lamia Hadrich Belguith,cs.CL,http://arxiv.org/pdf/1109.0624v1
+1109.2128v2,2011-09-09T20:20:38Z,LexRank: Graph-based Lexical Centrality as Salience in Text   Summarization,Dragomir R. Radev,cs.CL,http://arxiv.org/pdf/1109.2128v2
+1109.2130v1,2011-09-09T20:22:04Z,Combining Knowledge- and Corpus-based Word-Sense-Disambiguation Methods,A. Suarez,cs.CL,http://arxiv.org/pdf/1109.2130v1
+1109.2136v1,2011-09-09T20:24:57Z,Learning Content Selection Rules for Generating Object Descriptions in   Dialogue,M. A. Walker,cs.CL,http://arxiv.org/pdf/1109.2136v1
+1109.4531v1,2011-09-21T13:57:49Z,A Probabilistic Approach to Pronunciation by Analogy,Aleksi Keurulainen,cs.CL,http://arxiv.org/pdf/1109.4531v1
+1109.4906v1,2011-09-22T18:37:17Z,Automatic transcription of 17th century English text in Contemporary   English with NooJ: Method and Evaluation,Hélène Pignot,cs.CL,http://arxiv.org/pdf/1109.4906v1
+1109.5798v1,2011-09-27T08:00:46Z,Object-oriented semantics of English in natural language understanding   system,Yuriy Ostapov,cs.CL,http://arxiv.org/pdf/1109.5798v1
+1110.1470v3,2011-10-07T09:53:41Z,A Constraint-Satisfaction Parser for Context-Free Grammars,Francisco J. Cortijo,cs.CL,http://arxiv.org/pdf/1110.1470v3
+1110.1758v2,2011-10-08T19:15:12Z,Data formats for phonological corpora,Andreas Witt,cs.CL,http://arxiv.org/pdf/1110.1758v2
+1110.2215v1,2011-10-10T22:13:24Z,NP Animacy Identification for Anaphora Resolution,C. Orasan,cs.CL,http://arxiv.org/pdf/1110.2215v1
+1110.4248v1,2011-10-19T11:45:16Z,Ideogram Based Chinese Sentiment Word Orientation Computation,Luojie Xiang,cs.CL,http://arxiv.org/pdf/1110.4248v1
+1111.0048v1,2011-10-31T21:53:32Z,Individual and Domain Adaptation in Sentence Planning for Dialogue,M. A. Walker,cs.CL,http://arxiv.org/pdf/1111.0048v1
+1111.3122v1,2011-11-14T07:41:42Z,ESLO: from transcription to speakers' personal information annotation,Nathalie Friburger,cs.CL,http://arxiv.org/pdf/1111.3122v1
+1111.3152v1,2011-11-14T09:34:34Z,Évaluation de lexiques syntaxiques par leur intégartion dans   l'analyseur syntaxiques FRMG,Sagot Benoit,cs.CL,http://arxiv.org/pdf/1111.3152v1
+1111.3153v1,2011-11-14T09:34:59Z,Construction du lexique LGLex à partir des tables du Lexique-Grammaire   des verbes du grec moderne,Elsa Tolone,cs.CL,http://arxiv.org/pdf/1111.3153v1
+1111.3462v1,2011-11-15T09:24:36Z,Extending the adverbial coverage of a NLP oriented resource for French,Voyatzi Stavroula,cs.CL,http://arxiv.org/pdf/1111.3462v1
+1111.4343v1,2011-11-18T12:31:49Z,Question Answering in a Natural Language Understanding System Based on   Object-Oriented Semantics,Yuriy Ostapov,cs.CL,http://arxiv.org/pdf/1111.4343v1
+1111.5293v1,2011-11-13T18:19:15Z,Rule based Part of speech Tagger for Homoeopathy Clinical realm,Pramod P. Sukhadeve,cs.CL,http://arxiv.org/pdf/1111.5293v1
+1111.6553v1,2011-11-28T19:17:57Z,Exploring Twitter Hashtags,Jan Pöschko,cs.CL,http://arxiv.org/pdf/1111.6553v1
+1201.1192v1,2012-01-05T15:22:05Z,Formalization of semantic network of image constructions in electronic   content,Irina Kravchuk,cs.CL,http://arxiv.org/pdf/1201.1192v1
+1201.2010v1,2012-01-10T10:33:18Z,Recognizing Bangla Grammar using Predictive Parser,Amit Saha,cs.CL,http://arxiv.org/pdf/1201.2010v1
+1201.6224v2,2012-01-30T14:26:31Z,Wikipedia Arborification and Stratified Explicit Semantic Analysis,Vitaly Klyuev,cs.CL,http://arxiv.org/pdf/1201.6224v2
+1202.0116v1,2012-02-01T08:36:50Z,Inference and Plausible Reasoning in a Natural Language Understanding   System Based on Object-Oriented Semantics,Yuriy Ostapov,cs.CL,http://arxiv.org/pdf/1202.0116v1
+1202.1054v1,2012-02-06T06:33:03Z,Considering a resource-light approach to learning verb valencies,Alex Rudnick,cs.CL,http://arxiv.org/pdf/1202.1054v1
+1202.1568v2,2012-02-08T00:49:36Z,Beyond Sentiment: The Manifold of Human Emotions,Irfan Essa,cs.CL,http://arxiv.org/pdf/1202.1568v2
+1202.6266v1,2012-02-28T16:04:36Z,Realisation d'un systeme de reconnaissance automatique de la parole   arabe base sur CMU Sphinx,Noureddine Chenfour,cs.CL,http://arxiv.org/pdf/1202.6266v1
+1203.0145v2,2012-03-01T11:06:32Z,The Horse Raced Past: Gardenpath Processing in Dynamical Systems,Peter beim Graben,cs.CL,http://arxiv.org/pdf/1203.0145v2
+1203.1685v1,2012-03-08T03:06:29Z,Statistical Function Tagging and Grammatical Relations of Myanmar   Sentences,Ni Lar Thein,cs.CL,http://arxiv.org/pdf/1203.1685v1
+1203.1858v1,2012-03-08T17:29:33Z,Distributional Measures of Semantic Distance: A Survey,Graeme Hirst,cs.CL,http://arxiv.org/pdf/1203.1858v1
+1203.1889v1,2012-03-08T19:03:37Z,Distributional Measures as Proxies for Semantic Relatedness,Graeme Hirst,cs.CL,http://arxiv.org/pdf/1203.1889v1
+1203.2498v2,2012-03-08T13:28:03Z,Fault detection system for Arabic language,Houda Amraoui,cs.CL,http://arxiv.org/pdf/1203.2498v2
+1203.3023v1,2012-03-14T08:51:14Z,Toward an example-based machine translation from written text to ASL   using virtual agent animation,Mohamed Jemni,cs.CL,http://arxiv.org/pdf/1203.3023v1
+1203.3584v1,2012-03-15T22:49:20Z,An Accurate Arabic Root-Based Lemmatizer for Information Retrieval   Purposes,Fatma El-Ghannam,cs.CL,http://arxiv.org/pdf/1203.3584v1
+1203.4605v1,2012-03-20T21:52:35Z,Arabic Keyphrase Extraction using Linguistic knowledge and Machine   Learning Techniques,Abdulwahab Al-sammak,cs.CL,http://arxiv.org/pdf/1203.4605v1
+1203.4933v1,2012-03-22T09:50:51Z,Reduplicated MWE (RMWE) helps in improving the CRF based Manipuri POS   Tagger,Sivaji Bandyopadhyay,cs.CL,http://arxiv.org/pdf/1203.4933v1
+1203.5051v1,2012-03-22T17:45:39Z,Analysing Temporally Annotated Corpora with CAVaT,Robert Gaizauskas,cs.CL,http://arxiv.org/pdf/1203.5051v1
+1203.5055v1,2012-03-22T17:50:08Z,Using Signals to Improve Automatic Classification of Temporal Relations,Robert Gaizauskas,cs.CL,http://arxiv.org/pdf/1203.5055v1
+1203.5060v1,2012-03-22T17:59:22Z,USFD2: Annotating Temporal Expresions and TLINKs for TempEval-2,Robert Gaizauskas,cs.CL,http://arxiv.org/pdf/1203.5060v1
+1203.5062v1,2012-03-22T18:05:26Z,An Annotation Scheme for Reichenbach's Verbal Tense Structure,Robert Gaizauskas,cs.CL,http://arxiv.org/pdf/1203.5062v1
+1203.5066v1,2012-03-22T18:08:47Z,A Corpus-based Study of Temporal Signals,Robert Gaizauskas,cs.CL,http://arxiv.org/pdf/1203.5066v1
+1203.5073v1,2012-03-22T18:34:19Z,"USFD at KBP 2011: Entity Linking, Slot Filling and Temporal Bounding",Robert Gaizauskas,cs.CL,http://arxiv.org/pdf/1203.5073v1
+1203.5076v1,2012-03-22T18:45:07Z,Massively Increasing TIMEX3 Resources: A Transduction Approach,Estela Saquete,cs.CL,http://arxiv.org/pdf/1203.5076v1
+1203.5255v1,2012-03-23T14:32:50Z,Post-Editing Error Correction Algorithm for Speech Recognition using   Bing Spelling Suggestion,Mohammad Alwani,cs.CL,http://arxiv.org/pdf/1203.5255v1
+1203.5262v1,2012-03-23T14:51:05Z,ASR Context-Sensitive Error Correction Based on Microsoft N-Gram Dataset,Paul Semaan,cs.CL,http://arxiv.org/pdf/1203.5262v1
+1203.6136v1,2012-03-28T02:13:39Z,"Tree Transducers, Machine Translation, and Cross-Language Divergences",Alex Rudnick,cs.CL,http://arxiv.org/pdf/1203.6136v1
+1204.0140v1,2012-03-31T21:53:56Z,Roget's Thesaurus as a Lexical Resource for Natural Language Processing,Mario Jarmasz,cs.CL,http://arxiv.org/pdf/1204.0140v1
+1204.0184v1,2012-04-01T09:28:20Z,Parallel Spell-Checking Algorithm Based on Yahoo! N-Grams Dataset,Youssef Bassil,cs.CL,http://arxiv.org/pdf/1204.0184v1
+1204.0191v1,2012-04-01T10:34:38Z,OCR Post-Processing Error Correction Algorithm using Google Online   Spelling Suggestion,Mohammad Alwani,cs.CL,http://arxiv.org/pdf/1204.0191v1
+1204.0245v1,2012-04-01T17:04:13Z,Roget's Thesaurus and Semantic Similarity,Stan Szpakowicz,cs.CL,http://arxiv.org/pdf/1204.0245v1
+1204.0257v1,2012-04-01T19:19:36Z,Not As Easy As It Seems: Automating the Construction of Lexical Chains   Using Roget's Thesaurus,Stan Szpakowicz,cs.CL,http://arxiv.org/pdf/1204.0257v1
+1204.0258v1,2012-04-01T19:25:29Z,Roget's Thesaurus: a Lexical Resource to Treasure,Stan Szpakowicz,cs.CL,http://arxiv.org/pdf/1204.0258v1
+1204.2847v2,2012-04-12T22:01:27Z,Segmentation Similarity and Agreement,Diana Inkpen,cs.CL,http://arxiv.org/pdf/1204.2847v2
+1204.3800v1,2012-04-17T14:14:26Z,"Indus script corpora, archaeo-metallurgy and Meluhha (Mleccha)",Srinivasan Kalyanaraman,cs.CL,http://arxiv.org/pdf/1204.3800v1
+1204.5852v1,2012-04-26T07:44:18Z,Context-sensitive Spelling Correction Using Google Web 1T 5-Gram   Information,Mohammad Alwani,cs.CL,http://arxiv.org/pdf/1204.5852v1
+1204.6364v1,2012-04-28T03:52:21Z,A Corpus-based Evaluation of a Domain-specific Text to Knowledge Mapping   Prototype,Quazi Mah-Zereen Akter,cs.CL,http://arxiv.org/pdf/1204.6364v1
+1205.0627v1,2012-05-03T06:49:59Z,Rule-weighted and terminal-weighted context-free grammars have identical   expressivity,Yann Ponty,cs.CL,http://arxiv.org/pdf/1205.0627v1
+1205.1603v1,2012-05-08T07:01:40Z,Parsing of Myanmar sentences with function tagging,Ni Lar Thein,cs.CL,http://arxiv.org/pdf/1205.1603v1
+1205.3183v1,2012-05-14T20:12:06Z,A Model-Driven Probabilistic Parser Generator,Francisco J. Cortijo,cs.CL,http://arxiv.org/pdf/1205.3183v1
+1205.3316v1,2012-05-15T10:34:05Z,"Arabic Language Learning Assisted by Computer, based on Automatic Speech   Recognition",Mounir Zrigui,cs.CL,http://arxiv.org/pdf/1205.3316v1
+1205.4298v1,2012-05-19T05:04:31Z,Task-specific Word-Clustering for Part-of-Speech Tagging,Yoav Goldberg,cs.CL,http://arxiv.org/pdf/1205.4298v1
+1205.4387v1,2012-05-20T06:36:19Z,Precision-biased Parsing and High-Quality Parse Selection,Michael Elhadad,cs.CL,http://arxiv.org/pdf/1205.4387v1
+1205.5407v2,2012-05-24T11:53:41Z,FASTSUBS: An Efficient and Exact Procedure for Finding the Most Likely   Lexical Substitutes Based on an N-gram Language Model,Deniz Yuret,cs.CL,http://arxiv.org/pdf/1205.5407v2
+1205.6832v1,2012-01-20T17:33:47Z,Système d'aide à l'accès lexical : trouver le mot qu'on a sur le   bout de la langue,Michael Zock,cs.CL,http://arxiv.org/pdf/1205.6832v1
+1206.0042v1,2012-05-31T22:02:32Z,Language Acquisition in Computers,Jorge H. Roman,cs.CL,http://arxiv.org/pdf/1206.0042v1
+1206.0381v1,2012-06-02T13:23:18Z,UNL Based Bangla Natural Text Conversion - Predicate Preserving Parser   Approach,Shaikh Muhammad Allayear,cs.CL,http://arxiv.org/pdf/1206.0381v1
+1206.1066v1,2012-06-05T20:15:35Z,Hedge detection as a lens on framing in the GMO debates: A position   paper,Jennifer Spindel,cs.CL,http://arxiv.org/pdf/1206.1066v1
+1206.2009v1,2012-06-10T09:27:51Z,Developing a model for a text database indexed pedagogically for   teaching the Arabic language,Mounir Zrigui,cs.CL,http://arxiv.org/pdf/1206.2009v1
+1206.4522v1,2012-06-20T15:06:48Z,BADREX: In situ expansion and coreference of biomedical abbreviations   using dynamic regular expressions,Phil Gooch,cs.CL,http://arxiv.org/pdf/1206.4522v1
+1206.5333v2,2012-06-22T22:30:44Z,"TempEval-3: Evaluating Events, Time Expressions, and Temporal Relations",James Pustejovsky,cs.CL,http://arxiv.org/pdf/1206.5333v2
+1207.0245v2,2012-07-01T21:13:05Z,Adversarial Evaluation for Models of Natural Language,Noah A. Smith,cs.CL,http://arxiv.org/pdf/1207.0245v2
+1207.1420v1,2012-07-04T16:27:56Z,Learning to Map Sentences to Logical Form: Structured Classification   with Probabilistic Categorial Grammars,Michael Collins,cs.CL,http://arxiv.org/pdf/1207.1420v1
+1207.2714v1,2012-07-11T17:31:11Z,Clustering based approach extracting collocations,Mohsen Maraoui,cs.CL,http://arxiv.org/pdf/1207.2714v1
+1207.3932v1,2012-07-17T10:14:24Z,Automatic Segmentation of Manipuri (Meiteilon) Word into Syllabic Units,Sivaji Bandyopadhyay,cs.CL,http://arxiv.org/pdf/1207.3932v1
+1207.4625v1,2012-07-19T12:04:26Z,Appropriate Nouns with Obligatory Modifiers,E. Laporte,cs.CL,http://arxiv.org/pdf/1207.4625v1
+1207.5328v3,2012-07-23T09:02:18Z,A prototype for projecting HPSG syntactic lexica towards LMF,Laurent Romary,cs.CL,http://arxiv.org/pdf/1207.5328v3
+1208.0200v1,2012-08-01T13:06:54Z,Adaptation of pedagogical resources description standard (LOM) with the   specificity of Arabic language,Mounir Zrigui,cs.CL,http://arxiv.org/pdf/1208.0200v1
+1208.2777v1,2012-08-14T03:25:33Z,A Method for Selecting Noun Sense using Co-occurrence Relation in   English-Korean Translation,Changil Choe,cs.CL,http://arxiv.org/pdf/1208.2777v1
+1208.3001v1,2012-08-15T00:53:39Z,More than Word Frequencies: Authorship Attribution via Natural Frequency   Zoned Word Distribution Analysis,Haibo Miao,cs.CL,http://arxiv.org/pdf/1208.3001v1
+1208.4079v1,2012-08-20T18:34:27Z,Recent Technological Advances in Natural Language Processing and   Artificial Intelligence,Nishal Pradeepkumar Shah,cs.CL,http://arxiv.org/pdf/1208.4079v1
+1208.4503v1,2012-08-22T14:11:07Z,Introduction of the weight edition errors in the Levenshtein distance,Gueddah Hicham,cs.CL,http://arxiv.org/pdf/1208.4503v1
+1208.6109v1,2012-08-30T08:30:32Z,Average word length dynamics as indicator of cultural changes in society,Valery D. Solovyev,cs.CL,http://arxiv.org/pdf/1208.6109v1
+1209.1300v1,2012-08-19T02:38:12Z,Input Scheme for Hindi Using Phonetic Mapping,Iti Mathur,cs.CL,http://arxiv.org/pdf/1209.1300v1
+1209.1301v1,2012-08-19T02:31:29Z,Evaluation of Computational Grammar Formalisms for Indian Languages,Iti Mathur,cs.CL,http://arxiv.org/pdf/1209.1301v1
+1209.2400v1,2012-09-11T19:18:26Z,Identification of Fertile Translations in Medical Comparable Corpora: a   Morpho-Compositional Approach,Claire Lemaire,cs.CL,http://arxiv.org/pdf/1209.2400v1
+1209.6238v1,2012-09-25T21:05:08Z,Natural Language Processing - A Survey,Kevin Mote,cs.CL,http://arxiv.org/pdf/1209.6238v1
+1210.4567v2,2012-10-16T20:22:56Z,Gender identity and lexical variation in social media,Tyler Schnoebelen,cs.CL,http://arxiv.org/pdf/1210.4567v2
+1210.5486v2,2012-10-19T17:49:06Z,A Lightweight Stemmer for Gujarati,Iti Mathur,cs.CL,http://arxiv.org/pdf/1210.5486v2
+1210.5517v1,2012-10-19T17:59:56Z,Design of English-Hindi Translation Memory for Efficient Translation,Iti Mathur,cs.CL,http://arxiv.org/pdf/1210.5517v1
+1210.5751v1,2012-10-21T19:06:11Z,Extraction of domain-specific bilingual lexicon from comparable corpora:   compositional translation and ranking,Claire Lemaire,cs.CL,http://arxiv.org/pdf/1210.5751v1
+1210.5965v1,2012-10-22T16:40:35Z,Classification Analysis Of Authorship Fiction Texts in The Space Of   Semantic Fields,Bohdan Pavlyshenko,cs.CL,http://arxiv.org/pdf/1210.5965v1
+1210.7282v1,2012-10-27T02:34:35Z,The Hangulphabet: A Descriptive Alphabet,Ruggero Micheletto,cs.CL,http://arxiv.org/pdf/1210.7282v1
+1210.8440v1,2012-10-31T18:57:14Z,Large Scale Language Modeling in Automatic Speech Recognition,Shankar Kumar,cs.CL,http://arxiv.org/pdf/1210.8440v1
+1212.1192v2,2012-12-05T22:10:04Z,Using external sources of bilingual information for on-the-fly word   alignment,Mikel L. Forcada,cs.CL,http://arxiv.org/pdf/1212.1192v2
+1212.3138v1,2012-12-13T11:47:09Z,Identifying Metaphor Hierarchies in a Corpus Analysis of Finance   Articles,Mark Keane,cs.CL,http://arxiv.org/pdf/1212.3138v1
+1212.3139v2,2012-12-13T11:53:25Z,Identifying Metaphoric Antonyms in a Corpus Analysis of Finance Articles,Mark Keane,cs.CL,http://arxiv.org/pdf/1212.3139v2
+1212.3162v1,2012-12-13T13:00:55Z,Diachronic Variation in Grammatical Relations,Khurshid Ahmad,cs.CL,http://arxiv.org/pdf/1212.3162v1
+1212.4315v1,2012-12-18T11:33:50Z,Assessing Sentiment Strength in Words Prior Polarities,Marco Guerini,cs.CL,http://arxiv.org/pdf/1212.4315v1
+1212.4674v1,2012-12-19T14:40:38Z,Natural Language Understanding Based on Semantic Relations between   Sentences,Hyeok Kong,cs.CL,http://arxiv.org/pdf/1212.4674v1
+1302.1123v1,2013-02-05T17:09:49Z,Large Scale Distributed Acoustic Modeling With Back-off N-grams,Thomas Richardson,cs.CL,http://arxiv.org/pdf/1302.1123v1
+1302.1380v1,2013-02-06T14:17:55Z,Towards the Rapid Development of a Natural Language Understanding Module,Bruno Martins,cs.CL,http://arxiv.org/pdf/1302.1380v1
+1302.1422v2,2013-02-06T16:26:49Z,Sémantique des déterminants dans un cadre richement typé,Christian Retoré,cs.CL,http://arxiv.org/pdf/1302.1422v2
+1302.1572v1,2013-02-06T15:59:24Z,Lexical Access for Speech Understanding using Minimum Message Length   Encoding,Bhavani Raskutti,cs.CL,http://arxiv.org/pdf/1302.1572v1
+1302.3057v1,2013-02-13T11:54:56Z,Building a reordering system using tree-to-string hierarchical model,Irina Galinskaya,cs.CL,http://arxiv.org/pdf/1302.3057v1
+1302.4489v1,2013-02-19T00:30:57Z,Termhood-based Comparability Metrics of Comparable Corpus in Special   Domain,Chengzhi Zhang,cs.CL,http://arxiv.org/pdf/1302.4489v1
+1302.4492v1,2013-02-19T00:37:21Z,Bilingual Terminology Extraction Using Multi-level Termhood,Dan Wu,cs.CL,http://arxiv.org/pdf/1302.4492v1
+1302.4811v1,2013-02-20T05:46:53Z,Towards a Semantic-based Approach for Modeling Regulatory Documents in   Building Industry,Le-Thanh Nhan,cs.CL,http://arxiv.org/pdf/1302.4811v1
+1302.4813v1,2013-02-20T05:47:32Z,Probabilistic Frame Induction,Lucy Vanderwende,cs.CL,http://arxiv.org/pdf/1302.4813v1
+1302.4814v1,2013-02-20T05:47:44Z,NLP and CALL: integration is working,Virginie Zampa,cs.CL,http://arxiv.org/pdf/1302.4814v1
+1302.5645v1,2013-02-18T15:28:51Z,Role of temporal inference in the recognition of textual inference,Djallel Bouneffouf,cs.CL,http://arxiv.org/pdf/1302.5645v1
+1302.6777v1,2013-02-27T14:13:10Z,Ending-based Strategies for Part-of-speech Tagging,Tim Philip,cs.CL,http://arxiv.org/pdf/1302.6777v1
+1303.0446v1,2013-03-03T01:38:03Z,Statistical sentiment analysis performance in Opinum,Sergio Ortiz Rojas,cs.CL,http://arxiv.org/pdf/1303.0446v1
+1303.1929v1,2013-03-08T10:13:56Z,Towards the Fully Automatic Merging of Lexical Resources: A Step Forward,Silvia Necsulescu,cs.CL,http://arxiv.org/pdf/1303.1929v1
+1303.1930v1,2013-03-08T10:14:04Z,Automatic lexical semantic classification of nouns,Muntsa Padró,cs.CL,http://arxiv.org/pdf/1303.1930v1
+1303.1931v1,2013-03-08T10:14:31Z,A Classification of Adjectives for Polarity Lexicons Enhancement,Núria Bel,cs.CL,http://arxiv.org/pdf/1303.1931v1
+1303.1932v1,2013-03-08T10:15:57Z,Mining and Exploiting Domain-Specific Corpora in the PANACEA Platform,Victoria Arranz,cs.CL,http://arxiv.org/pdf/1303.1932v1
+1303.2448v1,2013-03-11T08:21:17Z,Automatic Detection of Non-deverbal Event Nouns for Quick Lexicon   Production,Gabriela Resnik,cs.CL,http://arxiv.org/pdf/1303.2448v1
+1303.2449v1,2013-03-11T08:21:48Z,Using qualia information to identify lexical semantic classes in an   unsupervised clustering task,Núria Bel,cs.CL,http://arxiv.org/pdf/1303.2449v1
+1303.2826v1,2013-03-12T10:20:50Z,Probabilistic Topic and Syntax Modeling with Part-of-Speech LDA,Fei Song,cs.CL,http://arxiv.org/pdf/1303.2826v1
+1303.5960v3,2013-03-24T15:27:51Z,SYNTAGMA. A Linguistic Approach to Parsing,Daniel Christen,cs.CL,http://arxiv.org/pdf/1303.5960v3
+1304.3265v1,2013-04-11T11:56:39Z,Extension of hidden markov model for recognizing large vocabulary of   sign language,Mohamed Jemni,cs.CL,http://arxiv.org/pdf/1304.3265v1
+1304.4520v1,2013-04-16T17:06:24Z,Sentiment Analysis : A Literature Survey,Pushpak Bhattacharyya,cs.CL,http://arxiv.org/pdf/1304.4520v1
+1304.5880v1,2013-04-22T09:06:36Z,Dealing with natural language interfaces in a geolocation context,Anna Pappa,cs.CL,http://arxiv.org/pdf/1304.5880v1
+1304.7282v1,2013-04-25T10:25:41Z,An Improved Approach for Word Ambiguity Removal,Urmila Shrawankar,cs.CL,http://arxiv.org/pdf/1304.7282v1
+1304.7289v1,2013-04-26T21:31:08Z,TimeML-strict: clarifying temporal annotation,Naushad UzZaman,cs.CL,http://arxiv.org/pdf/1304.7289v1
+1304.7942v1,2013-04-30T10:12:54Z,ManTIME: Temporal expression identification and normalization in the   TempEval-3 challenge,Goran Nenadic,cs.CL,http://arxiv.org/pdf/1304.7942v1
+1307.0596v1,2013-07-02T06:25:51Z,Improving Pointwise Mutual Information (PMI) by Incorporating   Significant Co-occurrence,Om P. Damani,cs.CL,http://arxiv.org/pdf/1307.0596v1
+1307.1872v1,2013-07-07T15:04:11Z,Intelligent Hybrid Man-Machine Translation Quality Estimation,Mona Habib,cs.CL,http://arxiv.org/pdf/1307.1872v1
+1307.3310v1,2013-07-12T03:05:29Z,Improving the quality of Gujarati-Hindi Machine Translation through   part-of-speech tagging and stemmer-assisted transliteration,Iti Mathur,cs.CL,http://arxiv.org/pdf/1307.3310v1
+1307.4299v1,2013-07-15T15:59:12Z,Part of Speech Tagging of Marathi Text Using Trigram Method,Iti Mathur,cs.CL,http://arxiv.org/pdf/1307.4299v1
+1307.4300v1,2013-07-15T15:54:43Z,Rule Based Transliteration Scheme for English to Punjabi,Iti Mathur,cs.CL,http://arxiv.org/pdf/1307.4300v1
+1307.5393v1,2013-07-20T09:05:15Z,Clustering Algorithm for Gujarati Language,Prem Balani,cs.CL,http://arxiv.org/pdf/1307.5393v1
+1307.6163v2,2013-07-23T17:15:34Z,Human and Automatic Evaluation of English-Hindi Machine Translation,Iti Mathur,cs.CL,http://arxiv.org/pdf/1307.6163v2
+1307.7382v1,2013-07-28T16:55:27Z,Learning Frames from Text with an Unsupervised Latent Variable Model,Brendan O'Connor,cs.CL,http://arxiv.org/pdf/1307.7382v1
+1310.0573v1,2013-10-02T05:58:52Z,Improving the Quality of MT Output using Novel Name Entity Translation   Scheme,Iti Mathur,cs.CL,http://arxiv.org/pdf/1310.0573v1
+1310.0575v2,2013-10-02T06:04:53Z,Development of Marathi Part of Speech Tagger Using Statistical Approach,Iti Mathur,cs.CL,http://arxiv.org/pdf/1310.0575v2
+1310.0578v1,2013-10-02T06:10:49Z,Subjective and Objective Evaluation of English to Urdu Machine   Translation,Iti Mathur,cs.CL,http://arxiv.org/pdf/1310.0578v1
+1310.0581v1,2013-10-02T06:15:03Z,Rule Based Stemmer in Urdu,Iti Mathur,cs.CL,http://arxiv.org/pdf/1310.0581v1
+1310.0754v1,2013-10-02T16:23:00Z,Stemmers for Tamil Language: Performance Analysis,R. Manavalan,cs.CL,http://arxiv.org/pdf/1310.0754v1
+1310.1285v3,2013-10-04T14:21:42Z,"Semantic Measures for the Comparison of Units of Language, Concepts or   Instances from Text and Knowledge Base Analysis",Jacky Montmain,cs.CL,http://arxiv.org/pdf/1310.1285v3
+1310.1425v1,2013-10-05T00:33:46Z,A State of the Art of Word Sense Induction: A Way Towards Word Sense   Disambiguation for Under-Resourced Languages,Mohammad Nasiruddin,cs.CL,http://arxiv.org/pdf/1310.1425v1
+1310.1426v1,2013-10-05T00:39:02Z,Local Feature or Mel Frequency Cepstral Coefficients - Which One is   Better for MLN-Based Bangla Speech Recognition?,Mohammad Nurul Huda,cs.CL,http://arxiv.org/pdf/1310.1426v1
+1310.1590v1,2013-10-06T14:37:05Z,Evolution of the Modern Phase of Written Bangla: A Statistical Study,Arnab Bhattacharya,cs.CL,http://arxiv.org/pdf/1310.1590v1
+1310.1964v1,2013-10-07T22:08:18Z,Named entity recognition using conditional random fields with non-local   relational constraints,Elisabetta Fersini,cs.CL,http://arxiv.org/pdf/1310.1964v1
+1310.1975v1,2013-10-08T00:30:51Z,ARKref: a rule-based coreference resolution system,Michael Heilman,cs.CL,http://arxiv.org/pdf/1310.1975v1
+1310.8059v1,2013-10-30T08:08:43Z,Description and Evaluation of Semantic Similarity Measures Approaches,Thabet Slimani,cs.CL,http://arxiv.org/pdf/1310.8059v1
+1311.0833v1,2013-11-04T20:11:35Z,A Comparative Study on Linguistic Feature Selection in Sentiment   Polarity Classification,Zitao Liu,cs.CL,http://arxiv.org/pdf/1311.0833v1
+1311.1169v1,2013-11-05T19:31:33Z,Using Robust PCA to estimate regional characteristics of language use   from geo-tagged Twitter messages,Gábor Vattay,cs.CL,http://arxiv.org/pdf/1311.1169v1
+1311.1194v1,2013-11-05T20:55:23Z,Identifying Purpose Behind Electoral Tweets,Joel Martin,cs.CL,http://arxiv.org/pdf/1311.1194v1
+1311.2978v1,2013-11-12T23:11:40Z,Authorship Attribution Using Word Network Features,Rada Mihalcea,cs.CL,http://arxiv.org/pdf/1311.2978v1
+1311.3011v2,2013-11-13T03:58:38Z,Cornell SPF: Cornell Semantic Parsing Framework,Yoav Artzi,cs.CL,http://arxiv.org/pdf/1311.3011v2
+1311.3961v1,2013-11-15T19:45:25Z,HEVAL: Yet Another Human Evaluation Metric,Ajai Kumar,cs.CL,http://arxiv.org/pdf/1311.3961v1
+1311.5836v1,2013-11-22T18:13:06Z,Automatic Ranking of MT Outputs using Approximations,Iti Mathur,cs.CL,http://arxiv.org/pdf/1311.5836v1
+1311.6045v1,2013-11-23T20:10:24Z,Build Electronic Arabic Lexicon,Adel Al-Nasrawi,cs.CL,http://arxiv.org/pdf/1311.6045v1
+1311.6063v4,2013-11-23T22:39:52Z,A Short Introduction to NILE,Tianxi Cai,cs.CL,http://arxiv.org/pdf/1311.6063v4
+1404.1847v1,2014-04-07T16:45:42Z,Evaluation and Ranking of Machine Translated Output in Hindi Language   using Precision and Recall Oriented Metrics,Hemant Darbari,cs.CL,http://arxiv.org/pdf/1404.1847v1
+1404.1872v1,2014-04-07T18:12:08Z,Intégration des données d'un lexique syntaxique dans un analyseur   syntaxique probabiliste,Eric Laporte,cs.CL,http://arxiv.org/pdf/1404.1872v1
+1404.2071v1,2014-04-08T10:08:22Z,Extracting a bilingual semantic grammar from FrameNet-annotated corpora,Normunds Grūzītis,cs.CL,http://arxiv.org/pdf/1404.2071v1
+1404.2188v1,2014-04-08T15:46:44Z,A Convolutional Neural Network for Modelling Sentences,Phil Blunsom,cs.CL,http://arxiv.org/pdf/1404.2188v1
+1404.2878v1,2014-04-10T17:16:01Z,Overview of Stemming Algorithms for Indian and Non-Indian Languages,Suthar Sanket,cs.CL,http://arxiv.org/pdf/1404.2878v1
+1404.3377v1,2014-04-13T12:39:41Z,A Generalized Language Model as the Combination of Skipped n-grams and   Modified Kneser-Ney Smoothing,Steffen Staab,cs.CL,http://arxiv.org/pdf/1404.3377v1
+1404.3759v1,2014-04-14T21:33:42Z,Meta-evaluation of comparability metrics using parallel corpora,Anthony Hartley,cs.CL,http://arxiv.org/pdf/1404.3759v1
+1404.3992v1,2014-04-15T17:13:26Z,Assessing the Quality of MT Systems for Hindi to English Translation,Ajai Kumar,cs.CL,http://arxiv.org/pdf/1404.3992v1
+1404.4314v1,2014-04-16T17:06:35Z,An Empirical Comparison of Parsing Methods for Stanford Dependencies,Noah A. Smith,cs.CL,http://arxiv.org/pdf/1404.4314v1
+1404.4572v1,2014-04-17T16:22:40Z,The First Parallel Multilingual Corpus of Persian: Toward a Persian   BLARK,Behrooz Mahmoodi Bakhtiari,cs.CL,http://arxiv.org/pdf/1404.4572v1
+1404.4641v1,2014-04-17T20:18:03Z,Multilingual Models for Compositional Distributed Semantics,Phil Blunsom,cs.CL,http://arxiv.org/pdf/1404.4641v1
+1404.4714v1,2014-04-18T07:48:02Z,Radical-Enhanced Chinese Character Embedding,Xiaolong Wang,cs.CL,http://arxiv.org/pdf/1404.4714v1
+1404.4740v1,2014-04-18T10:30:47Z,Challenges in Persian Electronic Text Analysis,Mehdi Safaee Ghalati,cs.CL,http://arxiv.org/pdf/1404.4740v1
+1404.5278v1,2014-04-21T19:31:48Z,The Frobenius anatomy of word meanings I: subject and object relative   pronouns,Bob Coecke,cs.CL,http://arxiv.org/pdf/1404.5278v1
+1404.5357v1,2014-04-22T00:17:26Z,Morphological Analysis of the Bishnupriya Manipuri Language using Finite   State Transducers,Smriti Kumar Sinha,cs.CL,http://arxiv.org/pdf/1404.5357v1
+1404.5367v1,2014-04-22T02:12:06Z,Lexicon Infused Phrase Embeddings for Named Entity Resolution,Andrew McCallum,cs.CL,http://arxiv.org/pdf/1404.5367v1
+1404.6312v2,2014-04-25T04:10:57Z,Reconstructing Native Language Typology from Foreign Language Usage,Boris Katz,cs.CL,http://arxiv.org/pdf/1404.6312v2
+1404.7296v1,2014-04-29T10:10:13Z,A Deep Architecture for Semantic Parsing,Karl Moritz Hermann,cs.CL,http://arxiv.org/pdf/1404.7296v1
+1405.0145v1,2014-05-01T12:29:30Z,Contextual Semantic Parsing using Crowdsourced Spatial Descriptions,Kais Dukes,cs.CL,http://arxiv.org/pdf/1405.0145v1
+1405.0603v1,2014-05-03T16:07:19Z,Extracting Family Relationship Networks from Novels,Grzegorz Kondrak,cs.CL,http://arxiv.org/pdf/1405.0603v1
+1405.0701v1,2014-05-04T14:23:53Z,"""Translation can't change a name"": Using Multilingual Data for Named   Entity Recognition",Manaal Faruqui,cs.CL,http://arxiv.org/pdf/1405.0701v1
+1405.0947v1,2014-05-05T16:24:09Z,Learning Bilingual Word Representations by Marginalizing Alignments,Phil Blunsom,cs.CL,http://arxiv.org/pdf/1405.0947v1
+1405.1346v1,2014-05-06T16:28:16Z,Automatic Method Of Domain Ontology Construction based on   Characteristics of Corpora POS-Analysis,Olena Orobinska,cs.CL,http://arxiv.org/pdf/1405.1346v1
+1405.1359v3,2014-05-06T16:52:34Z,Latent semantics of action verbs reflect phonetic parameters of   intensity and emotional content,Michael Kai Petersen,cs.CL,http://arxiv.org/pdf/1405.1359v3
+1405.1406v1,2014-05-06T19:26:35Z,D-Bees: A Novel Method Inspired by Bee Colony Optimization for Solving   Word Sense Disambiguation,Karl-Heinz Zimmermann,cs.CL,http://arxiv.org/pdf/1405.1406v1
+1405.1439v2,2014-05-06T20:05:23Z,A Corpus of Sentence-level Revisions in Academic Writing: A Step towards   Understanding Statement Strength in Communication,Lillian Lee,cs.CL,http://arxiv.org/pdf/1405.1439v2
+1405.1924v1,2014-05-08T13:47:36Z,An Expert System for Automatic Reading of A Text Written in Standard   Arabic,Azzoune Hamid,cs.CL,http://arxiv.org/pdf/1405.1924v1
+1405.2434v1,2014-05-10T13:55:03Z,Coordinate System Selection for Minimum Error Rate Training in   Statistical Machine Translation,Chen Lijiang,cs.CL,http://arxiv.org/pdf/1405.2434v1
+1405.3033v1,2014-05-13T04:33:04Z,Phonetic based SoundEx & ShapeEx algorithm for Sindhi Spell Checker   System,Waseem Javaid Soomro,cs.CL,http://arxiv.org/pdf/1405.3033v1
+1405.3515v1,2014-05-14T14:47:22Z,Temporal Analysis of Language through Neural Language Models,Slav Petrov,cs.CL,http://arxiv.org/pdf/1405.3515v1
+1405.3772v1,2014-05-15T09:11:53Z,"INAUT, a Controlled Language for the French Coast Pilot Books   Instructions nautiques",John Puentes,cs.CL,http://arxiv.org/pdf/1405.3772v1
+1405.3925v1,2014-05-15T18:10:36Z,Méthodes pour la représentation informatisée de données   lexicales / Methoden der Speicherung lexikalischer Daten,Andreas Witt,cs.CL,http://arxiv.org/pdf/1405.3925v1
+1405.4097v2,2014-05-16T08:57:40Z,A preliminary study of Croatian Language Syllable Networks,Ana Meštrović,cs.CL,http://arxiv.org/pdf/1405.4097v2
+1405.4248v1,2014-05-16T17:17:19Z,Les mathématiques de la langue : l'approche formelle de Montague,Yannis Haralambous,cs.CL,http://arxiv.org/pdf/1405.4248v1
+1405.4273v1,2014-05-16T19:08:14Z,Compositional Morphology for Word Representations and Language Modelling,Phil Blunsom,cs.CL,http://arxiv.org/pdf/1405.4273v1
+1405.4364v1,2014-05-17T07:58:58Z,Thematically Reinforced Explicit Semantic Analysis,Vitaly Klyuev,cs.CL,http://arxiv.org/pdf/1405.4364v1
+1405.5202v1,2014-01-16T05:06:09Z,Narrowing the Modeling Gap: A Cluster-Ranking Approach to Coreference   Resolution,Vincent Ng,cs.CL,http://arxiv.org/pdf/1405.5202v1
+1405.5474v1,2014-05-21T16:49:50Z,New Perspectives in Sinographic Language Processing Through the Use of   Character Structure,Yannis Haralambous,cs.CL,http://arxiv.org/pdf/1405.5474v1
+1405.5654v1,2014-05-22T07:58:56Z,Machine Translation Model based on Non-parallel Corpus and   Semi-supervised Transductive Learning,Lijiang Chen,cs.CL,http://arxiv.org/pdf/1405.5654v1
+1405.5674v1,2014-05-22T08:57:54Z,MotàMot project: conversion of a French-Khmer published dictionary for   building a multilingual lexical system,Mathieu Mangeot,cs.CL,http://arxiv.org/pdf/1405.5674v1
+1405.5893v1,2014-05-22T20:15:57Z,Computerization of African languages-French dictionaries,Mathieu Mangeot,cs.CL,http://arxiv.org/pdf/1405.5893v1
+1405.6068v1,2014-05-23T14:05:45Z,Building of Networks of Natural Hierarchies of Terms Based on Analysis   of Texts Corpora,Dmitry Lande,cs.CL,http://arxiv.org/pdf/1405.6068v1
+1405.6103v1,2014-05-23T15:51:10Z,Evaluating the fully automatic multi-language translation of the Swiss   avalanche bulletin,Martin Volk,cs.CL,http://arxiv.org/pdf/1405.6103v1
+1405.6293v1,2014-05-24T11:39:34Z,Cross-Language Personal Name Mapping,Ahmed H. Yousef,cs.CL,http://arxiv.org/pdf/1405.6293v1
+1405.6682v1,2014-05-26T18:51:06Z,Optimality Theory as a Framework for Lexical Acquisition,Thierry Poibeau,cs.CL,http://arxiv.org/pdf/1405.6682v1
+1405.7397v1,2014-05-28T21:05:00Z,An HMM Based Named Entity Recognition System for Indian Languages: The   JU System at ICON 2013,Kamal Sarkar,cs.CL,http://arxiv.org/pdf/1405.7397v1
+1405.7711v1,2014-01-16T04:29:26Z,Training a Multilingual Sportscaster: Using Perceptual Context to Learn   Language,Raymond J. Mooney,cs.CL,http://arxiv.org/pdf/1405.7711v1
+1407.1605v1,2014-07-07T07:08:07Z,Les noms propres se traduisent-ils ? Étude d'un corpus multilingue,Dusko Vitas,cs.CL,http://arxiv.org/pdf/1407.1605v1
+1407.1976v1,2014-07-08T07:35:16Z,Inter-Rater Agreement Study on Readability Assessment in Bengali,Arindam Biswas,cs.CL,http://arxiv.org/pdf/1407.1976v1
+1407.2019v1,2014-07-08T10:04:07Z,Assamese-English Bilingual Machine Translation,Shikhar Kr. Sarma,cs.CL,http://arxiv.org/pdf/1407.2019v1
+1407.2694v1,2014-07-10T05:26:14Z,Quality Estimation Of Machine Translation Outputs Through Stemming,Iti Mathur,cs.CL,http://arxiv.org/pdf/1407.2694v1
+1407.2918v1,2014-07-09T13:59:27Z,A Survey of Named Entity Recognition in Assamese and other Indian   Languages,Arup Baruah,cs.CL,http://arxiv.org/pdf/1407.2918v1
+1407.2989v1,2014-07-10T23:57:54Z,Hidden Markov Model Based Part of Speech Tagger for Sinhala Language,N. G. J. Dias,cs.CL,http://arxiv.org/pdf/1407.2989v1
+1407.6853v1,2014-07-25T11:17:28Z,Substitute Based SCODE Word Embeddings in Supervised NLP Tasks,Deniz Yuret,cs.CL,http://arxiv.org/pdf/1407.6853v1
+1407.8215v1,2014-07-30T21:00:25Z,Two-pass Discourse Segmentation with Pairing and Global Features,Graeme Hirst,cs.CL,http://arxiv.org/pdf/1407.8215v1
+1507.00133v1,2015-07-01T07:29:12Z,Prior Polarity Lexical Resources for the Italian Language,Sabrina Sansone,cs.CL,http://arxiv.org/pdf/1507.00133v1
+1507.00639v1,2015-07-02T15:58:25Z,"Simple, Fast Semantic Parsing with a Tensor Kernel",Daoud Clarke,cs.CL,http://arxiv.org/pdf/1507.00639v1
+1507.01127v1,2015-07-04T16:59:30Z,AutoExtend: Extending Word Embeddings to Embeddings for Synsets and   Lexemes,Hinrich Schütze,cs.CL,http://arxiv.org/pdf/1507.01127v1
+1507.01529v1,2015-07-06T16:32:52Z,Correspondence Factor Analysis of Big Data Sets: A Case Study of 30   Million Words; and Contrasting Analytics using Apache Solr and Correspondence   Analysis in R,Fionn Murtagh,cs.CL,http://arxiv.org/pdf/1507.01529v1
+1507.01636v1,2015-07-06T22:25:55Z,Reflections on Sentiment/Opinion Analysis,Eduard Hovy,cs.CL,http://arxiv.org/pdf/1507.01636v1
+1507.01701v1,2015-07-07T08:23:31Z,A Survey and Classification of Controlled Natural Languages,Tobias Kuhn,cs.CL,http://arxiv.org/pdf/1507.01701v1
+1507.02012v1,2015-07-08T03:50:47Z,Hindi to English Transfer Based Machine Translation System,Ajai Kumar,cs.CL,http://arxiv.org/pdf/1507.02012v1
+1507.02045v2,2015-07-08T06:52:50Z,What Your Username Says About You,Mari Ostendorf,cs.CL,http://arxiv.org/pdf/1507.02045v2
+1507.02062v1,2015-07-08T08:26:23Z,Multi-Document Summarization via Discriminative Summary Reranking,Ming Zhou,cs.CL,http://arxiv.org/pdf/1507.02062v1
+1507.02145v2,2015-07-08T13:27:43Z,Learning to Mine Chinese Coordinate Terms Using the Web,Jianguo Xiao,cs.CL,http://arxiv.org/pdf/1507.02145v2
+1507.02628v1,2015-07-09T18:11:03Z,FAQ-based Question Answering via Word Alignment,Abraham Ittycheriah,cs.CL,http://arxiv.org/pdf/1507.02628v1
+1507.03223v1,2015-07-12T12:14:19Z,Classifier-Based Text Simplification for Improved Machine Translation,Nisheeth Joshi,cs.CL,http://arxiv.org/pdf/1507.03223v1
+1507.03462v1,2015-07-13T14:00:22Z,Supervised Hierarchical Classification for Student Answer Scoring,Montse Maritxalar,cs.CL,http://arxiv.org/pdf/1507.03462v1
+1507.03471v1,2015-07-13T14:27:16Z,Incremental LSTM-based Dialog State Tracker,Filip Jurcicek,cs.CL,http://arxiv.org/pdf/1507.03471v1
+1507.03934v2,2015-07-14T17:18:30Z,Recurrent Polynomial Network for Dialogue State Tracking,Kai Yu,cs.CL,http://arxiv.org/pdf/1507.03934v2
+1507.04214v1,2015-07-15T13:40:28Z,Associative Measures and Multi-word Unit Extraction in Turkish,Umit Mersinli,cs.CL,http://arxiv.org/pdf/1507.04214v1
+1507.05523v1,2015-07-20T15:07:53Z,How to Generate a Good Word Embedding?,Jun Zhao,cs.CL,http://arxiv.org/pdf/1507.05523v1
+1507.05630v1,2015-07-20T20:01:44Z,Notes About a More Aware Dependency Parser,Matteo Grella,cs.CL,http://arxiv.org/pdf/1507.05630v1
+1507.06073v2,2015-07-22T06:54:09Z,Discriminative Segmental Cascades for Feature-Rich Phone Recognition,Karen Livescu,cs.CL,http://arxiv.org/pdf/1507.06073v2
+1507.07636v1,2015-07-28T03:51:43Z,Reasoning about Linguistic Regularities in Word Embeddings using Matrix   Manifolds,Sarath Chandar,cs.CL,http://arxiv.org/pdf/1507.07636v1
+1507.07826v1,2015-07-28T15:59:39Z,Classifying informative and imaginative prose using complex networks,Diego R. Amancio,cs.CL,http://arxiv.org/pdf/1507.07826v1
+1507.08449v2,2015-07-30T10:53:11Z,"One model, two languages: training bilingual parsers with harmonized   treebanks",Miguel A. Alonso,cs.CL,http://arxiv.org/pdf/1507.08449v2
+1507.08452v3,2015-07-30T11:05:01Z,Unsupervised Sentence Simplification Using Deep Semantics,Claire Gardent,cs.CL,http://arxiv.org/pdf/1507.08452v3
+1507.08539v1,2015-07-30T15:11:00Z,Multilayer Network of Language: a Unified Framework for Structural   Analysis of Linguistic Subsystems,Sanda Martinčić-Ipšić,cs.CL,http://arxiv.org/pdf/1507.08539v1
+0910.0537v1,2009-10-03T12:26:47Z,A Note On Higher Order Grammar,Victor Gluzberg,cs.CL,http://arxiv.org/pdf/0910.0537v1
+0910.1484v1,2009-10-08T12:21:22Z,Ludics and its Applications to natural Language Semantics,Myriam Quatrini,cs.CL,http://arxiv.org/pdf/0910.1484v1
+0910.1868v1,2009-10-09T21:40:26Z,Evaluation of Hindi to Punjabi Machine Translation System,Gurpreet Singh Lehal,cs.CL,http://arxiv.org/pdf/0910.1868v1
+1003.0206v1,2010-02-28T19:00:12Z,Why has (reasonably accurate) Automatic Speech Recognition been so hard   to achieve?,Larry Gillick,cs.CL,http://arxiv.org/pdf/1003.0206v1
+1003.0337v1,2010-03-01T18:04:39Z,Change of word types to word tokens ratio in the course of translation   (based on Russian translations of K. Vonnegut novels),Andrey Kutuzov,cs.CL,http://arxiv.org/pdf/1003.0337v1
+1003.0628v1,2010-03-02T16:52:32Z,Linguistic Geometries for Unsupervised Dimensionality Reduction,Guy Lebanon,cs.CL,http://arxiv.org/pdf/1003.0628v1
+1003.1399v1,2010-03-06T16:34:40Z,Automatic derivation of domain terms and concept location based on the   analysis of the identifiers,Marek Mezei,cs.CL,http://arxiv.org/pdf/1003.1399v1
+1003.1455v1,2010-03-07T11:28:08Z,"A Computational Algorithm based on Empirical Analysis, that Composes   Sanskrit Poetry",Meenakshi Lakshmanan,cs.CL,http://arxiv.org/pdf/1003.1455v1
+1003.4149v1,2010-03-22T13:09:57Z,Les Entités Nommées : usage et degrés de précision et de   désambiguïsation,Stavroula Voyatzi,cs.CL,http://arxiv.org/pdf/1003.4149v1
+1003.4894v1,2010-03-25T14:03:51Z,La représentation formelle des concepts spatiaux dans la langue,Andrée Borillo,cs.CL,http://arxiv.org/pdf/1003.4894v1
+1003.4898v1,2010-03-25T14:08:44Z,"Les entités spatiales dans la langue : étude descriptive, formelle   et expérimentale de la catégorisation",Laure Vieu,cs.CL,http://arxiv.org/pdf/1003.4898v1
+1003.5372v1,2010-03-28T15:17:22Z,Learning Recursive Segments for Discourse Parsing,Laurence Danlos,cs.CL,http://arxiv.org/pdf/1003.5372v1
+1005.3902v1,2010-05-21T08:12:12Z,Morphonette: a morphological network of French,Nabil Hathout,cs.CL,http://arxiv.org/pdf/1005.3902v1
+1005.4697v3,2010-05-25T20:36:09Z,The Lambek-Grishin calculus is NP-complete,Jeroen Bransen,cs.CL,http://arxiv.org/pdf/1005.4697v3
+1005.5466v1,2010-05-29T16:37:02Z,Quantitative parametrization of texts written by Ivan Franko: An attempt   of the project,Solomiya Buk,cs.CL,http://arxiv.org/pdf/1005.5466v1
+1005.5596v1,2010-05-31T06:37:40Z,A generic tool to generate a lexicon for NLP from Lexicon-Grammar tables,Elsa Tolone,cs.CL,http://arxiv.org/pdf/1005.5596v1
+1006.0153v1,2010-06-01T15:20:59Z,Ivan Franko's novel Dlja domashnjoho ohnyshcha (For the Hearth) in the   light of the frequency dictionary,Solomiya Buk,cs.CL,http://arxiv.org/pdf/1006.0153v1
+1006.2809v1,2010-06-14T19:20:31Z,Offline Arabic Handwriting Recognition Using Artificial Neural Network,Rami Alnaqeib,cs.CL,http://arxiv.org/pdf/1006.2809v1
+1006.2835v1,2010-06-14T20:07:32Z,Fuzzy Modeling and Natural Language Processing for Panini's Sanskrit   Grammar,P. Venkata Subba Reddy,cs.CL,http://arxiv.org/pdf/1006.2835v1
+1006.3787v7,2010-06-18T19:54:29Z,Complete Complementary Results Report of the MARF's NLP Approach to the   DEFT 2010 Competition,Serguei A. Mokhov,cs.CL,http://arxiv.org/pdf/1006.3787v7
+1006.5880v1,2010-06-30T15:10:33Z,Testing SDRT's Right Frontier,Nicholas Asher,cs.CL,http://arxiv.org/pdf/1006.5880v1
+1103.1898v1,2011-03-09T21:43:46Z,Recognizing Uncertainty in Speech,Stuart M. Shieber,cs.CL,http://arxiv.org/pdf/1103.1898v1
+1103.2950v1,2011-03-15T16:21:24Z,Fitting Ranked English and Spanish Letter Frequency Distribution in U.S.   and Mexican Presidential Speeches,Pedro Miramontes,cs.CL,http://arxiv.org/pdf/1103.2950v1
+1103.5676v1,2011-03-29T15:05:11Z,Codeco: A Grammar Notation for Controlled Natural Language in Predictive   Editors,Tobias Kuhn,cs.CL,http://arxiv.org/pdf/1103.5676v1
+1104.2034v1,2011-04-11T19:50:50Z,"Materials to the Russian-Bulgarian Comparative Dictionary ""EAD""",Yavor Angelov Parvanov,cs.CL,http://arxiv.org/pdf/1104.2034v1
+1104.2086v1,2011-04-11T23:06:54Z,A Universal Part-of-Speech Tagset,Ryan McDonald,cs.CL,http://arxiv.org/pdf/1104.2086v1
+1104.4321v1,2011-04-21T17:56:50Z,"Seeking Meaning in a Space Made out of Strokes, Radicals, Characters and   Compounds",Yannis Haralambous,cs.CL,http://arxiv.org/pdf/1104.4321v1
+1104.4681v1,2011-04-25T05:00:25Z,Performance Evaluation of Statistical Approaches for Text Independent   Speaker Recognition Using Source Feature,A. Nagesh,cs.CL,http://arxiv.org/pdf/1104.4681v1
+1112.0168v1,2011-12-01T12:52:22Z,Statistical Sign Language Machine Translation: from English written text   to American Sign Language Gloss,Mohamed Jemni,cs.CL,http://arxiv.org/pdf/1112.0168v1
+1112.0396v1,2011-12-02T07:15:49Z,Grammatical Relations of Myanmar Sentences Augmented by   Transformation-Based Learning of Function Tagging,Ni Lar Thein,cs.CL,http://arxiv.org/pdf/1112.0396v1
+1112.2468v1,2011-12-12T08:07:49Z,"Creating a Live, Public Short Message Service Corpus: The NUS SMS Corpus",Min-Yen Kan,cs.CL,http://arxiv.org/pdf/1112.2468v1
+1112.6286v1,2011-12-29T11:47:05Z,Visualization and Analysis of Frames in Collections of Messages: Content   Analysis and the Measurement of Meaning,Loet Leydesdorff,cs.CL,http://arxiv.org/pdf/1112.6286v1
+1112.6384v1,2011-12-29T19:16:20Z,Proof nets for the Lambek-Grishin calculus,Richard Moot,cs.CL,http://arxiv.org/pdf/1112.6384v1
+1211.0074v1,2012-11-01T02:10:06Z,Transition-Based Dependency Parsing With Pluggable Classifiers,Alex Rudnick,cs.CL,http://arxiv.org/pdf/1211.0074v1
+1211.0498v1,2012-11-02T17:37:06Z,Detecting English Writing Styles For Non-native Speakers,Rami Al-Rfou',cs.CL,http://arxiv.org/pdf/1211.0498v1
+1211.3643v1,2012-11-15T16:24:25Z,A Principled Approach to Grammars for Controlled Natural Languages and   Predictive Editors,Tobias Kuhn,cs.CL,http://arxiv.org/pdf/1211.3643v1
+1211.4161v1,2012-11-17T20:27:06Z,Semantic Polarity of Adjectival Predicates in Online Reviews,Jee-Sun Nam,cs.CL,http://arxiv.org/pdf/1211.4161v1
+1301.2444v3,2013-01-11T10:38:09Z,TEI and LMF crosswalks,Laurent Romary,cs.CL,http://arxiv.org/pdf/1301.2444v3
+1301.2857v1,2013-01-14T04:01:25Z,SpeedRead: A Fast Named Entity Recognition Pipeline,Steven Skiena,cs.CL,http://arxiv.org/pdf/1301.2857v1
+1301.3214v1,2013-01-15T03:45:27Z,The Manifold of Human Emotions,Irfan Essa,cs.CL,http://arxiv.org/pdf/1301.3214v1
+1301.3614v2,2013-01-16T07:56:20Z,Joint Space Neural Probabilistic Language Model for Statistical Machine   Translation,Tsuyoshi Okita,cs.CL,http://arxiv.org/pdf/1301.3614v2
+1301.3781v3,2013-01-16T18:24:43Z,Efficient Estimation of Word Representations in Vector Space,Jeffrey Dean,cs.CL,http://arxiv.org/pdf/1301.3781v3
+1301.4432v1,2013-01-18T16:53:13Z,"Language learning from positive evidence, reconsidered: A   simplicity-based approach",Paul M. B. Vitányi,cs.CL,http://arxiv.org/pdf/1301.4432v1
+1305.1319v1,2013-05-06T20:27:55Z,New Alignment Methods for Discriminative Book Summarization,Noah A. Smith,cs.CL,http://arxiv.org/pdf/1305.1319v1
+1305.3882v2,2013-05-16T18:09:21Z,Rule-Based Semantic Tagging. An Application Undergoing Dictionary   Glosses,Daniel Christen,cs.CL,http://arxiv.org/pdf/1305.3882v2
+1305.3981v1,2013-05-17T05:14:43Z,Binary Tree based Chinese Word Segmentation,Maosong Sun,cs.CL,http://arxiv.org/pdf/1305.3981v1
+1305.5753v3,2013-05-23T03:14:50Z,A probabilistic framework for analysing the compositionality of   conceptual combinations,Laurianne Sitbon,cs.CL,http://arxiv.org/pdf/1305.5753v3
+1305.5785v1,2013-05-24T16:34:22Z,An Inventory of Preposition Relations,Dan Roth,cs.CL,http://arxiv.org/pdf/1305.5785v1
+1305.5918v1,2013-05-25T13:20:31Z,Reduce Meaningless Words for Joint Chinese Word Segmentation and   Part-of-speech Tagging,Maosong Sun,cs.CL,http://arxiv.org/pdf/1305.5918v1
+1305.6211v2,2013-05-24T18:01:34Z,Development of a Hindi Lemmatizer,Iti Mathur,cs.CL,http://arxiv.org/pdf/1305.6211v2
+1306.2091v2,2013-06-10T02:54:10Z,A framework for (under)specifying dependency syntax without overloading   annotators,Jason Baldridge,cs.CL,http://arxiv.org/pdf/1306.2091v2
+1306.2158v1,2013-06-10T10:29:09Z,"""Not not bad"" is not ""bad"": A distributional account of negation",Phil Blunsom,cs.CL,http://arxiv.org/pdf/1306.2158v1
+1306.3584v1,2013-06-15T14:52:17Z,Recurrent Convolutional Neural Networks for Discourse Compositionality,Phil Blunsom,cs.CL,http://arxiv.org/pdf/1306.3584v1
+1306.4134v1,2013-06-18T10:32:43Z,Dialogue System: A Brief Review,Sarabjit Singh,cs.CL,http://arxiv.org/pdf/1306.4134v1
+1306.6130v1,2013-06-26T05:02:26Z,Competency Tracking for English as a Second or Foreign Language Learners,Robert Bishop Jr,cs.CL,http://arxiv.org/pdf/1306.6130v1
+1308.1004v3,2013-08-05T15:14:14Z,Boundary identification of events in clinical named entity recognition,Azad Dehghan,cs.CL,http://arxiv.org/pdf/1308.1004v3
+1308.1507v1,2013-08-07T09:09:47Z,Logical analysis of natural language semantics to solve the problem of   computer understanding,Yuriy Ostapov,cs.CL,http://arxiv.org/pdf/1308.1507v1
+1308.2428v2,2013-08-11T20:50:27Z,Hidden Structure and Function in the Lexicon,Stevan Harnad,cs.CL,http://arxiv.org/pdf/1308.2428v2
+1308.2696v1,2013-08-12T20:57:02Z,B(eo)W(u)LF: Facilitating recurrence analysis on multi-level language,R. Dale,cs.CL,http://arxiv.org/pdf/1308.2696v1
+1308.3839v2,2013-08-18T07:09:03Z,Consensus Sequence Segmentation,Arko Banerjee,cs.CL,http://arxiv.org/pdf/1308.3839v2
+1308.4479v1,2013-08-21T03:44:04Z,An Investigation of the Sampling-Based Alignment Method and Its   Contributions,Yves Lepage,cs.CL,http://arxiv.org/pdf/1308.4479v1
+1308.5423v1,2013-08-25T16:41:06Z,A Literature Review: Stemming Algorithms for Indian Languages,R. Manavalan,cs.CL,http://arxiv.org/pdf/1308.5423v1
+1308.5499v1,2013-08-26T07:18:17Z,Linear models and linear mixed effects models in R with linguistic   applications,Bodo Winter,cs.CL,http://arxiv.org/pdf/1308.5499v1
+1308.6242v1,2013-08-28T18:23:03Z,NRC-Canada: Building the State-of-the-Art in Sentiment Analysis of   Tweets,Xiaodan Zhu,cs.CL,http://arxiv.org/pdf/1308.6242v1
+1308.6297v1,2013-08-28T20:13:32Z,Crowdsourcing a Word-Emotion Association Lexicon,Peter D. Turney,cs.CL,http://arxiv.org/pdf/1308.6297v1
+1308.6300v1,2013-08-28T20:24:27Z,Computing Lexical Contrast,Peter D. Turney,cs.CL,http://arxiv.org/pdf/1308.6300v1
+1309.1014v1,2013-09-04T12:56:37Z,Advances in the Logical Representation of Lexical Semantics,Christian Retoré,cs.CL,http://arxiv.org/pdf/1309.1014v1
+1309.1125v1,2013-09-04T18:10:22Z,Learning to answer questions,Sérgio Curto,cs.CL,http://arxiv.org/pdf/1309.1125v1
+1309.1129v1,2013-09-04T18:23:30Z,Analysing Quality of English-Hindi Machine Translation Engine Outputs   Using Bayesian Classification,Iti Mathur,cs.CL,http://arxiv.org/pdf/1309.1129v1
+1309.1649v2,2013-09-06T14:28:02Z,Preparing Korean Data for the Shared Task on Parsing Morphologically   Rich Languages,Jinho D. Choi,cs.CL,http://arxiv.org/pdf/1309.1649v2
+1309.2471v1,2013-09-10T12:03:32Z,"Implementation of nlization framework for verbs, pronouns and   determiners with eugene",Parteek Kumar,cs.CL,http://arxiv.org/pdf/1309.2471v1
+1309.2853v1,2013-09-11T15:16:26Z,General Purpose Textual Sentiment Analysis and Emotion Detection Tools,Nadia Bellalem,cs.CL,http://arxiv.org/pdf/1309.2853v1
+1309.4168v1,2013-09-17T03:23:13Z,Exploiting Similarities among Languages for Machine Translation,Ilya Sutskever,cs.CL,http://arxiv.org/pdf/1309.4168v1
+1309.4628v1,2013-09-18T12:38:34Z,Text segmentation with character-level text embeddings,Grzegorz Chrupała,cs.CL,http://arxiv.org/pdf/1309.4628v1
+1309.5223v1,2013-09-20T09:51:59Z,JRC EuroVoc Indexer JEX - A freely available multi-label categorisation   tool,Marco Turchi,cs.CL,http://arxiv.org/pdf/1309.5223v1
+1309.5226v1,2013-09-20T10:02:58Z,DGT-TM: A freely Available Translation Memory in 22 Languages,Patrick Schlüter,cs.CL,http://arxiv.org/pdf/1309.5226v1
+1309.5290v1,2013-09-20T15:03:58Z,An introduction to the Europe Media Monitor family of applications,Erik van der Goot,cs.CL,http://arxiv.org/pdf/1309.5290v1
+1309.5391v1,2013-09-20T21:06:46Z,Even the Abstract have Colour: Consensus in Word-Colour Associations,Saif M. Mohammad,cs.CL,http://arxiv.org/pdf/1309.5391v1
+1309.5652v1,2013-09-22T21:09:07Z,LDC Arabic Treebanks and Associated Corpora: Data Divisions Manual,Ryan Roth,cs.CL,http://arxiv.org/pdf/1309.5652v1
+1309.5657v1,2013-09-22T22:06:26Z,A Hybrid Algorithm for Matching Arabic Names,T. El-Shishtawy,cs.CL,http://arxiv.org/pdf/1309.5657v1
+1309.5843v1,2013-09-23T15:26:09Z,Sentiment Analysis: How to Derive Prior Polarities from SentiWordNet,Marco Turchi,cs.CL,http://arxiv.org/pdf/1309.5843v1
+1309.5909v1,2013-09-23T18:43:56Z,From Once Upon a Time to Happily Ever After: Tracking Emotions in Novels   and Fairy Tales,Saif Mohammad,cs.CL,http://arxiv.org/pdf/1309.5909v1
+1309.5942v1,2013-09-20T21:10:56Z,Colourful Language: Measuring Word-Colour Associations,Saif Mohammad,cs.CL,http://arxiv.org/pdf/1309.5942v1
+1309.6162v1,2013-09-24T14:09:53Z,"JRC-Names: A freely available, highly multilingual named entity resource",Erik van der Goot,cs.CL,http://arxiv.org/pdf/1309.6162v1
+1309.6185v1,2013-09-24T14:41:33Z,Acronym recognition and processing in 22 languages,Hristo Tanev,cs.CL,http://arxiv.org/pdf/1309.6185v1
+1309.6202v1,2013-09-24T15:11:43Z,Sentiment Analysis in the News,Jenya Belyaeva,cs.CL,http://arxiv.org/pdf/1309.6202v1
+1309.6347v1,2013-09-24T21:14:45Z,Tracking Sentiment in Mail: How Genders Differ on Emotional Axes,Yang,cs.CL,http://arxiv.org/pdf/1309.6347v1
+1309.6352v1,2013-09-24T21:21:02Z,Using Nuances of Emotion to Identify Personality,Svetlana Kiritchenko,cs.CL,http://arxiv.org/pdf/1309.6352v1
+1309.6722v1,2013-09-26T05:18:12Z,Domain-Specific Sentiment Word Extraction by Seed Expansion and Pattern   Generation,Liu Ting,cs.CL,http://arxiv.org/pdf/1309.6722v1
+1309.7312v1,2013-09-27T17:54:14Z,Development and Transcription of Assamese Speech Corpus,Mancha Jyoti Malakar,cs.CL,http://arxiv.org/pdf/1309.7312v1
+1312.0482v1,2013-11-28T04:58:59Z,Learning Semantic Representations for the Phrase Translation Model,Li Deng,cs.CL,http://arxiv.org/pdf/1312.0482v1
+1312.2087v1,2013-12-07T11:19:20Z,Towards Structural Natural Language Formalization: Mapping Discourse to   Controlled Natural Language,Nicholas H. Kirk,cs.CL,http://arxiv.org/pdf/1312.2087v1
+1312.3005v3,2013-12-11T00:25:57Z,One Billion Word Benchmark for Measuring Progress in Statistical   Language Modeling,Tony Robinson,cs.CL,http://arxiv.org/pdf/1312.3005v3
+1312.3168v1,2013-12-11T14:04:52Z,"Semantic Types, Lexical Sorts and Classifiers",Christian Retoré,cs.CL,http://arxiv.org/pdf/1312.3168v1
+1312.3251v1,2013-12-11T17:24:35Z,Towards The Development of a Bishnupriya Manipuri Corpus,Smriti Kumar Sinha,cs.CL,http://arxiv.org/pdf/1312.3251v1
+1312.3258v1,2013-12-11T17:50:21Z,Implicit Sensitive Text Summarization based on Data Conveyed by   Connectives,Henda Chorfi Ouertani,cs.CL,http://arxiv.org/pdf/1312.3258v1
+1312.5129v2,2013-12-18T13:34:16Z,Deep Learning Embeddings for Discontinuous Linguistic Units,Hinrich Schütze,cs.CL,http://arxiv.org/pdf/1312.5129v2
+1312.5559v3,2013-12-19T14:18:14Z,Distributional Models and Deep Learning Embeddings: Combining the Best   of Both Worlds,Hinrich Schütze,cs.CL,http://arxiv.org/pdf/1312.5559v3
+1312.6173v4,2013-12-20T23:13:38Z,Multilingual Distributed Representations without Word Alignment,Phil Blunsom,cs.CL,http://arxiv.org/pdf/1312.6173v4
+1312.7223v1,2013-12-27T09:39:52Z,Quality Estimation of English-Hindi Outputs using Naive Bayes Classifier,Iti Mathur,cs.CL,http://arxiv.org/pdf/1312.7223v1
+1401.0569v2,2014-01-03T00:57:13Z,Natural Language Processing in Biomedicine: A Unified System   Architecture Overview,Lucila Ohno-Machado,cs.CL,http://arxiv.org/pdf/1401.0569v2
+1401.0640v1,2014-01-03T13:07:29Z,Multi-Topic Multi-Document Summarizer,Tarek El-Shishtawy,cs.CL,http://arxiv.org/pdf/1401.0640v1
+1401.0660v1,2014-01-03T15:37:19Z,Plurals: individuals and sets in a richly typed semantics,Christian Retoré,cs.CL,http://arxiv.org/pdf/1401.0660v1
+1401.1158v1,2014-01-06T18:03:11Z,Effective Slot Filling Based on Shallow Distant Supervision Methods,Dietrich Klakow,cs.CL,http://arxiv.org/pdf/1401.1158v1
+1401.2517v1,2014-01-11T10:35:37Z,The semantic similarity ensemble,David C. Wilson,cs.CL,http://arxiv.org/pdf/1401.2517v1
+1401.2641v1,2014-01-12T16:49:53Z,Towards a Generic Framework for the Development of Unicode Based Digital   Sindhi Dictionaries,Azhar Ali Shah,cs.CL,http://arxiv.org/pdf/1401.2641v1
+1401.2663v1,2014-01-12T19:52:49Z,Dictionary-Based Concept Mining: An Application for Turkish,Hidayet Takçı,cs.CL,http://arxiv.org/pdf/1401.2663v1
+1401.2937v1,2014-01-13T18:05:28Z,A survey of methods to ease the development of highly multilingual text   mining applications,Ralf Steinberger,cs.CL,http://arxiv.org/pdf/1401.2937v1
+1401.2943v1,2014-01-13T18:25:10Z,"ONTS: ""Optima"" News Translation System",Erik Van der Goot,cs.CL,http://arxiv.org/pdf/1401.2943v1
+1401.3669v1,2014-01-15T17:01:36Z,Hrebs and Cohesion Chains as similar tools for semantic text properties   research,E. Kapetanios,cs.CL,http://arxiv.org/pdf/1401.3669v1
+1401.5674v1,2014-01-18T21:11:30Z,Generalized Biwords for Bitext Compression and Translation Spotting,Joaquin Adiego,cs.CL,http://arxiv.org/pdf/1401.5674v1
+1401.5693v1,2014-01-15T05:19:15Z,Sentence Compression as Tree Transduction,Mirella Lapata,cs.CL,http://arxiv.org/pdf/1401.5693v1
+1401.5694v1,2014-01-15T05:40:37Z,Cross-lingual Annotation Projection for Semantic Roles,Mirella Lapata,cs.CL,http://arxiv.org/pdf/1401.5694v1
+1401.5695v1,2014-01-15T05:39:01Z,Multilingual Part-of-Speech Tagging: Two Unsupervised Approaches,Regina Barzilay,cs.CL,http://arxiv.org/pdf/1401.5695v1
+1401.5696v1,2014-01-15T05:33:07Z,Unsupervised Methods for Determining Object and Relation Synonyms on the   Web,Oren Etzioni,cs.CL,http://arxiv.org/pdf/1401.5696v1
+1401.5697v1,2014-01-15T05:21:01Z,Wikipedia-based Semantic Interpretation for Natural Language Processing,Shaul Markovitch,cs.CL,http://arxiv.org/pdf/1401.5697v1
+1401.5698v1,2014-01-15T05:11:43Z,Identification of Pleonastic It Using the Web,Loren Wyard-Scott,cs.CL,http://arxiv.org/pdf/1401.5698v1
+1401.5699v1,2014-01-15T05:41:08Z,Text Relatedness Based on a Word Thesaurus,Michalis Vazirgiannis,cs.CL,http://arxiv.org/pdf/1401.5699v1
+1401.5700v1,2014-01-15T05:28:26Z,Inferring Shallow-Transfer Machine Translation Rules from Small Parallel   Corpora,Mikel L. Forcada,cs.CL,http://arxiv.org/pdf/1401.5700v1
+1401.6050v1,2014-01-23T16:45:39Z,Integrative Semantic Dependency Parsing via Efficient Large-scale   Feature Selection,Chunyu Kit,cs.CL,http://arxiv.org/pdf/1401.6050v1
+1401.6122v1,2014-01-23T19:03:18Z,Identifying Bengali Multiword Expressions using Semantic Clustering,Sivaji Bandyopadhyay,cs.CL,http://arxiv.org/pdf/1401.6122v1
+1401.6330v2,2014-01-24T12:56:36Z,A Statistical Parsing Framework for Sentiment Classification,Ke Xu,cs.CL,http://arxiv.org/pdf/1401.6330v2
+1401.6422v1,2014-01-23T02:48:07Z,Automatic Aggregation by Joint Modeling of Aspects and Values,Regina Barzilay,cs.CL,http://arxiv.org/pdf/1401.6422v1
+1401.6875v1,2014-01-16T04:48:43Z,Context-based Word Acquisition for Situated Dialogue in a Virtual World,Joyce Y. Chai,cs.CL,http://arxiv.org/pdf/1401.6875v1
+1401.6876v1,2014-01-23T02:42:12Z,Improving Statistical Machine Translation for a Resource-Poor Language   Using Related Resource-Rich Languages,Hwee Tou Ng,cs.CL,http://arxiv.org/pdf/1401.6876v1
+1401.7077v4,2014-01-28T03:48:01Z,Quantifying literature quality using complexity criteria,Klaus Jaffe,cs.CL,http://arxiv.org/pdf/1401.7077v4
+1402.0563v1,2014-02-04T01:34:56Z,Evaluating Indirect Strategies for Chinese-Spanish Statistical Machine   Translation,Rafael E. Banchs,cs.CL,http://arxiv.org/pdf/1402.0563v1
+1402.0578v1,2014-02-04T01:40:42Z,Natural Language Inference for Arabic Using Extended Tree Edit Distance   with Subtrees,Allan Ramsay,cs.CL,http://arxiv.org/pdf/1402.0578v1
+1402.0586v1,2014-02-04T01:43:35Z,Topic Segmentation and Labeling in Asynchronous Conversations,Raymond T Ng,cs.CL,http://arxiv.org/pdf/1402.0586v1
+1402.2561v1,2014-01-18T21:08:40Z,The CQC Algorithm: Cycling in Graphs to Semantically Enrich and Enhance   a Bilingual Dictionary,Roberto Navigli,cs.CL,http://arxiv.org/pdf/1402.2561v1
+1402.2796v1,2014-02-12T11:55:31Z,PR2: A Language Independent Unsupervised Tool for Personality   Recognition from Text,Massimo Poesio,cs.CL,http://arxiv.org/pdf/1402.2796v1
+1402.3040v1,2014-02-13T06:44:24Z,Event Structure of Transitive Verb: A MARVS perspective,Chu-Ren Huang,cs.CL,http://arxiv.org/pdf/1402.3040v1
+1402.3371v1,2014-02-14T06:06:47Z,An evaluative baseline for geo-semantic relatedness and similarity,David C. Wilson,cs.CL,http://arxiv.org/pdf/1402.3371v1
+1402.3382v1,2014-02-14T06:46:44Z,Machine Learning of Phonologically Conditioned Noun Declensions For   Tamil Morphological Generators,Dr. M. Ganesan,cs.CL,http://arxiv.org/pdf/1402.3382v1
+1402.4380v1,2014-02-18T16:02:05Z,A Comparative Study of Machine Learning Methods for Verbal Autopsy Text   Classification,Owen Johnson,cs.CL,http://arxiv.org/pdf/1402.4380v1
+1402.4678v1,2014-02-18T02:18:10Z,When Learners Surpass their Sources: Mathematical Modeling of Learning   from an Inconsistent Source,Natalia Komarova,cs.CL,http://arxiv.org/pdf/1402.4678v1
+1402.6516v1,2014-02-26T12:37:04Z,Modelling the Lexicon in Unsupervised Part of Speech Induction,Phil Blunsom,cs.CL,http://arxiv.org/pdf/1402.6516v1
+1402.6880v1,2014-02-27T12:12:11Z,It's distributions all the way down!: Second order changes in   statistical distributions also occur,A. Gerow,cs.CL,http://arxiv.org/pdf/1402.6880v1
+1402.7265v1,2014-02-28T14:49:31Z,"Semantics, Modelling, and the Problem of Representation of Meaning -- a   Brief Survey of Recent Literature",Yarin Gal,cs.CL,http://arxiv.org/pdf/1402.7265v1
+1403.0052v1,2014-03-01T06:46:11Z,TBX goes TEI -- Implementing a TBX basic extension for the Text Encoding   Initiative guidelines,Laurent Romary,cs.CL,http://arxiv.org/pdf/1403.0052v1
+1403.0531v1,2014-03-03T19:27:23Z,We Tweet Like We Talk and Other Interesting Observations: An Analysis of   English Communication Modalities,Josiah P. Zayner,cs.CL,http://arxiv.org/pdf/1403.0531v1
+1403.0801v2,2014-03-04T14:45:56Z,Is getting the right answer just about choosing the right words? The   role of syntactically-informed features in short answer scoring,John Blackmore,cs.CL,http://arxiv.org/pdf/1403.0801v2
+1403.2004v1,2014-03-08T20:10:37Z,Natural Language Feature Selection via Cooccurrence,Michael Stewart,cs.CL,http://arxiv.org/pdf/1403.2004v1
+1403.2124v1,2014-03-10T01:41:09Z,Generating Music from Literature,Saif M. Mohammad,cs.CL,http://arxiv.org/pdf/1403.2124v1
+1403.2837v1,2014-03-12T08:08:49Z,HPS: a hierarchical Persian stemming method,Mina Zolfy Lighvan,cs.CL,http://arxiv.org/pdf/1403.2837v1
+1403.3351v1,2014-03-13T18:20:10Z,Semantic Unification A sheaf theoretic approach to natural language,Mehrnoosh Sadrzadeh,cs.CL,http://arxiv.org/pdf/1403.3351v1
+1403.3668v2,2014-03-14T18:53:51Z,Language Heedless of Logic - Philosophy Mindful of What? Failures of   Distributive and Absorption Laws,Arthur Merin,cs.CL,http://arxiv.org/pdf/1403.3668v2
+1403.4024v3,2014-03-17T08:22:54Z,Measuring Global Similarity between Texts,Axel Legay,cs.CL,http://arxiv.org/pdf/1403.4024v3
+1403.4467v2,2014-03-18T14:16:45Z,A hybrid formalism to parse Sign Languages,Christophe Collet,cs.CL,http://arxiv.org/pdf/1403.4467v2
+1403.4473v1,2014-03-18T14:31:51Z,Sign Language Gibberish for syntactic parsing evaluation,Christophe Collet,cs.CL,http://arxiv.org/pdf/1403.4473v1
+1403.4759v1,2014-03-19T10:45:29Z,Spelling Error Trends and Patterns in Sindhi,Waseem Javaid,cs.CL,http://arxiv.org/pdf/1403.4759v1
+1403.4887v1,2014-03-19T17:29:24Z,Using Entropy Estimates for DAG-Based Ontologies,Joao Setubal,cs.CL,http://arxiv.org/pdf/1403.4887v1
+1403.4928v1,2014-03-19T19:59:49Z,Clinical TempEval,Marc Verhagen,cs.CL,http://arxiv.org/pdf/1403.4928v1
+1403.6381v1,2014-03-21T04:54:28Z,An efficiency dependency parser using hybrid approach for tamil language,S. Suganthi,cs.CL,http://arxiv.org/pdf/1403.6381v1
+1403.6392v2,2014-03-25T15:36:36Z,Implementation of an Automatic Sign Language Lexical Annotation   Framework based on Propositional Dynamic Logic,Christophe Collet,cs.CL,http://arxiv.org/pdf/1403.6392v2
+1403.6636v1,2014-03-26T11:47:37Z,Sign Language Lexical Recognition With Propositional Dynamic Logic,Christophe Collet,cs.CL,http://arxiv.org/pdf/1403.6636v1
+1403.7455v1,2014-03-28T17:30:32Z,Hybrid Approach to English-Hindi Name Entity Transliteration,Varun Prakash Saxena,cs.CL,http://arxiv.org/pdf/1403.7455v1
+1406.0032v1,2014-05-30T22:47:49Z,Comparing and Combining Sentiment Analysis Methods,Meeyoung Cha,cs.CL,http://arxiv.org/pdf/1406.0032v1
+1406.1203v1,2014-06-04T20:22:30Z,A Semantic Approach to Summarization,Ashudeep Singh,cs.CL,http://arxiv.org/pdf/1406.1203v1
+1406.1241v1,2014-06-04T23:56:08Z,The Best Templates Match Technique For Example Based Machine Translation,A. El-Sammak,cs.CL,http://arxiv.org/pdf/1406.1241v1
+1406.1280v1,2014-06-05T07:07:44Z,Basis Identification for Automatic Creation of Pronunciation Lexicon for   Proper Names,M Laxminarayana,cs.CL,http://arxiv.org/pdf/1406.1280v1
+1406.1870v1,2014-06-07T07:41:54Z,Toward verbalizing ontologies in isiZulu,Langa Khumalo,cs.CL,http://arxiv.org/pdf/1406.1870v1
+1406.2204v1,2014-06-09T14:54:22Z,How Easy is it to Learn a Controlled Natural Language for Building a   Knowledge Base?,Allan Third,cs.CL,http://arxiv.org/pdf/1406.2204v1
+1406.2400v1,2014-06-10T01:01:48Z,Controlled Natural Language Generation from a Multilingual   FrameNet-based Grammar,Normunds Grūzītis,cs.CL,http://arxiv.org/pdf/1406.2400v1
+1406.2903v2,2014-06-11T13:47:22Z,A Brief State of the Art for Ontology Authoring,Brian Davis,cs.CL,http://arxiv.org/pdf/1406.2903v2
+1406.3460v1,2014-06-13T09:23:53Z,Are Style Guides Controlled Languages? The Case of Koenig & Bauer AG,Karolina Suchowolec,cs.CL,http://arxiv.org/pdf/1406.3460v1
+1406.3676v3,2014-06-14T03:00:23Z,Question Answering with Subgraph Embeddings,Jason Weston,cs.CL,http://arxiv.org/pdf/1406.3676v3
+1406.3969v1,2014-06-16T10:59:03Z,Translation Of Telugu-Marathi and Vice-Versa using Rule Based Machine   Translation,Kalyani U. R. S,cs.CL,http://arxiv.org/pdf/1406.3969v1
+1406.3976v1,2014-06-16T11:30:51Z,Handling non-compositionality in multilingual CNLs,Prasanth Kolachina,cs.CL,http://arxiv.org/pdf/1406.3976v1
+1406.3987v1,2014-06-16T12:03:49Z,Towards an Error Correction Memory to Enhance Technical Texts Authoring   in LELIE,Patrick Saint Dizier,cs.CL,http://arxiv.org/pdf/1406.3987v1
+1406.4057v1,2014-06-16T16:11:32Z,Embedded Controlled Languages,Aarne Ranta,cs.CL,http://arxiv.org/pdf/1406.4057v1
+1406.4211v1,2014-06-17T01:34:22Z,Mapping the Economic Crisis: Some Preliminary Investigations,Thierry Poibeau,cs.CL,http://arxiv.org/pdf/1406.4211v1
+1406.5598v1,2014-06-21T11:30:05Z,A survey on phrase structure learning methods for text classification,Mary Priya Sebastian,cs.CL,http://arxiv.org/pdf/1406.5598v1
+1406.6844v1,2014-06-26T11:14:44Z,FrameNet Resource Grammar Library for GF,Guntis Barzdins,cs.CL,http://arxiv.org/pdf/1406.6844v1
+1406.7483v1,2014-06-29T10:08:54Z,Jabalin: a Comprehensive Computational Model of Modern Standard Arabic   Verbal Morphology Based on Traditional Arabic Prosody,Antonio Moreno Sandoval,cs.CL,http://arxiv.org/pdf/1406.7483v1
+1408.0782v1,2014-08-04T19:31:32Z,Targetable Named Entity Recognition in Social Media,Jinho D. Choi,cs.CL,http://arxiv.org/pdf/1408.0782v1
+1408.1928v1,2014-08-08T17:49:02Z,Microtask crowdsourcing for disease mention annotation in PubMed   abstracts,Andrew I. Su,cs.CL,http://arxiv.org/pdf/1408.1928v1
+1408.2359v2,2014-08-11T09:32:39Z,Gap-weighted subsequences for automatic cognate identification and   phylogenetic inference,Taraka Rama,cs.CL,http://arxiv.org/pdf/1408.2359v2
+1408.3153v2,2014-08-13T22:09:23Z,Detection is the central problem in real-word spelling correction,L. Amber Wilcox-O'Hearn,cs.CL,http://arxiv.org/pdf/1408.3153v2
+1408.3456v1,2014-08-15T01:59:29Z,SimLex-999: Evaluating Semantic Models with (Genuine) Similarity   Estimation,Anna Korhonen,cs.CL,http://arxiv.org/pdf/1408.3456v1
+1408.3731v2,2014-08-16T10:09:28Z,Unsupervised Keyword Extraction from Polish Legal Texts,Michał Łopuszyński,cs.CL,http://arxiv.org/pdf/1408.3731v2
+1408.4753v1,2014-08-20T18:40:13Z,"Be Careful When Assuming the Obvious: Commentary on ""The placement of   the head that minimizes online memory: a complex systems approach""",Phillip M. Alday,cs.CL,http://arxiv.org/pdf/1408.4753v1
+1408.6179v1,2014-08-26T16:28:21Z,Evaluating Neural Word Representations in Tensor-Based Compositional   Settings,Matthew Purver,cs.CL,http://arxiv.org/pdf/1408.6179v1
+1408.6181v1,2014-08-26T16:43:30Z,Resolving Lexical Ambiguity in Tensor Regression Models of Meaning,Mehrnoosh Sadrzadeh,cs.CL,http://arxiv.org/pdf/1408.6181v1
+1408.6788v2,2014-08-28T17:29:55Z,Strongly Incremental Repair Detection,Matthew Purver,cs.CL,http://arxiv.org/pdf/1408.6788v2
+1409.0314v2,2014-09-01T08:01:54Z,Empirical Evaluation of Tree distances for Parser Evaluation,Taraka Rama,cs.CL,http://arxiv.org/pdf/1409.0314v2
+1409.2073v1,2014-09-07T02:31:03Z,An NLP Assistant for Clide,Tobias Kortkamp,cs.CL,http://arxiv.org/pdf/1409.2073v1
+1409.3005v1,2014-09-10T09:52:41Z,A Study of Association Measures and their Combination for Arabic MWT   Extraction,Eric Gaussier,cs.CL,http://arxiv.org/pdf/1409.3005v1
+1409.3512v1,2014-09-10T19:01:18Z,Word Sense Disambiguation using WSD specific Wordnet of Polysemy Words,Bharat Sharma,cs.CL,http://arxiv.org/pdf/1409.3512v1
+1409.3813v1,2014-09-12T18:37:35Z,Incorporating Semi-supervised Features into Discontinuous Easy-First   Constituent Parsing,Yannick Versley,cs.CL,http://arxiv.org/pdf/1409.3813v1
+1409.4169v1,2014-09-15T08:05:36Z,"An Algorithm Based on Empirical Methods, for Text-to-Tuneful-Speech   Synthesis of Sanskrit Verse",Meenakshi Lakshmanan,cs.CL,http://arxiv.org/pdf/1409.4169v1
+1409.4354v1,2014-09-15T18:08:33Z,A Binary Schema and Computational Algorithms to Process Vowel-based   Euphonic Conjunctions for Word Searches,Meenakshi Lakshmanan,cs.CL,http://arxiv.org/pdf/1409.4354v1
+1409.4364v1,2014-09-15T18:19:06Z,Computational Algorithms Based on the Paninian System to Process   Euphonic Conjunctions for Word Searches,Meenakshi Lakshmanan,cs.CL,http://arxiv.org/pdf/1409.4364v1
+1409.4614v4,2014-09-16T12:59:07Z,Lexical Normalisation of Twitter Data,Bilal Ahmed,cs.CL,http://arxiv.org/pdf/1409.4614v4
+1409.5502v1,2014-09-19T02:50:04Z,Using crowdsourcing system for creating site-specific statistical   machine translation engine,George Savchenko,cs.CL,http://arxiv.org/pdf/1409.5502v1
+1409.7386v1,2014-09-25T15:35:27Z,Performance of Stanford and Minipar Parser on Biomedical Texts,Rushdi Shams,cs.CL,http://arxiv.org/pdf/1409.7386v1
+1409.7619v1,2014-09-25T13:54:37Z,Generating Conceptual Metaphors from Proposition Stores,Ross Israel,cs.CL,http://arxiv.org/pdf/1409.7619v1
+1409.8008v1,2014-09-29T07:11:30Z,CRF-based Named Entity Recognition @ICON 2013,Utpal Garain,cs.CL,http://arxiv.org/pdf/1409.8008v1
+1409.8581v1,2014-09-29T04:54:03Z,Improving the Performance of English-Tamil Statistical Machine   Translation System using Source-Side Pre-Processing,V. Sharmiladevi,cs.CL,http://arxiv.org/pdf/1409.8581v1
+1410.0286v1,2014-10-01T16:53:35Z,LAF-Fabric: a data analysis tool for Linguistic Annotation Framework   with an application to the Hebrew Bible,Andreas van Cranenburgh,cs.CL,http://arxiv.org/pdf/1410.0286v1
+1410.0291v2,2014-10-01T17:03:18Z,"A Morphological Analyzer for Japanese Nouns, Verbs and Adjectives",Yanchuan Sim,cs.CL,http://arxiv.org/pdf/1410.0291v2
+1410.0718v2,2014-10-02T21:35:35Z,Not All Neural Embeddings are Born Equal,Yoshua Bengio,cs.CL,http://arxiv.org/pdf/1410.0718v2
+1410.1135v1,2014-10-05T09:02:31Z,Corpora Preparation and Stopword List Generation for Arabic data in   Social Network,Hoda Korashy,cs.CL,http://arxiv.org/pdf/1410.1135v1
+1410.2082v2,2014-10-08T12:24:38Z,Contrastive Unsupervised Word Alignment with Non-Local Features,Maosong Sun,cs.CL,http://arxiv.org/pdf/1410.2082v2
+1410.2149v1,2014-10-05T01:36:30Z,Language-based Examples in the Statistics Classroom,Roger Bilisoly,cs.CL,http://arxiv.org/pdf/1410.2149v1
+1410.2646v1,2014-10-09T22:56:44Z,Hybrid approaches for automatic vowelization of Arabic texts,Lakhouaja Abdelhak,cs.CL,http://arxiv.org/pdf/1410.2646v1
+1410.2871v2,2014-10-10T19:19:31Z,An Ontology for Comprehensive Tutoring of Euphonic Conjunctions of   Sanskrit Grammar,Meenakshi Lakshmanan,cs.CL,http://arxiv.org/pdf/1410.2871v2
+1410.4176v1,2014-10-15T19:27:10Z,Learning Distributed Word Representations for Natural Logic Reasoning,Christopher D. Manning,cs.CL,http://arxiv.org/pdf/1410.4176v1
+1410.4639v3,2014-10-17T05:19:12Z,Dependent Types for Pragmatics,Jonathan Sterling,cs.CL,http://arxiv.org/pdf/1410.4639v3
+1410.4863v1,2014-10-17T21:05:01Z,Arabic Language Text Classification Using Dependency Syntax-Based   Feature Selection,Philippe Lenca,cs.CL,http://arxiv.org/pdf/1410.4863v1
+1410.4868v1,2014-10-17T21:19:15Z,A Modality Lexicon and its use in Automatic Tagging,Christine Piatko,cs.CL,http://arxiv.org/pdf/1410.4868v1
+1410.4966v1,2014-10-18T14:53:19Z,The Visualization of Change in Word Meaning over Time using Temporal   Word Embeddings,Shay B. Cohen,cs.CL,http://arxiv.org/pdf/1410.4966v1
+1410.7182v1,2014-10-27T11:09:36Z,Analysis of Named Entity Recognition and Linking for Tweets,Kalina Bontcheva,cs.CL,http://arxiv.org/pdf/1410.7182v1
+1410.7787v1,2014-10-28T20:12:50Z,Correcting Errors in Digital Lexicographic Resources Using a Dictionary   Manipulation Language,Michael Bloodgood,cs.CL,http://arxiv.org/pdf/1410.7787v1
+1410.8668v1,2014-10-31T08:35:55Z,Experiments to Improve Named Entity Recognition on Turkish Tweets,Ralf Steinberger,cs.CL,http://arxiv.org/pdf/1410.8668v1
+1411.0588v1,2014-11-03T18:05:54Z,On Detecting Noun-Adjective Agreement Errors in Bulgarian Language Using   GATE,Elena Karashtranova,cs.CL,http://arxiv.org/pdf/1411.0588v1
+1411.0778v1,2014-11-04T03:48:20Z,Detecting Suicidal Ideation in Chinese Microblogs with Psychological   Lexicons,Xin Li,cs.CL,http://arxiv.org/pdf/1411.0778v1
+1411.2738v4,2014-11-11T09:24:00Z,word2vec Parameter Learning Explained,Xin Rong,cs.CL,http://arxiv.org/pdf/1411.2738v4
+1411.3146v1,2014-11-12T11:26:51Z,Distributed Representations for Compositional Semantics,Karl Moritz Hermann,cs.CL,http://arxiv.org/pdf/1411.3146v1
+1411.3561v1,2014-11-13T14:44:00Z,A Text to Speech (TTS) System with English to Punjabi Conversion,Amritpal Singh,cs.CL,http://arxiv.org/pdf/1411.3561v1
+1411.4166v4,2014-11-15T17:34:20Z,Retrofitting Word Vectors to Semantic Lexicons,Noah A. Smith,cs.CL,http://arxiv.org/pdf/1411.4166v4
+1411.4472v1,2014-11-17T13:36:49Z,Opinion mining of text documents written in Macedonian language,Ljupco Kocarev,cs.CL,http://arxiv.org/pdf/1411.4472v1
+1411.4614v1,2014-09-26T05:09:40Z,Using graph transformation algorithms to generate natural language   equivalents of icons expressing medical concepts,Jean-Baptiste Lamy,cs.CL,http://arxiv.org/pdf/1411.4614v1
+1411.4960v1,2014-11-18T18:46:36Z,Network Motifs Analysis of Croatian Literature,Ana Meštrović,cs.CL,http://arxiv.org/pdf/1411.4960v1
+1411.5379v3,2014-11-19T21:06:15Z,Type-Driven Incremental Semantic Parsing with Polymorphism,Liang Huang,cs.CL,http://arxiv.org/pdf/1411.5379v3
+1411.5796v1,2014-11-21T08:50:30Z,Pre-processing of Domain Ontology Graph Generation System in Punjabi,Saurabh Sharma,cs.CL,http://arxiv.org/pdf/1411.5796v1
+1411.7820v1,2014-11-28T11:33:02Z,Coarse-grained Cross-lingual Alignment of Comparable Texts with Topic   Models and Encyclopedic Knowledge,Angela Fahrni,cs.CL,http://arxiv.org/pdf/1411.7820v1
+1411.7942v2,2014-11-28T16:57:34Z,Using Sentence Plausibility to Learn the Semantics of Transitive Verbs,Stephen Clark,cs.CL,http://arxiv.org/pdf/1411.7942v2
+1412.0751v1,2014-12-02T00:53:35Z,Tiered Clustering to Improve Lexical Entailment,John Wieting,cs.CL,http://arxiv.org/pdf/1412.0751v1
+1412.1215v1,2014-12-03T07:16:04Z,"Mary Astell's words in A Serious Proposal to the Ladies (part I), a   lexicographic inquiry with NooJ",Odile Piton,cs.CL,http://arxiv.org/pdf/1412.1215v1
+1412.1342v1,2014-12-03T14:37:36Z,A perspective on the advancement of natural language processing tasks   via topological analysis of complex networks,Diego R. Amancio,cs.CL,http://arxiv.org/pdf/1412.1342v1
+1412.1632v1,2014-12-04T11:53:02Z,Deep Learning for Answer Sentence Selection,Stephen Pulman,cs.CL,http://arxiv.org/pdf/1412.1632v1
+1412.1820v2,2014-12-03T23:26:33Z,Context-Dependent Fine-Grained Entity Type Tagging,David Huynh,cs.CL,http://arxiv.org/pdf/1412.1820v2
+1412.2007v2,2014-12-05T14:26:27Z,On Using Very Large Target Vocabulary for Neural Machine Translation,Yoshua Bengio,cs.CL,http://arxiv.org/pdf/1412.2007v2
+1412.2197v3,2014-12-06T04:40:18Z,Practice in Synonym Extraction at Large Scale,Chang Wang,cs.CL,http://arxiv.org/pdf/1412.2197v3
+1412.2378v1,2014-12-07T17:49:53Z,Learning Word Representations from Relational Graphs,Ken-ichi Kawarabayashi,cs.CL,http://arxiv.org/pdf/1412.2378v1
+1412.2442v1,2014-12-08T04:14:05Z,Rediscovering the Alphabet - On the Innate Universal Grammar,Asaad Kaadan,cs.CL,http://arxiv.org/pdf/1412.2442v1
+1412.3336v1,2014-12-10T15:22:08Z,Statistical Patterns in Written Language,Damián H. Zanette,cs.CL,http://arxiv.org/pdf/1412.3336v1
+1412.4021v5,2014-12-12T15:26:43Z,A Robust Transformation-Based Learning Approach Using Ripple Down Rules   for Part-of-Speech Tagging,Son Bao Pham,cs.CL,http://arxiv.org/pdf/1412.4021v5
+1412.4369v3,2014-12-14T15:18:18Z,Incorporating Both Distributional and Relational Semantics in Word   Representations,Kevin Duh,cs.CL,http://arxiv.org/pdf/1412.4369v3
+1412.4682v1,2014-12-15T17:20:47Z,Rule-based Emotion Detection on Social Media: Putting Tweets on   Plutchik's Wheel,Mykola Pechenizkiy,cs.CL,http://arxiv.org/pdf/1412.4682v1
+1412.4930v2,2014-12-16T09:43:56Z,Rehabilitation of Count-based Models for Word Vector Representations,Ronan Collobert,cs.CL,http://arxiv.org/pdf/1412.4930v2
+1412.5212v1,2014-12-16T22:00:52Z,Application of Topic Models to Judgments from Public Procurement Domain,Michał Łopuszyński,cs.CL,http://arxiv.org/pdf/1412.5212v1
+1412.5477v1,2014-12-17T16:56:43Z,Computational Model to Generate Case-Inflected Forms of Masculine Nouns   for Word Search in Sanskrit E-Text,Lakshmanan Meenakshi,cs.CL,http://arxiv.org/pdf/1412.5477v1
+1412.5836v3,2014-12-18T12:30:55Z,Incorporating Both Distributional and Relational Semantics in Word   Representations,Kevin Duh,cs.CL,http://arxiv.org/pdf/1412.5836v3
+1412.6045v2,2014-12-18T20:14:10Z,A Simple and Efficient Method To Generate Word Sense Representations,Richard Johansson,cs.CL,http://arxiv.org/pdf/1412.6045v2
+1412.6264v1,2014-12-19T09:53:57Z,"Supertagging: Introduction, learning, and application",Taraka Rama K,cs.CL,http://arxiv.org/pdf/1412.6264v1
+1412.6277v2,2014-12-19T10:29:33Z,N-gram-Based Low-Dimensional Representation for Document Classification,Ronan Collobert,cs.CL,http://arxiv.org/pdf/1412.6277v2
+1412.6334v4,2014-12-19T13:23:35Z,Leveraging Monolingual Data for Crosslingual Compositional Word   Representations,Akiko Aizawa,cs.CL,http://arxiv.org/pdf/1412.6334v4
+1412.6448v4,2014-12-19T17:22:03Z,Embedding Word Similarity with Neural Machine Translation,Yoshua Bengio,cs.CL,http://arxiv.org/pdf/1412.6448v4
+1412.6575v4,2014-12-20T01:37:16Z,Embedding Entities and Relations for Learning and Inference in Knowledge   Bases,Li Deng,cs.CL,http://arxiv.org/pdf/1412.6575v4
+1412.7119v3,2014-12-22T20:08:06Z,Pragmatic Neural Language Modelling in Machine Translation,Phil Blunsom,cs.CL,http://arxiv.org/pdf/1412.7119v3
+1412.7415v2,2014-12-23T15:51:41Z,A prototype Malayalam to Sign Language Automatic Translator,Kannan Balakrishnan,cs.CL,http://arxiv.org/pdf/1412.7415v2
+1412.8010v1,2014-12-27T01:54:15Z,Construction of Vietnamese SentiWordNet by using Vietnamese Dictionary,Seong-Bae Park,cs.CL,http://arxiv.org/pdf/1412.8010v1
+1501.00841v1,2015-01-05T12:55:03Z,Chasing the Ghosts of Ibsen: A computational stylistic analysis of drama   in translation,Carl Vogel,cs.CL,http://arxiv.org/pdf/1501.00841v1
+1501.01243v1,2015-01-06T17:27:40Z,"Un résumeur à base de graphes, indépéndant de la langue",Iria da Cunha,cs.CL,http://arxiv.org/pdf/1501.01243v1
+1501.01254v1,2015-01-06T18:03:13Z,Unknown Words Analysis in POS tagging of Sinhala Language,N. G. J. Dias,cs.CL,http://arxiv.org/pdf/1501.01254v1
+1501.01894v1,2015-01-08T16:12:34Z,Quantifying Scripts: Defining metrics of characters for quantitative and   descriptive analysis,Vinodh Rajan,cs.CL,http://arxiv.org/pdf/1501.01894v1
+1501.02670v1,2015-01-12T14:48:54Z,Navigating the Semantic Horizon using Relative Neighborhood Graphs,Magnus Sahlgren,cs.CL,http://arxiv.org/pdf/1501.02670v1
+1501.03191v1,2015-01-13T22:14:57Z,Annotating Cognates and Etymological Origin in Turkic Languages,Michael Bloodgood,cs.CL,http://arxiv.org/pdf/1501.03191v1
+1501.04324v1,2015-01-18T16:37:53Z,Phrase Based Language Model For Statistical Machine Translation,Geliang Chen,cs.CL,http://arxiv.org/pdf/1501.04324v1
+1501.05203v3,2015-01-21T15:48:28Z,Phrase Based Language Model for Statistical Machine Translation:   Empirical Study,Geliang Chen,cs.CL,http://arxiv.org/pdf/1501.05203v3
+1501.07005v1,2015-01-28T07:04:18Z,Survey:Natural Language Parsing For Indian Languages,Deepak C. Vegda,cs.CL,http://arxiv.org/pdf/1501.07005v1
+1502.01245v1,2015-02-04T16:12:45Z,Authorship recognition via fluctuation analysis of network topology and   word intermittency,Diego R. Amancio,cs.CL,http://arxiv.org/pdf/1502.01245v1
+1502.01271v2,2015-02-04T17:53:01Z,INRIASAC: Simple Hypernym Extraction Methods,Gregory Grefenstette,cs.CL,http://arxiv.org/pdf/1502.01271v2
+1502.01446v1,2015-02-05T07:42:18Z,Beyond Word-based Language Model in Statistical Machine Translation,Chengqing Zong,cs.CL,http://arxiv.org/pdf/1502.01446v1
+1502.02655v1,2015-02-07T21:59:21Z,An investigation into language complexity of World-of-Warcraft   game-external texts,Simon Šuster,cs.CL,http://arxiv.org/pdf/1502.02655v1
+1502.03671v2,2015-02-12T14:17:15Z,Phrase-based Image Captioning,Ronan Collobert,cs.CL,http://arxiv.org/pdf/1502.03671v2
+1502.03752v1,2015-02-12T17:49:45Z,A new hybrid metric for verifying parallel corpora of Arabic-English,William J. Teahan,cs.CL,http://arxiv.org/pdf/1502.03752v1
+1502.04174v1,2015-02-14T06:47:34Z,Probabilistic Models for High-Order Projective Dependency Parsing,Hai Zhao,cs.CL,http://arxiv.org/pdf/1502.04174v1
+1502.04938v2,2015-02-17T15:59:09Z,A Survey of Word Reordering in Statistical Machine Translation:   Computational Models and Language Phenomena,Marcello Federico,cs.CL,http://arxiv.org/pdf/1502.04938v2
+1502.07038v1,2015-02-25T03:27:38Z,Web-scale Surface and Syntactic n-gram Features for Dependency Parsing,James R. Curran,cs.CL,http://arxiv.org/pdf/1502.07038v1
+1502.07257v2,2015-02-25T17:15:56Z,Breaking Sticks and Ambiguities with Adaptive Skip-gram,Dmitry Vetrov,cs.CL,http://arxiv.org/pdf/1502.07257v2
+1502.07504v1,2015-02-26T11:09:59Z,Rational Kernels for Arabic Stemming and Text Classification,Hadda Cherroun,cs.CL,http://arxiv.org/pdf/1502.07504v1
+1502.07920v1,2015-02-27T14:55:15Z,Local Translation Prediction with Global Sentence Representation,Jiajun Zhang,cs.CL,http://arxiv.org/pdf/1502.07920v1
+1503.00030v1,2015-02-27T22:52:37Z,Parsing as Reduction,André F. T. Martins,cs.CL,http://arxiv.org/pdf/1503.00030v1
+1503.00095v3,2015-02-28T07:59:59Z,Task-Oriented Learning of Word Embeddings for Semantic Relation   Classification,Yoshimasa Tsuruoka,cs.CL,http://arxiv.org/pdf/1503.00095v3
+1503.00168v1,2015-02-28T19:46:50Z,The NLP Engine: A Universal Turing Machine for NLP,Eduard Hovy,cs.CL,http://arxiv.org/pdf/1503.00168v1
+1503.01655v2,2015-03-05T15:08:21Z,Studying the Wikipedia Hyperlink Graph for Relatedness and   Disambiguation,Aitor Soroa,cs.CL,http://arxiv.org/pdf/1503.01655v2
+1503.02335v1,2015-03-08T22:18:30Z,An Unsupervised Method for Uncovering Morphological Chains,Tommi Jaakkola,cs.CL,http://arxiv.org/pdf/1503.02335v1
+1503.03535v2,2015-03-11T23:50:04Z,On Using Monolingual Corpora in Neural Machine Translation,Yoshua Bengio,cs.CL,http://arxiv.org/pdf/1503.03535v2
+1503.03989v1,2015-03-13T09:03:21Z,An implementation of Apertium based Assamese morphological analyzer,Shikhar Kumar Sarma,cs.CL,http://arxiv.org/pdf/1503.03989v1
+1503.05034v2,2015-03-17T13:26:08Z,$gen$CNN: A Convolutional Architecture for Word Sequence Prediction,Qun Liu,cs.CL,http://arxiv.org/pdf/1503.05034v2
+1503.05123v1,2015-03-17T17:04:27Z,Prediction Using Note Text: Synthetic Feature Creation with word2vec,Yelena Rozenfeld,cs.CL,http://arxiv.org/pdf/1503.05123v1
+1503.05626v1,2015-03-19T01:37:40Z,Phrase database Approach to structural and semantic disambiguation in   English-Korean Machine Translation,Myong-Chol Pak,cs.CL,http://arxiv.org/pdf/1503.05626v1
+1503.05907v1,2015-03-19T19:45:24Z,Syntagma Lexical Database,Daniel Christen,cs.CL,http://arxiv.org/pdf/1503.05907v1
+1503.06151v1,2015-03-20T16:41:05Z,On measuring linguistic intelligence,Maxim Litvak,cs.CL,http://arxiv.org/pdf/1503.06151v1
+1503.06450v2,2015-03-22T18:05:08Z,Multilingual Open Relation Extraction Using Cross-lingual Projection,Shankar Kumar,cs.CL,http://arxiv.org/pdf/1503.06450v2
+1503.06733v2,2015-03-23T17:20:54Z,Yara Parser: A Fast and Accurate Dependency Parser,Joel Tetreault,cs.CL,http://arxiv.org/pdf/1503.06733v2
+1503.06760v1,2015-03-23T18:32:56Z,Unsupervised POS Induction with Word Embeddings,Lori Levin,cs.CL,http://arxiv.org/pdf/1503.06760v1
+1503.07283v1,2015-03-25T05:28:50Z,Morphological Analyzer and Generator for Russian and Ukrainian Languages,Mikhail Korobov,cs.CL,http://arxiv.org/pdf/1503.07283v1
+1503.07613v1,2015-03-26T04:02:26Z,Unsupervised authorship attribution,Emil Lunde,cs.CL,http://arxiv.org/pdf/1503.07613v1
+1503.08167v2,2015-03-27T17:57:00Z,Normalization of Non-Standard Words in Croatian Texts,Sanda Martinčić-Ipšić,cs.CL,http://arxiv.org/pdf/1503.08167v2
+1503.09144v1,2015-03-31T17:56:07Z,Towards Using Machine Translation Techniques to Induce Multilingual   Lexica of Discourse Markers,Ana Isabel Mata,cs.CL,http://arxiv.org/pdf/1503.09144v1
+1504.00548v4,2015-04-02T13:30:27Z,Learning to Understand Phrases by Embedding the Dictionary,Yoshua Bengio,cs.CL,http://arxiv.org/pdf/1504.00548v4
+1504.01182v1,2015-04-06T01:18:24Z,Bengali to Assamese Statistical Machine Translation using Moses (Corpus   Based),Baharul Islam,cs.CL,http://arxiv.org/pdf/1504.01182v1
+1504.01427v1,2015-04-06T22:00:12Z,A Metric to Classify Style of Spoken Speech,P. V. S. Rao,cs.CL,http://arxiv.org/pdf/1504.01427v1
+1504.01496v1,2015-04-07T07:02:38Z,Voice based self help System: User Experience Vs Accuracy,Sunil Kumar Kopparapu,cs.CL,http://arxiv.org/pdf/1504.01496v1
+1504.01683v4,2015-04-07T17:44:30Z,Jointly Embedding Relations and Mentions for Knowledge Population,Ralph Grishman,cs.CL,http://arxiv.org/pdf/1504.01683v4
+1504.02162v2,2015-04-09T00:49:36Z,Concentric network symmetry grasps authors' styles in word adjacency   networks,Luciano da F. Costa,cs.CL,http://arxiv.org/pdf/1504.02162v2
+1504.02490v1,2015-04-09T20:21:32Z,Leveraging Twitter for Low-Resource Conversational Speech Language   Modeling,Mari Ostendorf,cs.CL,http://arxiv.org/pdf/1504.02490v1
+1504.04751v1,2015-04-18T18:34:19Z,A Knowledge-poor Pronoun Resolution System for Turkish,Meltem Turhan Yöndem,cs.CL,http://arxiv.org/pdf/1504.04751v1
+1504.05319v2,2015-04-21T06:58:26Z,"Big Data Small Data, In Domain Out-of Domain, Known Word Unknown Word:   The Impact of Word Representation on Sequence Labelling Tasks",Timothy Baldwin,cs.CL,http://arxiv.org/pdf/1504.05319v2
+1504.06391v1,2015-04-24T04:45:55Z,On the Stability of Online Language Features: How Much Text do you Need   to know a Person?,Eben M. Haber,cs.CL,http://arxiv.org/pdf/1504.06391v1
+1504.07678v1,2015-04-28T22:47:25Z,Leveraging Deep Neural Networks and Knowledge Graphs for Entity   Disambiguation,Heng Ji,cs.CL,http://arxiv.org/pdf/1504.07678v1
+1504.08102v1,2015-04-30T07:27:56Z,Detecting and ordering adjectival scalemates,Emiel van Miltenburg,cs.CL,http://arxiv.org/pdf/1504.08102v1
+1504.08183v1,2015-04-30T12:03:10Z,"Texts in, meaning out: neural language models in semantic similarity   task for Russian",Igor Andreev,cs.CL,http://arxiv.org/pdf/1504.08183v1
+1505.00161v1,2015-05-01T11:43:34Z,Embedding Semantic Relations into Word Representations,Ken-ichi Kawarabayashi,cs.CL,http://arxiv.org/pdf/1505.00161v1
+1505.02425v1,2015-05-10T19:26:31Z,Fast Rhetorical Structure Theory Discourse Parsing,Kenji Sagae,cs.CL,http://arxiv.org/pdf/1505.02425v1

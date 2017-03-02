@@ -1,0 +1,1000 @@
+cs/9401102v1,1994-01-01T00:00:00Z,Mini-indexes for literate programs,Donald E. Knuth,cs.PL,http://arxiv.org/pdf/cs/9401102v1
+cs/9809008v1,1998-09-02T17:40:46Z,Comparing the expressive power of the Synchronous and the Asynchronous   pi-calculus,Catuscia Palamidessi,cs.PL,http://arxiv.org/pdf/cs/9809008v1
+cs/9809016v1,1998-09-10T16:54:05Z,Scoping Constructs in Logic Programming: Implementation Problems and   their Solution,Keehang Kwon,cs.PL,http://arxiv.org/pdf/cs/9809016v1
+cs/9810027v1,1998-10-29T14:30:59Z,Linguistic Reflection in Java,D. W. Stemple,cs.PL,http://arxiv.org/pdf/cs/9810027v1
+cs/9811001v1,1998-10-31T07:20:37Z,A Polymorphic Groundness Analysis of Logic Programs,Lunjin Lu,cs.PL,http://arxiv.org/pdf/cs/9811001v1
+cs/9901007v1,1999-01-15T19:28:58Z,Universal Object Oriented Languages and Computer Algebra,Alexander Yu. Vlasov,cs.PL,http://arxiv.org/pdf/cs/9901007v1
+cs/9911001v2,1999-11-04T11:14:45Z,Semantics of Programming Languages: A Tool-Oriented Approach,Paul Klint,cs.PL,http://arxiv.org/pdf/cs/9911001v2
+cs/0001003v1,2000-01-06T21:31:29Z,Why C++ is not very fit for GUI programming,Oleg Kiselyov,cs.PL,http://arxiv.org/pdf/cs/0001003v1
+cs/0001009v1,2000-01-12T22:15:05Z,Fractal Symbolic Analysis,Keshav Pingali,cs.PL,http://arxiv.org/pdf/cs/0001009v1
+cs/0003010v1,2000-03-06T12:16:00Z,TSIA: A Dataflow Model,Burkhard D. Steinmacher-Burow,cs.PL,http://arxiv.org/pdf/cs/0003010v1
+cs/0004006v1,2000-04-17T13:34:17Z,On Redundancy Elimination Tolerant Scheduling Rules,M. I. Sessa,cs.PL,http://arxiv.org/pdf/cs/0004006v1
+cs/0004011v1,2000-04-19T12:22:36Z,Task Frames,Burkhard D. Steinmacher-Burow,cs.PL,http://arxiv.org/pdf/cs/0004011v1
+cs/0005002v1,2000-05-03T13:34:15Z,"Application Software, Domain-Specific Languages, and Language Design   Assistants",Jan Heering,cs.PL,http://arxiv.org/pdf/cs/0005002v1
+cs/0005023v1,2000-05-19T10:19:51Z,C++ programming language for an abstract massively parallel SIMD   architecture,Benedetto Proietti,cs.PL,http://arxiv.org/pdf/cs/0005023v1
+cs/0005033v1,2000-05-31T07:54:30Z,Multimethods and separate static typechecking in a language with   C++-like object model,Bernardo Pastorelli,cs.PL,http://arxiv.org/pdf/cs/0005033v1
+cs/0006034v1,2000-06-26T00:39:32Z,Type Classes and Constraint Handling Rules,Peter J. Stuckey,cs.PL,http://arxiv.org/pdf/cs/0006034v1
+cs/0009029v1,2000-09-29T14:24:39Z,The Concurrent Language Aldwych,Matthew Huntbach,cs.PL,http://arxiv.org/pdf/cs/0009029v1
+cs/0010009v1,2000-10-03T17:00:42Z,An Approach to the Implementation of Overlapping Rules in Standard ML,Riccardo Pucella,cs.PL,http://arxiv.org/pdf/cs/0010009v1
+cs/0010016v1,2000-10-10T10:32:00Z,Towards rule-based visual programming of generic visual systems,Mark Minas,cs.PL,http://arxiv.org/pdf/cs/0010016v1
+cs/0011025v1,2000-11-17T12:45:13Z,Termination analysis of logic programs using acceptability with general   term orders,Danny De Schreye,cs.PL,http://arxiv.org/pdf/cs/0011025v1
+cs/0011036v1,2000-11-23T09:56:03Z,Automatic Termination Analysis of Programs Containing Arithmetic   Predicates,Alexander Serebrenik,cs.PL,http://arxiv.org/pdf/cs/0011036v1
+cs/0012008v1,2000-12-13T13:37:17Z,A General Framework for Automatic Termination Analysis of Logic Programs,Alexander Serebrenik,cs.PL,http://arxiv.org/pdf/cs/0012008v1
+cs/0101025v1,2001-01-23T14:20:08Z,Decomposing Non-Redundant Sharing by Complementation,Roberto Bagnara,cs.PL,http://arxiv.org/pdf/cs/0101025v1
+cs/0102025v2,2001-02-23T17:42:36Z,An Effective Fixpoint Semantics for Linear Logic Programs,Maurizio Martelli,cs.PL,http://arxiv.org/pdf/cs/0102025v2
+cs/0102030v1,2001-02-27T14:54:34Z,"Soundness, Idempotence and Commutativity of Set-Sharing",Enea Zaffanella,cs.PL,http://arxiv.org/pdf/cs/0102030v1
+cs/0105011v1,2001-05-07T12:56:11Z,Component Programming and Interoperability in Constraint Solver Design,Frederic Goualard,cs.PL,http://arxiv.org/pdf/cs/0105011v1
+cs/0109002v1,2001-09-03T04:10:41Z,Probabilistic asynchronous pi-calculus,Catuscia Palamidessi,cs.PL,http://arxiv.org/pdf/cs/0109002v1
+cs/0109003v1,2001-09-03T05:37:48Z,On the generalized dining philosophers problem,Catuscia Palamidessi,cs.PL,http://arxiv.org/pdf/cs/0109003v1
+cs/0109024v1,2001-09-17T15:43:17Z,Verification of Timed Automata Using Rewrite Rules and Strategies,Claude Kirchner,cs.PL,http://arxiv.org/pdf/cs/0109024v1
+cs/0109033v1,2001-09-18T19:16:30Z,CLP versus LS on Log-based Reconciliation Problems,Francois Fages,cs.PL,http://arxiv.org/pdf/cs/0109033v1
+cs/0109060v1,2001-09-24T11:33:39Z,Branching: the Essence of Constraint Solving,Patricia M. Hill,cs.PL,http://arxiv.org/pdf/cs/0109060v1
+cs/0109066v1,2001-09-24T15:39:57Z,CLP Approaches to 2D Angle Placements,Tomasz Szczygiel,cs.PL,http://arxiv.org/pdf/cs/0109066v1
+cs/0110007v1,2001-10-02T14:10:58Z,Variable and Value Ordering When Solving Balanced Academic Curriculum   Problems,Sebastian Manzano,cs.PL,http://arxiv.org/pdf/cs/0110007v1
+cs/0110012v1,2001-10-03T09:08:25Z,Proceedings of the 6th Annual Workshop of the ERCIM Working Group on   Constraints,Sebastian Brand,cs.PL,http://arxiv.org/pdf/cs/0110012v1
+cs/0110037v1,2001-10-17T16:20:33Z,Practical Aspects for a Working Compile Time Garbage Collection System   for Mercury,Maurice Bruynooghe,cs.PL,http://arxiv.org/pdf/cs/0110037v1
+cs/0201012v1,2002-01-16T12:02:33Z,Efficient Groundness Analysis in Prolog,Andy King,cs.PL,http://arxiv.org/pdf/cs/0201012v1
+cs/0201029v1,2002-01-31T17:47:45Z,The Witness Properties and the Semantics of the Prolog Cut,James H. Andrews,cs.PL,http://arxiv.org/pdf/cs/0201029v1
+cs/0202010v1,2002-02-11T11:50:37Z,Using parametric set constraints for locating errors in CLP programs,P. Pietrzak,cs.PL,http://arxiv.org/pdf/cs/0202010v1
+cs/0203001v1,2002-03-01T11:58:56Z,Towards Generic Refactoring,Ralf Laemmel,cs.PL,http://arxiv.org/pdf/cs/0203001v1
+cs/0203022v1,2002-03-18T13:22:30Z,Three Optimisations for Sharing,Andy King,cs.PL,http://arxiv.org/pdf/cs/0203022v1
+cs/0204013v2,2002-04-08T14:12:21Z,The Sketch of a Polymorphic Symphony,Ralf Laemmel,cs.PL,http://arxiv.org/pdf/cs/0204013v2
+cs/0204015v1,2002-04-09T12:44:43Z,Design Patterns for Functional Strategic Programming,Joost Visser,cs.PL,http://arxiv.org/pdf/cs/0204015v1
+cs/0204018v3,2002-04-09T18:32:40Z,A Framework for Datatype Transformation,Ralf Laemmel,cs.PL,http://arxiv.org/pdf/cs/0204018v3
+cs/0205018v2,2002-05-14T10:18:42Z,Typed Generic Traversal With Term Rewriting Strategies,Ralf Laemmel,cs.PL,http://arxiv.org/pdf/cs/0205018v2
+cs/0208029v1,2002-08-20T11:12:58Z,Logic programming in the context of multiparadigm programming: the Oz   experience,Christian Schulte,cs.PL,http://arxiv.org/pdf/cs/0208029v1
+cs/0212003v1,2002-12-04T23:11:22Z,Ownership Confinement Ensures Representation Independence for   Object-Oriented Programs,David A. Naumann,cs.PL,http://arxiv.org/pdf/cs/0212003v1
+cs/0212048v1,2002-12-19T13:54:26Z,Strategic polymorphism requires just two combinators!,Joost Visser,cs.PL,http://arxiv.org/pdf/cs/0212048v1
+cs/0301003v1,2003-01-07T07:53:20Z,Flavor: A Language for Media Representation,Danny Hong,cs.PL,http://arxiv.org/pdf/cs/0301003v1
+cs/0308007v1,2003-08-04T18:59:42Z,On Applying Or-Parallelism and Tabling to Logic Programs,Vitor Santos Costa,cs.PL,http://arxiv.org/pdf/cs/0308007v1
+cs/0309028v1,2003-09-16T07:43:50Z,cTI: A constraint-based termination inference tool for ISO-Prolog,Roberto Bagnara,cs.PL,http://arxiv.org/pdf/cs/0309028v1
+cs/0311002v1,2003-11-04T12:43:54Z,Computing Convex Hulls with a Linear Solver,Fred Mesnard,cs.PL,http://arxiv.org/pdf/cs/0311002v1
+cs/0311016v1,2003-11-14T10:23:11Z,Generic and Efficient Program Monitoring by trace analysis,Mireille Ducass'e,cs.PL,http://arxiv.org/pdf/cs/0311016v1
+cs/0311023v1,2003-11-17T23:06:18Z,The Chameleon Type Debugger (Tool Demonstration),Jeremy Wazny,cs.PL,http://arxiv.org/pdf/cs/0311023v1
+cs/0311032v1,2003-11-21T06:18:19Z,A Very Short Self-Interpreter,Daniel B. Cristofani,cs.PL,http://arxiv.org/pdf/cs/0311032v1
+cs/0312023v1,2003-12-12T16:14:20Z,Inferring Termination Conditions for Logic Programs using Backwards   Analysis,Michael Codish,cs.PL,http://arxiv.org/pdf/cs/0312023v1
+cs/0312027v1,2003-12-15T13:43:37Z,An Open Ended Tree,Gerda Janssens,cs.PL,http://arxiv.org/pdf/cs/0312027v1
+cs/0401021v1,2004-01-26T10:14:21Z,"A correct, precise and efficient integration of set-sharing, freeness   and linearity for the analysis of finite and rational tree languages",Roberto Bagnara,cs.PL,http://arxiv.org/pdf/cs/0401021v1
+cs/0401022v1,2004-01-26T10:35:43Z,Enhanced sharing analysis techniques: a comprehensive evaluation,Patricia M. Hill,cs.PL,http://arxiv.org/pdf/cs/0401022v1
+cs/0401024v1,2004-01-27T03:29:16Z,A system for reflection in C++,Russell K. Standish,cs.PL,http://arxiv.org/pdf/cs/0401024v1
+cs/0402043v1,2004-02-18T06:30:12Z,The UPLNC Compiler: Design and Implementation,Evgueniy Vitchev,cs.PL,http://arxiv.org/pdf/cs/0402043v1
+cs/0402058v1,2004-02-25T19:00:31Z,A Tribute to Alain Colmerauer,Jacques Cohen,cs.PL,http://arxiv.org/pdf/cs/0402058v1
+cs/0403011v1,2004-03-09T15:43:00Z,Specialization of Functional Logic Programs Based on Needed Narrowing,German Vidal,cs.PL,http://arxiv.org/pdf/cs/0403011v1
+cs/0403034v3,2004-03-23T06:59:38Z,Phantom Types and Subtyping,Riccardo Pucella,cs.PL,http://arxiv.org/pdf/cs/0403034v3
+cs/0404020v1,2004-04-07T17:26:09Z,A treatment of higher-order features in logic programming,Gopalan Nadathur,cs.PL,http://arxiv.org/pdf/cs/0404020v1
+cs/0404050v1,2004-04-24T14:02:48Z,A General Framework For Lazy Functional Logic Programming With Algebraic   Polymorphic Types,Mario Rodriguez-Artalejo,cs.PL,http://arxiv.org/pdf/cs/0404050v1
+cs/0404052v1,2004-04-25T03:49:44Z,Multi-Threading And Message Communication In Qu-Prolog,Richard Hagen,cs.PL,http://arxiv.org/pdf/cs/0404052v1
+cs/0404053v1,2004-04-26T13:22:43Z,Constraint Logic Programming with Hereditary Harrop Formula,Mario Rodriguez-Artalejo,cs.PL,http://arxiv.org/pdf/cs/0404053v1
+cs/0404055v2,2004-04-26T20:44:49Z,Finite-Tree Analysis for Constraint Logic-Based Languages: The Complete   Unabridged Version,Enea Zaffanella,cs.PL,http://arxiv.org/pdf/cs/0404055v2
+cs/0405075v1,2004-05-22T07:21:02Z,Reduction Strategies in Lambda Term Normalization and their Effects on   Heap Usage,Xiaochu Qi,cs.PL,http://arxiv.org/pdf/cs/0405075v1
+cs/0405079v1,2004-05-23T18:56:57Z,Higher-Order Concurrent Win32 Programming,Riccardo Pucella,cs.PL,http://arxiv.org/pdf/cs/0405079v1
+cs/0405080v1,2004-05-23T19:09:11Z,Reactive Programming in Standard ML,Riccardo Pucella,cs.PL,http://arxiv.org/pdf/cs/0405080v1
+cs/0405082v1,2004-05-23T19:35:49Z,Aspects de la Programmation d'Applications Win32 avec un Langage   Fonctionnel,Dino Oliva,cs.PL,http://arxiv.org/pdf/cs/0405082v1
+cs/0405083v1,2004-05-23T19:51:01Z,The Design of a COM-Oriented Module System,Riccardo Pucella,cs.PL,http://arxiv.org/pdf/cs/0405083v1
+cs/0405084v1,2004-05-23T20:28:59Z,A Framework for Interoperability,John Reppy,cs.PL,http://arxiv.org/pdf/cs/0405084v1
+cs/0405085v1,2004-05-24T05:16:33Z,On the Expressive Power of First-Order Boolean Functions in PCF,Prakash Panangaden,cs.PL,http://arxiv.org/pdf/cs/0405085v1
+cs/0405088v1,2004-05-24T12:41:07Z,High-Level Networking With Mobile Code And First Order AND-Continuations,Veronica Dahl,cs.PL,http://arxiv.org/pdf/cs/0405088v1
+cs/0405091v1,2004-05-24T17:31:12Z,"CLAIRE: Combining Sets, Search And Rules To Better Express Algorithms",Francois Laburthe,cs.PL,http://arxiv.org/pdf/cs/0405091v1
+cs/0405092v1,2004-05-24T17:41:50Z,Learning Hybrid Algorithms for Vehicle Routing Problems,Francois Laburthe,cs.PL,http://arxiv.org/pdf/cs/0405092v1
+cs/0405100v1,2004-05-27T02:39:01Z,Typing constraint logic programs,Emmanuel Coquery,cs.PL,http://arxiv.org/pdf/cs/0405100v1
+cs/0405101v1,2004-05-27T02:56:34Z,Worst-Case Groundness Analysis Using Definite Boolean Functions,Jacob M. Howe,cs.PL,http://arxiv.org/pdf/cs/0405101v1
+cs/0405102v1,2004-05-27T03:08:30Z,A Proof Theoretic Approach to Failure in Functional Logic Programming,Jaime Sanchez-Hernandez,cs.PL,http://arxiv.org/pdf/cs/0405102v1
+cs/0406012v1,2004-06-07T07:01:53Z,Secure Prolog-Based Mobile Code,Andrew Davison,cs.PL,http://arxiv.org/pdf/cs/0406012v1
+cs/0406014v1,2004-06-07T14:04:48Z,O(1) Reversible Tree Navigation Without Cycles,Richard A. O'Keefe,cs.PL,http://arxiv.org/pdf/cs/0406014v1
+cs/0407043v1,2004-07-16T14:44:21Z,A Hyper-Arc Consistency Algorithm for the Soft Alldifferent Constraint,Willem Jan van Hoeve,cs.PL,http://arxiv.org/pdf/cs/0407043v1
+cs/0408025v1,2004-08-10T07:55:35Z,Optimizing compilation of constraint handling rules in HAL,Gregory J. Duck,cs.PL,http://arxiv.org/pdf/cs/0408025v1
+cs/0409038v1,2004-09-21T11:48:47Z,Checking modes of HAL programs,Bart Demoen,cs.PL,http://arxiv.org/pdf/cs/0409038v1
+cs/0412012v1,2004-12-03T12:19:16Z,Jartege: a Tool for Random Generation of Unit Tests for Java Classes,Catherine Oriat,cs.PL,http://arxiv.org/pdf/cs/0412012v1
+cs/0412043v1,2004-12-10T15:52:29Z,Widening Operators for Weakly-Relational Numeric Abstractions (Extended   Abstract),Enea Zaffanella,cs.PL,http://arxiv.org/pdf/cs/0412043v1
+cs/0503067v5,2005-03-24T13:03:15Z,Contextual equivalence for higher-order pi-calculus revisited,Julian Rathke,cs.PL,http://arxiv.org/pdf/cs/0503067v5
+cs/0504008v10,2005-04-04T06:19:43Z,Super Object Oriented Programming,Raju Renjit. G,cs.PL,http://arxiv.org/pdf/cs/0504008v10
+cs/0504025v15,2005-04-07T13:21:15Z,"Incorporating LINQ, State Diagrams Templating and Package Extension Into   Java",Raju Renjit. G,cs.PL,http://arxiv.org/pdf/cs/0504025v15
+cs/0506005v1,2005-06-02T03:49:52Z,Programming Finite-Domain Constraint Propagators in Action Rules,Neng-Fa Zhou,cs.PL,http://arxiv.org/pdf/cs/0506005v1
+cs/0506035v1,2005-06-10T15:28:00Z,Fast Recompilation of Object Oriented Modules,Michel Dagenais,cs.PL,http://arxiv.org/pdf/cs/0506035v1
+cs/0508106v1,2005-08-24T12:18:11Z,An Improved Non-Termination Criterion for Binary Constraint Logic   Programs,Fred Mesnard,cs.PL,http://arxiv.org/pdf/cs/0508106v1
+cs/0509027v1,2005-09-10T12:35:20Z,Haskell's overlooked object system,Ralf Laemmel,cs.PL,http://arxiv.org/pdf/cs/0509027v1
+cs/0509057v1,2005-09-19T15:30:10Z,Language embeddings that preserve staging and safety,Todd L. Veldhuizen,cs.PL,http://arxiv.org/pdf/cs/0509057v1
+cs/0510074v1,2005-10-24T16:27:00Z,Practical Datatype Specializations with Phantom Types and Recursion   Schemes,Riccardo Pucella,cs.PL,http://arxiv.org/pdf/cs/0510074v1
+cs/0511092v1,2005-11-28T07:20:43Z,"The SL synchronous language, revisited",Roberto Amadio,cs.PL,http://arxiv.org/pdf/cs/0511092v1
+cs/0512026v1,2005-12-07T15:51:26Z,Checking C++ Programs for Dimensional Consistency,I. Josopait,cs.PL,http://arxiv.org/pdf/cs/0512026v1
+cs/0512057v1,2005-12-14T13:41:07Z,Resource Control for Synchronous Cooperative Threads,Silvano Dal Zilio,cs.PL,http://arxiv.org/pdf/cs/0512057v1
+cs/0512058v1,2005-12-14T13:42:17Z,Reactive concurrent programming revisited,Frederic Boussinot,cs.PL,http://arxiv.org/pdf/cs/0512058v1
+cs/0512065v1,2005-12-15T21:22:23Z,Tradeoffs in Metaprogramming,Todd L. Veldhuizen,cs.PL,http://arxiv.org/pdf/cs/0512065v1
+cs/0601003v1,2006-01-02T20:58:56Z,Incremental copying garbage collection for WAM-based Prolog systems,Bart Demoen,cs.PL,http://arxiv.org/pdf/cs/0601003v1
+cs/0601019v2,2006-01-06T19:50:29Z,Canonical Abstract Syntax Trees,Antoine Reilles,cs.PL,http://arxiv.org/pdf/cs/0601019v2
+cs/0601039v1,2006-01-10T13:13:54Z,Removing Redundant Arguments Automatically,Salvador Lucas,cs.PL,http://arxiv.org/pdf/cs/0601039v1
+cs/0601071v1,2006-01-16T11:45:02Z,Constraint Functional Logic Programming over Finite Domains,Rafael del Vado-Virseda,cs.PL,http://arxiv.org/pdf/cs/0601071v1
+cs/0602098v2,2006-02-28T19:28:31Z,Compositional Semantics for the Procedural Interpretation of Logic,M. H. van Emden,cs.PL,http://arxiv.org/pdf/cs/0602098v2
+cs/0602099v1,2006-02-28T19:53:59Z,Towards Applicative Relational Programming,M. H. van Emden,cs.PL,http://arxiv.org/pdf/cs/0602099v1
+cs/0603079v1,2006-03-20T14:17:14Z,A compositional Semantics for CHR,Maria Chiara Meo,cs.PL,http://arxiv.org/pdf/cs/0603079v1
+cs/0603100v1,2006-03-26T20:27:40Z,Efficient Compression of Prolog Programs,Kalman Pusztai,cs.PL,http://arxiv.org/pdf/cs/0603100v1
+cs/0605104v2,2006-05-24T19:09:39Z,Parsing Transformative LR(1) Languages,Blake Hegerle,cs.PL,http://arxiv.org/pdf/cs/0605104v2
+cs/0607101v2,2006-07-24T09:24:07Z,Deriving Escape Analysis by Abstract Interpretation: Proofs of results,Fausto Spoto,cs.PL,http://arxiv.org/pdf/cs/0607101v2
+cs/0609092v1,2006-09-16T12:22:15Z,Analysis of Equality Relationships for Imperative Programs,P. Emelyanov,cs.PL,http://arxiv.org/pdf/cs/0609092v1
+cs/0610164v2,2006-10-30T08:39:04Z,Complexity of Data Flow Analysis for Non-Separable Frameworks,Uday Khedker,cs.PL,http://arxiv.org/pdf/cs/0610164v2
+cs/0612063v1,2006-12-12T03:09:44Z,Improving Precision of Type Analysis Using Non-Discriminative Union,Lunjin Lu,cs.PL,http://arxiv.org/pdf/cs/0612063v1
+cs/0701106v1,2007-01-17T13:43:50Z,On using Tracer Driver for External Dynamic Process Observation,Pierre Deransart,cs.PL,http://arxiv.org/pdf/cs/0701106v1
+cs/0701107v1,2007-01-17T13:48:49Z,JavaTA: A Logic-based Debugger for Java,Bharat Jayaraman,cs.PL,http://arxiv.org/pdf/cs/0701107v1
+cs/0701108v1,2007-01-17T14:22:17Z,Towards Execution Time Estimation for Logic Programs via Static Analysis   and Profiling,Manuel Hermenegildo,cs.PL,http://arxiv.org/pdf/cs/0701108v1
+cs/0701109v1,2007-01-17T14:26:40Z,ExSched: Solving Constraint Satisfaction Problems with the Spreadsheet   Paradigm,Gopal Gupta,cs.PL,http://arxiv.org/pdf/cs/0701109v1
+cs/0701110v1,2007-01-17T14:35:56Z,A Web-based Tool Combining Different Type Analyses,John Gallagher,cs.PL,http://arxiv.org/pdf/cs/0701110v1
+cs/0701111v1,2007-01-17T14:44:30Z,Some Issues on Incremental Abstraction-Carrying Code,German Puebla,cs.PL,http://arxiv.org/pdf/cs/0701111v1
+cs/0701147v1,2007-01-24T06:55:34Z,A Generic Analysis Environment for Curry Programs,Michael Hanus,cs.PL,http://arxiv.org/pdf/cs/0701147v1
+cs/0701148v1,2007-01-24T07:03:17Z,Proceedings of the 16th Workshop in Logic-based Methods in Programming   Environments (WLPE2006),Susana Munoz-Hernandez,cs.PL,http://arxiv.org/pdf/cs/0701148v1
+cs/0701176v1,2007-01-26T15:16:31Z,Towards Practical Typechecking for Macro Tree Transducers,Haruo Hosoya,cs.PL,http://arxiv.org/pdf/cs/0701176v1
+cs/0703073v2,2007-03-15T05:44:24Z,A New Numerical Abstract Domain Based on Difference-Bound Matrices,Antoine Miné,cs.PL,http://arxiv.org/pdf/cs/0703073v2
+cs/0703074v2,2007-03-15T05:46:39Z,Field-Sensitive Value Analysis of Embedded C Programs with Union Types   and Pointer Arithmetics,Antoine Miné,cs.PL,http://arxiv.org/pdf/cs/0703074v2
+cs/0703075v2,2007-03-15T05:56:51Z,A Few Graph-Based Relational Numerical Abstract Domains,Antoine Miné,cs.PL,http://arxiv.org/pdf/cs/0703075v2
+cs/0703076v2,2007-03-15T06:05:40Z,Symbolic Methods to Enhance the Precision of Numerical Abstract Domains,Antoine Miné,cs.PL,http://arxiv.org/pdf/cs/0703076v2
+cs/0703077v2,2007-03-15T06:07:02Z,Relational Abstract Domains for the Detection of Floating-Point Run-Time   Errors,Antoine Miné,cs.PL,http://arxiv.org/pdf/cs/0703077v2
+cs/0703084v2,2007-03-15T18:16:32Z,The Octagon Abstract Domain,Antoine Miné,cs.PL,http://arxiv.org/pdf/cs/0703084v2
+cs/0703155v1,2007-03-30T16:06:27Z,Liveness of Heap Data for Functional Programs,Amitabha Sanyal,cs.PL,http://arxiv.org/pdf/cs/0703155v1
+0704.1373v1,2007-04-11T08:35:32Z,A Language-Based Approach for Improving the Robustness of Network   Application Protocol Implementations,Gilles Muller,cs.PL,http://arxiv.org/pdf/0704.1373v1
+0705.1452v1,2007-05-10T12:19:51Z,Typer la dé-sérialisation sans sérialiser les types,Emmanuel Chailloux,cs.PL,http://arxiv.org/pdf/0705.1452v1
+0705.1458v1,2007-05-10T12:31:17Z,Mixing the Objective Caml and C# Programming Models in the .Net   Framework,Raphaël Montelatici,cs.PL,http://arxiv.org/pdf/0705.1458v1
+0705.2126v1,2007-05-15T12:06:32Z,Improvements to the Psi-SSA representation,Francois De Ferriere,cs.PL,http://arxiv.org/pdf/0705.2126v1
+0705.2145v2,2007-05-15T13:44:35Z,Elementary transformation analysis for Array-OL,Paul Feautrier,cs.PL,http://arxiv.org/pdf/0705.2145v2
+0705.3468v1,2007-05-23T20:52:42Z,Linear Tabling Strategies and Optimizations,Yi-Dong Shen,cs.PL,http://arxiv.org/pdf/0705.3468v1
+0706.2073v1,2007-06-14T09:43:23Z,An Efficient OpenMP Runtime System for Hierarchical Arch,Pierre-André Wacrenier,cs.PL,http://arxiv.org/pdf/0706.2073v1
+0707.1059v1,2007-07-06T23:58:45Z,Projection semantics for rigid loops,Alban Ponse,cs.PL,http://arxiv.org/pdf/0707.1059v1
+0707.3807v1,2007-07-25T19:33:07Z,"How to be correct, lazy and efficient ?",Catherine Recanati,cs.PL,http://arxiv.org/pdf/0707.3807v1
+0707.4389v1,2007-07-30T12:09:16Z,Separation Logic for Small-step Cminor,Sandrine Blazy,cs.PL,http://arxiv.org/pdf/0707.4389v1
+0710.4640v1,2007-10-25T08:11:20Z,FORAY-GEN: Automatic Generation of Affine Functions for Memory   Optimizations,Nikil Dutt,cs.PL,http://arxiv.org/pdf/0710.4640v1
+0710.4683v1,2007-10-25T09:07:39Z,The Challenges of Hardware Synthesis from C-Like Languages,Stephen A. Edwards,cs.PL,http://arxiv.org/pdf/0710.4683v1
+0710.4702v1,2007-10-25T09:27:20Z,A Register Allocation Algorithm in the Presence of Scalar Replacement   for Fine-Grain Configurable Architectures,Pedro C. Diniz,cs.PL,http://arxiv.org/pdf/0710.4702v1
+0710.4807v1,2007-10-25T11:59:01Z,A Constraint Network Based Approach to Memory Layout Optimization,M. Karakoy,cs.PL,http://arxiv.org/pdf/0710.4807v1
+0711.0829v2,2007-11-06T10:26:03Z,Instruction sequences with indirect jumps,C. A. Middelburg,cs.PL,http://arxiv.org/pdf/0711.0829v2
+0711.4071v1,2007-11-26T18:03:07Z,Observational semantics of the Prolog Resolution Box Model,Gérard Ferrand,cs.PL,http://arxiv.org/pdf/0711.4071v1
+0711.4217v4,2007-11-27T10:24:34Z,Instruction sequences with dynamically instantiated instructions,C. A. Middelburg,cs.PL,http://arxiv.org/pdf/0711.4217v4
+0712.1658v1,2007-12-11T08:53:49Z,Program algebra with a jump-shift instruction,C. A. Middelburg,cs.PL,http://arxiv.org/pdf/0712.1658v1
+0712.3830v1,2007-12-26T15:28:16Z,TCHR: a framework for tabled CLP,David S. Warren,cs.PL,http://arxiv.org/pdf/0712.3830v1
+0801.0133v1,2007-12-30T14:43:27Z,An Approach to Programming Based on Concepts,Alexandr Savinov,cs.PL,http://arxiv.org/pdf/0801.0133v1
+0801.0135v1,2007-12-30T14:50:01Z,Concepts and their Use for Modelling Objects and References in   Programming Languages,Alexandr Savinov,cs.PL,http://arxiv.org/pdf/0801.0135v1
+0801.0136v1,2007-12-30T14:56:05Z,Indirect Object Representation and Access by Means of Concepts,Alexandr Savinov,cs.PL,http://arxiv.org/pdf/0801.0136v1
+0801.0882v2,2008-01-06T19:01:02Z,Call-by-value Termination in the Untyped lambda-calculus,Nina Bohr,cs.PL,http://arxiv.org/pdf/0801.0882v2
+0801.1219v1,2008-01-08T12:28:18Z,DSL development based on target meta-models. Using AST transformations   for automating semantic analysis in a textual DSL framework,Andrey Breslav,cs.PL,http://arxiv.org/pdf/0801.1219v1
+0801.2226v1,2008-01-15T07:56:12Z,Programming an interpreter using molecular dynamics,C. A. Middelburg,cs.PL,http://arxiv.org/pdf/0801.2226v1
+0802.1578v3,2008-02-12T07:49:27Z,Thread extraction for polyadic instruction sequences,C. A. Middelburg,cs.PL,http://arxiv.org/pdf/0802.1578v3
+0802.3492v2,2008-02-24T05:28:52Z,The RDF Virtual Machine,Marko A. Rodriguez,cs.PL,http://arxiv.org/pdf/0802.3492v2
+0804.0970v1,2008-04-07T06:35:44Z,Testing data types implementations from algebraic specifications,Pascale Le Gall,cs.PL,http://arxiv.org/pdf/0804.0970v1
+0804.1118v1,2008-04-07T19:48:31Z,"A Survey of Quantum Programming Languages: History, Methods, and Tools",Donald A. Sofge,cs.PL,http://arxiv.org/pdf/0804.1118v1
+0806.4746v2,2008-06-29T10:56:41Z,Concept-Oriented Programming,Alexandr Savinov,cs.PL,http://arxiv.org/pdf/0806.4746v2
+0807.3451v3,2008-07-22T13:51:33Z,A Non-Termination Criterion for Binary Constraint Logic Programs,Fred Mesnard,cs.PL,http://arxiv.org/pdf/0807.3451v3
+0807.3979v1,2008-07-25T15:21:46Z,Unfolding in CHR,Paolo Tacchella,cs.PL,http://arxiv.org/pdf/0807.3979v1
+0808.0586v1,2008-08-05T14:47:32Z,Coinductive big-step operational semantics,Hervé Grall,cs.PL,http://arxiv.org/pdf/0808.0586v1
+0810.0753v1,2008-10-04T10:34:09Z,Definition and Implementation of a Points-To Analysis for C-like   Languages,Stefano Soffia,cs.PL,http://arxiv.org/pdf/0810.0753v1
+0810.1106v3,2008-10-07T06:51:53Z,On the expressiveness of single-pass instruction sequences,C. A. Middelburg,cs.PL,http://arxiv.org/pdf/0810.1106v3
+0810.1151v2,2008-10-07T13:55:21Z,Periodic Single-Pass Instruction Sequences,Alban Ponse,cs.PL,http://arxiv.org/pdf/0810.1151v2
+0810.5575v1,2008-10-30T20:48:49Z,Detection of parallel steps in programs with arrays,R. Nuriyev,cs.PL,http://arxiv.org/pdf/0810.5575v1
+0812.4973v1,2008-12-29T21:07:52Z,"A Simple, Linear-Time Algorithm for x86 Jump Encoding",Neil G. Dickson,cs.PL,http://arxiv.org/pdf/0812.4973v1
+0901.3619v1,2009-01-23T08:40:31Z,Mechanized semantics for the Clight subset of the C language,Xavier Leroy,cs.PL,http://arxiv.org/pdf/0901.3619v1
+0901.3906v1,2009-01-25T15:40:48Z,A Program Transformation for Continuation Call-Based Tabled Execution,Manuel V. Hermenegildo,cs.PL,http://arxiv.org/pdf/0901.3906v1
+0902.1257v1,2009-02-07T18:00:30Z,Compilation of extended recursion in call-by-value functional languages,J. B. Wells,cs.PL,http://arxiv.org/pdf/0902.1257v1
+0903.1598v6,2009-03-09T17:26:36Z,18th Workshop on Logic-based methods in Programming Environments (WLPE   2008),Damiano Zanardini,cs.PL,http://arxiv.org/pdf/0903.1598v6
+0903.2202v1,2009-03-12T15:54:13Z,Improving Size-Change Analysis in Offline Partial Evaluation,German Vidal,cs.PL,http://arxiv.org/pdf/0903.2202v1
+0903.2205v1,2009-03-12T16:01:49Z,A Lightweight Combination of Semantics for Non-deterministic Functions,Jaime Sanchez-Hernandez,cs.PL,http://arxiv.org/pdf/0903.2205v1
+0903.2353v1,2009-03-13T10:46:39Z,"Relations, Constraints and Abstractions: Using the Tools of Logic   Programming in the Security Industry",Andy King,cs.PL,http://arxiv.org/pdf/0903.2353v1
+0905.0737v1,2009-05-06T04:21:15Z,"REC language is a live on IBM1130 simulator, EL lenguaje REC esta vivo   en el simulador de la IBM 1130",Georgina G. Pulido,cs.PL,http://arxiv.org/pdf/0905.0737v1
+0905.3432v1,2009-05-21T03:35:52Z,A Type System for Parallel Components,Rafael Dueire Lins,cs.PL,http://arxiv.org/pdf/0905.3432v1
+0906.3083v2,2009-06-17T07:03:17Z,Instruction sequence notations with probabilistic instructions,C. A. Middelburg,cs.PL,http://arxiv.org/pdf/0906.3083v2
+0906.3911v1,2009-06-22T03:05:48Z,Using the General Intensional Programming System (GIPSY) for Evaluation   of Higher-Order Intensional Logic (HOIL) Expressions,Joey Paquet,cs.PL,http://arxiv.org/pdf/0906.3911v1
+0906.4474v2,2009-06-24T13:54:41Z,As time goes by: Constraint Handling Rules - A survey of CHR research   from 1998 to 2007,Leslie De Koninck,cs.PL,http://arxiv.org/pdf/0906.4474v2
+0906.5446v1,2009-06-30T09:16:03Z,Encapsulation and Dynamic Modularity in the Pi-Calculus,Damien Pous,cs.PL,http://arxiv.org/pdf/0906.5446v1
+0907.2059v2,2009-07-12T18:30:31Z,A Type System For Call-By-Name Exceptions,Sylvain Lebresne,cs.PL,http://arxiv.org/pdf/0907.2059v2
+0907.2173v2,2009-07-13T14:15:01Z,Bit Copying - The Ultimate Computational Simplicity,Oleg Mazonka,cs.PL,http://arxiv.org/pdf/0907.2173v2
+0907.4640v1,2009-07-27T17:19:28Z,Small-step and big-step semantics for call-by-need,Masahito Hasegawa,cs.PL,http://arxiv.org/pdf/0907.4640v1
+0907.5290v2,2009-07-30T09:33:53Z,Program structure,Alex Shkotin,cs.PL,http://arxiv.org/pdf/0907.5290v2
+0908.3650v1,2009-08-25T17:20:47Z,Lazy mixin modules and disciplined effects,Keiko Nakata,cs.PL,http://arxiv.org/pdf/0908.3650v1
+0909.2089v3,2009-09-11T05:51:09Z,Indirect jumps improve instruction sequence performance,C. A. Middelburg,cs.PL,http://arxiv.org/pdf/0909.2089v3
+0909.2839v1,2009-09-15T16:59:57Z,"A progression ring for interfaces of instruction sequences, threads, and   services",Alban Ponse,cs.PL,http://arxiv.org/pdf/0909.2839v1
+0911.2899v3,2009-11-15T18:21:41Z,Coding Guidelines for Prolog,Simon Price,cs.PL,http://arxiv.org/pdf/0911.2899v3
+0911.5203v1,2009-11-27T06:18:15Z,An Implementation of the Language Lambda Prolog Organized around   Higher-Order Pattern Unification,Xiaochu Qi,cs.PL,http://arxiv.org/pdf/0911.5203v1
+0912.2861v1,2009-12-15T12:26:02Z,JSC : A JavaScript Object System,Artur Ventura,cs.PL,http://arxiv.org/pdf/0912.2861v1
+0912.3583v1,2009-12-18T04:35:24Z,A Metamodel of Unit Testing for Object-Oriented Programming Languages,Martin Levesque,cs.PL,http://arxiv.org/pdf/0912.3583v1
+0912.4877v1,2009-12-24T15:27:18Z,Typing rule-based transformations over topological collections,Julien Cohen,cs.PL,http://arxiv.org/pdf/0912.4877v1
+0912.4878v1,2009-12-24T15:27:50Z,Typage fort et typage souple des collections topologiques et des   transformations,Julien Cohen,cs.PL,http://arxiv.org/pdf/0912.4878v1
+1001.2188v1,2010-01-13T14:54:54Z,Towards a Generic Framework to Generate Explanatory Traces of Constraint   Solving and Rule-Based Reasoning,Rafael Oliveira,cs.PL,http://arxiv.org/pdf/1001.2188v1
+1002.0942v2,2010-02-04T09:53:02Z,Type Inference for Deadlock Detection in a Multithreaded Polymorphic   Typed Assembly Language,Tiago Cogumbreiro,cs.PL,http://arxiv.org/pdf/1002.0942v2
+1004.3241v1,2010-04-19T16:14:13Z,Causality and the semantics of provenance,James Cheney,cs.PL,http://arxiv.org/pdf/1004.3241v1
+1004.3808v3,2010-04-21T21:14:34Z,Automated Verification of Practical Garbage Collectors,Erez Petrank,cs.PL,http://arxiv.org/pdf/1004.3808v3
+1007.0159v1,2010-07-01T13:14:39Z,Empowering Collections with Swarm Behavior,Marcus Denker,cs.PL,http://arxiv.org/pdf/1007.0159v1
+1007.2123v6,2010-07-12T17:22:54Z,Comparative Studies of Programming Languages; Course Lecture Notes,Serguei A. Mokhov,cs.PL,http://arxiv.org/pdf/1007.2123v6
+1007.3023v2,2010-07-18T17:29:53Z,Purely Functional Structured Programming,Steven Obua,cs.PL,http://arxiv.org/pdf/1007.3023v2
+1007.3133v1,2010-07-19T12:40:38Z,Enforcing Secure Object Initialization in Java,David Pichardie,cs.PL,http://arxiv.org/pdf/1007.3133v1
+1007.3183v1,2010-07-19T15:28:00Z,A Non-Null Annotation Inferencer for Java Bytecode,Laurent Hubert,cs.PL,http://arxiv.org/pdf/1007.3183v1
+1007.3249v2,2010-07-19T19:45:02Z,"Soundly Handling Static Fields: Issues, Semantics and Analysis",David Pichardie,cs.PL,http://arxiv.org/pdf/1007.3249v2
+1007.3250v1,2010-07-19T19:46:43Z,Verification of Java Bytecode using Analysis and Transformation of Logic   Programs,German Puebla,cs.PL,http://arxiv.org/pdf/1007.3250v1
+1007.3353v1,2010-07-20T07:03:59Z,Sawja: Static Analysis Workshop for Java,Tiphaine Turpin,cs.PL,http://arxiv.org/pdf/1007.3353v1
+1007.3961v1,2010-07-22T18:26:48Z,Swapping Evaluation: A Memory-Scalable Solution for Answer-On-Demand   Tabling,David S. Warren,cs.PL,http://arxiv.org/pdf/1007.3961v1
+1007.4268v1,2010-07-24T13:28:46Z,Pushdown Control-Flow Analysis of Higher-Order Programs,David Van Horn,cs.PL,http://arxiv.org/pdf/1007.4268v1
+1007.4446v2,2010-07-26T13:05:10Z,Abstracting Abstract Machines,Matthew Might,cs.PL,http://arxiv.org/pdf/1007.4446v2
+1007.4958v2,2010-07-28T13:20:17Z,Algorithmic Verification of Single-Pass List Processing Programs,Pavol Cerny,cs.PL,http://arxiv.org/pdf/1007.4958v2
+1007.4986v1,2010-07-28T14:18:32Z,Catching the Ouroboros: On Debugging Non-ground Answer-Set Programs,Hans Tompits,cs.PL,http://arxiv.org/pdf/1007.4986v1
+1008.0909v1,2010-08-05T03:47:48Z,A Heuristic Algorithm for optimizing Page Selection Instructions,Wenwen Xu,cs.PL,http://arxiv.org/pdf/1008.0909v1
+1008.1131v1,2010-08-06T07:55:16Z,Computing with Equations,Chris Preston,cs.PL,http://arxiv.org/pdf/1008.1131v1
+1008.3431v1,2010-08-20T03:17:43Z,"Comparative study of the Pros and Cons of Programming languages Java,   Scala, C++, Haskell, VB .NET, AspectJ, Perl, Ruby, PHP & Scheme - a Team 11   COMP6411-S10 Term Report",Nitin Kanigicharla,cs.PL,http://arxiv.org/pdf/1008.3431v1
+1008.3434v1,2010-08-20T04:10:27Z,"Comparing Selected Criteria of Programming Languages Java, PHP, C++,   Perl, Haskell, AspectJ, Ruby, COBOL, Bash Scripts and Scheme Revision 1.0 - a   Team CPLgroup COMP6411-S10 Term Report",Adrien Tevoedjre,cs.PL,http://arxiv.org/pdf/1008.3434v1
+1008.3561v1,2010-08-20T19:50:52Z,Comparative Studies of 10 Programming Languages within 10 Diverse   Criteria - a Team 10 COMP6411-S10 Term Report,Marinela Miladinova,cs.PL,http://arxiv.org/pdf/1008.3561v1
+1008.4188v1,2010-08-25T02:11:12Z,Recovering Grammar Relationships for the Java Language Specification,Vadim Zaytsev,cs.PL,http://arxiv.org/pdf/1008.4188v1
+1009.0305v1,2010-09-01T23:53:15Z,Comparative Studies of 10 Programming Languages within 10 Diverse   Criteria -- a Team 7 COMP6411-S10 Term Report,Yuanwei Lai,cs.PL,http://arxiv.org/pdf/1009.0305v1
+1009.0817v1,2010-09-04T09:39:53Z,Towards a Property Preserving Transformation from IEC 61131-3 to BIP,Jia Huang,cs.PL,http://arxiv.org/pdf/1009.0817v1
+1009.1560v1,2010-09-08T15:14:13Z,Stack-Summarizing Control-Flow Analysis of Higher-Order Programs,David Van Horn,cs.PL,http://arxiv.org/pdf/1009.1560v1
+1009.2405v2,2010-09-13T14:28:30Z,A Model of Cooperative Threads,Gordon D. Plotkin,cs.PL,http://arxiv.org/pdf/1009.2405v2
+1009.2900v1,2010-09-15T11:43:13Z,Linear-Logic Based Analysis of Constraint Handling Rules with   Disjunction,Thom W. Frühwirth,cs.PL,http://arxiv.org/pdf/1009.2900v1
+1009.3174v1,2010-09-16T13:38:10Z,Evaluating Call-By-Need on the Control Stack,Matthias Felleisen,cs.PL,http://arxiv.org/pdf/1009.3174v1
+1009.3773v1,2010-09-20T11:09:27Z,Towards a Study of Meta-Predicate Semantics,Paulo Moura,cs.PL,http://arxiv.org/pdf/1009.3773v1
+1009.3796v1,2010-09-20T12:38:58Z,Portability of Prolog programs: theory and case-studies,Vítor Santos Costa,cs.PL,http://arxiv.org/pdf/1009.3796v1
+1009.3800v1,2010-09-20T12:52:40Z,Distributed Work Stealing for Constraint Solving,Salvador Abreu,cs.PL,http://arxiv.org/pdf/1009.3800v1
+1009.3806v1,2010-09-20T13:04:13Z,Casting of the WAM as an EAM,Salvador Abreu,cs.PL,http://arxiv.org/pdf/1009.3806v1
+1009.4020v1,2010-09-21T08:44:49Z,Proceedings of CICLOPS-WLPE 2010,Neng-Fa Zhou,cs.PL,http://arxiv.org/pdf/1009.4020v1
+1010.1697v1,2010-10-08T14:13:09Z,Certifying cost annotations in compilers,Ronan Saillard,cs.PL,http://arxiv.org/pdf/1010.1697v1
+1010.2196v2,2010-10-11T19:30:25Z,Optimizing real world applications with GCC Link Time Optimization,J. Hubicka,cs.PL,http://arxiv.org/pdf/1010.2196v2
+1010.2850v1,2010-10-14T08:14:10Z,Steering Fragments of Instruction Sequences,Jan A. Bergstra,cs.PL,http://arxiv.org/pdf/1010.2850v1
+1010.3806v3,2010-10-19T06:22:16Z,A Logical Foundation for Environment Classifiers,Atsushi Igarashi,cs.PL,http://arxiv.org/pdf/1010.3806v3
+1010.4533v1,2010-10-13T10:46:13Z,Certificate size reduction in Abstraction-Carrying Code,Manuel Hermenegildo,cs.PL,http://arxiv.org/pdf/1010.4533v1
+1010.5023v1,2010-10-24T23:12:28Z,Yacc is dead,David Darais,cs.PL,http://arxiv.org/pdf/1010.5023v1
+1010.5569v1,2010-10-27T05:04:27Z,Static vs Dynamic SAGAs,Ivan Lanese,cs.PL,http://arxiv.org/pdf/1010.5569v1
+1010.5582v1,2010-10-27T06:12:50Z,Mechanized semantics,Xavier Leroy,cs.PL,http://arxiv.org/pdf/1010.5582v1
+1011.1783v3,2010-11-08T12:16:37Z,OCamlJIT 2.0 - Faster Objective Caml,Benedikt Meurer,cs.PL,http://arxiv.org/pdf/1011.1783v3
+1011.4558v3,2010-11-20T07:35:14Z,Continuation-Passing C: compiling threads to events through   continuations,Juliusz Chroboczek,cs.PL,http://arxiv.org/pdf/1011.4558v3
+1011.5332v1,2010-11-24T10:28:56Z,SWI-Prolog,Torbjörn Lager,cs.PL,http://arxiv.org/pdf/1011.5332v1
+1011.5640v1,2010-11-25T15:11:42Z,SICStus Prolog -- the first 25 years,Per Mildner,cs.PL,http://arxiv.org/pdf/1011.5640v1
+1011.6047v1,2010-11-28T14:49:14Z,A Comparative Study of the Usability of Two Object-oriented Concurrent   Programming Languages,Bertrand Meyer,cs.PL,http://arxiv.org/pdf/1011.6047v1
+1012.1802v3,2010-12-02T15:47:02Z,Equality Saturation: A New Approach to Optimization,Sorin Lerner,cs.PL,http://arxiv.org/pdf/1012.1802v3
+1012.2294v4,2010-12-10T15:37:06Z,Syntax and Semantics of Babel-17,Steven Obua,cs.PL,http://arxiv.org/pdf/1012.2294v4
+1012.4240v1,2010-12-20T05:11:57Z,ECLiPSe - from LP to CLP,Kish Shen,cs.PL,http://arxiv.org/pdf/1012.4240v1
+1012.4893v1,2010-12-22T07:07:59Z,Towards Correctness of Program Transformations Through Unification and   Critical Pair Computation,Manfred Schmidt-Schauß,cs.PL,http://arxiv.org/pdf/1012.4893v1
+1012.4900v1,2010-12-22T07:09:39Z,Termination Casts: A Flexible Approach to Termination with General   Recursion,Stephanie Weirich,cs.PL,http://arxiv.org/pdf/1012.4900v1
+1012.5123v1,2010-12-23T00:23:16Z,XSB: Extending Prolog with Tabled Logic Programming,David S. Warren,cs.PL,http://arxiv.org/pdf/1012.5123v1
+1012.5494v2,2010-12-26T03:33:09Z,Contents of COMP6411 Summer 2010 Final Reports on Comparative Studies of   Programming Languages,Serguei A. Mokhov,cs.PL,http://arxiv.org/pdf/1012.5494v2
+1012.5560v1,2010-12-27T06:30:03Z,Strategic programming on graph rewriting systems,Olivier Namet,cs.PL,http://arxiv.org/pdf/1012.5560v1
+1101.4428v1,2011-01-24T01:39:46Z,Untangling Typechecking of Intersections and Unions,Joshua Dunfield,cs.PL,http://arxiv.org/pdf/1101.4428v1
+1101.4430v1,2011-01-24T01:40:00Z,"Equality, Quasi-Implicit Products, and Large Eliminations",Aaron Stump,cs.PL,http://arxiv.org/pdf/1101.4430v1
+1101.4732v1,2011-01-25T06:57:41Z,Contracts for Abstract Processes in Service Composition,Hernán Melgratti,cs.PL,http://arxiv.org/pdf/1101.4732v1
+1101.5569v1,2011-01-28T16:42:00Z,T2Script Programming Language,Piotr J. Puczynski,cs.PL,http://arxiv.org/pdf/1101.5569v1
+1101.6029v2,2011-01-31T17:15:09Z,A Design and Implementation of the Extended Andorra Model,Fernando Silva,cs.PL,http://arxiv.org/pdf/1101.6029v2
+1102.0951v1,2011-02-04T15:57:48Z,CPC: programming with a massive number of lightweight threads,Juliusz Chroboczek,cs.PL,http://arxiv.org/pdf/1102.0951v1
+1102.1178v1,2011-02-06T17:43:54Z,The BinProlog Experience: Architecture and Implementation Choices for   Continuation Passing Prolog and First-Class Logic Engines,Paul Tarau,cs.PL,http://arxiv.org/pdf/1102.1178v1
+1102.2003v2,2011-02-09T22:44:26Z,Parsing Reflective Grammars,Mitchell Wand,cs.PL,http://arxiv.org/pdf/1102.2003v2
+1102.2262v1,2011-02-11T00:09:27Z,A Study of Language Usage Evolution in Open Source Software,Harald Gall,cs.PL,http://arxiv.org/pdf/1102.2262v1
+1102.2330v1,2011-02-11T11:31:23Z,Symmetry-Aware Predicate Abstraction for Shared-Variable Concurrent   Programs (Extended Technical Report),Thomas Wahl,cs.PL,http://arxiv.org/pdf/1102.2330v1
+1102.2339v1,2011-02-11T12:53:14Z,A decompilation of the pi-calculus and its application to termination,Roberto Amadio,cs.PL,http://arxiv.org/pdf/1102.2339v1
+1102.2656v1,2011-02-14T01:09:58Z,Repetitive Reduction Patterns in Lambda Calculus with letrec (Work in   Progress),Clemens Grabmayer,cs.PL,http://arxiv.org/pdf/1102.2656v1
+1102.3676v6,2011-02-17T19:59:51Z,CFA2: a Context-Free Approach to Control-Flow Analysis,Olin Shivers,cs.PL,http://arxiv.org/pdf/1102.3676v6
+1102.3896v1,2011-02-18T19:57:18Z,The YAP Prolog System,Ricardo Rocha,cs.PL,http://arxiv.org/pdf/1102.3896v1
+1102.4971v2,2011-02-24T12:28:36Z,Elementary affine $lambda$-calculus with multithreading and side effects,Roberto M. Amadio,cs.PL,http://arxiv.org/pdf/1102.4971v2
+1102.5497v1,2011-02-27T12:30:12Z,An overview of Ciao and its design philosophy,G. Puebla,cs.PL,http://arxiv.org/pdf/1102.5497v1
+1105.0069v2,2011-04-30T10:23:27Z,Context-Oriented Programming: A Programming Paradigm for Autonomic   Systems,Matteo Pradella,cs.PL,http://arxiv.org/pdf/1105.0069v2
+1105.0106v1,2011-04-30T18:26:49Z,Semantic Solutions to Program Analysis Problems,David Van Horn,cs.PL,http://arxiv.org/pdf/1105.0106v1
+1105.1743v1,2011-05-09T17:57:26Z,Abstracting Abstract Machines: A Systematic Approach to Higher-Order   Program Analysis,Matthew Might,cs.PL,http://arxiv.org/pdf/1105.1743v1
+1105.1985v3,2011-05-10T15:59:09Z,A Step-indexed Semantic Model of Types for the Call-by-Name Lambda   Calculus,Benedikt Meurer,cs.PL,http://arxiv.org/pdf/1105.1985v3
+1105.2554v1,2011-05-12T19:41:34Z,Garbage Collection for Multicore NUMA Machines,John Reppy,cs.PL,http://arxiv.org/pdf/1105.2554v1
+1106.0447v1,2011-06-02T15:03:15Z,Selective Memoization,Robert Harper,cs.PL,http://arxiv.org/pdf/1106.0447v1
+1106.0478v1,2011-06-02T18:13:08Z,A Consistent Semantics of Self-Adjusting Computation,Jacob Donham,cs.PL,http://arxiv.org/pdf/1106.0478v1
+1106.1311v2,2011-06-07T10:34:53Z,Representation Sharing for Prolog,Bart Demoen,cs.PL,http://arxiv.org/pdf/1106.1311v2
+1106.2575v1,2011-06-13T23:41:05Z,The Design and Implementation of Typed Scheme: From Scripts to Programs,Matthias Felleisen,cs.PL,http://arxiv.org/pdf/1106.2575v1
+1106.2578v1,2011-06-14T00:06:58Z,Extensible Pattern Matching in an Extensible Language,Sam Tobin-Hochstadt,cs.PL,http://arxiv.org/pdf/1106.2578v1
+1106.3445v2,2011-06-17T11:07:51Z,Constraint solving in non-permutative nominal abstract syntax,Matthew R. Lakin,cs.PL,http://arxiv.org/pdf/1106.3445v2
+1106.3478v1,2011-06-15T08:27:04Z,Conditional Elimination through Code Duplication,Joachim Breitner,cs.PL,http://arxiv.org/pdf/1106.3478v1
+1106.4200v1,2011-06-21T13:35:22Z,Faire levier sur les architectures logicielles pour guider et vérifier   le développement d'applications SCC,Julia Lawall,cs.PL,http://arxiv.org/pdf/1106.4200v1
+1107.0940v4,2011-07-05T18:49:26Z,"Furthering Baseline Core Lucid Standard Specification in the Context of   the History of Lucid, Intensional Programming, and Context-Aware Computing",Serguei A. Mokhov,cs.PL,http://arxiv.org/pdf/1107.0940v4
+1107.1398v1,2011-07-07T14:13:14Z,Efficient Loop Navigation for Symbolic Execution,Marek Trtik,cs.PL,http://arxiv.org/pdf/1107.1398v1
+1107.2157v1,2011-07-11T22:07:32Z,ForOpenCL: Transformations Exploiting Array Syntax in Fortran for   Accelerator Programming,Jeffrey Overbey,cs.PL,http://arxiv.org/pdf/1107.2157v1
+1107.2437v1,2011-07-12T23:43:18Z,A CONVERT compiler of REC for PDP-8,Harold V. McIntosh,cs.PL,http://arxiv.org/pdf/1107.2437v1
+1107.3193v10,2011-07-16T03:03:10Z,Type Expressiveness and Its Application in Separation of Behavior   Programming and Data Management Programming,Chengpu Wang,cs.PL,http://arxiv.org/pdf/1107.3193v10
+1107.3539v1,2011-07-18T19:44:11Z,Systematic Abstraction of Abstract Machines,Matthew Might,cs.PL,http://arxiv.org/pdf/1107.3539v1
+1107.5408v1,2011-07-27T08:24:34Z,A structured alternative to Prolog with simple compositional semantics,António Porto,cs.PL,http://arxiv.org/pdf/1107.5408v1
+1107.5556v1,2011-07-27T18:31:13Z,Efficient Instance Retrieval of Subgoals for Subsumptive Tabled   Evaluation of Logic Programs,Ricardo Rocha,cs.PL,http://arxiv.org/pdf/1107.5556v1
+1108.0190v1,2011-07-31T18:01:14Z,On the Correctness of Pull-Tabbing,Sergio Antoy,cs.PL,http://arxiv.org/pdf/1108.0190v1
+1108.0329v1,2011-08-01T14:56:56Z,Observational equivalences for linear logic CC languages,Rémy Haemmerlé,cs.PL,http://arxiv.org/pdf/1108.0329v1
+1108.0468v1,2011-08-02T02:27:34Z,Correlating Formal Semantic Models of Reo Connectors: Connector Coloring   and Constraint Automata,Farhad Arbab,cs.PL,http://arxiv.org/pdf/1108.0468v1
+1108.2683v1,2011-08-12T18:24:16Z,Improving bit-vector representation of points-to sets using class   hierarchy,Ahmed Khademzadeh,cs.PL,http://arxiv.org/pdf/1108.2683v1
+1108.3265v1,2011-08-16T15:19:42Z,Self-Adjusting Stack Machines,Umut A. Acar,cs.PL,http://arxiv.org/pdf/1108.3265v1
+1108.4547v1,2011-08-23T10:44:28Z,Language Support for Declarative Future Commitments,William Harrison,cs.PL,http://arxiv.org/pdf/1108.4547v1
+1108.4706v1,2011-08-23T21:37:59Z,Stepping Lazy Programs,Matthias Felleisen,cs.PL,http://arxiv.org/pdf/1108.4706v1
+1108.4816v1,2011-08-24T11:41:00Z,Some Measurements of Nullable and Non-Nullable Parameter Declarations in   Relation to Software Malleability,Paul Biggar,cs.PL,http://arxiv.org/pdf/1108.4816v1
+1108.5434v1,2011-08-27T09:36:35Z,Unit Testing in ASPIDE,Francesco Ricca,cs.PL,http://arxiv.org/pdf/1108.5434v1
+1108.5609v1,2011-08-29T15:38:31Z,Implementing Equational Constraints in a Functional Language,Fabian Reck,cs.PL,http://arxiv.org/pdf/1108.5609v1
+1109.0323v1,2011-09-01T22:59:50Z,Proceedings IFIP Working Conference on Domain-Specific Languages,Chung-chieh Shan,cs.PL,http://arxiv.org/pdf/1109.0323v1
+1109.0638v1,2011-09-03T16:54:11Z,Translating Nondeterministic Functional Language based on Attribute   Grammars into Java,Keiichi Katamine,cs.PL,http://arxiv.org/pdf/1109.0638v1
+1109.0774v1,2011-09-05T01:56:05Z,Adaptation-Based Programming in Haskell,Jervis Pinto,cs.PL,http://arxiv.org/pdf/1109.0774v1
+1109.0777v1,2011-09-05T01:56:26Z,Efficient and Correct Stencil Computation via Pattern Matching and   Static Typing,Alan Mycroft,cs.PL,http://arxiv.org/pdf/1109.0777v1
+1109.0778v1,2011-09-05T01:56:34Z,Building-Blocks for Performance Oriented DSLs,Kunle Olukotun,cs.PL,http://arxiv.org/pdf/1109.0778v1
+1109.0780v1,2011-09-05T01:56:47Z,A DSEL for Studying and Explaining Causation,Martin Erwig,cs.PL,http://arxiv.org/pdf/1109.0780v1
+1109.0781v1,2011-09-05T01:56:53Z,Tutorial on Online Partial Evaluation,Ralf Lämmel,cs.PL,http://arxiv.org/pdf/1109.0781v1
+1109.0785v1,2011-09-05T01:57:20Z,Resumption-based big-step and small-step interpreters for While with   interactive I/O,Keiko Nakata,cs.PL,http://arxiv.org/pdf/1109.0785v1
+1109.2405v1,2011-09-12T08:48:00Z,Stratified Static Analysis Based on Variable Dependencies,Julien Le Guen,cs.PL,http://arxiv.org/pdf/1109.2405v1
+1109.4048v1,2011-09-19T14:51:27Z,Implementing Continuation based language in GCC,Kento Yogi,cs.PL,http://arxiv.org/pdf/1109.4048v1
+1109.4467v2,2011-09-21T03:26:53Z,Pushdown Abstractions of JavaScript,Matthew Might,cs.PL,http://arxiv.org/pdf/1109.4467v2
+1109.5416v6,2011-09-25T23:31:15Z,Matrix Code,M. H. van Emden,cs.PL,http://arxiv.org/pdf/1109.5416v6
+1110.2350v2,2011-10-11T12:35:00Z,Certifying and reasoning about cost annotations of functional programs,Yann Regis-Gianas,cs.PL,http://arxiv.org/pdf/1110.2350v2
+1110.3470v1,2011-10-16T10:52:53Z,Symmetric Encapsulated Multi-Methods,Bill Harrison,cs.PL,http://arxiv.org/pdf/1110.3470v1
+1110.4157v1,2011-10-19T02:18:07Z,Channels as Objects in Concurrent Object-Oriented Programming,Vasco T. Vasconcelos,cs.PL,http://arxiv.org/pdf/1110.4157v1
+1110.4163v1,2011-10-19T02:38:21Z,Session Type Inference in Haskell,Kiyoshi Agusa,cs.PL,http://arxiv.org/pdf/1110.4163v1
+1110.4165v1,2011-10-19T02:38:38Z,Types for X10 Clocks,Tiago Cogumbreiro,cs.PL,http://arxiv.org/pdf/1110.4165v1
+1110.4802v1,2011-09-27T15:28:38Z,Cameleon language Part 1: Processor,V. Tariel,cs.PL,http://arxiv.org/pdf/1110.4802v1
+1111.3673v1,2011-11-15T22:00:48Z,C++ Standard Template Library by template specialized containers,N. Pataki,cs.PL,http://arxiv.org/pdf/1111.3673v1
+1111.4737v1,2011-11-21T05:24:23Z,Compiler Optimization: A Case for the Transformation Tool Contest,Edgar Jakumeit,cs.PL,http://arxiv.org/pdf/1111.4737v1
+1111.4742v1,2011-11-21T05:24:59Z,Solving the TTC 2011 Compiler Optimization Case with GrGen.NET,Edgar Jakumeit,cs.PL,http://arxiv.org/pdf/1111.4742v1
+1111.4751v1,2011-11-21T05:26:14Z,Solving the TTC 2011 Reengineering Case with GrGen.NET,Sebastian Buchwald,cs.PL,http://arxiv.org/pdf/1111.4751v1
+1111.4757v1,2011-11-21T05:27:20Z,Saying Hello World with GrGen.NET - A Solution to the TTC 2011   Instructive Case,Edgar Jakumeit,cs.PL,http://arxiv.org/pdf/1111.4757v1
+1201.0023v1,2011-12-29T21:22:31Z,Effects for Funargs,Jonathan D. Turner,cs.PL,http://arxiv.org/pdf/1201.0023v1
+1201.0024v1,2011-12-29T21:29:59Z,Well-typed Islands Parse Faster,Jeremy G. Siek,cs.PL,http://arxiv.org/pdf/1201.0024v1
+1201.0027v1,2011-12-29T21:38:55Z,"The C++0x ""Concepts"" Effort",Jeremy G. Siek,cs.PL,http://arxiv.org/pdf/1201.0027v1
+1201.0874v1,2012-01-04T11:22:08Z,Applicative Bisimulations for Delimited-Control Operators,Serguei Lenglet,cs.PL,http://arxiv.org/pdf/1201.0874v1
+1201.1101v1,2012-01-05T10:11:52Z,Expansion for Universal Quantifiers,J. B. Wells,cs.PL,http://arxiv.org/pdf/1201.1101v1
+1201.2312v1,2012-01-10T08:24:07Z,Actor Garbage Collection in Distributed Systems using Graph   Transformation,R. Soniya,cs.PL,http://arxiv.org/pdf/1201.2312v1
+1201.3907v1,2012-01-18T20:44:35Z,"The Call-by-need Lambda Calculus, Revisited",Matthias Felleisen,cs.PL,http://arxiv.org/pdf/1201.3907v1
+1201.4715v2,2012-01-23T13:50:55Z,Compact Symbolic Execution,Marek Trtík,cs.PL,http://arxiv.org/pdf/1201.4715v2
+1201.4719v1,2012-01-23T14:06:32Z,"On Synergy of Metal, Slicing, and Symbolic Execution",Marek Trtík,cs.PL,http://arxiv.org/pdf/1201.4719v1
+1201.4801v2,2012-01-23T18:27:52Z,Transporting Functions across Ornaments,McBride Conor,cs.PL,http://arxiv.org/pdf/1201.4801v2
+1201.6057v1,2012-01-29T16:50:15Z,Programming errors in traversal programs over structured data,Markus Kaiser,cs.PL,http://arxiv.org/pdf/1201.6057v1
+1201.6188v1,2012-01-30T11:58:01Z,On the realizability of contracts in dishonest systems,Roberto Zunino,cs.PL,http://arxiv.org/pdf/1201.6188v1
+1202.0693v3,2012-02-03T13:16:27Z,A non-local method for robustness analysis of floating point programs,Catuscia Palamidessi,cs.PL,http://arxiv.org/pdf/1202.0693v3
+1202.2086v2,2012-02-09T19:22:13Z,Typing Copyless Message Passing,Luca Padovani,cs.PL,http://arxiv.org/pdf/1202.2086v2
+1202.2287v2,2012-02-10T15:46:29Z,QRB-Domains and the Probabilistic Powerdomain,Jean Goubault-Larrecq,cs.PL,http://arxiv.org/pdf/1202.2287v2
+1202.2486v1,2012-02-12T03:15:17Z,Subtyping for F-Bounded Quantifiers and Equirecursive Types (Extended   Version),Neal Glew,cs.PL,http://arxiv.org/pdf/1202.2486v1
+1202.2917v1,2012-02-14T03:01:17Z,Parametric Compositional Data Types,Tom Hvitved,cs.PL,http://arxiv.org/pdf/1202.2917v1
+1202.2919v1,2012-02-14T03:01:31Z,An Investigation of the Laws of Traversals,Ondrej Rypacek,cs.PL,http://arxiv.org/pdf/1202.2919v1
+1202.2920v1,2012-02-14T03:01:41Z,A Formal Comparison of Approaches to Datatype-Generic Programming,Andres Löh,cs.PL,http://arxiv.org/pdf/1202.2920v1
+1202.2921v1,2012-02-14T03:01:45Z,Evaluation strategies for monadic computations,Tomas Petricek,cs.PL,http://arxiv.org/pdf/1202.2921v1
+1202.2922v1,2012-02-14T03:01:53Z,Tracing monadic computations and representing effects,Jeremy Gibbons,cs.PL,http://arxiv.org/pdf/1202.2922v1
+1202.2923v1,2012-02-14T03:01:59Z,"Irrelevance, Heterogeneous Equality, and Call-by-value Dependent Type   Systems",Stephanie Weirich,cs.PL,http://arxiv.org/pdf/1202.2923v1
+1202.2924v1,2012-02-14T03:02:06Z,From Mathematics to Abstract Machine: A formal derivation of an   executable Krivine machine,Wouter Swierstra,cs.PL,http://arxiv.org/pdf/1202.2924v1
+1202.3247v1,2012-02-15T09:41:45Z,Lambda-lifting and CPS conversion in an imperative language,Juliusz Chroboczek,cs.PL,http://arxiv.org/pdf/1202.3247v1
+1202.5539v1,2012-02-24T19:58:26Z,Register Allocation By Model Transformer Semantics,R. Kent Dybvig,cs.PL,http://arxiv.org/pdf/1202.5539v1
+1202.5959v2,2012-02-27T14:49:00Z,Normal Form Bisimulations for Delimited-Control Operators,Serguei Lenglet,cs.PL,http://arxiv.org/pdf/1202.5959v2
+1202.6593v1,2012-02-29T16:27:06Z,"A Model-Driven Parser Generator, from Abstract Syntax Trees to Abstract   Syntax Graphs",Juan-Carlos Cubero,cs.PL,http://arxiv.org/pdf/1202.6593v1
+1203.0681v1,2012-03-03T20:42:37Z,Manual and Fast C Code Optimization,Mohammed Fadle Abdulla,cs.PL,http://arxiv.org/pdf/1203.0681v1
+1203.0780v2,2012-03-04T22:05:29Z,On Global Types and Multi-Party Session,Luca Padovani,cs.PL,http://arxiv.org/pdf/1203.0780v2
+1203.1392v1,2012-03-07T07:28:08Z,Region-based memory management for Mercury programs,Zoltan Somogyi,cs.PL,http://arxiv.org/pdf/1203.1392v1
+1203.1539v1,2012-03-07T17:05:09Z,Programming with Algebraic Effects and Handlers,Matija Pretnar,cs.PL,http://arxiv.org/pdf/1203.1539v1
+1203.1986v1,2012-03-09T04:19:19Z,Type-Preserving Flow Analysis and Interprocedural Unboxing (Extended   Version),Leaf Petersen,cs.PL,http://arxiv.org/pdf/1203.1986v1
+1203.2296v2,2012-03-11T00:12:56Z,Discovering Algorithms with Matrix Code,M. H. van Emden,cs.PL,http://arxiv.org/pdf/1203.2296v2
+1203.2431v1,2012-03-12T09:23:07Z,Singular and Plural Functions for Functional Logic Programming,Juan Rodríguez-Hortalá,cs.PL,http://arxiv.org/pdf/1203.2431v1
+1203.4499v1,2012-03-20T16:44:27Z,Extended Report: The Implicit Calculus,Kwangkeun Yi,cs.PL,http://arxiv.org/pdf/1203.4499v1
+1203.5303v1,2012-03-23T17:22:06Z,Bound Analysis of Imperative Programs with the Size-change Abstraction   (extended version),Helmut Veith,cs.PL,http://arxiv.org/pdf/1203.5303v1
+1204.0221v1,2012-04-01T15:35:11Z,MyProLang - My Programming Language: A Template-Driven Automatic Natural   Programming Language,Aziz Barbar,cs.PL,http://arxiv.org/pdf/1204.0221v1
+1204.1147v1,2012-04-05T08:33:16Z,Numerical Invariants through Convex Relaxation and Max-Strategy   Iteration,Helmut Seidl,cs.PL,http://arxiv.org/pdf/1204.1147v1
+1204.1568v5,2012-04-06T21:38:22Z,A Complexity Preserving Transformation from Jinja Bytecode to Rewrite   Systems,Michael Schaper,cs.PL,http://arxiv.org/pdf/1204.1568v5
+1204.4322v3,2012-04-19T11:49:03Z,Secure the Clones,David Pichardie,cs.PL,http://arxiv.org/pdf/1204.4322v3
+1204.5280v1,2012-04-24T06:57:10Z,Towards a Generic Trace for Rule Based Constraint Reasoning,Jacques Robin,cs.PL,http://arxiv.org/pdf/1204.5280v1
+1205.4672v1,2012-05-17T22:45:45Z,Timing and Code Size Optimization on Achieving Full Parallelism in   Uniform Nested Loops,Mohamed Hedi Bedoui,cs.PL,http://arxiv.org/pdf/1205.4672v1
+1205.5344v5,2012-05-24T06:30:42Z,Modular session types for objects,Vasco T. Vasconcelos,cs.PL,http://arxiv.org/pdf/1205.5344v5
+1206.0357v2,2012-06-02T09:26:53Z,Generic Fibrational Induction,Clement Fumex,cs.PL,http://arxiv.org/pdf/1206.0357v2
+1206.1687v1,2012-06-08T07:42:55Z,Behavioural Types for Actor Systems,Silvia Crafa,cs.PL,http://arxiv.org/pdf/1206.1687v1
+1206.1969v1,2012-06-09T20:10:16Z,Implementation of EasyTime Formal Semantics using a LISA Compiler   Generator,Dejan Hrnčič,cs.PL,http://arxiv.org/pdf/1206.1969v1
+1206.2188v2,2012-06-11T12:56:28Z,Reachability-based Acyclicity Analysis by Abstract Interpretation,Damiano Zanardini,cs.PL,http://arxiv.org/pdf/1206.2188v2
+1206.2542v1,2012-06-12T14:25:17Z,Implementation of the Domain-Specific Language EasyTime using a LISA   Compiler Generator,Dejan Hrnčič,cs.PL,http://arxiv.org/pdf/1206.2542v1
+1206.3523v3,2012-06-15T17:31:29Z,A static cost analysis for a higher-order language,J. S. Royer,cs.PL,http://arxiv.org/pdf/1206.3523v3
+1206.4234v1,2012-06-19T15:20:30Z,Succinct Representations for Abstract Interpretation,Matthieu Moy,cs.PL,http://arxiv.org/pdf/1206.4234v1
+1206.5386v1,2012-06-23T12:25:22Z,Elaborating Intersection and Union Types,Joshua Dunfield,cs.PL,http://arxiv.org/pdf/1206.5386v1
+1206.5648v3,2012-06-25T11:20:33Z,C to O-O Translation: Beyond the Easy Stuff,Manuel Oriol,cs.PL,http://arxiv.org/pdf/1206.5648v3
+1207.1813v1,2012-07-07T16:56:04Z,Introspective Pushdown Analysis of Higher-Order Programs,David Van Horn,cs.PL,http://arxiv.org/pdf/1207.1813v1
+1207.2017v1,2012-07-09T12:05:25Z,dup -- Explicit un-sharing in Haskell,Joachim Breitner,cs.PL,http://arxiv.org/pdf/1207.2017v1
+1207.2544v2,2012-07-11T06:02:30Z,Variable and Thread Bounding for Systematic Testing of Multithreaded   Programs,Akash Lal,cs.PL,http://arxiv.org/pdf/1207.2544v2
+1207.6369v1,2012-07-26T18:56:59Z,Concept of the abstract program,T. Gregorics,cs.PL,http://arxiv.org/pdf/1207.6369v1
+1207.6816v1,2012-07-30T01:11:12Z,Transforming floundering into success,Lee Naish,cs.PL,http://arxiv.org/pdf/1207.6816v1
+1208.0515v2,2012-08-02T15:21:44Z,On Constructor Rewrite Systems and the Lambda Calculus,Simone Martini,cs.PL,http://arxiv.org/pdf/1208.0515v2
+1208.0535v1,2012-08-02T16:38:13Z,Modular Type-Safety Proofs using Dependant Types,Jeremy G. Siek,cs.PL,http://arxiv.org/pdf/1208.0535v1
+1208.2752v1,2012-08-14T01:52:18Z,Tree rules in probabilistic transition system specifications with   negative and quantitative premises,Pedro R. D'Argenio,cs.PL,http://arxiv.org/pdf/1208.2752v1
+1208.4035v1,2012-08-16T12:14:39Z,QIRAL: A High Level Language for Lattice QCD Code Generation,Claude Tadonki,cs.PL,http://arxiv.org/pdf/1208.4035v1
+1208.4126v1,2012-08-20T21:48:43Z,Upgrading EasyTime: from a textual to a visual language,Iztok Fister,cs.PL,http://arxiv.org/pdf/1208.4126v1
+1208.5895v2,2012-08-29T12:25:10Z,Two for the Price of One: Lifting Separation Logic Assertions,Hongseok Yang,cs.PL,http://arxiv.org/pdf/1208.5895v2
+1208.6152v2,2012-08-30T12:32:01Z,Checking Robustness against TSO,Roland Meyer,cs.PL,http://arxiv.org/pdf/1208.6152v2
+1209.0643v2,2012-09-04T13:52:34Z,Invariant Generation through Strategy Iteration in Succinctly   Represented Control Flow Graphs,David Monniaux,cs.PL,http://arxiv.org/pdf/1209.0643v2
+1209.1422v1,2012-09-06T22:52:39Z,A Procedure for Splitting Processes and its Application to Coordination,José Proença,cs.PL,http://arxiv.org/pdf/1209.1422v1
+1209.2617v2,2012-09-12T14:01:05Z,Rewriting and narrowing for constructor systems with call-time choice   semantics,Jaime Sánchez-Hernández,cs.PL,http://arxiv.org/pdf/1209.2617v2
+1209.5851v1,2012-09-26T07:33:43Z,A polynomial time λ-calculus with multithreading and side   effects,Antoine Madet,cs.PL,http://arxiv.org/pdf/1209.5851v1
+1210.1611v1,2012-10-04T23:19:16Z,Efficient Tabling of Structured Data with Enhanced Hash-Consing,Christian Theil Have,cs.PL,http://arxiv.org/pdf/1210.1611v1
+1210.2094v4,2012-10-07T18:56:54Z,Type Directed Partial Evaluation for Level-1 Shift and Reset,Danko Ilik,cs.PL,http://arxiv.org/pdf/1210.2094v4
+1210.2282v2,2012-10-08T14:00:07Z,Towards Multi-Threaded Local Tabling Using a Common Table Space,Ricardo Rocha,cs.PL,http://arxiv.org/pdf/1210.2282v2
+1210.2297v2,2012-10-08T14:34:25Z,Diagrammatic confluence for Constraint Handling Rules,Rémy Haemmerlé,cs.PL,http://arxiv.org/pdf/1210.2297v2
+1210.2864v1,2012-10-10T10:39:03Z,Lightweight compilation of (C)LP to JavaScript,Manuel V. Hermenegildo,cs.PL,http://arxiv.org/pdf/1210.2864v1
+1210.4263v2,2012-10-16T06:35:59Z,Generating events with style,Gabriel Kerneis,cs.PL,http://arxiv.org/pdf/1210.4263v2
+1210.5307v1,2012-10-19T03:47:37Z,SMCHR: Satisfiability Modulo Constraint Handling Rules,Gregory J. Duck,cs.PL,http://arxiv.org/pdf/1210.5307v1
+1210.5935v1,2012-10-22T15:36:56Z,GADT meet Subtyping,Didier Rémy,cs.PL,http://arxiv.org/pdf/1210.5935v1
+1210.6114v1,2012-10-23T02:55:15Z,Adding Sessions to BPEL,Alessandro Fantechi,cs.PL,http://arxiv.org/pdf/1210.6114v1
+1210.6390v2,2012-10-23T21:47:21Z,Elaborating Inductive Definitions,Conor McBride,cs.PL,http://arxiv.org/pdf/1210.6390v2
+1212.2341v1,2012-12-11T09:04:39Z,Semantics and Security Issues in JavaScript,Damien Cassou,cs.PL,http://arxiv.org/pdf/1212.2341v1
+1212.5210v5,2012-12-20T19:56:38Z,GNU epsilon - an extensible programming language,Luca Saiu,cs.PL,http://arxiv.org/pdf/1212.5210v5
+1212.6844v1,2012-12-31T09:20:05Z,Improving Robustness via Disjunctive Statements in Imperative   Programming,Mi-Young Park,cs.PL,http://arxiv.org/pdf/1212.6844v1
+1302.2692v1,2013-02-12T03:29:55Z,Pushdown Exception-Flow Analysis of Object-Oriented Programs,David Van Horn,cs.PL,http://arxiv.org/pdf/1302.2692v1
+1302.3178v1,2013-02-13T18:09:05Z,Information Flow Analysis for a Dynamically Typed Functional Language   with Staged Metaprogramming,Max Schaefer,cs.PL,http://arxiv.org/pdf/1302.3178v1
+1302.6328v1,2013-02-26T06:48:39Z,Variant-Frequency Semantics for Green Futures,Yu David Liu,cs.PL,http://arxiv.org/pdf/1302.6328v1
+1302.6333v1,2013-02-26T06:49:18Z,Modularizing and Specifying Protocols among Threads,Farhad Arbab,cs.PL,http://arxiv.org/pdf/1302.6333v1
+1303.0427v1,2013-03-02T20:38:33Z,"Object-oriented programming: some history, and challenges for the next   fifty years",Andrew P. Black,cs.PL,http://arxiv.org/pdf/1303.0427v1
+1303.0722v1,2013-03-04T15:11:38Z,EasyTime++: A case study of incremental domain-specific language   development,Marjan Mernik,cs.PL,http://arxiv.org/pdf/1303.0722v1
+1303.0908v1,2013-03-05T02:13:28Z,KRAB Algorithm - A Revised Algorithm for Incremental Call Graph   Generation,Kiransinh Borasia,cs.PL,http://arxiv.org/pdf/1303.0908v1
+1303.1880v2,2013-03-08T04:02:33Z,A Simple Algorithm for Global Value Numbering,Vineeth Paleri,cs.PL,http://arxiv.org/pdf/1303.1880v2
+1303.2201v1,2013-03-09T12:10:01Z,Automatic Verification of Erlang-Style Concurrency,C. -H. Luke Ong,cs.PL,http://arxiv.org/pdf/1303.2201v1
+1304.0538v1,2013-04-02T05:57:44Z,OESPA:A Theory of Programming that Support Software Engineering,Sen Ma,cs.PL,http://arxiv.org/pdf/1304.0538v1
+1304.0809v3,2013-04-02T22:55:32Z,"New Equations for Neutral Terms: A Sound and Complete Decision   Procedure, Formalized",Conor McBride,cs.PL,http://arxiv.org/pdf/1304.0809v3
+1304.1835v1,2013-04-05T23:52:00Z,Locality Optimization for Data Parallel Programs,Dennis Shasha,cs.PL,http://arxiv.org/pdf/1304.1835v1
+1304.3596v1,2013-04-12T10:32:40Z,Formal Verification of a C Value Analysis Based on Abstract   Interpretation,David Pichardie,cs.PL,http://arxiv.org/pdf/1304.3596v1
+1304.5531v1,2013-04-19T20:06:11Z,A Semantics for Approximate Program Transformations,Swarat Chaudhuri,cs.PL,http://arxiv.org/pdf/1304.5531v1
+1304.5893v1,2013-04-22T09:41:42Z,Conceptual Understanding of Computer Program Execution: Application to   C++,Sabah Al-Fedaghi,cs.PL,http://arxiv.org/pdf/1304.5893v1
+1304.6274v2,2013-04-23T13:02:09Z,Interprocedural Data Flow Analysis in Soot using Value Contexts,Uday P. Khedker,cs.PL,http://arxiv.org/pdf/1304.6274v2
+1304.6284v3,2013-04-23T13:26:02Z,Expressibility in the Lambda Calculus with mu,Jan Rochel,cs.PL,http://arxiv.org/pdf/1304.6284v3
+1304.7600v1,2013-04-29T09:30:33Z,C++11 - określanie typów,Piotr Beling,cs.PL,http://arxiv.org/pdf/1304.7600v1
+1307.0679v1,2013-07-02T10:55:24Z,Unfolding for CHR programs,Herbert Wiklicky,cs.PL,http://arxiv.org/pdf/1307.0679v1
+1307.2328v1,2013-07-09T03:45:41Z,A Haskell Library for Term Rewriting,Christian Sternagel,cs.PL,http://arxiv.org/pdf/1307.2328v1
+1307.2473v1,2013-07-09T14:29:24Z,From bounded affine types to automatic timing analysis,Alex Smith,cs.PL,http://arxiv.org/pdf/1307.2473v1
+1307.4474v1,2013-07-17T01:42:29Z,Probabilistic data flow analysis: a linear equational approach,Herbert Wiklicky,cs.PL,http://arxiv.org/pdf/1307.4474v1
+1307.4585v1,2013-07-17T11:36:15Z,Pushdown Systems for Monotone Frameworks,Flemming Nielson,cs.PL,http://arxiv.org/pdf/1307.4585v1
+1307.4641v1,2013-07-17T14:13:50Z,Experimenting with X10 for Parallel Constraint-Based Local Search,Salvador Abreu,cs.PL,http://arxiv.org/pdf/1307.4641v1
+1307.4642v1,2013-07-17T14:14:08Z,A Prolog Specification of Giant Number Arithmetic,Paul Tarau,cs.PL,http://arxiv.org/pdf/1307.4642v1
+1307.4644v1,2013-07-17T14:20:15Z,Interning Ground Terms in XSB,David S. Warren,cs.PL,http://arxiv.org/pdf/1307.4644v1
+1307.4648v1,2013-07-17T14:30:17Z,A Generic Analysis Server System for Functional Logic Programs,Fabian Reck,cs.PL,http://arxiv.org/pdf/1307.4648v1
+1307.4655v1,2013-07-17T14:42:55Z,Compilation for QCSP,Igor Stéphan,cs.PL,http://arxiv.org/pdf/1307.4655v1
+1307.4827v1,2013-07-18T04:06:49Z,Characterizing traits of coordination,Raphael 'kena' Poss,cs.PL,http://arxiv.org/pdf/1307.4827v1
+1307.5277v1,2013-07-19T16:38:25Z,Formalisation of the lambda aleph Runtime,Leaf Petersen,cs.PL,http://arxiv.org/pdf/1307.5277v1
+1307.6239v4,2013-07-23T20:30:46Z,Soft Contract Verification,David Van Horn,cs.PL,http://arxiv.org/pdf/1307.6239v4
+1307.7261v1,2013-07-27T14:10:33Z,The Power of Spreadsheet Computations,Jerzy Tyszkiewicz,cs.PL,http://arxiv.org/pdf/1307.7261v1
+1307.7281v2,2013-07-27T16:57:03Z,Cost-Aware Automatic Program Repair,E. Allen Emerson,cs.PL,http://arxiv.org/pdf/1307.7281v2
+1307.8204v1,2013-07-31T03:24:25Z,Annotations for Intersection Typechecking,Joshua Dunfield,cs.PL,http://arxiv.org/pdf/1307.8204v1
+1307.8389v1,2013-07-31T17:03:11Z,Proceedings of the 13th International Colloquium on Implementation of   Constraint and LOgic Programming Systems,Christian Theil Have,cs.PL,http://arxiv.org/pdf/1307.8389v1
+1310.2300v1,2013-10-08T22:44:44Z,Speculative Staging for Interpreter Optimization,Stefan Brunthaler,cs.PL,http://arxiv.org/pdf/1310.2300v1
+1310.2741v1,2013-10-10T09:24:15Z,Waterfall: Primitives Generation on the Fly,Stéphane Ducasse,cs.PL,http://arxiv.org/pdf/1310.2741v1
+1310.3404v2,2013-10-12T16:46:28Z,"QEMU/CPC: Static Analysis and CPS Conversion for Safe, Portable, and   Efficient Coroutines",Stefan Hajnoczi,cs.PL,http://arxiv.org/pdf/1310.3404v2
+1310.3481v1,2013-10-13T13:41:25Z,An Algebraic Framework for Compositional Program Analysis,Zachary Kincaid,cs.PL,http://arxiv.org/pdf/1310.3481v1
+1310.4283v2,2013-10-16T07:16:49Z,Abstract interpretation as anti-refinement,Arnaud Spiwack,cs.PL,http://arxiv.org/pdf/1310.4283v2
+1310.4780v3,2013-10-17T17:29:40Z,Effective Quotation: relating approaches to language-integrated query,Philip Wadler,cs.PL,http://arxiv.org/pdf/1310.4780v3
+1310.5538v1,2013-10-21T13:33:21Z,"TCC, with History",Vineet Gupta,cs.PL,http://arxiv.org/pdf/1310.5538v1
+1310.6299v2,2013-10-23T17:14:33Z,A Core Calculus for Provenance,Roly Perera,cs.PL,http://arxiv.org/pdf/1310.6299v2
+1310.7774v1,2013-10-29T12:03:53Z,Ghost: A Uniform and General-Purpose Proxy Implementation,Marcus Denker,cs.PL,http://arxiv.org/pdf/1310.7774v1
+1311.0768v2,2013-11-04T17:03:17Z,Abstract Acceleration of General Linear Loops,Sriram Sankaranarayanan,cs.PL,http://arxiv.org/pdf/1311.0768v2
+1311.3293v1,2013-11-13T10:21:31Z,Abstraction Level Taxonomy of Programming Language Frameworks,Dr. Brijender Kahanwal,cs.PL,http://arxiv.org/pdf/1311.3293v1
+1311.4198v1,2013-11-17T18:47:15Z,AnaDroid: Malware Analysis of Android with User-supplied Predicates,David Van Horn,cs.PL,http://arxiv.org/pdf/1311.4198v1
+1311.4231v1,2013-11-17T23:59:28Z,Resolving and Exploiting the $k$-CFA Paradox,David Van Horn,cs.PL,http://arxiv.org/pdf/1311.4231v1
+1311.4733v1,2013-11-19T13:31:54Z,The Complexity of Flow Analysis in Higher-Order Languages,David Van Horn,cs.PL,http://arxiv.org/pdf/1311.4733v1
+1311.5810v1,2013-11-22T16:50:48Z,Deciding $k$CFA is complete for EXPTIME,Harry G. Mairson,cs.PL,http://arxiv.org/pdf/1311.5810v1
+1311.5825v1,2013-11-22T17:23:55Z,"Flow analysis, linearity, and PTIME",Harry G. Mairson,cs.PL,http://arxiv.org/pdf/1311.5825v1
+1311.6929v1,2013-11-27T10:57:10Z,Illustrating the Mezzo programming language,Jonathan Protzenko,cs.PL,http://arxiv.org/pdf/1311.6929v1
+1311.7203v1,2013-11-28T04:16:49Z,Function Overloading Implementation in C++,Dr. T. P. Singh,cs.PL,http://arxiv.org/pdf/1311.7203v1
+1311.7242v1,2013-11-28T09:15:55Z,Programming with Permissions in Mezzo,François Pottier,cs.PL,http://arxiv.org/pdf/1311.7242v1
+1311.7256v1,2013-11-28T09:58:55Z,The ins and outs of iteration in Mezzo,Jonathan Protzenko,cs.PL,http://arxiv.org/pdf/1311.7256v1
+1404.0073v1,2014-04-01T00:36:54Z,General dynamic recovery for compensating CSP,Maribel Fernández,cs.PL,http://arxiv.org/pdf/1404.0073v1
+1404.0089v1,2014-04-01T00:40:11Z,Worst-case Throughput Analysis for Parametric Rate and Parametric Actor   Execution Time Scenario-Aware Dataflow Graphs,Sverre Hendseth,cs.PL,http://arxiv.org/pdf/1404.0089v1
+1404.1830v1,2014-04-07T16:07:54Z,Concurrency and Scalability versus Fragmentation and Compaction with   Compact-fit,Ana Sokolova,cs.PL,http://arxiv.org/pdf/1404.1830v1
+1404.3407v1,2014-04-13T18:20:40Z,Annotated imports,Ruslan Shevchenko,cs.PL,http://arxiv.org/pdf/1404.3407v1
+1404.4246v1,2014-04-16T13:53:02Z,An Approach to Assertion-based Debugging of Higher-Order (C)LP Programs,Manuel V. Hermenegildo,cs.PL,http://arxiv.org/pdf/1404.4246v1
+1404.4666v1,2014-04-17T22:36:44Z,Object-Oriented Parallel Programming,Edward Givelberg,cs.PL,http://arxiv.org/pdf/1404.4666v1
+1404.5770v1,2014-04-23T10:08:11Z,Capture-Avoiding and Hygienic Program Transformations (incl. Proofs),Yi Dai,cs.PL,http://arxiv.org/pdf/1404.5770v1
+1404.6390v2,2014-04-25T10:56:33Z,JyNI - Using native CPython-Extensions in Jython,Stefan Richthofer,cs.PL,http://arxiv.org/pdf/1404.6390v2
+1404.6838v1,2014-04-27T22:51:24Z,Metamorphic Domain-Specific Languages: A Journey Into the Shapes of a   Language,Philippe Collet,cs.PL,http://arxiv.org/pdf/1404.6838v1
+1405.0166v1,2014-05-01T14:22:09Z,Proceedings of the 6th European Conference on Python in Science   (EuroSciPy 2013),Nelle Varoquaux,cs.PL,http://arxiv.org/pdf/1405.0166v1
+1405.1302v1,2014-03-21T05:33:03Z,Comparative Study of the Function Overloading and Function Overriding   Using C++,Brijender kahanwal,cs.PL,http://arxiv.org/pdf/1405.1302v1
+1405.2538v1,2014-05-11T14:45:07Z,Combinatorial Search With Picat,Neng-Fa Zhou,cs.PL,http://arxiv.org/pdf/1405.2538v1
+1405.2564v1,2014-05-11T18:39:26Z,Towards an Efficient Prolog System by Code Introspection,Anderson Faustino da Silva,cs.PL,http://arxiv.org/pdf/1405.2564v1
+1405.2693v2,2014-05-12T10:12:14Z,Customisable Handling of Java References in Prolog Programs,Paulo Moura,cs.PL,http://arxiv.org/pdf/1405.2693v2
+1405.2794v2,2014-05-09T17:07:26Z,"Tabling, Rational Terms, and Coinduction Finally Together!",Paulo Moura,cs.PL,http://arxiv.org/pdf/1405.2794v2
+1405.2850v2,2014-05-09T19:19:21Z,A Simple and Efficient Lock-Free Hash Trie Design for Concurrent Tabling,Ricardo Rocha,cs.PL,http://arxiv.org/pdf/1405.2850v2
+1405.3072v2,2014-05-13T09:10:32Z,Haskell for OCaml programmers,Raphael Poss,cs.PL,http://arxiv.org/pdf/1405.3072v2
+1405.3099v1,2014-05-13T10:47:12Z,The Correctness of Launchbury's Natural Semantics for Lazy Evaluation,Joachim Breitner,cs.PL,http://arxiv.org/pdf/1405.3099v1
+1405.3323v1,2014-05-13T22:44:11Z,Large Code Base Change Ripple Management in C++: My thoughts on how a   new Boost C++ Library could help,Niall Douglas,cs.PL,http://arxiv.org/pdf/1405.3323v1
+1405.3365v1,2014-05-14T05:29:40Z,A Well-Founded Semantics for FOL-Programs,Zhiyong Feng,cs.PL,http://arxiv.org/pdf/1405.3365v1
+1405.3393v1,2014-05-14T07:51:39Z,"On Termination, Confluence and Consistent CHR-based Type Inference",Martin Sulzmann,cs.PL,http://arxiv.org/pdf/1405.3393v1
+1405.3547v1,2014-05-14T15:49:49Z,Incremental Tabling in Support of Knowledge Representation and Reasoning,Terrance Swift,cs.PL,http://arxiv.org/pdf/1405.3547v1
+1405.3556v1,2014-05-14T16:02:41Z,A Linear Logic Programming Language for Concurrent Programming over   Graph Structures,Frank Pfenning,cs.PL,http://arxiv.org/pdf/1405.3556v1
+1405.3675v1,2014-05-14T20:18:48Z,Abstract Diagnosis for tccp using a Linear Temporal Logic,Alicia Villanueva,cs.PL,http://arxiv.org/pdf/1405.3675v1
+1405.3694v1,2014-05-14T21:33:07Z,Clingo = ASP + Control: Preliminary Report,Torsten Schaub,cs.PL,http://arxiv.org/pdf/1405.3694v1
+1405.3791v1,2014-05-15T10:27:52Z,On contour representation of two dimensional patterns,Gheorghe Stefanescu,cs.PL,http://arxiv.org/pdf/1405.3791v1
+1405.3793v1,2014-05-15T10:42:42Z,Visualization of Constraint Handling Rules,Thom Fruehwirth,cs.PL,http://arxiv.org/pdf/1405.3793v1
+1405.3795v1,2014-05-15T10:48:10Z,Logic Programming as Scripting Language for Bots in Computer Games --   Research Overview,Grzegorz Jaśkiewicz,cs.PL,http://arxiv.org/pdf/1405.3795v1
+1405.3883v1,2014-05-15T15:39:46Z,Analysis and Transformation Tools for Constrained Horn Clause   Verification,Bishoksan Kafle,cs.PL,http://arxiv.org/pdf/1405.3883v1
+1405.3953v1,2014-05-14T15:22:30Z,Pengines: Web Logic Programming Made Easy,Jan Wielemaker,cs.PL,http://arxiv.org/pdf/1405.3953v1
+1405.4041v1,2014-05-16T00:47:10Z,A Module System for Domain-Specific Languages,Ethan K. Jackson,cs.PL,http://arxiv.org/pdf/1405.4041v1
+1405.4565v3,2014-05-18T23:32:10Z,Static analysis of energy consumption for LLVM IR programs,Kerstin Eder,cs.PL,http://arxiv.org/pdf/1405.4565v3
+1405.5590v2,2014-05-22T01:50:47Z,Language to Specify Syntax-Guided Synthesis Problems,Abhishek Udupa,cs.PL,http://arxiv.org/pdf/1405.5590v2
+1405.7898v2,2014-05-14T08:25:55Z,Towards Assertion-based Debugging of Higher-Order (C)LP Programs,Manuel V. Hermenegildo,cs.PL,http://arxiv.org/pdf/1405.7898v2
+1407.0729v6,2014-07-02T21:42:02Z,Non-Linear Pattern-Matching against Unfree Data Types with Lexical   Scoping,Satoshi Egi,cs.PL,http://arxiv.org/pdf/1407.0729v6
+1407.0970v4,2014-07-03T16:12:12Z,Dynamic Choreographies - Safe Runtime Updates of Distributed   Applications,Jacopo Mauro,cs.PL,http://arxiv.org/pdf/1407.0970v4
+1407.0975v3,2014-07-03T16:14:57Z,AIOCJ: A Choreographic Framework for Safe Adaptive Distributed   Applications,Maurizio Gabbrielli,cs.PL,http://arxiv.org/pdf/1407.0975v3
+1407.1545v1,2014-07-06T20:56:24Z,A Lambda Prolog Based Animation of Twelf Specifications,Gopalan Nadathur,cs.PL,http://arxiv.org/pdf/1407.1545v1
+1407.1873v1,2014-07-04T19:43:55Z,A Quantitative Study of Pure Parallel Processes,Frédéric Peschanski,cs.PL,http://arxiv.org/pdf/1407.1873v1
+1407.3845v1,2014-07-14T23:13:17Z,Array operators using multiple dispatch: a design methodology for array   implementations in dynamic languages,Alan Edelman,cs.PL,http://arxiv.org/pdf/1407.3845v1
+1407.5670v1,2014-07-21T21:20:31Z,Rust for functional programmers,Raphael Poss,cs.PL,http://arxiv.org/pdf/1407.5670v1
+1407.6124v1,2014-07-23T08:06:53Z,Automating Proofs of Data-Structure Properties in Imperative Programs,Minh-Thai Trinh,cs.PL,http://arxiv.org/pdf/1407.6124v1
+1407.6968v1,2014-07-23T22:01:59Z,Hardware extensions to make lazy subscription safe,Mark Moir,cs.PL,http://arxiv.org/pdf/1407.6968v1
+1507.01656v1,2015-07-07T01:47:31Z,Languages for Mobile Agents,Steve Versteeg,cs.PL,http://arxiv.org/pdf/1507.01656v1
+1507.02437v1,2015-07-09T09:58:44Z,Extending Basic Block Versioning with Typed Object Shapes,Marc Feeley,cs.PL,http://arxiv.org/pdf/1507.02437v1
+1507.02988v3,2015-07-10T18:55:56Z,"Programmatic and Direct Manipulation, Together at Last",Jacob Albers,cs.PL,http://arxiv.org/pdf/1507.02988v3
+1507.03137v2,2015-07-11T18:37:48Z,Pushdown Control-Flow Analysis for Free,David Van Horn,cs.PL,http://arxiv.org/pdf/1507.03137v2
+1507.03513v5,2015-07-13T16:26:09Z,"Precise, Dynamic Information Flow for Database-Backed Applications",Stephen Chong,cs.PL,http://arxiv.org/pdf/1507.03513v5
+1507.03559v1,2015-07-13T19:23:25Z,Mechanically Verified Calculational Abstract Interpretation,David Van Horn,cs.PL,http://arxiv.org/pdf/1507.03559v1
+1507.03577v1,2015-07-13T05:02:53Z,JSKETCH: Sketching for Java,Armando Solar-Lezama,cs.PL,http://arxiv.org/pdf/1507.03577v1
+1507.04817v3,2015-07-17T02:21:05Z,Higher-order symbolic execution for contract verification and refutation,David Van Horn,cs.PL,http://arxiv.org/pdf/1507.04817v3
+1507.05454v1,2015-07-20T11:41:49Z,Concolic Testing in Logic Programming,Germán Vidal,cs.PL,http://arxiv.org/pdf/1507.05454v1
+1507.05527v2,2015-07-20T15:09:58Z,Synthesis of Recursive ADT Transformations from Reusable Templates,Armando Solar-Lezama,cs.PL,http://arxiv.org/pdf/1507.05527v2
+1507.05762v1,2015-07-21T09:39:11Z,Horn Clauses as an Intermediate Representation for Program Analysis and   Transformation,Peter J. Stuckey,cs.PL,http://arxiv.org/pdf/1507.05762v1
+1507.05986v2,2015-07-21T21:07:24Z,Practical Run-time Checking via Unobtrusive Property Caching,Manuel V. Hermenegildo,cs.PL,http://arxiv.org/pdf/1507.05986v2
+1507.06576v1,2015-07-23T17:26:57Z,Abstract Gringo,Torsten Schaub,cs.PL,http://arxiv.org/pdf/1507.06576v1
+1507.06852v1,2015-07-24T14:18:59Z,Adding Partial Functions to Constraint Logic Programming with Sets,Claudia Frydman,cs.PL,http://arxiv.org/pdf/1507.06852v1
+1507.06988v1,2015-07-24T18:26:21Z,A Binary Data Stream Scripting Language,Luz Fernando Capretz,cs.PL,http://arxiv.org/pdf/1507.06988v1
+1507.07049v3,2015-07-25T01:12:57Z,Event-Driven Network Programming,Pavol Cerny,cs.PL,http://arxiv.org/pdf/1507.07049v3
+1507.07264v2,2015-07-26T23:11:16Z,Everything old is new again: Quoted Domain Specific Languages,Philip Wadler,cs.PL,http://arxiv.org/pdf/1507.07264v2
+1507.07719v1,2015-07-28T10:44:58Z,The role of concurrency in an evolutionary view of programming   abstractions,Silvia Crafa,cs.PL,http://arxiv.org/pdf/1507.07719v1
+1507.08087v1,2015-07-29T10:01:22Z,Tabling as a Library with Delimited Control,Marko van Dooren,cs.PL,http://arxiv.org/pdf/1507.08087v1
+1507.08398v1,2015-07-30T06:54:25Z,Towards a Decoupled Context-Oriented Programming Language for the   Internet of Things,Yannick Loiseau,cs.PL,http://arxiv.org/pdf/1507.08398v1
+1507.08610v1,2015-07-30T18:15:02Z,"Fast, Flexible, and Declarative Construction of Abstract Syntax Trees   with PEGs",Kimio Kuramitsu,cs.PL,http://arxiv.org/pdf/1507.08610v1
+0910.2654v1,2009-10-14T16:08:29Z,Type Safe Extensible Programming,Wonseok Chae,cs.PL,http://arxiv.org/pdf/0910.2654v1
+0910.3321v1,2009-10-17T18:52:53Z,"Iterators, Recursors and Interaction Nets",Miguel Vilaca,cs.PL,http://arxiv.org/pdf/0910.3321v1
+0910.5833v1,2009-10-30T10:27:23Z,From Single-thread to Multithreaded: An Efficient Static Analysis   Algorithm,Charles Hymans,cs.PL,http://arxiv.org/pdf/0910.5833v1
+1003.0554v1,2010-03-02T10:49:04Z,"Polychronous Interpretation of Synoptic, a Domain Specific Modeling   Language for Embedded Flight-Software",F. Dagnat,cs.PL,http://arxiv.org/pdf/1003.0554v1
+1003.1572v1,2010-03-08T08:56:17Z,Expressiveness and Extensions of an Instruction Sequence Semigroup,Stephan Schroevers,cs.PL,http://arxiv.org/pdf/1003.1572v1
+1003.2547v1,2010-03-12T14:31:23Z,The C Object System: Using C as a High-Level Object-Oriented Language,Laurent Deniau,cs.PL,http://arxiv.org/pdf/1003.2547v1
+1003.2871v1,2010-03-15T09:59:16Z,Implementing Multi-Periodic Critical Systems: from Design to Code   Generation,Claire Pagetti,cs.PL,http://arxiv.org/pdf/1003.2871v1
+1003.5197v3,2010-03-26T18:23:35Z,Lazy Evaluation and Delimited Control,Amr Sabry,cs.PL,http://arxiv.org/pdf/1003.5197v3
+1005.4022v1,2010-05-21T17:35:59Z,Molecular Programming Pseudo-code Representation to Molecular   Electronics,E. G. Rajan,cs.PL,http://arxiv.org/pdf/1005.4022v1
+1005.4798v2,2010-05-26T12:34:37Z,"Introduction to the Report ""Interlanguages and Synchronic Models of   Computation.""",Alexander Victor Berka,cs.PL,http://arxiv.org/pdf/1005.4798v2
+1005.5183v1,2010-05-27T21:42:27Z,Interlanguages and synchronic models of computation,Alexander Victor Berka,cs.PL,http://arxiv.org/pdf/1005.5183v1
+1005.5278v2,2010-05-28T12:33:37Z,Positive Supercompilation for a Higher-Order Call-By-Value Language,Johan Nordlander,cs.PL,http://arxiv.org/pdf/1005.5278v2
+1006.2816v1,2010-06-14T19:42:24Z,An approach to find dynamic slice for C++ Program,Priya Arundhati,cs.PL,http://arxiv.org/pdf/1006.2816v1
+1006.3039v2,2010-06-15T17:44:15Z,Concurrent Goal-Based Execution of Constraint Handling Rules,Martin Sulzmann,cs.PL,http://arxiv.org/pdf/1006.3039v2
+1103.0812v1,2011-03-04T02:14:29Z,The Language Features and Architecture of B-Prolog,Neng-Fa Zhou,cs.PL,http://arxiv.org/pdf/1103.0812v1
+1103.1362v4,2011-03-07T20:06:23Z,Higher-Order Symbolic Execution via Contracts,David Van Horn,cs.PL,http://arxiv.org/pdf/1103.1362v4
+1103.2841v2,2011-03-15T04:03:54Z,Functor is to Lens as Applicative is to Biplate: Introducing Multiplate,Russell O'Connor,cs.PL,http://arxiv.org/pdf/1103.2841v2
+1103.4133v2,2011-03-21T20:01:02Z,An ER-based Framework for Declarative Web Programming,Sven Koschnicke,cs.PL,http://arxiv.org/pdf/1103.4133v2
+1103.5055v2,2011-03-25T18:19:55Z,Nested Refinements for Dynamic Languages,Ranjit Jhala,cs.PL,http://arxiv.org/pdf/1103.5055v2
+1103.5167v2,2011-03-26T21:39:58Z,A family of abstract interpretations for static analysis of concurrent   higher-order programs,David Van Horn,cs.PL,http://arxiv.org/pdf/1103.5167v2
+1104.1351v1,2011-04-07T15:12:56Z,JavaCtx: Seamless Toolchain Integration for Context-Oriented Programming,Matteo Pradella,cs.PL,http://arxiv.org/pdf/1104.1351v1
+1104.2293v1,2011-04-12T18:31:17Z,Reactive Imperative Programming with Dataflow Constraints,Andrea Ribichini,cs.PL,http://arxiv.org/pdf/1104.2293v1
+1104.3116v3,2011-04-15T17:27:30Z,"Simple, Decidable Type Inference with Subtyping",Eli Gottlieb,cs.PL,http://arxiv.org/pdf/1104.3116v3
+1104.4306v1,2011-04-21T16:30:11Z,Quantitative Synthesis for Concurrent Programs,Rohit Singh,cs.PL,http://arxiv.org/pdf/1104.4306v1
+1112.1751v1,2011-12-08T02:17:18Z,Unicode in Domain-Specific Programming Languages for Modeling &   Simulation: ScalaTion as a Case Study,Tom Horton,cs.PL,http://arxiv.org/pdf/1112.1751v1
+1112.3779v1,2011-12-16T12:24:02Z,Single Time-Stamped Tries for Retroactive Call Subsumption,Ricardo Rocha,cs.PL,http://arxiv.org/pdf/1112.3779v1
+1112.3780v1,2011-12-16T12:24:12Z,Global Trie for Subterms,Ricardo Rocha,cs.PL,http://arxiv.org/pdf/1112.3780v1
+1112.3782v1,2011-12-16T12:24:21Z,Computing with Hereditarily Finite Sequences,Paul Tarau,cs.PL,http://arxiv.org/pdf/1112.3782v1
+1112.3783v1,2011-12-16T12:24:31Z,L-FLAT: Logtalk Toolkit for Formal Languages and Automata Theory,Artur Miguel Dias,cs.PL,http://arxiv.org/pdf/1112.3783v1
+1112.3784v1,2011-12-16T12:25:12Z,Using Constraint Handling Rules to Provide Static Type Analysis for the   Q Functional Language,Péter Szeredi,cs.PL,http://arxiv.org/pdf/1112.3784v1
+1112.3785v1,2011-12-16T12:25:28Z,Nesting Probabilistic Inference,Gerda Janssens,cs.PL,http://arxiv.org/pdf/1112.3785v1
+1112.3786v2,2011-12-16T12:25:42Z,High-Level Multi-Threading in hProlog,Bart Demoen,cs.PL,http://arxiv.org/pdf/1112.3786v2
+1112.3787v1,2011-12-16T12:26:59Z,Approximating Constraint Propagation in Datalog,Tom Schrijvers,cs.PL,http://arxiv.org/pdf/1112.3787v1
+1112.3788v1,2011-12-16T12:27:09Z,Bijective Term Encodings,Paul Tarau,cs.PL,http://arxiv.org/pdf/1112.3788v1
+1112.3789v1,2011-12-16T12:27:19Z,An Implementation of Bubbling,Enrico Pontelli,cs.PL,http://arxiv.org/pdf/1112.3789v1
+1112.3833v1,2011-12-16T14:48:42Z,Dependently Typed Programming based on Automated Theorem Proving,Georg Struth,cs.PL,http://arxiv.org/pdf/1112.3833v1
+1112.4106v3,2011-12-18T01:42:11Z,Dependent Types for JavaScript,Ranjit Jhala,cs.PL,http://arxiv.org/pdf/1112.4106v3
+1112.4993v1,2011-12-21T11:31:42Z,"Online Proceedings of the 11th International Colloquium on   Implementation of Constraint LOgic Programming Systems (CICLOPS 2011),   Lexington, KY, U.S.A., July 10, 2011",Vitor Santos Costa,cs.PL,http://arxiv.org/pdf/1112.4993v1
+1112.5000v1,2011-12-21T12:01:37Z,Lazy Pointer Analysis,Prashant Singh Rawat,cs.PL,http://arxiv.org/pdf/1112.5000v1
+1112.6096v1,2011-12-28T10:49:18Z,Solving XCSP problems by using Gecode,Maurizio Gabbrielli,cs.PL,http://arxiv.org/pdf/1112.6096v1
+1211.0865v2,2012-11-05T14:05:51Z,A Rewriting View of Simple Typing,Ruba El Haj Omar,cs.PL,http://arxiv.org/pdf/1211.0865v2
+1211.2609v5,2012-11-12T13:39:51Z,Honesty by Typing,Roberto Zunino,cs.PL,http://arxiv.org/pdf/1211.2609v5
+1211.2776v1,2012-11-12T20:40:59Z,A Type System for the Automatic Distribution of Higher-order Synchronous   Dataflow Programs,Marc Pouzet,cs.PL,http://arxiv.org/pdf/1211.2776v1
+1211.3722v4,2012-11-15T20:37:01Z,Optimizing Abstract Abstract Machines,David Van Horn,cs.PL,http://arxiv.org/pdf/1211.3722v4
+1211.6193v1,2012-11-27T02:37:06Z,Formal Semantics of Heterogeneous CUDA-C: A Modular Approach with   Applications,Adam Procter,cs.PL,http://arxiv.org/pdf/1211.6193v1
+1211.6418v1,2012-11-27T20:48:02Z,Measuring Time in Sporting Competitions with the Domain-Specific   Language EasyTime,Iztok Fister,cs.PL,http://arxiv.org/pdf/1211.6418v1
+1301.0748v1,2013-01-04T15:23:43Z,libcppa - Designing an Actor Semantic for C++11,Thomas C. Schmidt,cs.PL,http://arxiv.org/pdf/1301.0748v1
+1301.2903v1,2013-01-14T10:22:57Z,GADTs meet subtyping,Didier Rémy,cs.PL,http://arxiv.org/pdf/1301.2903v1
+1301.4334v1,2013-01-18T09:57:39Z,Deriving program transformations by demonstration,Geoffrey C. Hulette,cs.PL,http://arxiv.org/pdf/1301.4334v1
+1301.4779v1,2013-01-21T08:12:22Z,Formal Verification of Hardware Synthesis,Adam Chlipala,cs.PL,http://arxiv.org/pdf/1301.4779v1
+1301.4858v1,2013-01-21T13:18:10Z,A DSL for Mapping Abstract Syntax Models to Concrete Syntax Models in   ModelCC,Juan-Carlos Cubero,cs.PL,http://arxiv.org/pdf/1301.4858v1
+1301.6260v1,2013-01-26T14:25:54Z,Problems of Inheritance at Java Inner Class,Sim-Hui Tee,cs.PL,http://arxiv.org/pdf/1301.6260v1
+1301.6836v1,2013-01-29T06:02:21Z,Towards Interactive Object-Oriented Programming,Mi-Young Park,cs.PL,http://arxiv.org/pdf/1301.6836v1
+1301.7680v1,2013-01-31T16:55:52Z,Efficient Support for Mode-Directed Tabling in the YapTab Tabling System,Ricardo Rocha,cs.PL,http://arxiv.org/pdf/1301.7680v1
+1301.7690v1,2013-01-31T17:19:21Z,On Comparing Alternative Splitting Strategies for Or-Parallel Prolog   Execution on Multicores,Fernando Silva,cs.PL,http://arxiv.org/pdf/1301.7690v1
+1301.7694v1,2013-01-31T17:26:09Z,Reversible Language Extensions and their Application in Debugging,Manuel V. Hermenegildo,cs.PL,http://arxiv.org/pdf/1301.7694v1
+1301.7702v1,2013-01-31T17:49:20Z,The Ciao clp(FD) Library. A Modular CLP Extension for Prolog,José F. Morales,cs.PL,http://arxiv.org/pdf/1301.7702v1
+1305.3163v8,2013-05-14T14:19:00Z,Abstracting Abstract Control (Extended),David Van Horn,cs.PL,http://arxiv.org/pdf/1305.3163v8
+1305.4584v1,2013-05-20T17:38:19Z,Functional Package Management with Guix,Ludovic Courtès,cs.PL,http://arxiv.org/pdf/1305.4584v1
+1305.4957v1,2013-05-21T20:35:20Z,Propositional Encoding of Constraints over Tree-Shaped Data,Johannes Waldmann,cs.PL,http://arxiv.org/pdf/1305.4957v1
+1305.6108v2,2013-05-27T05:22:24Z,Bounded Choice Queries for Logic Programming,Keehang Kwon,cs.PL,http://arxiv.org/pdf/1305.6108v2
+1305.6721v1,2013-05-29T08:38:32Z,Type-based Dependency Analysis for JavaScript,Peter Thiemann,cs.PL,http://arxiv.org/pdf/1305.6721v1
+1306.1870v1,2013-06-08T02:22:42Z,The Cyan Language,José de Oliveira Guimarães,cs.PL,http://arxiv.org/pdf/1306.1870v1
+1306.1901v1,2013-06-08T10:10:05Z,Eventual Linear Ranking Functions,Fred Mesnard,cs.PL,http://arxiv.org/pdf/1306.1901v1
+1306.1919v1,2013-06-08T13:31:59Z,Practical Inlining of Functions with Free Variables,Nora Sandler,cs.PL,http://arxiv.org/pdf/1306.1919v1
+1306.2291v1,2013-06-10T19:12:57Z,Optimal multi-binding unification for sharing and linearity analysis,Francesca Scozzari,cs.PL,http://arxiv.org/pdf/1306.2291v1
+1306.2692v1,2013-06-12T01:55:23Z,Indexed Labels for Loop Iteration Dependent Costs,Paolo Tranquilli,cs.PL,http://arxiv.org/pdf/1306.2692v1
+1306.4473v2,2013-06-19T10:03:01Z,A Generic Scheme and Properties of Bidirectional Transformations,Janis Voigtländer,cs.PL,http://arxiv.org/pdf/1306.4473v2
+1306.4713v2,2013-06-19T22:33:39Z,From Principles to Practice with Class in the First Year,David Van Horn,cs.PL,http://arxiv.org/pdf/1306.4713v2
+1306.4898v2,2013-06-20T14:49:35Z,Survey on Instruction Selection: An Extensive and Modern Literature   Review,Gabriel S. Hjort Blindell,cs.PL,http://arxiv.org/pdf/1306.4898v2
+1306.5061v1,2013-06-21T06:53:04Z,Towards Tree Automata-based Success Types,Peter Thiemann,cs.PL,http://arxiv.org/pdf/1306.5061v1
+1306.5142v1,2013-06-21T14:01:43Z,Fake Run-Time Selection of Template Arguments in C++,Jerry P. Draayer,cs.PL,http://arxiv.org/pdf/1306.5142v1
+1306.5930v1,2013-06-25T11:54:48Z,The Green Language,José de Oliveira Guimarães,cs.PL,http://arxiv.org/pdf/1306.5930v1
+1306.6029v4,2013-06-25T16:49:16Z,AstraKahn: A Coordination Language for Streaming Networks,Alex Shafarenko,cs.PL,http://arxiv.org/pdf/1306.6029v4
+1306.6032v1,2013-06-25T16:52:51Z,Complete and Easy Bidirectional Typechecking for Higher-Rank   Polymorphism,Neelakantan R. Krishnaswami,cs.PL,http://arxiv.org/pdf/1306.6032v1
+1306.6047v2,2013-06-25T17:57:00Z,How fast can we make interpreted Python?,Alex Rubinsteyn,cs.PL,http://arxiv.org/pdf/1306.6047v2
+1306.6526v4,2013-06-27T14:48:27Z,Inference of Field-Sensitive Reachability and Cyclicity,Samir Genaim,cs.PL,http://arxiv.org/pdf/1306.6526v4
+1306.6856v1,2013-06-28T14:38:13Z,Linear Dependent Types for Domain Specific Program Analysis (Extended   Abstract),Marco Gaboardi,cs.PL,http://arxiv.org/pdf/1306.6856v1
+1308.1246v2,2013-08-06T11:46:02Z,Bounded-Choice Statements for User Interaction in Imperative and   Object-Oriented Programming,Daeseong Kang,cs.PL,http://arxiv.org/pdf/1308.1246v2
+1308.2055v3,2013-08-09T09:03:57Z,Proceedings of the 23rd Workshop on Logic-based methods in Programming   Environments (WLPE 2013),Jose Morales,cs.PL,http://arxiv.org/pdf/1308.2055v3
+1308.3203v1,2013-08-14T18:30:37Z,Detecting Data Races on OpenCL Kernels with Symbolic Execution,Jeremy Dubreil,cs.PL,http://arxiv.org/pdf/1308.3203v1
+1308.3937v1,2013-08-19T07:15:16Z,Compiling Finite Domain Constraints to SAT with BEE: the Director's Cut,Amit Metodi,cs.PL,http://arxiv.org/pdf/1308.3937v1
+1308.3938v1,2013-08-19T07:15:23Z,Efficiently Retrieving Function Dependencies in the Linux Kernel Using   XSB,David S. Warren,cs.PL,http://arxiv.org/pdf/1308.3938v1
+1308.3939v1,2013-08-19T07:15:27Z,Implementing Constraint Handling Rules as a Domain-Specific Language   Embedded in Java,Dragan Ivanović,cs.PL,http://arxiv.org/pdf/1308.3939v1
+1308.3940v1,2013-08-19T07:15:30Z,Towards an Abstract Domain for Resource Analysis of Logic Programs Using   Sized Types,Manuel Hermenegildo,cs.PL,http://arxiv.org/pdf/1308.3940v1
+1308.3941v1,2013-08-19T07:15:38Z,Why It's Nice to be Quoted: Quasiquoting for Prolog,Michael Hendricks,cs.PL,http://arxiv.org/pdf/1308.3941v1
+1308.4452v3,2013-08-21T00:13:32Z,A New Statement for Selection and Exception Handling in Imperative   Languages,Keehang Kwon,cs.PL,http://arxiv.org/pdf/1308.4452v3
+1308.4815v2,2013-08-22T10:14:43Z,Machine Code Optimization - Improving Executable Object Code,Clinton F. Goss,cs.PL,http://arxiv.org/pdf/1308.4815v2
+1308.6096v1,2013-08-28T08:59:41Z,Micro Spitbol,Clinton F. Goss,cs.PL,http://arxiv.org/pdf/1308.6096v1
+1309.0339v2,2013-09-02T09:44:28Z,Infinite probability computation by cyclic explanation graphs,Philipp Meyer,cs.PL,http://arxiv.org/pdf/1309.0339v2
+1309.1251v1,2013-09-05T07:45:00Z,Pattern Matching via Choice Existential Quantifications in Imperative   Languages,Keehang Kwon,cs.PL,http://arxiv.org/pdf/1309.1251v1
+1309.1307v1,2013-09-05T10:48:52Z,C++11 -- idea r-wartości i przenoszenia,Piotr Beling,cs.PL,http://arxiv.org/pdf/1309.1307v1
+1309.2348v2,2013-09-10T00:10:04Z,An Overview of Nominal-Typing versus Structural-Typing in   Object-Oriented Programming (with code examples),Moez A. AbdelGawad,cs.PL,http://arxiv.org/pdf/1309.2348v2
+1309.2511v1,2013-09-10T13:53:09Z,On Sound Compilation of Reals,Viktor Kuncak,cs.PL,http://arxiv.org/pdf/1309.2511v1
+1309.3128v1,2013-09-12T12:04:49Z,Preliminary Notes on Termination and Non-Termination Reasoning,Ton Chanh Le,cs.PL,http://arxiv.org/pdf/1309.3128v1
+1309.4334v1,2013-09-17T14:50:22Z,Representing Code History with Development Environment Events,Stéphane Ducasse,cs.PL,http://arxiv.org/pdf/1309.4334v1
+1309.5131v1,2013-09-20T01:43:25Z,Abstract interpretation-based approaches to Security - A Survey on   Abstract Non-Interference and its Challenging Applications,Isabella Mastroeni,cs.PL,http://arxiv.org/pdf/1309.5131v1
+1309.5132v1,2013-09-20T01:43:32Z,Notions of Monad Strength,Philip Mulry,cs.PL,http://arxiv.org/pdf/1309.5132v1
+1309.5133v1,2013-09-20T01:43:40Z,Abstract Interpretation as a Programming Language,Mads Rosendahl,cs.PL,http://arxiv.org/pdf/1309.5133v1
+1309.5144v1,2013-09-20T01:45:17Z,A Simple Semantics and Static Analysis for Stack Inspection,David A. Naumann,cs.PL,http://arxiv.org/pdf/1309.5144v1
+1309.5147v1,2013-09-20T01:45:44Z,A short note on Simulation and Abstraction,Chris Hankin,cs.PL,http://arxiv.org/pdf/1309.5147v1
+1309.5500v1,2013-09-21T16:48:22Z,PRoMoTo 2013 proceedings,Vinayak Naik,cs.PL,http://arxiv.org/pdf/1309.5500v1
+1312.0018v1,2013-11-29T21:06:29Z,Tracking Data-Flow with Open Closure Types,Jan Hoffmann,cs.PL,http://arxiv.org/pdf/1312.0018v1
+1312.0078v1,2013-11-30T08:48:02Z,Hop and HipHop : Multitier Web Orchestration,Manuel Serrano,cs.PL,http://arxiv.org/pdf/1312.0078v1
+1312.0138v1,2013-11-30T18:43:31Z,The bitwise operations related to a fast sorting algorithm,Krasimir Yordzhev,cs.PL,http://arxiv.org/pdf/1312.0138v1
+1312.0342v1,2013-12-02T06:59:06Z,The Petri-Nets to Statecharts Transformation Case,Louis M. Rose,cs.PL,http://arxiv.org/pdf/1312.0342v1
+1312.0658v1,2013-12-02T23:23:36Z,A Theory of Changes for Higher-Order Languages - Incrementalizing   λ-Calculi by Static Differentiation,Klaus Ostermann,cs.PL,http://arxiv.org/pdf/1312.0658v1
+1312.0694v2,2013-12-03T04:24:44Z,Monotonic References for Gradual Typing,Michael M. Vitousek,cs.PL,http://arxiv.org/pdf/1312.0694v2
+1312.1529v1,2013-12-05T12:53:56Z,Instruction sequence expressions for the Karatsuba multiplication   algorithm,C. A. Middelburg,cs.PL,http://arxiv.org/pdf/1312.1529v1
+1312.1812v3,2013-12-06T09:41:06Z,Long multiplication by instruction sequences with backward jump   instructions,C. A. Middelburg,cs.PL,http://arxiv.org/pdf/1312.1812v3
+1312.2218v1,2013-12-08T14:19:11Z,Proceedings 5th Workshop on Programming Language Approaches to   Concurrency and Communication-cEntric Software,Wim Vanderbauwhede,cs.PL,http://arxiv.org/pdf/1312.2218v1
+1312.2704v1,2013-12-10T08:04:18Z,Session Types Go Dynamic or How to Verify Your Python Conversations,Rumyana Neykova,cs.PL,http://arxiv.org/pdf/1312.2704v1
+1312.2707v1,2013-12-10T08:04:46Z,Minimising virtual machine support for concurrency,Barry Porter,cs.PL,http://arxiv.org/pdf/1312.2707v1
+1312.3184v1,2013-12-11T14:24:53Z,Efficient Dynamic Access Analysis Using JavaScript Proxies,Peter Thiemann,cs.PL,http://arxiv.org/pdf/1312.3184v1
+1312.3739v1,2013-12-13T09:22:30Z,Semantics of (Resilient) X10,Olivier Tardieu,cs.PL,http://arxiv.org/pdf/1312.3739v1
+1312.4328v1,2013-12-16T12:04:39Z,Probabilistic Programming Concepts,Angelika Kimmig,cs.PL,http://arxiv.org/pdf/1312.4328v1
+1312.4454v2,2013-12-16T18:39:55Z,Exploiting Parallelism in Coalgebraic Logic Programming,Jónathan Heras,cs.PL,http://arxiv.org/pdf/1312.4454v2
+1312.5429v1,2013-12-19T07:56:11Z,On the Proxy Identity Crisis,Peter Thiemann,cs.PL,http://arxiv.org/pdf/1312.5429v1
+1312.6568v1,2013-12-23T15:19:27Z,Coalgebraic Logic Programming: from Semantics to Implementation,Martin Schmidt,cs.PL,http://arxiv.org/pdf/1312.6568v1
+1312.6624v3,2013-12-23T18:07:08Z,Shape and Content: Incorporating Domain Knowledge into Shape Analysis,Florian Zuleger,cs.PL,http://arxiv.org/pdf/1312.6624v3
+1401.1460v5,2014-01-07T18:01:41Z,Maximal Sharing in the Lambda Calculus with letrec,Jan Rochel,cs.PL,http://arxiv.org/pdf/1401.1460v5
+1401.5097v1,2014-01-20T21:32:38Z,Distributed call-by-value machines,Olle Fredriksson,cs.PL,http://arxiv.org/pdf/1401.5097v1
+1401.5292v1,2014-01-21T12:35:09Z,Non-Termination Analysis of Java Bytecode,Fausto Spoto,cs.PL,http://arxiv.org/pdf/1401.5292v1
+1401.5391v1,2014-01-21T17:23:45Z,The semantic marriage of monads and effects,Alan Mycroft,cs.PL,http://arxiv.org/pdf/1401.5391v1
+1401.6227v1,2014-01-24T00:45:45Z,From Safety To Termination And Back: SMT-Based Verification For Lazy   Languages,Ranjit Jhala,cs.PL,http://arxiv.org/pdf/1401.6227v1
+1402.0087v1,2014-02-01T14:07:59Z,A novel datatype architecture support for programming languages,Reza Ebrahimi Atani,cs.PL,http://arxiv.org/pdf/1402.0087v1
+1402.0671v1,2014-02-04T09:36:34Z,Loop Unrolling in Multi-pipeline ASIP Design,Roshan Ragel,cs.PL,http://arxiv.org/pdf/1402.0671v1
+1402.1287v1,2014-02-06T09:34:01Z,Towards High Performance Computing (Hpc) Through Parallel Programming   Paradigms and Their Principles,Brijender Kahanwal,cs.PL,http://arxiv.org/pdf/1402.1287v1
+1402.1699v2,2014-02-07T17:21:14Z,A Representation Theorem for Second-Order Functionals,Russell O'Connor,cs.PL,http://arxiv.org/pdf/1402.1699v2
+1402.4043v3,2014-02-17T15:58:49Z,Between Linearizability and Quiescent Consistency: Quantitative   Quiescent Consistency,James Riely,cs.PL,http://arxiv.org/pdf/1402.4043v3
+1402.4843v5,2014-02-19T22:50:29Z,Exercise: +-1 bug and center of an array problem,Aleksandar Perisic,cs.PL,http://arxiv.org/pdf/1402.4843v5
+1403.1477v3,2014-03-06T16:18:12Z,Linear usage of state,Sam Staton,cs.PL,http://arxiv.org/pdf/1403.1477v3
+1403.2765v2,2014-03-11T21:35:41Z,Generalizers: New Metaobjects for Generalized Dispatch,David Lichteblau,cs.PL,http://arxiv.org/pdf/1403.2765v2
+1403.3336v1,2014-03-13T17:31:39Z,Executable Refinement Types,Kenneth Knowles,cs.PL,http://arxiv.org/pdf/1403.3336v1
+1403.3996v1,2014-03-17T04:29:25Z,"JSAI: Designing a Sound, Configurable, and Efficient Static Analyzer for   JavaScript",Ben Hardekopf,cs.PL,http://arxiv.org/pdf/1403.3996v1
+1403.4064v2,2014-03-17T11:09:59Z,Feedback Generation for Performance Problems in Introductory Programming   Assignments,Florian Zuleger,cs.PL,http://arxiv.org/pdf/1403.4064v2
+1403.4910v5,2014-03-19T18:59:56Z,Heap Abstractions for Static Analysis,Uday P. Khedker,cs.PL,http://arxiv.org/pdf/1403.4910v5
+1403.5843v3,2014-03-24T03:34:49Z,Efficient Synthesis of Network Updates,Nate Foster,cs.PL,http://arxiv.org/pdf/1403.5843v3
+1403.5952v1,2014-03-21T18:44:06Z,Parameterized Construction of Program Representations for Sparse   Dataflow Analyses,Fabrice Rastello,cs.PL,http://arxiv.org/pdf/1403.5952v1
+1403.6997v1,2014-03-27T12:24:41Z,Optimizing large applications,Martin Liška,cs.PL,http://arxiv.org/pdf/1403.6997v1
+1406.0582v1,2014-06-03T06:04:52Z,A Tiling Perspective for Register Optimization,Duco Van Amstel,cs.PL,http://arxiv.org/pdf/1406.0582v1
+1406.1393v1,2014-06-05T14:09:30Z,Interclausal Logic Variables,Fahmida Hamid,cs.PL,http://arxiv.org/pdf/1406.1393v1
+1406.1510v1,2014-06-05T20:11:27Z,Proceedings of the Eleventh Workshop on Constraint Handling Rules,Jon Sneyers,cs.PL,http://arxiv.org/pdf/1406.1510v1
+1406.2058v1,2014-06-09T03:29:29Z,Monad Transformers for Backtracking Search,Jules Hedges,cs.PL,http://arxiv.org/pdf/1406.2058v1
+1406.2060v1,2014-06-09T03:30:05Z,Polymonadic Programming,Nikhil Swamy,cs.PL,http://arxiv.org/pdf/1406.2060v1
+1406.2061v1,2014-06-09T03:30:31Z,Koka: Programming with Row Polymorphic Effect Types,Daan Leijen,cs.PL,http://arxiv.org/pdf/1406.2061v1
+1406.2121v1,2014-06-09T10:03:26Z,Constraint Handling Rules with Multiset Comprehension Patterns,Iliano Cervesato,cs.PL,http://arxiv.org/pdf/1406.2121v1
+1406.2370v1,2014-06-09T21:44:34Z,Distilling Abstract Machines (Long Version),Damiano Mazza,cs.PL,http://arxiv.org/pdf/1406.2370v1
+1406.4087v1,2014-06-16T18:04:54Z,Java Modular Extension for Operator Overloading,Artem Melentyev,cs.PL,http://arxiv.org/pdf/1406.4087v1
+1406.5106v1,2014-06-19T16:51:12Z,Pushdown flow analysis with abstract garbage collection,David Van Horn,cs.PL,http://arxiv.org/pdf/1406.5106v1
+1406.5457v1,2014-06-19T19:35:27Z,Parametric Strategy Iteration,Helmut Seidl,cs.PL,http://arxiv.org/pdf/1406.5457v1
+1406.5715v2,2014-06-22T12:34:17Z,Lost in Abstraction: Monotonicity in Multi-Threaded Programs (Extended   Technical Report),Thomas Wahl,cs.PL,http://arxiv.org/pdf/1406.5715v2
+1406.6163v1,2014-06-24T08:04:36Z,Group Communication Patterns for High Performance Computing in Scala,Peter Schneider-Kamp,cs.PL,http://arxiv.org/pdf/1406.6163v1
+1406.6631v2,2014-06-25T16:33:11Z,Clash of the Lambdas,Yannis Smaragdakis,cs.PL,http://arxiv.org/pdf/1406.6631v2
+1406.7497v1,2014-06-29T12:23:25Z,Domain Theory for Modeling OOP: A Summary,Moez A. AbdelGawad,cs.PL,http://arxiv.org/pdf/1406.7497v1
+1408.1458v1,2014-08-07T01:57:17Z,Distributive Laws and Decidable Properties of SOS Specifications,Beata Nachyła,cs.PL,http://arxiv.org/pdf/1408.1458v1
+1408.1754v1,2014-08-08T03:11:41Z,A Partial-Order Approach to Array Content Analysis,Peter J. Stuckey,cs.PL,http://arxiv.org/pdf/1408.1754v1
+1408.2564v1,2014-08-11T21:35:00Z,A Proposed Framework for Development of a Visualizer Based on Memory   Transfer Language (MTL),Ally S. Nyamawe,cs.PL,http://arxiv.org/pdf/1408.2564v1
+1408.5980v1,2014-08-26T02:15:51Z,Recursive Session Types Revisited,Ornela Dardha,cs.PL,http://arxiv.org/pdf/1408.5980v1
+1409.0393v2,2014-09-01T12:53:17Z,"Testing Noninterference, Quickly",Dimitrios Vytiniotis,cs.PL,http://arxiv.org/pdf/1409.0393v2
+1409.0757v3,2014-09-02T15:29:23Z,Approaches to Interpreter Composition,Laurence Tratt,cs.PL,http://arxiv.org/pdf/1409.0757v3
+1409.2089v1,2014-09-07T06:42:09Z,Perfrewrite -- Program Complexity Analysis via Source Code   Instrumentation,Michael Kruse,cs.PL,http://arxiv.org/pdf/1409.2089v1
+1409.2764v1,2014-09-09T14:56:12Z,"Innocent Strategies are Sheaves over Plays---Deterministic,   Non-deterministic and Probabilistic Innocence",C. -H. Luke Ong,cs.PL,http://arxiv.org/pdf/1409.2764v1
+1409.3108v1,2014-09-10T15:10:35Z,"Pruning, Pushdown Exception-Flow Analysis",David Van Horn,cs.PL,http://arxiv.org/pdf/1409.3108v1
+1409.3184v1,2014-09-10T18:39:44Z,Characterization of Termination for Linear Loop Programs,Nadir Matringe,cs.PL,http://arxiv.org/pdf/1409.3184v1
+1409.7514v3,2014-09-26T09:29:09Z,Coffman deadlocks in SCOOP,Bertrand Meyer,cs.PL,http://arxiv.org/pdf/1409.7514v3
+1409.7628v1,2014-09-26T16:32:07Z,Survey on Combinatorial Register Allocation and Instruction Scheduling,Christian Schulte,cs.PL,http://arxiv.org/pdf/1409.7628v1
+1409.7841v1,2014-09-27T21:05:38Z,Abstracting an operational semantics to finite automata,Martin Strecker,cs.PL,http://arxiv.org/pdf/1409.7841v1
+1410.0198v3,2014-10-01T12:17:40Z,Towards a Compiler for Reals,Viktor Kuncak,cs.PL,http://arxiv.org/pdf/1410.0198v3
+1410.2813v1,2014-10-10T15:43:34Z,Space-Efficient Manifest Contracts,Michael Greenberg,cs.PL,http://arxiv.org/pdf/1410.2813v1
+1410.3772v1,2014-10-12T15:16:55Z,Optimizing the For loop: Comparison of For loop and micro For loop,Sakshi Gupta,cs.PL,http://arxiv.org/pdf/1410.3772v1
+1410.4956v2,2014-10-18T13:43:53Z,Transforming while/do/for/foreach-Loops into Recursive Methods,Josep Silva,cs.PL,http://arxiv.org/pdf/1410.4956v2
+1410.5370v2,2014-10-20T17:48:20Z,Type Targeted Testing,Ranjit Jhala,cs.PL,http://arxiv.org/pdf/1410.5370v2
+1410.6449v2,2014-10-23T18:42:57Z,"Parallel Prefix Polymorphism Permits Parallelization, Presentation &   Proof",Alan Edelman,cs.PL,http://arxiv.org/pdf/1410.6449v2
+1410.7467v1,2014-10-28T00:40:55Z,Toward Sequentializing Overparallelized Protocol Code,Farhad Arbab,cs.PL,http://arxiv.org/pdf/1410.7467v1
+1411.0352v2,2014-11-03T03:46:18Z,Simple and Effective Type Check Removal through Lazy Basic Block   Versioning,Marc Feeley,cs.PL,http://arxiv.org/pdf/1411.0352v2
+1411.3962v5,2014-11-14T16:33:11Z,Galois Transformers and Modular Abstract Interpreters,David Van Horn,cs.PL,http://arxiv.org/pdf/1411.3962v5
+1411.3967v2,2014-11-14T16:44:31Z,Relatively Complete Counterexamples for Higher-Order Programs,David Van Horn,cs.PL,http://arxiv.org/pdf/1411.3967v2
+1411.5110v1,2014-11-19T04:34:35Z,Mutually Exclusive Procedures in Imperative Languages,Keehang Kwon,cs.PL,http://arxiv.org/pdf/1411.5110v1
+1411.5289v2,2014-11-19T16:58:18Z,Generalizing the Liveness Based Points-to Analysis,Vini Kanvar,cs.PL,http://arxiv.org/pdf/1411.5289v2
+1411.5573v1,2014-11-20T15:22:52Z,Description and Optimization of Abstract Machines in a Dialect of Prolog,Manuel Hermenegildo,cs.PL,http://arxiv.org/pdf/1411.5573v1
+1411.6361v1,2014-11-24T07:01:31Z,Hardware Counted Profile-Guided Optimization,David Levinthal,cs.PL,http://arxiv.org/pdf/1411.6361v1
+1411.7839v2,2014-11-28T12:32:39Z,An Abstract Interpretation-based Model of Tracing Just-In-Time   Compilation,Francesco Ranzato,cs.PL,http://arxiv.org/pdf/1411.7839v2
+1412.0961v1,2014-11-30T07:22:03Z,Analyzing Conflict Freedom For Multi-threaded Programs With Time   Annotations,Stephan Merz,cs.PL,http://arxiv.org/pdf/1412.0961v1
+1412.1221v1,2014-12-03T07:54:13Z,Sequential Operations in LogicWeb,Zulkarnine Mahmud,cs.PL,http://arxiv.org/pdf/1412.1221v1
+1412.1393v1,2014-12-03T16:34:11Z,CLAZY: Lazy Calling for Common Lisp,Marco Antoniotti,cs.PL,http://arxiv.org/pdf/1412.1393v1
+1412.2304v2,2014-12-07T02:24:21Z,Declaratively solving tricky Google Code Jam problems with Prolog-based   ECLiPSe CLP system,Mariia Mykhailova,cs.PL,http://arxiv.org/pdf/1412.2304v2
+1412.3729v1,2014-12-10T12:20:13Z,Non-termination of Dalvik bytecode via compilation to CLP,Fred Mesnard,cs.PL,http://arxiv.org/pdf/1412.3729v1
+1412.4053v2,2014-12-12T16:59:14Z,Running Probabilistic Programs Backwards,David Van Horn,cs.PL,http://arxiv.org/pdf/1412.4053v2
+1412.4184v1,2014-12-13T02:39:20Z,Procedural and Non-Procedural Implementation of Search Strategies in   Control Network Programming,Burak Ekici,cs.PL,http://arxiv.org/pdf/1412.4184v1
+1412.4395v1,2014-12-14T19:04:47Z,Dafny: Statically Verifying Functional Correctness,Rachel Gauci,cs.PL,http://arxiv.org/pdf/1412.4395v1
+1412.4480v2,2014-12-15T07:22:40Z,On Performance Debugging of Unnecessary Lock Contentions on Multicore   Processors: A Replay-based Approach,Hai Jin,cs.PL,http://arxiv.org/pdf/1412.4480v2
+1412.5150v1,2014-12-15T17:46:42Z,A Programming Model and Runtime System for Significance-Aware   Energy-Efficient Computing,Dimitrios S. Nikolopoulos,cs.PL,http://arxiv.org/pdf/1412.5150v1
+1412.5400v4,2014-12-17T14:12:12Z,Buffer Overflow Analysis for C,Uday P. Khedker,cs.PL,http://arxiv.org/pdf/1412.5400v4
+1412.7664v1,2014-12-24T14:15:19Z,Register Spilling for Specific Application Domains in Application   Specific Instruction-set Processors,R. G. Ragel,cs.PL,http://arxiv.org/pdf/1412.7664v1
+1412.8120v1,2014-12-28T06:49:23Z,Adapting Graph Application Performance via Alternate Data Structure   Representation,Rajiv Gupta,cs.PL,http://arxiv.org/pdf/1412.8120v1
+1501.00669v1,2015-01-04T12:19:57Z,Asynchronous Programming in a Prioritized Form,Mohamed A. El-Zawawy,cs.PL,http://arxiv.org/pdf/1501.00669v1
+1501.00720v1,2015-01-04T21:02:34Z,Concept-oriented programming: from classes to concepts and from   inheritance to inclusion,Alexandr Savinov,cs.PL,http://arxiv.org/pdf/1501.00720v1
+1501.02035v1,2015-01-09T04:00:31Z,Lifting Term Rewriting Derivations in Constructor Systems by Using   Generators,Juan Rodríguez-Hortalá,cs.PL,http://arxiv.org/pdf/1501.02035v1
+1501.02683v1,2015-01-12T15:50:07Z,Lazy TSO Reachability,Roland Meyer,cs.PL,http://arxiv.org/pdf/1501.02683v1
+1501.03839v1,2015-01-15T22:07:16Z,Yet Another Way of Building Exact Polyhedral Model for Weakly Dynamic   Affine Programs,Arkady Klimov,cs.PL,http://arxiv.org/pdf/1501.03839v1
+1501.04730v2,2015-01-20T07:53:09Z,Static Analysis of File-Processing Programs using File Format   Specifications,S. Narendran,cs.PL,http://arxiv.org/pdf/1501.04730v2
+1501.05338v2,2015-01-21T21:56:06Z,Semantics for Locking Specifications,Fausto Spoto,cs.PL,http://arxiv.org/pdf/1501.05338v2
+1501.05425v1,2015-01-22T08:45:10Z,Foundational Extensible Corecursion,Dmitriy Traytel,cs.PL,http://arxiv.org/pdf/1501.05425v1
+1501.06743v1,2015-01-27T11:04:59Z,Enhancing the performance of Decoupled Software Pipeline through   Backward Slicing,Julian Padget,cs.PL,http://arxiv.org/pdf/1501.06743v1
+1502.00238v2,2015-02-01T12:17:12Z,On instruction sets for Boolean registers in program algebra,C. A. Middelburg,cs.PL,http://arxiv.org/pdf/1502.00238v2
+1502.01278v2,2015-02-04T18:10:21Z,A Falsification View of Success Typing,Peter Thiemann,cs.PL,http://arxiv.org/pdf/1502.01278v2
+1502.02519v2,2015-02-09T15:20:03Z,Kickstarting Choreographic Programming,Fabrizio Montesi,cs.PL,http://arxiv.org/pdf/1502.02519v2
+1502.04772v1,2015-02-17T02:27:31Z,Type Classes for Lightweight Substructural Types,Greg Morrisett,cs.PL,http://arxiv.org/pdf/1502.04772v1
+1502.05094v1,2015-02-18T01:06:43Z,Observationally Cooperative Multithreading,Ari D. Schumer,cs.PL,http://arxiv.org/pdf/1502.05094v1
+1502.06286v1,2015-02-22T23:05:54Z,"StarL: Towards a Unified Framework for Programming, Simulating and   Verifying Distributed Robotic Systems",Sayan Mitra,cs.PL,http://arxiv.org/pdf/1502.06286v1
+1503.00375v4,2015-03-01T23:27:46Z,The lambda mechanism in lambda calculus and in other calculi,M. H. van Emden,cs.PL,http://arxiv.org/pdf/1503.00375v4
+1503.00622v4,2015-03-02T17:11:03Z,Interface Reconciliation in Kahn Process Networks using CSP and SAT,Alex Shafarenko,cs.PL,http://arxiv.org/pdf/1503.00622v4
+1503.00883v1,2015-03-03T10:35:47Z,Efficiently intertwining widening and narrowing,Vesal Vojdani,cs.PL,http://arxiv.org/pdf/1503.00883v1
+1503.04608v1,2015-03-16T11:16:36Z,Variability Abstractions: Trading Precision for Speed in Family-Based   Analyses (Extended Version),Andrzej Wąsowski,cs.PL,http://arxiv.org/pdf/1503.04608v1
+1503.04908v1,2015-03-17T03:58:44Z,Liquid Intersection Types,Mário Florido,cs.PL,http://arxiv.org/pdf/1503.04908v1
+1503.05445v1,2015-03-18T15:13:12Z,Danger Invariants,Matt Lewis,cs.PL,http://arxiv.org/pdf/1503.05445v1
+1503.06061v1,2015-03-20T13:28:02Z,The selection monad as a CPS transformation,Jules Hedges,cs.PL,http://arxiv.org/pdf/1503.06061v1
+1503.07073v3,2015-03-24T15:23:16Z,Overhauling SC Atomics in C11 and OpenCL,John Wickerson,cs.PL,http://arxiv.org/pdf/1503.07073v3
+1503.07792v5,2015-03-26T17:13:34Z,Incremental Computation with Names,David Van Horn,cs.PL,http://arxiv.org/pdf/1503.07792v5
+1503.08623v3,2015-03-30T10:10:18Z,Fine-grained Language Composition: A Case Study,Laurence Tratt,cs.PL,http://arxiv.org/pdf/1503.08623v3
+1503.08665v2,2015-03-30T13:31:38Z,A Linear First-Order Functional Intermediate Language for Verified   Compilers,Sebastian Hack,cs.PL,http://arxiv.org/pdf/1503.08665v2
+1503.09006v2,2015-03-31T11:36:46Z,"Fast, Multicore-Scalable, Low-Fragmentation Memory Allocation through   Large Virtual Memory and Global Data Structures",Ana Sokolova,cs.PL,http://arxiv.org/pdf/1503.09006v2
+1503.09097v1,2015-03-31T15:49:55Z,Open Transactions on Shared Memory,Andrea Toneguzzo,cs.PL,http://arxiv.org/pdf/1503.09097v1
+1504.00198v1,2015-04-01T12:29:10Z,Conditioning in Probabilistic Programming,Federico Olmedo,cs.PL,http://arxiv.org/pdf/1504.00198v1
+1504.00527v1,2015-04-02T12:40:18Z,Functional Programming is Free,Francis Sergeraert,cs.PL,http://arxiv.org/pdf/1504.00527v1
+1504.00693v1,2015-04-02T21:14:38Z,Comparative Studies of Six Programming Languages,Chitrang Pandit,cs.PL,http://arxiv.org/pdf/1504.00693v1
+1504.00977v1,2015-04-04T03:30:22Z,Declaratively solving Google Code Jam problems with Picat,Mariia Mykhailova,cs.PL,http://arxiv.org/pdf/1504.00977v1
+1504.01842v5,2015-04-08T06:24:38Z,Formal Certification of Android Bytecode,Rajeev Gore,cs.PL,http://arxiv.org/pdf/1504.01842v5
+1504.02603v1,2015-04-10T09:31:32Z,A Simple Parallel Implementation of Interaction Nets in Haskell,Wolfram Kahl,cs.PL,http://arxiv.org/pdf/1504.02603v1
+1504.02621v1,2015-04-10T09:50:23Z,A Reference Interpreter for the Graph Programming Language GP 2,Colin Runciman,cs.PL,http://arxiv.org/pdf/1504.02621v1
+1504.03239v1,2015-04-13T16:14:43Z,Global Value Numbering: A Precise and Efficient Algorithm,Rekha R Pai,cs.PL,http://arxiv.org/pdf/1504.03239v1
+1504.05372v1,2015-04-21T10:19:57Z,Inferring Program Transformations from Type Transformations for   Partitioning of Ordered Sets,Wim Vanderbauwhede,cs.PL,http://arxiv.org/pdf/1504.05372v1
+1504.07680v3,2015-04-28T22:50:15Z,Elaborating Evaluation-Order Polymorphism,Joshua Dunfield,cs.PL,http://arxiv.org/pdf/1504.07680v3
+1504.07862v1,2015-04-29T13:58:42Z,Anonymous On-line Communication Between Program Analyses,Marek Trtik,cs.PL,http://arxiv.org/pdf/1504.07862v1
+1504.08033v1,2015-04-29T21:46:52Z,Automating Abstract Interpretation of Abstract Machines,James Ian Johnson,cs.PL,http://arxiv.org/pdf/1504.08033v1
+1504.08039v1,2015-04-29T22:31:14Z,"Trust, but Verify: Two-Phase Typing for Dynamic Languages",Ranjit Jhala,cs.PL,http://arxiv.org/pdf/1504.08039v1
+1504.08100v1,2015-04-30T07:20:13Z,Transparent Object Proxies for JavaScript,Peter Thiemann,cs.PL,http://arxiv.org/pdf/1504.08100v1
+1504.08110v1,2015-04-30T08:18:29Z,TreatJS: Higher-Order Contracts for JavaScript,Peter Thiemann,cs.PL,http://arxiv.org/pdf/1504.08110v1
+1505.00017v1,2015-04-30T20:16:47Z,Comparative Analysis of Classic Garbage-Collection Algorithms for a   Lisp-like Language,Jonathan Liao,cs.PL,http://arxiv.org/pdf/1505.00017v1
+1505.02298v2,2015-05-09T17:52:27Z,Predicate Abstraction for Linked Data Structures,Ranjit Jhala,cs.PL,http://arxiv.org/pdf/1505.02298v2
+1505.02642v1,2015-05-11T14:40:29Z,Featherweight PINQ,David Sands,cs.PL,http://arxiv.org/pdf/1505.02642v1
+1505.02878v2,2015-05-12T05:38:53Z,Refinement Type Inference via Horn Constraint Optimization,Hiroshi Unno,cs.PL,http://arxiv.org/pdf/1505.02878v2
+1505.04533v1,2015-05-18T07:25:17Z,From Non-preemptive to Preemptive Scheduling using Synchronization   Synthesis,Thorsten Tarrach,cs.PL,http://arxiv.org/pdf/1505.04533v1
+1505.05868v1,2015-05-21T19:58:46Z,Synthesis through Unification,Arjun Radhakrishna,cs.PL,http://arxiv.org/pdf/1505.05868v1
+1505.06003v1,2015-05-22T09:29:05Z,Opportunities for a Truffle-based Golo Interpreter,Yannick Loiseau,cs.PL,http://arxiv.org/pdf/1505.06003v1
+1505.07368v1,2015-05-27T15:16:57Z,Revisiting Actor Programming in C++,Thomas C. Schmidt,cs.PL,http://arxiv.org/pdf/1505.07368v1
+1505.07375v1,2015-05-26T04:16:50Z,The Mysteries of Lisp -- I: The Way to S-expression Lisp,Hong-Yi Dai,cs.PL,http://arxiv.org/pdf/1505.07375v1
+1505.07383v1,2015-05-26T18:49:02Z,Experience Report: Developing the Servo Web Browser Engine using Rust,Simon Sapin,cs.PL,http://arxiv.org/pdf/1505.07383v1
+1506.01949v1,2015-06-05T15:57:26Z,Denotational cost semantics for functional languages with inductive   types,Ramyaa Ramyaa,cs.PL,http://arxiv.org/pdf/1506.01949v1
+1506.04205v2,2015-06-13T00:45:35Z,Gradual Certified Programming in Coq,Nicolas Tabareau,cs.PL,http://arxiv.org/pdf/1506.04205v2
+1506.04498v1,2015-06-15T07:48:14Z,Egison: Non-Linear Pattern-Matching against Non-Free Data Types,Satoshi Egi,cs.PL,http://arxiv.org/pdf/1506.04498v1
+1506.04857v1,2015-06-16T07:09:05Z,Mutually Exclusive Modules in Logic Programming,Keehang Kwon,cs.PL,http://arxiv.org/pdf/1506.04857v1
+1506.05270v1,2015-06-17T10:28:41Z,jUCM: Universal Class Morphing (position paper),Yannis Smaragdakis,cs.PL,http://arxiv.org/pdf/1506.05270v1
+1506.05893v1,2015-06-19T07:37:01Z,On Systematic Testing for Execution-Time Analysis,Sanjit A. Seshia,cs.PL,http://arxiv.org/pdf/1506.05893v1
+1506.06378v2,2015-06-21T15:37:27Z,A Fast Compiler for NetKAT,Arjun Guha,cs.PL,http://arxiv.org/pdf/1506.06378v2
+1506.07813v1,2015-06-25T16:59:52Z,ADsafety: Type-Based Verification of JavaScript Sandboxing,Shriram Krishnamurthi,cs.PL,http://arxiv.org/pdf/1506.07813v1
+1508.03263v2,2015-08-13T16:34:22Z,Logic Programming with Macro Connectives,Keehang Kwon,cs.PL,http://arxiv.org/pdf/1508.03263v2
+1508.03536v1,2015-08-14T15:05:14Z,Proceedings of the 3rd Workshop on Domain-Specific Language Design and   Implementation (DSLDI 2015),Sebastian Erdweg,cs.PL,http://arxiv.org/pdf/1508.03536v1
+1508.03837v1,2015-08-16T15:36:30Z,Incorporating User Interaction into Imperative Languages,Keehang Kwon,cs.PL,http://arxiv.org/pdf/1508.03837v1
+1508.04848v1,2015-08-20T01:40:23Z,Relating BIP and Reo,Simon Bliudze,cs.PL,http://arxiv.org/pdf/1508.04848v1
+1508.04958v1,2015-08-20T11:32:47Z,Difference Constraints: An adequate Abstraction for Complexity Analysis   of Imperative Programs,Helmut Veith,cs.PL,http://arxiv.org/pdf/1508.04958v1
+1508.06526v1,2015-08-26T15:09:33Z,A Logical Approach to Event Handling in Imperative Languages,Keehang Kwon,cs.PL,http://arxiv.org/pdf/1508.06526v1
+1508.06836v1,2015-08-27T12:52:20Z,On Practical SMT-Based Type Error Localization,Thomas Wies,cs.PL,http://arxiv.org/pdf/1508.06836v1
+1509.00413v1,2015-09-01T17:42:49Z,Program Synthesis using Natural Language,Subhajit Roy,cs.PL,http://arxiv.org/pdf/1509.00413v1
+1509.02439v2,2015-09-08T16:43:53Z,Parsing Expression Grammars Made Practical,Kim Mens,cs.PL,http://arxiv.org/pdf/1509.02439v2
+1509.04040v1,2015-09-14T11:37:06Z,Programs as proofs,Jørgen Steensgaard-Madsen,cs.PL,http://arxiv.org/pdf/1509.04040v1
+1509.04315v1,2015-09-14T20:46:49Z,Implementing a teleo-reactive programming system,Robert Webb,cs.PL,http://arxiv.org/pdf/1509.04315v1
+1509.05100v3,2015-09-17T01:53:49Z,Rehearsal: A Configuration Verification Tool for Puppet,Arjun Guha,cs.PL,http://arxiv.org/pdf/1509.05100v3
+1509.06503v2,2015-09-22T08:38:20Z,A Verified Information-Flow Architecture,Andrew Tolmach,cs.PL,http://arxiv.org/pdf/1509.06503v2
+1509.07036v1,2015-09-23T15:41:56Z,"Towards a Direct, By-Need Evaluator for Dependently Typed Languages",David M. Rogers,cs.PL,http://arxiv.org/pdf/1509.07036v1
+1509.08068v1,2015-09-27T08:38:37Z,Block-Level Parallelism in Parsing Block Structured Languages,Abhinav Jangda,cs.PL,http://arxiv.org/pdf/1509.08068v1
+1509.08566v1,2015-09-29T02:11:11Z,Probabilistic Output Analysis by Program Manipulation,Maja H. Kirkeby,cs.PL,http://arxiv.org/pdf/1509.08566v1
+1510.00925v1,2015-10-04T11:23:12Z,The Essence of JavaScript,Shriram Krishnamurthi,cs.PL,http://arxiv.org/pdf/1510.00925v1
+1510.01752v2,2015-10-06T20:37:11Z,Type Reconstruction for the Linear π-Calculus with Composite Regular   Types,Luca Padovani,cs.PL,http://arxiv.org/pdf/1510.01752v2
+1510.03271v2,2015-10-12T13:09:58Z,"Choreographies, Computationally",Fabrizio Montesi,cs.PL,http://arxiv.org/pdf/1510.03271v2
+1510.03637v1,2015-10-13T11:41:20Z,Applied Choreographies,Fabrizio Montesi,cs.PL,http://arxiv.org/pdf/1510.03637v1
+1510.03726v2,2015-10-13T15:05:47Z,Several types of types in programming languages,Simone Martini,cs.PL,http://arxiv.org/pdf/1510.03726v2
+1510.03929v4,2015-10-13T23:35:13Z,Type-Based Analysis for Session Inference,Vasileios Koutavas,cs.PL,http://arxiv.org/pdf/1510.03929v4
+1510.04440v1,2015-10-15T08:18:54Z,Modelling the Evolution of Programming Languages,Silvia Crafa,cs.PL,http://arxiv.org/pdf/1510.04440v1
+1510.05216v2,2015-10-18T09:53:06Z,From F to DOT: Type Soundness Proofs with Definitional Interpreters,Nada Amin,cs.PL,http://arxiv.org/pdf/1510.05216v2
+1510.05527v1,2015-10-19T15:20:27Z,Towards Patterns for Heaps and Imperative Lambdas,David A. Naumann,cs.PL,http://arxiv.org/pdf/1510.05527v1
+1510.07095v1,2015-10-24T01:10:26Z,On the Value and Limits of Multi-level Energy Consumption Static   Analysis for Deeply Embedded Single and Multi-threaded Programs,Kerstin Eder,cs.PL,http://arxiv.org/pdf/1510.07095v1
+1510.07171v1,2015-10-24T18:22:05Z,Formalizing and Checking Thread Refinement for Data-Race-Free Execution   Models (Extended Version),Daniel Kroening,cs.PL,http://arxiv.org/pdf/1510.07171v1
+1510.07995v1,2015-10-27T17:30:22Z,From Low-Level Pointers to High-Level Containers,Tomáš Vojnar,cs.PL,http://arxiv.org/pdf/1510.07995v1
+1510.08121v1,2015-10-27T22:40:01Z,Type-Directed Synthesis of Products,Jonathan Frankle,cs.PL,http://arxiv.org/pdf/1510.08121v1
+1510.08419v3,2015-10-28T19:05:11Z,Program Synthesis from Polymorphic Refinement Types,Armando Solar-Lezama,cs.PL,http://arxiv.org/pdf/1510.08419v3
+1511.00184v3,2015-10-31T22:18:40Z,Pointer Race Freedom,Sebastian Wolff,cs.PL,http://arxiv.org/pdf/1511.00184v3
+1511.00511v1,2015-11-02T14:15:51Z,A Formal Model for Direct-style Asynchronous Observables,Heather Miller,cs.PL,http://arxiv.org/pdf/1511.00511v1
+1511.00825v1,2015-11-03T09:22:36Z,Abstract Interpretation with Infinitesimals: Towards Scalability in   Nonstandard Static Analysis (Extended Version),Ichiro Hasuo,cs.PL,http://arxiv.org/pdf/1511.00825v1
+1511.01261v1,2015-11-04T09:42:59Z,Interactive Answer Set Programming - Preliminary Report,Torsten Schaub,cs.PL,http://arxiv.org/pdf/1511.01261v1
+1511.01399v3,2015-11-04T17:07:00Z,Deriving a Simple Gradual Security Language,Éric Tanter,cs.PL,http://arxiv.org/pdf/1511.01399v3
+1511.01413v1,2015-11-04T17:46:13Z,Inferring Parametric Energy Consumption Functions at Different Software   Levels: ISA vs. LLVM IR,Kerstin Eder,cs.PL,http://arxiv.org/pdf/1511.01413v1
+1511.01838v1,2015-11-05T18:05:10Z,The Complexity of Interaction (Long Version),Georg Moser,cs.PL,http://arxiv.org/pdf/1511.01838v1
+1511.02415v1,2015-11-08T00:25:07Z,Anonymous On-line Communication Between Program Analyses,Marek Trtik,cs.PL,http://arxiv.org/pdf/1511.02415v1
+1511.02597v1,2015-11-09T08:31:46Z,Data-driven Workflows for Microservices,Fabrizio Montesi,cs.PL,http://arxiv.org/pdf/1511.02597v1
+1511.02603v4,2015-11-09T09:14:08Z,Iterative compilation on mobile devices,Hugh Leather,cs.PL,http://arxiv.org/pdf/1511.02603v4
+1511.02956v1,2015-11-10T01:29:01Z,Interprocedural Type Specialization of JavaScript Programs Without Type   Analysis,Marc Feeley,cs.PL,http://arxiv.org/pdf/1511.02956v1
+1511.03213v1,2015-11-10T18:22:29Z,A Partial Order Reduction Technique for Event-driven Multi-threaded   Programs,Rupak Majumdar,cs.PL,http://arxiv.org/pdf/1511.03213v1
+1511.03406v1,2015-11-11T07:44:04Z,Implementing a Small Parsing Virtual Machine on Embedded Systems,Kimio Kuramitsu,cs.PL,http://arxiv.org/pdf/1511.03406v1
+1511.04846v1,2015-11-16T07:26:32Z,Synthesizing Short-Circuiting Validation of Data Structure Invariants,Xavier Rival,cs.PL,http://arxiv.org/pdf/1511.04846v1
+1511.04926v1,2015-11-16T11:54:10Z,A framework for deadlock detection in core ABS,Michael Lienhardt,cs.PL,http://arxiv.org/pdf/1511.04926v1
+1511.05104v1,2015-11-16T19:48:48Z,Time complexity of concurrent programs,Ka I Pun,cs.PL,http://arxiv.org/pdf/1511.05104v1
+1511.06459v1,2015-11-20T00:09:02Z,QINL: Query-integrated Languages,Ryan Wisnesky,cs.PL,http://arxiv.org/pdf/1511.06459v1
+1511.06965v4,2015-11-22T04:55:17Z,Constructive Galois Connections: Taming the Galois Connection Framework   for Mechanized Metatheory,David Van Horn,cs.PL,http://arxiv.org/pdf/1511.06965v4
+1511.07033v2,2015-11-22T16:54:32Z,Occurrence Typing Modulo Theories,Sam Tobin-Hochstadt,cs.PL,http://arxiv.org/pdf/1511.07033v2
+1511.07163v1,2015-11-23T10:24:30Z,Optimizing Solution Quality in Synchronization Synthesis,Thorsten Tarrach,cs.PL,http://arxiv.org/pdf/1511.07163v1
+1511.07267v2,2015-11-23T15:18:19Z,"Local Reasoning with First-Class Heaps, and a New Frame Rule",Joxan Jaffar,cs.PL,http://arxiv.org/pdf/1511.07267v2
+1511.08307v1,2015-11-26T07:37:10Z,Nez: practical open grammar language,Kimio Kuramitsu,cs.PL,http://arxiv.org/pdf/1511.08307v1
+1511.08414v1,2015-11-26T15:15:47Z,A declarative extension of parsing expression grammars for recognizing   most programming languages,Kimio Kuramitsu,cs.PL,http://arxiv.org/pdf/1511.08414v1
+1512.01438v1,2015-12-03T01:00:15Z,Proceedings ML Family/OCaml Users and Developers workshops,Jacques Garrigue,cs.PL,http://arxiv.org/pdf/1512.01438v1
+1512.01690v1,2015-12-05T17:50:21Z,"Using Functional Programming for Development of Distributed, Cloud and   Web Applications in F#",Dmitri Soshnikov,cs.PL,http://arxiv.org/pdf/1512.01690v1
+1512.01895v1,2015-12-07T03:16:36Z,Modular implicits,Jeremy Yallop,cs.PL,http://arxiv.org/pdf/1512.01895v1
+1512.01897v1,2015-12-07T03:17:30Z,Improving Type Error Messages in OCaml,Arthur Charguéraud,cs.PL,http://arxiv.org/pdf/1512.01897v1
+1512.01898v1,2015-12-07T03:17:50Z,A Simple and Practical Linear Algebra Library Interface with Static Size   Checking,Eijiro Sumii,cs.PL,http://arxiv.org/pdf/1512.01898v1
+1512.03861v1,2015-12-12T01:59:18Z,Control Flow Analysis for SF Combinator Calculus,Martin Lester,cs.PL,http://arxiv.org/pdf/1512.03861v1
+1512.07681v1,2015-12-24T01:39:47Z,A Context-Oriented Extension of F#,Letterio Galletta,cs.PL,http://arxiv.org/pdf/1512.07681v1
+1512.08990v5,2015-12-30T16:15:30Z,A Lambda-Calculus Foundation for Universal Probabilistic Programming,Marcin Szymczak,cs.PL,http://arxiv.org/pdf/1512.08990v5
+1601.00713v1,2016-01-05T01:44:35Z,Almost Continuous Transformations of Software and Higher-order Dataflow   Programming,Steve Matthews,cs.PL,http://arxiv.org/pdf/1601.00713v1
+1601.01050v1,2016-01-06T02:07:18Z,Dataflow Graphs as Matrices and Programming with Higher-order Matrix   Elements,Steve Matthews,cs.PL,http://arxiv.org/pdf/1601.01050v1
+1601.02059v1,2016-01-09T01:05:03Z,The Essence of Inheritance,James Noble,cs.PL,http://arxiv.org/pdf/1601.02059v1
+1601.02484v1,2016-01-11T15:47:08Z,Reflections on Monadic Lenses,Perdita Stevens,cs.PL,http://arxiv.org/pdf/1601.02484v1
+1601.02536v1,2016-01-11T17:42:06Z,JikesRVM: Internal Mechanisms Study and Garbage Collection with MMTk,Luís Veiga,cs.PL,http://arxiv.org/pdf/1601.02536v1
+1601.03116v1,2016-01-13T02:44:24Z,Adding Real-time Capabilities to a SML Compiler,Lukasz Ziarek,cs.PL,http://arxiv.org/pdf/1601.03116v1
+1601.06517v2,2016-01-25T08:56:27Z,Programmable Restoration Granularity in Constraint Programming,Martin Henz,cs.PL,http://arxiv.org/pdf/1601.06517v2
+1601.07300v2,2016-01-27T09:34:36Z,Recollection: an Alternative Restoration Technique for Constraint   Programming Systems,Martin Henz,cs.PL,http://arxiv.org/pdf/1601.07300v2
+1602.00602v2,2016-02-01T17:27:06Z,Virtual Machine Warmup Blows Hot and Cold,Laurence Tratt,cs.PL,http://arxiv.org/pdf/1602.00602v2
+1602.00981v2,2016-02-02T15:48:50Z,CPL: A Core Language for Cloud Computing -- Technical Report,Mira Mezini,cs.PL,http://arxiv.org/pdf/1602.00981v2
+1602.02715v2,2016-02-03T19:36:23Z,"On the notion of ""von Neumann vicious circle"" coined by John Backus",Stanislaw Ambroszkiewicz,cs.PL,http://arxiv.org/pdf/1602.02715v2
+1602.03591v1,2016-02-11T01:19:51Z,Using session types as an effect system,Nobuko Yoshida,cs.PL,http://arxiv.org/pdf/1602.03591v1
+1602.03599v1,2016-02-11T01:21:09Z,Behavioural types for non-uniform memory accesses,Sophia Drossopoulou,cs.PL,http://arxiv.org/pdf/1602.03599v1
+1602.03729v2,2016-02-11T14:02:09Z,A Language for the Declarative Composition of Concurrent Protocols,Fabrizio Montesi,cs.PL,http://arxiv.org/pdf/1602.03729v2
+1602.05365v1,2016-02-17T10:46:45Z,A Specification of Open Transactional Memory for Haskell,Marco Peressotti,cs.PL,http://arxiv.org/pdf/1602.05365v1
+1602.06568v1,2016-02-21T19:18:58Z,Modelling homogeneous generative meta-programming,Christian Urban,cs.PL,http://arxiv.org/pdf/1602.06568v1
+1602.07285v1,2016-02-23T20:09:33Z,Automatic Generation of Formula Simplifiers based on Conditional Rewrite   Rules,Armando Solar-Lezama,cs.PL,http://arxiv.org/pdf/1602.07285v1
+1602.08406v2,2016-02-26T17:14:18Z,Trace semantics for polymorphic references,Nikos Tzevelekos,cs.PL,http://arxiv.org/pdf/1602.08406v2
+1602.08863v1,2016-02-29T08:49:49Z,Choreographies in Practice,Fabrizio Montesi,cs.PL,http://arxiv.org/pdf/1602.08863v1
+1603.00431v1,2016-03-01T20:03:44Z,On GitHub's Programming Languages,Guevara Noubir,cs.PL,http://arxiv.org/pdf/1603.00431v1
+1603.03011v2,2016-03-09T19:42:59Z,Towards a Semantics-Aware Transformation Toolchain for Heterogeneous   Systems,Manuel Carro,cs.PL,http://arxiv.org/pdf/1603.03011v2
+1603.03022v2,2016-03-09T20:32:00Z,Towards Automatic Learning of Heuristics for Mechanical Transformations   of Procedural Code,Julio Mariño,cs.PL,http://arxiv.org/pdf/1603.03022v2
+1603.03165v3,2016-03-10T07:00:06Z,Automated Clustering and Program Repair for Introductory Programming   Assignments,Florian Zuleger,cs.PL,http://arxiv.org/pdf/1603.03165v3
+1603.03533v1,2016-03-11T06:28:50Z,Stateless Code Model Checking of Information Flow Security,Mohammad Abdollahi Azgomi,cs.PL,http://arxiv.org/pdf/1603.03533v1
+1603.03535v1,2016-03-11T06:37:28Z,A New Approach to Stateless Model Checking of LTL Properties,Mohammad Abdollahi Azgomi,cs.PL,http://arxiv.org/pdf/1603.03535v1
+1603.03536v1,2016-03-11T06:49:43Z,DSCMC: Distributed Stateless Code Model Checker,Mohammad Abdollahi Azgomi,cs.PL,http://arxiv.org/pdf/1603.03536v1
+1603.04298v1,2016-03-14T15:09:42Z,An Effectful Treatment of Dependent Types,Matthijs Vákár,cs.PL,http://arxiv.org/pdf/1603.04298v1
+1603.05197v1,2016-03-16T18:04:04Z,Embedding by Normalisation,Philip Wadler,cs.PL,http://arxiv.org/pdf/1603.05197v1
+1603.08059v1,2016-03-26T00:25:37Z,CVC Verilog Compiler -- Fast Complex Language Compilers Can be Simple,Steven Meyer,cs.PL,http://arxiv.org/pdf/1603.08059v1
+1603.08648v2,2016-03-29T05:35:34Z,A Comparison of NOOP to Structural Domain-Theoretic Models of   Object-Oriented Programming,Moez A. AbdelGawad,cs.PL,http://arxiv.org/pdf/1603.08648v2
+1603.08949v2,2016-03-29T20:30:27Z,The While language,António Ravara,cs.PL,http://arxiv.org/pdf/1603.08949v2
+1603.09274v3,2016-03-30T16:49:31Z,A Survey on Hardware and Software Support for Thread Level Parallelism,Roberto Giorgi,cs.PL,http://arxiv.org/pdf/1603.09274v3
+1603.09290v1,2016-03-30T17:46:57Z,LifeJacket: Verifying precise floating-point optimizations in LLVM,Fraser Brown,cs.PL,http://arxiv.org/pdf/1603.09290v1
+1603.09597v6,2016-03-31T14:05:30Z,Flow- and Context-Sensitive Points-to Analysis using Generalized   Points-to Graphs,Alan Mycroft,cs.PL,http://arxiv.org/pdf/1603.09597v6
+1604.01290v1,2016-04-05T15:12:06Z,Implementation of the Programming Language Dino -- A Case Study in   Dynamic Language Performance,Vladimir N. Makarov,cs.PL,http://arxiv.org/pdf/1604.01290v1
+1604.02474v3,2016-04-08T20:30:12Z,Space-Efficient Latent Contracts,Michael Greenberg,cs.PL,http://arxiv.org/pdf/1604.02474v3
+1604.02480v1,2016-04-08T20:50:15Z,Refinement Types for TypeScript,Ranjit Jhala,cs.PL,http://arxiv.org/pdf/1604.02480v1
+1604.03020v1,2016-04-11T16:23:24Z,Linearly Typed Dyadic Group Sessions for Building Multiparty Sessions,Hanwen Wu,cs.PL,http://arxiv.org/pdf/1604.03020v1
+1604.03211v1,2016-04-11T18:22:03Z,Automatic Parallelization: Executing Sequential Programs on a Task-Based   Parallel Runtime,Ivo Correia,cs.PL,http://arxiv.org/pdf/1604.03211v1
+1604.03641v1,2016-04-13T03:04:17Z,Just-in-Time Static Type Checking for Dynamic Languages,Jeffrey S. Foster,cs.PL,http://arxiv.org/pdf/1604.03641v1
+1604.04695v1,2016-04-16T05:20:44Z,On the Complexity and Performance of Parsing with Derivatives,Matthew Might,cs.PL,http://arxiv.org/pdf/1604.04695v1
+1604.04729v1,2016-04-16T11:45:03Z,SIMPL: A DSL for Automatic Specialization of Inference Algorithms,Rastislav Bodik,cs.PL,http://arxiv.org/pdf/1604.04729v1
+1604.05044v1,2016-04-18T08:54:33Z,On Modular and Fully-Abstract Compilation -- Technical Appendix,Frank Piessens,cs.PL,http://arxiv.org/pdf/1604.05044v1
+1604.05841v2,2016-04-20T06:40:55Z,Liveness-Based Garbage Collection for Lazy Languages,Amey Karkare,cs.PL,http://arxiv.org/pdf/1604.05841v2
+1604.06245v4,2016-04-21T10:24:17Z,A Revision of the Mool Language,António Ravara,cs.PL,http://arxiv.org/pdf/1604.06245v4
+1604.07169v1,2016-04-25T08:57:28Z,Termination Analysis of Probabilistic Programs through   Positivstellensatz's,Amir Kafshdar Goharshady,cs.PL,http://arxiv.org/pdf/1604.07169v1
+1605.00283v2,2016-05-01T17:49:30Z,Differentially Private Bayesian Programming,Pierre-Yves Strub,cs.PL,http://arxiv.org/pdf/1605.00283v2
+1605.01352v1,2016-05-04T17:18:05Z,Default Rules for Curry,Michael Hanus,cs.PL,http://arxiv.org/pdf/1605.01352v1
+1605.01362v1,2016-05-04T17:59:58Z,Trace Typing: An Approach for Evaluating Retrofitted Type Systems   (Extended Version),Koushik Sen,cs.PL,http://arxiv.org/pdf/1605.01362v1
+1605.01480v1,2016-05-05T03:19:11Z,Towards Understanding Generics,Moez A. AbdelGawad,cs.PL,http://arxiv.org/pdf/1605.01480v1
+1605.02033v1,2016-04-30T09:41:07Z,A Study on Features and Limitations of On-line C Compilers,Ben George Ephre,cs.PL,http://arxiv.org/pdf/1605.02033v1
+1605.02142v2,2016-05-07T05:05:40Z,Nominal LCF: A Language for Generic Proof,Jonathan Sterling,cs.PL,http://arxiv.org/pdf/1605.02142v2
+1605.02935v1,2016-05-10T10:47:02Z,Flag-Based Big-Step Semantics,Peter D. Mosses,cs.PL,http://arxiv.org/pdf/1605.02935v1
+1605.02941v1,2016-05-10T11:09:13Z,Types from data: Making structured data first-class citizens in F#,Don Syme,cs.PL,http://arxiv.org/pdf/1605.02941v1
+1605.03636v1,2016-05-11T23:01:53Z,Tighter Loop Bound Analysis (Technical report),Marek Trtík,cs.PL,http://arxiv.org/pdf/1605.03636v1
+1605.04477v2,2016-05-14T22:34:59Z,Bounded Model Checking for Probabilistic Programs,Lukas Westhofen,cs.PL,http://arxiv.org/pdf/1605.04477v2
+1605.05274v2,2016-05-17T18:13:37Z,Java Generics are Turing Complete,Radu Grigore,cs.PL,http://arxiv.org/pdf/1605.05274v2
+1605.08475v1,2016-05-26T23:25:24Z,Toward an Energy Efficient Language and Compiler for (Partially)   Reversible Algorithms,Erik D. Demaine,cs.PL,http://arxiv.org/pdf/1605.08475v1
+1606.01106v2,2016-06-03T14:34:55Z,Set-Theoretic Types for Polymorphic Variants,Kim Nguyen,cs.PL,http://arxiv.org/pdf/1606.01106v2
+1606.01400v2,2016-06-04T17:40:40Z,Operational Aspects of C/C++ Concurrency,Aleksandar Nanevski,cs.PL,http://arxiv.org/pdf/1606.01400v2
+1606.03644v1,2016-06-11T23:52:54Z,Inter-language Collaboration in an Object-oriented Virtual Machine,Matthias Springer,cs.PL,http://arxiv.org/pdf/1606.03644v1
+1606.03809v2,2016-06-13T04:37:13Z,Why Nominal-Typing Matters in Object-Oriented Programming,Moez A. AbdelGawad,cs.PL,http://arxiv.org/pdf/1606.03809v2
+1606.04240v1,2016-06-14T08:06:01Z,For-loops in Logic Programming,Keehang Kwon,cs.PL,http://arxiv.org/pdf/1606.04240v1
+1606.05939v1,2016-06-20T01:09:07Z,Event-driven Adaptation in COP,Letterio Galletta,cs.PL,http://arxiv.org/pdf/1606.05939v1
+1606.05940v1,2016-06-20T01:09:16Z,From Events to Reactions: A Progress Report,Tony Garnock-Jones,cs.PL,http://arxiv.org/pdf/1606.05940v1
+1606.06378v1,2016-06-21T00:45:41Z,First Class Call Stacks: Exploring Head Reduction,Zena M. Ariola,cs.PL,http://arxiv.org/pdf/1606.06378v1
+1606.06380v1,2016-06-21T00:46:03Z,From Push/Enter to Eval/Apply by Program Transformation,Jeremy Gibbons,cs.PL,http://arxiv.org/pdf/1606.06380v1
+1606.06381v1,2016-06-21T00:46:13Z,A Modular Structural Operational Semantics for Delimited Continuations,Peter D. Mosses,cs.PL,http://arxiv.org/pdf/1606.06381v1
+1606.06726v1,2016-06-21T19:57:15Z,Adaptive Just-in-time Value Class Optimization for Lowering Memory   Consumption and Improving Execution Time Performance,Robert Hirschfeld,cs.PL,http://arxiv.org/pdf/1606.06726v1
+1606.07557v1,2016-06-24T03:42:28Z,Dynamic Witnesses for Static Type Errors,Westley Weimer,cs.PL,http://arxiv.org/pdf/1606.07557v1
+1606.07687v1,2016-06-24T13:57:35Z,Enforcing Termination of Interprocedural Analysis,Ralf Vogler,cs.PL,http://arxiv.org/pdf/1606.07687v1
+1606.08708v1,2016-06-25T14:15:34Z,Domain Specific Language for Modular Knitting Pattern Definitions: Purl,Chelsea Battell,cs.PL,http://arxiv.org/pdf/1606.08708v1
+1607.00825v1,2016-07-01T19:11:01Z,Garbage Collection in JyNI - How to bridge Mark/Sweep and Reference   Counting GC,Stefan Richthofer,cs.PL,http://arxiv.org/pdf/1607.00825v1
+1607.01590v1,2016-07-06T12:27:45Z,Indexing dif/2,Stefan Kral,cs.PL,http://arxiv.org/pdf/1607.01590v1
+1607.02226v1,2016-07-08T05:30:43Z,Renaming Global Variables in C Mechanically Proved Correct,Julien Cohen,cs.PL,http://arxiv.org/pdf/1607.02226v1
+1607.02229v1,2016-07-08T05:31:26Z,Program Transformation to Identify List-Based Parallel Skeletons,G. W. Hamilton,cs.PL,http://arxiv.org/pdf/1607.02229v1
+1607.02231v1,2016-07-08T05:35:59Z,Resiliency with Aggregate Computing: State of the Art and Roadmap,Jacob Beal,cs.PL,http://arxiv.org/pdf/1607.02231v1
+1607.02238v1,2016-07-08T05:48:14Z,Incremental Quantitative Analysis on Dynamic Costs,Vijayaraghavan Murali,cs.PL,http://arxiv.org/pdf/1607.02238v1
+1607.02927v1,2016-07-11T12:49:23Z,On the chemistry of typestate-oriented actors,Luca Padovani,cs.PL,http://arxiv.org/pdf/1607.02927v1
+1607.03445v1,2016-07-12T17:43:54Z,Type-Driven Repair for Information Flow Security,Armando Solar-Lezama,cs.PL,http://arxiv.org/pdf/1607.03445v1
+1607.04180v4,2016-07-14T16:07:29Z,Hazelnut: A Bidirectionally Typed Structure Editor Calculus,Matthew A. Hammer,cs.PL,http://arxiv.org/pdf/1607.04180v4
+1607.04197v1,2016-07-14T16:37:17Z,Design of an intermediate representation for query languages,Romain Vernoux,cs.PL,http://arxiv.org/pdf/1607.04197v1
+1607.04461v1,2016-07-15T11:05:26Z,Horn Binary Serialization Analysis,Gabriele Paganelli,cs.PL,http://arxiv.org/pdf/1607.04461v1
+1607.05443v2,2016-07-19T08:01:17Z,Beginner's Luck: A Language for Property-Based Generators,Li-yao Xia,cs.PL,http://arxiv.org/pdf/1607.05443v2
+1607.05609v2,2016-07-19T14:37:11Z,"Object Capabilities and Lightweight Affinity in Scala: Implementation,   Formalization, and Soundness",Alexandre Loiko,cs.PL,http://arxiv.org/pdf/1607.05609v2
+1607.05707v1,2016-07-19T19:38:39Z,Lowering IrGL to CUDA,Keshav Pingali,cs.PL,http://arxiv.org/pdf/1607.05707v1
+1607.05830v5,2016-07-20T06:05:07Z,Cantor meets Scott: Semantic Foundations for Probabilistic Networks,Alexandra Silva,cs.PL,http://arxiv.org/pdf/1607.05830v5
+1607.06927v1,2016-07-23T12:25:32Z,Sound Static Deadlock Analysis for C/Pthreads (Extended Version),Björn Wachter,cs.PL,http://arxiv.org/pdf/1607.06927v1
+1607.07727v1,2016-07-20T15:39:55Z,Leveraging the Potential of Control-Flow Error Resilient Techniques in   Multithreaded Programs,Hamid R. Zarandi,cs.PL,http://arxiv.org/pdf/1607.07727v1
+1608.00089v1,2016-07-30T08:12:32Z,Optimal Learning of Specifications from Examples,Eran Yahav,cs.PL,http://arxiv.org/pdf/1608.00089v1
+1608.00787v1,2016-08-02T12:23:16Z,Tabling with Sound Answer Subsumption,Tom Schrijvers,cs.PL,http://arxiv.org/pdf/1608.00787v1
+1608.00816v1,2016-08-02T13:38:00Z,Efficient Algebraic Effect Handlers for Prolog,Tom Schrijvers,cs.PL,http://arxiv.org/pdf/1608.00816v1
+1608.00989v1,2016-08-02T20:11:56Z,Lock-free atom garbage collection for multithreaded Prolog,Keri Harris,cs.PL,http://arxiv.org/pdf/1608.00989v1
+1608.01106v2,2016-08-03T08:23:34Z,Probabilistic Resource Analysis by Program Transformation,Mads Rosendahl,cs.PL,http://arxiv.org/pdf/1608.01106v2
+1608.01723v1,2016-08-05T00:13:42Z,Synthesizing Program Input Grammars,Percy Liang,cs.PL,http://arxiv.org/pdf/1608.01723v1
+1608.02565v1,2016-08-08T19:25:10Z,Semantic Code Browsing,Manuel V. Hermenegildo,cs.PL,http://arxiv.org/pdf/1608.02565v1
+1608.03350v1,2016-08-11T02:17:09Z,Close Encounters of the Higher Kind Emulating Constructor Classes in   Standard ML,Liam O'Connor,cs.PL,http://arxiv.org/pdf/1608.03350v1
+1608.03424v1,2016-08-11T11:51:04Z,Partial Evaluation of Order-sorted Equational Programs modulo Axioms,Jose Meseguer,cs.PL,http://arxiv.org/pdf/1608.03424v1
+1608.03650v1,2016-08-12T01:17:09Z,MiniZinc with Strings,Guido Tack,cs.PL,http://arxiv.org/pdf/1608.03650v1
+1608.04016v1,2016-08-13T18:41:11Z,A New Functional-Logic Compiler for Curry: Sprite,Andy Jost,cs.PL,http://arxiv.org/pdf/1608.04016v1
+1608.04415v3,2016-08-15T21:35:32Z,A Productivity Checker for Logic Programming,M. Schmidt,cs.PL,http://arxiv.org/pdf/1608.04415v3
+1608.04592v2,2016-08-16T13:45:53Z,Data optimizations for constraint automata,Farhad Arbab,cs.PL,http://arxiv.org/pdf/1608.04592v2
+1608.04999v3,2016-08-17T15:26:48Z,$μ$Puppet: A Declarative Subset of the Puppet Configuration Language,Roly Perera,cs.PL,http://arxiv.org/pdf/1608.04999v3
+1608.05233v2,2016-08-18T10:37:22Z,Coinductive Soundness of Corecursive Type Class Resolution,Kevin Hammond,cs.PL,http://arxiv.org/pdf/1608.05233v2
+1608.05263v2,2016-08-18T14:00:35Z,Design and Implementation of Probabilistic Programming Language Anglican,Frank Wood,cs.PL,http://arxiv.org/pdf/1608.05263v2
+1608.06012v1,2016-08-21T23:42:54Z,A Vision for Online Verification-Validation,David Van Horn,cs.PL,http://arxiv.org/pdf/1608.06012v1
+1608.06499v2,2016-08-23T13:18:01Z,Dijkstra Monads for Free,Nikhil Swamy,cs.PL,http://arxiv.org/pdf/1608.06499v2
+1608.06583v1,2016-08-23T17:17:08Z,Syntax and analytic semantics of LISA,Patrick Cousot,cs.PL,http://arxiv.org/pdf/1608.06583v1
+1608.07161v1,2016-08-23T06:51:27Z,A Simple Guide to S3 Methods,Nicholas Tierney,cs.PL,http://arxiv.org/pdf/1608.07161v1
+1608.07206v1,2016-08-25T16:17:29Z,Embedded SML using the MLton compiler,Lukasz Ziarek,cs.PL,http://arxiv.org/pdf/1608.07206v1
+1608.07261v3,2016-08-25T19:26:22Z,Type Inference for Static Compilation of JavaScript (Extended Version),Youngil Choi,cs.PL,http://arxiv.org/pdf/1608.07261v3
+1608.07531v2,2016-08-26T17:28:06Z,Syntax and semantics of the weak consistency model specification   language cat,Luc Maranget,cs.PL,http://arxiv.org/pdf/1608.07531v2
+1608.08219v1,2016-08-29T20:00:02Z,NoFAQ: Synthesizing Command Repairs from Examples,Michael Vaughn,cs.PL,http://arxiv.org/pdf/1608.08219v1
+1608.08330v2,2016-08-30T05:18:07Z,Static Trace-Based Deadlock Analysis for Synchronous Mini-Go,Peter Thiemann,cs.PL,http://arxiv.org/pdf/1608.08330v2
+1609.01985v1,2016-09-03T11:14:51Z,Behavioural Prototypes,Simon J. Gay,cs.PL,http://arxiv.org/pdf/1609.01985v1
+1609.03146v1,2016-09-11T10:18:29Z,"Honey: A dataflow programming language for the processing, featurization   and analysis of multivariate, asynchronous and non-uniformly sampled scalar   symbolic time sequences",Mathieu Guillame-Bert,cs.PL,http://arxiv.org/pdf/1609.03146v1
+1609.04233v1,2016-09-14T12:16:24Z,Liveness for Verification,Simon J. Gay,cs.PL,http://arxiv.org/pdf/1609.04233v1
+1609.05337v1,2016-09-17T13:53:10Z,miniAdapton: A Minimal Implementation of Incremental Computation in   Scheme,Matthew Might,cs.PL,http://arxiv.org/pdf/1609.05337v1
+1609.05365v1,2016-09-17T17:09:42Z,Taming Context-Sensitive Languages with Principled Stateful Parsing,Kim Mens,cs.PL,http://arxiv.org/pdf/1609.05365v1
+1609.05687v1,2016-09-19T12:27:05Z,Multiparty Session Actors,Nobuko Yoshida,cs.PL,http://arxiv.org/pdf/1609.05687v1
+1609.09709v1,2016-09-30T13:03:25Z,Type checking through unification,Andreas Abel,cs.PL,http://arxiv.org/pdf/1609.09709v1
+1609.09718v1,2016-09-30T13:25:05Z,Jolie Community on the Rise,Alexander Tchitchigin,cs.PL,http://arxiv.org/pdf/1609.09718v1
+1610.00097v2,2016-10-01T07:01:43Z,Typed Adapton: Refinement types for nominal memoization,Joshua Dunfield,cs.PL,http://arxiv.org/pdf/1610.00097v2
+1610.00831v1,2016-10-04T03:10:55Z,Notes on Pure Dataflow Matrix Machines: Programming with   Self-referential Matrix Transformations,Andrey Radul,cs.PL,http://arxiv.org/pdf/1610.00831v1
+1610.02144v1,2016-10-07T05:11:32Z,Lightweight User-Space Record And Replay,Nimrod Partush,cs.PL,http://arxiv.org/pdf/1610.02144v1
+1610.02952v1,2016-10-10T15:10:01Z,Incrementally Closing Octagons,Andy King,cs.PL,http://arxiv.org/pdf/1610.02952v1
+1610.03148v1,2016-10-11T01:02:44Z,Skeletal Program Enumeration for Rigorous Compiler Testing,Zhendong Su,cs.PL,http://arxiv.org/pdf/1610.03148v1
+1610.04461v1,2016-10-14T13:47:49Z,Persistent Contextual Values as Inter-Process Layers,Markus Raab,cs.PL,http://arxiv.org/pdf/1610.04461v1
+1610.04790v1,2016-10-15T22:30:15Z,Prioritized Garbage Collection: Explicit GC Support for Software Caches,Emery D. Berger,cs.PL,http://arxiv.org/pdf/1610.04790v1
+1610.04799v1,2016-10-15T23:43:48Z,Trees That Grow,Simon Peyton Jones,cs.PL,http://arxiv.org/pdf/1610.04799v1
+1610.05114v3,2016-10-14T09:07:50Z,Towards an Accurate Mathematical Model of Generic Nominally-Typed OOP,Moez A. AbdelGawad,cs.PL,http://arxiv.org/pdf/1610.05114v3
+1610.05954v1,2016-10-19T10:41:32Z,Unfolding Semantics of the Untyped λ-Calculus with letrec,Jan Rochel,cs.PL,http://arxiv.org/pdf/1610.05954v1
+1610.06768v1,2016-10-21T12:44:23Z,Automating Induction for Solving Horn Clauses,Sho Torii,cs.PL,http://arxiv.org/pdf/1610.06768v1
+1610.07033v1,2016-10-22T11:07:59Z,LambdaDL: Syntax and Semantics (Preliminary Report),Steffen Staab,cs.PL,http://arxiv.org/pdf/1610.07033v1
+1610.07118v1,2016-10-23T03:15:04Z,Verified Parallel String Matching in Haskell,Jeff Polakow,cs.PL,http://arxiv.org/pdf/1610.07118v1
+1610.07696v1,2016-10-25T01:00:47Z,Proceedings 14th International Workshop Quantitative Aspects of   Programming Languages and Systems,Herbert Wiklicky,cs.PL,http://arxiv.org/pdf/1610.07696v1
+1610.07965v1,2016-10-25T17:01:29Z,Higher-Order Linearisability,Nikos Tzevelekos,cs.PL,http://arxiv.org/pdf/1610.07965v1
+1610.07978v1,2016-10-25T17:28:46Z,Dependent Types in Haskell: Theory and Practice,Richard A. Eisenberg,cs.PL,http://arxiv.org/pdf/1610.07978v1
+1610.08476v1,2016-10-26T19:36:31Z,Gradual Typing in an Open World,Jeremy G. Siek,cs.PL,http://arxiv.org/pdf/1610.08476v1
+1610.09183v1,2016-10-28T12:15:59Z,Multiactive objects and their applications,Justine Rochas,cs.PL,http://arxiv.org/pdf/1610.09183v1
+1610.10050v1,2016-10-31T18:22:40Z,The Paths to Choreography Extraction,Fabrizio Montesi,cs.PL,http://arxiv.org/pdf/1610.10050v1
+1611.00467v1,2016-11-02T04:37:13Z,A Performance Survey on Stack-based and Register-based Virtual Machines,Siqi Liu,cs.PL,http://arxiv.org/pdf/1611.00467v1
+1611.00602v1,2016-11-02T13:38:36Z,Scala-gopher: CSP-style programming techniques with idiomatic Scala,Ruslan Shevchenko,cs.PL,http://arxiv.org/pdf/1611.00602v1
+1611.00692v1,2016-11-02T17:36:19Z,Towards Automatic Resource Bound Analysis for OCaml,Shu-Chun Weng,cs.PL,http://arxiv.org/pdf/1611.00692v1
+1611.00860v1,2016-11-03T01:53:20Z,HPVM: A Portable Virtual Instruction Set for Heterogeneous Parallel   Systems,Vikram Adve,cs.PL,http://arxiv.org/pdf/1611.00860v1
+1611.01063v2,2016-11-03T15:28:36Z,Stochastic Invariants for Probabilistic Termination,Đorđe Žikelić,cs.PL,http://arxiv.org/pdf/1611.01063v2
+1611.01507v2,2016-11-04T19:52:35Z,Counterexamples and Proof Loophole for the C/C++ to POWER and ARMv7   Trailing-Sync Compiler Mappings,Margaret Martonosi,cs.PL,http://arxiv.org/pdf/1611.01507v2
+1611.01667v2,2016-11-05T16:33:02Z,A Traversable Fixed Size Small Object Allocator in C++,Roland Gruber,cs.PL,http://arxiv.org/pdf/1611.01667v2
+1611.02392v1,2016-11-08T05:18:52Z,Sums of Uncertainty: Refinements Go Gradual,Joshua Dunfield,cs.PL,http://arxiv.org/pdf/1611.02392v1
+1611.05026v2,2016-11-15T20:52:17Z,Undecidability of Asynchronous Session Subtyping,Gianluigi Zavattaro,cs.PL,http://arxiv.org/pdf/1611.05026v2
+1611.05105v1,2016-11-16T00:56:59Z,Well-Typed Languages are Sound,Jeremy G. Siek,cs.PL,http://arxiv.org/pdf/1611.05105v1
+1611.05651v1,2016-11-17T12:19:57Z,A Theory of Available-by-Design Communicating Systems,Hanne Riis Nielson,cs.PL,http://arxiv.org/pdf/1611.05651v1
+1611.05980v2,2016-11-18T05:21:00Z,Precondition Inference for Peephole Optimizations in LLVM,Santosh Nagarakatte,cs.PL,http://arxiv.org/pdf/1611.05980v2
+1611.06276v2,2016-11-18T23:32:34Z,Mixing Metaphors: Actors as Channels and Channels as Actors,Philip Wadler,cs.PL,http://arxiv.org/pdf/1611.06276v2
+1611.07502v1,2016-11-22T20:31:18Z,Component-based Synthesis of Table Consolidation and Transformation   Tasks from Examples,Swarat Chaudhuri,cs.PL,http://arxiv.org/pdf/1611.07502v1
+1611.07610v1,2016-11-23T02:37:51Z,Mutable WadlerFest DOT,Ondřej Lhoták,cs.PL,http://arxiv.org/pdf/1611.07610v1
+1611.09259v1,2016-11-28T17:44:19Z,Do be do be do,Craig McLaughlin,cs.PL,http://arxiv.org/pdf/1611.09259v1
+1611.09606v1,2016-11-29T12:47:15Z,An Inductive Proof Method for Simulation-based Compiler Correctness,Sebastian Hack,cs.PL,http://arxiv.org/pdf/1611.09606v1
+1611.09626v1,2016-11-29T13:39:44Z,Environmental Bisimulations for Delimited-Control Operators with Dynamic   Prompt Generation,Piotr Polesiuk,cs.PL,http://arxiv.org/pdf/1611.09626v1
+1612.00666v1,2016-12-02T12:56:10Z,Dynamic Structural Operational Semantics,Olaf Owe,cs.PL,http://arxiv.org/pdf/1612.00666v1
+1612.00669v2,2016-12-02T13:11:41Z,Transaction-based Sandboxing for JavaScript,Peter Thiemann,cs.PL,http://arxiv.org/pdf/1612.00669v2
+1612.00670v1,2016-12-02T13:18:58Z,How Are Programs Found? Speculating About Language Ergonomics With   Curry-Howard,Johannes Emerich,cs.PL,http://arxiv.org/pdf/1612.00670v1

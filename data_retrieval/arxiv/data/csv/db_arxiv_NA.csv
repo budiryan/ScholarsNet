@@ -1,0 +1,1000 @@
+cs/9907005v1,1999-07-06T11:48:33Z,Alternative Local Discriminant Bases Using Empirical Expectation and   Variance Estimation,Eirik Fossgaard,cs.NA,http://arxiv.org/pdf/cs/9907005v1
+cs/0102023v1,2001-02-23T14:24:08Z,Factored Notation for Interval I/O,M. H. van Emden,cs.NA,http://arxiv.org/pdf/cs/0102023v1
+cs/0201015v1,2002-01-17T22:31:21Z,On the Significance of Digits in Interval Notation,M. H. van Emden,cs.NA,http://arxiv.org/pdf/cs/0201015v1
+cs/0206031v1,2002-06-20T18:44:11Z,A sufficient condition for global invertibility of Lipschitz mapping,S. Tarasov,cs.NA,http://arxiv.org/pdf/cs/0206031v1
+cs/0210015v2,2002-10-16T23:22:13Z,New Developments in Interval Arithmetic and Their Implications for   Floating-Point Standardization,M. H. van Emden,cs.NA,http://arxiv.org/pdf/cs/0210015v2
+cs/0306015v1,2003-06-02T12:26:18Z,Computing sharp and scalable bounds on errors in approximate zeros of   univariate polynomials,Sudhir Kumar Singh,cs.NA,http://arxiv.org/pdf/cs/0306015v1
+cs/0404034v1,2004-04-16T00:23:32Z,Propagation by Selective Initialization and Its Application to Numerical   Constraint Satisfaction Problems,B. Moa,cs.NA,http://arxiv.org/pdf/cs/0404034v1
+cs/0407022v4,2004-07-09T20:08:41Z,Solving Elliptic Finite Element Systems in Near-Linear Time with Support   Preconditioners,Stephen Vavasis,cs.NA,http://arxiv.org/pdf/cs/0407022v4
+cs/0410045v4,2004-10-18T22:33:59Z,Analysis of and workarounds for element reversal for a finite   element-based algorithm for warping triangular and tetrahedral meshes,Stephen A. Vavasis,cs.NA,http://arxiv.org/pdf/cs/0410045v4
+cs/0412009v1,2004-12-02T21:28:13Z,A Fully Sparse Implementation of a Primal-Dual Interior-Point Potential   Reduction Method for Semidefinite Programming,Stephen A. Vavasis,cs.NA,http://arxiv.org/pdf/cs/0412009v1
+cs/0501041v1,2005-01-20T13:20:27Z,Two Iterative Algorithms for Solving Systems of Simultaneous Linear   Algebraic Equations with Real Matrices of Coefficients,N. P. Polishchuk,cs.NA,http://arxiv.org/pdf/cs/0501041v1
+cs/0502059v1,2005-02-13T15:29:37Z,New approach for Finite Difference Method for Thermal Analysis of   Passive Solar Systems,Anton Stoilov,cs.NA,http://arxiv.org/pdf/cs/0502059v1
+cs/0502092v1,2005-02-25T10:57:32Z,Divergence-free Wavelets for Navier-Stokes,Valérie Perrier,cs.NA,http://arxiv.org/pdf/cs/0502092v1
+cs/0503086v2,2005-03-30T13:53:19Z,Segmentation of the Homogeneity of a Signal Using a Piecewise Linear   Recognition Tool,Joseph Morlier,cs.NA,http://arxiv.org/pdf/cs/0503086v2
+cs/0609114v1,2006-09-20T09:22:13Z,A VFRoe scheme for 1D shallow water flows : wetting and drying   simulation,Abdou Wahidi Bello,cs.NA,http://arxiv.org/pdf/cs/0609114v1
+cs/0611143v2,2006-11-28T14:25:07Z,An informational approach to the global optimization of   expensive-to-evaluate functions,Eric Walter,cs.NA,http://arxiv.org/pdf/cs/0611143v2
+cs/0701141v2,2007-01-22T23:11:15Z,The Fundamental Theorems of Interval Analysis,B. Moa,cs.NA,http://arxiv.org/pdf/cs/0701141v2
+cs/0703003v1,2007-02-28T23:13:23Z,Functions to Support Input and Output of Intervals,S. C. Somosan,cs.NA,http://arxiv.org/pdf/cs/0703003v1
+cs/0703082v1,2007-03-15T13:41:11Z,Remarks on the O(N) Implementation of the Fast Marching Method,Thomas Satzger,cs.NA,http://arxiv.org/pdf/cs/0703082v1
+cs/0703119v2,2007-03-23T15:03:34Z,Support-Graph Preconditioners for 2-Dimensional Trusses,Daniel A. Spielman,cs.NA,http://arxiv.org/pdf/cs/0703119v2
+0706.0903v1,2007-06-06T20:19:20Z,Families of traveling impulses and fronts in some models with   cross-diffusion,Georgy Karev,cs.NA,http://arxiv.org/pdf/0706.0903v1
+0710.3170v2,2007-10-16T20:19:27Z,Fast Intrinsic Mode Decomposition of Time Series Data with Sawtooth   Transform,Louis Yu Lu,cs.NA,http://arxiv.org/pdf/0710.3170v2
+0804.0581v2,2008-04-03T15:32:17Z,Computing a Finite Size Representation of the Set of Approximate   Solutions of an MOP,El-Ghazali Talbi,cs.NA,http://arxiv.org/pdf/0804.0581v2
+0806.2159v3,2008-06-12T21:05:37Z,Communication-optimal parallel and sequential QR and LU factorizations:   theory and practice,Julien Langou,cs.NA,http://arxiv.org/pdf/0806.2159v3
+0806.2548v1,2008-06-16T11:40:07Z,A Data-Parallel Algorithm to Reliably Solve Systems of Nonlinear   Equations,Alexandre Goldsztejn,cs.NA,http://arxiv.org/pdf/0806.2548v1
+0806.3099v2,2008-06-18T22:29:27Z,On the stability of bubble functions and a stabilized mixed finite   element formulation for the Stokes problem,K. D. Hjelmstad,cs.NA,http://arxiv.org/pdf/0806.3099v2
+0806.3514v1,2008-06-21T14:43:31Z,Consistent Newton-Raphson vs. fixed-point for variational multiscale   formulations for incompressible Navier-Stokes,K. D. Hjelmstad,cs.NA,http://arxiv.org/pdf/0806.3514v1
+0806.3963v1,2008-06-24T19:56:38Z,A stabilized finite element formulation for advection-diffusion using   the generalized finite element framework,K. D. Hjelmstad,cs.NA,http://arxiv.org/pdf/0806.3963v1
+0806.4286v1,2008-06-26T11:03:49Z,Implementation for blow up of tornado-type solutions for complex version   of 3D Navier-Stokes system,A. V. Khokhlov,cs.NA,http://arxiv.org/pdf/0806.4286v1
+0808.2827v3,2008-08-20T21:42:41Z,Fast Intrinsic Mode Decomposition and Filtering of Time Series Data,Louis Yu Lu,cs.NA,http://arxiv.org/pdf/0808.2827v3
+0809.0062v1,2008-08-30T14:07:41Z,The Stochastic Logarithmic Norm for Stability Analysis of Stochastic   Differential Equations,Soumyendu Raha,cs.NA,http://arxiv.org/pdf/0809.0062v1
+0809.5173v2,2008-09-30T11:45:01Z,An algebraic approach to the set of intervals (a new approach of   arithmetic of intervals),Elisabeth Remm,cs.NA,http://arxiv.org/pdf/0809.5173v2
+0810.0322v4,2008-10-02T01:39:57Z,Non-negative mixed finite element formulations for a tensorial diffusion   equation,A. J. Valocchi,cs.NA,http://arxiv.org/pdf/0810.0322v4
+0810.0800v1,2008-10-05T04:18:54Z,Condition Numbers of Gaussian Random Matrices,Jack Dongarra,cs.NA,http://arxiv.org/pdf/0810.0800v1
+0811.2984v1,2008-11-18T20:27:35Z,Sensitivity Analysis Using a Fixed Point Interval Iteration,Alexandre Goldsztejn,cs.NA,http://arxiv.org/pdf/0811.2984v1
+0901.1906v1,2009-01-13T23:16:12Z,How to improve the accuracy of the discrete gradient method in the   one-dimensional case,Boguslaw Ratkiewicz,cs.NA,http://arxiv.org/pdf/0901.1906v1
+0904.3638v1,2009-04-23T09:51:51Z,On one method of boundary value problem regularization by passage to the   limit,Lyudmila Gaponova,cs.NA,http://arxiv.org/pdf/0904.3638v1
+0905.3564v1,2009-05-21T20:58:46Z,Two hierarchies of spline interpolations. Practical algorithms for   multivariate higher order splines,Cristian Constantin Lalescu,cs.NA,http://arxiv.org/pdf/0905.3564v1
+0905.4745v2,2009-05-28T20:40:11Z,A fast algorithm for computing minimal-norm solutions to underdetermined   systems of linear equations,Mark Tygert,cs.NA,http://arxiv.org/pdf/0905.4745v2
+0905.4909v1,2009-05-29T15:53:02Z,On the Convex Feasibility Problem,Stefan Maruster,cs.NA,http://arxiv.org/pdf/0905.4909v1
+0906.0504v3,2009-06-02T01:49:04Z,A stabilized finite element formulation of non-smooth contact,G. Haikal,cs.NA,http://arxiv.org/pdf/0906.0504v3
+0907.2083v1,2009-07-13T01:38:06Z,Simultaneously Sparse Solutions to Linear Inverse Problems with Multiple   System Matrices and a Single Observation Vector,Elfar Adalsteinsson,cs.NA,http://arxiv.org/pdf/0907.2083v1
+0907.5234v2,2009-07-29T23:22:24Z,A numerical study of fluids with pressure dependent viscosity flowing   through a rigid porous medium,K. R. Rajagopal,cs.NA,http://arxiv.org/pdf/0907.5234v2
+0909.2793v2,2009-09-15T12:29:26Z,Enhanced sampling schemes for MCMC based blind Bernoulli-Gaussian   deconvolution,E. Le Carpentier,cs.NA,http://arxiv.org/pdf/0909.2793v2
+0909.4101v1,2009-09-22T21:42:51Z,A Numerical Algorithm for Zero Counting. II: Distance to Ill-posedness   and Smoothed Analysis,Mario Wschebor,cs.NA,http://arxiv.org/pdf/0909.4101v1
+0911.0547v1,2009-11-03T10:55:16Z,On Element SDD Approximability,Sivan Toledo,cs.NA,http://arxiv.org/pdf/0911.0547v1
+0911.0790v2,2009-11-04T11:44:39Z,Solution of Non-Square Fuzzy Linear Systems,Şahin Emrah Amrahov,cs.NA,http://arxiv.org/pdf/0911.0790v2
+0911.2270v2,2009-11-11T23:27:03Z,An Iteratively Reweighted Algorithm for Sparse Reconstruction of   Subsurface Flow Properties from Nonlinear Dynamic Data,B. Jafarpour,cs.NA,http://arxiv.org/pdf/0911.2270v2
+0911.4498v2,2009-11-23T21:41:17Z,Computation- and Space-Efficient Implementation of SSA,Anton Korobeynikov,cs.NA,http://arxiv.org/pdf/0911.4498v2
+0912.0180v2,2009-12-01T15:15:44Z,"On the indefinite Helmholtz equation: complex stretched absorbing   boundary layers, iterative analysis, and preconditioning",Hisham bin Zubair,cs.NA,http://arxiv.org/pdf/0912.0180v2
+0912.1135v2,2009-12-06T21:02:14Z,A fast randomized algorithm for orthogonal projection,Mark Tygert,cs.NA,http://arxiv.org/pdf/0912.1135v2
+1001.0829v2,2010-01-06T07:32:37Z,Least-Squares on the Real Symplectic Group,Simone Fiori,cs.NA,http://arxiv.org/pdf/1001.0829v2
+1001.1185v1,2010-01-08T01:34:47Z,Some Architectures for Chebyshev Interpolation,Theja Tulabandhula,cs.NA,http://arxiv.org/pdf/1001.1185v1
+1001.5460v1,2010-01-29T19:24:29Z,Solving Tensor Structured Problems with Computational Tensor Algebra,Patrick Hunziker,cs.NA,http://arxiv.org/pdf/1001.5460v1
+1002.1167v1,2010-02-05T09:29:23Z,Geometric Programming Problem with Co-Efficients and Exponents   Associated with Binary Numbers,A. K. Das,cs.NA,http://arxiv.org/pdf/1002.1167v1
+1004.4769v1,2010-04-27T11:55:56Z,VAGO method for the solution of elliptic second-order boundary value   problems,Petr N. Vabishchevich,cs.NA,http://arxiv.org/pdf/1004.4769v1
+1007.4518v1,2010-07-26T17:50:16Z,Piecewise Convex-Concave Approximation in the $\ell_{\infty}$ Norm,M. P. Cullinan,cs.NA,http://arxiv.org/pdf/1007.4518v1
+1008.1596v1,2010-08-09T21:19:36Z,Bootstrap Markov chain Monte Carlo and optimal solutions for the Law of   Categorical Judgment (Corrected),Burton S. Rosner,cs.NA,http://arxiv.org/pdf/1008.1596v1
+1010.2412v1,2010-10-12T15:18:47Z,Splitting schemes for hyperbolic heat conduction equation,Petr N. Vabishchevich,cs.NA,http://arxiv.org/pdf/1010.2412v1
+1011.1599v2,2010-11-07T00:47:11Z,A Stable Explicit Scheme for Solving Non-Homogeneous Constant   Coefficients Equation using Green's Function,Hiroshi Abe,cs.NA,http://arxiv.org/pdf/1011.1599v2
+1011.2531v1,2010-11-10T23:35:48Z,A Stable Explicit Scheme for Solving Inhomogeneous Constant Coefficients   Differential Equation using Green's Function,Hiroshi Abe,cs.NA,http://arxiv.org/pdf/1011.2531v1
+1011.4580v1,2010-11-20T12:37:45Z,A New Algorithm for General Cyclic Heptadiagonal Linear Systems Using   Sherman-Morrison-Woodbury formula,A. A. Karawia,cs.NA,http://arxiv.org/pdf/1011.4580v1
+1012.4307v2,2010-12-20T12:48:09Z,A preconditioned iterative solver for the scattering solutions of the   Schrödinger equation,Wim Vanroose,cs.NA,http://arxiv.org/pdf/1012.4307v2
+1012.5379v2,2010-12-24T10:13:47Z,GMRES-based multigrid for the complex scaled preconditoner for the   indefinite Helmholtz equation,Hisham bin Zubair,cs.NA,http://arxiv.org/pdf/1012.5379v2
+1012.5484v1,2010-12-25T16:42:30Z,A contribution to the conditioning of the total least squares problem,Serge Gratton,cs.NA,http://arxiv.org/pdf/1012.5484v1
+1101.2173v1,2011-01-11T18:05:00Z,The power and Arnoldi methods in an algebra of circulants,James M. Varah,cs.NA,http://arxiv.org/pdf/1101.2173v1
+1101.2395v1,2011-01-12T16:12:27Z,Domain decomposition schemes for evolutionary equations of first order   with not self-adjoint operators,Petr N. Vabishchevich,cs.NA,http://arxiv.org/pdf/1101.2395v1
+1102.0642v1,2011-02-03T10:51:42Z,Domain decomposition schemes for the Stokes equation,Petr N. Vabishchevich,cs.NA,http://arxiv.org/pdf/1102.0642v1
+1102.4821v1,2011-02-23T19:14:23Z,Rank Aggregation via Nuclear Norm Minimization,Lek-Heng Lim,cs.NA,http://arxiv.org/pdf/1102.4821v1
+1105.3448v1,2011-05-17T18:40:18Z,Substructuring domain decomposition scheme for unsteady problems,Petr N. Vabishchevich,cs.NA,http://arxiv.org/pdf/1105.3448v1
+1105.4337v1,2011-05-22T13:14:06Z,Equivalent Effect Function and Fast Intrinsic Mode Decomposition,Louis Yu Lu,cs.NA,http://arxiv.org/pdf/1105.4337v1
+1107.4189v1,2011-07-21T07:44:17Z,Development and Modelling of High-Efficiency Computing Structure for   Digital Signal Processing,Hoon Jae Lee,cs.NA,http://arxiv.org/pdf/1107.4189v1
+1107.4810v4,2011-07-24T22:08:52Z,Numerical Stability of Explicit Runge-Kutta Finite-Difference Schemes   for the Nonlinear Schrödinger Equation,Ricardo Carretero-González,cs.NA,http://arxiv.org/pdf/1107.4810v4
+1107.5087v2,2011-07-25T22:22:16Z,Image representation by blob and its application in CT reconstruction   from few projections,Samuel Legoupil,cs.NA,http://arxiv.org/pdf/1107.5087v2
+1107.5479v1,2011-07-27T14:08:45Z,Iterative methods for solving the pressure problem at multiphase   filtration,M. Vasil'eva,cs.NA,http://arxiv.org/pdf/1107.5479v1
+1107.5790v1,2011-07-28T18:52:28Z,Image Deblurring Using Derivative Compressed Sensing for Optical Imaging   Application,Zhou Wang,cs.NA,http://arxiv.org/pdf/1107.5790v1
+1108.5822v3,2011-08-30T03:53:31Z,Banded Householder representation of linear subspaces,Geoffrey Irving,cs.NA,http://arxiv.org/pdf/1108.5822v3
+1109.1027v2,2011-09-05T22:38:05Z,A Two-Step High-Order Compact Scheme for the Laplacian Operator and its   Implementation in an Explicit Method for Integrating the Nonlinear   Schrödinger Equation,R. Carretero,cs.NA,http://arxiv.org/pdf/1109.1027v2
+1109.5913v1,2011-09-27T14:47:03Z,On the control of the load increments for a proper description of   multiple delamination in a domain decomposition framework,Pierre Gosselet,cs.NA,http://arxiv.org/pdf/1109.5913v1
+1110.5989v1,2011-10-27T05:51:23Z,A Heuristic Description of Fast Fourier Transform,Xiao Fan,cs.NA,http://arxiv.org/pdf/1110.5989v1
+1111.3971v1,2011-11-15T12:45:54Z,The Numerical Generalized Least-Squares Estimator of an Unknown Constant   Mean of Random Field,Tomasz Suslo,cs.NA,http://arxiv.org/pdf/1111.3971v1
+1201.3914v1,2012-01-18T10:32:38Z,Floating-Point Arithmetic on Round-to-Nearest Representations,Adrien Panhaleux,cs.NA,http://arxiv.org/pdf/1201.3914v1
+1201.5975v1,2012-01-28T17:22:28Z,Floating-Point Numbers with Error Estimates (revised),Glauco Masotti,cs.NA,http://arxiv.org/pdf/1201.5975v1
+1203.0889v1,2012-03-05T12:40:45Z,Data-Driven Execution of Fast Multipole Methods,Rio Yokota,cs.NA,http://arxiv.org/pdf/1203.0889v1
+1203.2739v1,2012-03-13T08:50:14Z,Analyzing and enhancing OSKI for sparse matrix-vector multiplication,Cevdet Aykanat,cs.NA,http://arxiv.org/pdf/1203.2739v1
+1203.4481v2,2012-03-20T15:56:58Z,Matrix Recipes for Hard Thresholding Methods,Volkan Cevher,cs.NA,http://arxiv.org/pdf/1203.4481v2
+1205.3597v1,2012-05-16T08:44:58Z,The Correct Classic Generalized Least-Squares Estimator of an Unknown   Constant Mean of Randon Field,Tomasz Suslo,cs.NA,http://arxiv.org/pdf/1205.3597v1
+1206.0701v3,2012-06-04T18:50:29Z,A numerical methodology for enforcing maximum principles and the   non-negative constraint for transient diffusion equations,M. Shabouei,cs.NA,http://arxiv.org/pdf/1206.0701v3
+1207.1773v1,2012-07-07T07:52:48Z,A hybrid Hermitian general eigenvalue solver,Jack Dongarra,cs.NA,http://arxiv.org/pdf/1207.1773v1
+1208.0701v10,2012-08-03T10:31:20Z,Numerical Computations For Operator Axiom,Pith Xie,cs.NA,http://arxiv.org/pdf/1208.0701v10
+1208.2292v2,2012-08-10T22:09:15Z,"L1 Splines for Robust, Simple, and Fast Smoothing of Grid Data",Guillermo Sapiro,cs.NA,http://arxiv.org/pdf/1208.2292v2
+1208.2451v1,2012-08-12T19:19:23Z,LU factorization with panel rank revealing pivoting and its   communication avoiding version,Ming Gu,cs.NA,http://arxiv.org/pdf/1208.2451v1
+1209.3516v3,2012-09-16T19:27:02Z,An FMM Based on Dual Tree Traversal for Many-core Architectures,Rio Yokota,cs.NA,http://arxiv.org/pdf/1209.3516v3
+1302.3876v2,2013-02-15T20:46:05Z,An Efficient Implementation of the Ensemble Kalman Filter Based on an   Iterative Sherman-Morrison Formula,Jeffrey Anderson,cs.NA,http://arxiv.org/pdf/1302.3876v2
+1304.4292v1,2013-04-15T23:24:46Z,Relative error due to a single bit-flip in floating-point arithmetic,Bradley R. Lowery,cs.NA,http://arxiv.org/pdf/1304.4292v1
+1304.4738v1,2013-04-17T09:04:39Z,Computing Enclosures of Overdetermined Interval Linear Systems,Milan Hladík,cs.NA,http://arxiv.org/pdf/1304.4738v1
+1310.3564v1,2013-10-14T04:57:34Z,Pursuit Fractal Analysis of Time-Series Data,Shuya Kanagawa,cs.NA,http://arxiv.org/pdf/1310.3564v1
+1310.4046v1,2013-10-15T13:20:52Z,Explicit schemes for parabolic and hyperbolic equations,Petr N. Vabishchevich,cs.NA,http://arxiv.org/pdf/1310.4046v1
+1310.7697v6,2013-10-29T06:54:29Z,Linear Convergence of Comparison-based Step-size Adaptive Randomized   Search via Stability of Markov Chains,Nikolaus Hansen,cs.NA,http://arxiv.org/pdf/1310.7697v6
+1310.8121v6,2013-10-28T00:01:26Z,Easy Accurate Reading and Writing of Floating-Point Numbers,Aubrey Jaffer,cs.NA,http://arxiv.org/pdf/1310.8121v6
+1310.8397v1,2013-10-31T06:38:56Z,Linear Convergence on Positively Homogeneous Functions of a Comparison   Based Step-Size Adaptive Randomized Search: the (1+1) ES with Generalized   One-fifth Success Rule,Nikolaus Hansen,cs.NA,http://arxiv.org/pdf/1310.8397v1
+1310.8573v2,2013-10-31T16:25:25Z,An optimally concentrated Gabor transform for localized time-frequency   components,Darian Onchis,cs.NA,http://arxiv.org/pdf/1310.8573v2
+1311.0156v3,2013-11-01T12:03:25Z,$L_{1/2}$ Regularization: Convergence of Iterative Half Thresholding   Algorithm,Zongben Xu,cs.NA,http://arxiv.org/pdf/1311.0156v3
+1311.2661v2,2013-11-12T02:23:43Z,"An Approximate, Efficient Solver for LP Rounding",Stephen J. Wright,cs.NA,http://arxiv.org/pdf/1311.2661v2
+1311.5202v2,2013-11-17T09:09:32Z,A fast directional BEM for large-scale acoustic problems based on the   Burton-Miller formulation,Yijun Liu,cs.NA,http://arxiv.org/pdf/1311.5202v2
+1404.6979v1,2014-04-28T13:51:35Z,An adjustable-width window with good dynamic range,I M Stewart,cs.NA,http://arxiv.org/pdf/1404.6979v1
+1405.7442v2,2014-05-29T02:27:50Z,Overview of Constrained PARAFAC Models,André L. F. de Almeida,cs.NA,http://arxiv.org/pdf/1405.7442v2
+1407.3374v1,2014-07-12T11:26:44Z,An improved car-following model considering variable safety headway   distance,Yiman Du,cs.NA,http://arxiv.org/pdf/1407.3374v1
+1507.00687v2,2015-07-02T18:42:28Z,Improving the numerical stability of fast matrix multiplication,Oded Schwartz,cs.NA,http://arxiv.org/pdf/1507.00687v2
+1507.03173v1,2015-07-12T00:47:51Z,A Gauss-Seidel Iterative Thresholding Algorithm for lq Regularized Least   Squares Regression,Shaobo Lin,cs.NA,http://arxiv.org/pdf/1507.03173v1
+1507.03331v7,2015-07-13T06:21:01Z,Certified Roundoff Error Bounds Using Semidefinite Programming,Alastair Donaldson,cs.NA,http://arxiv.org/pdf/1507.03331v7
+0910.4307v1,2009-10-22T12:24:33Z,A Geometric Approach to Solve Fuzzy Linear Systems of Differential   Equations,A. Golayoglu Fatullayev,cs.NA,http://arxiv.org/pdf/0910.4307v1
+0910.5434v1,2009-10-28T17:02:17Z,An Example of Symmetry Exploitation for Energy-related Eigencomputations,Paolo Bientinesi,cs.NA,http://arxiv.org/pdf/0910.5434v1
+0910.5435v6,2009-10-28T17:03:05Z,"Fast algorithms for spherical harmonic expansions, III",Mark Tygert,cs.NA,http://arxiv.org/pdf/0910.5435v6
+1003.1473v1,2010-03-07T14:09:11Z,"Comments on ""Routh Stability Criterion""",S. K. Katti,cs.NA,http://arxiv.org/pdf/1003.1473v1
+1003.1477v1,2010-03-07T14:19:58Z,Multi-objective Geometric Programming Problem With Weighted Mean Method,K. K. Biswal,cs.NA,http://arxiv.org/pdf/1003.1477v1
+1003.1794v1,2010-03-09T06:38:08Z,New Approach to Identify Common Eigenvalues of real matrices using   Gerschgorin Theorem and Bisection method,S. K. Katti,cs.NA,http://arxiv.org/pdf/1003.1794v1
+1003.5257v3,2010-03-27T02:43:52Z,Enforcing the non-negativity constraint and maximum principles for   diffusion with decay on general computational grids,K. B. Nakshatrala,cs.NA,http://arxiv.org/pdf/1003.5257v3
+1005.3097v1,2010-05-18T04:24:36Z,"Effective Resistances, Statistical Leverage, and Applications to Linear   Equation Solving",Michael W. Mahoney,cs.NA,http://arxiv.org/pdf/1005.3097v1
+1005.5631v1,2010-05-31T09:10:30Z,Experimental Comparisons of Derivative Free Optimization Algorithms,Marc Schoenauer,cs.NA,http://arxiv.org/pdf/1005.5631v1
+1005.5712v1,2010-05-31T17:55:44Z,SM stability for time-dependent problems,Petr N. Vabishchevich,cs.NA,http://arxiv.org/pdf/1005.5712v1
+1103.3026v1,2011-03-15T20:35:13Z,Generalized Filtering Decomposition,Frédéric Nataf,cs.NA,http://arxiv.org/pdf/1103.3026v1
+1112.1294v1,2011-12-06T14:42:14Z,Additive schemes (splitting schemes) for some systems of evolutionary   equations,Petr N. Vabishchevich,cs.NA,http://arxiv.org/pdf/1112.1294v1
+1211.4332v1,2012-11-19T08:30:30Z,Real root refinements for univariate polynomial equations,Ye Liang,cs.NA,http://arxiv.org/pdf/1211.4332v1
+1211.6822v2,2012-11-29T07:03:24Z,Calculation of orthant probabilities by the holonomic gradient method,Akimichi Takemura,cs.NA,http://arxiv.org/pdf/1211.6822v2
+1301.0581v1,2012-12-12T15:57:07Z,General Lower Bounds based on Computer Generated Higher Order Expansions,Hilbert Kappen,cs.NA,http://arxiv.org/pdf/1301.0581v1
+1301.2481v1,2013-01-11T12:53:14Z,Zur iterativen Loesosung von linearen Gleichungssystemen,Sebstian Karl,cs.NA,http://arxiv.org/pdf/1301.2481v1
+1301.5412v2,2013-01-23T06:34:44Z,A2ILU: Auto-accelerated ILU Preconditioner for Sparse Linear Systems,Teruyoshi Washizawa,cs.NA,http://arxiv.org/pdf/1301.5412v2
+1301.5435v3,2013-01-23T08:53:13Z,On the $\mathbb{F}_2$-linear relations of Mersenne Twister pseudorandom   number generators,Shin Harase,cs.NA,http://arxiv.org/pdf/1301.5435v3
+1305.0203v1,2013-05-01T15:24:26Z,Matrix Compression using the Nystroöm Method,Alon Schclar,cs.NA,http://arxiv.org/pdf/1305.0203v1
+1305.1059v1,2013-05-05T22:13:57Z,Subsquares Approach - Simple Scheme for Solving Overdetermined Interval   Linear Systems,Milan Hladík,cs.NA,http://arxiv.org/pdf/1305.1059v1
+1305.2135v2,2013-05-07T11:09:11Z,Almost-commuting matrices are almost jointly diagonalizable,Michael M. Bronstein,cs.NA,http://arxiv.org/pdf/1305.2135v2
+1306.0103v1,2013-06-01T12:55:26Z,Dominant Frequency Extraction,Rastislav Telgarsky,cs.NA,http://arxiv.org/pdf/1306.0103v1
+1306.5216v1,2013-06-21T19:15:57Z,Modification to Darcy model for high pressure and high velocity   applications and associated mixed finite element formulations,K. B. Nakshatrala,cs.NA,http://arxiv.org/pdf/1306.5216v1
+1308.4275v2,2013-08-20T10:16:16Z,Efficient estimation of eigenvalue counts in an interval,Yousef Saad,cs.NA,http://arxiv.org/pdf/1308.4275v2
+1308.5625v1,2013-08-26T16:16:07Z,Shape identification and classification in echolocation,Han Wang,cs.NA,http://arxiv.org/pdf/1308.5625v1
+1308.5915v1,2013-08-27T16:26:57Z,Generalized Perron--Frobenius Theorem for Nonsquare Matrices,David Peleg,cs.NA,http://arxiv.org/pdf/1308.5915v1
+1309.3719v6,2013-09-15T03:02:07Z,A New Method for the Analysis of Signals: The Square Wave Transform   (SWT),Sherry Gapper,cs.NA,http://arxiv.org/pdf/1309.3719v6
+1309.4616v1,2013-09-18T11:21:05Z,Exponential Integrators on Graphic Processing Units,Alexander Ostermann,cs.NA,http://arxiv.org/pdf/1309.4616v1
+1312.3618v1,2013-12-12T20:40:13Z,Randomness of D Sequences via Diehard Testing,James Bellamy,cs.NA,http://arxiv.org/pdf/1312.3618v1
+1312.7637v1,2013-12-30T06:09:28Z,Insight into Primal Augmented Lagrangian Multilplier Method,K P Soman,cs.NA,http://arxiv.org/pdf/1312.7637v1
+1401.0190v1,2013-12-31T17:09:32Z,The DFLU flux for systems of conservation laws,Jérôme Jaffré,cs.NA,http://arxiv.org/pdf/1401.0190v1
+1401.0193v1,2013-12-31T17:13:44Z,Mathematical analysis of a discrete fracture model coupling Darcy flow   in the matrix with Darcy-Forchheimer flow in the fracture,Jean Roberts,cs.NA,http://arxiv.org/pdf/1401.0193v1
+1401.0248v2,2014-01-01T04:25:16Z,Twofold fast summation,Evgeny Latkin,cs.NA,http://arxiv.org/pdf/1401.0248v2
+1401.0798v2,2014-01-04T11:06:43Z,Domain decomposition methods with overlapping subdomains for   time-dependent problems,Petr Zakharov,cs.NA,http://arxiv.org/pdf/1401.0798v2
+1401.6235v6,2014-01-24T01:33:54Z,Twofold fast arithmetic,Evgeny Latkin,cs.NA,http://arxiv.org/pdf/1401.6235v6
+1401.7129v1,2014-01-28T10:36:04Z,Towards a Resolution of P = NP Conjecture,Garimella Rama Murthy,cs.NA,http://arxiv.org/pdf/1401.7129v1
+1403.2273v1,2014-03-07T19:13:06Z,Some isomorphic classes for noncanonical hypercomplex number systems of   dimension 2,Iana V. Khitsko,cs.NA,http://arxiv.org/pdf/1403.2273v1
+1403.4462v1,2014-03-17T11:03:58Z,Tensor Decompositions for Signal Processing Applications From Two-way to   Multiway Component Analysis,L. De Lathauwer,cs.NA,http://arxiv.org/pdf/1403.4462v1
+1403.4747v1,2014-03-19T09:37:21Z,A fast directional boundary element method for high frequency acoustic   problems in three dimensions,Jinyou Xiao,cs.NA,http://arxiv.org/pdf/1403.4747v1
+1403.7458v7,2014-03-28T17:37:13Z,Solvers for $\mathcal{O} (N)$ Electronic Structure in the Strong Scaling   Limit,Laxmikant V. Kalé,cs.NA,http://arxiv.org/pdf/1403.7458v7
+1403.7692v2,2014-03-30T02:24:49Z,A Derivative-Free Trust Region Framework for Variational Data   Assimilation,Adrian Sandu,cs.NA,http://arxiv.org/pdf/1403.7692v2
+1403.7698v1,2014-03-30T04:13:46Z,Recursive computation of spherical harmonic rotation coefficients of   large degree,Ramani Duraiswami,cs.NA,http://arxiv.org/pdf/1403.7698v1
+1406.0080v2,2014-05-31T14:18:34Z,On the equivalence between low rank matrix completion and tensor rank,Harm Derksen,cs.NA,http://arxiv.org/pdf/1406.0080v2
+1406.1572v1,2014-06-06T02:23:11Z,Consensus-based In-Network Computation of the PARAFAC Decomposition,André L. F. de Almeida,cs.NA,http://arxiv.org/pdf/1406.1572v1
+1406.3461v1,2014-06-13T09:40:39Z,Clifford Type Algebra Characteristics Investigation,Alina S. Turenko,cs.NA,http://arxiv.org/pdf/1406.3461v1
+1406.4812v2,2014-05-27T04:43:25Z,A benchmark generator for boolean quadratic programming,Michael X. Zhou,cs.NA,http://arxiv.org/pdf/1406.4812v2
+1408.1237v1,2014-08-06T10:39:59Z,Preconditioned Krylov solvers for kernel regression,Ramani Duraiswami,cs.NA,http://arxiv.org/pdf/1408.1237v1
+1409.2030v1,2014-09-06T16:32:00Z,Algorithms and Polynomiography for Solving Quaternion Quadratic   Equations,Bahman Kalantari,cs.NA,http://arxiv.org/pdf/1409.2030v1
+1409.2455v1,2014-09-08T18:31:29Z,Degree reduction of disk rational Bézier curves,Mao Shi,cs.NA,http://arxiv.org/pdf/1409.2455v1
+1410.1934v1,2014-10-07T22:11:53Z,Approximate Exponential Algorithms to Solve the Chemical Master Equation,Adrian Sandu,cs.NA,http://arxiv.org/pdf/1410.1934v1
+1410.2202v1,2014-10-08T18:12:26Z,Newton-Ellipsoid Method and its Polynomiography,Eric Lee,cs.NA,http://arxiv.org/pdf/1410.2202v1
+1410.8155v1,2014-10-29T20:34:59Z,Solving stochastic chemical kinetics by Metropolis Hastings sampling,Adrian Sandu,cs.NA,http://arxiv.org/pdf/1410.8155v1
+1411.3406v6,2014-11-13T00:38:52Z,A Field Guide to Forward-Backward Splitting with a FASTA Implementation,Richard Baraniuk,cs.NA,http://arxiv.org/pdf/1411.3406v6
+1412.2675v3,2014-12-08T17:42:58Z,Enhanced joint sparsity via Iterative Support Detection,Tingzhu Huang,cs.NA,http://arxiv.org/pdf/1412.2675v3
+1501.06318v2,2015-01-26T10:36:03Z,"Simultaneous diagonalization: the asymmetric, low-rank, and noisy   settings",Percy Liang,cs.NA,http://arxiv.org/pdf/1501.06318v2
+1502.04749v1,2015-02-16T23:16:36Z,Improved Monte Carlo Variance Reduction for Space and Energy   Self-Shielding,R. N. Slaybaugh,cs.NA,http://arxiv.org/pdf/1502.04749v1
+1504.00523v4,2015-04-02T12:29:34Z,Fast Spectral Low Rank Matrix Approximation,Zhihua Zhang,cs.NA,http://arxiv.org/pdf/1504.00523v4
+1505.02740v3,2015-05-11T19:17:33Z,Noise Robustness of a Combined Phase Retrieval and Reconstruction Method   for Phase-Contrast Tomography,Per Christian Hansen,cs.NA,http://arxiv.org/pdf/1505.02740v3
+1505.06151v1,2015-05-22T17:10:52Z,Automatic Detection of the Common and Non-common Frequencies in   Congruent Discrete Spectra. A Theoretical Approach,Constantin Paunoiu,cs.NA,http://arxiv.org/pdf/1505.06151v1
+1506.01701v1,2015-01-25T18:38:09Z,Reversible Digital Filters Total Parametric Sensitivity Optimization   using Non-canonical Hypercomplex Number Systems,Iana V. Khitsko,cs.NA,http://arxiv.org/pdf/1506.01701v1
+1508.05273v1,2015-08-21T14:04:02Z,Rank-1 Tensor Approximation Methods and Application to Deflation,Andre Lima Ferrer de Almeida,cs.NA,http://arxiv.org/pdf/1508.05273v1
+1509.02157v1,2015-09-07T09:45:34Z,Detecting Potential Instabilities of Numerical Algorithms,Yao Yang,cs.NA,http://arxiv.org/pdf/1509.02157v1
+1509.05895v2,2015-09-19T14:10:31Z,"Trading Accuracy for Numerical Stability: Orthogonalization,   Biorthogonalization and Regularization",Alan V. Oppenheim,cs.NA,http://arxiv.org/pdf/1509.05895v2
+1510.01118v1,2015-10-05T12:11:43Z,Illustration of iterative linear solver behavior on simple 1D and 2D   problems,Sokolov Dmitry,cs.NA,http://arxiv.org/pdf/1510.01118v1
+1510.01145v1,2015-10-05T13:38:23Z,Reduced Precision Checking to Detect Errors in Floating Point Arithmetic,Daniel J. Sorin,cs.NA,http://arxiv.org/pdf/1510.01145v1
+1510.04591v1,2015-10-15T15:42:18Z,New fast divide-and-conquer algorithms for the symmetric tridiagonal   eigenvalue problem,Hao Jiang,cs.NA,http://arxiv.org/pdf/1510.04591v1
+1510.04632v1,2015-10-15T17:11:12Z,Monte Carlo Dynamically Weighted Importance Sampling For Finite Element   Model Updating,Tshilidzi Marwala,cs.NA,http://arxiv.org/pdf/1510.04632v1
+1510.04658v2,2015-10-15T18:36:51Z,Spectral Partitioning with Blends of Eigenvectors,David A. Bader,cs.NA,http://arxiv.org/pdf/1510.04658v2
+1510.04853v1,2015-10-16T11:59:50Z,Efficient Approaches for Enclosing the United Solution Set of the   Interval Generalized Sylvester Matrix Equation,Milan Hladík,cs.NA,http://arxiv.org/pdf/1510.04853v1
+1510.05231v1,2015-10-18T12:21:48Z,Signal Processing Structures for Solving Conservative Constraint   Satisfaction Problems,Thomas A. Baran,cs.NA,http://arxiv.org/pdf/1510.05231v1
+1511.01306v2,2015-11-04T12:38:56Z,About Notations in Multiway Array Processing,Jeremy E. Cohen,cs.NA,http://arxiv.org/pdf/1511.01306v2
+1511.01598v3,2015-11-05T03:48:28Z,A Simple Approach to Optimal CUR Decomposition,Zhihua Zhang,cs.NA,http://arxiv.org/pdf/1511.01598v3
+1511.05362v2,2015-11-17T11:58:24Z,Accelerating Random Kaczmarz Algorithm Based on Clustering Information,Haishan Ye,cs.NA,http://arxiv.org/pdf/1511.05362v2
+1511.06227v2,2015-11-19T16:10:04Z,Empirical Research and Automatic Processing Method of Precision-specific   Operation,Xinrui He,cs.NA,http://arxiv.org/pdf/1511.06227v2
+1511.08547v1,2015-11-27T03:11:17Z,Wilkinson's Inertia-Revealing Factorization and Its Application to   Sparse Matrices,Sivan Toledo,cs.NA,http://arxiv.org/pdf/1511.08547v1
+1512.03224v1,2015-12-10T12:04:56Z,Spectral Compressed Sensing via CANDECOMP/PARAFAC Decomposition of   Incomplete Tensors,Hongbin Li,cs.NA,http://arxiv.org/pdf/1512.03224v1
+1601.00112v1,2016-01-01T20:42:09Z,Stability and bifurcation properties of the algorithms for keeping of   differential equations solutions on the required level,Yu. V. Troshchiev,cs.NA,http://arxiv.org/pdf/1601.00112v1
+1601.01083v1,2016-01-06T05:48:21Z,Efficient tensor completion: Low-rank tensor train,Minh N. Do,cs.NA,http://arxiv.org/pdf/1601.01083v1
+1601.03230v1,2016-01-13T13:18:24Z,An Optimal Block Diagonal Preconditioner for Heterogeneous Saddle Point   Problems in Phase Separation,Pawan Kumar,cs.NA,http://arxiv.org/pdf/1601.03230v1
+1601.05695v1,2016-01-21T16:18:55Z,Fluid Dynamics Modeling : The Numerical Solution Of 2D Navier Hyperbolic   Equations,Narek Jilavyan,cs.NA,http://arxiv.org/pdf/1601.05695v1
+1601.05758v2,2016-01-21T19:12:54Z,A New Pivot Selection Algorithm for Symmetric Indefinite Factorization   Arising in Quadratic Programming with Block Constraint Matrices,Gun Srijuntongsiri,cs.NA,http://arxiv.org/pdf/1601.05758v2
+1601.06812v1,2016-01-25T21:25:41Z,New Pivot Selection for Sparse Symmetric Indefinite Factorization,Gun Srijuntongsiri,cs.NA,http://arxiv.org/pdf/1601.06812v1
+1602.02244v1,2016-02-06T12:04:14Z,Fast Multipole Method as a Matrix-Free Hierarchical Low-Rank   Approximation,David Keyes,cs.NA,http://arxiv.org/pdf/1602.02244v1
+1602.02740v1,2016-02-08T20:53:25Z,Toom-Cook Multiplication: Some Theoretical and Practical Aspects,M. J. Kronenburg,cs.NA,http://arxiv.org/pdf/1602.02740v1
+1602.07067v2,2016-02-23T07:40:40Z,Online Low-Rank Tensor Subspace Tracking from Incomplete Data by CP   Decomposition using Recursive Least Squares,Hiroyuki Kasai,cs.NA,http://arxiv.org/pdf/1602.07067v2
+1602.07558v2,2016-02-23T17:42:36Z,The swept rule for breaking the latency barrier in time advancing   two-dimensional PDEs,John Williams,cs.NA,http://arxiv.org/pdf/1602.07558v2
+1602.08391v1,2015-11-20T14:44:44Z,Ultrafast a Distributed Arithmetic in multi-row codes,V. I. Shcherbakov,cs.NA,http://arxiv.org/pdf/1602.08391v1
+1604.00617v1,2016-04-03T09:52:40Z,A Direct Elliptic Solver Based on Hierarchically Low-rank Schur   Complements,David Keyes,cs.NA,http://arxiv.org/pdf/1604.00617v1
+1604.08476v1,2016-04-24T16:20:08Z,"Unit Consistency, Generalized Inverses, and Effective System Design   Methods",Jeffrey Uhlmann,cs.NA,http://arxiv.org/pdf/1604.08476v1
+1605.00190v2,2016-05-01T00:39:38Z,Pixel matrices: An elementary technique for solving nonlinear systems,David I. Spivak,cs.NA,http://arxiv.org/pdf/1605.00190v2
+1605.00621v1,2016-05-02T19:06:46Z,A Necessary and Sufficient Condition for Local Maxima of Polynomial   Modulus Over Unit Disc,Bahman Kalantari,cs.NA,http://arxiv.org/pdf/1605.00621v1
+1605.04644v1,2016-05-16T03:55:31Z,Abnormal Subspace Sparse PCA for Anomaly Detection and Interpretation,Bilong Shen,cs.NA,http://arxiv.org/pdf/1605.04644v1
+1605.05023v1,2016-05-17T05:51:42Z,"Comments on ""A Square-Root-Free Matrix Decomposition Method for   Energy-Efficient Least Square Computation on Embedded Systems""",Mohammad M. Mansour,cs.NA,http://arxiv.org/pdf/1605.05023v1
+1605.05610v2,2016-05-18T15:09:46Z,A Short Proof for Gap Independence of Simultaneous Iteration,Edo Liberty,cs.NA,http://arxiv.org/pdf/1605.05610v2
+1605.06760v1,2016-05-22T09:08:09Z,Space-Efficient Karatsuba Multiplication for Multi-Precision Integers,Yiping Cheng,cs.NA,http://arxiv.org/pdf/1605.06760v1
+1605.08134v1,2016-05-26T03:17:33Z,A Rank Revealing Randomized Singular Value Decomposition (R3SVD)   Algorithm for Low-rank Matrix Approximations,Yaohang Li,cs.NA,http://arxiv.org/pdf/1605.08134v1
+1606.00803v1,2016-06-02T18:58:53Z,Locality-Aware Laplacian Mesh Smoothing,Padma Raghavan,cs.NA,http://arxiv.org/pdf/1606.00803v1
+1606.00807v1,2016-05-31T14:33:06Z,A Parallel Implementation of the Ensemble Kalman Filter Based on   Modified Cholesky Decomposition,Xinwei Deng,cs.NA,http://arxiv.org/pdf/1606.00807v1
+1606.01753v1,2016-06-06T14:09:30Z,Mathematical Modeling of General Inaccurate Adders,Kirthi Krishna Muntimadugu,cs.NA,http://arxiv.org/pdf/1606.01753v1
+1606.03032v1,2016-06-09T17:39:43Z,A strategy to implement Dirichlet boundary conditions in the context of   ADER finite volume schemes. One-dimensional conservation laws,Gino I. Montecinos,cs.NA,http://arxiv.org/pdf/1606.03032v1
+1606.08743v2,2016-06-28T14:46:50Z,Monotonicity-preserving finite element schemes based on differentiable   nonlinear stabilization,Jesús Bonilla,cs.NA,http://arxiv.org/pdf/1606.08743v2
+1607.02584v1,2016-07-09T08:15:50Z,A Unified Alternating Direction Method of Multipliers by Majorization   Minimization,Zhouchen Lin,cs.NA,http://arxiv.org/pdf/1607.02584v1
+1607.04499v2,2016-07-15T13:17:30Z,Selecting Algorithms for Black Box Matrices: Checking for Matrix   Properties That Can Simplify Computations,Wayne Eberly,cs.NA,http://arxiv.org/pdf/1607.04499v2
+1607.04514v1,2016-07-15T14:03:49Z,Black Box Linear Algebra: Extending Wiedemann's Analysis of a Sparse   Matrix Preconditioner for Computations over Small Fields,Wayne Eberly,cs.NA,http://arxiv.org/pdf/1607.04514v1
+1608.00351v1,2016-08-01T08:38:12Z,Accelerated Kaczmarz Algorithms using History Information,Tengfei Ma,cs.NA,http://arxiv.org/pdf/1608.00351v1
+1608.02166v4,2016-08-07T00:48:57Z,Analysis of time series and signals using the Square Wave Method,Sherry Gapper,cs.NA,http://arxiv.org/pdf/1608.02166v4
+1608.04571v1,2016-08-16T12:32:47Z,A simple algorithm to find the L-curve corner in the regularization of   inverse problems,Luca Callegaro,cs.NA,http://arxiv.org/pdf/1608.04571v1
+1609.00893v1,2016-09-04T05:12:43Z,Low-Rank Tensor Networks for Dimensionality Reduction and Large-Scale   Optimization Problems: Perspectives and Challenges PART 1,D. Mandic,cs.NA,http://arxiv.org/pdf/1609.00893v1
+1609.02258v1,2016-09-08T04:01:02Z,Tighter bound of Sketched Generalized Matrix Approximation,Zhihua Zhang,cs.NA,http://arxiv.org/pdf/1609.02258v1
+1609.02302v1,2016-09-08T07:28:41Z,"Soft Recovery Through $\ell_{1,2}$ Minimization with Applications in   Recovery of Simultaneously Sparse and Low-Rank Matrice",Axel Flinth,cs.NA,http://arxiv.org/pdf/1609.02302v1
+1609.04585v2,2016-09-15T11:54:58Z,On Memory Footprints of Partitioned Sparse Matrices,Daniel Langr,cs.NA,http://arxiv.org/pdf/1609.04585v2
+1610.03764v1,2016-10-12T15:59:52Z,Technical Report: Improved Fourier Reconstruction using Jump Information   with Applications to MRI,Mark Iwen,cs.NA,http://arxiv.org/pdf/1610.03764v1
+1610.05427v2,2016-10-18T04:16:15Z,"Proximal Algorithms and Temporal Differences for Large Linear Systems:   Extrapolation, Approximation, and Simulation",Dimitri P. Bertsekas,cs.NA,http://arxiv.org/pdf/1610.05427v2
+1610.07038v2,2016-10-22T12:04:12Z,Certified Roundoff Error Bounds using Bernstein Expansions and Sparse   Krivine-Stengle Representations,Thao Dang,cs.NA,http://arxiv.org/pdf/1610.07038v2
+1610.08881v1,2016-10-27T16:55:27Z,A Revisit of Block Power Methods for Finite State Markov Chain   Applications,Yaohang Li,cs.NA,http://arxiv.org/pdf/1610.08881v1
+1610.09049v1,2016-10-28T01:17:22Z,Data-driven time parallelism via forecasting,Andrea Barth,cs.NA,http://arxiv.org/pdf/1610.09049v1
+1610.09079v1,2016-10-28T04:29:38Z,Stability analysis of the numerical Method of characteristics applied to   energy-preserving systems. Part I: Periodic boundary conditions,Zihao Deng,cs.NA,http://arxiv.org/pdf/1610.09079v1
+1610.09080v1,2016-10-28T04:47:59Z,Stability analysis of the numerical Method of characteristics applied to   energy-preserving systems. Part II: Nonreflecting boundary conditions,Zihao Deng,cs.NA,http://arxiv.org/pdf/1610.09080v1
+1611.05800v1,2016-11-17T17:41:16Z,Splitting schemes for unsteady problems involving the grad-div operator,Petr N. Vabishchevich,cs.NA,http://arxiv.org/pdf/1611.05800v1
+1611.09379v1,2016-11-28T21:06:31Z,Fast Multipole Method based filtering of non-uniformly sampled data,Ramani Duraiswami,cs.NA,http://arxiv.org/pdf/1611.09379v1
+1612.02153v1,2016-12-07T08:53:49Z,Revisiting Hammel et al. (1987): Does the shadowing property hold for   modern computers?,G. F. V. Amaral,cs.NA,http://arxiv.org/pdf/1612.02153v1
+1612.04542v1,2016-12-14T09:09:16Z,Approximate Fast Fourier Transforms on graphs via multi-layer sparse   approximations,Nicolas Tremblay,cs.NA,http://arxiv.org/pdf/1612.04542v1
+1701.01780v1,2017-01-06T23:57:07Z,"Spectral Statistics of Lattice Graph Structured, Non-uniform   Percolations",José M. F. Moura,cs.NA,http://arxiv.org/pdf/1701.01780v1
+1701.03720v1,2017-01-13T16:49:25Z,Multivariate predictions of local reduced-order-model errors and   dimensions,Adrian Sandu,cs.NA,http://arxiv.org/pdf/1701.03720v1
+1701.06528v2,2017-01-23T17:55:50Z,EPIRK-W and EPIRK-K time discretization methods,Mayya Tokman,cs.NA,http://arxiv.org/pdf/1701.06528v2
+1701.06600v1,2017-01-23T19:37:35Z,A Practical Randomized CP Tensor Decomposition,Tamara G. Kolda,cs.NA,http://arxiv.org/pdf/1701.06600v1
+astro-ph/0605514v2,2006-05-20T13:23:36Z,An algorithm for solving the pulsar equation,Marcin Kolonko,astro-ph,http://arxiv.org/pdf/astro-ph/0605514v2
+cs/9904003v1,1999-04-11T08:21:13Z,The Structure of Weighting Coefficient Matrices of Harmonic Differential   Quadrature and Its Applications,T. Zhong,cs.CE,http://arxiv.org/pdf/cs/9904003v1
+cs/9904006v1,1999-04-15T12:31:21Z,Jacobian matrix: a bridge between linear and nonlinear polynomial-only   problems,W. Chen,cs.CE,http://arxiv.org/pdf/cs/9904006v1
+cs/9904007v1,1999-04-15T13:24:56Z,The Study on the Nonlinear Computations of the DQ and DC Methods,Tingxiu Zhong,cs.CE,http://arxiv.org/pdf/cs/9904007v1
+cs/9904021v1,1999-04-28T13:12:47Z,Hadamard product nonlinear formulation of Galerkin and finite element   methods,W. Chen,cs.CE,http://arxiv.org/pdf/cs/9904021v1
+cs/9906011v1,1999-06-09T12:27:03Z,A Newton method without evaluation of nonlinear function values,W. Chen,cs.CE,http://arxiv.org/pdf/cs/9906011v1
+cs/9906012v1,1999-06-09T12:47:13Z,The application of special matrix product to differential quadrature   solution of geometrically nonlinear bending of orthotropic rectangular plates,W. He,cs.CE,http://arxiv.org/pdf/cs/9906012v1
+cs/9907015v2,1999-07-09T18:23:17Z,Linear-Time Approximation Algorithms for Computing Numerical Summation   with Provably Small Errors,Jie Wang,cs.DS,http://arxiv.org/pdf/cs/9907015v2
+cs/9907020v2,1999-07-12T11:34:56Z,Generalized linearization in nonlinear modeling of data,W. Chen,cs.CE,http://arxiv.org/pdf/cs/9907020v2
+cs/0006026v2,2000-06-12T06:08:57Z,Online Correction of Dispersion Error in 2D Waveguide Meshes,Davide Rocchesso,cs.SD,http://arxiv.org/pdf/cs/0006026v2
+cs/0007002v2,2000-07-03T17:03:39Z,Interval Constraint Solving for Camera Control and Motion Planning,Marc Christie,cs.AI,http://arxiv.org/pdf/cs/0007002v2
+cs/0101003v1,2001-01-04T07:41:59Z,Signal-Theoretic Characterization of Waveguide Mesh Geometries for   Models of Two--Dimensional Wave Propagation in Elastic Media,Davide Rocchesso,cs.NA,http://arxiv.org/pdf/cs/0101003v1
+cs/0104018v1,2001-04-23T18:50:45Z,Several new domain-type and boundary-type numerical discretization   schemes with radial basis function,W. Chen,cs.NA,http://arxiv.org/pdf/cs/0104018v1
+cs/0105014v1,2001-05-07T16:53:05Z,Errata and supplements to: Orthonormal RBF Wavelet and Ridgelet-like   Series and Transforms for High-Dimensional Problems,W. Chen,cs.NA,http://arxiv.org/pdf/cs/0105014v1
+cs/0110055v1,2001-10-28T10:28:55Z,Analytical solution of transient scalar wave and diffusion problems of   arbitrary dimensionality and geometry by RBF wavelet series,W. Chen,cs.NA,http://arxiv.org/pdf/cs/0110055v1
+cs/0111063v1,2001-11-30T16:03:00Z,New RBF collocation methods and kernel RBF with applications,W. Chen,cs.NA,http://arxiv.org/pdf/cs/0111063v1
+cs/0112008v1,2001-12-07T23:56:51Z,Representation of Uncertainty for Limit Processes,Mark Burgin,cs.AI,http://arxiv.org/pdf/cs/0112008v1
+cs/0205019v1,2002-05-14T13:43:47Z,Distance function wavelets - Part I: Helmholtz and convection-diffusion   transforms and series,W. Chen,cs.CE,http://arxiv.org/pdf/cs/0205019v1
+cs/0206010v2,2002-06-06T09:10:39Z,Performance Comparison of Function Evaluation Methods,Leo Liberti,cs.SC,http://arxiv.org/pdf/cs/0206010v2
+cs/0207062v1,2002-07-15T19:58:27Z,Some addenda on distance function wavelets,W. Chen,cs.NA,http://arxiv.org/pdf/cs/0207062v1
+cs/0209020v1,2002-09-18T12:45:43Z,A new definition of the fractional Laplacian,W. Chen,cs.NA,http://arxiv.org/pdf/cs/0209020v1
+cs/0211016v4,2002-11-14T11:13:30Z,Efficient Solving of Quantified Inequality Constraints over the Real   Numbers,Stefan Ratschan,cs.LO,http://arxiv.org/pdf/cs/0211016v4
+cs/0302011v2,2003-02-10T06:14:26Z,Smoothed Analysis of Interior-Point Algorithms: Condition Number,Shang-Hua Teng,cs.DS,http://arxiv.org/pdf/cs/0302011v2
+cs/0307033v1,2003-07-13T21:15:42Z,Excellence in Computer Simulation,Leo P. Kadanoff,cs.NA,http://arxiv.org/pdf/cs/0307033v1
+cs/0308021v1,2003-08-11T18:43:35Z,A Bernstein-Bezier Sufficient Condition for Invertibility of Polynomial   Mapping Functions,Stephen Vavasis,cs.NA,http://arxiv.org/pdf/cs/0308021v1
+cs/0310022v4,2003-10-12T04:06:09Z,Smoothed Analysis of the Condition Numbers and Growth Factors of   Matrices,Shang-Hua Teng,cs.NA,http://arxiv.org/pdf/cs/0310022v4
+cs/0310036v2,2003-10-17T15:43:01Z,"Solving Sparse, Symmetric, Diagonally-Dominant Linear Systems in Time $O   (m^{1.31})$",Shang-Hua Teng,cs.DS,http://arxiv.org/pdf/cs/0310036v2
+cs/0310051v10,2003-10-28T09:23:25Z,"Nearly-Linear Time Algorithms for Graph Partitioning, Graph   Sparsification, and Solving Linear Systems",Shang-Hua Teng,cs.DS,http://arxiv.org/pdf/cs/0310051v10
+cs/0407018v2,2004-07-07T19:06:15Z,An algorithm for two-dimensional mesh generation based on the pinwheel   tiling,Katerina D. Papoulia,cs.CG,http://arxiv.org/pdf/cs/0407018v2
+cs/0409033v4,2004-09-17T10:39:45Z,Mean and Variance Estimation by Kriging,Tomasz Suslo,cs.NA,http://arxiv.org/pdf/cs/0409033v4
+cs/0411004v1,2004-11-02T11:37:44Z,Computational Aspects of a Numerical Model for Combustion Flow,Gianluca Argentini,cs.NA,http://arxiv.org/pdf/cs/0411004v1
+cs/0501065v1,2005-01-24T00:01:16Z,Harmonic Analysis,Vladimir I Clue,cs.NA,http://arxiv.org/pdf/cs/0501065v1
+cs/0505015v4,2005-05-07T12:11:56Z,Complex Mean and Variance of Linear Regression Model for High-Noised   Systems by Kriging,Tomasz Suslo,cs.NA,http://arxiv.org/pdf/cs/0505015v4
+cs/0505080v1,2005-05-29T18:40:44Z,Dominance Based Crossover Operator for Evolutionary Multi-objective   Algorithms,Marc Schoenauer,cs.AI,http://arxiv.org/pdf/cs/0505080v1
+cs/0605058v1,2006-05-14T17:05:14Z,"A Monadic, Functional Implementation of Real Numbers",Russell O'Connor,cs.NA,http://arxiv.org/pdf/cs/0605058v1
+cs/0607032v1,2006-07-08T08:46:32Z,Asymptotic Analysis of a Leader Election Algorithm,Guy Louchard,cs.DC,http://arxiv.org/pdf/cs/0607032v1
+cs/0607105v5,2006-07-24T04:02:24Z,"Nearly-Linear Time Algorithms for Preconditioning and Solving Symmetric,   Diagonally Dominant Linear Systems",Shang-Hua Teng,cs.NA,http://arxiv.org/pdf/cs/0607105v5
+cs/0608090v2,2006-08-23T03:47:07Z,A Condition Number Analysis of a Line-Surface Intersection Algorithm,Stephen A. Vavasis,cs.NA,http://arxiv.org/pdf/cs/0608090v2
+cs/0609001v2,2006-09-01T00:07:41Z,A Robust Solution Procedure for Hyperelastic Solids with Large Boundary   Deformation,Stephen A. Vavasis,cs.NA,http://arxiv.org/pdf/cs/0609001v2
+cs/0609079v4,2006-09-14T12:34:59Z,Modern Statistics by Kriging,Tomasz Suslo,cs.NA,http://arxiv.org/pdf/cs/0609079v4
+cs/0609081v1,2006-09-14T17:51:11Z,Recurrence relations and fast algorithms,Mark Tygert,cs.CE,http://arxiv.org/pdf/cs/0609081v1
+cs/0610036v3,2006-10-06T14:07:57Z,Optimization of Memory Usage in Tardos's Fingerprinting Codes,Hideki Imai,cs.CR,http://arxiv.org/pdf/cs/0610036v3
+cs/0610108v2,2006-10-18T14:43:45Z,Doppler Spectrum Estimation by Ramanujan Fourier Transforms,Messaoud Bensebti,cs.NA,http://arxiv.org/pdf/cs/0610108v2
+cs/0610122v1,2006-10-20T11:22:52Z,Faithful Polynomial Evaluation with Compensated Horner Algorithm,Nicolas Louvet,cs.NA,http://arxiv.org/pdf/cs/0610122v1
+cs/0611049v2,2006-11-13T20:37:42Z,On numerical stability of recursive present value computation method,Argyn Kuketayev,cs.CE,http://arxiv.org/pdf/cs/0611049v2
+cs/0611061v1,2006-11-14T16:58:58Z,Multivariate Integral Perturbation Techniques - I (Theory),Jan W. Dash,cs.CE,http://arxiv.org/pdf/cs/0611061v1
+cs/0701183v1,2007-01-29T09:15:35Z,"Certification of the QR factor R, and of lattice basis reducedness",Gilles Villard,cs.SC,http://arxiv.org/pdf/cs/0701183v1
+cs/0701188v1,2007-01-29T18:20:30Z,Faster Inversion and Other Black Box Matrix Computations Using Efficient   Block Projections,Gilles Villard,cs.SC,http://arxiv.org/pdf/cs/0701188v1
+cs/0701192v5,2007-01-30T16:26:50Z,The pitfalls of verifying floating-point computations,David Monniaux,cs.PL,http://arxiv.org/pdf/cs/0701192v5
+cs/0702163v1,2007-02-28T10:39:15Z,First Passage Time for Multivariate Jump-diffusion Stochastic Models   With Applications in Finance,Roderick V. N. Melnik,cs.CE,http://arxiv.org/pdf/cs/0702163v1
+cs/0702164v1,2007-02-28T10:51:16Z,Monte-Carlo Simulations of the First Passage Time for Multivariate   Jump-Diffusion Processes in Financial Applications,Roderick V. N. Melnik,cs.CE,http://arxiv.org/pdf/cs/0702164v1
+cs/0702165v1,2007-02-28T11:22:18Z,Efficient estimation of default correlation for multivariate   jump-diffusion processes,Roderick V. N. Melnik,cs.CE,http://arxiv.org/pdf/cs/0702165v1
+cs/0702166v1,2007-02-28T11:48:12Z,Solving Stochastic Differential Equations with Jump-Diffusion   Efficiently: Applications to FPT Problems in Credit Risk,Roderick V. N. Melnik,cs.CE,http://arxiv.org/pdf/cs/0702166v1
+cs/0702167v1,2007-02-28T13:00:33Z,Finite Volume Analysis of Nonlinear Thermo-mechanical Dynamics of Shape   Memory Alloys,Roderick V. N. Melnik,cs.CE,http://arxiv.org/pdf/cs/0702167v1
+cs/0702168v1,2007-02-28T14:09:42Z,Simulation of Phase Combinations in Shape Memory Alloys Patches by   Hybrid Optimization Methods,Roderick V. N. Melnik,cs.CE,http://arxiv.org/pdf/cs/0702168v1
+cs/0702172v1,2007-02-28T18:31:19Z,Numerical Model For Vibration Damping Resulting From the First Order   Phase Transformations,Roderick V. N. Melnik,cs.CE,http://arxiv.org/pdf/cs/0702172v1
+nlin/0405038v3,2004-05-14T12:21:10Z,When Chaos Meets Computers,Shujun Li,nlin.CD,http://arxiv.org/pdf/nlin/0405038v3
+physics/0011053v1,2000-11-21T18:16:12Z,Faster Evaluation of Multidimensional Integrals,J. F. Traub,physics.comp-ph,http://arxiv.org/pdf/physics/0011053v1
+quant-ph/0001077v3,2000-01-21T00:14:18Z,Poly-locality in quantum computing,Michael H. Freedman,quant-ph,http://arxiv.org/pdf/quant-ph/0001077v3
+quant-ph/0304206v2,2003-04-30T16:17:29Z,Harmonic inversion helps to beat time-energy uncertainty relations,Zbyszek P. Karkuszewski,quant-ph,http://arxiv.org/pdf/quant-ph/0304206v2
+0705.2626v1,2007-05-18T02:25:16Z,Block Locally Optimal Preconditioned Eigenvalue Xolvers (BLOPEX) in   hypre and PETSc,E. E. Ovtchinnikov,cs.MS,http://arxiv.org/pdf/0705.2626v1
+0705.4369v1,2007-05-30T11:34:39Z,Computing Integer Powers in Floating-Point Arithmetic,Jean-Michel Muller,cs.NA,http://arxiv.org/pdf/0705.4369v1
+0706.0252v1,2007-06-02T06:18:48Z,Applying the Z-transform for the static analysis of floating-point   numerical filters,David Monniaux,cs.PL,http://arxiv.org/pdf/0706.0252v1
+0707.1515v5,2007-07-10T18:56:05Z,Properties of polynomial bases used in a line-surface intersection   algorithm,Stephen A. Vavasis,cs.NA,http://arxiv.org/pdf/0707.1515v5
+0707.1716v1,2007-07-11T22:24:48Z,Numerical Calculation With Arbitrary Precision,L. G. S. Duarte,cs.NA,http://arxiv.org/pdf/0707.1716v1
+0707.2701v1,2007-07-18T11:04:27Z,A fixed point iteration for computing the matrix logarithm,Gernot Schaller,cs.NA,http://arxiv.org/pdf/0707.2701v1
+0707.2921v1,2007-07-19T14:59:47Z,Covering a line segment with variable radius discs,Andrea Pacifici,cs.DM,http://arxiv.org/pdf/0707.2921v1
+0708.1211v1,2007-08-09T04:07:06Z,A Deterministic Sub-linear Time Sparse Fourier Algorithm via   Non-adaptive Compressed Sensing Methods,M. A. Iwen,cs.DM,http://arxiv.org/pdf/0708.1211v1
+0708.4149v2,2007-08-30T13:01:33Z,On the complexity of nonnegative matrix factorization,Stephen A. Vavasis,cs.NA,http://arxiv.org/pdf/0708.4149v2
+0708.4399v2,2007-08-31T18:00:33Z,"Type-IV DCT, DST, and MDCT algorithms with reduced numbers of arithmetic   operations",Steven G. Johnson,cs.DS,http://arxiv.org/pdf/0708.4399v2
+0709.0355v1,2007-09-04T14:51:56Z,Solution of moving-boundary problems by the spectral element method,Michel O. Deville,cs.CE,http://arxiv.org/pdf/0709.0355v1
+0710.0736v1,2007-10-03T08:51:44Z,Colour image segmentation by the vector-valued Allen-Cahn phase-field   model: a multigrid solution,Alessandro Tomasi,cs.CV,http://arxiv.org/pdf/0710.0736v1
+0711.4656v2,2007-11-29T06:02:16Z,A condition number analysis of an algorithm for solving a system of   polynomial equations with one degree of freedom,Stephen A. Vavasis,cs.CG,http://arxiv.org/pdf/0711.4656v2
+0712.2789v2,2007-12-17T18:11:52Z,Trading in Risk Dimensions (TRD),Lester Ingber,cs.CE,http://arxiv.org/pdf/0712.2789v2
+0801.0523v1,2008-01-03T13:34:03Z,Certifying floating-point implementations using Gappa,Guillaume Melquiond,cs.NA,http://arxiv.org/pdf/0801.0523v1
+0801.3249v1,2008-01-21T18:27:09Z,Complex Eigenvalues for Binary Subdivision Schemes,Christian Kuehn,cs.GR,http://arxiv.org/pdf/0801.3249v1
+0802.2108v3,2008-02-14T23:04:07Z,Well-Centered Triangulation,Edgar Ramos,cs.CG,http://arxiv.org/pdf/0802.2108v3
+0803.0018v5,2008-02-29T22:12:53Z,"Another approach to decide on real root existence for univariate   Polynomials, and a multivariate extension for 3-SAT",Deepak Ponvel Chermakani,cs.NA,http://arxiv.org/pdf/0803.0018v5
+0803.0439v1,2008-03-04T13:49:44Z,Optimizing polynomials for floating-point implementation,Christoph Quirin Lauter,cs.NA,http://arxiv.org/pdf/0803.0439v1
+0803.0874v3,2008-03-06T18:45:39Z,A Method for Solving Cyclic Block Penta-diagonal Systems of Linear   Equations,Milan Batista,cs.MS,http://arxiv.org/pdf/0803.0874v3
+0803.0988v2,2008-03-06T21:57:53Z,Faster Approximate Lossy Generalized Flow via Interior Point Algorithms,Daniel A. Spielman,cs.DS,http://arxiv.org/pdf/0803.0988v2
+0803.2319v1,2008-03-15T20:04:18Z,Two Algorithms for Solving A General Backward Pentadiagonal Linear   Systems,A. A. Karawia,cs.SC,http://arxiv.org/pdf/0803.2319v1
+0804.3650v1,2008-04-23T07:30:38Z,On generic frequency decomposition. Part 1: vectorial decomposition,Sossio Vergara,cs.NA,http://arxiv.org/pdf/0804.3650v1
+0805.0120v1,2008-05-01T17:59:44Z,Nonnegative Matrix Factorization via Rank-One Downdate,Stephen Vavasis,cs.IR,http://arxiv.org/pdf/0805.0120v1
+0805.2675v2,2008-05-17T15:04:38Z,MAPEL: Achieving Global Optimality for a Non-convex Wireless Power   Control Problem,Jianwei Huang,cs.NI,http://arxiv.org/pdf/0805.2675v2
+0806.2332v2,2008-06-13T20:54:14Z,Triangulation of Simple 3D Shapes with Well-Centered Tetrahedra,Damrong Guoy,cs.CG,http://arxiv.org/pdf/0806.2332v2
+0806.3015v1,2008-06-18T14:29:16Z,Randomized Methods for Linear Constraints: Convergence Rates and   Conditioning,A. S. Lewis,math.OC,http://arxiv.org/pdf/0806.3015v1
+0807.2108v2,2008-07-14T08:10:33Z,On dual Schur domain decomposition method for linear first-order   transient problems,K. D. Hjelmstad,cs.NA,http://arxiv.org/pdf/0807.2108v2
+0807.2269v1,2008-07-15T14:45:38Z,An Efficient Algorithm for a Sharp Approximation of Universally   Quantified Inequalities,Michel Rueher,cs.NA,http://arxiv.org/pdf/0807.2269v1
+0807.2387v1,2008-07-15T14:45:14Z,Fast computation of magnetostatic fields by Non-uniform Fast Fourier   Transforms,Olivier Fruchart,cond-mat.mtrl-sci,http://arxiv.org/pdf/0807.2387v1
+0807.2961v1,2008-07-18T12:41:52Z,Perturbed affine arithmetic for invariant computation in numerical   program analysis,Sylvie Putot,cs.LO,http://arxiv.org/pdf/0807.2961v1
+0809.1552v2,2008-09-08T20:54:36Z,"A computer verified, monadic, functional implementation of the integral",Bas Spitters,cs.LO,http://arxiv.org/pdf/0809.1552v2
+0810.0877v1,2008-10-06T04:58:44Z,Bias-Variance Techniques for Monte Carlo Optimization: Cross-validation   for the CE Method,David Wolpert,cs.NA,http://arxiv.org/pdf/0810.0877v1
+0810.4196v1,2008-10-23T03:32:47Z,Interval Semantics for Standard Floating-Point Arithmetic,M. H. van Emden,cs.NA,http://arxiv.org/pdf/0810.4196v1
+0811.2847v2,2008-11-18T07:33:30Z,Boosting the Accuracy of Finite Difference Schemes via Optimal Time Step   Selection and Non-Iterative Defect Correction,Kevin T. Chu,math.NA,http://arxiv.org/pdf/0811.2847v2
+0811.3247v1,2008-11-20T00:32:16Z,An experimental analysis of Lemke-Howson algorithm,Marino Pagan,cs.DS,http://arxiv.org/pdf/0811.3247v1
+0812.2769v2,2008-12-15T11:35:17Z,Geometric scaling: a simple preconditioner for certain linear systems   with discontinuous coefficients,Rachel Gordon,cs.MS,http://arxiv.org/pdf/0812.2769v2
+0901.2682v1,2009-01-18T06:56:59Z,Self-stabilizing Numerical Iterative Computation,Danny Dolev,cs.NA,http://arxiv.org/pdf/0901.2682v1
+0901.3348v1,2009-01-21T20:08:21Z,Nuclear norm minimization for the planted clique and biclique problems,Stephen Vavasis,cs.DS,http://arxiv.org/pdf/0901.3348v1
+0902.3088v1,2009-02-18T10:28:45Z,Automatic generation of non-uniform random variates for arbitrary   pointwise computable probability densities by tiling,Guido Germano,cs.MS,http://arxiv.org/pdf/0902.3088v1
+0902.3207v1,2009-02-18T17:53:36Z,Random numbers from the tails of probability distributions using the   transformation method,Guido Germano,cs.MS,http://arxiv.org/pdf/0902.3207v1
+0903.2816v1,2009-03-16T18:04:31Z,A Note on Preconditioning by Low-Stretch Spanning Trees,Jaeoh Woo,cs.NA,http://arxiv.org/pdf/0903.2816v1
+0903.4530v2,2009-03-26T08:39:45Z,Nonnegative approximations of nonnegative tensors,Pierre Comon,cs.NA,http://arxiv.org/pdf/0903.4530v2
+0904.3525v1,2009-04-22T18:40:01Z,On using floating-point computations to help an exact linear arithmetic   decision procedure,David Monniaux,cs.LO,http://arxiv.org/pdf/0904.3525v1
+0905.4771v3,2009-05-29T01:49:38Z,Variational structure of the optimal artificial diffusion method for the   advection-diffusion equation,A. J. Valocchi,cs.CE,http://arxiv.org/pdf/0905.4771v3
+0906.4917v2,2009-06-26T13:07:52Z,Simultaneous Integer Relation Detection and Its an Application,Zhang Jing-zhong,cs.SC,http://arxiv.org/pdf/0906.4917v2
+0906.5561v2,2009-06-30T15:47:42Z,An Improved Algorithm based on Shannon-Happ Formula for Calculating   Transfer Function from Signal Flow Graph and Its Visualization,Shanglian Bao,cs.NA,http://arxiv.org/pdf/0906.5561v2
+0907.2423v3,2009-07-14T18:29:49Z,Computing Multidimensional Persistence,Afra Zomorodian,cs.CG,http://arxiv.org/pdf/0907.2423v3
+0907.5038v1,2009-07-29T02:01:45Z,An Explicit Construction of Gauss-Jordan Elimination Matrix,Yi Li,cs.SC,http://arxiv.org/pdf/0907.5038v1
+0909.1305v1,2009-09-07T18:46:03Z,Conformal Structures and Period Matrices of Polyhedral Surfaces,Markus Schmies,math.DG,http://arxiv.org/pdf/0909.1305v1
+0909.4888v1,2009-09-26T18:52:59Z,Approximating Mathematical Semantic Web Services Using Approximation   Formulas and Numerical Methods,Mugurel Ionut Andreica,cs.MS,http://arxiv.org/pdf/0909.4888v1
+0911.0137v5,2009-11-01T07:23:03Z,On the vibrations of lumped parameter systems governed by   differential-algebraic equations,K. R. Rajagopal,cs.NA,http://arxiv.org/pdf/0911.0137v5
+0912.1178v1,2009-12-07T07:57:08Z,Algebraic Change-Point Detection,Mamadou Mboup,cs.NA,http://arxiv.org/pdf/0912.1178v1
+0912.2572v1,2009-12-14T04:01:05Z,QR Factorization of Tall and Skinny Matrices in a Grid Computing   Environment,Julien Langou,cs.DC,http://arxiv.org/pdf/0912.2572v1
+0912.3927v1,2009-12-19T18:59:22Z,Logarithmic Barrier Optimization Problem Using Neural Network,D. Mallick,cs.NA,http://arxiv.org/pdf/0912.3927v1
+0912.4226v2,2009-12-21T19:14:12Z,Computing Least Fixed Points of Probabilistic Systems of Polynomials,Stefan Kiefer,cs.DS,http://arxiv.org/pdf/0912.4226v2
+0912.4438v1,2009-12-22T16:31:16Z,The weighted difference substitutions and Nonnegativity Decision of   Forms,Junwei Shao,cs.SC,http://arxiv.org/pdf/0912.4438v1
+1001.0340v3,2010-01-04T17:44:41Z,Computing the Least Fixed Point of Positive Polynomial Systems,Michael Luttenberger,cs.NA,http://arxiv.org/pdf/1001.0340v3
+1001.2940v1,2010-01-18T01:57:49Z,Parallel computation of real solving bivariate polynomial systems by   zero-matching method,Jingzhong Zhang,cs.SC,http://arxiv.org/pdf/1001.2940v1
+1002.2236v3,2010-02-10T23:08:49Z,A Logical Product Approach to Zonotope Intersection,Sylvie Putot,cs.LO,http://arxiv.org/pdf/1002.2236v3
+1002.4002v1,2010-02-21T19:36:55Z,Multi-Objective Geometric Programming Problem Being Cost Coefficients as   Continous Function with Weighted Mean Method,A. K. Das,cs.DS,http://arxiv.org/pdf/1002.4002v1
+1002.4057v1,2010-02-22T06:11:41Z,Towards an Efficient Tile Matrix Inversion of Symmetric Positive   Definite Matrices on Multicore Architectures,Lee Rosenberg,cs.MS,http://arxiv.org/pdf/1002.4057v1
+1004.0202v4,2010-04-01T18:43:10Z,Interval Slopes as Numerical Abstract Domain for Floating-Point   Variables,Alexandre Chapoutot,cs.PL,http://arxiv.org/pdf/1004.0202v4
+1004.1220v1,2010-04-08T02:05:02Z,Relaxation-based coarsening and multiscale graph organization,Achi Brandt,cs.DS,http://arxiv.org/pdf/1004.1220v1
+1004.1253v1,2010-04-08T06:36:48Z,Spectral Methods for Matrices and Tensors,Ravindran Kannan,cs.DS,http://arxiv.org/pdf/1004.1253v1
+1004.3374v1,2010-04-20T08:17:24Z,On the precision attainable with various floating-point number systems,Richard P. Brent,cs.NA,http://arxiv.org/pdf/1004.3374v1
+1004.3621v1,2010-04-21T05:31:42Z,Unrestricted algorithms for elementary and special functions,Richard P. Brent,math.NA,http://arxiv.org/pdf/1004.3621v1
+1004.4329v1,2010-04-25T06:28:58Z,Analysis of Basis Pursuit Via Capacity Sets,Michael Elad,cs.NA,http://arxiv.org/pdf/1004.4329v1
+1004.5510v1,2010-04-30T12:01:45Z,On the stability of the Bareiss and related Toeplitz factorization   algorithms,Douglas R. Sweet,math.NA,http://arxiv.org/pdf/1004.5510v1
+1007.0380v1,2010-07-01T17:40:01Z,Additive Non-negative Matrix Factorization for Missing Data,Mithun Das Gupta,cs.NA,http://arxiv.org/pdf/1007.0380v1
+1007.3753v4,2010-07-21T20:26:26Z,Fast L1-Minimization Algorithms For Robust Face Recognition,Yi Ma,cs.CV,http://arxiv.org/pdf/1007.3753v4
+1007.3881v2,2010-07-22T13:22:50Z,Orthogonal multifilters image processing of astronomical images from   scanned photographic plates,Vasil Kolev,cs.CV,http://arxiv.org/pdf/1007.3881v2
+1007.5510v2,2010-07-30T18:24:23Z,An algorithm for the principal component analysis of large data sets,Mark Tygert,stat.CO,http://arxiv.org/pdf/1007.5510v2
+1008.0201v2,2010-08-01T19:21:45Z,Novel Modifications of Parallel Jacobi Algorithms,Vedran Dunjko,cs.NA,http://arxiv.org/pdf/1008.0201v2
+1008.1371v2,2010-08-07T23:00:42Z,A GPU-based hyperbolic SVD algorithm,Sanja Singer,cs.NA,http://arxiv.org/pdf/1008.1371v2
+1008.1700v2,2010-08-10T12:14:09Z,A domain decomposing parallel sparse linear system solver,Murat Manguoglu,cs.NA,http://arxiv.org/pdf/1008.1700v2
+1008.2715v1,2010-08-16T17:22:47Z,The FEM approach to the 2D Poisson equation in 'meshes' optimized with   the Metropolis algorithm,Poland,cs.NA,http://arxiv.org/pdf/1008.2715v1
+1008.3845v2,2010-07-15T21:47:04Z,A stabilized mixed formulation for unsteady Brinkman equation based on   the method of horizontal lines,K. B. Nakshatrala,cs.NA,http://arxiv.org/pdf/1008.3845v2
+1008.4166v1,2010-08-24T22:13:50Z,Three-Level Parallel J-Jacobi Algorithms for Hermitian Matrices,Aleksandar Uscumlic,cs.NA,http://arxiv.org/pdf/1008.4166v1
+1008.4870v1,2010-08-28T14:29:21Z,On Euclidean Norm Approximations,Hassan A. Kingravi,cs.NA,http://arxiv.org/pdf/1008.4870v1
+1008.5391v2,2010-08-31T18:56:04Z,Parallel Evolutionary Computation in Very Large Scale Eigenvalue   Problems,Amir H. Assadi,cs.DC,http://arxiv.org/pdf/1008.5391v2
+1009.0938v2,2010-09-05T18:05:22Z,Linearly scaling direct method for accurately inverting sparse banded   matrices,Pablo Echenique,physics.comp-ph,http://arxiv.org/pdf/1009.0938v2
+1010.0014v1,2010-09-30T20:36:05Z,Improved Approximation Guarantees for Sublinear-Time Fourier Algorithms,M. A. Iwen,math.NA,http://arxiv.org/pdf/1010.0014v1
+1010.0301v1,2010-10-02T07:52:48Z,A Microwave Imaging and Enhancement Technique from Noisy Synthetic Data,Sugata Sanyal,cs.CV,http://arxiv.org/pdf/1010.0301v1
+1010.0707v2,2010-10-04T21:06:06Z,Block tensors and symmetric embeddings,Charles F. Van Loan,math.NA,http://arxiv.org/pdf/1010.0707v2
+1010.2832v2,2010-10-14T06:07:55Z,"A simple finite difference method for time-dependent, variable   coefficient Stokes flow on irregular domains",Robert Bridson,physics.comp-ph,http://arxiv.org/pdf/1010.2832v2
+1010.5290v2,2010-10-26T00:28:36Z,Converged Algorithms for Orthogonal Nonnegative Matrix Factorizations,Andri Mirzal,cs.LG,http://arxiv.org/pdf/1010.5290v2
+1011.3721v1,2010-11-15T11:42:22Z,On the Inverse Of General Cyclic Heptadiagonal and Anti-Heptadiagonal   Matrices,A. A. Karawia,cs.SC,http://arxiv.org/pdf/1011.3721v1
+1011.4810v2,2010-11-22T13:48:31Z,Application of Operator Splitting to Solve Reaction Diffusion Equations,Tamás Ladics,math.NA,http://arxiv.org/pdf/1011.4810v2
+1101.0578v1,2011-01-03T18:58:51Z,Locally exact modifications of numerical integrators,Jan L. Cieśliński,math.NA,http://arxiv.org/pdf/1101.0578v1
+1101.2005v3,2011-01-11T02:29:11Z,Block Tensor Unfoldings,Charles F. Van Loan,math.NA,http://arxiv.org/pdf/1101.2005v3
+1102.0919v1,2011-02-04T14:08:54Z,A Self-learning Algebraic Multigrid Method for Extremal Singular   Triplets and Eigenpairs,Hans De Sterck,math.NA,http://arxiv.org/pdf/1102.0919v1
+1102.5239v1,2011-02-25T13:23:38Z,Uncertainty Updating in the Description of Coupled Heat and Moisture   Transport in Heterogeneous Materials,Jan Sykora,cs.NA,http://arxiv.org/pdf/1102.5239v1
+1102.5597v1,2011-02-28T05:26:58Z,Fast and Faster: A Comparison of Two Streamed Matrix Decomposition   Algorithms,Radim Řeh{ů}řek,cs.NA,http://arxiv.org/pdf/1102.5597v1
+1105.0706v3,2011-05-03T23:00:45Z,A mixed formulation for a modification to Darcy equation based on Picard   linearization and numerical solutions to large-scale realistic problems,D. Z. Turner,cs.NA,http://arxiv.org/pdf/1105.0706v3
+1105.5331v1,2011-05-26T16:00:23Z,A Nonlinear GMRES Optimization Algorithm for Canonical Tensor   Decomposition,Hans De Sterck,math.NA,http://arxiv.org/pdf/1105.5331v1
+1106.2176v2,2011-06-10T21:02:40Z,A Tuned and Scalable Fast Multipole Method as a Preeminent Algorithm for   Exascale Systems,Lorena Barba,cs.NA,http://arxiv.org/pdf/1106.2176v2
+1106.2327v1,2011-06-12T18:16:07Z,A framework for coupled deformation-diffusion analysis with application   to degradation/healing,K. B. Nakshatrala,cs.NA,http://arxiv.org/pdf/1106.2327v1
+1106.2407v2,2011-06-13T09:54:00Z,A Semidefinite Programming approach for minimizing ordered weighted   averages of rational functions,J. Puerto,math.OC,http://arxiv.org/pdf/1106.2407v2
+1106.3694v1,2011-06-18T22:37:28Z,A time-parallel algorithm for almost integrable Hamiltonian systems,Jacques Laskar,cs.NA,http://arxiv.org/pdf/1106.3694v1
+1107.3667v1,2011-07-19T10:00:22Z,A new algebraic and arithmetic framework for interval computations,Elisabeth Remm,cs.NA,http://arxiv.org/pdf/1107.3667v1
+1107.3729v1,2011-07-19T14:46:28Z,On the approximation in the smoothed finite element method (SFEM),Sundararajan Natarajan,cs.NA,http://arxiv.org/pdf/1107.3729v1
+1108.0307v3,2011-08-01T13:19:56Z,The Euler-Maruyama approximation for the absorption time of the CEV   diffusion,Fima C. Klebaner,math.PR,http://arxiv.org/pdf/1108.0307v3
+1108.0952v1,2011-08-03T22:21:45Z,On the performance of high-order finite elements with respect to maximum   principles and the non-negative constraint for diffusion-type equations,J. N. Reddy,cs.NA,http://arxiv.org/pdf/1108.0952v1
+1108.1042v1,2011-08-04T10:43:17Z,On strong homogeneity of two global optimization algorithms based on   statistical models of multimodal objective functions,Antanas Zilinskas,cs.NA,http://arxiv.org/pdf/1108.1042v1
+1108.1235v2,2011-08-05T00:47:23Z,Technical Report: Modeling of Composite Piezoelectric Structures with   the Finite Volume Method,Mary C. Pugh,math.NA,http://arxiv.org/pdf/1108.1235v2
+1108.3367v2,2011-08-16T22:15:55Z,On the convergence acceleration of some continued fractions,Rafał Nowak,math.NA,http://arxiv.org/pdf/1108.3367v2
+1108.5359v4,2011-08-26T17:40:30Z,Solving Principal Component Pursuit in Linear Time via $l_1$ Filtering,Zhixun Su,cs.NA,http://arxiv.org/pdf/1108.5359v4
+1108.5815v2,2011-08-30T03:27:14Z,Hierarchical N-body simulations with auto-tuning for heterogeneous   systems,Lorena A. Barba,cs.NA,http://arxiv.org/pdf/1108.5815v2
+1108.6210v2,2011-08-31T12:45:06Z,A well-balanced finite volume scheme for 1D hemodynamic simulations,Pierre-Yves Lagrée,math.NA,http://arxiv.org/pdf/1108.6210v2
+1108.6296v2,2011-08-31T17:36:26Z,Infinite Tucker Decomposition: Nonparametric Bayesian Models for   Multiway Data Analysis,Qi,cs.LG,http://arxiv.org/pdf/1108.6296v2
+1109.0910v2,2011-09-05T14:20:58Z,A probability-conserving cross-section biasing mechanism for variance   reduction in Monte Carlo particle transport calculations,Robert A. Weller,physics.comp-ph,http://arxiv.org/pdf/1109.0910v2
+1109.1342v1,2011-09-07T02:46:40Z,Trace Norm Regularized Tensor Classification and Its Online Learning   Approaches,Jiqing Han,cs.NA,http://arxiv.org/pdf/1109.1342v1
+1109.3411v1,2011-09-15T17:39:56Z,Demonstrating the Applicability of PAINT to Computationally Expensive   Real-life Multiobjective Optimization,Vesa Ojalehto,cs.NA,http://arxiv.org/pdf/1109.3411v1
+1109.6279v1,2011-09-28T17:39:07Z,When Newton meets Descartes: A Simple and Fast Algorithm to Isolate the   Real Roots of a Polynomial,Michael Sagraloff,cs.SC,http://arxiv.org/pdf/1109.6279v1
+1110.0569v1,2011-10-04T03:17:21Z,A Modulus-Squared Dirichlet Boundary Condition for Time-Dependent   Complex Partial Differential Equations and its Application to the Nonlinear   Schrödinger Equation,R. Carretero-González,cs.NA,http://arxiv.org/pdf/1110.0569v1
+1110.0895v4,2011-10-05T04:55:59Z,Robust inversion via semistochastic dimensionality reduction,Tristan van Leeuwen,cs.CE,http://arxiv.org/pdf/1110.0895v4
+1110.4193v2,2011-10-19T06:36:02Z,Sublinear randomized algorithms for skeleton decompositions,Laurent Demanet,math.NA,http://arxiv.org/pdf/1110.4193v2
+1110.4437v2,2011-10-20T03:54:53Z,Effective Stiffness: Generalizing Effective Resistance Sampling to   Finite Element Matrices,Sivan Toledo,cs.NA,http://arxiv.org/pdf/1110.4437v2
+1110.5305v1,2011-10-24T18:57:57Z,The spectral norm error of the naive Nystrom extension,Alex Gittens,math.NA,http://arxiv.org/pdf/1110.5305v1
+1110.5992v1,2011-10-27T06:40:45Z,User preference extraction using dynamic query sliders in conjunction   with UPS-EMO algorithm,Suvi Tarkkanen,cs.NE,http://arxiv.org/pdf/1110.5992v1
+1110.6834v1,2011-10-31T15:32:50Z,High-order finite volume schemes for layered atmospheric models,Eleuterio F. Toro,cs.NA,http://arxiv.org/pdf/1110.6834v1
+1111.2262v4,2011-11-09T16:34:55Z,Improved Bound for the Nystrom's Method and its Application to Kernel   Classification,Zhi-Hua Zhou,cs.LG,http://arxiv.org/pdf/1111.2262v4
+1111.4385v2,2011-11-18T15:05:13Z,Model Checking CSL for Markov Population Models,Lijun Zhang,cs.NA,http://arxiv.org/pdf/1111.4385v2
+1201.0127v4,2011-12-30T13:54:29Z,Faster Subset Selection for Matrices and Applications,Christos Boutsidis,cs.DS,http://arxiv.org/pdf/1201.0127v4
+1201.2878v1,2012-01-13T16:08:47Z,Implementation of the Continuous-Discontinuous Galerkin Finite Element   Method,Max Jensen,math.NA,http://arxiv.org/pdf/1201.2878v1
+1201.4049v1,2012-01-19T13:00:34Z,Parameter Identification in a Probabilistic Setting,Hermann G. Matthies,cs.NA,http://arxiv.org/pdf/1201.4049v1
+1201.6035v1,2012-01-29T12:55:30Z,How Accurate is inv(A)*b?,Sivan Toledo,cs.NA,http://arxiv.org/pdf/1201.6035v1
+1202.0988v2,2012-02-05T18:22:37Z,Improving non-linear fits,Massimo Di Pierro,cs.NA,http://arxiv.org/pdf/1202.0988v2
+1202.1490v1,2012-02-07T18:37:07Z,Singular Values using Cholesky Decomposition,Kenan Kocagoez,cs.MS,http://arxiv.org/pdf/1202.1490v1
+1202.3108v1,2012-02-14T18:07:32Z,D-iteration based asynchronous distributed computation,Dohy Hong,cs.DC,http://arxiv.org/pdf/1202.3108v1
+1202.3856v3,2012-02-17T09:28:24Z,Technical Report on Hypergraph-Partitioning-Based Models and Methods for   Exploiting Cache Locality in Sparse-Matrix Vector Multiplication,Cevdet Aykanat,cs.NA,http://arxiv.org/pdf/1202.3856v3
+1202.4407v1,2012-02-20T18:09:18Z,On the complexity of solving initial value problems,Amaury Pouly,cs.NA,http://arxiv.org/pdf/1202.4407v1
+1202.5844v3,2012-02-27T07:57:04Z,Divide-and-Conquer Method for L1 Norm Matrix Factorization in the   Presence of Outliers and Missing Data,Zongben Xu,cs.NA,http://arxiv.org/pdf/1202.5844v3
+1203.1554v2,2012-03-07T17:46:46Z,Generating nested quadrature formulas for general weight functions with   known moments,Dávid Papp,math.NA,http://arxiv.org/pdf/1203.1554v2
+1203.2210v2,2012-03-09T23:35:52Z,Fixed-Rank Representation for Unsupervised Visual Learning,Zhixun Su,cs.CV,http://arxiv.org/pdf/1203.2210v2
+1203.2377v1,2012-03-11T21:27:07Z,Matrix Stretching for Linear Equations,Joseph F. Grcar,math.NA,http://arxiv.org/pdf/1203.2377v1
+1203.2742v1,2012-03-13T08:59:26Z,Logarithmic barriers for sparse matrix cones,Lieven Vandenberghe,math.OC,http://arxiv.org/pdf/1203.2742v1
+1203.3623v2,2012-03-16T06:57:59Z,An Improved Traffic Matrix Decomposition Method with Frequency-Domain   Regularization,Baolin Yin,cs.NI,http://arxiv.org/pdf/1203.3623v2
+1203.3800v7,2012-03-16T12:41:14Z,Power Series Method applied to Inverse Analysis in Chemical Kinetics   Problem,A. R. Samana,cs.NA,http://arxiv.org/pdf/1203.3800v7
+1203.4617v1,2012-03-20T22:45:57Z,An Arithmetic and Geometric Mean Invariant,Vibeke Libby,cs.NA,http://arxiv.org/pdf/1203.4617v1
+1203.6030v1,2012-03-27T17:20:17Z,Revisiting the D-iteration method: from theoretical to practical   computation cost,Dohy Hong,cs.NA,http://arxiv.org/pdf/1203.6030v1
+1204.0111v4,2012-03-31T16:00:50Z,A parallel sweeping preconditioner for heterogeneous 3D Helmholtz   equations,Lexing Ying,cs.NA,http://arxiv.org/pdf/1204.0111v4
+1204.1423v1,2012-04-06T07:32:47Z,D-iteration: application to differential equations,Dohy Hong,cs.NA,http://arxiv.org/pdf/1204.1423v1
+1204.1586v1,2012-04-07T01:45:26Z,On Fast Computation of Gradients for CANDECOMP/PARAFAC Algorithms,Andrzej Cichocki,cs.NA,http://arxiv.org/pdf/1204.1586v1
+1204.1718v1,2012-04-08T08:07:47Z,Computational complexity and memory usage for multi-frontal direct   solvers in structured mesh finite elements,Victor M. Calo,cs.NA,http://arxiv.org/pdf/1204.1718v1
+1204.1726v1,2012-04-08T10:32:18Z,Dissecting the FEAST algorithm for generalized eigenproblems,Paolo Bientinesi,cs.NA,http://arxiv.org/pdf/1204.1726v1
+1204.3105v1,2012-04-13T20:49:34Z,Alternative Tilings for the Fast Multipole Method on the Plane,Ramani Duraiswami,cs.NA,http://arxiv.org/pdf/1204.3105v1
+1204.3241v1,2012-04-15T08:05:58Z,Computing without a computer: a new approach for solving nonlinear   differential equations,Andrey Stroganov,cs.NA,http://arxiv.org/pdf/1204.3241v1
+1204.4763v1,2012-04-21T00:15:20Z,Better estimation of small Sobol' sensitivity indices,Art B. Owen,stat.ME,http://arxiv.org/pdf/1204.4763v1
+1204.5429v1,2012-04-24T16:58:20Z,Understanding differential equations through diffusion point of view,Dohy Hong,cs.NA,http://arxiv.org/pdf/1204.5429v1
+1204.6255v1,2012-04-27T15:48:38Z,Revisiting the D-iteration method: runtime comparison,Philippe Raoult,cs.NA,http://arxiv.org/pdf/1204.6255v1
+1205.1768v1,2012-05-07T17:24:32Z,On the Fourier expansion method for highly accurate computation of the   Voigt/complex error function in a rapid algorithm,B. M. Quine,math.NA,http://arxiv.org/pdf/1205.1768v1
+1205.2107v2,2012-05-09T21:20:55Z,High-Performance Solvers for Dense Hermitian Eigenproblems,Paolo Bientinesi,cs.MS,http://arxiv.org/pdf/1205.2107v2
+1205.5672v1,2012-05-25T12:02:10Z,On Local Super-Penalization of Interior Penalty Discontinuous Galerkin   Methods,Max Jensen,math.NA,http://arxiv.org/pdf/1205.5672v1
+1205.5824v2,2012-05-25T21:11:19Z,High-Resolution Finite Volume Modeling of Wave Propagation in   Orthotropic Poroelastic Media,Randall J. LeVeque,math.NA,http://arxiv.org/pdf/1205.5824v2
+1205.5911v1,2012-05-26T19:20:00Z,A Hough Transform Approach to Solving Linear Min-Max Problems,Carmi Grushko,cs.NA,http://arxiv.org/pdf/1205.5911v1
+1205.6654v1,2012-05-30T13:01:24Z,Reduced Ambiguity Calibration for LOFAR,Sarod Yatawatta,astro-ph.IM,http://arxiv.org/pdf/1205.6654v1
+1206.2061v1,2012-06-10T22:13:45Z,"Comments on ""On Approximating Euclidean Metrics by Weighted t-Cost   Distances in Arbitrary Dimension""",Fatih Celiker,cs.NA,http://arxiv.org/pdf/1206.2061v1
+1206.2948v1,2012-06-13T21:54:08Z,The cost of continuity: performance of iterative solvers on isogeometric   finite elements,V. M. Calo,cs.NA,http://arxiv.org/pdf/1206.2948v1
+1206.3177v1,2012-06-14T16:44:10Z,Optimizing the eigenvector computation algorithm with diffusion approach,Philippe Jacquet,cs.NA,http://arxiv.org/pdf/1206.3177v1
+1206.4329v1,2012-06-19T20:20:56Z,An Improved Gauss-Newtons Method based Back-propagation Algorithm for   Fast Convergence,Achintya Das,cs.AI,http://arxiv.org/pdf/1206.4329v1
+1206.4481v2,2012-06-20T12:49:48Z,Parsimonious Mahalanobis Kernel for the Classification of High   Dimensional Data,J. A. Benediktsson,cs.NA,http://arxiv.org/pdf/1206.4481v2
+1207.3450v1,2012-07-14T18:50:02Z,Flux-splitting schemes for parabolic problems,Petr N. Vabishchevich,cs.NA,http://arxiv.org/pdf/1207.3450v1
+1208.3805v3,2012-08-19T03:51:16Z,Paved with Good Intentions: Analysis of a Randomized Block Kaczmarz   Method,Joel A. Tropp,math.NA,http://arxiv.org/pdf/1208.3805v3
+1208.4578v2,2012-08-22T19:05:28Z,Signal Analysis based on Complex Wavelet Signs,Peter Massopust,math.NA,http://arxiv.org/pdf/1208.4578v2
+1208.5649v1,2012-08-28T13:06:55Z,Numerical Methods for Solving Convection-Diffusion Problems,P. Vabishchevich,cs.NA,http://arxiv.org/pdf/1208.5649v1
+1208.6140v1,2012-08-30T11:31:29Z,Unconditionally stable schemes for non-stationary convection-diffusion   equations,M. Vasil'eva,cs.NA,http://arxiv.org/pdf/1208.6140v1
+1209.1406v2,2012-09-06T20:35:21Z,Adaptive Smolyak Pseudospectral Approximations,Youssef M. Marzouk,cs.NA,http://arxiv.org/pdf/1209.1406v2
+1209.1910v1,2012-09-10T09:04:13Z,On Implementation and Evaluation of Inverse Iteration Algorithm with   compact WY Orthogonalization,Yoshimasa Nakamura,cs.NA,http://arxiv.org/pdf/1209.1910v1
+1209.3253v1,2012-09-14T16:36:49Z,A framework for the analytical performance assessment of matrix and   tensor-based ESPRIT-type algorithms,Martin Haardt,cs.PF,http://arxiv.org/pdf/1209.3253v1
+1209.4508v1,2012-09-20T12:27:15Z,Deterministic algorithms for skewed matrix products,Konstantin Kutzkov,cs.DS,http://arxiv.org/pdf/1209.4508v1
+1209.5173v1,2012-09-24T07:33:19Z,On the Parametric Instability Caused by Step Size Variation in   Runge-Kutta-Nyström Methods,Robert Piché,math.NA,http://arxiv.org/pdf/1209.5173v1
+1209.5198v2,2012-09-24T08:58:34Z,Fast matrix decomposition in F2,Anna Rimoldi,math.NA,http://arxiv.org/pdf/1209.5198v2
+1209.5492v1,2012-09-25T04:51:31Z,On the interpolation of calibration solutions obtained in radio   interferometry,Sarod Yatawatta,astro-ph.IM,http://arxiv.org/pdf/1209.5492v1
+1209.5647v3,2012-09-25T15:36:32Z,Additive Update Algorithm for Nonnegative Matrix Factorization,Pham Van At,cs.DS,http://arxiv.org/pdf/1209.5647v3
+1210.4539v2,2012-10-16T19:52:16Z,A Robust Complex Division in Scilab,Robert L. Smith,cs.MS,http://arxiv.org/pdf/1210.4539v2
+1210.5290v4,2012-10-19T01:06:02Z,A numerical framework for diffusion-controlled bimolecular-reactive   systems to enforce maximum principles and non-negative constraint,A. J. Valocchi,cs.NA,http://arxiv.org/pdf/1210.5290v4
+1210.5844v3,2012-10-22T09:12:48Z,Epigraphical splitting for solving constrained convex formulations of   inverse problems with proximal tools,Béatrice Pesquet-Popescu,cs.NA,http://arxiv.org/pdf/1210.5844v3
+1210.8072v1,2012-10-30T16:31:08Z,Strict localization of eigenvectors and eigenvalues,Jacek Tabor,cs.NA,http://arxiv.org/pdf/1210.8072v1
+1212.0417v1,2012-12-03T15:31:14Z,An inverse iteration method for eigenvalue problems with eigenvector   nonlinearities,Wim Michiels,cs.NA,http://arxiv.org/pdf/1212.0417v1
+1212.1251v2,2012-12-06T07:27:29Z,Transient Reward Approximation for Continuous-Time Markov Chains,Bernd Becker,cs.LO,http://arxiv.org/pdf/1212.1251v2
+1212.1992v1,2012-12-10T08:31:14Z,A direct solver with reutilization of previously-computed LU   factorizations for h-adaptive finite element grids with point singularities,David Pardo,cs.NA,http://arxiv.org/pdf/1212.1992v1
+1212.6680v3,2012-12-30T01:15:51Z,Nonsymmetric multigrid preconditioning for conjugate gradient methods,Andrew V. Knyazev,cs.NA,http://arxiv.org/pdf/1212.6680v3
+1302.1314v2,2013-02-06T10:31:17Z,Error Estimates with Explicit Constants for Sinc Quadrature and Sinc   Indefinite Integration over Infinite Intervals,Tomoaki Okayama,math.NA,http://arxiv.org/pdf/1302.1314v2
+1302.2689v2,2013-02-12T03:11:06Z,Partitioned and implicit-explicit general linear methods for ordinary   differential equations,Adrian Sandu,math.NA,http://arxiv.org/pdf/1302.2689v2
+1302.4317v1,2013-02-18T15:38:20Z,Introducing One Step Back Iterative Approach to Solve Linear and Non   Linear Fixed Point Problem,Dohy Hong,cs.NA,http://arxiv.org/pdf/1302.4317v1
+1302.6189v1,2013-02-06T04:43:26Z,A decomposition method with minimum communication amount for   parallelization of multi-dimensional FFTs,Taisuke Ozaki,cs.NA,http://arxiv.org/pdf/1302.6189v1
+1302.7283v1,2013-02-28T18:56:56Z,Source Separation using Regularized NMF with MMSE Estimates under GMM   Priors with Online Learning for The Uncertainties,Hakan Erdogan,cs.LG,http://arxiv.org/pdf/1302.7283v1
+1303.1264v1,2013-03-06T07:58:14Z,Discovery of factors in matrices with grades,Vilem Vychodil,cs.LG,http://arxiv.org/pdf/1303.1264v1
+1303.2238v1,2013-03-09T16:55:30Z,Some numerical aspects of the conservative PSM scheme in a 4D   drift-kinetic code,Eric Sonnendrücker,math.NA,http://arxiv.org/pdf/1303.2238v1
+1303.4207v7,2013-03-18T11:17:55Z,Improving CUR Matrix Decomposition and the Nyström Approximation via   Adaptive Sampling,Zhihua Zhang,cs.LG,http://arxiv.org/pdf/1303.4207v7
+1303.4942v1,2013-03-20T13:57:11Z,A Novel Algorithm for Linear Programming,K. Eswaran,cs.NA,http://arxiv.org/pdf/1303.4942v1
+1304.1760v1,2013-04-05T16:52:21Z,Note: interpreting iterative methods convergence with diffusion point of   view,Dohy Hong,cs.NA,http://arxiv.org/pdf/1304.1760v1
+1304.1864v3,2013-04-06T08:14:25Z,Improved Accuracy and Parallelism for MRRR-based Eigensolvers -- A Mixed   Precision Approach,Paolo Bientinesi,cs.NA,http://arxiv.org/pdf/1304.1864v3
+1304.1978v2,2013-04-07T10:29:41Z,Constructing Low Star Discrepancy Point Sets with Genetic Algorithms,Francois-Michel De Rainville,cs.NE,http://arxiv.org/pdf/1304.1978v2
+1304.2097v1,2013-04-08T04:23:55Z,Solving Linear Equations by Classical Jacobi-SR Based Hybrid   Evolutionary Algorithm with Uniform Adaptation Technique,Md. Bazlar Rahman,cs.NE,http://arxiv.org/pdf/1304.2097v1
+1304.2276v1,2013-04-08T17:22:23Z,Extrapolation-based implicit-explicit general linear methods,Adrian Sandu,cs.NA,http://arxiv.org/pdf/1304.2276v1
+1304.2545v1,2013-04-09T12:00:43Z,For Solving Linear Equations Recombination is a Needless Operation in   Time-Variant Adaptive Hybrid Algorithms,M. M. A. Hashem,cs.NE,http://arxiv.org/pdf/1304.2545v1
+1304.2695v1,2013-04-09T18:48:18Z,Locally exact modifications of numerical schemes,Jan L. Cieśliński,math.NA,http://arxiv.org/pdf/1304.2695v1
+1304.3200v1,2013-04-11T05:36:53Z,An Approach to Solve Linear Equations Using a Time-Variant Adaptation   Based Hybrid Evolutionary Algorithm,Md. Bazlar Rahman,cs.NE,http://arxiv.org/pdf/1304.3200v1
+1304.3919v1,2013-04-14T14:59:00Z,Modular Analysis of Almost Block Diagonal Systems of Equations,Tarek M. A. El-Mistikawy,math.NA,http://arxiv.org/pdf/1304.3919v1
+1304.4964v4,2013-04-17T20:35:37Z,Newton-Based Optimization for Kullback-Leibler Nonnegative Tensor   Factorizations,Tamara G. Kolda,math.NA,http://arxiv.org/pdf/1304.4964v4
+1304.5546v1,2013-04-19T21:07:10Z,Solving Wave Equations on Unstructured Geometries,Jan S. Hesthaven,cs.MS,http://arxiv.org/pdf/1304.5546v1
+1304.5923v1,2013-04-22T12:19:15Z,Numerical solving the identification problem for the lower coefficient   of parabolic equation,V. I. Vasil'ev,cs.NA,http://arxiv.org/pdf/1304.5923v1
+1304.6508v1,2013-04-24T08:25:59Z,Theoretical analysis of Sinc-collocation methods and Sinc-Nyström   methods for initial value problems,Tomoaki Okayama,math.NA,http://arxiv.org/pdf/1304.6508v1
+1304.6996v1,2013-04-25T19:57:03Z,Virtual Delamination Testing through Non-Linear Multi-Scale   Computational Methods: Some Recent Progress,Karin Saavedra,math.NA,http://arxiv.org/pdf/1304.6996v1
+1304.7479v3,2013-04-28T15:31:46Z,Augmenting the Immersed Boundary Method with Radial Basis Functions   (RBFs) for the Modeling of Platelets in Hemodynamic Flows,Aaron L. Fogelson,math.NA,http://arxiv.org/pdf/1304.7479v3
+1307.4097v1,2013-07-15T20:21:43Z,Some notes on applying computational divided differencing in   optimization,Stephen Vavasis,math.OC,http://arxiv.org/pdf/1307.4097v1
+1307.4457v2,2013-07-17T00:19:59Z,A Stochastic Successive Minimization Method for Nonsmooth Nonconvex   Optimization with Applications to Transceiver Design in Wireless   Communication Networks,Zhi-Quan Luo,math.OC,http://arxiv.org/pdf/1307.4457v2
+1307.7345v1,2013-07-28T10:13:28Z,A novel method based on the Tikhonov functional for non-negative   solution of a system of linear equations with non-negative coefficients,Fiks Ilya,cs.NA,http://arxiv.org/pdf/1307.7345v1
+1307.7454v2,2013-07-29T03:50:16Z,Relative Errors for Deterministic Low-Rank Matrix Approximations,Jeff M. Phillips,cs.DS,http://arxiv.org/pdf/1307.7454v2
+1310.1709v1,2013-10-07T09:15:54Z,General inner approximation of vector-valued functions,Sylvie Putot,cs.NA,http://arxiv.org/pdf/1310.1709v1
+1310.1847v1,2013-10-07T16:19:34Z,Isogeometric finite element analysis of functionally graded plates using   a refined plate theory,S. P. A. Bordas,cs.NA,http://arxiv.org/pdf/1310.1847v1
+1310.1906v2,2013-10-07T19:51:54Z,"The application of the exact operational matrices for solving the   Emden-Fowler equations, arising in astrophysics",J. A. Rad,cs.NA,http://arxiv.org/pdf/1310.1906v2
+1310.3422v3,2013-10-12T20:55:35Z,GPU-Acceleration of Parallel Unconditionally Stable Group Explicit   Finite Difference Method,Sayyed A. Hossayni,cs.NA,http://arxiv.org/pdf/1310.3422v3
+1310.4288v1,2013-10-16T07:46:42Z,Higher Order Aitken Extrapolation with Application to Converging and   Diverging Gauss-Seidel Iterations,Ababu Teklemariam Tiruneh,math.NA,http://arxiv.org/pdf/1310.4288v1
+1310.5573v1,2013-10-21T14:44:22Z,A class of generalized additive Runge-Kutta methods,Michael Guenther,cs.NA,http://arxiv.org/pdf/1310.5573v1
+1310.6055v1,2013-10-22T20:49:26Z,Multirate generalized additive Runge Kutta methods,Adrian Sandu,cs.NA,http://arxiv.org/pdf/1310.6055v1
+1310.7202v4,2013-10-27T14:55:29Z,Randomized LU Decomposition,Amir Averbuch,math.NA,http://arxiv.org/pdf/1310.7202v4
+1310.7708v3,2013-10-29T08:32:32Z,Theoretical analysis of a Sinc-Nyström method for Volterra   integro-differential equations and its improvement,Tomoaki Okayama,math.NA,http://arxiv.org/pdf/1310.7708v3
+1311.2780v1,2013-11-12T13:47:55Z,A priori estimation of a time step for numerically solving parabolic   problems,Petr N. Vabishchevich,cs.NA,http://arxiv.org/pdf/1311.2780v1
+1311.2854v3,2013-11-12T17:42:34Z,Spectral Clustering via the Power Method -- Provably,Prabhanjan Kambadur,cs.LG,http://arxiv.org/pdf/1311.2854v3
+1311.3286v1,2013-11-13T20:41:01Z,An Efficient Parallel Solver for SDD Linear Systems,Daniel A. Spielman,cs.NA,http://arxiv.org/pdf/1311.3286v1
+1311.3358v1,2013-11-14T01:29:15Z,Generating Equidistributed Meshes in 2D via Domain Decomposition,Alexander J. M. Howse,math.NA,http://arxiv.org/pdf/1311.3358v1
+1311.3766v1,2013-11-15T08:33:42Z,Splitting schemes for poroelasticity and thermoelasticity problems,M. V. Vasilyeva,cs.NA,http://arxiv.org/pdf/1311.3766v1
+1311.4257v1,2013-11-18T03:47:36Z,A parallel directional Fast Multipole Method,Lexing Ying,math.NA,http://arxiv.org/pdf/1311.4257v1
+1404.0442v3,2014-04-02T03:29:43Z,Adaptive $h$-refinement for reduced-order models,Kevin Carlberg,cs.NA,http://arxiv.org/pdf/1404.0442v3
+1404.0466v2,2014-04-02T05:33:41Z,piCholesky: Polynomial Interpolation of Multiple Cholesky Factors for   Efficient Approximate Cross-Validation,Raffay Hamid,cs.LG,http://arxiv.org/pdf/1404.0466v2
+1404.0812v1,2014-04-03T09:09:03Z,A Radial Basis Function (RBF)-Finite Difference (FD) Method for   Diffusion and Reaction-Diffusion Equations on Surfaces,Aaron L. Fogelson,math.NA,http://arxiv.org/pdf/1404.0812v1
+1404.1165v2,2014-04-04T06:59:15Z,A new multiresolution finite element method based on a multiresolution   quadrilateral plate element,YiMing Xia,math.NA,http://arxiv.org/pdf/1404.1165v2
+1404.1610v1,2014-04-06T19:06:37Z,An Efficient Approach for Computing Optimal Low-Rank Regularized Inverse   Matrices,Matthias Chung,math.NA,http://arxiv.org/pdf/1404.1610v1
+1404.1810v1,2014-04-07T15:06:19Z,A class of AM-QFT algorithms for power-of-two FFT,Lorenzo Pasquini,cs.DS,http://arxiv.org/pdf/1404.1810v1
+1404.3327v1,2014-04-12T23:25:52Z,Supremum-Norm Convergence for Step-Asynchronous Successive   Overrelaxation on M-matrices,Sebastiano Vigna,cs.DS,http://arxiv.org/pdf/1404.3327v1
+1404.3451v1,2014-04-14T02:38:34Z,A fast direct solver for high frequency scattering from a large cavity   in two dimensions,Leslie F. Greengard,math.NA,http://arxiv.org/pdf/1404.3451v1
+1404.4132v3,2014-04-16T03:57:42Z,"Projection algorithms for non-convex minimization, with application to   sparse principal component analysis",Jiajie Zhu,cs.NA,http://arxiv.org/pdf/1404.4132v3
+1404.5363v2,2014-04-22T01:26:04Z,A constraint on extensible quadrature rules,Art B. Owen,math.NA,http://arxiv.org/pdf/1404.5363v2
+1404.5525v1,2014-04-17T20:00:33Z,Global Newton Iteration over Archimedean and non-Archimedean Fields,Agnes Szanto,cs.NA,http://arxiv.org/pdf/1404.5525v1
+1404.6817v4,2014-04-27T19:58:07Z,Novel Approach to Real Polynomial Root-finding and Matrix Eigen-solving,Victor Y. Pan,math.NA,http://arxiv.org/pdf/1404.6817v4
+1404.6871v1,2014-04-28T05:52:30Z,Proximal Iteratively Reweighted Algorithm with Multiple Splitting for   Nonconvex Sparsity Optimization,Shuicheng Yan,cs.NA,http://arxiv.org/pdf/1404.6871v1
+1405.0560v1,2014-05-03T08:15:32Z,Numerical Investigation of Effects of Compound Angle and Length to   Diameter Ratio on Adiabatic Film Cooling Effectiveness,Ashish Garg,cs.CE,http://arxiv.org/pdf/1405.0560v1
+1405.1250v1,2014-05-06T12:58:39Z,New tight approximations for Fisher's exact test,Wilhelmiina Hämäläinen,stat.CO,http://arxiv.org/pdf/1405.1250v1
+1405.2948v1,2014-02-02T22:54:51Z,Characterizing the Topography of Multi-dimensional Energy Landscapes,John A. Scales,cs.NA,http://arxiv.org/pdf/1405.2948v1
+1405.3230v2,2014-05-13T16:53:01Z,A monolithic multi-time-step computational framework for first-order   transient systems with disparate scales,K. B. Nakshatrala,cs.NA,http://arxiv.org/pdf/1405.3230v2
+1405.3235v1,2014-05-13T17:19:13Z,An Alternating KMF Algorithm to Solve the Cauchy Problem for Laplaces   Equation,Jaafar Abouchabaka,cs.NA,http://arxiv.org/pdf/1405.3235v1
+1405.3468v1,2014-05-14T12:29:28Z,An error estimate of Gaussian Recursive Filter in 3Dvar problem,L. Marcellino,cs.NA,http://arxiv.org/pdf/1405.3468v1
+1405.4644v1,2014-05-19T09:03:58Z,Changing Computing Paradigms Towards Power Efficiency,Alessandro Curioni,cs.MS,http://arxiv.org/pdf/1405.4644v1
+1405.6139v1,2014-05-11T18:01:37Z,Development of the method of computer analogy for studying and solving   complex nonlinear systems,Andrey Stroganov,cs.NA,http://arxiv.org/pdf/1405.6139v1
+1407.1061v1,2014-07-03T21:07:54Z,Enhancing adaptive sparse grid approximations and improving refinement   strategies using adjoint-based a posteriori error estimates,Timothy Wildey,cs.NA,http://arxiv.org/pdf/1407.1061v1
+1407.1399v1,2014-07-05T11:58:30Z,Generalized Higher-Order Tensor Decomposition via Parallel ADMM,James Cheng,cs.NA,http://arxiv.org/pdf/1407.1399v1
+1407.1572v1,2014-07-07T03:16:40Z,The Inverse Fast Multipole Method,Eric Darve,math.NA,http://arxiv.org/pdf/1407.1572v1
+1407.1593v2,2014-07-07T06:42:57Z,A Constructive Algorithm for Decomposing a Tensor into a Finite Sum of   Orthonormal Rank-1 Terms,Ngai Wong,math.NA,http://arxiv.org/pdf/1407.1593v2
+1407.2337v1,2014-07-09T02:21:46Z,High Order Implicit-Explicit General Linear Methods with Optimized   Stability Regions,Sebastien Blaise,cs.NA,http://arxiv.org/pdf/1407.2337v1
+1407.2802v1,2014-07-10T14:27:23Z,Rigorous uniform approximation of D-finite functions using Chebyshev   expansions,Marc Mezzarobba,cs.SC,http://arxiv.org/pdf/1407.2802v1
+1407.3124v2,2014-07-11T12:08:14Z,Tensor Networks for Big Data Analytics and Large-Scale Optimization   Problems,Andrzej Cichocki,cs.NA,http://arxiv.org/pdf/1407.3124v2
+1407.3189v1,2014-07-11T15:05:33Z,A modern resistive magnetohydrodynamics solver using C++ and the Boost   library,Lukas Einkemmer,cs.NA,http://arxiv.org/pdf/1407.3189v1
+1407.5516v2,2014-07-21T14:48:27Z,A DEIM Induced CUR Factorization,M. Embree,math.NA,http://arxiv.org/pdf/1407.5516v2
+1407.5593v1,2014-07-21T18:38:38Z,Deterministic Versus Randomized Kaczmarz Iterative Projection,Ali Sekmen,cs.NA,http://arxiv.org/pdf/1407.5593v1
+1407.6202v2,2014-07-23T13:16:38Z,Estimates of the distance to the exact solution of parabolic problems   based on local Poincaré type inequalities,Sergey Repin,math.FA,http://arxiv.org/pdf/1407.6202v2
+1407.8093v1,2014-07-30T15:32:28Z,Enhancing $\ell_1$-minimization estimates of polynomial chaos expansions   using basis selection,Khachik Sargsyan,cs.NA,http://arxiv.org/pdf/1407.8093v1
+1507.00272v3,2015-07-01T16:00:40Z,Numerical instability of resultant methods for multidimensional   rootfinding,Alex Townsend,math.NA,http://arxiv.org/pdf/1507.00272v3
+1507.00644v2,2015-07-02T16:06:26Z,Compressed Manifold Modes: Fast Calculation and Natural Ordering,Kevin Houston,cs.CG,http://arxiv.org/pdf/1507.00644v2
+1507.00702v1,2015-07-02T19:06:47Z,Centralized and Distributed Newton Methods for Network Optimization and   Extensions,Dimitri P. Bertsekas,cs.NA,http://arxiv.org/pdf/1507.00702v1
+1507.04417v1,2015-07-16T00:16:02Z,A quadrilateral 'mini' finite element for the Stokes problem using a   single bubble function,Bishnu P. Lamichhane,cs.NA,http://arxiv.org/pdf/1507.04417v1
+1507.05281v1,2015-07-19T12:37:13Z,On Dual-Finite Volume Methods for Extended Porous Medium Equations,Hidekazu Yoshioka,cs.NA,http://arxiv.org/pdf/1507.05281v1
+1507.05593v1,2015-07-20T19:01:30Z,An Efficient Solver for Sparse Linear Systems Based on Rank-Structured   Cholesky Factorization,David S. Bindel,cs.NA,http://arxiv.org/pdf/1507.05593v1
+1507.06174v2,2015-07-22T13:19:27Z,Direct Inversion of the 3D Pseudo-polar Fourier Transform,Yoel Shkolnisky,math.NA,http://arxiv.org/pdf/1507.06174v2
+1507.08805v3,2015-07-31T09:19:47Z,A constructive arbitrary-degree Kronecker product decomposition of   tensors,Ngai Wong,math.NA,http://arxiv.org/pdf/1507.08805v3
+0910.0921v2,2009-10-06T04:41:05Z,Low-rank Matrix Completion with Noisy Observations: a Quantitative   Comparison,Sewoong Oh,cs.LG,http://arxiv.org/pdf/0910.0921v2
+0910.4049v2,2009-10-21T11:20:37Z,A Geometric Approach to Solve Fuzzy Linear Systems,O. Akin,cs.NA,http://arxiv.org/pdf/0910.4049v2
+0910.5260v2,2009-10-27T22:19:31Z,A Gradient Descent Algorithm on the Grassman Manifold for Matrix   Completion,Sewoong Oh,cs.NA,http://arxiv.org/pdf/0910.5260v2
+0910.5947v2,2009-10-30T19:08:44Z,Topological De-Noising: Strengthening the Topological Signal,Gunnar Carlsson,cs.CG,http://arxiv.org/pdf/0910.5947v2
+1003.2441v1,2010-03-11T23:00:15Z,Up-sampling and Natural Sample Value Computation for Digital Pulse Width   Modulators,Dilip V. Sarwate,cs.SD,http://arxiv.org/pdf/1003.2441v1
+1003.2724v1,2010-03-13T16:36:47Z,Particle Swarm Optimization Based Diophantine Equation Solver,Mukund Sanglikar,cs.NE,http://arxiv.org/pdf/1003.2724v1
+1003.3689v2,2010-03-18T22:56:57Z,A Highly Efficient Parallel Algorithm for Computing the Fiedler Vector,Murat Manguoglu,cs.NA,http://arxiv.org/pdf/1003.3689v2
+1005.0503v1,2010-05-04T12:27:15Z,A weakly stable algorithm for general Toeplitz systems,Frank R. de Hoog,math.NA,http://arxiv.org/pdf/1005.0503v1
+1005.0667v1,2010-05-05T04:28:52Z,Error analysis of a partial pivoting method for structured matrices,Richard P. Brent,math.NA,http://arxiv.org/pdf/1005.0667v1
+1005.0671v1,2010-05-05T04:59:19Z,Stability of fast algorithms for structured linear systems,Richard P. Brent,math.NA,http://arxiv.org/pdf/1005.0671v1
+1005.0747v1,2010-05-05T13:19:13Z,Hybrid Numerical Solution of the Chemical Master Equation,Verena Wolf,q-bio.QM,http://arxiv.org/pdf/1005.0747v1
+1005.0762v1,2010-05-05T14:23:45Z,Note on Computing Ratings from Eigenvectors,Richard P. Brent,math.NA,http://arxiv.org/pdf/1005.0762v1
+1005.1417v1,2010-05-09T18:38:02Z,Using vector divisions in solving linear complementarity problem,Mohamed Khaladi,cs.NA,http://arxiv.org/pdf/1005.1417v1
+1005.1497v1,2010-05-10T11:28:50Z,Fast Digital Convolutions using Bit-Shifts,Shekhar S. Chandra,cs.NA,http://arxiv.org/pdf/1005.1497v1
+1005.2086v1,2010-05-12T13:23:06Z,On a new class of additive (splitting) operator-difference schemes,Petr N. Vabishchevich,cs.NA,http://arxiv.org/pdf/1005.2086v1
+1005.2146v1,2010-05-12T16:25:46Z,On the Finite Time Convergence of Cyclic Coordinate Descent Methods,Ambuj Tewari,cs.LG,http://arxiv.org/pdf/1005.2146v1
+1005.4732v2,2010-05-26T04:17:48Z,Tensor sparsification via a bound on the spectral norm of random tensors,Trac D. Tran,math.NA,http://arxiv.org/pdf/1005.4732v2
+1006.0401v1,2010-06-02T14:30:40Z,Making big steps in trajectories,Margarita Korovina,cs.MS,http://arxiv.org/pdf/1006.0401v1
+1006.1043v1,2010-06-05T13:25:19Z,"Polyharmonic Daubechies type wavelets in Image Processing and Astronomy,   I",Damyan Kalaglarsky,math.NA,http://arxiv.org/pdf/1006.1043v1
+1006.1296v1,2010-06-07T16:49:05Z,Estimating multidimensional probability fields using the Field Estimator   for Arbitrary Spaces (FiEstAS) with applications to astrophysics,Yago Ascasibar,astro-ph.IM,http://arxiv.org/pdf/1006.1296v1
+1006.3159v1,2010-06-16T08:39:12Z,Abstract Fixpoint Computations with Numerical Acceleration Methods,Alexandre Chapoutot,cs.PL,http://arxiv.org/pdf/1006.3159v1
+1006.3962v1,2010-06-20T21:52:01Z,Increasing the Reliability of Adaptive Quadrature Using Explicit   Interpolants,Pedro Gonnet,cs.NA,http://arxiv.org/pdf/1006.3962v1
+1006.5252v1,2010-06-28T01:36:15Z,Decomposition Approach for Low-rank Matrix Completion,Samuel Cheng,math.NA,http://arxiv.org/pdf/1006.5252v1
+1006.5311v1,2010-06-28T10:41:39Z,Linear Algebra in the vector space of intervals,Nicolas Goze,math.NA,http://arxiv.org/pdf/1006.5311v1
+1103.2405v1,2011-03-12T01:04:56Z,Fast Sparse Matrix-Vector Multiplication on GPUs: Implications for Graph   Mining,Ponnuswamy Sadayappan,cs.NA,http://arxiv.org/pdf/1103.2405v1
+1103.6248v1,2011-03-31T17:29:27Z,DOLFIN: Automated Finite Element Computing,Garth N. Wells,cs.MS,http://arxiv.org/pdf/1103.6248v1
+1104.2084v3,2011-04-11T23:03:01Z,Adaptative Step Size Selection for Homotopy Methods to Solve Polynomial   Equations,Michael Shub,math.NA,http://arxiv.org/pdf/1104.2084v3
+1112.2160v1,2011-12-09T17:41:45Z,On the role of enrichment and statical admissibility of recovered fields   in a-posteriori error estimation for enriched finite element methods,Eugenio Giner,physics.comp-ph,http://arxiv.org/pdf/1112.2160v1
+1112.3166v2,2011-12-14T11:10:08Z,Higher-Order Momentum Distributions and Locally Affine LDDMM   Registration,Xavier Pennec,cs.CV,http://arxiv.org/pdf/1112.3166v2
+1112.4238v1,2011-12-19T04:54:47Z,Vertex-centroid finite volume scheme on tetrahedral grids for   conservation laws,Ashish Garg,cs.NA,http://arxiv.org/pdf/1112.4238v1
+1211.2517v2,2012-11-12T06:27:22Z,A SVD accelerated kernel-independent fast multipole method and its   application to BEM,Junjie Rong,cs.NA,http://arxiv.org/pdf/1211.2517v2
+1211.3211v1,2012-11-14T06:36:15Z,Effectiveness of sparse Bayesian algorithm for MVAR coefficient   estimation in MEG/EEG source-space causality analysis,Srikantan S. Nagarajan,stat.AP,http://arxiv.org/pdf/1211.3211v1
+1211.3821v1,2012-11-16T08:28:29Z,Report: Error estimation of recovered solution in FE analysis,Francisco Javier Fuenmayor Fernández,cs.NA,http://arxiv.org/pdf/1211.3821v1
+1211.4516v1,2012-11-19T17:37:59Z,Numerical comparison of different algorithms for construction of wavelet   matrices,Lasha Ephremidze,cs.NA,http://arxiv.org/pdf/1211.4516v1
+1211.5052v1,2012-11-21T15:06:41Z,A Mathematical Random Number Generator (MRNG),Guillermo Oviedo,cs.NA,http://arxiv.org/pdf/1211.5052v1
+1211.5082v1,2012-11-20T08:23:30Z,The Monogenic Synchrosqueezed Wavelet Transform: A tool for the   Decomposition/Demodulation of AM-FM images,Valérie Perrier,math.NA,http://arxiv.org/pdf/1211.5082v1
+1301.0967v2,2013-01-06T03:12:38Z,A general approach to enhance slope limiters on non-uniform rectilinear   grids,Xianyi Zeng,math.NA,http://arxiv.org/pdf/1301.0967v2
+1301.1071v1,2013-01-06T22:56:36Z,Direct QR factorizations for tall-and-skinny matrices in MapReduce   architectures,James Demmel,cs.DC,http://arxiv.org/pdf/1301.1071v1
+1301.1107v3,2013-01-07T04:31:19Z,Spectral Condition-Number Estimation of Large Sparse Matrices,Sivan Toledo,cs.NA,http://arxiv.org/pdf/1301.1107v3
+1301.3389v2,2013-01-15T15:59:46Z,The Diagonalized Newton Algorithm for Nonnegative Matrix Factorization,Hugo Van hamme,cs.NA,http://arxiv.org/pdf/1301.3389v2
+1301.3527v2,2013-01-15T23:11:05Z,Block Coordinate Descent for Sparse NMF,Thomas P. Hayes,cs.LG,http://arxiv.org/pdf/1301.3527v2
+1301.3584v7,2013-01-16T04:47:02Z,Revisiting Natural Gradient for Deep Networks,Yoshua Bengio,cs.LG,http://arxiv.org/pdf/1301.3584v7
+1301.4438v1,2013-01-18T17:23:01Z,Simultaneous computation of the row and column rank profiles,Ziad Sultan,cs.NA,http://arxiv.org/pdf/1301.4438v1
+1301.4749v1,2013-01-21T04:08:52Z,On the Behavior of the Residual in Conjugate Gradient Method,Teruyoshi Washizawa,cs.NA,http://arxiv.org/pdf/1301.4749v1
+1301.6628v1,2013-01-28T18:06:21Z,"A Simple, Combinatorial Algorithm for Solving SDD Systems in   Nearly-Linear Time",Zeyuan Allen Zhu,cs.DS,http://arxiv.org/pdf/1301.6628v1
+1301.7530v1,2013-01-31T07:50:11Z,Total and selective reuse of Krylov subspaces for the resolution of   sequences of nonlinear structural problems,Julien Pebrel,math.NA,http://arxiv.org/pdf/1301.7530v1
+1305.0526v2,2013-05-02T18:06:54Z,Matrix Inversion Is As Easy As Exponentiation,Nisheeth K. Vishnoi,cs.DS,http://arxiv.org/pdf/1305.0526v2
+1305.2384v3,2013-05-07T10:56:25Z,Asymptotic metrics on the space of matrices under the commutation   relation,Michael M. Bronstein,cs.NA,http://arxiv.org/pdf/1305.2384v3
+1305.2494v1,2013-05-11T10:31:32Z,Computing Solution Operators of Boundary-value Problems for Some Linear   Hyperbolic Systems of PDEs,Victor Selivanov,cs.NA,http://arxiv.org/pdf/1305.2494v1
+1305.2738v1,2013-05-13T11:00:45Z,Isogeometric cohesive elements for two and three dimensional composite   delamination analysis,Stephane Bordas,math.NA,http://arxiv.org/pdf/1305.2738v1
+1305.2952v1,2013-05-13T20:57:24Z,Finite Volume Modeling of Poroelastic-Fluid Wave Propagation with Mapped   Grids,M. Yvonne Ou,math.NA,http://arxiv.org/pdf/1305.2952v1
+1305.3312v2,2013-05-14T22:03:00Z,Stable Estimation of a Covariance Matrix Guided by Nuclear Norm   Penalties,Kenneth Lange,stat.ME,http://arxiv.org/pdf/1305.3312v2
+1305.3639v1,2013-05-15T21:18:04Z,Local error estimates for adaptive simulation of the Reaction-Diffusion   Master Equation via operator splitting,Linda Petzold,cs.NA,http://arxiv.org/pdf/1305.3639v1
+1305.4650v2,2013-05-20T20:33:40Z,A parallel butterfly algorithm,Lexing Ying,math.NA,http://arxiv.org/pdf/1305.4650v2
+1305.6355v2,2013-05-28T03:09:13Z,On multi-time-step monolithic coupling algorithms for elastodynamics,K. B. Nakshatrala,cs.NA,http://arxiv.org/pdf/1305.6355v2
+1305.6857v1,2013-05-29T16:31:46Z,An adaptive time integration strategy based on displacement history   curvature,A. C. Frery,cs.NA,http://arxiv.org/pdf/1305.6857v1
+1306.2663v1,2013-06-11T21:39:56Z,Large Margin Low Rank Tensor Analysis,Mohamed Cheriet,cs.LG,http://arxiv.org/pdf/1306.2663v1
+1306.3391v2,2013-06-14T13:28:49Z,Local Convergence of an Algorithm for Subspace Identification from   Partial Data,Stephen J. Wright,cs.NA,http://arxiv.org/pdf/1306.3391v2
+1306.4080v3,2013-06-18T07:03:16Z,Parallel Coordinate Descent Newton Method for Efficient   $\ell_1$-Regularized Minimization,Ming-Hsuan Yang,cs.LG,http://arxiv.org/pdf/1306.4080v3
+1306.4905v1,2013-06-20T15:19:22Z,From-Below Approximations in Boolean Matrix Factorization: Geometry and   New Algorithm,Martin Trnecka,cs.NA,http://arxiv.org/pdf/1306.4905v1
+1306.5013v2,2013-06-20T22:30:09Z,Randomized Interpolative Decomposition of Separated Representations,Gregory Beylkin,math.NA,http://arxiv.org/pdf/1306.5013v2
+1306.6615v3,2013-06-27T19:27:30Z,Explicit error bound for modified numerical iterated integration by   means of Sinc methods,Tomoaki Okayama,math.NA,http://arxiv.org/pdf/1306.6615v3
+1308.1827v2,2013-08-08T12:34:09Z,Factorization approach to structured low-rank approximation with   applications,Ivan Markovsky,math.NA,http://arxiv.org/pdf/1308.1827v2
+1308.2426v1,2013-08-11T20:15:49Z,Bias of the SIR filter in estimation of the state transition noise,Tiancheng Li,cs.SY,http://arxiv.org/pdf/1308.2426v1
+1308.2475v2,2013-08-12T06:57:32Z,Improved bounds on sample size for implicit matrix trace estimators,Uri Ascher,cs.NA,http://arxiv.org/pdf/1308.2475v2
+1308.3339v4,2013-08-15T08:53:25Z,Fast Multipole Preconditioners for Sparse Matrices Arising from Elliptic   Equations,David Keyes,cs.NA,http://arxiv.org/pdf/1308.3339v4
+1308.3558v1,2013-08-16T05:48:29Z,Fast Stochastic Alternating Direction Method of Multipliers,James T. Kwok,cs.LG,http://arxiv.org/pdf/1308.3558v1
+1308.5294v1,2013-08-24T04:20:28Z,Solving Multiple-Block Separable Convex Minimization Problems Using   Two-Block Alternating Direction Method of Multipliers,Zhi-Quan Luo,math.OC,http://arxiv.org/pdf/1308.5294v1
+1308.5697v1,2013-08-26T21:00:35Z,Randomized algorithms for low-rank matrix factorizations: sharp   performance bounds,Emmanuel Candes,cs.NA,http://arxiv.org/pdf/1308.5697v1
+1308.6320v1,2013-08-28T21:43:16Z,Three-Dimensional Mapped-Grid Finite Volume Modeling of   Poroelastic-Fluid Wave Propagation,Grady I. Lemoine,math.NA,http://arxiv.org/pdf/1308.6320v1
+1309.0212v1,2013-09-01T12:24:52Z,An Error-Resilient Redundant Subspace Correction Method,Chen-Song Zhang,math.NA,http://arxiv.org/pdf/1309.0212v1
+1309.0392v1,2013-08-12T16:52:04Z,Hierarchization for the Sparse Grid Combination Technique,Philipp Hupp,cs.DC,http://arxiv.org/pdf/1309.0392v1
+1309.6064v1,2013-09-24T07:11:16Z,Numerical solutions of a class of second order boundary value problems   on using Bernoulli Polynomials,Afroza Shirin,cs.NA,http://arxiv.org/pdf/1309.6064v1
+1309.6290v3,2013-09-23T15:18:14Z,Coefficient Matrices Computation of Structural Vector Autoregressive   Model,Aravindh Krishnamoorthy,cs.NA,http://arxiv.org/pdf/1309.6290v3
+1309.6311v1,2013-09-24T07:48:17Z,Numerical Solutions of Fredholm Integral Equations Using Bernstein   Polynomials,Md. Shafiqul Islam,cs.NA,http://arxiv.org/pdf/1309.6311v1
+1309.7001v2,2013-09-26T18:22:41Z,Kaczmarz Algorithm with Soft Constraints for User Interface Layout,Gerald Weber,cs.NA,http://arxiv.org/pdf/1309.7001v2
+1309.7828v3,2013-09-30T13:01:34Z,A search for extensible low-WAFOM point sets,Shin Harase,math.NA,http://arxiv.org/pdf/1309.7828v3
+1312.0707v2,2013-12-03T06:05:01Z,Data completion and stochastic algorithms for PDE inversion problems   with many measurements,Uri Ascher,cs.NA,http://arxiv.org/pdf/1312.0707v2
+1312.2333v1,2013-12-09T08:11:12Z,Exploiting Data Representation for Fault Tolerance,Frank Mueller,cs.NA,http://arxiv.org/pdf/1312.2333v1
+1312.3300v1,2013-12-11T20:09:33Z,Numerical Reproducibility and Parallel Computations: Issues for Interval   Algorithms,Philippe Théveny,cs.NA,http://arxiv.org/pdf/1312.3300v1
+1312.6872v1,2013-12-17T15:12:48Z,Matrix recovery using Split Bregman,Angshul Majumdar,cs.NA,http://arxiv.org/pdf/1312.6872v1
+1312.7852v1,2013-12-30T20:21:44Z,Evolutionary Design of Numerical Methods: Generating Finite Difference   and Integration Schemes by Differential Evolution,P. M. A. Sloot,cs.NE,http://arxiv.org/pdf/1312.7852v1
+1401.0159v1,2013-12-31T15:25:50Z,Speeding-Up Convergence via Sequential Subspace Optimization: Current   State and Future Directions,Michael Zibulevsky,cs.NA,http://arxiv.org/pdf/1401.0159v1
+1401.1154v2,2014-01-06T17:45:17Z,Monte Carlo Computation of the Vassiliev knot invariant of degree 2 in   the integral representation,Yani Zhao,math.NA,http://arxiv.org/pdf/1401.1154v2
+1401.2125v2,2014-01-09T19:17:40Z,Exponential-Krylov methods for ordinary differential equations,Adrian Sandu,cs.NA,http://arxiv.org/pdf/1401.2125v2
+1401.2844v1,2014-01-13T14:22:32Z,Inifnite hypercomplex number system factorization methods,Iana V. Khitsko,cs.NA,http://arxiv.org/pdf/1401.2844v1
+1401.5148v1,2014-01-21T02:19:26Z,Solving Cubic Equations By the Quadratic Formula,Bahman Kalantari,cs.NA,http://arxiv.org/pdf/1401.5148v1
+1401.5522v1,2014-01-21T23:45:16Z,Designing LU-QR hybrid solvers for performance and stability,Jack Dongarra,math.NA,http://arxiv.org/pdf/1401.5522v1
+1401.7227v3,2014-01-28T15:43:58Z,A Two-Level Variant of Additive Schwarz Preconditioning for Use in   Reservoir Simulation,David Ponting,math.NA,http://arxiv.org/pdf/1401.7227v3
+1402.0642v1,2014-02-04T07:17:01Z,kappa_SQ: A Matlab package for randomized sampling of matrices with   orthonormal columns,Ilse Ipsen,math.NA,http://arxiv.org/pdf/1402.0642v1
+1402.1636v1,2014-02-07T13:42:18Z,Numerical solving the boundary value problem for fractional powers of   elliptic operators,Petr N. Vabishchevich,cs.NA,http://arxiv.org/pdf/1402.1636v1
+1402.1673v3,2014-02-07T15:50:21Z,Non-Orthogonal Tensor Diagonalization,Andrzej Cichocki,cs.NA,http://arxiv.org/pdf/1402.1673v3
+1402.2018v1,2014-02-10T02:20:09Z,Comparison of POD reduced order strategies for the nonlinear 2D Shallow   Water Equations,Ionel M. Navon,cs.NA,http://arxiv.org/pdf/1402.2018v1
+1402.2991v1,2014-02-11T20:13:14Z,On the maximum relative error when computing x^n in floating-point   arithmetic,Jean-Michel Muller,cs.NA,http://arxiv.org/pdf/1402.2991v1
+1402.5287v2,2014-02-21T13:03:18Z,On fast matrix-vector multiplication with a Hankel matrix in   multiprecision arithmetics,Gleb Beliakov,math.NA,http://arxiv.org/pdf/1402.5287v2
+1402.6081v3,2014-02-25T08:18:58Z,A parallel fast multipole method for elliptic difference equations,Tim Colonius,physics.comp-ph,http://arxiv.org/pdf/1402.6081v3
+1403.1649v1,2014-03-07T03:57:16Z,A GPU Accelerated Aggregation Algebraic Multigrid Method,Yongpeng Zhang,math.NA,http://arxiv.org/pdf/1403.1649v1
+1403.2294v1,2014-03-10T16:34:40Z,Non-linear mass-spring system for large soft tissue deformations   modeling,Sergei Nikolaev,cs.NA,http://arxiv.org/pdf/1403.2294v1
+1403.2740v2,2014-02-23T00:14:19Z,A consistent model for cardiac deformation estimation under abnormal   ventricular muscle conditions,Hamid Abrishami Moghaddam,cs.CE,http://arxiv.org/pdf/1403.2740v2
+1403.3046v1,2014-03-12T17:49:33Z,Improvement of the monotonicity properties of the difference schemes by   building in them of the monotonizing operators,Y. V. Troshchiev,cs.NA,http://arxiv.org/pdf/1403.3046v1
+1403.4267v2,2014-03-17T20:34:18Z,Balancing Sparsity and Rank Constraints in Quadratic Basis Pursuit,Laurent Daudet,cs.NA,http://arxiv.org/pdf/1403.4267v2
+1403.4428v3,2014-03-18T12:20:45Z,Two recursive GMRES-type methods for shifted linear systems with general   preconditioning,Kirk M. Soodhalter,math.NA,http://arxiv.org/pdf/1403.4428v3
+1403.5337v3,2014-03-21T01:07:26Z,A Fast Block Low-Rank Dense Solver with Applications to Finite-Element   Matrices,Eric Darve,cs.NA,http://arxiv.org/pdf/1403.5337v3
+1403.5805v1,2014-03-23T21:41:37Z,Parallel Implementations of the Jacobi Linear Algebraic Systems Solve,Manos Roumeliotis,cs.DC,http://arxiv.org/pdf/1403.5805v1
+1403.6968v2,2014-03-27T10:22:32Z,LINVIEW: Incremental View Maintenance for Complex Analytical Queries,Christoph Koch,cs.DB,http://arxiv.org/pdf/1403.6968v2
+1406.0306v3,2014-06-02T09:33:19Z,Fast Isogeometric Boundary Element Method based on Independent Field   Approximation,Thomas-Peter Fries,cs.NA,http://arxiv.org/pdf/1406.0306v3
+1406.0907v2,2014-06-03T23:52:08Z,Computing GCRDs of Approximate Differential Polynomials,Joseph Haraldson,cs.SC,http://arxiv.org/pdf/1406.0907v2
+1406.1933v1,2014-06-07T21:28:02Z,On the error propagation of semi-Lagrange and Fourier methods for   advection problems,Alexander Ostermann,math.NA,http://arxiv.org/pdf/1406.1933v1
+1406.1967v4,2014-06-08T10:03:26Z,Quasi-Monte Carlo point sets with small $t$-values and WAFOM,Shin Harase,math.NA,http://arxiv.org/pdf/1406.1967v4
+1406.1974v1,2014-06-08T11:48:44Z,Communication Complexity of the Fast Multipole Method and its Algebraic   Variants,David Keyes,cs.DC,http://arxiv.org/pdf/1406.1974v1
+1406.2010v2,2014-06-08T18:24:08Z,On low complexity Acceleration Techniques for Randomized Optimization:   Supplementary Online Material,Sebastian U. Stich,math.OC,http://arxiv.org/pdf/1406.2010v2
+1406.2040v2,2014-06-08T23:24:49Z,Quantum arithmetic and numerical analysis using Repeat-Until-Success   circuits,Martin Roetteler,quant-ph,http://arxiv.org/pdf/1406.2040v2
+1406.2817v1,2014-06-11T08:21:55Z,Isogeometric Boundary Element Method with Hierarchical Matrices,Thomas-Peter Fries,cs.NA,http://arxiv.org/pdf/1406.2817v1
+1406.3499v1,2014-06-13T10:54:34Z,Boundary Element Analysis with trimmed NURBS and a generalized IGA   approach,Thomas-Peter Fries,cs.NA,http://arxiv.org/pdf/1406.3499v1
+1406.4473v3,2014-06-13T14:51:56Z,Structural index reduction algorithms for differential algebraic   equations via fixed-point iteration,Yong Feng,cs.NA,http://arxiv.org/pdf/1406.4473v3
+1406.4802v2,2014-01-31T22:26:17Z,Homotopy based algorithms for $\ell_0$-regularized least-squares,David Brie,cs.NA,http://arxiv.org/pdf/1406.4802v2
+1406.7357v1,2014-06-28T05:34:02Z,On the solution of a class of fuzzy system of linear equations,Davod Khojasteh Salkuyeh,math.NA,http://arxiv.org/pdf/1406.7357v1
+1406.7426v2,2014-06-28T18:09:34Z,Approximation of skewed interfaces with tensor-based model reduction   procedures: application to the reduced basis hierarchical model reduction   approach,Kathrin Smetana,math.NA,http://arxiv.org/pdf/1406.7426v2
+1408.0074v1,2014-08-01T04:29:30Z,Software for Computing the Spheroidal Wave Functions Using Arbitrary   Precision Arithmetic,Ramani Duraiswami,cs.MS,http://arxiv.org/pdf/1408.0074v1
+1408.0210v3,2014-08-01T15:49:16Z,A Fast Summation Method for translation invariant kernels,Fabien Casenave,math.NA,http://arxiv.org/pdf/1408.0210v3
+1408.1693v1,2014-08-08T05:15:37Z,"Computing the log-determinant of symmetric, diagonally dominant matrices   in near-linear time",Alexandre Bayen,cs.NA,http://arxiv.org/pdf/1408.1693v1
+1408.2207v1,2014-08-10T09:43:53Z,A new operational matrix based on Bernoulli polynomials,K. Parand,cs.NA,http://arxiv.org/pdf/1408.2207v1
+1408.2209v1,2014-08-10T10:23:54Z,The meshless method for solving radiative transfer problems in a slab   medium based on radial basis functions,K. Parand,cs.NA,http://arxiv.org/pdf/1408.2209v1
+1408.2940v1,2014-08-13T08:35:27Z,Optimal preconditioners for Nitsche-XFEM discretizations of interface   problems,Arnold Reusken,math.NA,http://arxiv.org/pdf/1408.2940v1
+1408.4536v1,2014-08-20T06:22:41Z,Discretization of functionals involving the Monge-Ampère operator,Edouard Oudet,math.NA,http://arxiv.org/pdf/1408.4536v1
+1408.5535v3,2014-08-23T23:19:39Z,A Preconditioned Hybrid SVD Method for Computing Accurately Singular   Triplets of Large Matrices,Andreas Stathopoulos,cs.NA,http://arxiv.org/pdf/1408.5535v3
+1408.5946v2,2014-08-25T23:23:56Z,"Algorithms that satisfy a stopping criterion, probably",Farbod Roosta-Khorasani,cs.NA,http://arxiv.org/pdf/1408.5946v2
+1408.6143v1,2014-08-21T18:35:54Z,An enhanced method with local energy minimization for the robust a   posteriori construction of equilibrated stress fields in finite element   analyses,Pierre Ladevèze,math.NA,http://arxiv.org/pdf/1408.6143v1
+1408.6497v3,2014-08-27T19:17:39Z,"FFT, FMM, or Multigrid? A comparative Study of State-Of-the-Art Poisson   Solvers for Uniform and Nonuniform Grids in the Unit Cube",George Biros,math.NA,http://arxiv.org/pdf/1408.6497v3
+1409.1465v1,2014-09-04T15:19:31Z,Multilinear PageRank,Yongyang Yu,cs.NA,http://arxiv.org/pdf/1409.1465v1
+1409.2056v1,2014-09-06T20:26:36Z,A One-Line Proof of the Fundamental Theorem of Algebra with Newton's   Method as a Consequence,Bahman Kalantari,cs.NA,http://arxiv.org/pdf/1409.2056v1
+1409.2902v1,2014-09-09T21:16:56Z,The Hildreth's Algorithm with Applications to Soft Constraints for User   Interface Layout,Alex Cloninger,cs.NA,http://arxiv.org/pdf/1409.2902v1
+1409.4018v1,2014-09-14T05:15:18Z,EquiNMF: Graph Regularized Multiview Nonnegative Matrix Factorization,Anna Goldenberg,cs.LG,http://arxiv.org/pdf/1409.4018v1
+1409.4926v3,2014-09-17T09:48:29Z,Symmetric Tensor Decomposition by an Iterative Eigendecomposition   Algorithm,Ngai Wong,math.NA,http://arxiv.org/pdf/1409.4926v3
+1409.4992v1,2014-09-17T13:39:39Z,An adaptive mass algorithm for Car-Parrinello and Ehrenfest ab initio   molecular dynamics,Anders Szepessy,physics.chem-ph,http://arxiv.org/pdf/1409.4992v1
+1409.5506v3,2014-09-19T03:29:32Z,Efficient approximation of sparse Jacobians for time-implicit reduced   order models,Adrian Sandu,math.NA,http://arxiv.org/pdf/1409.5506v3
+1409.5677v2,2014-09-19T14:28:09Z,A high-order Boris integrator,Daniel Ruprecht,math.NA,http://arxiv.org/pdf/1409.5677v2
+1409.8072v1,2014-09-29T11:13:09Z,Revisiting the stability of computing the roots of a quadratic   polynomial,Van Dooren Paul,math.NA,http://arxiv.org/pdf/1409.8072v1
+1409.8083v1,2014-09-29T11:45:36Z,Variational Inference For Probabilistic Latent Tensor Factorization with   KL Divergence,Evrim Acar,stat.CO,http://arxiv.org/pdf/1409.8083v1
+1410.0642v1,2014-09-27T12:59:55Z,A Note on Archetypal Analysis and the Approximation of Convex Hulls,Christian Bauckhage,cs.NA,http://arxiv.org/pdf/1410.0642v1
+1410.0804v3,2014-10-03T10:13:03Z,Multi-step Uniformization with Steady-State Detection in Nonstationary   M/M/s Queuing Systems,Maciej Burak,cs.PF,http://arxiv.org/pdf/1410.0804v3
+1410.1599v1,2014-10-07T02:13:43Z,Accelerated Multiple Precision Matrix Multiplication using Strassen's   Algorithm and Winograd's Variant,Tomonori Kouya,math.NA,http://arxiv.org/pdf/1410.1599v1
+1410.2697v2,2014-10-10T07:44:01Z,A Fast and Memory Efficient Sparse Solver with Applications to   Finite-Element Matrices,Eric Darve,cs.NA,http://arxiv.org/pdf/1410.2697v2
+1410.2786v1,2014-10-10T13:56:58Z,New SVD based initialization strategy for Non-negative Matrix   Factorization,Hanli Qiao,cs.LG,http://arxiv.org/pdf/1410.2786v1
+1410.4060v1,2014-10-15T13:45:52Z,Decoupling Multivariate Polynomials Using First-Order Information,Johan Schoukens,math.NA,http://arxiv.org/pdf/1410.4060v1
+1410.4536v2,2014-10-16T19:09:23Z,Numerical Optimization for Symmetric Tensor Decomposition,Tamara G. Kolda,math.NA,http://arxiv.org/pdf/1410.4536v2
+1410.4919v1,2014-10-18T08:35:14Z,"On the relation between reliable computation time, float-point precision   and the Lyapunov exponent in chaotic systems",JianPing Li,nlin.CD,http://arxiv.org/pdf/1410.4919v1
+1410.5029v1,2014-10-19T02:31:57Z,Generalized Summation-by-Parts Operators for the Second Derivative with   Variable Coefficients,David W. Zingg,cs.NA,http://arxiv.org/pdf/1410.5029v1
+1410.5977v1,2014-10-22T10:03:48Z,Optimization-based smoothing algorithm for triangle meshes over   arbitrarily shaped domains,Daniel Aubram,cs.NA,http://arxiv.org/pdf/1410.5977v1
+1410.6895v2,2014-10-25T07:47:00Z,Very Large-Scale Singular Value Decomposition Using Tensor Train   Networks,Andrzej Cichocki,math.NA,http://arxiv.org/pdf/1410.6895v2
+1410.7176v2,2014-10-27T10:35:42Z,Efficient implementation of elementary functions in the medium-precision   range,Fredrik Johansson,cs.MS,http://arxiv.org/pdf/1410.7176v2
+1410.7254v1,2014-10-27T14:30:19Z,Optimization of the Multigrid-Convergence Rate on Semi-structured Meshes   by Local Fourier Analysis,U. Rüde,cs.NA,http://arxiv.org/pdf/1410.7254v1
+1410.8104v2,2014-10-28T09:24:21Z,"Solving Stress and Compliance Constrained Volume Minimization using   Anisotropic Mesh Adaptation, the Method of Moving Asymptotes and a Global   p-norm",Kristian Jensen,cs.NA,http://arxiv.org/pdf/1410.8104v2
+1411.0583v5,2014-11-03T17:52:50Z,A Hitchhiker's Guide to Automatic Differentiation,Philipp H. W. Hoffmann,math.NA,http://arxiv.org/pdf/1411.0583v5
+1411.0814v1,2014-11-04T07:43:15Z,A random algorithm for low-rank decomposition of large-scale matrices   with missing entries,Yiguang Liu,cs.NA,http://arxiv.org/pdf/1411.0814v1
+1411.1503v1,2014-11-06T05:38:02Z,Tensor Transpose and Its Properties,Ran Pan,cs.NA,http://arxiv.org/pdf/1411.1503v1
+1411.1972v1,2014-11-06T17:09:03Z,Better Late Than Never: Filling a Void in the History of Fast Matrix   Multiplication and Tensor Decompositions,Victor Y. Pan,cs.NA,http://arxiv.org/pdf/1411.1972v1
+1411.2377v1,2014-11-10T10:58:18Z,A Highly Efficient Implementation of Multiple Precision Sparse   Matrix-Vector Multiplication and Its Application to Product-type Krylov   Subspace Methods,Tomonori Kouya,math.NA,http://arxiv.org/pdf/1411.2377v1
+1411.4324v2,2014-11-16T23:26:22Z,Fast algorithms for Higher-order Singular Value Decomposition from   incomplete data,Yangyang Xu,math.NA,http://arxiv.org/pdf/1411.4324v2
+1411.6296v2,2014-11-23T20:46:19Z,Approximating Matrices with Multiple Symmetries,Joseph Vokt,cs.NA,http://arxiv.org/pdf/1411.6296v2
+1411.7018v3,2014-11-25T20:47:00Z,A multigrid scheme for 3D Monge-Ampère equations,Mingqing Xiao,math.NA,http://arxiv.org/pdf/1411.7018v3
+1411.7663v1,2014-11-27T17:44:25Z,A Two Stage CVT / Eikonal Convection Mesh Deformation Approach for Large   Nodal Deformations,Stephan Schmidt,cs.NA,http://arxiv.org/pdf/1411.7663v1
+1411.7801v4,2014-11-28T10:27:42Z,Stagnation of block GMRES and its relationship to block FOM,Kirk M. Soodhalter,math.NA,http://arxiv.org/pdf/1411.7801v4
+1412.0393v2,2014-12-01T09:33:58Z,Block Krylov subspace recycling for shifted systems with unrelated   right-hand sides,Kirk M. Soodhalter,math.NA,http://arxiv.org/pdf/1412.0393v2
+1412.1687v1,2014-11-20T15:30:47Z,The Approximate Bilinear Algorithm of Length 46 for Multiplication of 4   x 4 Matrices,A. V. Smirnov,math.NA,http://arxiv.org/pdf/1412.1687v1
+1412.1885v2,2014-12-05T03:04:32Z,Decomposition of Big Tensors With Low Multilinear Rank,Shengli Xie,cs.NA,http://arxiv.org/pdf/1412.1885v2
+1412.2700v2,2014-12-05T18:42:14Z,Subspace based low rank and joint sparse matrix recovery,Mathews Jacob,cs.NA,http://arxiv.org/pdf/1412.2700v2
+1412.3335v1,2014-12-10T15:16:23Z,Towards a Broader View of Theory of Computing,Narendra Karmarkar,cs.NA,http://arxiv.org/pdf/1412.3335v1
+1412.5706v1,2014-12-18T02:26:59Z,Numerical solution of nonstationary problems for a space-fractional   diffusion equation,Petr N. Vabishchevich,cs.NA,http://arxiv.org/pdf/1412.5706v1
+1412.6291v1,2014-12-19T11:17:38Z,Perona-Malik equation and its numerical properties,Maciek Wielgus,cs.NA,http://arxiv.org/pdf/1412.6291v1
+1412.6293v1,2014-12-19T11:20:13Z,Semi-Stochastic Coordinate Descent,Peter Richtárik,cs.NA,http://arxiv.org/pdf/1412.6293v1
+1412.7364v1,2014-12-23T14:04:34Z,Erasure coding for fault oblivious linear system solvers,Yao Zhu,cs.NA,http://arxiv.org/pdf/1412.7364v1
+1412.8045v1,2014-12-27T13:40:10Z,Action constrained quasi-Newton methods,Jacek Gondzio,math.OC,http://arxiv.org/pdf/1412.8045v1
+1412.8185v1,2014-12-28T16:44:30Z,Generalized quaternions and their relations with Grassmann-Clifford   procedure of doubling,Yana V. Khitsko,cs.NA,http://arxiv.org/pdf/1412.8185v1
+1412.8447v3,2014-12-29T20:27:33Z,Efficient Algorithms for CUR and Interpolative Matrix Decompositions,Per-Gunnar Martinsson,math.NA,http://arxiv.org/pdf/1412.8447v3
+1501.00696v1,2015-01-04T17:01:03Z,Clustering Boolean Tensors,Pauli Miettinen,cs.NA,http://arxiv.org/pdf/1501.00696v1
+1501.00828v1,2015-01-05T12:00:11Z,A new algorithm for multiplying two Dirac numbers,Galina Cariowa,cs.DS,http://arxiv.org/pdf/1501.00828v1
+1501.01946v1,2015-01-08T20:21:05Z,Multi-Beam RF Aperture Using Multiplierless FFT Approximation,A. Madanayake,stat.ME,http://arxiv.org/pdf/1501.01946v1
+1501.02581v2,2015-01-12T09:41:43Z,Mechanics-based solution verification for porous media models,K. B. Nakshatrala,cs.NA,http://arxiv.org/pdf/1501.02581v2
+1501.06741v1,2015-01-27T11:01:00Z,A simple approach to the numerical simulation with trimmed CAD surfaces,Jürgen Zechner,cs.NA,http://arxiv.org/pdf/1501.06741v1
+1502.01424v1,2015-02-05T03:33:34Z,Close Approximations for Daublets and their Spectra,H. M. de Oliveira,cs.NA,http://arxiv.org/pdf/1502.01424v1
+1502.02009v3,2015-02-06T20:01:58Z,A General Analysis of the Convergence of ADMM,Michael I. Jordan,math.OC,http://arxiv.org/pdf/1502.02009v3
+1502.02280v1,2015-02-08T17:49:48Z,A comparison of the Extrapolated Successive Overrelaxation and the   Preconditioned Simultaneous Displacement methods for augmented linear systems,N. M. Missirlis,cs.NA,http://arxiv.org/pdf/1502.02280v1
+1502.03371v1,2015-02-11T16:56:30Z,The Z Transform over Finite Fields,D. Silva,math.NT,http://arxiv.org/pdf/1502.03371v1
+1502.03543v1,2015-02-12T05:27:30Z,Primal Dual Affine Scaling on GPUs,Nithish Divakar,cs.NA,http://arxiv.org/pdf/1502.03543v1
+1502.04390v2,2015-02-15T23:41:33Z,Equilibrated adaptive learning rates for non-convex optimization,Yoshua Bengio,cs.LG,http://arxiv.org/pdf/1502.04390v2
+1502.05880v1,2015-02-20T14:14:50Z,A Flexible Implementation of a Matrix Laurent Series-Based 16-Point Fast   Fourier and Hartley Transforms,E. J. P. Santos,cs.NA,http://arxiv.org/pdf/1502.05880v1
+1502.06164v1,2015-02-22T01:42:34Z,"On mesh restrictions to satisfy comparison principles, maximum   principles, and the non-negative constraint: Recent developments and new   results",K. B. Nakshatrala,cs.NA,http://arxiv.org/pdf/1502.06164v1
+1502.06220v2,2015-02-22T12:40:48Z,Boosting of Image Denoising Algorithms,Michael Elad,cs.CV,http://arxiv.org/pdf/1502.06220v2
+1502.06777v2,2015-02-24T12:07:50Z,Statistical efficiency of structured cpd estimation applied to   Wiener-Hammerstein modeling,Pierre Comon,stat.CO,http://arxiv.org/pdf/1502.06777v2
+1502.07838v2,2015-02-27T09:29:07Z,Rectangular maximum-volume submatrices and their applications,I. V. Oseledets,math.NA,http://arxiv.org/pdf/1502.07838v2
+1502.08014v3,2015-01-17T06:58:38Z,Localization theorems for matrices and bounds for the zeros of   polynomials over a quaternion division algebra,Istkhar Ali,math.RA,http://arxiv.org/pdf/1502.08014v3
+1503.01375v1,2015-03-04T16:39:51Z,Symmetric Orthogonal Tensor Decomposition is Trivial,Tamara G. Kolda,math.NA,http://arxiv.org/pdf/1503.01375v1
+1503.01889v1,2015-03-06T09:40:41Z,Parallelizing the dual revised simplex method,J. A. J. Hall,math.OC,http://arxiv.org/pdf/1503.01889v1
+1503.02828v2,2015-03-10T09:42:17Z,Scalable Nuclear-norm Minimization by Subspace Pursuit Proximal   Riemannian Gradient,Qinfeng Shi,cs.LG,http://arxiv.org/pdf/1503.02828v2
+1503.03004v3,2015-03-10T17:35:46Z,Fast and Robust Fixed-Rank Matrix Recovery,Julio Guerrero,cs.CV,http://arxiv.org/pdf/1503.03004v3
+1503.04500v4,2015-03-16T02:05:26Z,A Residual Based Sparse Approximate Inverse Preconditioning Procedure   for Large Sparse Linear Systems,Wenjie Kang,math.NA,http://arxiv.org/pdf/1503.04500v4
+1503.06561v1,2015-03-23T09:08:50Z,A Comparative Analysis of Tensor Decomposition Models Using Hyper   Spectral Image,Ashish Oberoi,cs.NA,http://arxiv.org/pdf/1503.06561v1
+1503.08509v1,2015-03-30T00:12:51Z,A Finite Element Based P3M Method for N-body Problems,Jonathan B. Freund,cs.NA,http://arxiv.org/pdf/1503.08509v1
+1503.08601v2,2015-03-30T09:04:40Z,Finding a low-rank basis in a matrix subspace,André Uschmajew,cs.NA,http://arxiv.org/pdf/1503.08601v2
+1503.09079v1,2015-03-29T22:00:19Z,Analytic solutions for the Burgers equation with source terms,Gino I. Montecinos,math.AP,http://arxiv.org/pdf/1503.09079v1
+1504.00907v1,2015-04-03T18:27:01Z,The Discretely-Discontinuous Galerkin Coarse Grid for Domain   Decomposition,Robert Bridson,cs.NA,http://arxiv.org/pdf/1504.00907v1
+1504.01809v1,2015-04-08T02:48:37Z,Multi-Block ADMM for Big Data Optimization in Modern Communication   Networks,Zhu Han,cs.NA,http://arxiv.org/pdf/1504.01809v1
+1504.02214v1,2015-04-09T07:50:42Z,A deterministic sparse FFT algorithm for vectors with small support,Katrin Wannenwetsch,math.NA,http://arxiv.org/pdf/1504.02214v1
+1504.03749v3,2015-04-15T00:19:15Z,Galerkin v. least-squares Petrov--Galerkin projection in nonlinear model   reduction,Harbir Antil,cs.NA,http://arxiv.org/pdf/1504.03749v3
+1504.04179v1,2015-04-16T10:45:27Z,Factorized schemes of second-order accuracy for numerical solving   unsteady problems,P. N. Vabishchevich,cs.NA,http://arxiv.org/pdf/1504.04179v1
+1504.04913v1,2015-04-20T01:49:57Z,"Un Análisis Comparativo de los Métodos Miméticos, Diferencias   Finitas y Elementos Finitos para problemas Estacionarios",Giovanni Calderón,math.NA,http://arxiv.org/pdf/1504.04913v1
+1504.05262v2,2015-04-20T23:48:18Z,Wavelets for Elliptical Waveguide Problems,R. M. Campello de Souza,math.CA,http://arxiv.org/pdf/1504.05262v2
+1504.05400v2,2015-04-21T12:19:57Z,Ergodic convergence of a stochastic proximal point algorithm,Pascal Bianchi,math.OC,http://arxiv.org/pdf/1504.05400v2
+1504.05705v1,2015-04-22T09:36:54Z,Convergence of a finite difference scheme to weak solutions of the   system of partial differential equation arising in mean field games,Alessio Porretta,cs.NA,http://arxiv.org/pdf/1504.05705v1
+1504.06106v1,2015-04-23T09:37:28Z,A Short Survey on Arithmetic Transforms and the Arithmetic Hartley   Transform,H. M. de Oliveira,math.CA,http://arxiv.org/pdf/1504.06106v1
+1504.07791v2,2015-04-29T10:06:57Z,On the Global Convergence of Majorization Minimization Algorithms for   Nonconvex Optimization Problems,Wu-Jun Li,cs.NA,http://arxiv.org/pdf/1504.07791v2
+1505.01519v1,2015-05-06T21:07:28Z,Numerical investigation of a space-fractional model of turbulent fluid   flow in rectangular ducts,Petr N. Vabishchevich,cs.NA,http://arxiv.org/pdf/1505.01519v1
+1505.01599v1,2015-05-07T06:21:15Z,Filter characteristics in image decomposition with singular spectrum   analysis,Naoko Nose-Togawa,cs.CV,http://arxiv.org/pdf/1505.01599v1
+1505.03445v1,2015-05-13T16:11:42Z,Symbolic-numeric methods for improving structural analysis of   differential-algebraic equation systems,John D. Pryce,cs.SC,http://arxiv.org/pdf/1505.03445v1
+1505.04103v1,2015-05-15T15:59:16Z,A splitting scheme to solve an equation for fractional powers of   elliptic operators,Petr N. Vabishchevich,cs.NA,http://arxiv.org/pdf/1505.04103v1
+1505.04340v1,2015-05-16T23:55:25Z,Schur Complement based domain decomposition preconditioners with   Low-rank corrections,Yousef Saad,cs.NA,http://arxiv.org/pdf/1505.04340v1
+1505.04341v2,2015-05-16T23:56:32Z,Low-rank correction methods for algebraic domain decomposition   preconditioners,Yousef Saad,cs.NA,http://arxiv.org/pdf/1505.04341v2
+1505.04515v1,2015-05-18T05:33:50Z,A Time-parallel Approach to Strong-constraint Four-dimensional   Variational Data Assimilation,Adrian Sandu,cs.NA,http://arxiv.org/pdf/1505.04515v1
+1505.04724v1,2015-05-18T17:15:49Z,A Hybrid Monte-Carlo Sampling Smoother for Four Dimensional Data   Assimilation,Adrian Sandu,cs.NA,http://arxiv.org/pdf/1505.04724v1
+1505.05840v1,2015-05-21T18:57:10Z,Comparative Evaluation of Symmetric SVD Algorithms for Real-time Face   and Eye Tracking,Bibek Kabi,math.NA,http://arxiv.org/pdf/1505.05840v1
+1505.06195v3,2015-05-21T13:11:13Z,Pivoted Cholesky decomposition by Cross Approximation for efficient   solution of kernel systems,Hermann G. Matthies,math.NA,http://arxiv.org/pdf/1505.06195v3
+1505.06582v4,2015-05-25T09:54:00Z,Implementing 64-bit Maximally Equidistributed Mersenne Twisters,Takamitsu Kimoto,math.NA,http://arxiv.org/pdf/1505.06582v4
+1505.07676v1,2015-05-28T12:44:25Z,MADMM: a generic algorithm for non-smooth optimization on manifolds,Michael M. Bronstein,math.OC,http://arxiv.org/pdf/1505.07676v1
+1505.08115v1,2015-05-29T17:31:35Z,Blocked rank-revealing QR factorizations: How randomized sampling can be   used to avoid single-vector pivoting,P. G. Martinsson,math.NA,http://arxiv.org/pdf/1505.08115v1
+1506.00059v3,2015-05-30T02:42:21Z,Saddle-free Hessian-free Optimization,Martin Arjovsky,cs.NA,http://arxiv.org/pdf/1506.00059v3
+1506.00289v1,2015-05-31T20:53:57Z,Semi-Discrete Formulations for 1D Burgers Equation,Eliandro R. Cirilo,math.NA,http://arxiv.org/pdf/1506.00289v1
+1506.01959v4,2015-06-05T16:23:37Z,Regularized Computation of Approximate Pseudoinverse of Large Matrices   Using Low-Rank Tensor Train Decompositions,Andrzej Cichocki,math.NA,http://arxiv.org/pdf/1506.01959v4
+1506.02649v1,2015-06-08T15:08:37Z,Faster SGD Using Sketched Conditioning,Shai Shalev-Shwartz,cs.NA,http://arxiv.org/pdf/1506.02649v1
+1506.02857v2,2015-06-09T10:47:54Z,Overapproximating the Reachable Values Set of Piecewise Affine Systems   Coupling Policy Iterations with Piecewise Quadratic Lyapunov Functions,Assalé Adjé,math.OC,http://arxiv.org/pdf/1506.02857v2
+1506.03771v1,2015-06-11T18:47:11Z,Fast Methods for Eikonal Equations: an Experimental Survey,Luis Moreno,cs.NA,http://arxiv.org/pdf/1506.03771v1
+1506.03914v1,2015-06-12T06:52:00Z,The Isogeometric Nyström Method,Thomas-Peter Fries,cs.NA,http://arxiv.org/pdf/1506.03914v1
+1506.03963v1,2015-06-12T09:59:39Z,Efficient algorithm for computing large scale systems of differential   algebraic equations,Peter Fritzson,cs.NA,http://arxiv.org/pdf/1506.03963v1
+1506.04631v5,2015-06-15T15:22:06Z,Approximation with Random Bases: Pro et Contra,Konstantin I. Sofeikov,cs.NA,http://arxiv.org/pdf/1506.04631v5
+1506.04971v1,2015-06-16T13:51:38Z,Tensor Deflation for CANDECOMP/PARAFAC. Part 3: Rank Splitting,Andrzej Cichocki,cs.NA,http://arxiv.org/pdf/1506.04971v1
+1506.04972v2,2015-06-16T13:54:00Z,A Unified Successive Pseudo-Convex Approximation Framework,Marius Pesavento,math.OC,http://arxiv.org/pdf/1506.04972v2
+1506.06099v2,2015-06-19T17:59:16Z,On enforcing maximum principles and achieving element-wise species   balance for advection-diffusion-reaction equations under the finite element   method,K. B. Nakshatrala,math.NA,http://arxiv.org/pdf/1506.06099v2
+1506.06185v1,2015-06-20T00:03:16Z,Resilience for Multigrid Software at the Extreme Scale,Barbara Wohlmuth,cs.MS,http://arxiv.org/pdf/1506.06185v1
+1506.08350v2,2015-06-28T03:33:38Z,Stochastic Gradient Made Stable: A Manifold Propagation Approach for   Large-Scale Optimization,Wei Fan,cs.LG,http://arxiv.org/pdf/1506.08350v2
+1506.08938v1,2015-06-30T04:58:10Z,Accelerated Parallel and Distributed Algorithm using Limited Internal   Memory for Nonnegative Matrix Factorization,Tu-Bao Ho,math.OC,http://arxiv.org/pdf/1506.08938v1
+1508.01835v2,2015-08-07T23:22:43Z,The inverse fast multipole method: using a fast approximate direct   solver as a preconditioner for dense linear systems,Eric Darve,math.NA,http://arxiv.org/pdf/1508.01835v2
+1508.02345v1,2015-08-10T18:26:27Z,Numerical experiments on the efficiency of local grid refinement based   on truncation error estimates,Apostolos Goulas,physics.comp-ph,http://arxiv.org/pdf/1508.02345v1
+1508.02439v2,2015-08-10T21:56:20Z,Unified Acceleration Method for Packing and Covering Problems via   Diameter Reduction,Michael W. Mahoney,cs.DS,http://arxiv.org/pdf/1508.02439v2
+1508.04758v2,2015-08-19T19:56:59Z,Rapidly Computing Sparse Legendre Expansions via Sparse Fourier   Transforms,Hyejin Kim,math.NA,http://arxiv.org/pdf/1508.04758v2
+1508.05856v2,2015-08-24T16:03:49Z,A $N$-Body Solver for Square Root Iteration,Nicolas Bock,cs.NA,http://arxiv.org/pdf/1508.05856v2
+1508.05873v1,2015-08-24T16:26:38Z,Stochastic Behavior of the Nonnegative Least Mean Fourth Algorithm for   Stationary Gaussian Inputs and Slow Learning,José Carlos M. Bermudez,cs.NA,http://arxiv.org/pdf/1508.05873v1
+1508.06103v1,2015-08-25T10:51:51Z,Two-level space-time domain decomposition methods for unsteady inverse   problems,Jun Zou,cs.NA,http://arxiv.org/pdf/1508.06103v1
+1508.06429v2,2015-08-26T09:58:30Z,Improved Analyses of the Randomized Power Method and Block Lanczos   Method,Tong Zhang,cs.NA,http://arxiv.org/pdf/1508.06429v2
+1508.07240v1,2015-08-28T15:18:17Z,Rational Chebyshev of Second Kind Collocation Method for Solving a Class   of Astrophysics Problems,Sajjad Khaleqi,cs.NA,http://arxiv.org/pdf/1508.07240v1
+1509.00206v1,2015-09-01T10:02:12Z,Fast Algorithms for the computation of Fourier Extensions of arbitrary   length,Daan Huybrechs,cs.NA,http://arxiv.org/pdf/1509.00206v1
+1509.01347v3,2015-09-04T06:20:18Z,Verificarlo: checking floating point accuracy through Monte Carlo   Arithmetic,Eric Petit,cs.MS,http://arxiv.org/pdf/1509.01347v3
+1509.02223v2,2015-09-07T23:15:51Z,Diffusion tensor imaging with deterministic error bounds,Tuomo Valkonen,cs.CV,http://arxiv.org/pdf/1509.02223v2
+1509.03946v1,2015-09-14T04:11:02Z,Parametric Maxflows for Structured Sparse Learning with Convex   Relaxations of Submodular Functions,Yutaro Yamaguchi,cs.LG,http://arxiv.org/pdf/1509.03946v1
+1509.05669v1,2015-09-18T15:39:17Z,A High-Order Radial Basis Function (RBF) Leray Projection Method for the   Solution of the Incompressible Unsteady Stokes Equations,Grady B. Wright,math.NA,http://arxiv.org/pdf/1509.05669v1
+1509.06265v1,2015-09-21T15:20:26Z,Exact Real Arithmetic with Perturbation Analysis and Proof of   Correctness,Jan Friso Groote,cs.NA,http://arxiv.org/pdf/1509.06265v1
+1509.08323v1,2015-09-28T14:03:33Z,On the geometry of border rank algorithms for n x 2 by 2 x 2 matrix   multiplication,Nicholas Ryder,cs.NA,http://arxiv.org/pdf/1509.08323v1
+1509.08863v1,2015-09-29T17:32:48Z,Accelerated Spectral Clustering Using Graph Filtering Of Random Signals,Pierre Vandergheynst,cs.SI,http://arxiv.org/pdf/1509.08863v1
+1510.01728v1,2015-10-06T19:53:40Z,Learning-based Reduced Order Model Stabilization for Partial   Differential Equations: Application to the Coupled Burgers Equation,Piyush Grover,cs.SY,http://arxiv.org/pdf/1510.01728v1
+1510.03588v1,2015-10-13T09:27:42Z,Time Asymptotics for a Critical Case in Fragmentation and   Growth-Fragmentation Equations,Miguel Escobedo,math.AP,http://arxiv.org/pdf/1510.03588v1
+1510.06689v2,2015-10-22T17:06:12Z,Parallel Tensor Compression for Large-Scale Scientific Data,Tamara G. Kolda,cs.NA,http://arxiv.org/pdf/1510.06689v2
+1510.08297v1,2015-10-28T13:17:01Z,Numerical solving unsteady space-fractional problems with the square   root of an elliptic operator,Petr N. Vabishchevich,math.NA,http://arxiv.org/pdf/1510.08297v1
+1511.01353v1,2015-10-31T15:58:41Z,A N-Body Solver for Free Mesh Interpolation,Matt Challacombe,math.NA,http://arxiv.org/pdf/1511.01353v1
+1511.01593v1,2015-11-05T03:17:42Z,Robust data assimilation using $L_1$ and Huber norms,Elias Nino-Ruiz,math.NA,http://arxiv.org/pdf/1511.01593v1
+1511.03925v1,2015-11-12T15:25:39Z,The scalability of the matrices in direct Trefftz method in 2D Laplace   problem,M. Borkowski,cs.NA,http://arxiv.org/pdf/1511.03925v1
+1511.04695v1,2015-11-15T12:56:36Z,An Iterative Reweighted Method for Tucker Decomposition of Incomplete   Multiway Tensors,Bing Zeng,cs.NA,http://arxiv.org/pdf/1511.04695v1
+1511.05208v3,2015-11-16T22:36:26Z,HOID: Higher Order Interpolatory Decomposition for tensors based on   Tucker representation,Arvind K. Saibaba,math.NA,http://arxiv.org/pdf/1511.05208v3
+1511.06029v2,2015-11-19T00:11:08Z,A Tensor-Train accelerated solver for integral equations in complex   geometries,Denis Zorin,math.NA,http://arxiv.org/pdf/1511.06029v2
+1511.06468v1,2015-11-20T01:10:13Z,Faster Parallel Solver for Positive Linear Programs via   Dynamically-Bucketed Selective Coordinate Descent,Satish Rao,cs.DS,http://arxiv.org/pdf/1511.06468v1
+1511.08253v1,2015-11-25T23:39:16Z,Quantum Algorithms and Circuits for Scientific Computing,Iasonas Petras,quant-ph,http://arxiv.org/pdf/1511.08253v1
+1511.08264v2,2015-11-24T17:20:23Z,Efficient degree reduction of Bézier curves with box constraints using   dual bases,Paweł Woźny,math.NA,http://arxiv.org/pdf/1511.08264v2
+1512.01748v1,2015-12-06T06:12:15Z,Restricted Low-Rank Approximation via ADMM,Ying Zhang,cs.NA,http://arxiv.org/pdf/1512.01748v1
+1512.01904v2,2015-12-07T04:13:45Z,Gauss quadrature for matrix inverse forms with applications,Stefanie Jegelka,stat.ML,http://arxiv.org/pdf/1512.01904v2
+1512.02390v2,2015-12-08T10:21:29Z,Nonuniformly weighted Schwarz smoothers for spectral element multigrid,Joerg Stiller,cs.NA,http://arxiv.org/pdf/1512.02390v2
+1512.02671v2,2015-12-08T21:51:53Z,Householder QR Factorization with Randomization for Column Pivoting   (HQRRP). FLAME Working Note #78,Robert van de Geijn,math.NA,http://arxiv.org/pdf/1512.02671v2
+1512.03251v1,2015-12-10T13:42:35Z,Histogram Arithmetic under Uncertainty of Probability Density Function,D. A. Korolev,cs.NA,http://arxiv.org/pdf/1512.03251v1
+1512.03335v2,2015-12-10T17:31:21Z,Adaptive multi-stage integrators for optimal energy conservation in   molecular simulations,J. M. Sanz-Serna,cs.NA,http://arxiv.org/pdf/1512.03335v2
+1512.03357v1,2015-12-10T18:14:33Z,Construction of ODE systems from time series data by a highly flexible   modelling approach,Thomas Dierkes,math.NA,http://arxiv.org/pdf/1512.03357v1
+1512.04468v1,2015-11-23T19:40:17Z,A Method to Calculate the Exit Time in Stochastic Simulations,Basil S. Bayati,stat.CO,http://arxiv.org/pdf/1512.04468v1
+1512.06500v1,2015-12-21T05:47:12Z,Inexact Krylov Subspace Algorithms for Large Matrix Exponential   Eigenproblem from Dimensionality Reduction,Meng Yang,math.NA,http://arxiv.org/pdf/1512.06500v1
+1512.06626v2,2015-12-21T13:53:15Z,Banded operational matrices for Bernstein polynomials and application to   the fractional advection-dispersion equation,D. Bhatta,math.NA,http://arxiv.org/pdf/1512.06626v2
+1512.08716v3,2015-12-26T22:20:24Z,On Approximating Univariate NP-Hard Integrals,Avishy Carmi,cs.NA,http://arxiv.org/pdf/1512.08716v3
+1601.01469v2,2016-01-07T10:34:23Z,Tensor and Its Tucker Core: the Invariance Relationships,Shuzhong Zhang,math.OC,http://arxiv.org/pdf/1601.01469v2
+1601.03597v1,2016-01-14T14:00:27Z,Geometric Integration Over Irregular Domains with topologic Guarantees,Andreas Nüßing,cs.NA,http://arxiv.org/pdf/1601.03597v1
+1601.04280v1,2016-01-17T12:07:51Z,Randomized LU Decomposition Using Sparse Projections,Amir Averbuch,math.NA,http://arxiv.org/pdf/1601.04280v1
+1601.06681v2,2016-01-25T17:16:13Z,eHDG:An Exponentially Convergent Iterative Solver for HDG   Discretizations of Hyperbolic Partial Differential Equations,Tan Bui-Thanh,math.NA,http://arxiv.org/pdf/1601.06681v2
+1601.07010v2,2016-01-26T13:18:43Z,A Distributed and Incremental SVD Algorithm for Agglomerative Data   Analysis on Large Networks,B. W. Ong,math.NA,http://arxiv.org/pdf/1601.07010v2
+1601.07721v1,2016-01-28T10:58:27Z,Distributed Low Rank Approximation of Implicit Functions of a Matrix,Peilin Zhong,cs.NA,http://arxiv.org/pdf/1601.07721v1
+1601.07800v1,2016-01-28T15:26:12Z,Weighted tensor decomposition for approximate decoupling of multivariate   polynomials,Johan Schoukens,math.OC,http://arxiv.org/pdf/1601.07800v1
+1601.07941v1,2016-01-28T22:36:06Z,Automatic calibration of damping layers in finite element time domain   simulations,Koen Van Den Abeele,cs.CE,http://arxiv.org/pdf/1601.07941v1
+1601.08179v1,2016-01-29T16:21:36Z,Factorizing the factorization - a spectral-element solver for elliptic   equations with linear operation count,Jochen Fröhlich,cs.NA,http://arxiv.org/pdf/1601.08179v1
+1602.01506v1,2016-02-03T22:58:44Z,Level-set methods for convex optimization,Scott Roy,math.OC,http://arxiv.org/pdf/1602.01506v1
+1602.01626v2,2016-02-04T10:45:39Z,Spectral deferred corrections with fast-wave slow-wave splitting,Robert Speck,math.NA,http://arxiv.org/pdf/1602.01626v2
+1602.01768v3,2016-02-04T18:08:22Z,Randomized Quasi-Newton Updates are Linearly Convergent Matrix Inversion   Algorithms,Peter Richtárik,math.NA,http://arxiv.org/pdf/1602.01768v3
+1602.05950v1,2016-02-18T20:58:20Z,"An Efficient, Sparsity-Preserving, Online Algorithm for Data   Approximation",Ming Gu,cs.NA,http://arxiv.org/pdf/1602.05950v1
+1602.08895v3,2016-02-29T10:32:13Z,New properties of a certain method of summation of generalized   hypergeometric series,Paweł Woźny,math.NA,http://arxiv.org/pdf/1602.08895v3
+1603.00175v2,2016-03-01T08:14:33Z,The structure of the polynomials in preconditioned BiCG algorithms and   the switching direction of preconditioned systems,Masaaki Sugihara,math.NA,http://arxiv.org/pdf/1603.00175v2
+1603.00176v2,2016-03-01T08:15:52Z,The structure of the Krylov subspace in various preconditioned CGS   algorithms,Masaaki Sugihara,math.NA,http://arxiv.org/pdf/1603.00176v2
+1603.00491v1,2016-03-01T21:12:09Z,Wanted: Floating-Point Add Round-off Error instruction,Jason Riedy,cs.NA,http://arxiv.org/pdf/1603.00491v1
+1603.01562v2,2016-03-04T18:26:27Z,A Data-Scalable Randomized Misfit Approach for Solving Large-Scale   PDE-Constrained Inverse Problems,Quoc P. Nguyen,cs.NA,http://arxiv.org/pdf/1603.01562v2
+1603.01793v1,2016-03-06T06:21:30Z,Coupling of finite element method with boundary algebraic equations,A. V. Shanin,cs.NA,http://arxiv.org/pdf/1603.01793v1
+1603.03650v2,2016-03-11T14:47:38Z,A Penalty Function Promoting Sparsity Within and Across Groups,Savaşkan Bulek,cs.NA,http://arxiv.org/pdf/1603.03650v2
+1603.03945v1,2016-03-12T17:24:34Z,On the Petras algorithm for verified integration of piecewise analytic   functions,Piotr Zgliczyński,cs.NA,http://arxiv.org/pdf/1603.03945v1
+1603.05719v2,2016-03-17T22:53:22Z,Efficient evaluation of scaled proximal operators,Gabriel Goh,math.OC,http://arxiv.org/pdf/1603.05719v2
+1603.05988v2,2016-03-18T20:34:32Z,Deflation as a Method of Variance Reduction for Estimating the Trace of   a Matrix Inverse,Kostas Orginos,hep-lat,http://arxiv.org/pdf/1603.05988v2
+1603.06912v1,2016-03-19T14:53:54Z,A note on the convergence of nonconvex line search,Hao Jiang,cs.NA,http://arxiv.org/pdf/1603.06912v1
+1603.09133v3,2016-03-30T11:27:01Z,"""Compress and eliminate"" solver for symmetric positive definite sparse   matrices",Ivan V. Oseledets,math.NA,http://arxiv.org/pdf/1603.09133v3
+1603.09660v2,2016-03-31T16:19:05Z,Stable Isogeometric Analysis of Trimmed Geometries,Thomas-Peter Fries,cs.NA,http://arxiv.org/pdf/1603.09660v2
+1603.09678v2,2016-03-31T16:57:23Z,Conformal higher-order remeshing schemes for implicitly defined   interface problems,Thomas-Peter Fries,cs.NA,http://arxiv.org/pdf/1603.09678v2
+1604.01376v1,2016-04-04T12:39:26Z,Lipschitz Continuity of Mahalanobis Distances and Bilinear Forms,Marc Sebban,cs.NA,http://arxiv.org/pdf/1604.01376v1
+1604.01713v1,2016-04-06T18:07:19Z,A block Recycled GMRES method with investigations into aspects of solver   performance,Daniel B. Szyld,math.NA,http://arxiv.org/pdf/1604.01713v1
+1604.02100v1,2016-04-06T12:51:07Z,Hankel Matrix Nuclear Norm Regularized Tensor Completion for   N-dimensional Exponential Signals,Xiaobo Qu,stat.ML,http://arxiv.org/pdf/1604.02100v1
+1604.04427v1,2016-04-15T10:55:47Z,A Singularly Perturbed Boundary Value Problems with Fractional Powers of   Elliptic Operators,Petr N. Vabishchevich,cs.NA,http://arxiv.org/pdf/1604.04427v1
+1604.04443v1,2016-04-15T11:49:18Z,Iterative computational identification of a spacewise dependent the   source in a parabolic equations,Petr N. Vabishchevich,cs.NA,http://arxiv.org/pdf/1604.04443v1
+1604.05201v1,2016-04-18T15:15:01Z,Two-grid algorithms for singularly perturbed reaction-diffusion problems   on layer adapted meshes,Lubin G. Vulkov,cs.CE,http://arxiv.org/pdf/1604.05201v1
+1605.02626v1,2016-05-09T15:42:30Z,Low-order continuous finite element spaces on hybrid non-conforming   hexahedral-tetrahedral meshes,Bruno Lévy,cs.CG,http://arxiv.org/pdf/1605.02626v1
+1605.07658v2,2016-05-20T21:26:40Z,"Modeling flow in porous media with double porosity/permeability:   Mathematical model, properties, and analytical solutions",R. Ballarini,physics.flu-dyn,http://arxiv.org/pdf/1605.07658v2
+1605.07859v1,2016-05-25T12:42:04Z,How Many Real Attractive Fixed Points Can A Polynomial Have?,Bahman Kalantari,cs.NA,http://arxiv.org/pdf/1605.07859v1
+1605.08771v1,2016-05-27T19:54:39Z,Enhancing the Performance and Robustness of the FEAST Eigensolver,Eric Polizzi,math.NA,http://arxiv.org/pdf/1605.08771v1
+1606.00251v1,2016-06-01T12:27:54Z,Profile-Driven Automated Mixed Precision,Xiaobai Sun,cs.NA,http://arxiv.org/pdf/1606.00251v1
+1606.00785v2,2016-06-02T18:15:34Z,Piano Transcription in the Studio Using an Extensible Alternating   Directions Framework,Mark Sandler,cs.SD,http://arxiv.org/pdf/1606.00785v2
+1606.01396v1,2016-06-04T16:58:37Z,Completion of Newton's Iterations Initialized at a Quasi-Universal Set,Victor Y. Pan,math.NA,http://arxiv.org/pdf/1606.01396v1
+1606.01500v1,2016-06-05T12:09:19Z,Efficient tensor completion for color image and video recovery: Low-rank   tensor train,Minh N. Do,cs.NA,http://arxiv.org/pdf/1606.01500v1
+1606.02468v1,2016-06-08T09:36:11Z,An efficient mathematically correct scale free CORDIC,Younes Lahbib,cs.NA,http://arxiv.org/pdf/1606.02468v1
+1606.02959v3,2016-06-09T13:27:47Z,Isogeometric computation reuse method for complex objects with   topology-consistent volumetric parameterization,Charlie C. L. Wang,cs.NA,http://arxiv.org/pdf/1606.02959v3
+1606.03135v3,2016-06-09T22:20:50Z,The Overlapped Radial Basis Function-Finite Difference (RBF-FD) Method:   A Generalization of RBF-FD,Varun Shankar,math.NA,http://arxiv.org/pdf/1606.03135v3
+1606.04970v2,2016-06-15T20:31:29Z,The non-convex Burer-Monteiro approach works on smooth semidefinite   programs,Afonso S. Bandeira,math.OC,http://arxiv.org/pdf/1606.04970v2
+1606.05556v2,2016-06-17T15:18:08Z,"A critical analysis of some popular methods for the calculation of the   gradient in finite volume methods, with suggestions for improvements",John Tsamopoulos,cs.NA,http://arxiv.org/pdf/1606.05556v2
+1606.06035v1,2016-06-20T09:41:46Z,Multilevel Evaluation of Multidimensional Integral Transforms with   Asymptotically Smooth Kernels,C. H. Venner,math.NA,http://arxiv.org/pdf/1606.06035v1
+1606.06511v1,2016-06-21T11:02:01Z,Literature survey on low rank approximation of matrices,Jan Shneider,math.NA,http://arxiv.org/pdf/1606.06511v1
+1606.07315v3,2016-06-23T13:57:56Z,Nearly-optimal Robust Matrix Completion,Prateek Jain,cs.LG,http://arxiv.org/pdf/1606.07315v3
+1606.07643v1,2016-06-24T11:24:43Z,Stochastic Modeling and Regularity of the Nonlinear Elliptic Curl-Curl   Equation,Thomas Weiland,math.NA,http://arxiv.org/pdf/1606.07643v1
+1607.00648v4,2016-07-03T14:54:45Z,Quasi-matrix-free hybrid multigrid on dynamically adaptive Cartesian   grids,Tobias Weinzierl,cs.NA,http://arxiv.org/pdf/1607.00648v4
+1607.00968v2,2016-07-04T17:33:05Z,Full waveform inversion guided by travel time tomography,Eldad Haber,cs.CE,http://arxiv.org/pdf/1607.00968v2
+1607.00973v3,2016-07-04T17:46:45Z,A fast marching algorithm for the factored eikonal equation,Eldad Haber,cs.CE,http://arxiv.org/pdf/1607.00973v3
+1607.02548v2,2016-07-08T23:27:47Z,On the non-uniqueness of the instantaneous frequency,Thomas Y. Hou,cs.NA,http://arxiv.org/pdf/1607.02548v2
+1607.03092v1,2016-07-11T19:48:41Z,Inexact Block Coordinate Descent Methods For Symmetric Nonnegative   Matrix Factorization,Meisam Razaviyayn,cs.NA,http://arxiv.org/pdf/1607.03092v1
+1607.05073v1,2016-07-15T09:28:48Z,Higher-Order Block Term Decomposition for Spatially Folded fMRI Data,Sergios Theodoridis,cs.NA,http://arxiv.org/pdf/1607.05073v1
+1608.00135v1,2016-07-30T15:57:16Z,Computational complexity of solving polynomial differential equations   over unbounded domains with non-rational coefficients,Amaury Pouly,cs.CC,http://arxiv.org/pdf/1608.00135v1
+1608.00514v1,2016-07-29T15:17:16Z,Dimensionality reduction based on Distance Preservation to Local Mean   (DPLM) for SPD matrices and its application in BCI,Khadijeh Sadatnejad,cs.NA,http://arxiv.org/pdf/1608.00514v1
+1608.01372v1,2016-08-03T21:59:44Z,Permutation NMF,Giovanni Barbarino,cs.CV,http://arxiv.org/pdf/1608.01372v1
+1608.02461v1,2016-08-08T14:48:25Z,A Matrix-free Preconditioner for the Helmholtz Equation based on the   Fast Multipole Method,David Keyes,math.NA,http://arxiv.org/pdf/1608.02461v1
+1608.02702v1,2016-08-09T06:35:09Z,Steerable Principal Components for Space-Frequency Localized Images,Yoel Shkolnisky,cs.CV,http://arxiv.org/pdf/1608.02702v1
+1608.02875v2,2016-08-08T03:30:12Z,Revisiting Sub-sampled Newton Methods,Zhihua Zhang,math.OC,http://arxiv.org/pdf/1608.02875v2
+1608.04361v1,2016-08-15T18:45:08Z,Multi-way Monte Carlo Method for Linear Systems,David F. Gleich,cs.NA,http://arxiv.org/pdf/1608.04361v1
+1608.05787v1,2016-08-20T06:12:45Z,On Formal Verification in Imperative Multivalued Programming over   Continuous Data Types,Martin Ziegler,cs.NA,http://arxiv.org/pdf/1608.05787v1
+1608.06473v1,2016-08-23T11:43:20Z,A two-scale approach for efficient on-the-fly operator assembly in   massively parallel high performance multigrid codes,Barbara Wohlmuth,math.NA,http://arxiv.org/pdf/1608.06473v1
+1608.06691v1,2016-08-24T02:20:55Z,Conversion Methods for Improving Structural Analysis of   Differential-Algebraic Equation Systems,John D. Pryce,cs.SC,http://arxiv.org/pdf/1608.06691v1
+1608.06693v1,2016-08-24T02:32:50Z,"Conversion Methods, Block Triangularization, and Structural Analysis of   Differential-Algebraic Equation Systems",John D. Pryce,cs.SC,http://arxiv.org/pdf/1608.06693v1
+1608.07641v1,2016-08-27T00:51:16Z,Batched Stochastic Gradient Descent with Weighted Sampling,Rachel Ward,math.NA,http://arxiv.org/pdf/1608.07641v1
+1609.00324v1,2016-09-01T17:33:33Z,Uniform Penalty inversion of two-dimensional NMR Relaxation data,F. Zama,math.NA,http://arxiv.org/pdf/1609.00324v1
+1609.00671v1,2016-09-02T17:20:46Z,Structural Convergence Results for Low-Rank Approximations from Block   Krylov Spaces,Malik Magdon-Ismail,cs.NA,http://arxiv.org/pdf/1609.00671v1
+1609.05434v1,2016-09-18T06:56:57Z,Consistent Discretization and Minimization of the L1 Norm on Manifolds,Matan Sela,cs.NA,http://arxiv.org/pdf/1609.05434v1
+1609.06762v1,2016-09-21T21:38:06Z,Sparsity-Preserving Difference of Positive Semidefinite Matrix   Representation of Indefinite Matrices,Jaehyun Park,math.NA,http://arxiv.org/pdf/1609.06762v1
+1609.07086v1,2016-09-22T17:55:21Z,A Randomized Tensor Singular Value Decomposition based on the t-product,Shuchin Aeron,math.NA,http://arxiv.org/pdf/1609.07086v1
+1609.07373v1,2016-09-23T14:18:25Z,Block-proximal methods with spatially adapted acceleration,Tuomo Valkonen,math.OC,http://arxiv.org/pdf/1609.07373v1
+1609.07429v1,2016-09-23T16:58:11Z,GIRAF: A Fast Algorithm for Structured Low-Rank Matrix Recovery,Mathews Jacob,cs.NA,http://arxiv.org/pdf/1609.07429v1
+1609.08063v1,2016-09-26T16:44:16Z,Modeling Parallel Wiener-Hammerstein Systems Using Tensor Decomposition   of Volterra Kernels,Mariya Ishteva,cs.NA,http://arxiv.org/pdf/1609.08063v1
+1609.08438v1,2016-09-27T13:42:13Z,Flows Generating Nonlinear Eigenfunctions,Guy Gilboa,cs.CV,http://arxiv.org/pdf/1609.08438v1
+1609.09230v1,2016-09-29T07:22:21Z,Tensor Networks for Latent Variable Analysis. Part I: Algorithms for   Tensor Train Decomposition,Danilo Mandic,cs.NA,http://arxiv.org/pdf/1609.09230v1
+1610.02570v3,2016-10-08T19:50:07Z,Real-time Error Control for Surgical Simulation,Stéphane Bordas,cs.NA,http://arxiv.org/pdf/1610.02570v3
+1610.02962v1,2016-10-10T15:29:12Z,Low-rank Approximation and Dynamic Mode Decomposition,Cédric Herzet,stat.ML,http://arxiv.org/pdf/1610.02962v1
+1610.05838v3,2016-10-19T01:28:11Z,CuMF_SGD: Fast and Scalable Matrix Factorization,Yun Liang,cs.LG,http://arxiv.org/pdf/1610.05838v3
+1610.06049v1,2016-10-19T15:01:09Z,Fast and Accurate Surface Normal Integration on Non-Rectangular Domains,Jean-Denis Durou,cs.NA,http://arxiv.org/pdf/1610.06049v1
+1610.06086v1,2016-10-19T16:10:51Z,On the Approximation of Functionals of Very Large Hermitian Matrices   represented as Matrix Product Operators,Thomas Huckle,cs.NA,http://arxiv.org/pdf/1610.06086v1
+1610.06685v3,2016-10-21T07:16:27Z,Error estimates with explicit constants for the Sinc approximation over   infinite intervals,Tomoaki Okayama,cs.NA,http://arxiv.org/pdf/1610.06685v3
+1610.07722v1,2016-10-25T04:08:11Z,Sparse Hierarchical Tucker Factorization and its Application to   Healthcare,Jimeng Sun,cs.LG,http://arxiv.org/pdf/1610.07722v1
+1611.01318v2,2016-11-04T10:43:13Z,Certified Lower Bounds of Roundoff Errors using Semidefinite Programming,Mountassir Farid,cs.NA,http://arxiv.org/pdf/1611.01318v2
+1611.02862v1,2016-11-09T09:32:29Z,The Little Engine that Could: Regularization by Denoising (RED),Peyman Milanfar,cs.CV,http://arxiv.org/pdf/1611.02862v1
+1611.04074v2,2016-11-13T03:25:39Z,Accelerated Stochastic ADMM with Variance Reduction,Tengfei Zhou,cs.NA,http://arxiv.org/pdf/1611.04074v2
+1611.05253v1,2016-11-16T12:29:09Z,Strict upper and lower bounds for quantities of interest in static   response sensitivity analysis,Hongzhi Zhong,math.NA,http://arxiv.org/pdf/1611.05253v1
+1611.05963v3,2016-11-18T03:26:12Z,Reweighted Low-Rank Tensor Decomposition based on t-SVD and its   Applications in Video Denoising,Sudhish N. George,cs.CV,http://arxiv.org/pdf/1611.05963v3
+1611.08758v2,2016-11-26T23:02:31Z,Variational inequality approach to enforce the non-negative constraint   for advection-diffusion equations,K. B. Nakshatrala,cs.CE,http://arxiv.org/pdf/1611.08758v2
+1611.09646v1,2016-11-24T16:43:08Z,How to overcome the Courant-Friedrichs-Lewy condition of explicit   discretizations?,Denys Dutykh,cs.NA,http://arxiv.org/pdf/1611.09646v1
+1612.00530v1,2016-12-02T01:09:23Z,Implementation and evaluation of data-compression algorithms for   irregular-grid iterative methods on the PEZY-SC processor,Jun Makino,cs.MS,http://arxiv.org/pdf/1612.00530v1
+1612.03247v1,2016-12-10T03:39:20Z,Parameter Estimation of a Nonlinear Burgers Model using Nanoindentation   and Finite Element-based Inverse Analysis,Salah U. Hamim,cs.CE,http://arxiv.org/pdf/1612.03247v1
+1612.04464v1,2016-12-14T02:49:06Z,Frames and numerical approximation,Daan Huybrechs,math.NA,http://arxiv.org/pdf/1612.04464v1
+1612.04694v2,2016-12-14T15:38:37Z,Stochastic Second-Order Optimization via von Neumann Series,Mojmir Mutny,math.OC,http://arxiv.org/pdf/1612.04694v2
+1612.04796v1,2016-12-14T20:26:33Z,Robust Multigrid for Cartesian Interior Penalty DG Formulations of the   Poisson Equation in 3D,Joerg Stiller,cs.NA,http://arxiv.org/pdf/1612.04796v1
+1612.07578v1,2016-12-22T12:36:19Z,Construction and implementation of asymptotic expansions for   Laguerre-type orthogonal polynomials,Peter Opsomer,cs.NA,http://arxiv.org/pdf/1612.07578v1
+1612.07838v1,2016-12-22T23:31:35Z,"Convergence Rates for Greedy Kaczmarz Algorithms, and Faster Randomized   Kaczmarz Rules Using the Orthogonality Graph",Alim Virani,math.NA,http://arxiv.org/pdf/1612.07838v1
+1612.07875v1,2016-12-23T05:06:25Z,Streaming GPU Singular Value and Dynamic Mode Decompositions,Steven L. Brunton,math.NA,http://arxiv.org/pdf/1612.07875v1
+1612.08686v1,2016-12-27T17:17:53Z,Differentiable monotonicity-preserving schemes for discontinuous   Galerkin methods on arbitrary meshes,Alba Hierro,cs.NA,http://arxiv.org/pdf/1612.08686v1
+1701.00392v1,2017-01-02T14:03:38Z,On the Computation of Complex-valued Gradients with Application to   Statistically Optimum Beamforming,Reinhold Haeb-Umbach,cs.NA,http://arxiv.org/pdf/1701.00392v1
+1701.00722v1,2017-01-02T23:21:43Z,"The Unum Number Format: Mathematical Foundations, Implementation and   Comparison to IEEE 754 Floating-Point Numbers",Laslo Hunhold,cs.NA,http://arxiv.org/pdf/1701.00722v1
+1701.01477v1,2017-01-04T15:48:59Z,Unconstrained inverse quadratic programming problem,E. G. Abramov,cs.NA,http://arxiv.org/pdf/1701.01477v1
+1701.01994v1,2017-01-08T18:06:21Z,Computing Approximate Greatest Common Right Divisors of Differential   Polynomials,Erich Kaltofen,cs.SC,http://arxiv.org/pdf/1701.01994v1
+1701.02324v1,2017-01-09T19:11:10Z,An $N \log N$ Parallel Fast Direct Solver for Kernel Matrices,George Biros,cs.DC,http://arxiv.org/pdf/1701.02324v1
+1701.03240v1,2017-01-12T05:42:22Z,Error estimation for surrogate models of dynamical systems using machine   learning,Louis J. Durlofsky,cs.NA,http://arxiv.org/pdf/1701.03240v1
+1701.03477v1,2017-01-12T19:32:09Z,Space-time balancing domain decomposition,Marc Olm,cs.NA,http://arxiv.org/pdf/1701.03477v1
+1701.03989v1,2017-01-15T03:17:00Z,The Adaptive $s$-step Conjugate Gradient Method,Erin Carson,cs.NA,http://arxiv.org/pdf/1701.03989v1
+1701.05420v1,2017-01-19T14:08:50Z,The tensor network representation of high order cumulant and algorithm   for their calculation,Łukasz Pawela,cs.NA,http://arxiv.org/pdf/1701.05420v1
+1701.06446v1,2017-01-20T11:51:35Z,On updates of high order cumulant tensors,Piotr Gawron,cs.DS,http://arxiv.org/pdf/1701.06446v1
+1701.06920v1,2017-01-23T17:08:14Z,An hp-adaptive strategy for elliptic problems,Linbo Zhang,cs.NA,http://arxiv.org/pdf/1701.06920v1
+1701.08935v1,2017-01-31T07:46:47Z,Spectrum Slicing for Sparse Hermitian Definite Matrices Based on   Zolotarev's Functions,Haizhao Yang,math.NA,http://arxiv.org/pdf/1701.08935v1
+1702.00108v1,2017-02-01T03:00:08Z,On the optimality and sharpness of Laguerre's lower bound on the   smallest eigenvalue of a symmetric positive definite matrix,Yusaku Yamamoto,cs.NA,http://arxiv.org/pdf/1702.00108v1
+1702.02912v1,2017-02-07T18:26:28Z,Randomized Dynamic Mode Decomposition,J. Nathan Kutz,math.NA,http://arxiv.org/pdf/1702.02912v1
+1702.04274v1,2017-02-14T16:04:20Z,Hybrid System Modelling and Simulation with Dirac Deltas,Hans Vangheluwe,cs.NA,http://arxiv.org/pdf/1702.04274v1
+cs/0102015v1,2001-02-20T13:08:15Z,Non-convex cost functionals in boosting algorithms and methods for panel   selection,Marco Visentin,cs.NE,http://arxiv.org/pdf/cs/0102015v1
+cs/0303004v1,2003-03-06T09:19:42Z,Reliability Conditions in Quadrature Algorithms,N. M. Plakida,cs.NA,http://arxiv.org/pdf/cs/0303004v1
+cs/0311011v1,2003-11-10T13:13:32Z,On an explicit finite difference method for fractional diffusion   equations,L. Acedo,cs.NA,http://arxiv.org/pdf/cs/0311011v1
+cs/0401008v1,2004-01-13T14:29:26Z,Algorithm xxx: Modified Bessel functions of imaginary order and positive   argument,Nico M. Temme,cs.MS,http://arxiv.org/pdf/cs/0401008v1
+cs/0404047v1,2004-04-22T15:33:52Z,Using matrices in post-processing phase of CFD simulations,Gianluca Argentini,cs.NA,http://arxiv.org/pdf/cs/0404047v1
+cs/0408053v1,2004-08-23T12:00:13Z,Weighted average finite difference methods for fractional diffusion   equations,Santos B. Yuste,cs.NA,http://arxiv.org/pdf/cs/0408053v1
+cs/0409056v1,2004-09-29T10:34:45Z,Using sparse matrices and splines-based interpolation in computational   fluid dynamics simulations,Gianluca Argentini,cs.NA,http://arxiv.org/pdf/cs/0409056v1
+cs/0411047v3,2004-11-15T23:38:00Z,Numerical Solutions of 2-D Steady Incompressible Driven Cavity Flow at   High Reynolds Numbers,C. Gokcol,cs.NA,http://arxiv.org/pdf/cs/0411047v3
+cs/0411048v3,2004-11-15T23:45:18Z,Discussions on Driven Cavity Flow,E. Erturk,cs.NA,http://arxiv.org/pdf/cs/0411048v3
+cs/0411049v2,2004-11-15T23:52:25Z,Fourth Order Compact Formulation of Navier-Stokes Equations and Driven   Cavity Flow at High Reynolds Numbers,C. Gokcol,cs.NA,http://arxiv.org/pdf/cs/0411049v2
+cs/0412107v2,2004-12-23T17:01:14Z,A Monte Carlo algorithm for efficient large matrix inversion,C. Cabrillo,cs.DS,http://arxiv.org/pdf/cs/0412107v2
+cs/0412120v2,2004-12-31T18:16:00Z,An estimate of accuracy for interpolant numerical solutions of a PDE   problem,Gianluca Argentini,cs.NA,http://arxiv.org/pdf/cs/0412120v2
+cs/0502066v1,2005-02-15T05:24:30Z,On the Complexity of Real Functions,Mark Braverman,cs.CC,http://arxiv.org/pdf/cs/0502066v1
+cs/0509067v1,2005-09-21T20:55:09Z,Decomposing Solution Sets of Polynomial Systems: A New Parallel   Monodromy Breakup Algorithm,Jan Verschelde,cs.DC,http://arxiv.org/pdf/cs/0509067v1
+cs/0510051v1,2005-10-18T09:55:42Z,Numerical resolution of some BVP using Bernstein polynomials,Gianluca Argentini,cs.NA,http://arxiv.org/pdf/cs/0510051v1
+cs/0601104v2,2006-01-24T11:01:46Z,The complexity of class polynomial computation via floating point   approximations,Andreas Enge,cs.NA,http://arxiv.org/pdf/cs/0601104v2
+cs/0602025v1,2006-02-07T11:44:09Z,On local symbolic approximation and resolution of ODEs using Implicit   Function Theorem,Gianluca Argentini,cs.NA,http://arxiv.org/pdf/cs/0602025v1
+cs/0606103v22,2006-06-25T18:56:28Z,Precision Arithmetic: A New Floating-Point Arithmetic,Chengpu Wang,cs.DM,http://arxiv.org/pdf/cs/0606103v22
+cs/0607061v1,2006-07-12T11:09:52Z,On Some Peculiarities of Dynamic Switch between Component   Implementations in an Autonomic Computing System,Igor Mackarov,cs.DS,http://arxiv.org/pdf/cs/0607061v1
+cs/0609082v1,2006-09-14T18:32:46Z,Classifying extrema using intervals,Marek W. Gutowski,cs.MS,http://arxiv.org/pdf/cs/0609082v1
+cs/0611008v1,2006-11-02T08:40:53Z,Why Linear Programming cannot solve large instances of NP-complete   problems in polynomial time,Radoslaw Hofman,cs.CC,http://arxiv.org/pdf/cs/0611008v1
+cs/0611080v1,2006-11-16T12:33:51Z,A Multi-server Scheduling Framework for Resource Allocation in Wireless   Multi-carrier Networks,Ying Jun Zhang,cs.NA,http://arxiv.org/pdf/cs/0611080v1
+cs/0703025v1,2007-03-06T14:05:28Z,LIBOPT - An environment for testing solvers on heterogeneous collections   of problems - Version 1.0,Xavier Jonsson,cs.MS,http://arxiv.org/pdf/cs/0703025v1
+cs/0703093v1,2007-03-19T21:51:50Z,Some problems in asymptotic convex geometry and random matrices   motivated by numerical algorithms,Roman Vershynin,cs.CG,http://arxiv.org/pdf/cs/0703093v1
+cs/0703150v2,2007-03-30T00:53:48Z,Type-II/III DCT/DST algorithms with reduced number of arithmetic   operations,Steven G. Johnson,cs.NA,http://arxiv.org/pdf/cs/0703150v2
+math/9809071v2,1998-09-14T07:46:19Z,Solving Degenerate Sparse Polynomial Systems Faster,J. Maurice Rojas,math.AG,http://arxiv.org/pdf/math/9809071v2
+math/0106120v1,2001-06-14T11:32:09Z,Least Sqaure Method for Sum of the Functions Satysfying the Differential   Equations with Polynomial Coefficients,Alexander L. Voronov,math.NA,http://arxiv.org/pdf/math/0106120v1
+math/0605334v1,2006-05-12T13:34:41Z,Gröbner Bases and Generation of Difference Schemes for Partial   Differential Equations,Vladimir V. Mozzhilkin,math.RA,http://arxiv.org/pdf/math/0605334v1
+nlin/0407032v1,2004-07-14T03:04:16Z,Application of Artificial Neural Network in Jitter Analysis of   Dispersion-Managed Communication System,J. Aminuddin,nlin.PS,http://arxiv.org/pdf/nlin/0407032v1
+nucl-th/0605001v3,2006-04-30T06:18:12Z,Isospin asymmetry in nuclei and nuclear symmetry energy,D. N. Basu,nucl-th,http://arxiv.org/pdf/nucl-th/0605001v3
+physics/0106045v2,2001-06-14T18:40:53Z,A Continuous Model of Computation,J. F. Traub,physics.comp-ph,http://arxiv.org/pdf/physics/0106045v2
+physics/0502149v3,2005-02-27T17:11:38Z,Fine Grid Numerical Solutions of Triangular Cavity Flow,O. Gokcol,physics.flu-dyn,http://arxiv.org/pdf/physics/0502149v3
+physics/0505121v2,2005-05-18T19:21:13Z,Numerical Solutions of 2-D Steady Incompressible Flow in a Driven Skewed   Cavity,B. Dursun,physics.flu-dyn,http://arxiv.org/pdf/physics/0505121v2
+0705.1033v2,2007-05-08T05:59:55Z,Optimal Cache-Oblivious Mesh Layouts,Kebin Wang,cs.DS,http://arxiv.org/pdf/0705.1033v2
+0706.1410v1,2007-06-11T12:17:19Z,Evolutionary Mesh Numbering: Preliminary Results,Marc Schoenauer,cs.NA,http://arxiv.org/pdf/0706.1410v1
+0707.1812v1,2007-07-12T15:22:12Z,A numerical study of heat island flows in an open domain: Stationary   solutions,Rachid Touzani,math.NA,http://arxiv.org/pdf/0707.1812v1
+0710.4508v2,2007-10-24T16:33:07Z,A Numerical Algorithm for Zero Counting. I: Complexity and Accuracy,Mario Wschebor,cs.CC,http://arxiv.org/pdf/0710.4508v2
+0801.2398v2,2008-01-15T22:22:25Z,Removing the Stiffness of Elastic Force from the Immersed Boundary   Method for the 2D Stokes Equations,Zuoqiang Shi,cs.CE,http://arxiv.org/pdf/0801.2398v2

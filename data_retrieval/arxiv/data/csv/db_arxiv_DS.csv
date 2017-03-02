@@ -1,0 +1,1000 @@
+cs/9301115v1,1991-12-01T00:00:00Z,Context-free multilanguages,Donald E. Knuth,cs.DS,http://arxiv.org/pdf/cs/9301115v1
+cs/9608105v1,1996-08-22T00:00:00Z,Shellsort with three increments,Donald E. Knuth,cs.DS,http://arxiv.org/pdf/cs/9608105v1
+cs/9801103v1,1998-01-15T00:00:00Z,Linear probing and graphs,Donald E. Knuth,cs.DS,http://arxiv.org/pdf/cs/9801103v1
+cs/9809012v1,1998-09-09T02:38:56Z,A Fully Polynomial Randomized Approximation Scheme for the All Terminal   Network Reliability Problem,David R. Karger,cs.DS,http://arxiv.org/pdf/cs/9809012v1
+cs/9812007v1,1998-12-08T21:29:20Z,Minimum Cuts in Near-Linear Time,David R. Karger,cs.DS,http://arxiv.org/pdf/cs/9812007v1
+cs/9812008v1,1998-12-08T22:03:36Z,Approximate Graph Coloring by Semidefinite Programming,Madhu Sudan,cs.DS,http://arxiv.org/pdf/cs/9812008v1
+cs/9903010v1,1999-03-11T19:36:05Z,A class of problems of NP to be worth to search an efficient solving   algorithm,Anatoly D. Plotnikov,cs.DS,http://arxiv.org/pdf/cs/9903010v1
+cs/9906021v1,1999-06-22T09:56:53Z,Reconstructing hv-Convex Polyominoes from Orthogonal Projections,Marek Chrobak,cs.DS,http://arxiv.org/pdf/cs/9906021v1
+cs/9911003v1,1999-11-09T18:58:58Z,Subgraph Isomorphism in Planar Graphs and Related Problems,David Eppstein,cs.DS,http://arxiv.org/pdf/cs/9911003v1
+cs/9912014v1,1999-12-22T01:42:51Z,Fast Hierarchical Clustering and Other Applications of Dynamic Closest   Pairs,David Eppstein,cs.DS,http://arxiv.org/pdf/cs/9912014v1
+cs/9912020v2,1999-12-30T07:50:11Z,Additive models in high dimensions,Vladimir Pestov,cs.DS,http://arxiv.org/pdf/cs/9912020v2
+cs/0003078v1,2000-03-24T23:31:24Z,About the finding of independent vertices of a graph,Anatoly D. Plotnikov,cs.DS,http://arxiv.org/pdf/cs/0003078v1
+cs/0006046v1,2000-06-30T22:04:04Z,3-Coloring in Time O(1.3289^n),David Eppstein,cs.DS,http://arxiv.org/pdf/cs/0006046v1
+cs/0007029v1,2000-07-18T21:50:04Z,Dimension-Dependent behavior in the satisfability of random k-Horn   formulae,Gabriel Istrate,cs.DS,http://arxiv.org/pdf/cs/0007029v1
+cs/0007043v1,2000-07-31T00:13:17Z,Min-Max Fine Heaps,M. Kaykobad,cs.DS,http://arxiv.org/pdf/cs/0007043v1
+cs/0008011v1,2000-08-16T20:39:45Z,All Pairs Shortest Paths using Bridging Sets and Rectangular Matrix   Multiplication,Uri Zwick,cs.DS,http://arxiv.org/pdf/cs/0008011v1
+cs/0009006v1,2000-09-13T20:42:55Z,"Improved Algorithms for 3-Coloring, 3-Edge-Coloring, and Constraint   Satisfaction",David Eppstein,cs.DS,http://arxiv.org/pdf/cs/0009006v1
+cs/0011047v1,2000-11-15T00:00:00Z,Dancing links,Donald E. Knuth,cs.DS,http://arxiv.org/pdf/cs/0011047v1
+cs/0012002v1,2000-12-02T17:47:26Z,Random Shuffling to Reduce Disorder in Adaptive Sorting Scheme,Abdun Naser Mahmood,cs.DS,http://arxiv.org/pdf/cs/0012002v1
+cs/0111050v7,2001-11-19T23:37:14Z,Smoothed Analysis of Algorithms: Why the Simplex Algorithm Usually Takes   Polynomial Time,Shang-Hua Teng,cs.DS,http://arxiv.org/pdf/cs/0111050v7
+cs/0112022v2,2001-12-21T05:58:12Z,Faster Algorithm of String Comparison,Sun Peng,cs.DS,http://arxiv.org/pdf/cs/0112022v2
+cs/0203018v1,2002-03-13T19:09:41Z,Improving Table Compression with Combinatorial Optimization,Raffaele Giancarlo,cs.DS,http://arxiv.org/pdf/cs/0203018v1
+cs/0204033v1,2002-04-15T04:48:21Z,Randomized selection revisited,Krzysztof C. Kiwiel,cs.DS,http://arxiv.org/pdf/cs/0204033v1
+cs/0205029v1,2002-05-17T23:52:11Z,A Codebook Generation Algorithm for Document Image Compression,Neal Young,cs.DS,http://arxiv.org/pdf/cs/0205029v1
+cs/0205039v1,2002-05-18T15:12:41Z,Sequential and Parallel Algorithms for Mixed Packing and Covering,Neal E. Young,cs.DS,http://arxiv.org/pdf/cs/0205039v1
+cs/0205048v2,2002-05-18T18:57:04Z,Huffman Coding with Letter Costs: A Linear-Time Approximation Scheme,Neal E. Young,cs.DS,http://arxiv.org/pdf/cs/0205048v2
+cs/0205049v1,2002-05-18T19:05:55Z,"Prefix Codes: Equiprobable Words, Unequal Letter Costs",Neal E. Young,cs.DS,http://arxiv.org/pdf/cs/0205049v1
+cs/0206033v1,2002-06-24T06:50:52Z,Algorithms for Media,Jean-Claude Falmagne,cs.DS,http://arxiv.org/pdf/cs/0206033v1
+cs/0207061v2,2002-07-15T18:47:57Z,Linear-Time Pointer-Machine Algorithms for Path-Evaluation Problems on   Trees and Graphs,Jeffery R. Westbrook,cs.DS,http://arxiv.org/pdf/cs/0207061v2
+cs/0207066v1,2002-07-16T17:58:48Z,Polynomial Time Data Reduction for Dominating Set,Rolf Niedermeier,cs.DS,http://arxiv.org/pdf/cs/0207066v1
+cs/0207082v1,2002-07-24T19:56:17Z,Dynamic Generators of Topologically Embedded Graphs,David Eppstein,cs.DS,http://arxiv.org/pdf/cs/0207082v1
+cs/0209033v2,2002-09-30T10:33:13Z,Preemptive Scheduling of Equal-Length Jobs to Maximize Weighted   Throughput,Nodari Vakhania,cs.DS,http://arxiv.org/pdf/cs/0209033v2
+cs/0210006v2,2002-10-09T04:49:56Z,Dynamic Ordered Sets with Exponential Search Trees,Mikkel Thorup,cs.DS,http://arxiv.org/pdf/cs/0210006v2
+cs/0210013v2,2002-10-14T17:17:28Z,On the Sum-of-Squares Algorithm for Bin Packing,Richard R. Weber,cs.DS,http://arxiv.org/pdf/cs/0210013v2
+cs/0211001v2,2002-11-01T06:23:00Z,Fast and Simple Computation of All Longest Common Subsequences,Ronald I. Greenberg,cs.DS,http://arxiv.org/pdf/cs/0211001v2
+cs/0211009v1,2002-11-11T12:02:30Z,"Improved Phylogeny Comparisons: Non-Shared Edges Nearest Neighbor   Interchanges, and Subtree Transfers",Siu-Ming Yiu,cs.DS,http://arxiv.org/pdf/cs/0211009v1
+cs/0211010v2,2002-11-12T03:32:02Z,Efficient Tree Layout in a Multilevel Memory Hierarchy,Mikkel Thorup,cs.DS,http://arxiv.org/pdf/cs/0211010v2
+cs/0211018v2,2002-11-14T19:10:16Z,Indexing schemes for similarity search: an illustrated paradigm,Aleksandar Stojmirovic,cs.DS,http://arxiv.org/pdf/cs/0211018v2
+cs/0212044v1,2002-12-16T09:39:16Z,"Solving a ""Hard"" Problem to Approximate an ""Easy"" One: Heuristics for   Maximum Matchings and Maximum Traveling Salesman Problems",Walter Tietze,cs.DS,http://arxiv.org/pdf/cs/0212044v1
+cs/0301019v1,2003-01-21T17:47:05Z,Smoothed Analysis of Interior-Point Algorithms: Termination,Shang-Hua Teng,cs.DS,http://arxiv.org/pdf/cs/0301019v1
+cs/0301021v2,2003-01-21T23:55:17Z,PHORMA: Perfectly Hashable Order Restricted Multidimensional Arrays,Silvio Melo,cs.DS,http://arxiv.org/pdf/cs/0301021v2
+cs/0302030v2,2003-02-20T06:36:35Z,The traveling salesman problem for cubic graphs,David Eppstein,cs.DS,http://arxiv.org/pdf/cs/0302030v2
+cs/0304005v1,2003-04-01T23:35:11Z,Quantum Computation and Lattice Problems,Oded Regev,cs.DS,http://arxiv.org/pdf/cs/0304005v1
+cs/0306046v1,2003-06-11T09:13:39Z,Compact Approximation of Lattice Functions with Applications to   Large-Alphabet Text Search,Sebastiano Vigna,cs.DS,http://arxiv.org/pdf/cs/0306046v1
+cs/0306104v1,2003-06-16T21:31:36Z,Efficient pebbling for list traversal synopses,Ely Porat,cs.DS,http://arxiv.org/pdf/cs/0306104v1
+cs/0306123v1,2003-06-23T19:37:42Z,Heuristic to reduce the complexity of complete bipartite graphs to   accelerate the search for maximum weighted matchings with small error,Daniel Etzold,cs.DS,http://arxiv.org/pdf/cs/0306123v1
+cs/0307034v1,2003-07-12T21:41:56Z,Range Mode and Range Median Queries on Lists and Trees,Michiel Smid,cs.DS,http://arxiv.org/pdf/cs/0307034v1
+cs/0307043v1,2003-07-18T04:02:18Z,"An Extension of the Lovasz Local Lemma, and its Applications to Integer   Programming",Aravind Srinivasan,cs.DS,http://arxiv.org/pdf/cs/0307043v1
+cs/0308041v1,2003-08-24T06:30:41Z,Static Data Structure for Discrete Advance Bandwidth Reservations on the   Internet,Andreas Nilsson,cs.DS,http://arxiv.org/pdf/cs/0308041v1
+cs/0309043v1,2003-09-23T13:45:48Z,Finding approximate palindromes in strings,V. C. Barbosa,cs.DS,http://arxiv.org/pdf/cs/0309043v1
+cs/0310065v2,2003-10-31T18:37:47Z,Maintaining Information in Fully-Dynamic Trees with Top Trees,Mikkel Thorup,cs.DS,http://arxiv.org/pdf/cs/0310065v2
+cs/0311030v1,2003-11-20T22:47:11Z,Set K-Cover Algorithms for Energy Efficient Monitoring in Wireless   Sensor Networks,Serge Plotkin,cs.DS,http://arxiv.org/pdf/cs/0311030v1
+cs/0312054v1,2003-12-23T03:47:55Z,Partitioning schemes for quicksort and quickselect,Krzysztof C. Kiwiel,cs.DS,http://arxiv.org/pdf/cs/0312054v1
+cs/0312055v1,2003-12-23T04:12:30Z,Randomized selection with quintary partitions,Krzysztof C. Kiwiel,cs.DS,http://arxiv.org/pdf/cs/0312055v1
+cs/0401003v1,2004-01-04T05:29:58Z,Randomized selection with tripartitioning,Krzysztof C. Kiwiel,cs.DS,http://arxiv.org/pdf/cs/0401003v1
+cs/0402005v1,2004-02-02T14:16:52Z,Improved randomized selection,Krzysztof C. Kiwiel,cs.DS,http://arxiv.org/pdf/cs/0402005v1
+cs/0402045v2,2004-02-18T20:49:02Z,The Freeze-Tag Problem: How to Wake Up a Swarm of Robots,Martin Skutella,cs.DS,http://arxiv.org/pdf/cs/0402045v2
+cs/0403022v2,2004-03-12T14:31:43Z,Fast Multipoint-Evaluation of Bivariate Polynomials,Martin Ziegler,cs.DS,http://arxiv.org/pdf/cs/0403022v2
+cs/0404028v1,2004-04-13T13:49:11Z,The Random Buffer Tree : A Randomized Technique for I/O-efficient   Algorithms,G. Sajith,cs.DS,http://arxiv.org/pdf/cs/0404028v1
+cs/0404058v1,2004-04-30T00:00:00Z,Efficient coroutine generation of constrained Gray sequences,Frank Ruskey,cs.DS,http://arxiv.org/pdf/cs/0404058v1
+cs/0405094v1,2004-05-25T12:09:34Z,The Complexity of Maximum Matroid-Greedoid Intersection and Weighted   Greedoid Maximization,Esko Ukkonen,cs.DS,http://arxiv.org/pdf/cs/0405094v1
+cs/0406028v1,2004-06-16T21:56:48Z,Ramsey-type theorems for metric spaces with applications to online   problems,Manor Mendel,cs.DS,http://arxiv.org/pdf/cs/0406028v1
+cs/0406033v2,2004-06-17T15:11:54Z,Randomized k-server algorithms for growth-rate bounded graphs,Manor Mendel,cs.DS,http://arxiv.org/pdf/cs/0406033v2
+cs/0406034v1,2004-06-17T18:49:20Z,Better algorithms for unfair metrical task systems and applications,Manor Mendel,cs.DS,http://arxiv.org/pdf/cs/0406034v1
+cs/0406036v1,2004-06-18T16:20:24Z,Online Companion Caching,Steven S. Seiden,cs.DS,http://arxiv.org/pdf/cs/0406036v1
+cs/0406045v3,2004-06-23T16:56:53Z,Online Searching with Turn Cost,Shmuel Gal,cs.DS,http://arxiv.org/pdf/cs/0406045v3
+cs/0407003v1,2004-07-01T15:50:26Z,Insertion Sort is O(n log n),Miguel Mosteiro,cs.DS,http://arxiv.org/pdf/cs/0407003v1
+cs/0407023v1,2004-07-09T22:23:40Z,Efficient Hashing with Lookups in two Memory Accesses,Rina Panigrahy,cs.DS,http://arxiv.org/pdf/cs/0407023v1
+cs/0407036v1,2004-07-15T21:04:45Z,All Maximal Independent Sets and Dynamic Dominance for Sparse Graphs,David Eppstein,cs.DS,http://arxiv.org/pdf/cs/0407036v1
+cs/0408003v1,2004-08-02T16:42:43Z,Multi-Embedding of Metric Spaces,Manor Mendel,cs.DS,http://arxiv.org/pdf/cs/0408003v1
+cs/0408040v1,2004-08-17T09:23:35Z,Hash sort: A linear time complexity multiple-dimensional sort algorithm,William F. Gilreath,cs.DS,http://arxiv.org/pdf/cs/0408040v1
+cs/0410046v1,2004-10-18T22:41:30Z,A Note on Scheduling Equal-Length Jobs to Maximize Throughput,Maciej Kurowski,cs.DS,http://arxiv.org/pdf/cs/0410046v1
+cs/0410048v4,2004-10-19T15:17:57Z,Worst-Case Optimal Tree Layout in External Memory,Stefan Langerman,cs.DS,http://arxiv.org/pdf/cs/0410048v4
+cs/0412004v1,2004-12-01T17:08:55Z,Finding Approximate Palindromes in Strings Quickly and Simply,L. Allison,cs.DS,http://arxiv.org/pdf/cs/0412004v1
+cs/0412006v1,2004-12-02T15:01:39Z,The Accelerated Euclidean Algorithm,Sidi Mohamed Sedjelmaci,cs.DS,http://arxiv.org/pdf/cs/0412006v1
+cs/0412089v1,2004-12-17T22:58:13Z,Evolving Categories: Consistent Framework for Representation of Data and   Algorithms,Evgeny Yanenko,cs.DS,http://arxiv.org/pdf/cs/0412089v1
+cs/0412094v1,2004-12-20T16:15:59Z,Preemptive Multi-Machine Scheduling of Equal-Length Jobs to Minimize the   Average Flow Time,Francis Sourd,cs.DS,http://arxiv.org/pdf/cs/0412094v1
+cs/0412100v1,2004-12-22T08:53:49Z,Formal Test Purposes and The Validity of Test Cases,Stephan Tobies,cs.DS,http://arxiv.org/pdf/cs/0412100v1
+cs/0501020v1,2005-01-11T10:15:31Z,Enhancing Histograms by Tree-Like Bucket Indices,Domenico Rosaci,cs.DS,http://arxiv.org/pdf/cs/0501020v1
+cs/0502032v1,2005-02-05T23:22:37Z,On Dynamic Range Reporting in One Dimension,Mihai Patrascu,cs.DS,http://arxiv.org/pdf/cs/0502032v1
+cs/0502054v1,2005-02-10T20:20:53Z,Improved Tag Set Design and Multiplexing Algorithms for Universal Arrays,Dragos Trinca,cs.DS,http://arxiv.org/pdf/cs/0502054v1
+cs/0502065v1,2005-02-14T22:19:52Z,Highly Scalable Algorithms for Robust String Barcoding,Alex A. Shvartsman,cs.DS,http://arxiv.org/pdf/cs/0502065v1
+cs/0502073v1,2005-02-17T07:06:28Z,A note on the Burrows-Wheeler transformation,Dominique Perrin,cs.DS,http://arxiv.org/pdf/cs/0502073v1
+cs/0503057v1,2005-03-23T02:36:14Z,Exact and Approximation Algorithms for DNA Tag Set Design,Dragos Trinca,cs.DS,http://arxiv.org/pdf/cs/0503057v1
+cs/0504023v1,2005-04-06T22:36:03Z,Correlation Clustering with a Fixed Number of Clusters,Venkatesan Guruswami,cs.DS,http://arxiv.org/pdf/cs/0504023v1
+cs/0504103v2,2005-04-27T00:07:32Z,Oblivious Medians via Online Bidding,Neal E. Young,cs.DS,http://arxiv.org/pdf/cs/0504103v2
+cs/0504104v2,2005-04-27T19:36:08Z,The reverse greedy algorithm for the metric k-median problem,Neal E. Young,cs.DS,http://arxiv.org/pdf/cs/0504104v2
+cs/0505007v1,2005-05-02T09:40:02Z,Adaptive Codes: A New Class of Non-standard Variable-length Codes,Dragos Trinca,cs.DS,http://arxiv.org/pdf/cs/0505007v1
+cs/0505009v17,2005-05-03T15:42:24Z,Human being is a living random number generator,Arindam Mitra,cs.DS,http://arxiv.org/pdf/cs/0505009v17
+cs/0505027v1,2005-05-11T14:22:54Z,The Generic Multiple-Precision Floating-Point Addition With Exact   Rounding (as in the MPFR Library),Vincent Lefèvre,cs.DS,http://arxiv.org/pdf/cs/0505027v1
+cs/0505048v1,2005-05-18T20:25:16Z,Improved Combinatorial Group Testing Algorithms for Real-World Problem   Sizes,Daniel S. Hirschberg,cs.DS,http://arxiv.org/pdf/cs/0505048v1
+cs/0505061v1,2005-05-24T06:53:33Z,EAH: A New Encoder based on Adaptive Variable-length Codes,Dragos Trinca,cs.DS,http://arxiv.org/pdf/cs/0505061v1
+cs/0505066v1,2005-05-24T15:41:27Z,Decision Sort and its Parallel Implementation,Udayan Khuarana,cs.DS,http://arxiv.org/pdf/cs/0505066v1
+cs/0505077v1,2005-05-27T23:16:48Z,Efficient Approximation of Convex Recolorings,Sagi Snir,cs.DS,http://arxiv.org/pdf/cs/0505077v1
+cs/0506027v1,2005-06-08T22:15:18Z,Sorting a Low-Entropy Sequence,Travis Gagie,cs.DS,http://arxiv.org/pdf/cs/0506027v1
+cs/0507014v1,2005-07-06T11:35:42Z,Isomorphism of graphs-a polynomial test,Moshe Schwartz,cs.DS,http://arxiv.org/pdf/cs/0507014v1
+cs/0508045v1,2005-08-06T12:44:09Z,Multicommodity Flow Algorithms for Buffered Global Routing,Alexander Zelikovsky,cs.DS,http://arxiv.org/pdf/cs/0508045v1
+cs/0508086v1,2005-08-21T05:47:00Z,High-performance BWT-based Encoders,Dragos Trinca,cs.DS,http://arxiv.org/pdf/cs/0508086v1
+cs/0508087v1,2005-08-21T06:08:40Z,Modelling the Eulerian Path Problem using a String Matching Framework,Dragos Trinca,cs.DS,http://arxiv.org/pdf/cs/0508087v1
+cs/0508089v1,2005-08-21T19:32:39Z,Modelling the EAH Data Compression Algorithm using Graph Theory,Dragos Trinca,cs.DS,http://arxiv.org/pdf/cs/0508089v1
+cs/0508090v1,2005-08-21T19:56:31Z,Translating the EAH Data Compression Algorithm into Automata Theory,Dragos Trinca,cs.DS,http://arxiv.org/pdf/cs/0508090v1
+cs/0508125v1,2005-08-29T14:22:57Z,A Sorting Algorithm Based on Calculation,De-Shun Zheng,cs.DS,http://arxiv.org/pdf/cs/0508125v1
+cs/0509026v1,2005-09-09T21:47:52Z,Sampling to estimate arbitrary subset sums,Mikkel Thorup,cs.DS,http://arxiv.org/pdf/cs/0509026v1
+cs/0509031v1,2005-09-12T14:49:48Z,On the Worst-case Performance of the Sum-of-Squares Algorithm for Bin   Packing,Claire Kenyon,cs.DS,http://arxiv.org/pdf/cs/0509031v1
+cs/0509038v1,2005-09-14T09:04:20Z,Algorithms for Max Hamming Exact Satisfiability,Vilhelm Dahllof,cs.DS,http://arxiv.org/pdf/cs/0509038v1
+cs/0509069v3,2005-09-22T13:30:20Z,Fast and Compact Regular Expression Matching,Martin Farach-Colton,cs.DS,http://arxiv.org/pdf/cs/0509069v3
+cs/0510019v2,2005-10-07T00:55:06Z,Entropy based Nearest Neighbor Search in High Dimensions,Rina Panigrahy,cs.DS,http://arxiv.org/pdf/cs/0510019v2
+cs/0510086v1,2005-10-27T21:59:21Z,Balanced Allocation on Graphs,R. Panigrahy,cs.DS,http://arxiv.org/pdf/cs/0510086v1
+cs/0511020v2,2005-11-04T01:52:02Z,Pbit and other list sorting algorithms,David S. Płaneta,cs.DS,http://arxiv.org/pdf/cs/0511020v2
+cs/0511082v1,2005-11-23T10:32:47Z,Approximating Clustering of Fingerprint Vectors with Missing Values,Riccardo Dondi,cs.DS,http://arxiv.org/pdf/cs/0511082v1
+cs/0512046v3,2005-12-11T23:13:44Z,A polynomial algorithm for the k-cluster problem on interval graphs,George B. Mertzios,cs.DS,http://arxiv.org/pdf/cs/0512046v3
+cs/0512061v3,2005-12-15T10:28:04Z,Matching Subsequences in Trees,Inge Li Goertz,cs.DS,http://arxiv.org/pdf/cs/0512061v3
+cs/0512081v1,2005-12-20T23:01:41Z,De Dictionariis Dynamicis Pauco Spatio Utentibus,Mihai Patrascu,cs.DS,http://arxiv.org/pdf/cs/0512081v1
+cs/0601084v1,2006-01-19T00:22:56Z,Randomized Fast Design of Short DNA Words,Robert Schweller,cs.DS,http://arxiv.org/pdf/cs/0601084v1
+cs/0601117v2,2006-01-27T20:11:14Z,Finding Cliques of a Graph using Prime Numbers,Prashant,cs.DS,http://arxiv.org/pdf/cs/0601117v2
+cs/0601127v1,2006-01-30T20:58:23Z,Truly Online Paging with Locality of Reference,Manor Mendel,cs.DS,http://arxiv.org/pdf/cs/0601127v1
+cs/0602002v1,2006-01-31T23:24:42Z,Simulating Network Influence Algorithms Using Particle-Swarms: PageRank   and PageRank-Priors,Johan Bollen,cs.DS,http://arxiv.org/pdf/cs/0602002v1
+cs/0602057v1,2006-02-15T19:09:39Z,Plane Decompositions as Tools for Approximation,Christopher M. Homan,cs.DS,http://arxiv.org/pdf/cs/0602057v1
+cs/0602073v2,2006-02-21T10:32:15Z,An O(n^{2.75}) algorithm for online topological ordering,Ulrich Meyer,cs.DS,http://arxiv.org/pdf/cs/0602073v2
+cs/0603048v1,2006-03-13T09:48:49Z,Homogeneity vs. Adjacency: generalising some graph decomposition   algorithms,Fabien De Montgolfier,cs.DS,http://arxiv.org/pdf/cs/0603048v1
+cs/0603050v1,2006-03-13T11:03:34Z,Multiple serial episode matching,Yuri Matiyasevich,cs.DS,http://arxiv.org/pdf/cs/0603050v1
+cs/0603122v1,2006-03-30T15:25:11Z,Complexity of Monadic inf-datalog. Application to temporal logic,Irene Guessarian,cs.DS,http://arxiv.org/pdf/cs/0603122v1
+cs/0604037v3,2006-04-10T00:39:11Z,An O(n^3)-Time Algorithm for Tree Edit Distance,Oren Weimann,cs.DS,http://arxiv.org/pdf/cs/0604037v3
+cs/0604045v1,2006-04-11T13:55:03Z,An exact algorithm for higher-dimensional orthogonal packing,Jan C. van der Veen,cs.DS,http://arxiv.org/pdf/cs/0604045v1
+cs/0604065v3,2006-04-16T19:41:38Z,Unifying two Graph Decompositions with Modular Decomposition,Fabien De Montgolfier,cs.DS,http://arxiv.org/pdf/cs/0604065v3
+cs/0604097v4,2006-04-25T01:27:37Z,Approximation algorithms for wavelet transform coding of data streams,Boulos Harb,cs.DS,http://arxiv.org/pdf/cs/0604097v4
+cs/0605078v1,2006-05-17T22:07:17Z,The Complexity of Mean Flow Time Scheduling Problems with Release Times,Francis Sourd,cs.DS,http://arxiv.org/pdf/cs/0605078v1
+cs/0605126v1,2006-05-26T21:57:35Z,Power-aware scheduling for makespan and flow,David P. Bunde,cs.DS,http://arxiv.org/pdf/cs/0605126v1
+cs/0606042v1,2006-06-09T16:01:46Z,Enabling user-driven Checkpointing strategies in Reverse-mode Automatic   Differentiation,Mauricio Araya-Polo,cs.DS,http://arxiv.org/pdf/cs/0606042v1
+cs/0606067v2,2006-06-14T16:55:44Z,Scheduling Algorithms for Procrastinators,Kostas Tsichlas,cs.DS,http://arxiv.org/pdf/cs/0606067v2
+cs/0606109v4,2006-06-26T19:32:29Z,Maximum gradient embeddings and monotone clustering,Assaf Naor,cs.DS,http://arxiv.org/pdf/cs/0606109v4
+cs/0606116v1,2006-06-28T10:51:39Z,New Algorithms for Regular Expression Matching,Philip Bille,cs.DS,http://arxiv.org/pdf/cs/0606116v1
+cs/0606124v2,2006-06-29T18:07:49Z,Weighted hierarchical alignment of directed acyclic graph,Dmitri Maslov,cs.DS,http://arxiv.org/pdf/cs/0606124v2
+cs/0607045v2,2006-07-11T09:43:45Z,Improved online hypercube packing,Yong Zhou,cs.DS,http://arxiv.org/pdf/cs/0607045v2
+cs/0607046v2,2006-07-11T09:58:34Z,Strip Packing vs. Bin Packing,Guochuan Zhang,cs.DS,http://arxiv.org/pdf/cs/0607046v2
+cs/0607100v1,2006-07-22T02:06:26Z,New Upper Bounds on The Approximability of 3D Strip Packing,Guochuan Zhang,cs.DS,http://arxiv.org/pdf/cs/0607100v1
+cs/0608079v1,2006-08-19T01:55:14Z,Algorithmic linear dimension reduction in the l_1 norm for sparse   vectors,R. Vershynin,cs.DS,http://arxiv.org/pdf/cs/0608079v1
+cs/0608124v5,2006-08-31T12:23:37Z,The Tree Inclusion Problem: In Linear Space and Faster,Inge Li Goertz,cs.DS,http://arxiv.org/pdf/cs/0608124v5
+cs/0609032v3,2006-09-07T19:21:01Z,CR-precis: A deterministic summary structure for update data streams,Anirban Majumder,cs.DS,http://arxiv.org/pdf/cs/0609032v3
+cs/0609085v2,2006-09-15T07:36:25Z,Improved Approximate String Matching and Regular Expression Matching on   Ziv-Lempel Compressed Texts,Inge Li Goertz,cs.DS,http://arxiv.org/pdf/cs/0609085v2
+cs/0610001v1,2006-09-29T23:52:09Z,Practical Entropy-Compressed Rank/Select Dictionary,Kunihiko Sadakane,cs.DS,http://arxiv.org/pdf/cs/0610001v1
+cs/0610046v5,2006-10-09T22:09:42Z,Streaming Maximum-Minimum Filter Using No More than Three Comparisons   per Element,Daniel Lemire,cs.DS,http://arxiv.org/pdf/cs/0610046v5
+cs/0610119v1,2006-10-19T22:10:32Z,Approximate Convex Optimization by Online Game Playing,Elad Hazan,cs.DS,http://arxiv.org/pdf/cs/0610119v1
+cs/0611001v1,2006-11-01T09:36:20Z,A near-optimal fully dynamic distributed algorithm for maintaining   sparse spanners,Michael Elkin,cs.DS,http://arxiv.org/pdf/cs/0611001v1
+cs/0611019v2,2006-11-04T18:32:23Z,Algorithmic Aspects of a General Modular Decomposition Theory,Fabien De Montgolfier,cs.DS,http://arxiv.org/pdf/cs/0611019v2
+cs/0611023v1,2006-11-06T03:09:05Z,Faster Streaming algorithms for graph spanners,Surender Baswana,cs.DS,http://arxiv.org/pdf/cs/0611023v1
+cs/0612037v1,2006-12-06T14:55:36Z,Least Significant Digit First Presburger Automata,Jérôme Leroux,cs.DS,http://arxiv.org/pdf/cs/0612037v1
+cs/0612100v1,2006-12-20T13:39:18Z,Improved results for a memory allocation problem,Rob van Stee,cs.DS,http://arxiv.org/pdf/cs/0612100v1
+cs/0701020v2,2007-01-04T09:03:08Z,A nearly optimal and deterministic summary structure for update data   streams,Sumit Ganguly,cs.DS,http://arxiv.org/pdf/cs/0701020v2
+cs/0701142v1,2007-01-23T00:54:27Z,Knowledge State Algorithms: Randomization with Limited Information,Rüdiger Reischuk,cs.DS,http://arxiv.org/pdf/cs/0701142v1
+cs/0702029v1,2007-02-05T15:55:41Z,On the variance of subset sum estimation,Mikkel Thorup,cs.DS,http://arxiv.org/pdf/cs/0702029v1
+cs/0702032v1,2007-02-05T19:29:38Z,Finding large and small dense subgraphs,Reid Andersen,cs.DS,http://arxiv.org/pdf/cs/0702032v1
+cs/0702043v1,2007-02-07T15:29:32Z,Deciding k-colourability of $P_5$-free graphs in polynomial time,X. Shu,cs.DS,http://arxiv.org/pdf/cs/0702043v1
+cs/0702056v1,2007-02-09T15:16:48Z,A probabilistic analysis of a leader election algorithm,Hanene Mohamed,cs.DS,http://arxiv.org/pdf/cs/0702056v1
+cs/0702057v2,2007-02-09T15:42:46Z,An Efficient Algorithm to Recognize Locally Equivalent Graphs in   Non-Binary Case,Salman Beigi,cs.DS,http://arxiv.org/pdf/cs/0702057v2
+cs/0702151v3,2007-02-25T17:20:48Z,Succinct Sampling on Streams,Carlo Zaniolo,cs.DS,http://arxiv.org/pdf/cs/0702151v3
+cs/0703006v1,2007-03-02T01:38:16Z,XORSAT: An Efficient Algorithm for the DIMACS 32-bit Parity Problem,Jing-Chao Chen,cs.DS,http://arxiv.org/pdf/cs/0703006v1
+cs/0703010v2,2007-03-02T14:49:57Z,An optimal bifactor approximation algorithm for the metric uncapacitated   facility location problem,Karen Aardal,cs.DS,http://arxiv.org/pdf/cs/0703010v2
+cs/0703013v1,2007-03-03T06:44:57Z,NLC-2 graph recognition and isomorphism,Michaël Rao,cs.DS,http://arxiv.org/pdf/cs/0703013v1
+cs/0703109v2,2007-03-22T14:54:48Z,Tag-Cloud Drawing: Algorithms for Cloud Visualization,Daniel Lemire,cs.DS,http://arxiv.org/pdf/cs/0703109v2
+0704.0062v1,2007-03-31T23:52:33Z,On-line Viterbi Algorithm and Its Relationship to Random Walks,Tomáš Vinař,cs.DS,http://arxiv.org/pdf/0704.0062v1
+0704.0834v1,2007-04-06T02:30:42Z,P-adic arithmetic coding,Sergey Volkov,cs.DS,http://arxiv.org/pdf/0704.0834v1
+0704.3313v3,2007-04-25T06:59:43Z,Straggler Identification in Round-Trip Data Streams via Newton's   Identities and Invertible Bloom Filters,Michael T. Goodrich,cs.DS,http://arxiv.org/pdf/0704.3313v3
+0704.3773v2,2007-04-28T03:11:59Z,Avoiding Rotated Bitboards with Direct Lookup,Sam Tannous,cs.DS,http://arxiv.org/pdf/0704.3773v2
+0705.0204v1,2007-05-02T05:37:32Z,Using Images to create a Hierarchical Grid Spatial Index,Tshilidzi Marwala,cs.DS,http://arxiv.org/pdf/0705.0204v1
+0705.1025v2,2007-05-08T17:59:08Z,Recognizing Partial Cubes in Quadratic Time,David Eppstein,cs.DS,http://arxiv.org/pdf/0705.1025v2
+0705.1521v2,2007-05-10T18:08:22Z,A note on module-composed graphs,Frank Gurski,cs.DS,http://arxiv.org/pdf/0705.1521v2
+0705.1750v6,2007-05-12T04:18:36Z,A Tighter Analysis of Setcover Greedy Algorithm for Test Set,Peng Cui,cs.DS,http://arxiv.org/pdf/0705.1750v6
+0705.1970v1,2007-05-14T16:04:48Z,A Closed-Form Method for LRU Replacement under Generalized Power-Law   Demand,Nikolaos Laoutaris,cs.DS,http://arxiv.org/pdf/0705.1970v1
+0705.1986v1,2007-05-14T17:15:53Z,On the Hopcroft's minimization algorithm,Andrei Paun,cs.DS,http://arxiv.org/pdf/0705.1986v1
+0705.4171v1,2007-05-29T09:42:46Z,Grover search algorithm,Eva Borbely,cs.DS,http://arxiv.org/pdf/0705.4171v1
+0706.0046v1,2007-06-01T01:47:06Z,Symmetry Partition Sort,Jing-Chao Chen,cs.DS,http://arxiv.org/pdf/0706.0046v1
+0706.1084v1,2007-06-08T02:58:28Z,Sublinear Algorithms for Approximating String Compressibility,Adam Smith,cs.DS,http://arxiv.org/pdf/0706.1084v1
+0706.3565v2,2007-06-25T06:45:49Z,Experimental Algorithm for the Maximum Independent Set Problem,Anatoly D. Plotnikov,cs.DS,http://arxiv.org/pdf/0706.3565v2
+0706.4107v1,2007-06-27T22:04:40Z,Radix Sorting With No Extra Space,Mihai Patrascu,cs.DS,http://arxiv.org/pdf/0706.4107v1
+0707.0546v1,2007-07-04T06:55:43Z,Weighted Popular Matchings,Julián Mestre,cs.DS,http://arxiv.org/pdf/0707.0546v1
+0707.0648v1,2007-07-04T16:08:40Z,Dial a Ride from k-forest,R. Ravi,cs.DS,http://arxiv.org/pdf/0707.0648v1
+0707.1051v1,2007-07-06T21:30:24Z,Noisy Sorting Without Resampling,Elchanan Mossel,cs.DS,http://arxiv.org/pdf/0707.1051v1
+0707.1714v1,2007-07-11T22:04:18Z,Sampling Algorithms and Coresets for Lp Regression,Michael W. Mahoney,cs.DS,http://arxiv.org/pdf/0707.1714v1
+0707.2160v1,2007-07-14T16:38:08Z,"Splay Trees, Davenport-Schinzel Sequences, and the Deque Conjecture",Seth Pettie,cs.DS,http://arxiv.org/pdf/0707.2160v1
+0708.0600v1,2007-08-04T02:56:13Z,Complementary algorithms for graphs and percolation,Michael J. Lee,cs.DS,http://arxiv.org/pdf/0708.0600v1
+0708.2936v1,2007-08-21T22:59:49Z,Priority Queue Based on Multilevel Prefix Tree,David S. Planeta,cs.DS,http://arxiv.org/pdf/0708.2936v1
+0708.3408v1,2007-08-24T21:58:29Z,Linear Time Algorithms Based on Multilevel Prefix Tree for Finding   Shortest Path with Positive Weights and Minimum Spanning Tree in a Networks,David S. Planeta,cs.DS,http://arxiv.org/pdf/0708.3408v1
+0708.3696v1,2007-08-27T23:34:50Z,Relative-Error CUR Matrix Decompositions,S. Muthukrishnan,cs.DS,http://arxiv.org/pdf/0708.3696v1
+0708.4288v1,2007-08-31T08:07:32Z,Pattern Matching in Trees and Strings,Philip Bille,cs.DS,http://arxiv.org/pdf/0708.4288v1
+0709.0624v1,2007-09-05T11:34:54Z,On Faster Integer Calculations using Non-Arithmetic Primitives,Martin Ziegler,cs.DS,http://arxiv.org/pdf/0709.0624v1
+0710.0083v1,2007-09-29T18:10:28Z,Sorting and Selection with Random Costs,Andrew McGregor,cs.DS,http://arxiv.org/pdf/0710.0083v1
+0710.1435v4,2007-10-07T17:37:37Z,Faster Least Squares Approximation,Tamas Sarlos,cs.DS,http://arxiv.org/pdf/0710.1435v4
+0710.2532v1,2007-10-12T19:56:45Z,Sleeping on the Job: Energy-Efficient Broadcast for Radio Networks,Maxwell Young,cs.DS,http://arxiv.org/pdf/0710.2532v1
+0710.4410v1,2007-10-24T09:18:33Z,A Multi-level Blocking Distinct Degree Factorization Algorithm,Paul Zimmermann,cs.DS,http://arxiv.org/pdf/0710.4410v1
+0711.0251v1,2007-11-02T06:42:43Z,Faster Algorithms for Online Topological Ordering,Rogers Mathew,cs.DS,http://arxiv.org/pdf/0711.0251v1
+0711.1682v1,2007-11-11T21:28:20Z,Data Structures for Mergeable Trees,Renato F. Werneck,cs.DS,http://arxiv.org/pdf/0711.1682v1
+0711.2157v3,2007-11-14T10:53:49Z,On Approximating Multi-Criteria TSP,Bodo Manthey,cs.DS,http://arxiv.org/pdf/0711.2157v3
+0711.2399v3,2007-11-15T13:19:01Z,Minimum-weight double-tree shortcutting for Metric TSP: Bounding the   approximation ratio,Alexander Tiskin,cs.DS,http://arxiv.org/pdf/0711.2399v3
+0711.2710v2,2007-11-17T01:59:53Z,Finding a Feasible Flow in a Strongly Connected Network,Robert E. Tarjan,cs.DS,http://arxiv.org/pdf/0711.2710v2
+0711.3250v1,2007-11-21T03:22:12Z,Improved Fully Dynamic Reachability Algorithm for Directed Graph,Venkata Seshu Kumar Kurapati,cs.DS,http://arxiv.org/pdf/0711.3250v1
+0711.3861v5,2007-11-25T18:01:35Z,Approximation Algorithms for Restless Bandit Problems,Peng Shi,cs.DS,http://arxiv.org/pdf/0711.3861v5
+0711.4573v1,2007-11-28T20:07:46Z,A Note On Computing Set Overlap Classes,Michaël Rao,cs.DS,http://arxiv.org/pdf/0711.4573v1
+0711.4825v1,2007-11-29T21:10:48Z,Approximation Algorithms for Orienteering with Time Windows,Nitish Korula,cs.DS,http://arxiv.org/pdf/0711.4825v1
+0712.2629v2,2007-12-17T04:47:38Z,Approximation Algorithms for the Highway Problem under the Coupon Model,Kouhei Tomita,cs.DS,http://arxiv.org/pdf/0712.2629v2
+0712.3360v1,2007-12-20T10:42:54Z,Compressed Text Indexes:From Theory to Practice!,Rossano Venturini,cs.DS,http://arxiv.org/pdf/0712.3360v1
+0712.3568v1,2007-12-20T21:06:35Z,A Partition-Based Relaxation For Steiner Trees,Kunlun Tan,cs.DS,http://arxiv.org/pdf/0712.3568v1
+0712.3858v1,2007-12-22T13:49:45Z,Bottleneck flows in networks,Ruonan Zhang,cs.DS,http://arxiv.org/pdf/0712.3858v1
+0712.3876v5,2007-12-22T21:04:34Z,Explicit Non-Adaptive Combinatorial Group Testing Schemes,Amir Rothschild,cs.DS,http://arxiv.org/pdf/0712.3876v5
+0801.1987v2,2008-01-13T22:04:49Z,A Nearly Linear-Time PTAS for Explicit Fractional Packing and Covering   Linear Programs,Neal E. Young,cs.DS,http://arxiv.org/pdf/0801.1987v2
+0801.4238v1,2008-01-28T10:47:42Z,Algorithms for Temperature-Aware Task Scheduling in Microprocessor   Systems,Julien Robert,cs.DS,http://arxiv.org/pdf/0801.4238v1
+0802.0017v1,2008-01-31T21:59:33Z,Improved Deterministic Length Reduction,Amir Rothschild,cs.DS,http://arxiv.org/pdf/0802.0017v1
+0802.1059v1,2008-02-07T20:27:17Z,Average-Case Analysis of Online Topological Ordering,Tobias Friedrich,cs.DS,http://arxiv.org/pdf/0802.1059v1
+0802.1427v1,2008-02-11T12:36:31Z,Approximating General Metric Distances Between a Pattern and a Text,Ely Porat,cs.DS,http://arxiv.org/pdf/0802.1427v1
+0802.1471v2,2008-02-11T16:35:49Z,Error-Correcting Data Structures,Ronald de Wolf,cs.DS,http://arxiv.org/pdf/0802.1471v2
+0802.1685v2,2008-02-12T18:41:46Z,Generalized Whac-a-Mole,Grzegorz Stachowiak,cs.DS,http://arxiv.org/pdf/0802.1685v2
+0802.1722v1,2008-02-12T21:19:40Z,Parameterized Algorithms for Partial Cover Problems,Saket Saurabh,cs.DS,http://arxiv.org/pdf/0802.1722v1
+0802.2184v1,2008-02-15T11:56:28Z,Set Covering Problems with General Objective Functions,Christophe Dumeunier,cs.DS,http://arxiv.org/pdf/0802.2184v1
+0802.2528v1,2008-02-18T18:34:28Z,Min-Cost 2-Connected Subgraphs With k Terminals,Nitish Korula,cs.DS,http://arxiv.org/pdf/0802.2528v1
+0802.2827v1,2008-02-20T14:05:58Z,"Design by Measure and Conquer, A Faster Exact Algorithm for Dominating   Set",Hans L. Bodlaender,cs.DS,http://arxiv.org/pdf/0802.2827v1
+0802.2832v1,2008-02-20T14:13:19Z,"Rent, Lease or Buy: Randomized Algorithms for Multislope Ski Rental",Dror Rawitz,cs.DS,http://arxiv.org/pdf/0802.2832v1
+0802.2847v1,2008-02-20T14:21:21Z,On Dynamic Breadth-First Search in External-Memory,Ulrich Meyer,cs.DS,http://arxiv.org/pdf/0802.2847v1
+0802.2851v1,2008-02-20T14:22:30Z,An Improved Randomized Truthful Mechanism for Scheduling Unrelated   Machines,Changyuan Yu,cs.DS,http://arxiv.org/pdf/0802.2851v1
+0802.2852v1,2008-02-20T14:22:33Z,Tight Bounds for Blind Search on the Integers,Philipp Woelfel,cs.DS,http://arxiv.org/pdf/0802.2852v1
+0802.2855v1,2008-02-20T14:24:10Z,Computing Minimum Spanning Trees with Uncertainty,Rajeev Raman,cs.DS,http://arxiv.org/pdf/0802.2855v1
+0802.2864v1,2008-02-20T14:36:52Z,On Geometric Spanners of Euclidean and Unit Disk Graphs,Ljubomir Perkovic,cs.DS,http://arxiv.org/pdf/0802.2864v1
+0802.2867v1,2008-02-20T14:38:47Z,Fixed Parameter Polynomial Time Algorithms for Maximum Agreement and   Compatible Supertrees,Wing-Kin Sung,cs.DS,http://arxiv.org/pdf/0802.2867v1
+0803.0248v1,2008-03-03T14:44:08Z,Networks become navigable as nodes move and forget,Emmanuelle Lebhar,cs.DS,http://arxiv.org/pdf/0803.0248v1
+0803.0473v2,2008-03-04T15:12:24Z,Stream sampling for variance-optimal estimation of subset sums,Mikkel Thorup,cs.DS,http://arxiv.org/pdf/0803.0473v2
+0803.0792v1,2008-03-06T05:11:18Z,Incremental Topological Ordering and Strong Component Maintenance,Robert E. Tarjan,cs.DS,http://arxiv.org/pdf/0803.0792v1
+0803.0929v4,2008-03-06T18:03:06Z,Graph Sparsification by Effective Resistances,Nikhil Srivastava,cs.DS,http://arxiv.org/pdf/0803.0929v4
+0803.1321v2,2008-03-09T20:54:58Z,Treewidth computation and extremal combinatorics,Yngve Villanger,cs.DS,http://arxiv.org/pdf/0803.1321v2
+0803.2615v1,2008-03-18T12:37:36Z,Rapport de recherche sur le problème du plus court chemin contraint,Anass Nagih,cs.DS,http://arxiv.org/pdf/0803.2615v1
+0803.2842v1,2008-03-19T16:53:42Z,Admission Control to Minimize Rejections and Online Set Cover with   Repetitions,Shai Gutner,cs.DS,http://arxiv.org/pdf/0803.2842v1
+0804.0149v2,2008-04-01T11:59:43Z,From Random Graph to Small World by Wandering,Fabien Mathieu,cs.DS,http://arxiv.org/pdf/0804.0149v2
+0804.0277v1,2008-04-02T01:19:55Z,Mapping Semantic Networks to Undirected Networks,Marko A. Rodriguez,cs.DS,http://arxiv.org/pdf/0804.0277v1
+0804.0722v3,2008-04-04T13:21:40Z,A Memetic Algorithm for the Generalized Traveling Salesman Problem,Daniel Karapetyan,cs.DS,http://arxiv.org/pdf/0804.0722v3
+0804.0735v2,2008-04-04T13:36:19Z,Generalized Traveling Salesman Problem Reduction Algorithms,Daniel Karapetyan,cs.DS,http://arxiv.org/pdf/0804.0735v2
+0804.0936v1,2008-04-06T22:31:04Z,Cache-Oblivious Selection in Sorted X+Y Matrices,Shripad Thite,cs.DS,http://arxiv.org/pdf/0804.0936v1
+0804.0940v1,2008-04-07T00:06:08Z,Optimum Binary Search Trees on the Hierarchical Memory Model,Shripad Thite,cs.DS,http://arxiv.org/pdf/0804.0940v1
+0804.1170v1,2008-04-08T02:11:13Z,Approximating L1-distances between mixture distributions using random   projections,Daniel Stefankovic,cs.DS,http://arxiv.org/pdf/0804.1170v1
+0804.3902v1,2008-04-24T11:17:57Z,Minimum-energy broadcast in random-grid ad-hoc networks: approximation   and distributed algorithms,Riccardo Silvestri,cs.DS,http://arxiv.org/pdf/0804.3902v1
+0804.3947v1,2008-04-24T15:24:08Z,Time Dependent Contraction Hierarchies -- Basic Algorithmic Ideas,Peter Sanders,cs.DS,http://arxiv.org/pdf/0804.3947v1
+0804.4138v1,2008-04-25T16:04:20Z,Sketching and Streaming Entropy via Approximation Theory,Krzysztof Onak,cs.DS,http://arxiv.org/pdf/0804.4138v1
+0804.4819v2,2008-04-30T13:13:12Z,The Minimum Backlog Problem,Jukka Suomela,cs.DS,http://arxiv.org/pdf/0804.4819v2
+0805.1071v3,2008-05-07T21:37:18Z,Submodular approximation: sampling-based algorithms and lower bounds,Lisa Fleischer,cs.DS,http://arxiv.org/pdf/0805.1071v3
+0805.1598v1,2008-05-12T09:28:18Z,A Simple In-Place Algorithm for In-Shuffle,Peiyush Jain,cs.DS,http://arxiv.org/pdf/0805.1598v1
+0805.1661v2,2008-05-12T15:04:26Z,NAPX: A Polynomial Time Approximation Scheme for the Noah's Ark Problem,N. Zeh,cs.DS,http://arxiv.org/pdf/0805.1661v2
+0805.2630v2,2008-05-17T22:48:22Z,Sequential Design of Experiments via Linear Programming,Kamesh Munagala,cs.DS,http://arxiv.org/pdf/0805.2630v2
+0805.2646v1,2008-05-17T06:10:19Z,Small Approximate Pareto Sets for Bi-objective Shortest Paths and Other   Problems,Mihalis Yannakakis,cs.DS,http://arxiv.org/pdf/0805.2646v1
+0806.0983v2,2008-06-05T14:50:08Z,A Comparison of Performance Measures for Online Algorithms,Kim S. Larsen,cs.DS,http://arxiv.org/pdf/0806.0983v2
+0806.1722v1,2008-06-10T18:21:09Z,Fast Arithmetics Using Chinese Remaindering,Guangwu Xu,cs.DS,http://arxiv.org/pdf/0806.1722v1
+0806.1948v1,2008-06-11T19:54:14Z,Tight Bounds for Hashing Block Sources,Salil Vadhan,cs.DS,http://arxiv.org/pdf/0806.1948v1
+0806.1978v5,2008-06-12T17:51:02Z,Max Cut and the Smallest Eigenvalue,Luca Trevisan,cs.DS,http://arxiv.org/pdf/0806.1978v5
+0806.3258v6,2008-06-19T18:31:51Z,Local Search Heuristics For The Multidimensional Assignment Problem,Daniel Karapetyan,cs.DS,http://arxiv.org/pdf/0806.3258v6
+0806.3668v1,2008-06-23T12:28:10Z,Approximating Multi-Criteria Max-TSP,Oliver Putz,cs.DS,http://arxiv.org/pdf/0806.3668v1
+0806.4790v5,2008-06-29T21:34:28Z,AMS Without 4-Wise Independence on Product Domains,Rafail Ostrovsky,cs.DS,http://arxiv.org/pdf/0806.4790v5
+0807.0928v1,2008-07-06T19:45:37Z,Bloomier Filters: A second look,Kumar Chellapilla,cs.DS,http://arxiv.org/pdf/0807.0928v1
+0807.1139v1,2008-07-07T22:51:46Z,Algorithms for Secretary Problems on Graphs and Hypergraphs,Martin Pal,cs.DS,http://arxiv.org/pdf/0807.1139v1
+0807.1891v1,2008-07-11T17:00:07Z,Online Scheduling to Minimize the Maximum Delay Factor,Benjamin Moseley,cs.DS,http://arxiv.org/pdf/0807.1891v1
+0807.2694v4,2008-07-17T04:58:30Z,Algorithms for Scheduling Weighted Packets with Deadlines in a Bounded   Queue,Fei Li,cs.DS,http://arxiv.org/pdf/0807.2694v4
+0807.4368v1,2008-07-28T07:17:57Z,Improved Algorithms for Approximate String Matching (Extended Abstract),Georgios Papamichail,cs.DS,http://arxiv.org/pdf/0807.4368v1
+0807.5111v2,2008-07-31T17:12:25Z,"Finding Dense Subgraphs in G(n,1/2)",Ravi Kannan,cs.DS,http://arxiv.org/pdf/0807.5111v2
+0808.0760v1,2008-08-06T01:41:51Z,"Declarative Combinatorics: Boolean Functions, Circuit Synthesis and BDDs   in Haskell",Paul Tarau,cs.DS,http://arxiv.org/pdf/0808.0760v1
+0808.1108v2,2008-08-07T22:49:29Z,Cache oblivious storage and access heuristics for blocked matrix-matrix   multiplication,Matt Challacombe,cs.DS,http://arxiv.org/pdf/0808.1108v2
+0808.1246v2,2008-08-08T17:15:34Z,Minimum Dissatisfaction Personnel Scheduling,Angela Andreica,cs.DS,http://arxiv.org/pdf/0808.1246v2
+0808.1766v1,2008-08-13T01:38:45Z,The Optimal Quantile Estimator for Compressed Counting,Ping Li,cs.DS,http://arxiv.org/pdf/0808.1766v1
+0808.1771v2,2008-08-13T03:05:33Z,A Very Efficient Scheme for Estimating Entropy of Data Streams Using   Compressed Counting,Ping Li,cs.DS,http://arxiv.org/pdf/0808.1771v2
+0808.2222v1,2008-08-16T00:43:14Z,Better Bounds for Frequency Moments in Random-Order Streams,Rina Panigrahy,cs.DS,http://arxiv.org/pdf/0808.2222v1
+0808.3197v1,2008-08-24T15:37:35Z,On the Monotonicity of Work Function in k-Server Conjecture,Ming-Zhe Chen,cs.DS,http://arxiv.org/pdf/0808.3197v1
+0809.0460v1,2008-09-02T16:07:42Z,Stochastic Combinatorial Optimization under Probabilistic Constraints,Yinyu Ye,cs.DS,http://arxiv.org/pdf/0809.0460v1
+0809.1715v1,2008-09-10T07:00:38Z,Improved Smoothed Analysis of the k-Means Method,Heiko Röglin,cs.DS,http://arxiv.org/pdf/0809.1715v1
+0809.1895v1,2008-09-10T23:33:47Z,Thinking Twice about Second-Price Ad Auctions,C. Thach Nguyen,cs.DS,http://arxiv.org/pdf/0809.1895v1
+0809.1902v2,2008-09-11T02:10:29Z,Fast C-K-R Partitions of Sparse Graphs,Chaya Schwob,cs.DS,http://arxiv.org/pdf/0809.1902v2
+0809.1906v2,2008-09-11T02:49:07Z,Betweenness Centrality : Algorithms and Lower Bounds,Shiva Kintali,cs.DS,http://arxiv.org/pdf/0809.1906v2
+0809.2097v1,2008-09-11T20:12:08Z,Algorithms for Locating Constrained Optimal Intervals,Kun-Mao Chao,cs.DS,http://arxiv.org/pdf/0809.2097v1
+0809.2554v1,2008-09-15T15:42:47Z,Simpler Analyses of Local Search Algorithms for Facility Location,Kanat Tangwongsan,cs.DS,http://arxiv.org/pdf/0809.2554v1
+0809.2970v1,2008-09-17T17:51:09Z,Single source shortest paths in $H$-minor free graphs,Raphael Yuster,cs.DS,http://arxiv.org/pdf/0809.2970v1
+0809.3527v2,2008-09-20T20:05:21Z,Inferring Company Structure from Limited Available Information,Romulus Andreica,cs.DS,http://arxiv.org/pdf/0809.3527v2
+0809.3528v2,2008-09-20T20:06:34Z,Locating Restricted Facilities on Binary Maps,Madalina Ecaterina Andreica,cs.DS,http://arxiv.org/pdf/0809.3528v2
+0810.0075v1,2008-10-01T04:55:11Z,Acerca del Algoritmo de Dijkstra,Alvaro Salas,cs.DS,http://arxiv.org/pdf/0810.0075v1
+0810.0264v1,2008-10-01T19:54:51Z,A Fast Generic Sequence Matching Algorithm,Gor V. Nishanov,cs.DS,http://arxiv.org/pdf/0810.0264v1
+0810.0558v2,2008-10-03T01:37:45Z,"The Ratio Index for Budgeted Learning, with Applications",Brad Null,cs.DS,http://arxiv.org/pdf/0810.0558v2
+0810.0674v1,2008-10-03T16:13:00Z,Packing multiway cuts in capacitated graphs,Shuchi Chawla,cs.DS,http://arxiv.org/pdf/0810.0674v1
+0810.0906v2,2008-10-06T08:21:17Z,"A linear time algorithm for L(2,1)-labeling of trees",Yushi Uno,cs.DS,http://arxiv.org/pdf/0810.0906v2
+0810.3438v1,2008-10-19T22:57:53Z,Efficient Algorithms and Routing Protocols for Handling Transient Single   Node Failures,Teofilo F Gonzalez,cs.DS,http://arxiv.org/pdf/0810.3438v1
+0810.4812v2,2008-10-27T14:02:48Z,A constructive proof of the Lovasz Local Lemma,Robin A. Moser,cs.DS,http://arxiv.org/pdf/0810.4812v2
+0810.4934v1,2008-10-27T20:18:00Z,Exponential-Time Approximation of Hard Problems,Mateusz Wykurz,cs.DS,http://arxiv.org/pdf/0810.4934v1
+0810.5263v1,2008-10-29T12:52:59Z,Lower bounds for distributed markov chain problems,Andy Twigg,cs.DS,http://arxiv.org/pdf/0810.5263v1
+0810.5477v1,2008-10-30T12:15:33Z,Worst-case time decremental connectivity and k-edge witness,Andrew Twigg,cs.DS,http://arxiv.org/pdf/0810.5477v1
+0811.2572v2,2008-11-17T16:23:45Z,An Efficient Algorithm for Partial Order Production,J. Ian Munro,cs.DS,http://arxiv.org/pdf/0811.2572v2
+0811.3062v1,2008-11-19T08:11:14Z,Dynamic External Hashing: The Limit of Buffering,Qin Zhang,cs.DS,http://arxiv.org/pdf/0811.3062v1
+0811.3448v2,2008-11-21T01:38:09Z,Binar Sort: A Linear Generalized Sorting Algorithm,William F. Gilreath,cs.DS,http://arxiv.org/pdf/0811.3448v2
+0811.3449v1,2008-11-21T01:45:50Z,Binar Shuffle Algorithm: Shuffling Bit by Bit,William F. Gilreath,cs.DS,http://arxiv.org/pdf/0811.3449v1
+0811.3490v2,2008-11-21T08:52:59Z,Faster Approximate String Matching for Short Patterns,Philip Bille,cs.DS,http://arxiv.org/pdf/0811.3490v2
+0811.3602v1,2008-11-21T18:23:00Z,Low-Memory Adaptive Prefix Coding,Yakov Nekrich,cs.DS,http://arxiv.org/pdf/0811.3602v1
+0811.3779v1,2008-11-23T22:39:38Z,Finding Sparse Cuts Locally Using Evolving Sets,Yuval Peres,cs.DS,http://arxiv.org/pdf/0811.3779v1
+0812.0146v4,2008-11-30T15:17:22Z,Lower Bounds on Performance of Metric Tree Indexing Schemes for Exact   Similarity Search in High Dimensions,Vladimir Pestov,cs.DS,http://arxiv.org/pdf/0812.0146v4
+0812.0209v1,2008-12-01T03:51:12Z,Optimal Tracking of Distributed Heavy Hitters and Quantiles,Qin Zhang,cs.DS,http://arxiv.org/pdf/0812.0209v1
+0812.1012v3,2008-12-04T19:48:16Z,Adaptive Uncertainty Resolution in Bayesian Combinatorial Optimization   Problems,Kamesh Munagala,cs.DS,http://arxiv.org/pdf/0812.1012v3
+0812.2011v1,2008-12-10T20:08:08Z,Accelerated Data-Flow Analysis,Gregoire Sutre,cs.DS,http://arxiv.org/pdf/0812.2011v1
+0812.2014v1,2008-12-10T20:33:27Z,Convex Hull of Arithmetic Automata,Jérôme Leroux,cs.DS,http://arxiv.org/pdf/0812.2014v1
+0812.2599v1,2008-12-14T18:30:44Z,Learning Low Rank Matrices from O(n) Entries,Sewoong Oh,cs.DS,http://arxiv.org/pdf/0812.2599v1
+0812.2775v3,2008-12-15T12:03:31Z,Optimal Succinctness for Range Minimum Queries,Johannes Fischer,cs.DS,http://arxiv.org/pdf/0812.2775v3
+0812.2851v2,2008-12-15T16:16:58Z,The Violation Heap: A Relaxed Fibonacci-Like Heap,Amr Elmasry,cs.DS,http://arxiv.org/pdf/0812.2851v2
+0812.2868v2,2008-12-15T17:15:51Z,Minimax Trees in Linear Time,Travis Gagie,cs.DS,http://arxiv.org/pdf/0812.2868v2
+0812.3702v1,2008-12-19T03:53:03Z,Algorithmic and Statistical Challenges in Modern Large-Scale Data   Analysis are the Focus of MMDS 2008,Gunnar E. Carlsson,cs.DS,http://arxiv.org/pdf/0812.3702v1
+0812.4293v2,2008-12-22T21:16:55Z,An Improved Approximation Algorithm for the Column Subset Selection   Problem,Petros Drineas,cs.DS,http://arxiv.org/pdf/0812.4293v2
+0812.4442v1,2008-12-23T19:04:25Z,An $O(k^{3} log n)$-Approximation Algorithm for Vertex-Connectivity   Survivable Network Design,Sanjeev Khanna,cs.DS,http://arxiv.org/pdf/0812.4442v1
+0812.4547v2,2008-12-24T16:43:22Z,Random Projections for the Nonnegative Least-Squares Problem,Petros Drineas,cs.DS,http://arxiv.org/pdf/0812.4547v2
+0812.4919v1,2008-12-29T14:57:14Z,Obtaining a Planar Graph by Vertex Deletion,Ildikó Schlotter,cs.DS,http://arxiv.org/pdf/0812.4919v1
+0901.0205v1,2009-01-02T01:24:26Z,On Allocating Goods to Maximize Fairness,Sanjeev Khanna,cs.DS,http://arxiv.org/pdf/0901.0205v1
+0901.0501v2,2009-01-05T16:47:21Z,Interprocedural Dataflow Analysis over Weight Domains with Infinite   Descending Chains,Stefan Kiefer,cs.DS,http://arxiv.org/pdf/0901.0501v2
+0901.0930v2,2009-01-07T21:55:59Z,An Ω(n log n) lower bound for computing the sum of even-ranked   elements,Jan Tusch,cs.DS,http://arxiv.org/pdf/0901.0930v2
+0901.1761v1,2009-01-13T14:46:50Z,Towards Optimal Range Medians,Peter Sanders,cs.DS,http://arxiv.org/pdf/0901.1761v1
+0901.2645v2,2009-01-17T15:23:29Z,On some simplicial elimination schemes for chordal graphs,Vincent Limouzy,cs.DS,http://arxiv.org/pdf/0901.2645v2
+0901.2897v2,2009-01-19T20:12:21Z,Online validation of the pi and pi' failure functions,Lukasz Jez,cs.DS,http://arxiv.org/pdf/0901.2897v2
+0901.2900v1,2009-01-19T17:30:28Z,An O(log(n)) Fully Dynamic Algorithm for Maximum matching in a tree,Ankit Sharma,cs.DS,http://arxiv.org/pdf/0901.2900v1
+0901.4002v1,2009-01-26T13:27:34Z,Max Edge Coloring of Trees,Vangelis Th. Paschos,cs.DS,http://arxiv.org/pdf/0901.4002v1
+0901.4201v1,2009-01-27T09:09:52Z,Peer to Peer Optimistic Collaborative Editing on XML-like trees,Stéphane Martin,cs.DS,http://arxiv.org/pdf/0901.4201v1
+0902.0140v2,2009-02-01T16:50:53Z,Graph Sparsification in the Semi-streaming Model,Sudipto Guha,cs.DS,http://arxiv.org/pdf/0902.0140v2
+0902.1038v1,2009-02-06T09:48:32Z,"Compressed Representations of Permutations, and Applications",Gonzalo Navarro,cs.DS,http://arxiv.org/pdf/0902.1038v1
+0902.1260v1,2009-02-07T18:02:32Z,Nonclairvoyant Speed Scaling for Flow and Energy,Kirk Pruhs,cs.DS,http://arxiv.org/pdf/0902.1260v1
+0902.1378v1,2009-02-09T07:47:19Z,On the Additive Constant of the k-server Work Function Algorithm,Adi Rosen,cs.DS,http://arxiv.org/pdf/0902.1378v1
+0902.1604v1,2009-02-10T08:44:14Z,A Comparison of Techniques for Sampling Web Pages,Markus Kinzler,cs.DS,http://arxiv.org/pdf/0902.1604v1
+0902.1605v1,2009-02-10T08:46:27Z,Lower Bounds for Multi-Pass Processing of Multiple Data Streams,Nicole Schweikardt,cs.DS,http://arxiv.org/pdf/0902.1605v1
+0902.1693v4,2009-02-10T16:41:35Z,Fast Evaluation of Interlace Polynomials on Graphs of Bounded Treewidth,Christian Hoffmann,cs.DS,http://arxiv.org/pdf/0902.1693v4
+0902.1792v3,2009-02-11T01:51:42Z,Correlation Robust Stochastic Optimization,Yinyu Ye,cs.DS,http://arxiv.org/pdf/0902.1792v3
+0902.2209v3,2009-02-12T21:24:57Z,Online Scheduling of Bounded Length Jobs to Maximize Throughput,Nguyen Kim Thang,cs.DS,http://arxiv.org/pdf/0902.2209v3
+0902.2648v1,2009-02-16T10:14:08Z,"More Haste, Less Waste: Lowering the Redundancy in Fully Indexable   Dictionaries",S. Srinivasa Rao,cs.DS,http://arxiv.org/pdf/0902.2648v1
+0902.2795v1,2009-02-16T21:29:26Z,A Graph Reduction Step Preserving Element-Connectivity and Applications,Nitish Korula,cs.DS,http://arxiv.org/pdf/0902.2795v1
+0902.3121v1,2009-02-18T14:00:16Z,Parallel machine scheduling with precedence constraints and setup times,Pierre Lopez,cs.DS,http://arxiv.org/pdf/0902.3121v1
+0903.0116v1,2009-03-01T00:19:10Z,Heaps Simplified,Robert E. Tarjan,cs.DS,http://arxiv.org/pdf/0903.0116v1
+0903.0136v2,2009-03-01T12:54:57Z,A polynomial graph extension procedure for improving graph isomorphism   algorithms,Daniel Cosmin Porumbel,cs.DS,http://arxiv.org/pdf/0903.0136v2
+0903.0197v1,2009-03-02T01:36:50Z,Rotation Distance is Fixed-Parameter Tractable,Katherine St. John,cs.DS,http://arxiv.org/pdf/0903.0197v1
+0903.0199v2,2009-03-02T01:40:14Z,A Linear-Time Approximation Algorithm for Rotation Distance,Katherine St. John,cs.DS,http://arxiv.org/pdf/0903.0199v2
+0903.0367v1,2009-03-02T20:40:53Z,How to Play Unique Games on Expanders,Yury Makarychev,cs.DS,http://arxiv.org/pdf/0903.0367v1
+0903.0391v1,2009-03-02T21:21:47Z,De-amortized Cuckoo Hashing: Provable Worst-Case Performance and   Experimental Results,Gil Segev,cs.DS,http://arxiv.org/pdf/0903.0391v1
+0903.0938v1,2009-03-05T16:15:16Z,Algorithm for Finding $k$-Vertex Out-trees and its Application to   $k$-Internal Out-branching Problem,Anders Yeo,cs.DS,http://arxiv.org/pdf/0903.0938v1
+0903.4130v2,2009-03-24T16:49:57Z,Pairing Heaps with Costless Meld,Amr Elmasry,cs.DS,http://arxiv.org/pdf/0903.4130v2
+0903.4251v1,2009-03-25T19:25:24Z,On the Use of Suffix Arrays for Memory-Efficient Lempel-Ziv Data   Compression,Mario Figueiredo,cs.DS,http://arxiv.org/pdf/0903.4251v1
+0903.4521v3,2009-03-26T06:23:58Z,Solving Dominating Set in Larger Classes of Graphs: FPT Algorithms and   Polynomial Kernels,Somnath Sikdar,cs.DS,http://arxiv.org/pdf/0903.4521v3
+0903.4726v6,2009-03-27T02:29:01Z,Range Quantile Queries: Another Virtue of Wavelet Trees,Andrew Turpin,cs.DS,http://arxiv.org/pdf/0903.4726v6
+0904.0292v1,2009-04-02T02:17:43Z,Sublinear Time Algorithms for Earth Mover's Distance,Ronitt Rubinfeld,cs.DS,http://arxiv.org/pdf/0904.0292v1
+0904.0352v2,2009-04-02T09:32:51Z,Incremental Deployment of Network Monitors Based on Group Betweenness   Centrality,Polina Zilberman,cs.DS,http://arxiv.org/pdf/0904.0352v2
+0904.1002v1,2009-04-06T20:08:48Z,A Program to Determine the Exact Competitive Ratio of List s-Batching   with Unit Jobs,John Noga,cs.DS,http://arxiv.org/pdf/0904.1002v1
+0904.1705v1,2009-04-10T15:36:02Z,Bounded Max-Colorings of Graphs,Ioannis Milis,cs.DS,http://arxiv.org/pdf/0904.1705v1
+0904.2027v1,2009-04-13T22:54:26Z,A Near-Optimal Algorithm for L1-Difference,David P. Woodruff,cs.DS,http://arxiv.org/pdf/0904.2027v1
+0904.2129v1,2009-04-14T14:29:56Z,Crossing-Optimal Acyclic HP-Completion for Outerplanar st-Digraphs,Antonios Symvonis,cs.DS,http://arxiv.org/pdf/0904.2129v1
+0904.2576v1,2009-04-16T20:12:33Z,PTAS for k-tour cover problem on the plane for moderately large values   of k,Andrzej Lingas,cs.DS,http://arxiv.org/pdf/0904.2576v1
+0904.2728v1,2009-04-17T15:44:49Z,Fast Computation of Empirically Tight Bounds for the Diameter of Massive   Graphs,Michel Habib,cs.DS,http://arxiv.org/pdf/0904.2728v1
+0904.3062v2,2009-04-20T15:53:33Z,Approximate counting with a floating-point counter,Miklos Csuros,cs.DS,http://arxiv.org/pdf/0904.3062v2
+0904.3741v1,2009-04-23T18:37:36Z,The h-Index of a Graph and its Application to Dynamic Subgraph   Statistics,Emma S. Spiro,cs.DS,http://arxiv.org/pdf/0904.3741v1
+0904.3756v3,2009-04-23T21:06:58Z,On the Approximability of Geometric and Geographic Generalization and   the Min-Max Bin Covering Problem,George S. Lueker,cs.DS,http://arxiv.org/pdf/0904.3756v3
+0904.3898v2,2009-04-24T16:12:40Z,On Smoothed Analysis of Quicksort and Hoare's Find,Nima Zeini Jahromi,cs.DS,http://arxiv.org/pdf/0904.3898v2
+0904.4061v1,2009-04-27T15:28:58Z,Approximation Algorithms for Key Management in Secure Multicast,Feng Zhu,cs.DS,http://arxiv.org/pdf/0904.4061v1
+0905.0283v1,2009-05-03T19:21:52Z,Optimal Embedding Into Star Metrics,Kevin A. Wortman,cs.DS,http://arxiv.org/pdf/0905.0283v1
+0905.0768v5,2009-05-06T07:56:38Z,Fully-Functional Static and Dynamic Succinct Trees,Kunihiko Sadakane,cs.DS,http://arxiv.org/pdf/0905.0768v5
+0905.2028v1,2009-05-13T07:38:48Z,Quantum Algorithms of Bio-molecular Solutions for the Clique Problem on   a Quantum Computer,Lai Chin Lu,cs.DS,http://arxiv.org/pdf/0905.2028v1
+0905.2141v1,2009-05-13T16:24:21Z,Curse of Dimensionality in the Application of Pivot-based Indexes to the   Similarity Search Problem,Ilya Volnyansky,cs.DS,http://arxiv.org/pdf/0905.2141v1
+0905.2213v3,2009-05-13T22:23:07Z,Outlining an elegant solver for 3-SAT,Eduardo Hwang,cs.DS,http://arxiv.org/pdf/0905.2213v3
+0905.3107v1,2009-05-19T14:19:08Z,Fast and Compact Prefix Codes,Yakov Nekrich,cs.DS,http://arxiv.org/pdf/0905.3107v1
+0905.4068v4,2009-05-25T19:43:24Z,A 4/3-competitive randomized algorithm for online scheduling of packets   with agreeable deadlines,Łukasz Jeż,cs.DS,http://arxiv.org/pdf/0905.4068v4
+0905.4444v1,2009-05-27T15:05:28Z,Approximation Algorithms for the Traveling Repairman and Speeding   Deliveryman Problems,Barry Wittman,cs.DS,http://arxiv.org/pdf/0905.4444v1
+0905.4930v2,2009-05-29T17:56:06Z,Improved Approximation Algorithms for Segment Minimization in Intensity   Modulated Radiation Therapy,Maxwell Young,cs.DS,http://arxiv.org/pdf/0905.4930v2
+0906.0328v1,2009-06-01T18:06:45Z,Rivisiting Token/Bucket Algorithms in New Applications,Andrea Pasquinucci,cs.DS,http://arxiv.org/pdf/0906.0328v1
+0906.0391v2,2009-06-02T00:41:46Z,Curse of Dimensionality in Pivot-based Indexes,Vladimir Pestov,cs.DS,http://arxiv.org/pdf/0906.0391v2
+0906.0862v1,2009-06-04T09:44:59Z,A Memetic Algorithm for the Multidimensional Assignment Problem,Daniel Karapetyan,cs.DS,http://arxiv.org/pdf/0906.0862v1
+0906.1341v1,2009-06-07T09:35:01Z,Efficient Algorithms for Several Constrained Activity Scheduling   Problems in the Time and Space Domains,Angela Andreica,cs.DS,http://arxiv.org/pdf/0906.1341v1
+0906.2020v1,2009-06-10T21:22:22Z,Scheduling with Outliers,Danny Segev,cs.DS,http://arxiv.org/pdf/0906.2020v1
+0906.2048v1,2009-06-11T07:24:52Z,Minimizing Maximum Response Time and Delay Factor in Broadcast   Scheduling,Benjamin Moseley,cs.DS,http://arxiv.org/pdf/0906.2048v1
+0906.2395v1,2009-06-12T18:27:07Z,Longest Wait First for Broadcast Scheduling,Benjamin Moseley,cs.DS,http://arxiv.org/pdf/0906.2395v1
+0906.2448v1,2009-06-13T05:15:53Z,The Limit of Convexity Based Isoperimetry: Sampling Harmonic-Concave   Functions,Santosh Vempala,cs.DS,http://arxiv.org/pdf/0906.2448v1
+0906.2671v1,2009-06-15T12:29:32Z,Oscillations and Random Perturbations of a FitzHugh-Nagumo System,Michèle Thieullen,cs.DS,http://arxiv.org/pdf/0906.2671v1
+0906.2960v1,2009-06-16T15:47:17Z,Empirical evaluation of construction heuristics for the multidimensional   assignment problem,Boris Goldengorin,cs.DS,http://arxiv.org/pdf/0906.2960v1
+0906.3056v1,2009-06-17T02:01:26Z,Approximating Scheduling Machines with Capacity Constraints,Jing Liu,cs.DS,http://arxiv.org/pdf/0906.3056v1
+0906.5050v1,2009-06-27T08:39:18Z,AFPTAS results for common variants of bin packing: A new method to   handle the small items,Asaf Levin,cs.DS,http://arxiv.org/pdf/0906.5050v1
+0906.5051v1,2009-06-27T19:48:10Z,Bin packing with general cost structures,Asaf Levin,cs.DS,http://arxiv.org/pdf/0906.5051v1
+0906.5062v2,2009-06-29T04:43:17Z,Geometrical Interpretation of the Master Theorem for Divide-and-conquer   Recurrences,Simant Dube,cs.DS,http://arxiv.org/pdf/0906.5062v2
+0906.5070v1,2009-06-27T11:16:30Z,"Integrating Genetic Algorithm, Tabu Search Approach for Job Shop   Scheduling",Dr. P. Balasubramanie,cs.DS,http://arxiv.org/pdf/0906.5070v1
+0907.0305v1,2009-07-02T08:11:22Z,Improved approximation guarantees for weighted matching in the   semi-streaming model,Danny Segev,cs.DS,http://arxiv.org/pdf/0907.0305v1
+0907.0718v2,2009-07-03T21:12:38Z,A Randomized Sublinear Time Parallel GCD Algorithm for the EREW PRAM,Jonathan P. Sorenson,cs.DS,http://arxiv.org/pdf/0907.0718v2
+0907.0726v2,2009-07-03T22:42:23Z,Asymmetric Traveling Salesman Path and Directed Latency Problems,Zoya Svitkina,cs.DS,http://arxiv.org/pdf/0907.0726v2
+0907.0741v1,2009-07-04T06:18:38Z,Tight Bounds for Online Stable Sorting,Yakov Nekrich,cs.DS,http://arxiv.org/pdf/0907.0741v1
+0907.1295v1,2009-07-07T20:37:19Z,Online Sorting via Searching and Selection,Jonathan P. Sorenson,cs.DS,http://arxiv.org/pdf/0907.1295v1
+0907.1369v1,2009-07-08T09:32:02Z,Towards an $O(\sqrt[3]{\log n})$-Approximation Algorithm for {\sc   Balanced Separator},Manjish Pal,cs.DS,http://arxiv.org/pdf/0907.1369v1
+0907.1840v1,2009-07-10T15:16:43Z,A PTAS for the Minimum Consensus Clustering Problem with a Fixed Number   of Clusters,Riccardo Dondi,cs.DS,http://arxiv.org/pdf/0907.1840v1
+0907.2050v2,2009-07-12T16:11:45Z,Randomised Buffer Management with Bounded Delay against Adaptive   Adversary,Łukasz Jeż,cs.DS,http://arxiv.org/pdf/0907.2050v2
+0907.2071v1,2009-07-13T18:11:05Z,Layered Working-Set Trees,John Howat,cs.DS,http://arxiv.org/pdf/0907.2071v1
+0907.2741v1,2009-07-16T04:05:05Z,Bounded Delay Packet Scheduling in a Bounded Buffer,Stanley P. Y. Fung,cs.DS,http://arxiv.org/pdf/0907.2741v1
+0907.3135v2,2009-07-17T19:29:13Z,Fast Searching in Packed Strings,Philip Bille,cs.DS,http://arxiv.org/pdf/0907.3135v2
+0907.5269v1,2009-07-30T11:31:05Z,Fast Detour Computation for Ride Sharing,Lars Volker,cs.DS,http://arxiv.org/pdf/0907.5269v1
+0907.5372v1,2009-07-30T16:30:15Z,Speedup in the Traveling Repairman Problem with Unit Time Windows,Barry Wittman,cs.DS,http://arxiv.org/pdf/0907.5372v1
+0907.5474v1,2009-07-31T06:27:19Z,Optimal Angular Resolution for Face-Symmetric Drawings,Kevin A. Wortman,cs.DS,http://arxiv.org/pdf/0907.5474v1
+0908.0239v1,2009-08-03T13:10:48Z,On Bijective Variants of the Burrows-Wheeler Transform,Manfred Kufleitner,cs.DS,http://arxiv.org/pdf/0908.0239v1
+0908.0350v1,2009-08-03T21:21:06Z,Region growing for multi-route cuts,Shuchi Chawla,cs.DS,http://arxiv.org/pdf/0908.0350v1
+0908.0375v1,2009-08-04T02:13:54Z,Deterministic Algorithms for the Lovasz Local Lemma,Bernhard Haeupler,cs.DS,http://arxiv.org/pdf/0908.0375v1
+0908.1379v1,2009-08-10T19:57:32Z,Breaking the Multicommodity Flow Barrier for sqrt(log(n))-Approximations   to Sparsest Cut,Jonah Sherman,cs.DS,http://arxiv.org/pdf/0908.1379v1
+0908.1528v2,2009-08-11T16:03:46Z,Contraction of Timetable Networks with Realistic Transfers,Robert Geisberger,cs.DS,http://arxiv.org/pdf/0908.1528v2
+0908.2256v3,2009-08-16T17:55:03Z,On k-Column Sparse Packing Programs,Aravind Srinivasan,cs.DS,http://arxiv.org/pdf/0908.2256v3
+0908.2834v1,2009-08-19T23:46:02Z,On Revenue Maximization in Second-Price Ad Auctions,C. Thach Nguyen,cs.DS,http://arxiv.org/pdf/0908.2834v1
+0908.3089v1,2009-08-21T10:12:31Z,Data structure for representing a graph: combination of linked list and   hash table,Maxim A. Kolosovskiy,cs.DS,http://arxiv.org/pdf/0908.3089v1
+0908.3505v2,2009-08-24T21:44:45Z,Polynomial Time Algorithms for Minimum Energy Scheduling,Christoph Durr,cs.DS,http://arxiv.org/pdf/0908.3505v2
+0909.0095v2,2009-09-01T05:46:32Z,Online Algorithms for Self-Organizing Sequential Search - A Survey,N. S. Narayanaswamy,cs.DS,http://arxiv.org/pdf/0909.0095v2
+0909.0941v1,2009-09-04T19:49:22Z,A Randomized Rounding Algorithm for the Asymmetric Traveling Salesman   Problem,Mohit Singh,cs.DS,http://arxiv.org/pdf/0909.0941v1
+0909.1030v1,2009-09-05T14:15:29Z,The Euler Path to Static Level-Ancestors,Amir M. Ben-Amram,cs.DS,http://arxiv.org/pdf/0909.1030v1
+0909.1037v3,2009-09-05T15:40:42Z,Randomized Shellsort: A Simple Oblivious Sorting Algorithm,Michael T. Goodrich,cs.DS,http://arxiv.org/pdf/0909.1037v3
+0909.1870v1,2009-09-10T05:23:43Z,Paired approximation problems and incompatible inapproximabilities,David Eppstein,cs.DS,http://arxiv.org/pdf/0909.1870v1
+0909.2547v1,2009-09-14T13:36:58Z,Simple implementation of deletion from open-address hash table,Maxim Kolosovskiy,cs.DS,http://arxiv.org/pdf/0909.2547v1
+0909.2704v1,2009-09-15T19:45:22Z,Memory Consistency Conditions for Self-Assembly Programming,Aaron Sterling,cs.DS,http://arxiv.org/pdf/0909.2704v1
+0909.3180v1,2009-09-17T10:37:31Z,FPT Algorithms for Connected Feedback Vertex Set,Somnath Sikdar,cs.DS,http://arxiv.org/pdf/0909.3180v1
+0909.3637v2,2009-09-20T15:20:17Z,Packet Scheduling in a Size-Bounded Buffer,Fei Li,cs.DS,http://arxiv.org/pdf/0909.3637v2
+0909.3696v2,2009-09-21T07:16:22Z,Efficient and Error-Correcting Data Structures for Membership and   Polynomial Evaluation,Ronald de Wolf,cs.DS,http://arxiv.org/pdf/0909.3696v2
+0909.4224v1,2009-09-23T15:01:24Z,Breaking the 2^n-Barrier for Irredundance: A Parameterized Route to   Solving Exact Puzzles,Dieter Kratsch Alexander Langer Mathieu Liedloff Daniel Raible Peter Rossmanith,cs.DS,http://arxiv.org/pdf/0909.4224v1
+0909.4341v1,2009-09-24T18:23:20Z,Lightweight Data Indexing and Compression in External Memory,Giovanni Manzini,cs.DS,http://arxiv.org/pdf/0909.4341v1
+0909.4369v1,2009-09-24T06:01:25Z,Exploration of Periodically Varying Graphs,Nicola Santoro,cs.DS,http://arxiv.org/pdf/0909.4369v1
+0909.4893v2,2009-09-26T20:24:19Z,Range Non-Overlapping Indexing,Ely Porat,cs.DS,http://arxiv.org/pdf/0909.4893v2
+0909.4969v1,2009-09-27T22:36:17Z,MACH: Fast Randomized Tensor Decompositions,Charalampos E. Tsourakakis,cs.DS,http://arxiv.org/pdf/0909.4969v1
+0909.5146v3,2009-09-28T17:13:56Z,Fast Set Intersection and Two Patterns Matching,Ely Porat,cs.DS,http://arxiv.org/pdf/0909.5146v3
+0909.5278v2,2009-09-29T07:13:39Z,Finding Induced Subgraphs via Minimal Triangulations,Yngve Villanger,cs.DS,http://arxiv.org/pdf/0909.5278v2
+0911.0174v1,2009-11-02T20:24:05Z,A O(E) Time Shortest Path Algorithm For Non Negative Weighted Undirected   Graphs,Rehan Akbar,cs.DS,http://arxiv.org/pdf/0911.0174v1
+0911.0397v1,2009-11-02T20:01:19Z,Algorithm as Defining Dynamic Systems,Hong Pyo Ha,cs.DS,http://arxiv.org/pdf/0911.0397v1
+0911.0577v2,2009-11-03T13:35:41Z,Fast Arc-Annotated Subsequence Matching in Linear Space,Inge Li Goertz,cs.DS,http://arxiv.org/pdf/0911.0577v2
+0911.1626v2,2009-11-09T10:29:49Z,Fast Approximation in Subspaces by Doubling Metric Decomposition,Piotr Sankowski,cs.DS,http://arxiv.org/pdf/0911.1626v2
+0911.1765v1,2009-11-09T23:35:41Z,GEDI: Scalable Algorithms for Genotype Error Detection and Imputation,Bogdan Pasaniuc,cs.DS,http://arxiv.org/pdf/0911.1765v1
+0911.2924v2,2009-11-16T07:43:41Z,Synthesizing Minimal Tile Sets for Patterned DNA Self-Assembly,Pekka Orponen,cs.DS,http://arxiv.org/pdf/0911.2924v2
+0911.3355v1,2009-11-17T17:34:23Z,A Minimal Periods Algorithm with Applications,Zhi Xu,cs.DS,http://arxiv.org/pdf/0911.3355v1
+0911.4384v3,2009-11-23T12:16:15Z,Ptolemaic Indexing,Magnus Lie Hetland,cs.DS,http://arxiv.org/pdf/0911.4384v3
+0911.4544v1,2009-11-24T05:27:19Z,Improved Algorithm for Degree Bounded Survivable Network Design Problem,Nisheeth Vishnoi,cs.DS,http://arxiv.org/pdf/0911.4544v1
+0911.4981v4,2009-11-25T23:31:23Z,Efficient Fully-Compressed Sequence Representations,Yakov Nekrich,cs.DS,http://arxiv.org/pdf/0911.4981v4
+0911.5031v2,2009-11-26T08:49:48Z,An $O(n^2)$ Algorithm for Computing Longest Common Cyclic Subsequence,M. Sohel Rahman,cs.DS,http://arxiv.org/pdf/0911.5031v2
+0911.5094v1,2009-11-26T14:43:31Z,Faster FAST(Feedback Arc Set in Tournaments),Uriel Feige,cs.DS,http://arxiv.org/pdf/0911.5094v1
+0911.5143v1,2009-11-26T19:19:53Z,Approximation Schemes for Steiner Forest on Planar Graphs and Graphs of   Bounded Treewidth,Dániel Marx,cs.DS,http://arxiv.org/pdf/0911.5143v1
+0912.0287v3,2009-12-01T22:23:48Z,Tight Thresholds for Cuckoo Hashing via XORSAT,Michael Rink,cs.DS,http://arxiv.org/pdf/0912.0287v3
+0912.0322v4,2009-12-02T02:02:27Z,"Submodular Functions: Extensions, Distributions, and Algorithms. A   Survey",Shaddin Dughmi,cs.DS,http://arxiv.org/pdf/0912.0322v4
+0912.0681v3,2009-12-03T15:20:59Z,A Local Spectral Method for Graphs: with Applications to Improving Graph   Partitions and Exploring Data Graphs Locally,Nisheeth K. Vishnoi,cs.DS,http://arxiv.org/pdf/0912.0681v3
+0912.0850v4,2009-12-04T13:17:22Z,Grammar-Based Compression in a Streaming Model,Pawel Gawrychowski,cs.DS,http://arxiv.org/pdf/0912.0850v4
+0912.0975v1,2009-12-05T03:31:07Z,An expected-case sub-cubic solution to the all-pairs shortest path   problem in R,Tibério S. Caetano,cs.DS,http://arxiv.org/pdf/0912.0975v1
+0912.1045v3,2009-12-05T19:04:49Z,Thresholded Covering Algorithms for Robust and Max-Min Optimization,R. Ravi,cs.DS,http://arxiv.org/pdf/0912.1045v3
+0912.1137v1,2009-12-06T21:15:49Z,Euclidean Prize-collecting Steiner Forest,MohammadTaghi Hajiaghayi,cs.DS,http://arxiv.org/pdf/0912.1137v1
+0912.2269v4,2009-12-11T16:07:20Z,Computing a Discrete Logarithm in O(n^3),Charles Sauerbier,cs.DS,http://arxiv.org/pdf/0912.2269v4
+0912.2813v2,2009-12-15T07:21:33Z,Combining Partial Order Alignment and Progressive Near-Optimal Alignment,Dai Tri Man Le,cs.DS,http://arxiv.org/pdf/0912.2813v2
+0912.3188v2,2009-12-16T16:46:55Z,Robust Fault Tolerant uncapacitated facility location,David Peleg,cs.DS,http://arxiv.org/pdf/0912.3188v2
+0912.3963v1,2009-12-20T02:32:42Z,Fast Fraction-Integer Method for Computing Multiplicative Inverse,Nidal F. Shilbayeh,cs.DS,http://arxiv.org/pdf/0912.3963v1
+0912.4569v2,2009-12-23T09:56:50Z,Continuous Monitoring of Distributed Data Streams over a Time-based   Sliding Window,Hing-Fung Ting,cs.DS,http://arxiv.org/pdf/0912.4569v2
+0912.4798v1,2009-12-24T06:04:15Z,Demand-Supply Optimization with Risk Management for a Multi-Connection   Water Reservoir Network,Thavivongse Sriburi,cs.DS,http://arxiv.org/pdf/0912.4798v1
+0912.5424v3,2009-12-30T07:55:20Z,Backyard Cuckoo Hashing: Constant Worst-Case Operations with a Succinct   Representation,Gil Segev,cs.DS,http://arxiv.org/pdf/0912.5424v3
+0912.5473v1,2009-12-30T14:42:30Z,A Variable Depth Sequential Search Heuristic for the Quadratic   Assignment Problem,Gerald Paul,cs.DS,http://arxiv.org/pdf/0912.5473v1
+1001.0639v1,2010-01-05T07:29:11Z,Optimal Exploration of Terrains with Obstacles,Andrzej Pelc,cs.DS,http://arxiv.org/pdf/1001.0639v1
+1001.0824v2,2010-01-06T07:02:30Z,Approximate Shortest Paths Avoiding a Failed Vertex: Optimal Size Data   Structures for Unweighted Graph,Neelesh Khanna Surender Baswana,cs.DS,http://arxiv.org/pdf/1001.0824v2
+1001.0920v2,2010-01-06T15:54:38Z,Online Correlation Clustering,Warren Schudy,cs.DS,http://arxiv.org/pdf/1001.0920v2
+1001.0961v3,2010-01-06T20:38:17Z,Computing a Frobenius Coin Problem decision problem in O(n^2),Charles Sauerbier,cs.DS,http://arxiv.org/pdf/1001.0961v3
+1001.1565v3,2010-01-11T20:29:41Z,Random Access to Grammar Compressed Strings,Oren Weimann,cs.DS,http://arxiv.org/pdf/1001.1565v3
+1001.1819v2,2010-01-12T08:48:17Z,Genealogical Information Search by Using Parent Bidirectional Breadth   Algorithm and Rule Based Relationship,Phayung Meesad,cs.DS,http://arxiv.org/pdf/1001.1819v2
+1001.2101v3,2010-01-13T09:18:24Z,Sampled Longest Common Prefix Array,Jouni Sirén,cs.DS,http://arxiv.org/pdf/1001.2101v3
+1001.2860v2,2010-01-16T22:10:57Z,Succinct Dictionary Matching With No Slowdown,Djamal Belazzougui,cs.DS,http://arxiv.org/pdf/1001.2860v2
+1001.2891v1,2010-01-17T13:31:39Z,Detecting High Log-Densities -- an O(n^1/4) Approximation for Densest   k-Subgraph,Aravindan Vijayaraghavan,cs.DS,http://arxiv.org/pdf/1001.2891v1
+1001.3044v2,2010-01-18T12:51:04Z,Dynamic sharing of a multiple access channel,Dariusz R. Kowalski,cs.DS,http://arxiv.org/pdf/1001.3044v2
+1001.3493v1,2010-01-20T08:00:12Z,Posynomial Geometric Programming Problems with Multiple Parameters,K. K. Biswal,cs.DS,http://arxiv.org/pdf/1001.3493v1
+1001.3713v1,2010-01-21T03:13:44Z,On Fast Algorithm for Computing Even-Length DCT,Yuriy A. Reznik,cs.DS,http://arxiv.org/pdf/1001.3713v1
+1001.4420v3,2010-01-25T13:40:57Z,The Complexity of Flood Filling Games,Benjamin Sach,cs.DS,http://arxiv.org/pdf/1001.4420v3
+1001.5076v2,2010-01-28T00:51:03Z,Online Stochastic Packing Applied to Display Ad Allocation,Cliff Stein,cs.DS,http://arxiv.org/pdf/1001.5076v2
+1002.0046v3,2010-01-30T06:24:13Z,Multi-dimensional Boltzmann Sampling of Languages,Yann Ponty,cs.DS,http://arxiv.org/pdf/1002.0046v3
+1002.0874v1,2010-02-04T01:20:12Z,MADMX: A Novel Strategy for Maximal Dense Motif Extraction,Fabio Vandin,cs.DS,http://arxiv.org/pdf/1002.0874v1
+1002.1021v1,2010-02-04T15:27:41Z,Heuristic Contraction Hierarchies with Approximation Guarantee,Robert Geisberger,cs.DS,http://arxiv.org/pdf/1002.1021v1
+1002.1292v2,2010-02-05T18:15:15Z,Mod/Resc Parsimony Inference,Marie-France Sagot,cs.DS,http://arxiv.org/pdf/1002.1292v2
+1002.2147v1,2010-02-10T17:48:15Z,Optimization with More than One Budget,Rico Zenklusen,cs.DS,http://arxiv.org/pdf/1002.2147v1
+1002.4005v1,2010-02-21T19:43:45Z,Improved NSGA-II Based on a Novel Ranking Scheme,A. Kandasamy,cs.DS,http://arxiv.org/pdf/1002.4005v1
+1002.4034v1,2010-02-22T01:26:19Z,On constant factor approximation for earth mover distance over doubling   metrics,Shi Li,cs.DS,http://arxiv.org/pdf/1002.4034v1
+1002.4330v1,2010-02-23T13:43:34Z,Defining and Computing Alternative Routes in Road Networks,Roland Bader,cs.DS,http://arxiv.org/pdf/1002.4330v1
+1002.5034v2,2010-02-26T17:52:28Z,Threshold rules for online sample selection,Seeun Umboh,cs.DS,http://arxiv.org/pdf/1002.5034v2
+1004.0351v1,2010-04-02T15:51:33Z,An Oblivious Spanning Tree for Buy-at-Bulk Network Design Problems,S. S. Iyengar,cs.DS,http://arxiv.org/pdf/1004.0351v1
+1004.0403v1,2010-04-03T00:07:00Z,CONCISE: Compressed 'n' Composable Integer Set,Roberto Di Pietro,cs.DS,http://arxiv.org/pdf/1004.0403v1
+1004.0424v2,2010-04-03T07:14:53Z,Restricted Common Superstring and Restricted Common Supersequence,Alexandru Popa,cs.DS,http://arxiv.org/pdf/1004.0424v2
+1004.0995v1,2010-04-07T02:21:21Z,Strong Fault-Tolerance for Self-Assembly with Fuzzy Temperature,Scott M. Summers,cs.DS,http://arxiv.org/pdf/1004.0995v1
+1004.1194v1,2010-04-07T21:24:27Z,Unified Compression-Based Acceleration of Edit-Distance Computation,Oren Weimann,cs.DS,http://arxiv.org/pdf/1004.1194v1
+1004.1208v1,2010-04-07T23:29:43Z,A Deterministic Algorithm for the Vertex Connectivity Survivable Network   Design Problem,Pushkar Tripathi,cs.DS,http://arxiv.org/pdf/1004.1208v1
+1004.1672v2,2010-04-10T03:05:53Z,On Feedback Vertex Set: New Measure and New Structures,Yang Liu,cs.DS,http://arxiv.org/pdf/1004.1672v2
+1004.1808v6,2010-04-11T13:41:39Z,Polynomial Time Algorithm for Graph Isomorphism Testing,Michael I. Trofimov,cs.DS,http://arxiv.org/pdf/1004.1808v6
+1004.1823v1,2010-04-11T17:36:33Z,Clustering with Spectral Norm and the k-means Algorithm,Ravindran Kannan,cs.DS,http://arxiv.org/pdf/1004.1823v1
+1004.2033v1,2010-04-12T19:43:20Z,Feasibility Analysis of Sporadic Real-Time Multiprocessor Task Systems,Alberto Marchetti-Spaccamela,cs.DS,http://arxiv.org/pdf/1004.2033v1
+1004.2393v3,2010-04-14T13:34:03Z,On the Continuous CNN Problem,Nick Gravin,cs.DS,http://arxiv.org/pdf/1004.2393v3
+1004.2968v2,2010-04-17T16:30:08Z,Clustering with diversity,Qin Zhang,cs.DS,http://arxiv.org/pdf/1004.2968v2
+1004.3205v2,2010-04-19T14:19:56Z,Differential Privacy and the Fat-Shattering Dimension of Linear Queries,Aaron Roth,cs.DS,http://arxiv.org/pdf/1004.3205v2
+1004.3363v5,2010-04-20T07:06:38Z,Faster Algorithms for Semi-Matching Problems,Danupon Nanongkai,cs.DS,http://arxiv.org/pdf/1004.3363v5
+1004.3702v29,2010-04-12T04:39:27Z,A Polynomial time Algorithm for Hamilton Cycle and Its detailed proof,Lizhi Du,cs.DS,http://arxiv.org/pdf/1004.3702v29
+1004.4024v1,2010-04-22T22:59:53Z,n-Level Graph Partitioning,Peter Sanders,cs.DS,http://arxiv.org/pdf/1004.4024v1
+1004.4057v1,2010-04-23T06:53:25Z,Efficient volume sampling for row/column subset selection,Luis Rademacher,cs.DS,http://arxiv.org/pdf/1004.4057v1
+1004.4080v1,2010-04-23T09:36:13Z,A General Framework for Graph Sparsification,Debmalya Panigrahi,cs.DS,http://arxiv.org/pdf/1004.4080v1
+1004.4240v1,2010-04-23T23:57:17Z,A Sparse Johnson--Lindenstrauss Transform,Tamás Sarlós,cs.DS,http://arxiv.org/pdf/1004.4240v1
+1004.4420v1,2010-04-26T07:41:35Z,Optimal Data Placement on Networks With Constant Number of Clients,Vassilis Zissimopoulos,cs.DS,http://arxiv.org/pdf/1004.4420v1
+1004.4915v1,2010-04-27T21:05:00Z,Graph Sparsification via Refinement Sampling,Sanjeev Khanna,cs.DS,http://arxiv.org/pdf/1004.4915v1
+1004.5010v2,2010-04-28T12:20:52Z,The stubborn problem is stubborn no more (a polynomial algorithm for   3-compatible colouring and the stubborn list partition problem),Jakub Onufry Wojtaszczyk,cs.DS,http://arxiv.org/pdf/1004.5010v2
+1004.5012v1,2010-04-28T12:29:28Z,Bandwidth and Distortion Revisited,Marcin Pilipczuk,cs.DS,http://arxiv.org/pdf/1004.5012v1
+1004.5186v1,2010-04-29T05:31:40Z,Multiscale approach for the network compression-friendly ordering,Boris Temkin,cs.DS,http://arxiv.org/pdf/1004.5186v1
+1004.5600v1,2010-04-30T19:42:14Z,On the (Im)possibility of Preserving Utility and Privacy in Personalized   Social Recommendations,Atish Das Sarma,cs.DS,http://arxiv.org/pdf/1004.5600v1
+1007.0217v1,2010-07-01T17:09:00Z,A Bound on the Sum of Weighted Pairwise Distances of Points Constrained   to Balls,Neal E. Young,cs.DS,http://arxiv.org/pdf/1007.0217v1
+1007.0372v1,2010-07-02T14:22:26Z,Randomized Rounding for Routing and Covering Problems: Experiments and   Improvements,Magnus Wahlström,cs.DS,http://arxiv.org/pdf/1007.0372v1
+1007.0501v1,2010-07-03T16:17:35Z,An Improved Neighbourhood for the Traveling Tournament Problem,Glenn Langford,cs.DS,http://arxiv.org/pdf/1007.0501v1
+1007.1161v1,2010-07-07T15:08:09Z,Narrow sieves for parameterized paths and packings,Mikko Koivisto,cs.DS,http://arxiv.org/pdf/1007.1161v1
+1007.1166v2,2010-07-07T15:25:27Z,Using CSP To Improve Deterministic 3-SAT,Dominik Scheder,cs.DS,http://arxiv.org/pdf/1007.1166v2
+1007.1271v1,2010-07-08T01:04:12Z,Online Vertex-Weighted Bipartite Matching and Single-bid Budgeted   Allocations,Aranyak Mehta,cs.DS,http://arxiv.org/pdf/1007.1271v1
+1007.1484v1,2010-07-08T23:24:59Z,Flows in One-Crossing-Minor-Free Graphs,David Eppstein,cs.DS,http://arxiv.org/pdf/1007.1484v1
+1007.1535v3,2010-07-09T09:05:38Z,An Optimal Lower Bound for Buffer Management in Multi-Queue Switches,Marcin Bienkowski,cs.DS,http://arxiv.org/pdf/1007.1535v3
+1007.1632v1,2010-07-09T17:31:43Z,Submodular Maximization by Simulated Annealing,Jan Vondrák,cs.DS,http://arxiv.org/pdf/1007.1632v1
+1007.1673v2,2010-07-09T20:40:42Z,Online Stochastic Matching: Online Actions Based on Offline Statistics,Amin Saberi,cs.DS,http://arxiv.org/pdf/1007.1673v2
+1007.2140v1,2010-07-13T16:46:51Z,Symmetric Submodular Function Minimization Under Hereditary Family   Constraints,José A. Soto,cs.DS,http://arxiv.org/pdf/1007.2140v1
+1007.2152v1,2010-07-13T17:09:33Z,Matroid Secretary Problem in the Random Assignment Model,José A. Soto,cs.DS,http://arxiv.org/pdf/1007.2152v1
+1007.2216v1,2010-07-13T22:06:16Z,Faster Replacement Paths,Virginia Vassilevska Williams,cs.DS,http://arxiv.org/pdf/1007.2216v1
+1007.2365v1,2010-07-14T16:02:37Z,Heapable Sequences and Subsequences,Georgios Zervas,cs.DS,http://arxiv.org/pdf/1007.2365v1
+1007.2503v1,2010-07-15T08:42:04Z,Ranking with Submodular Valuations,Iftah Gamzu,cs.DS,http://arxiv.org/pdf/1007.2503v1
+1007.2618v2,2010-07-15T17:09:54Z,Sublinear Time Motif Discovery from Multiple Sequences,Yunhui Fu,cs.DS,http://arxiv.org/pdf/1007.2618v2
+1007.2671v1,2010-07-15T22:34:59Z,XML Reconstruction View Selection in XML Databases: Complexity Analysis   and Approximation Scheme,Bin Fu,cs.DS,http://arxiv.org/pdf/1007.2671v1
+1007.3036v2,2010-07-18T20:23:19Z,Greedy algorithm for stochastic matching is a 2-approximation,Marek Adamczyk,cs.DS,http://arxiv.org/pdf/1007.3036v2
+1007.3157v1,2010-07-19T14:35:50Z,Enhanced Random Walk with Choice: An Empirical Study,Gregory Karagiorgos 'and' Ioannis Stavrakakis,cs.DS,http://arxiv.org/pdf/1007.3157v1
+1007.3292v1,2010-07-19T21:44:55Z,Lower Bounds on Query Complexity for Testing Bounded-Degree CSPs,Yuichi Yoshida,cs.DS,http://arxiv.org/pdf/1007.3292v1
+1007.3415v1,2010-07-20T13:28:50Z,Searching in Dynamic Catalogs on a Tree,Yakov Nekrich,cs.DS,http://arxiv.org/pdf/1007.3415v1
+1007.3611v2,2010-07-21T10:48:52Z,LP-rounding algorithms for facility-location problems,Aravind Srinivasan,cs.DS,http://arxiv.org/pdf/1007.3611v2
+1007.3747v1,2010-07-21T20:06:13Z,Scheduling to Minimize Energy and Flow Time in Broadcast Scheduling,Benjamin Moseley,cs.DS,http://arxiv.org/pdf/1007.3747v1
+1007.4011v1,2010-07-22T21:14:40Z,On the (non-)existence of polynomial kernels for Pl-free edge   modification problems,Anthony Perez,cs.DS,http://arxiv.org/pdf/1007.4011v1
+1007.4191v1,2010-07-23T19:31:06Z,Fast Moment Estimation in Data Streams in Optimal Space,David P. Woodruff,cs.DS,http://arxiv.org/pdf/1007.4191v1
+1007.5318v3,2010-07-29T20:07:49Z,Intrinsic Dimensionality,Vladimir Pestov,cs.DS,http://arxiv.org/pdf/1007.5318v3
+1007.5406v1,2010-07-30T10:14:21Z,Tree structure compression with RePair,Roy Mennicke,cs.DS,http://arxiv.org/pdf/1007.5406v1
+1007.5475v1,2010-07-30T15:25:17Z,Balanced Combinations of Solutions in Multi-Objective Optimization,Maximilian Witek,cs.DS,http://arxiv.org/pdf/1007.5475v1
+1008.0501v1,2010-08-03T09:59:29Z,Quasi-Random Rumor Spreading: Reducing Randomness Can Be Costly,Mahmoud Fouz,cs.DS,http://arxiv.org/pdf/1008.0501v1
+1008.0541v1,2010-08-03T13:10:49Z,Determinant Sums for Undirected Hamiltonicity,Andreas Björklund,cs.DS,http://arxiv.org/pdf/1008.0541v1
+1008.0587v1,2010-08-03T16:28:10Z,Row Sampling for Matrix Algorithms via a Non-Commutative Bernstein Bound,Malik Magdon-Ismail,cs.DS,http://arxiv.org/pdf/1008.0587v1
+1008.1480v1,2010-08-09T10:21:33Z,"Fast, precise and dynamic distance queries",Liam Roditty,cs.DS,http://arxiv.org/pdf/1008.1480v1
+1008.1687v1,2010-08-10T10:54:31Z,A Deterministic Polynomial-time Approximation Scheme for Counting   Knapsack Solutions,Eric Vigoda,cs.DS,http://arxiv.org/pdf/1008.1687v1
+1008.1975v4,2010-08-11T19:35:38Z,Fast Approximation Algorithms for Cut-based Problems in Undirected   Graphs,Aleksander Madry,cs.DS,http://arxiv.org/pdf/1008.1975v4
+1008.3091v1,2010-08-18T13:56:12Z,2-FREE-FLOOD-IT is polynomial,Aurelie Lagoutte,cs.DS,http://arxiv.org/pdf/1008.3091v1
+1008.3216v1,2010-08-19T04:51:15Z,An approximation algorithm for the total cover problem,Pooya Hatami,cs.DS,http://arxiv.org/pdf/1008.3216v1
+1008.3503v1,2010-08-20T13:52:33Z,Maximum Betweenness Centrality: Approximability and Tractable Cases,Joachim Spoerhase,cs.DS,http://arxiv.org/pdf/1008.3503v1
+1008.3672v5,2010-08-22T01:09:56Z,Prediction strategies without loss,Rina Panigrahy,cs.DS,http://arxiv.org/pdf/1008.3672v5
+1008.4250v3,2010-08-25T10:44:39Z,Cluster Editing: Kernelization based on Edge Cuts,Jianer Chen,cs.DS,http://arxiv.org/pdf/1008.4250v3
+1008.4889v1,2010-08-28T20:00:24Z,The Geometry of Scheduling,Kirk Pruhs,cs.DS,http://arxiv.org/pdf/1008.4889v1
+1008.5356v1,2010-08-31T16:36:56Z,When LP is the Cure for Your Matching Woes: Improved Bounds for   Stochastic Matchings,Atri Rudra,cs.DS,http://arxiv.org/pdf/1008.5356v1
+1009.0670v1,2010-09-03T13:49:47Z,Grammar-Based Geodesics in Semantic Networks,Jennifer H. Watkins,cs.DS,http://arxiv.org/pdf/1009.0670v1
+1009.0783v1,2010-09-03T22:58:10Z,Extended h-Index Parameterized Data Structures for Computing Dynamic   Subgraph Statistics,Lowell Trott,cs.DS,http://arxiv.org/pdf/1009.0783v1
+1009.0806v1,2010-09-04T05:39:41Z,A Quartic Kernel for Pathwidth-One Vertex Deletion,Yngve Villanger,cs.DS,http://arxiv.org/pdf/1009.0806v1
+1009.0909v2,2010-09-05T12:02:26Z,Comparing Pedigree Graphs,Richard M. Karp,cs.DS,http://arxiv.org/pdf/1009.0909v2
+1009.1381v1,2010-09-07T19:57:23Z,A Branch-and-Reduce Algorithm for Finding a Minimum Independent   Dominating Set,Mathieu Liedloff,cs.DS,http://arxiv.org/pdf/1009.1381v1
+1009.1697v1,2010-09-09T07:41:22Z,One method of storing information,Oleg Titov,cs.DS,http://arxiv.org/pdf/1009.1697v1
+1009.2109v2,2010-09-10T21:46:39Z,Maximizing the Total Resolution of Graphs,Antonios Symvonis,cs.DS,http://arxiv.org/pdf/1009.2109v2
+1009.2322v1,2010-09-13T08:36:19Z,Deterministic Online Call Control in Cellular Networks and Triangle-Free   Cellular Networks,Yong Zhang,cs.DS,http://arxiv.org/pdf/1009.2322v1
+1009.2452v1,2010-09-13T17:04:34Z,Facility Location with Client Latencies: Linear-Programming based   Techniques for Minimum-Latency Problems,Chaitanya Swamy,cs.DS,http://arxiv.org/pdf/1009.2452v1
+1009.2591v1,2010-09-14T08:31:31Z,Popularity at Minimum Cost,Prajakta Nimbhorkar,cs.DS,http://arxiv.org/pdf/1009.2591v1
+1009.3502v1,2010-09-17T20:25:56Z,Simultaneous Interval Graphs,Anna Lubiw,cs.DS,http://arxiv.org/pdf/1009.3502v1
+1009.3594v2,2010-09-18T22:57:43Z,Center-based Clustering under Perturbation Stability,Or Sheffet,cs.DS,http://arxiv.org/pdf/1009.3594v2
+1009.3809v2,2010-09-20T13:11:52Z,"One, Two, Three and N Dimensional String Search Algorithms",Ramesh C. Bagadi,cs.DS,http://arxiv.org/pdf/1009.3809v2
+1009.4214v2,2010-09-21T20:59:51Z,A Versatile Algorithm to Generate Various Combinatorial Structures,Rama B,cs.DS,http://arxiv.org/pdf/1009.4214v2
+1009.4355v1,2010-09-22T13:14:51Z,The Sorting Buffer Problem is NP-hard,Rene Sitters,cs.DS,http://arxiv.org/pdf/1009.4355v1
+1009.4517v2,2010-09-23T04:24:51Z,Testing Simultaneous Planarity when the Common Graph is 2-Connected,Anna Lubiw,cs.DS,http://arxiv.org/pdf/1009.4517v2
+1009.4529v1,2010-09-23T07:12:49Z,A PTAS for Scheduling with Tree Assignment Restrictions,Ulrich M. Schwarz,cs.DS,http://arxiv.org/pdf/1009.4529v1
+1009.4830v3,2010-09-24T13:06:34Z,Improving PPSZ for 3-SAT using Critical Variables,Dominik Scheder,cs.DS,http://arxiv.org/pdf/1009.4830v3
+1009.4880v1,2010-09-24T16:05:29Z,An Efficient Implementation of the Robust Tabu Search Heuristic for   Sparse Quadratic Assignment Problems,Gerald Paul,cs.DS,http://arxiv.org/pdf/1009.4880v1
+1009.5143v2,2010-09-27T02:29:59Z,FAST: Kernelization based on Graph Modular Decomposition,Jianer Chen,cs.DS,http://arxiv.org/pdf/1009.5143v2
+1009.5168v2,2010-09-27T06:29:35Z,Efficient Clustering with Limited Distance Information,Yu Xia,cs.DS,http://arxiv.org/pdf/1009.5168v2
+1009.5227v1,2010-09-27T11:33:39Z,The Straight-Line RAC Drawing Problem is NP-Hard,Antonios Symvonis,cs.DS,http://arxiv.org/pdf/1009.5227v1
+1009.5538v1,2010-09-28T11:48:57Z,Priority Queues with Multiple Time Fingers,John Iacono,cs.DS,http://arxiv.org/pdf/1009.5538v1
+1009.5787v1,2010-09-29T07:17:38Z,List Factoring and Relative Worst Order Analysis,Kim S. Larsen,cs.DS,http://arxiv.org/pdf/1009.5787v1
+1009.5791v1,2010-09-29T07:32:27Z,Fast Pseudo-Random Fingerprints,Ely Porat,cs.DS,http://arxiv.org/pdf/1009.5791v1
+1009.5863v1,2010-09-29T12:28:52Z,"LRM-Trees: Compressed Indices, Adaptive Sorting, and Compressed   Permutations",Johannes Fischer,cs.DS,http://arxiv.org/pdf/1009.5863v1
+1010.0141v1,2010-09-30T18:38:11Z,L1 Projections with Box Constraints,Jing Xiao,cs.DS,http://arxiv.org/pdf/1010.0141v1
+1010.0157v1,2010-10-01T13:29:22Z,Comparative Performance of Tabu Search and Simulated Annealing   Heuristics for the Quadratic Assignment Problem,Gerald Paul,cs.DS,http://arxiv.org/pdf/1010.0157v1
+1010.0401v1,2010-10-03T13:43:00Z,Oblivious Buy-at-Bulk in Planar Graphs,S. S. Iyengar,cs.DS,http://arxiv.org/pdf/1010.0401v1
+1010.0406v1,2010-10-03T14:05:40Z,Oblivious Algorithms for the Maximum Directed Cut Problem,Shlomo Jozeph,cs.DS,http://arxiv.org/pdf/1010.0406v1
+1010.0809v1,2010-10-05T09:20:50Z,Engineering Time-dependent One-To-All Computation,Robert Geisberger,cs.DS,http://arxiv.org/pdf/1010.0809v1
+1010.1047v1,2010-10-06T02:14:09Z,Cut-Matching Games on Directed Graphs,Anand Louis,cs.DS,http://arxiv.org/pdf/1010.1047v1
+1010.2833v1,2010-10-14T06:16:46Z,Improved Complexity Bound of Vertex Cover for Low degree Graph,Weiwei Cao,cs.DS,http://arxiv.org/pdf/1010.2833v1
+1010.2885v1,2010-10-14T11:52:33Z,Improved approximations for robust mincut and shortest path,Mikko Sysikaski,cs.DS,http://arxiv.org/pdf/1010.2885v1
+1010.3633v3,2010-10-18T15:42:32Z,Fixed-parameter tractability of multicut parameterized by the size of   the cutset,Igor Razgon,cs.DS,http://arxiv.org/pdf/1010.3633v3
+1010.3685v1,2010-10-18T19:09:11Z,The set of realizations of a max-plus linear sequence is semi-polyhedral,Natacha Portier,cs.DS,http://arxiv.org/pdf/1010.3685v1
+1010.4108v1,2010-10-20T06:37:28Z,Towards an SDP-based Approach to Spectral Methods: A Nearly-Linear-Time   Algorithm for Graph Partitioning and Decomposition,Nisheeth K. Vishnoi,cs.DS,http://arxiv.org/pdf/1010.4108v1
+1010.4110v2,2010-10-20T06:48:46Z,Energy-Efficient Multiprocessor Scheduling for Flow Time and Makespan,Rui Fan,cs.DS,http://arxiv.org/pdf/1010.4110v2
+1010.4925v1,2010-10-24T04:02:45Z,Property Testing via Set-Theoretic Operations,Ning Xie,cs.DS,http://arxiv.org/pdf/1010.4925v1
+1010.5197v3,2010-10-25T17:18:00Z,Multicut is FPT,Stéphan Thomassé,cs.DS,http://arxiv.org/pdf/1010.5197v3
+1010.5717v1,2010-10-27T15:38:24Z,PPZ For More Than Two Truth Values - An Algorithm for Constraint   Satisfaction Problems,Dominik Scheder,cs.DS,http://arxiv.org/pdf/1010.5717v1
+1010.5890v1,2010-10-28T08:53:26Z,Python for education: the exact cover problem,Andrzej Kapanowski,cs.DS,http://arxiv.org/pdf/1010.5890v1
+1010.5937v1,2010-10-28T12:19:53Z,Upward Point-Set Embeddability,Antonios Symvonis,cs.DS,http://arxiv.org/pdf/1010.5937v1
+1010.5974v1,2010-10-28T14:04:50Z,Feedback Vertex Set in Mixed Graphs,Daniel Lokshtanov,cs.DS,http://arxiv.org/pdf/1010.5974v1
+1011.0108v11,2010-10-30T21:47:19Z,An Active Learning Algorithm for Ranking from Pairwise Preferences with   an Almost Optimal Query Complexity,Nir Ailon,cs.DS,http://arxiv.org/pdf/1011.0108v11
+1011.0531v1,2010-11-02T07:48:15Z,A better tester for bipartiteness?,Fan Li,cs.DS,http://arxiv.org/pdf/1011.0531v1
+1011.1168v2,2010-11-04T14:22:11Z,Santa Claus Schedules Jobs on Unrelated Machines,Ola Svensson,cs.DS,http://arxiv.org/pdf/1011.1168v2
+1011.1202v1,2010-11-04T16:25:26Z,Hardness and Approximation of The Asynchronous Border Minimization   Problem,Fencol C. C. Yung,cs.DS,http://arxiv.org/pdf/1011.1202v1
+1011.1337v1,2010-11-05T08:16:42Z,Optimal Binary Search Trees with Near Minimal Height,Peter Becker,cs.DS,http://arxiv.org/pdf/1011.1337v1
+1011.1708v2,2010-11-08T04:10:42Z,CRAM: Compressed Random Access Memory,Wing-Kin Sung,cs.DS,http://arxiv.org/pdf/1011.1708v2
+1011.1827v1,2010-11-08T15:23:20Z,Finding topological subgraphs is fixed-parameter tractable,Paul Wollan,cs.DS,http://arxiv.org/pdf/1011.1827v1
+1011.2187v1,2010-11-09T20:18:56Z,Online Scheduling on Identical Machines using SRPT,Benjamin Moseley,cs.DS,http://arxiv.org/pdf/1011.2187v1
+1011.2249v1,2010-11-10T01:31:44Z,Pareto Optimal Solutions for Smoothed Analysts,Ryan O'Donnell,cs.DS,http://arxiv.org/pdf/1011.2249v1
+1011.2480v1,2010-11-10T20:22:42Z,Spin-the-bottle Sort and Annealing Sort: Oblivious Sorting via   Round-robin Random Comparisons,Michael T. Goodrich,cs.DS,http://arxiv.org/pdf/1011.2480v1
+1011.2571v1,2010-11-11T06:07:18Z,Recursive Sketching For Frequency Moments,Rafail Ostrovsky,cs.DS,http://arxiv.org/pdf/1011.2571v1
+1011.2590v1,2010-11-11T08:13:15Z,"Rademacher Chaos, Random Eulerian Graphs and The Sparse   Johnson-Lindenstrauss Transform",Yuval Rabani,cs.DS,http://arxiv.org/pdf/1011.2590v1
+1011.2843v2,2010-11-12T08:45:01Z,Improved Minimum Cuts and Maximum Flows in Undirected Planar Graphs,Piotr Sankowski,cs.DS,http://arxiv.org/pdf/1011.2843v2
+1011.3441v2,2010-11-15T16:37:43Z,Worst case efficient single and multiple string matching in the Word-RAM   model,Djamal Belazzougui,cs.DS,http://arxiv.org/pdf/1011.3441v2
+1011.3480v1,2010-11-15T19:30:19Z,Counting Colours in Compressed Strings,Juha Kärkkäinen,cs.DS,http://arxiv.org/pdf/1011.3480v1
+1011.3491v2,2010-11-15T20:21:33Z,Pattern Kits,Leena Salmela,cs.DS,http://arxiv.org/pdf/1011.3491v2
+1011.3701v2,2010-11-16T14:14:17Z,Directed Spanners via Flow-Based Linear Programs,Robert Krauthgamer,cs.DS,http://arxiv.org/pdf/1011.3701v2
+1011.3770v2,2010-11-16T17:49:27Z,Optimal Lower Bounds for Universal and Differentially Private Steiner   Tree and TSP,Sanjeev Khanna,cs.DS,http://arxiv.org/pdf/1011.3770v2
+1011.3944v2,2010-11-17T11:19:31Z,Non-Orthodox Combinatorial Models Based on Discordant Structures,V. F. Romanov,cs.DS,http://arxiv.org/pdf/1011.3944v2
+1011.4465v1,2010-11-19T16:36:30Z,Compressed Transmission of Route Descriptions,Peter Sanders,cs.DS,http://arxiv.org/pdf/1011.4465v1
+1011.5200v2,2010-11-23T19:18:30Z,The Power of Simple Tabulation Hashing,Mikkel Thorup,cs.DS,http://arxiv.org/pdf/1011.5200v2
+1011.6181v2,2010-11-29T10:26:27Z,Computing the diameter polynomially faster than APSP,Raphael Yuster,cs.DS,http://arxiv.org/pdf/1011.6181v2
+1012.0032v1,2010-11-30T21:41:24Z,Testing of sequences by simulation,Balázs Novák,cs.DS,http://arxiv.org/pdf/1012.0032v1
+1012.0058v1,2010-11-30T22:59:46Z,Modelling dynamic programming problems by generalized d-graphs,Zoltán Kátai,cs.DS,http://arxiv.org/pdf/1012.0058v1
+1012.0256v2,2010-12-01T17:48:48Z,Weighted Random Sampling over Data Streams,Pavlos S. Efraimidis,cs.DS,http://arxiv.org/pdf/1012.0256v2
+1012.0259v1,2010-12-01T18:00:01Z,"(α, β) Fibonacci Search",Pavlos S. Efraimidis,cs.DS,http://arxiv.org/pdf/1012.0259v1
+1012.0280v1,2010-12-01T19:53:05Z,String Matching with Inversions and Translocations in Linear Average   Time (Most of the Time),Emanuele Giaquinta,cs.DS,http://arxiv.org/pdf/1012.0280v1
+1012.1129v1,2010-12-06T11:09:44Z,Weighted random generation of context-free languages: Analysis of   collisions in random urn occupancy models,Yann Ponty,cs.DS,http://arxiv.org/pdf/1012.1129v1
+1012.1163v1,2010-12-06T13:14:36Z,Lower Bounds for the Smoothed Number of Pareto optimal Solutions,Heiko Roeglin,cs.DS,http://arxiv.org/pdf/1012.1163v1
+1012.1338v1,2010-12-06T21:16:37Z,On Tuning the Bad-Character Rule: the Worst-Character Rule,Simone Faro,cs.DS,http://arxiv.org/pdf/1012.1338v1
+1012.1850v1,2010-12-08T20:55:06Z,Capacitated Vehicle Routing with Non-Uniform Speeds,R. Ravi,cs.DS,http://arxiv.org/pdf/1012.1850v1
+1012.1886v2,2010-12-08T22:39:52Z,"Sublinear Time, Measurement-Optimal, Sparse Recovery For All",Martin J. Strauss,cs.DS,http://arxiv.org/pdf/1012.1886v2
+1012.2202v2,2010-12-10T08:31:21Z,Transforming a random graph drawing into a Lombardi drawing,Nicolaos Matsakis,cs.DS,http://arxiv.org/pdf/1012.2202v2
+1012.2547v1,2010-12-12T14:47:00Z,The Exact String Matching Problem: a Comprehensive Experimental   Evaluation,Thierry Lecroq,cs.DS,http://arxiv.org/pdf/1012.2547v1
+1012.2573v1,2010-12-12T18:47:05Z,Approximating Vertex Cover in Dense Hypergraphs,Claus Viehmann,cs.DS,http://arxiv.org/pdf/1012.2573v1
+1012.3011v1,2010-12-14T12:58:59Z,An Improved Algorithm for Bipartite Correlation Clustering,Edo Liberty,cs.DS,http://arxiv.org/pdf/1012.3011v1
+1012.3130v3,2010-12-14T18:52:58Z,How to Catch L_2-Heavy-Hitters on Sliding Windows,Rafail Ostrovsky,cs.DS,http://arxiv.org/pdf/1012.3130v3
+1012.3932v1,2010-12-17T17:26:31Z,Balanced Interval Coloring,Alexander Souza,cs.DS,http://arxiv.org/pdf/1012.3932v1
+1012.4231v1,2010-12-20T03:07:53Z,Computation in Large-Scale Scientific and Internet Data Applications is   a Focus of MMDS 2010,Michael W. Mahoney,cs.DS,http://arxiv.org/pdf/1012.4231v1
+1012.4263v1,2010-12-20T09:08:05Z,Lightweight LCP-Array Construction in Linear Time,Enno Ohlebusch,cs.DS,http://arxiv.org/pdf/1012.4263v1
+1012.4763v2,2010-12-21T18:41:19Z,A simple and practical algorithm for differentially private data release,Frank McSherry,cs.DS,http://arxiv.org/pdf/1012.4763v2
+1012.4938v1,2010-12-22T11:01:40Z,Join-Reachability Problems in Directed Graphs,Leonidas Palios,cs.DS,http://arxiv.org/pdf/1012.4938v1
+1012.4962v2,2010-12-22T13:05:51Z,Robust and MaxMin Optimization under Matroid and Knapsack Uncertainty   Sets,R. Ravi,cs.DS,http://arxiv.org/pdf/1012.4962v2
+1012.5024v1,2010-12-22T16:16:11Z,Shortest Paths with Pairwise-Distinct Edge Labels: Finding Biochemical   Pathways in Metabolic Networks,Michael Stelzer,cs.DS,http://arxiv.org/pdf/1012.5024v1
+1012.5330v2,2010-12-24T01:16:08Z,No-Break Dynamic Defragmentation of Reconfigurable Devices,Juergen Teich,cs.DS,http://arxiv.org/pdf/1012.5330v2
+1012.5911v2,2010-12-29T11:22:31Z,Near approximation of maximum weight matching through efficient weight   reduction,Cui Di,cs.DS,http://arxiv.org/pdf/1012.5911v2
+1101.0021v1,2010-12-29T23:32:39Z,Popular b-matchings,Katarzyna Paluch,cs.DS,http://arxiv.org/pdf/1101.0021v1
+1101.0056v1,2010-12-30T08:50:49Z,An Algorithm to Reduce the Time Complexity of Earliest Deadline First   Scheduling Algorithm in Real-Time System,Jagbeer Singh,cs.DS,http://arxiv.org/pdf/1101.0056v1
+1101.0080v3,2010-12-30T13:04:56Z,A Searchable Compressed Edit-Sensitive Parsing,Hiroshi Sakamoto,cs.DS,http://arxiv.org/pdf/1101.0080v3
+1101.1256v1,2011-01-06T17:05:50Z,Non-clairvoyant Scheduling Games,Nguyen Kim Thang,cs.DS,http://arxiv.org/pdf/1101.1256v1
+1101.1941v1,2011-01-10T20:15:03Z,On Parsimonious Explanations for 2-D Tree- and Linearly-Ordered Data,Yuval Rabani,cs.DS,http://arxiv.org/pdf/1101.1941v1
+1101.2973v5,2011-01-15T11:30:05Z,Maximizing Non-monotone Submodular Set Functions Subject to Different   Constraints: Combined Algorithms,MohammadAli Safari,cs.DS,http://arxiv.org/pdf/1101.2973v5
+1101.3182v2,2011-01-17T11:04:58Z,Multi-Stage Improved Route Planning Approach: theoretical foundations,Ondrej Moris,cs.DS,http://arxiv.org/pdf/1101.3182v2
+1101.3396v1,2011-01-18T08:14:47Z,Multi-objective Optimization For The Dynamic Multi-Pickup and Delivery   Problem with Time Windows,Mekki Ksouri,cs.DS,http://arxiv.org/pdf/1101.3396v1
+1101.3448v1,2011-01-18T12:58:02Z,Inducing the LCP-Array,Johannes Fischer,cs.DS,http://arxiv.org/pdf/1101.3448v1
+1101.3953v1,2011-01-20T16:39:00Z,Two Multivehicle Routing Problems with Unit-Time Windows,Barry Wittman,cs.DS,http://arxiv.org/pdf/1101.3953v1
+1101.3960v1,2011-01-20T16:51:55Z,Speedup in the Traveling Repairman Problem with Constrained Time Windows,Barry Wittman,cs.DS,http://arxiv.org/pdf/1101.3960v1
+1101.4065v1,2011-01-21T02:43:16Z,Self-Index Based on LZ77,Gonzalo Navarro,cs.DS,http://arxiv.org/pdf/1101.4065v1
+1101.4068v1,2011-01-21T03:23:57Z,Linear-Space Data Structures for Range Mode Query in Arrays,Jason Morrison,cs.DS,http://arxiv.org/pdf/1101.4068v1
+1101.4446v1,2011-01-24T05:35:05Z,High-Confidence Predictions under Adversarial Uncertainty,Andrew Drucker,cs.DS,http://arxiv.org/pdf/1101.4446v1
+1101.4491v3,2011-01-24T10:42:46Z,Conflict Packing: an unifying technique to obtain polynomial kernels for   editing problems on dense instances,Stéphan Thomassé,cs.DS,http://arxiv.org/pdf/1101.4491v3
+1101.5407v1,2011-01-27T22:48:51Z,Maintaining Arrays of Contiguous Objects,Nils Schweer,cs.DS,http://arxiv.org/pdf/1101.5407v1
+1101.5506v1,2011-01-28T11:08:46Z,Compressed String Dictionaries,Gonzalo Navarro,cs.DS,http://arxiv.org/pdf/1101.5506v1
+1101.5518v3,2011-01-28T11:51:32Z,The complexity of Free-Flood-It on 2xn boards,Alexander Scott,cs.DS,http://arxiv.org/pdf/1101.5518v3
+1101.5586v1,2011-01-28T17:45:05Z,A 4/3-approximation for TSP on cubic 3-edge-connected graphs,Swati Gupta,cs.DS,http://arxiv.org/pdf/1101.5586v1
+1101.5876v3,2011-01-31T08:42:14Z,The complexity of flood-filling games on graphs,Alexander Scott,cs.DS,http://arxiv.org/pdf/1101.5876v3
+1101.5944v2,2011-01-31T13:01:30Z,Random Walk on Directed Dynamic Graphs,Luis Rodrigues,cs.DS,http://arxiv.org/pdf/1101.5944v2
+1102.0041v2,2011-01-31T23:59:40Z,Consecutive Ones Property and PQ-Trees for Multisets: Hardness of   Counting Their Orderings,Noemi Scutellà,cs.DS,http://arxiv.org/pdf/1102.0041v2
+1102.0395v1,2011-02-02T10:20:58Z,Combined Data Structure for Previous- and Next-Smaller-Values,Johannes Fischer,cs.DS,http://arxiv.org/pdf/1102.0395v1
+1102.0471v2,2011-02-01T11:56:13Z,Matrix method for the multi salesmen problem (TSP) with several vehicles,Elena Ishkova,cs.DS,http://arxiv.org/pdf/1102.0471v2
+1102.0588v2,2011-02-02T23:39:57Z,Adaptive Population Models for Offspring Populations and Parallel   Evolutionary Algorithms,Dirk Sudholt,cs.DS,http://arxiv.org/pdf/1102.0588v2
+1102.1124v3,2011-02-06T04:53:31Z,A Polynomial Time Algorithm for a Special Case of Linear Integer   Programming,Yahya Tabesh,cs.DS,http://arxiv.org/pdf/1102.1124v3
+1102.1273v1,2011-02-07T11:09:34Z,One to Rule Them All: a General Randomized Algorithm for Buffer   Management with Bounded Delay,Łukasz Jeż,cs.DS,http://arxiv.org/pdf/1102.1273v1
+1102.1472v1,2011-02-07T23:40:58Z,Algorithms for Implicit Hitting Set Problems,Santosh Vempala,cs.DS,http://arxiv.org/pdf/1102.1472v1
+1102.1746v1,2011-02-08T23:11:17Z,Algorithms for Jumbled Pattern Matching in Strings,Zsuzsanna Lipták,cs.DS,http://arxiv.org/pdf/1102.1746v1
+1102.3393v1,2011-02-16T18:32:07Z,Better Bounds for Incremental Frequency Allocation in Bipartite Graphs,Jiří Sgall,cs.DS,http://arxiv.org/pdf/1102.3393v1
+1102.3491v1,2011-02-17T04:22:13Z,A simple PTAS for Weighted Matroid Matching on Strongly Base Orderable   Matroids,José A. Soto,cs.DS,http://arxiv.org/pdf/1102.3491v1
+1102.3537v1,2011-02-17T09:43:17Z,Even Better Framework for min-wise Based Algorithms,Ariel Shiftan,cs.DS,http://arxiv.org/pdf/1102.3537v1
+1102.3643v2,2011-02-17T17:43:08Z,A Constant Factor Approximation Algorithm for Unsplittable Flow on Paths,Andreas Wiese,cs.DS,http://arxiv.org/pdf/1102.3643v2
+1102.3749v1,2011-02-18T04:05:21Z,Approximation Algorithms for Correlated Knapsacks and Non-Martingale   Bandits,R. Ravi,cs.DS,http://arxiv.org/pdf/1102.3749v1
+1102.3813v2,2011-02-18T11:51:28Z,Efficient Algorithms for Dualizing Large-Scale Hypergraphs,Takeaki Uno,cs.DS,http://arxiv.org/pdf/1102.3813v2
+1102.4480v3,2011-02-22T12:20:18Z,LGM: Mining Frequent Subgraphs from Linear Graphs,Koji Tsuda,cs.DS,http://arxiv.org/pdf/1102.4480v3
+1102.4523v1,2011-02-22T14:47:19Z,On Dynamic Optimality for Binary Search Trees,Manoj Gupta,cs.DS,http://arxiv.org/pdf/1102.4523v1
+1102.4842v4,2011-02-23T20:53:03Z,A nearly-mlogn time solver for SDD linear systems,Richard Peng,cs.DS,http://arxiv.org/pdf/1102.4842v4
+1102.4884v3,2011-02-24T00:19:46Z,Upper Bounds for Maximally Greedy Binary Search Trees,Kyle Fox,cs.DS,http://arxiv.org/pdf/1102.4884v3
+1102.5105v1,2011-02-24T21:33:20Z,Approximation Algorithms for Union and Intersection Covering Problems,Piotr Sankowski,cs.DS,http://arxiv.org/pdf/1102.5105v1
+1102.5146v1,2011-02-25T03:39:45Z,Structure-Aware Sampling: Flexible and Accurate Summarization,Nick Duffield,cs.DS,http://arxiv.org/pdf/1102.5146v1
+1102.5441v2,2011-02-26T20:07:27Z,Obtaining a Bipartite Graph by Contracting Few Edges,Christophe Paul,cs.DS,http://arxiv.org/pdf/1102.5441v2
+1102.5450v1,2011-02-26T21:37:08Z,Minimum Makespan Multi-vehicle Dial-a-Ride,R. Ravi,cs.DS,http://arxiv.org/pdf/1102.5450v1
+1102.5540v2,2011-02-27T19:31:05Z,Hierarchical Heavy Hitters with the Space Saving Algorithm,Justin Thaler,cs.DS,http://arxiv.org/pdf/1102.5540v2
+1105.0187v1,2011-05-01T17:17:17Z,An Improved Move-To-Front(IMTF) Off-line Algorithm for the List   Accessing Problem,Sasmita Tripathy,cs.DS,http://arxiv.org/pdf/1105.0187v1
+1105.0464v3,2011-05-03T01:39:02Z,Improved Low-rank Matrix Decompositions via the Subsampled Randomized   Hadamard Transform,Christos Boutsidis,cs.DS,http://arxiv.org/pdf/1105.0464v3
+1105.0477v3,2011-05-03T05:25:14Z,The parameterized complexity of k-edge induced subgraphs,Yijia Chen,cs.DS,http://arxiv.org/pdf/1105.0477v3
+1105.0608v1,2011-05-03T15:27:00Z,A simpler and more efficient algorithm for the next-to-shortest path   problem,Bang Ye Wu,cs.DS,http://arxiv.org/pdf/1105.0608v1
+1105.0709v1,2011-05-04T00:19:49Z,Topics in Matrix Sampling Algorithms,Christos Boutsidis,cs.DS,http://arxiv.org/pdf/1105.0709v1
+1105.1569v1,2011-05-09T02:03:40Z,Practical and theoretical improvements for bipartite matching using the   pseudoflow algorithm,Dorit S. Hochbaum,cs.DS,http://arxiv.org/pdf/1105.1569v1
+1105.1622v1,2011-05-09T10:26:01Z,Computing Majority with Triple Queries,Gabor Wiener,cs.DS,http://arxiv.org/pdf/1105.1622v1
+1105.2391v4,2011-05-12T07:30:50Z,LP-Based Approximation Algorithms for Traveling Salesman Path Problems,David B. Shmoys,cs.DS,http://arxiv.org/pdf/1105.2391v4
+1105.2397v1,2011-05-12T07:57:28Z,"Incremental Cycle Detection, Topological Ordering, and Strong Component   Maintenance",Robert Endre Tarjan,cs.DS,http://arxiv.org/pdf/1105.2397v1
+1105.2686v2,2011-05-13T11:04:11Z,Smoothed Performance Guarantees for Local Search,Tjark Vredeveld,cs.DS,http://arxiv.org/pdf/1105.2686v2
+1105.2704v2,2011-05-13T12:21:17Z,Hitting and Harvesting Pumpkins,Stéphan Thomassé,cs.DS,http://arxiv.org/pdf/1105.2704v2
+1105.3748v1,2011-05-18T20:51:32Z,Scalably Scheduling Power-Heterogeneous Processors,Kirk Pruhs,cs.DS,http://arxiv.org/pdf/1105.3748v1
+1105.4250v1,2011-05-21T11:55:36Z,Approximating subset $k$-connectivity problems,Zeev Nutov,cs.DS,http://arxiv.org/pdf/1105.4250v1
+1105.5718v1,2011-05-28T14:28:30Z,Relational Schema Protocol (RSP),Vojtech Prehnal,cs.DS,http://arxiv.org/pdf/1105.5718v1
+1105.5915v2,2011-05-30T09:33:36Z,Algorithms for the minimum non-separating path and the balanced   connected bipartition problems on grid graphs (With erratum),Bang Ye Wu,cs.DS,http://arxiv.org/pdf/1105.5915v2
+1106.2294v1,2011-06-12T08:59:06Z,Unconstrained and Constrained Fault-Tolerant Resource Allocation,Hong Shen,cs.DS,http://arxiv.org/pdf/1106.2294v1
+1106.2301v2,2011-06-12T10:33:05Z,A simple algorithm for the evaluation of the hypergeometric series using   quasi-linear time and linear space,Sergey V. Yakhontov,cs.DS,http://arxiv.org/pdf/1106.2301v2
+1106.2351v1,2011-06-12T22:11:56Z,On vertex covers and matching number of trapezoid graphs,Andreja Ilic,cs.DS,http://arxiv.org/pdf/1106.2351v1
+1106.2694v1,2011-06-14T12:42:31Z,Geometric Simultaneous RAC Drawings of Graphs,Antonios Symvonis,cs.DS,http://arxiv.org/pdf/1106.2694v1
+1106.3126v1,2011-06-16T01:21:34Z,Testing List H-Homomorphisms,Yuichi Yoshida,cs.DS,http://arxiv.org/pdf/1106.3126v1
+1106.4412v1,2011-06-22T10:39:48Z,Space Lower Bounds for Online Pattern Matching,Benjamin Sach,cs.DS,http://arxiv.org/pdf/1106.4412v1
+1106.4587v1,2011-06-22T21:57:02Z,An Efficient Partitioning Oracle for Bounded-Treewidth Graphs,Krzysztof Onak,cs.DS,http://arxiv.org/pdf/1106.4587v1
+1106.4677v1,2011-06-23T10:34:33Z,Optimal Bi-Valued Auctions,Ilan Newman,cs.DS,http://arxiv.org/pdf/1106.4677v1
+1106.5845v1,2011-06-29T05:58:37Z,Minimum Certificate Dispersal with Tree Structures,Koichi Wada,cs.DS,http://arxiv.org/pdf/1106.5845v1
+1106.6037v2,2011-06-29T19:43:23Z,Black Hole Search with Finite Automata Scattered in a Synchronous Torus,Euripides Markou,cs.DS,http://arxiv.org/pdf/1106.6037v2
+1106.6136v1,2011-06-30T07:35:00Z,A Comparison of Performance Measures via Online Search,Abyayananda Maiti,cs.DS,http://arxiv.org/pdf/1106.6136v1
+1106.6261v1,2011-06-30T15:11:57Z,External Memory Orthogonal Range Reporting with Fast Updates,Yakov Nekrich,cs.DS,http://arxiv.org/pdf/1106.6261v1
+1106.6336v1,2011-06-30T18:43:43Z,External-Memory Network Analysis Algorithms for Naturally Sparse Graphs,Pawel Pszona,cs.DS,http://arxiv.org/pdf/1106.6336v1
+1106.6342v1,2011-06-30T19:04:18Z,Quadratic-time Algorithm for the String Constrained LCS Problem,Sebastian Deorowicz,cs.DS,http://arxiv.org/pdf/1106.6342v1
+1107.0798v3,2011-07-05T07:02:14Z,Generalized Maneuvers in Route Planning,Ondrej Moris,cs.DS,http://arxiv.org/pdf/1107.0798v3
+1107.1076v1,2011-07-06T09:47:25Z,Genome Halving by Block Interchange,Jean-Stéphane Varré,cs.DS,http://arxiv.org/pdf/1107.1076v1
+1107.1265v1,2011-07-06T21:48:07Z,Lift-and-Project Integrality Gaps for the Traveling Salesperson Problem,Thomas Watson,cs.DS,http://arxiv.org/pdf/1107.1265v1
+1107.1585v1,2011-07-08T09:29:43Z,On Multiway Cut parameterized above lower bounds,Jakub Onufry Wojtaszczyk,cs.DS,http://arxiv.org/pdf/1107.1585v1
+1107.1628v1,2011-07-08T13:25:49Z,A Proof of the Boyd-Carr Conjecture,Anke van Zuylen,cs.DS,http://arxiv.org/pdf/1107.1628v1
+1107.1630v3,2011-07-08T13:39:09Z,"On the Integrality Gap of the Subtour LP for the 1,2-TSP",Anke van Zuylen,cs.DS,http://arxiv.org/pdf/1107.1630v3
+1107.1780v1,2011-07-09T12:44:53Z,Hamiltonian Paths in Two Classes of Grid Graphs,Alireza Bagheri,cs.DS,http://arxiv.org/pdf/1107.1780v1
+1107.2000v1,2011-07-11T11:18:27Z,Tight Approximation Bounds for Vertex Cover on Dense k-Partite   Hypergraphs,Claus Viehmann,cs.DS,http://arxiv.org/pdf/1107.2000v1
+1107.2033v1,2011-07-11T14:03:32Z,A note on the generalized min-sum set cover problem,David P. Williamson,cs.DS,http://arxiv.org/pdf/1107.2033v1
+1107.2105v2,2011-07-11T19:56:53Z,Speed Scaling on Parallel Processors with Migration,Dimitrios Letsios,cs.DS,http://arxiv.org/pdf/1107.2105v2
+1107.2188v3,2011-07-12T04:35:02Z,The Simulated Greedy Algorithm for Several Submodular Matroid Secretary   Problems,Yajun Wang,cs.DS,http://arxiv.org/pdf/1107.2188v3
+1107.2422v1,2011-07-12T21:55:22Z,A Linear Time Algorithm for Seeds Computation,Tomasz Walen,cs.DS,http://arxiv.org/pdf/1107.2422v1
+1107.2482v2,2011-07-13T08:03:38Z,Maximum Matchings via Glauber Dynamics,Manjish Pal,cs.DS,http://arxiv.org/pdf/1107.2482v2
+1107.2509v3,2011-07-13T10:06:35Z,Matching Pursuits with Random Sequential Subdictionaries,Gaël Richard,cs.DS,http://arxiv.org/pdf/1107.2509v3
+1107.2554v1,2011-07-13T14:04:11Z,Routing in Undirected Graphs with Constant Congestion,Julia Chuzhoy,cs.DS,http://arxiv.org/pdf/1107.2554v1
+1107.2686v2,2011-07-13T22:13:52Z,A Higher-Order Cheeger's Inequality,Luca Trevisan,cs.DS,http://arxiv.org/pdf/1107.2686v2
+1107.2729v1,2011-07-14T05:35:09Z,Restructuring Compressed Texts without Explicit Decompression,Masayuki Takeda,cs.DS,http://arxiv.org/pdf/1107.2729v1
+1107.3019v1,2011-07-15T09:22:46Z,Computing q-gram Frequencies on Collage Systems,Masayuki Takeda,cs.DS,http://arxiv.org/pdf/1107.3019v1
+1107.3022v1,2011-07-15T09:39:57Z,Computing q-gram Non-overlapping Frequencies on SLP Compressed Texts,Masayuki Takeda,cs.DS,http://arxiv.org/pdf/1107.3022v1
+1107.3622v1,2011-07-19T04:21:58Z,K-sort: A new sorting algorithm that beats Heap sort for n <= 70 lakhs!,N. C. Mahanti,cs.DS,http://arxiv.org/pdf/1107.3622v1
+1107.3658v1,2011-07-19T09:24:48Z,On Polynomial Kernels for Structural Parameterizations of Odd Cycle   Transversal,Stefan Kratsch,cs.DS,http://arxiv.org/pdf/1107.3658v1
+1107.3704v2,2011-07-19T12:57:55Z,Co-nondeterminism in compositions: A kernelization lower bound for a   Ramsey-type problem,Stefan Kratsch,cs.DS,http://arxiv.org/pdf/1107.3704v2
+1107.3876v1,2011-07-20T02:13:01Z,Lower Bounds for the Average and Smoothed Number of Pareto Optima,Luis Rademacher,cs.DS,http://arxiv.org/pdf/1107.3876v1
+1107.3977v2,2011-07-20T13:40:23Z,Detecting 2-joins faster,Kristina Vušković,cs.DS,http://arxiv.org/pdf/1107.3977v2
+1107.4223v1,2011-07-21T10:11:15Z,Sorting Algorithms with Restrictions,Hakob Aslanyan,cs.DS,http://arxiv.org/pdf/1107.4223v1
+1107.4378v1,2011-07-21T20:59:47Z,Fully De-Amortized Cuckoo Hashing for Cache-Oblivious Dictionaries and   Multimaps,Justin Thaler,cs.DS,http://arxiv.org/pdf/1107.4378v1
+1107.4466v2,2011-07-22T09:49:47Z,Counting Perfect Matchings as Fast as Ryser,Andreas Björklund,cs.DS,http://arxiv.org/pdf/1107.4466v2
+1107.4824v2,2011-07-25T01:58:42Z,Approximation Algorithms for Digraph Width Parameters,Akash Kumar,cs.DS,http://arxiv.org/pdf/1107.4824v2
+1107.4893v1,2011-07-25T11:07:16Z,Approximating minimum-power edge-multicovers,Zeev Nutov,cs.DS,http://arxiv.org/pdf/1107.4893v1
+1107.4970v1,2011-07-25T15:10:12Z,Drawing Graphs with Vertices at Specified Positions and Crossings at   Large Angles,Alexander Wolff,cs.DS,http://arxiv.org/pdf/1107.4970v1
+1108.0295v2,2011-08-01T12:22:27Z,Adaptive Drift Analysis,Leslie Ann Goldberg,cs.DS,http://arxiv.org/pdf/1108.0295v2
+1108.0388v1,2011-08-01T18:49:37Z,A Comprehensive Study of an Online Packet Scheduling Algorithm,Fei Li,cs.DS,http://arxiv.org/pdf/1108.0388v1
+1108.0554v2,2011-08-02T12:00:02Z,Towards an Optimal Space-and-Query-Time Index for Top-k Document   Retrieval,Sharma V. Thankachan,cs.DS,http://arxiv.org/pdf/1108.0554v2
+1108.0810v2,2011-08-03T10:12:03Z,Scheduling partially ordered jobs faster than 2^n,Jakub Onufry Wojtaszczyk,cs.DS,http://arxiv.org/pdf/1108.0810v2
+1108.0866v1,2011-08-03T15:24:49Z,Towards Optimal Sorting of 16 Elements,Marcin Peczarski,cs.DS,http://arxiv.org/pdf/1108.0866v1
+1108.1060v1,2011-08-04T12:16:27Z,Conauto-2.0: Fast Isomorphism Testing and Automorphism Group Computation,Luis Núñez Chiroque,cs.DS,http://arxiv.org/pdf/1108.1060v1
+1108.1130v2,2011-08-04T16:23:48Z,13/9-approximation for Graphic TSP,Marcin Mucha,cs.DS,http://arxiv.org/pdf/1108.1130v2
+1108.1176v1,2011-08-04T19:34:38Z,Combinatorial Algorithms for Capacitated Network Design,Zeev Nutov,cs.DS,http://arxiv.org/pdf/1108.1176v1
+1108.1351v1,2011-08-05T15:37:23Z,Fast k-means algorithm clustering,Erik Test,cs.DS,http://arxiv.org/pdf/1108.1351v1
+1108.1751v1,2011-08-08T17:07:06Z,Efficient Sum-Based Hierarchical Smoothing Under \ell_1-Norm,Yuli Ye,cs.DS,http://arxiv.org/pdf/1108.1751v1
+1108.1983v1,2011-08-09T17:01:12Z,Succinct Representations of Permutations and Functions,S. Srinivasa Rao,cs.DS,http://arxiv.org/pdf/1108.1983v1
+1108.2157v1,2011-08-10T11:36:22Z,Optimal Indexes for Sparse Bit Vectors,S. Srinivasa Rao,cs.DS,http://arxiv.org/pdf/1108.2157v1
+1108.3048v2,2011-08-15T18:27:11Z,Fast Approximation Algorithms for Near-optimal Large-scale Network   Monitoring,George Michailidis,cs.DS,http://arxiv.org/pdf/1108.3048v2
+1108.3092v1,2011-08-15T20:35:24Z,Upward Point Set Embeddability for Convex Point Sets is in $P$,Antonios Symvonis,cs.DS,http://arxiv.org/pdf/1108.3092v1
+1108.3413v2,2011-08-17T07:31:27Z,"Randomized Algorithms for Tracking Distributed Count, Frequencies, and   Ranks",Qin Zhang,cs.DS,http://arxiv.org/pdf/1108.3413v2
+1108.3516v3,2011-08-17T16:13:53Z,Model for networks of spatial objects and simulation of geographical   phenomena propagation,Panteleimon Rodis,cs.DS,http://arxiv.org/pdf/1108.3516v3
+1108.3683v1,2011-08-18T08:31:11Z,Substring Range Reporting,Inge Li Goertz,cs.DS,http://arxiv.org/pdf/1108.3683v1
+1108.4217v1,2011-08-21T22:09:21Z,Prismatic Algorithm for Discrete D.C. Programming Problems,Takashi Washio,cs.DS,http://arxiv.org/pdf/1108.4217v1
+1108.4408v1,2011-08-22T19:59:03Z,On Compressing Permutations and Adaptive Sorting,Gonzalo Navarro,cs.DS,http://arxiv.org/pdf/1108.4408v1
+1108.4606v1,2011-08-23T14:10:15Z,Capacitated Domination: Constant Factor Approximation for Planar Graphs,D. T. Lee,cs.DS,http://arxiv.org/pdf/1108.4606v1
+1108.4983v2,2011-08-25T01:28:59Z,A $(k + 3)/2$-approximation algorithm for monotone submodular   maximization over a $k$-exchange system,Justin Ward,cs.DS,http://arxiv.org/pdf/1108.4983v2
+1108.5471v1,2011-08-27T19:31:25Z,New Results on the Fault-Tolerant Facility Placement Problem,Marek Chrobak,cs.DS,http://arxiv.org/pdf/1108.5471v1
+1108.5525v1,2011-08-29T12:40:03Z,The update complexity of selection and related problems,Sandeep Sen,cs.DS,http://arxiv.org/pdf/1108.5525v1
+1109.0562v1,2011-09-02T21:26:43Z,A tight bound on the length of odd cycles in the incompatibility graph   of a non-C1P matrix,Tamon Stephen,cs.DS,http://arxiv.org/pdf/1109.0562v1
+1109.1465v1,2011-09-07T14:17:43Z,The Open Graph Archive: A Community-Driven Effort,Michael Wybrow,cs.DS,http://arxiv.org/pdf/1109.1465v1
+1109.1494v2,2011-09-07T15:46:51Z,Pattern Matching under Polynomial Transformation,Benjamin Sach,cs.DS,http://arxiv.org/pdf/1109.1494v2
+1109.2231v1,2011-09-10T15:37:28Z,Characterization of Request Sequences for List Accessing Problem and New   Theoretical Results for MTF Algorithm,Sasmita Tripathy,cs.DS,http://arxiv.org/pdf/1109.2231v1
+1109.2232v1,2011-09-10T15:44:34Z,A New Proposed Cost Model for List Accessing Problem using Buffering,Sasmita Tripathy,cs.DS,http://arxiv.org/pdf/1109.2232v1
+1109.2348v1,2011-09-11T20:15:40Z,Lossless data compression on GPGPU architectures,Axel Eirola,cs.DS,http://arxiv.org/pdf/1109.2348v1
+1109.2477v2,2011-09-12T14:19:29Z,A O(1/eps^2)^n Time Sieving Algorithm for Approximate Integer   Programming,Daniel Dadush,cs.DS,http://arxiv.org/pdf/1109.2477v2
+1109.2641v2,2011-09-12T22:17:33Z,More Compact Oracles for Approximate Distances in Planar Graphs,Christian Sommer,cs.DS,http://arxiv.org/pdf/1109.2641v2
+1109.2885v2,2011-09-13T19:04:03Z,Encoding 2-D Range Maximum Queries,Sunil Shende,cs.DS,http://arxiv.org/pdf/1109.2885v2
+1109.2930v4,2011-09-13T21:10:01Z,Faster Approximate Pattern Matching in Compressed Repetitive Texts,Simon J. Puglisi,cs.DS,http://arxiv.org/pdf/1109.2930v4
+1109.3114v2,2011-09-14T15:45:40Z,Improved Distance Oracles and Spanners for Vertex-Labeled Graphs,Shiri Chechik,cs.DS,http://arxiv.org/pdf/1109.3114v2
+1109.3418v1,2011-09-15T18:42:22Z,Packing-Based Approximation Algorithm for the k-Set Cover Problem,Huiwen Yu,cs.DS,http://arxiv.org/pdf/1109.3418v1
+1109.3544v2,2011-09-16T08:03:50Z,Approximation Algorithms for Variable-Sized and Generalized Bin Covering,Alexander Souza,cs.DS,http://arxiv.org/pdf/1109.3544v2
+1109.3934v1,2011-09-19T03:14:22Z,A linear-time algorithm for the strong chromatic index of Halin graphs,Yue-Li Wang,cs.DS,http://arxiv.org/pdf/1109.3934v1
+1109.3954v6,2011-09-19T07:10:06Z,A Faster Grammar-Based Self-Index,Simon J. Puglisi,cs.DS,http://arxiv.org/pdf/1109.3954v6
+1109.4034v1,2011-09-19T14:20:02Z,Tying up the loose ends in fully LZW-compressed pattern matching,Pawel Gawrychowski,cs.DS,http://arxiv.org/pdf/1109.4034v1
+1109.4460v1,2011-09-21T02:12:27Z,A Simple Linear-Space Data Structure for Constant-Time Range Minimum   Query,Stephane Durocher,cs.DS,http://arxiv.org/pdf/1109.4460v1
+1109.5269v3,2011-09-24T14:08:31Z,Parameterized Matching in the Streaming Model,Benjamin Sach,cs.DS,http://arxiv.org/pdf/1109.5269v3
+1109.5325v2,2011-09-25T06:08:37Z,Online Sum-Radii Clustering,Paraschos Koutris,cs.DS,http://arxiv.org/pdf/1109.5325v2
+1109.5635v1,2011-09-26T16:48:20Z,Approximating Edit Distance in Near-Linear Time,Krzysztof Onak,cs.DS,http://arxiv.org/pdf/1109.5635v1
+1109.5931v1,2011-09-27T15:19:08Z,Online Primal-Dual For Non-linear Optimization with Applications to   Speed Scaling,Kirk Pruhs,cs.DS,http://arxiv.org/pdf/1109.5931v1
+1109.6178v2,2011-09-28T11:56:40Z,Space-efficient Local Computation Algorithms,Ning Xie,cs.DS,http://arxiv.org/pdf/1109.6178v2
+1109.6643v3,2011-09-29T19:55:13Z,Optimal Eviction Policies for Stochastic Address Traces,Francesco Versaci,cs.DS,http://arxiv.org/pdf/1109.6643v3
+1110.0180v1,2011-10-02T12:32:32Z,An efficient algorithm to find a set of nearest elements in a mesh,Gleb Novichkov,cs.DS,http://arxiv.org/pdf/1110.0180v1
+1110.0583v1,2011-10-04T05:43:28Z,"Algorithms for the strong chromatic index of Halin graphs,   distance-hereditary graphs and maximal outerplanar graphs",Yue-Li Wang,cs.DS,http://arxiv.org/pdf/1110.0583v1
+1110.0620v1,2011-10-04T09:35:21Z,A 2.75-Approximation Algorithm for the Unconstrained Traveling   Tournament Problem,Ryuhei Miyashiro,cs.DS,http://arxiv.org/pdf/1110.0620v1
+1110.0990v1,2011-10-05T14:08:33Z,The Query-commit Problem,R. Ravi,cs.DS,http://arxiv.org/pdf/1110.0990v1
+1110.1064v1,2011-10-05T18:31:44Z,Approximating CSPs with Global Cardinality Constraints Using SDP   Hierarchies,Ning Tan,cs.DS,http://arxiv.org/pdf/1110.1064v1
+1110.1079v1,2011-10-05T19:27:57Z,A Near-Optimal Sublinear-Time Algorithm for Approximating the Minimum   Vertex Cover Size,Ronitt Rubinfeld,cs.DS,http://arxiv.org/pdf/1110.1079v1
+1110.1124v1,2011-10-06T00:49:03Z,Optimal Deadline Scheduling with Commitment,Ting He,cs.DS,http://arxiv.org/pdf/1110.1124v1
+1110.1194v1,2011-10-06T09:24:51Z,Efficient Encoding of Watermark Numbers as Reducible Permutation Graphs,Stavros D. Nikolopoulos,cs.DS,http://arxiv.org/pdf/1110.1194v1
+1110.1320v2,2011-10-06T16:51:57Z,An efficient polynomial-time approximation scheme for Steiner forest in   planar graphs,Claire Mathieu,cs.DS,http://arxiv.org/pdf/1110.1320v2
+1110.1580v1,2011-10-07T16:39:34Z,A Polylogarithmic-Competitive Algorithm for the k-Server Problem,Naor,cs.DS,http://arxiv.org/pdf/1110.1580v1
+1110.1693v1,2011-10-08T04:04:41Z,On the strong chromatic index and maximum induced matching of   tree-cographs and permutation graphs,Yue-Li Wang,cs.DS,http://arxiv.org/pdf/1110.1693v1
+1110.2207v3,2011-10-10T21:45:49Z,Minimum Latency Submodular Cover,Ruben van der Zwaan,cs.DS,http://arxiv.org/pdf/1110.2207v3
+1110.2893v1,2011-10-13T11:13:48Z,String Matching with Variable Length Gaps,David Kofoed Wind,cs.DS,http://arxiv.org/pdf/1110.2893v1
+1110.3100v1,2011-10-14T00:46:23Z,Telling Two Distributions Apart: a Tight Characterization,Mark Sandler,cs.DS,http://arxiv.org/pdf/1110.3100v1
+1110.3381v1,2011-10-15T05:16:18Z,Partial Data Compression and Text Indexing via Optimal Suffix   Multi-Selection,S. Muthukrishnan,cs.DS,http://arxiv.org/pdf/1110.3381v1
+1110.3850v1,2011-10-17T23:35:11Z,On the Power of Adaptivity in Sparse Recovery,David P. Woodruff,cs.DS,http://arxiv.org/pdf/1110.3850v1
+1110.4150v1,2011-10-19T00:43:25Z,Traffic-Redundancy Aware Network Design,Shuchi Chawla,cs.DS,http://arxiv.org/pdf/1110.4150v1
+1110.4319v2,2011-10-19T15:51:38Z,Min-Max Graph Partitioning and Small Set Expansion,Roy Schwartz,cs.DS,http://arxiv.org/pdf/1110.4319v2
+1110.4350v1,2011-10-19T18:33:28Z,Taking Roots over High Extensions of Finite Fields,Eric Schost,cs.DS,http://arxiv.org/pdf/1110.4350v1
+1110.4428v3,2011-10-20T02:43:29Z,Improved Upper Bounds for Pairing Heaps,John Iacono,cs.DS,http://arxiv.org/pdf/1110.4428v3
+1110.4493v1,2011-10-20T11:03:07Z,Improved Grammar-Based Compressed Indexes,Gonzalo Navarro,cs.DS,http://arxiv.org/pdf/1110.4493v1
+1110.4604v2,2011-10-20T18:50:21Z,Improving Christofides' Algorithm for the s-t Path TSP,David B. Shmoys,cs.DS,http://arxiv.org/pdf/1110.4604v2
+1110.4860v2,2011-10-21T18:31:38Z,Symmetry and approximability of submodular maximization problems,Jan Vondrak,cs.DS,http://arxiv.org/pdf/1110.4860v2
+1110.5236v2,2011-10-24T13:57:08Z,String Indexing for Patterns with Wildcards,Søren Vind,cs.DS,http://arxiv.org/pdf/1110.5236v2
+1110.6600v2,2011-10-30T11:04:36Z,The generalized work function algorithm is competitive for the   generalized 2-server problem,Rene Sitters,cs.DS,http://arxiv.org/pdf/1110.6600v2
+1111.0376v2,2011-11-02T03:13:55Z,Outlier Detection for DNA Fragment Assembly,Daniel Lokshtanov,cs.DS,http://arxiv.org/pdf/1111.0376v2
+1111.0623v1,2011-11-02T19:49:50Z,Beating Randomized Response on Incoherent Matrices,Aaron Roth,cs.DS,http://arxiv.org/pdf/1111.0623v1
+1111.0762v2,2011-11-03T09:14:41Z,Multidimensional Balanced Allocation for Multiple Choice & (1 + Beta)   Processes,Souvik Bhattacherjee,cs.DS,http://arxiv.org/pdf/1111.0762v2
+1111.0773v2,2011-11-03T10:27:20Z,On the Value of Job Migration in Online Makespan Minimization,Matthias Hellwig,cs.DS,http://arxiv.org/pdf/1111.0773v2
+1111.0801v3,2011-11-03T11:26:28Z,Perfectly Balanced Allocation With Estimated Average Using Expected   Constant Retries,Ankur Narang,cs.DS,http://arxiv.org/pdf/1111.0801v3
+1111.0897v2,2011-11-03T16:06:35Z,Active Property Testing,Liu Yang,cs.DS,http://arxiv.org/pdf/1111.0897v2
+1111.0965v1,2011-11-03T19:57:26Z,Many Sparse Cuts via Higher Eigenvalues,Santosh Vempala,cs.DS,http://arxiv.org/pdf/1111.0965v1
+1111.1355v1,2011-11-05T21:53:33Z,A Compressed Self-Index for Genomic Databases,Simon J. Puglisi,cs.DS,http://arxiv.org/pdf/1111.1355v1
+1111.1546v2,2011-11-07T11:28:33Z,Improved Smoothed Analysis of Multiobjective Optimization,Heiko Röglin,cs.DS,http://arxiv.org/pdf/1111.1546v2
+1111.1665v1,2011-11-07T18:16:59Z,De-amortizing Binary Search Trees,Stefan Langerman,cs.DS,http://arxiv.org/pdf/1111.1665v1
+1111.1672v3,2011-11-07T18:37:12Z,A Systematic Approach to Bound Factor-Revealing LPs and its Application   to the Metric and Squared Metric Facility Location Problems,Lehilton L. C. Pedrosa,cs.DS,http://arxiv.org/pdf/1111.1672v3
+1111.1713v1,2011-11-07T18:37:42Z,Tight Approximation of Image Matching,Gilad Tsur,cs.DS,http://arxiv.org/pdf/1111.1713v1
+1111.2195v2,2011-11-09T12:55:42Z,Representative sets and irrelevant vertices: New tools for kernelization,Magnus Wahlström,cs.DS,http://arxiv.org/pdf/1111.2195v2
+1111.2527v1,2011-11-10T17:28:20Z,Testing the Connectivity of Networks,Taha Sochi,cs.DS,http://arxiv.org/pdf/1111.2527v1
+1111.2621v2,2011-11-10T21:51:27Z,Optimal Lower and Upper Bounds for Representing Sequences,Gonzalo Navarro,cs.DS,http://arxiv.org/pdf/1111.2621v2
+1111.3244v4,2011-11-14T15:26:56Z,Faster fully compressed pattern matching by recompression,Artur Jeż,cs.DS,http://arxiv.org/pdf/1111.3244v4
+1111.3297v1,2011-11-14T17:31:29Z,Cache optimized linear sieve,E. Vatai,cs.DS,http://arxiv.org/pdf/1111.3297v1
+1111.3398v2,2011-11-15T00:28:24Z,Speed scaling with power down scheduling for agreeable deadlines,Ioannis Milis,cs.DS,http://arxiv.org/pdf/1111.3398v2
+1111.3548v1,2011-11-15T15:06:54Z,Fully dynamic recognition of proper circular-arc graphs,Francisco J. Soulignac,cs.DS,http://arxiv.org/pdf/1111.3548v1
+1111.3663v1,2011-11-15T21:35:48Z,The debts' clearing problem: a new approach,C. Pătcaş,cs.DS,http://arxiv.org/pdf/1111.3663v1
+1111.3668v1,2011-11-15T21:47:03Z,Modular exponentiation of matrices on FPGA-s,R. Major,cs.DS,http://arxiv.org/pdf/1111.3668v1
+1111.3670v1,2011-11-15T21:54:54Z,Large primes in generalized Pascal triangles,G. Kiss,cs.DS,http://arxiv.org/pdf/1111.3670v1
+1111.4299v2,2011-11-18T08:32:45Z,The Feedback Arc Set Problem with Triangle Inequality is a Vertex Cover   Problem,Monaldo Mastrolilli,cs.DS,http://arxiv.org/pdf/1111.4299v2
+1111.4395v1,2011-11-18T15:30:49Z,Practical Top-K Document Retrieval in Reduced Space,Daniel Valenzuela,cs.DS,http://arxiv.org/pdf/1111.4395v1
+1111.4766v5,2011-11-21T06:03:45Z,On Strong Graph Partitions and Universal Steiner Trees,Srivathsan Srinivasagopalan,cs.DS,http://arxiv.org/pdf/1111.4766v5
+1111.5220v2,2011-11-22T15:28:03Z,Fast Compressed Tries through Path Decompositions,Giuseppe Ottaviano,cs.DS,http://arxiv.org/pdf/1111.5220v2
+1111.5386v1,2011-11-23T02:08:09Z,Edit Distance to Monotonicity in Sliding Windows,Qin Zhang,cs.DS,http://arxiv.org/pdf/1111.5386v1
+1111.5414v1,2011-11-23T06:45:33Z,Randomized Speedup of the Bellman-Ford Algorithm,David Eppstein,cs.DS,http://arxiv.org/pdf/1111.5414v1
+1111.5473v2,2011-11-23T12:21:33Z,Directed Steiner Tree and the Lasserre Hierarchy,Thomas Rothvoß,cs.DS,http://arxiv.org/pdf/1111.5473v2
+1111.6224v1,2011-11-27T04:36:53Z,Threshold phenomena in k-dominant skylines of random samples,Wei-Mei Chen,cs.DS,http://arxiv.org/pdf/1111.6224v1
+1111.6519v1,2011-11-28T17:14:26Z,A Combinatorial Algorithm for All-Pairs Shortest Paths in Directed   Vertex-Weighted Graphs with Applications to Disc Graphs,Dzmitry Sledneu,cs.DS,http://arxiv.org/pdf/1111.6519v1
+1111.6698v2,2011-11-29T05:29:28Z,On the Integrality Gap of the Directed-Component Relaxation for Steiner   Tree,Shi Li,cs.DS,http://arxiv.org/pdf/1111.6698v2
+1111.7064v2,2011-11-30T06:56:09Z,Correlation Decay up to Uniqueness in Spin Systems,Yitong Yin,cs.DS,http://arxiv.org/pdf/1111.7064v2
+1201.0749v2,2012-01-01T19:04:10Z,There is no 16-Clue Sudoku: Solving the Sudoku Minimum Number of Clues   Problem,Gilles Civario,cs.DS,http://arxiv.org/pdf/1201.0749v2
+1201.1157v1,2012-01-05T12:54:30Z,Method of the Multidimensional Sieve in the Practical Realization of   some Combinatorial Algorithms,Ana Markovska,cs.DS,http://arxiv.org/pdf/1201.1157v1
+1201.1784v1,2012-01-09T14:42:45Z,Abstract unordered and ordered trees CRDT,Pascal Urso,cs.DS,http://arxiv.org/pdf/1201.1784v1
+1201.2000v1,2012-01-10T10:11:11Z,Dynamic Scope-Based Dijkstra's Algorithm,Ondrej Moris,cs.DS,http://arxiv.org/pdf/1201.2000v1
+1201.2501v2,2012-01-12T08:34:46Z,Nearly Optimal Sparse Fourier Transform,Eric Price,cs.DS,http://arxiv.org/pdf/1201.2501v2
+1201.2702v1,2012-01-12T23:00:21Z,Dynamic 3-sided Planar Range Queries with Expected Doubly Logarithmic   Time,Kostas Tsichlas,cs.DS,http://arxiv.org/pdf/1201.2702v1
+1201.3077v1,2012-01-15T10:17:36Z,A Bijective String Sorting Transform,David Allen Scott,cs.DS,http://arxiv.org/pdf/1201.3077v1
+1201.3602v1,2012-01-17T19:57:11Z,Compact Binary Relation Representations with Rich Functionality,Gonzalo Navarro,cs.DS,http://arxiv.org/pdf/1201.3602v1
+1201.4206v1,2012-01-20T05:01:48Z,A simple D^2-sampling based PTAS for k-means and other Clustering   Problems,Sandeep Sen,cs.DS,http://arxiv.org/pdf/1201.4206v1
+1201.4459v1,2012-01-21T10:39:34Z,An efficient parallel algorithm for the longest path problem in meshes,Alireza Bagheri,cs.DS,http://arxiv.org/pdf/1201.4459v1
+1201.4899v2,2012-01-24T00:40:37Z,Finding Endogenously Formed Communities,Shang-Hua Teng,cs.DS,http://arxiv.org/pdf/1201.4899v2
+1201.5030v4,2012-01-24T16:11:45Z,Online Multi-Commodity Flow with High Demands,Moti Medina,cs.DS,http://arxiv.org/pdf/1201.5030v4
+1201.5513v1,2012-01-26T13:35:33Z,Faster and Simpler Minimal Conflicting Set Identification,Mathieu Raffinot,cs.DS,http://arxiv.org/pdf/1201.5513v1
+1201.5985v1,2012-01-28T20:08:26Z,Implementation of exponential and parametrized algorithms in the AGAPE   project,Vincent Levorato,cs.DS,http://arxiv.org/pdf/1201.5985v1
+1201.6207v2,2012-01-30T13:51:10Z,k-Probe DH-graphs,T. Kloks,cs.DS,http://arxiv.org/pdf/1201.6207v2
+1201.6421v1,2012-01-31T02:40:54Z,The black-and-white coloring problem on permutation graphs,Ton Kloks,cs.DS,http://arxiv.org/pdf/1201.6421v1
+1202.0082v1,2012-02-01T02:19:46Z,Dynamic Shortest Path Algorithms for Hypergraphs,Amotz Bar-Noy,cs.DS,http://arxiv.org/pdf/1202.0082v1
+1202.0319v1,2012-02-01T23:10:58Z,"Real-Time Monitoring of Undirected Networks: Articulation Points,   Bridges, and Connected and Biconnected Components",Luigi Laura,cs.DS,http://arxiv.org/pdf/1202.0319v1
+1202.0364v1,2012-02-02T05:24:25Z,A note on probe cographs,Ton Kloks,cs.DS,http://arxiv.org/pdf/1202.0364v1
+1202.1041v1,2012-02-06T03:36:23Z,Packing interval graphs with vertex-disjoint triangles,Ton Kloks,cs.DS,http://arxiv.org/pdf/1202.1041v1
+1202.1090v1,2012-02-06T10:14:24Z,The covert set-cover problem with application to Network Discovery,V. N. Muralidhara,cs.DS,http://arxiv.org/pdf/1202.1090v1
+1202.2820v1,2012-02-13T19:09:26Z,On Approximating String Selection Problems with Outliers,Oren Weimann,cs.DS,http://arxiv.org/pdf/1202.2820v1
+1202.3097v3,2012-02-14T17:33:34Z,Computing Resolution-Path Dependencies in Linear Time,Stefan Szeider,cs.DS,http://arxiv.org/pdf/1202.3097v3
+1202.3208v1,2012-02-15T05:29:25Z,Linear-Space Substring Range Counting over Polylogarithmic Alphabets,Paweł Gawrychowski,cs.DS,http://arxiv.org/pdf/1202.3208v1
+1202.3311v1,2012-02-15T14:13:02Z,Speeding-up $q$-gram mining on grammar-based compressed texts,Masayuki Takeda,cs.DS,http://arxiv.org/pdf/1202.3311v1
+1202.3367v3,2012-02-15T17:01:35Z,Faster Approximate Multicommodity Flow Using Quadratically Coupled Flows,Richard Peng,cs.DS,http://arxiv.org/pdf/1202.3367v3
+1202.3470v2,2012-02-15T23:11:48Z,Pattern Matching in Multiple Streams,Benjamin Sach,cs.DS,http://arxiv.org/pdf/1202.3470v2
+1202.4072v1,2012-02-18T11:48:17Z,An efficient polynomial time approximation scheme for load balancing on   uniformly related machines,Asaf Levin,cs.DS,http://arxiv.org/pdf/1202.4072v1
+1202.4076v1,2012-02-18T13:31:36Z,Cross-Document Pattern Matching,Tatiana Starikovskaya,cs.DS,http://arxiv.org/pdf/1202.4076v1
+1202.4326v2,2012-02-20T13:56:20Z,Space-Constrained Interval Selection,Adi Rosen,cs.DS,http://arxiv.org/pdf/1202.4326v2
+1202.4504v1,2012-02-21T01:28:05Z,A Constant Factor Approximation Algorithm for Reordering Buffer   Management,Yuval Rabani,cs.DS,http://arxiv.org/pdf/1202.4504v1
+1202.4945v1,2012-02-22T15:45:21Z,Algorithms for Sampling 3-Orientations of Planar Triangulations,Prasad Tetali,cs.DS,http://arxiv.org/pdf/1202.4945v1
+1202.5074v2,2012-02-23T01:30:56Z,Solving Single-digit Sudoku Subproblems,David Eppstein,cs.DS,http://arxiv.org/pdf/1202.5074v2
+1202.5233v4,2012-02-23T16:50:51Z,Computing Lempel-Ziv Factorization Online,Tatiana Starikovskaya,cs.DS,http://arxiv.org/pdf/1202.5233v4
+1202.5619v2,2012-02-25T06:50:39Z,Persistent Monitoring in Discrete Environments: Minimizing the Maximum   Weighted Latency Between Observations,Stephen L. Smith,cs.DS,http://arxiv.org/pdf/1202.5619v2
+1202.5670v1,2012-02-25T17:05:53Z,(Really) Tight bounds for dispatching binary methods,Pawel Gawrychowski,cs.DS,http://arxiv.org/pdf/1202.5670v1
+1202.5985v1,2012-02-27T16:05:10Z,Fast computation of the performance evaluation of biometric systems:   application to multibiometric,Christophe Rosenberger,cs.DS,http://arxiv.org/pdf/1202.5985v1
+1202.6256v1,2012-02-28T15:28:50Z,Diagonalization Matrix Method of Solving the First Problem of Hidden   Markov Model in Speech Recognition System,G. Seenivasan,cs.DS,http://arxiv.org/pdf/1202.6256v1
+1202.6562v2,2012-02-29T14:56:57Z,Dictionary learning under global sparsity constraint,Zongben Xu,cs.DS,http://arxiv.org/pdf/1202.6562v2
+1202.6598v1,2012-02-29T16:52:17Z,Sublinear Time Approximate Sum via Uniform Random Sampling,Zhiyong Peng,cs.DS,http://arxiv.org/pdf/1202.6598v1
+1202.6642v1,2012-02-29T18:48:21Z,Deterministic parameterized connected vertex cover,Marek Cygan,cs.DS,http://arxiv.org/pdf/1202.6642v1
+1203.0120v1,2012-03-01T08:55:06Z,How does the Shift-insertion sort behave when the sorting elements   follow a Normal distribution?,N. C. Mahanti,cs.DS,http://arxiv.org/pdf/1203.0120v1
+1203.0259v1,2012-03-01T18:21:14Z,A rearrangement step with potential uses in priority queues,M. Brian Jacokes,cs.DS,http://arxiv.org/pdf/1203.0259v1
+1203.0289v3,2012-03-01T20:44:41Z,Secure Multi-Party Computation in Large Networks,Mahdi Zamani,cs.DS,http://arxiv.org/pdf/1203.0289v3
+1203.1250v1,2012-03-03T21:09:42Z,"An Exploratory Study of Critical Factors Affecting the Efficiency of   Sorting Techniques (Shell, Heap and Treap)",Oluwatimilehin Salako,cs.DS,http://arxiv.org/pdf/1203.1250v1
+1203.1830v2,2012-03-08T15:42:04Z,Partition Sort Revisited: Reconfirming the Robustness in Average Case   and much more!,Soubhik Chakraborty,cs.DS,http://arxiv.org/pdf/1203.1830v2
+1203.2414v1,2012-03-12T07:20:56Z,An Optimal Algorithm for Conflict-Free Coloring for Tree of Rings,Einollah Pira,cs.DS,http://arxiv.org/pdf/1203.2414v1
+1203.2538v3,2012-03-12T16:29:42Z,Spanning trees and the complexity of flood-filling games,Alexander Scott,cs.DS,http://arxiv.org/pdf/1203.2538v3
+1203.2543v2,2012-03-12T16:45:21Z,Biclique-colouring verification complexity and biclique-colouring power   graphs,Celina M. H. de Figueiredo,cs.DS,http://arxiv.org/pdf/1203.2543v2
+1203.3415v5,2012-03-15T16:54:42Z,acc-Motif Detection Tool,Arlindo F. da Conceição,cs.DS,http://arxiv.org/pdf/1203.3415v5
+1203.3578v4,2012-03-15T21:35:37Z,Iterative rounding approximation algorithms for degree-bounded   node-connectivity network design,R. Ravi,cs.DS,http://arxiv.org/pdf/1203.3578v4
+1203.3593v1,2012-03-16T00:31:18Z,Ad Serving Using a Compact Allocation Plan,Jason Zien,cs.DS,http://arxiv.org/pdf/1203.3593v1
+1203.3619v1,2012-03-16T06:02:29Z,SHALE: An Efficient Algorithm for Allocation of Guaranteed Display   Advertising,Jian Yang,cs.DS,http://arxiv.org/pdf/1203.3619v1
+1203.3883v1,2012-03-17T18:20:32Z,A note on the fast power series' exponential,Igor S. Sergeev,cs.DS,http://arxiv.org/pdf/1203.3883v1
+1203.4117v1,2012-03-19T14:27:00Z,A More Reliable Greedy Heuristic for Maximum Matchings in Sparse Random   Graphs,Michael Rink,cs.DS,http://arxiv.org/pdf/1203.4117v1
+1203.4619v1,2012-03-20T23:06:10Z,Online Load Balancing on Unrelated Machines with Startup Costs,Debmalya Panigrahi,cs.DS,http://arxiv.org/pdf/1203.4619v1
+1203.4836v1,2012-03-21T21:15:44Z,On a New Method of Storing a Variable Size Array,Anatolijs Gorbunovs,cs.DS,http://arxiv.org/pdf/1203.4836v1
+1203.4900v1,2012-03-22T07:45:13Z,Single pass sparsification in the streaming model with edge deletions,Ian Post,cs.DS,http://arxiv.org/pdf/1203.4900v1
+1203.4920v1,2012-03-22T08:56:12Z,Work function algorithm can forget history without losing   competitiveness,Livio Colussi,cs.DS,http://arxiv.org/pdf/1203.4920v1
+1203.5235v1,2012-03-23T13:33:47Z,A linear time algorithm for the next-to-shortest path problem on   undirected graphs with nonnegative edge lengths,Yue-Li Wang,cs.DS,http://arxiv.org/pdf/1203.5235v1
+1203.6274v1,2012-03-28T14:09:49Z,Small $\ell$-edge-covers in $k$-connected graphs,Zeev Nutov,cs.DS,http://arxiv.org/pdf/1203.6274v1
+1203.6695v2,2012-03-30T01:37:11Z,Online Mixed Packing and Covering,Lisa Fleischer,cs.DS,http://arxiv.org/pdf/1203.6695v2
+1204.0219v1,2012-04-01T15:14:26Z,Improved Approximation for Orienting Mixed Graphs,Moti Medina,cs.DS,http://arxiv.org/pdf/1204.0219v1
+1204.0220v1,2012-04-01T15:31:31Z,Sequential & Parallel Algorithms for Big-Integer Numbers Subtraction,Aziz Barbar,cs.DS,http://arxiv.org/pdf/1204.0220v1
+1204.0232v1,2012-04-01T16:12:07Z,Sequential and Parallel Algorithms for the Addition of Big-Integer   Numbers,Aziz Barbar,cs.DS,http://arxiv.org/pdf/1204.0232v1
+1204.0897v2,2012-04-04T09:17:22Z,A New Approach to Online Scheduling: Approximating the Optimal   Competitive Ratio,Andreas Wiese,cs.DS,http://arxiv.org/pdf/1204.0897v2
+1204.1025v2,2012-04-04T18:43:31Z,Online submodular welfare maximization: Greedy is optimal,Jan Vondrak,cs.DS,http://arxiv.org/pdf/1204.1025v2
+1204.1082v2,2012-04-04T21:31:00Z,Set It and Forget It: Approximating the Set Once Strip Cover Problem,Dror Rawitz,cs.DS,http://arxiv.org/pdf/1204.1082v2
+1204.1136v3,2012-04-05T07:47:57Z,Faster Walks in Graphs: A $\tilde O(n^2)$ Time-Space Trade-off for   Undirected s-t Connectivity,Adrian Kosowski,cs.DS,http://arxiv.org/pdf/1204.1136v3
+1204.1215v1,2012-04-05T13:07:38Z,On the Value of Multiple Read/Write Streams for Data Compression,Travis Gagie,cs.DS,http://arxiv.org/pdf/1204.1215v1
+1204.1616v2,2012-04-07T09:54:25Z,"Algorithmic Applications of Baur-Strassen's Theorem: Shortest Cycles,   Diameter and Matchings",Piotr Sankowski,cs.DS,http://arxiv.org/pdf/1204.1616v2
+1204.1957v2,2012-04-09T19:38:58Z,Succinct Posets,Patrick K. Nicholson,cs.DS,http://arxiv.org/pdf/1204.1957v2
+1204.1958v2,2012-04-09T19:39:27Z,Parallel and sequential in-place permuting and perfect shuffling using   involutions,Frank Ruskey,cs.DS,http://arxiv.org/pdf/1204.1958v2
+1204.2021v3,2012-04-10T01:06:25Z,Approximating the Expansion Profile and Almost Optimal Local Graph   Clustering,Luca Trevisan,cs.DS,http://arxiv.org/pdf/1204.2021v3
+1204.2131v1,2012-04-10T12:56:42Z,On Thresholds for the Appearance of 2-cores in Mixed Hypergraphs,Michael Rink,cs.DS,http://arxiv.org/pdf/1204.2131v1
+1204.2136v2,2012-04-10T13:11:47Z,The Johnson-Lindenstrauss Transform Itself Preserves Differential   Privacy,Or Sheffet,cs.DS,http://arxiv.org/pdf/1204.2136v2
+1204.2844v1,2012-04-12T21:37:48Z,On Vertex Sparsifiers with Steiner Nodes,Julia Chuzhoy,cs.DS,http://arxiv.org/pdf/1204.2844v1
+1204.2933v1,2012-04-13T09:43:27Z,Improved Randomized Online Scheduling of Intervals and Jobs,Feifeng Zheng,cs.DS,http://arxiv.org/pdf/1204.2933v1
+1204.2955v2,2012-04-13T11:19:06Z,Label-Guided Graph Exploration with Adjustable Ratio of Labels,Jijun Tang,cs.DS,http://arxiv.org/pdf/1204.2955v2
+1204.3113v1,2012-04-13T21:43:31Z,Algorithms for Junctions in Directed Acyclic Graphs,Álvaro Junio Pereira Franco,cs.DS,http://arxiv.org/pdf/1204.3113v1
+1204.3488v3,2012-04-16T13:59:38Z,Efficient sub-5 approximations for minimum dominating sets in unit disk   graphs,Raphael Machado,cs.DS,http://arxiv.org/pdf/1204.3488v3
+1204.4047v2,2012-04-18T11:19:01Z,Access Graphs Results for LRU versus FIFO under Relative Worst Order   Analysis,Kim S. Larsen,cs.DS,http://arxiv.org/pdf/1204.4047v2
+1204.4159v2,2012-04-18T18:46:35Z,Connectivity Oracles for Planar Graphs,Christian Wulff-Nilsen,cs.DS,http://arxiv.org/pdf/1204.4159v2
+1204.4431v1,2012-04-19T18:40:58Z,Explicit and Efficient Hash Families Suffice for Cuckoo Hashing with a   Stash,Philipp Woelfel,cs.DS,http://arxiv.org/pdf/1204.4431v1
+1204.4526v4,2012-04-20T03:42:03Z,A Tight Combinatorial Algorithm for Submodular Maximization Subject to a   Matroid Constraint,Justin Ward,cs.DS,http://arxiv.org/pdf/1204.4526v4
+1204.4666v1,2012-04-20T16:16:01Z,Finding Small Sparse Cuts Locally by Random Walk,Lap Chi Lau,cs.DS,http://arxiv.org/pdf/1204.4666v1
+1204.4688v3,2012-04-20T17:52:57Z,Markov chain methods for small-set expansion,David Witmer,cs.DS,http://arxiv.org/pdf/1204.4688v3
+1204.4765v1,2012-04-21T00:36:28Z,String Trees,Julius D'souza,cs.DS,http://arxiv.org/pdf/1204.4765v1
+1204.4835v1,2012-04-21T19:36:06Z,Succinct Indices for Range Queries with applications to Orthogonal Range   Maxima,Rajeev Raman,cs.DS,http://arxiv.org/pdf/1204.4835v1
+1204.4880v1,2012-04-22T11:24:42Z,A Polynomial kernel for Proper Interval Vertex Deletion,Yngve Villanger,cs.DS,http://arxiv.org/pdf/1204.4880v1
+1204.5023v1,2012-04-23T10:53:16Z,The Parameterized Complexity Analysis of Partition Sort for Negative   Binomial Distribution Inputs,Soubhik Chakraborty,cs.DS,http://arxiv.org/pdf/1204.5023v1
+1204.5083v1,2012-04-23T15:22:43Z,"Smart Sort: Design and Analysis of a Fast, Efficient and Robust   Comparison Based Internal Sort Algorithm",Soubhik Chakraborty,cs.DS,http://arxiv.org/pdf/1204.5083v1
+1204.5229v2,2012-04-23T23:08:38Z,"Selection in the Presence of Memory Faults, with Applications to   In-place Resilient Sorting",Nimrod Talmon,cs.DS,http://arxiv.org/pdf/1204.5229v2
+1204.5442v1,2012-04-24T17:33:56Z,Faster Treasure Hunt and Better Strongly Universal Exploration Sequences,Qin Xin,cs.DS,http://arxiv.org/pdf/1204.5442v1
+1204.5500v2,2012-04-24T21:35:32Z,On the Complexity of the Monte Carlo Method for Incremental PageRank,Peter Lofgren,cs.DS,http://arxiv.org/pdf/1204.5500v2
+1204.5524v3,2012-04-25T01:07:13Z,Time and Space Efficient Lempel-Ziv Factorization based on Run Length   Encoding,Masayuki Takeda,cs.DS,http://arxiv.org/pdf/1204.5524v3
+1204.5613v1,2012-04-25T10:59:41Z,Rerouting shortest paths in planar graphs,Paul Bonsma,cs.DS,http://arxiv.org/pdf/1204.5613v1
+1204.5801v5,2012-04-26T01:27:44Z,Optimal Prefix Free Code in Linear Time,Jérémy Barbay,cs.DS,http://arxiv.org/pdf/1204.5801v5
+1204.5823v1,2012-04-26T03:33:41Z,A Bicriteria Approximation for the Reordering Buffer Problem,Seeun Umboh,cs.DS,http://arxiv.org/pdf/1204.5823v1
+1204.5834v2,2012-04-26T06:06:52Z,"Efficient Generation ε-close to G(n,p) and Generalizations",Milena Mihail,cs.DS,http://arxiv.org/pdf/1204.5834v2
+1204.6070v2,2012-04-26T22:46:55Z,MSOL Restricted Contractibility to Planar Graphs,Tomáš Vyskočil,cs.DS,http://arxiv.org/pdf/1204.6070v2
+1205.0144v1,2012-05-01T11:52:11Z,Everywhere-Sparse Spanners via Dense Subgraphs,Robert Krauthgamer,cs.DS,http://arxiv.org/pdf/1205.0144v1
+1205.0175v1,2012-05-01T14:39:11Z,Approximating Sparse Covering Integer Programs Online,Viswanath Nagarajan,cs.DS,http://arxiv.org/pdf/1205.0175v1
+1205.0458v2,2012-05-02T15:19:29Z,Better Balance by Being Biased: A 0.8776-Approximation for Max Bisection,Konstantinos Georgiou,cs.DS,http://arxiv.org/pdf/1205.0458v2
+1205.0477v3,2012-05-02T16:04:31Z,Order-preserving Renaming in Synchronous Message Passing Systems with   Byzantine Faults,Luis Rodrigues,cs.DS,http://arxiv.org/pdf/1205.0477v3
+1205.0581v1,2012-05-02T23:28:01Z,Scalable Mechanisms for Rational Secret Sharing,Jared Saia,cs.DS,http://arxiv.org/pdf/1205.0581v1
+1205.0974v1,2012-05-04T15:12:46Z,Scheduling Unrelated Machines of Few Different Types,Andreas Wiese,cs.DS,http://arxiv.org/pdf/1205.0974v1
+1205.1114v1,2012-05-05T08:41:24Z,A Durable Flash Memory Search Tree,Kevin Wortman,cs.DS,http://arxiv.org/pdf/1205.1114v1
+1205.1195v1,2012-05-06T09:26:45Z,Sequential-Access FM-Indexes,Travis Gagie,cs.DS,http://arxiv.org/pdf/1205.1195v1
+1205.1281v5,2012-05-07T04:11:15Z,LP-rounding Algorithms for the Fault-Tolerant Facility Placement Problem,Marek Chrobak,cs.DS,http://arxiv.org/pdf/1205.1281v5
+1205.1312v1,2012-05-07T08:02:48Z,Converting online algorithms to local computation algorithms,Ning Xie,cs.DS,http://arxiv.org/pdf/1205.1312v1
+1205.1373v2,2012-05-07T13:18:20Z,Quasi-Polynomial Local Search for Restricted Max-Min Fair Allocation,Ola Svensson,cs.DS,http://arxiv.org/pdf/1205.1373v2
+1205.1477v1,2012-05-07T18:42:05Z,Approximation Algorithms for Online Weighted Rank Function Maximization   under Matroid Constraints,Mohit Singh,cs.DS,http://arxiv.org/pdf/1205.1477v1
+1205.1758v3,2012-05-08T17:43:11Z,Faster Algorithms for Privately Releasing Marginals,Salil Vadhan,cs.DS,http://arxiv.org/pdf/1205.1758v3
+1205.2285v2,2012-05-10T14:59:58Z,Complex-Demand Knapsack Problems and Incentives in AC Power Systems,Chi-Kin Chau,cs.DS,http://arxiv.org/pdf/1205.2285v2
+1205.2766v2,2012-05-12T11:12:10Z,Optimal Listing of Cycles and st-Paths in Undirected Graphs,Gustavo Sacomoto,cs.DS,http://arxiv.org/pdf/1205.2766v2
+1205.2888v1,2012-05-13T17:47:51Z,A Comparative Study on the Performance of Permutation Algorithms,Youssef Bassil,cs.DS,http://arxiv.org/pdf/1205.2888v1
+1205.3397v1,2012-05-15T14:46:01Z,1.85 Approximation for Min-Power Strong Connectivity,Gruia Calinescu,cs.DS,http://arxiv.org/pdf/1205.3397v1
+1205.3518v2,2012-05-15T21:38:53Z,Lower Bounds for Adaptive Sparse Recovery,David P. Woodruff,cs.DS,http://arxiv.org/pdf/1205.3518v2
+1205.3605v1,2012-05-16T09:16:39Z,On Min-Power Steiner Tree,Fabrizio Grandoni,cs.DS,http://arxiv.org/pdf/1205.3605v1
+1205.3754v1,2012-02-23T15:23:17Z,Scheduling and allocation algorithm for an elliptic filter,Sangeetha Marikkannan,cs.DS,http://arxiv.org/pdf/1205.3754v1
+1205.4363v1,2012-05-19T22:00:51Z,Detours in Scope-Based Route Planning,Ondrej Moriš,cs.DS,http://arxiv.org/pdf/1205.4363v1
+1205.4968v1,2012-05-22T16:28:33Z,SubGraD- An Approach for Subgraph Detection,S. Nigam,cs.DS,http://arxiv.org/pdf/1205.4968v1
+1205.6787v1,2012-05-30T19:44:17Z,Lyndon Words and Short Superstrings,Marcin Mucha,cs.DS,http://arxiv.org/pdf/1205.6787v1
+1205.6960v2,2012-05-31T11:23:32Z,Minimizing Movement: Fixed-Parameter Tractability,Dániel Marx,cs.DS,http://arxiv.org/pdf/1205.6960v2
+1206.0580v1,2012-06-04T11:06:27Z,O(1) Delta Component Computation Technique for the Quadratic Assignment   Problem,Yuri Zorin,cs.DS,http://arxiv.org/pdf/1206.0580v1
+1206.0594v6,2012-06-04T12:16:07Z,Simple and Deterministic Matrix Sketching,Edo Liberty,cs.DS,http://arxiv.org/pdf/1206.0594v6
+1206.2269v2,2012-06-11T16:01:45Z,Better bounds for matchings in the streaming model,Michael Kapralov,cs.DS,http://arxiv.org/pdf/1206.2269v2
+1206.3483v2,2012-06-15T14:40:31Z,Constrained multilinear detection for faster functional motif discovery,Ioannis Koutis,cs.DS,http://arxiv.org/pdf/1206.3483v2
+1206.3511v1,2012-06-15T16:39:51Z,Comparison of Bucket Sort and RADIX Sort,Panu Horsmalahti,cs.DS,http://arxiv.org/pdf/1206.3511v1
+1206.3603v1,2012-06-15T22:40:40Z,Approximation Algorithm for Non-Boolean MAX k-CSP,Yury Makarychev,cs.DS,http://arxiv.org/pdf/1206.3603v1
+1206.5336v3,2012-06-22T22:53:21Z,Near-Optimal Online Multiselection in Internal and External Memory,Jonathan Sorenson,cs.DS,http://arxiv.org/pdf/1206.5336v3
+1206.5392v2,2012-06-23T13:21:29Z,Metrical Service Systems with Multiple Servers,Sundar Vishwanathan,cs.DS,http://arxiv.org/pdf/1206.5392v2
+1206.5959v1,2012-06-26T11:38:44Z,The Online Replacement Path Problem,Marco Senatore,cs.DS,http://arxiv.org/pdf/1206.5959v1
+1206.6185v1,2012-06-27T07:00:10Z,Performance Evaluation of A Proposed Variant of Frequency Count (VFC)   List Accessing Algorithm,Sangita Patel,cs.DS,http://arxiv.org/pdf/1206.6185v1
+1206.6187v1,2012-06-27T07:13:16Z,Some Novel Results From Analysis of Move To Front (MTF) List Accessing   Algorithm,Burle Sharma,cs.DS,http://arxiv.org/pdf/1206.6187v1
+1206.6193v2,2012-06-27T07:26:07Z,Data Structures on Event Graphs,Wolfgang Mulzer,cs.DS,http://arxiv.org/pdf/1206.6193v2
+1206.6982v2,2012-06-29T10:43:34Z,Optimal Dynamic Sequence Representations,Yakov Nekrich,cs.DS,http://arxiv.org/pdf/1206.6982v2
+1207.0043v2,2012-06-30T04:35:52Z,Routing Regardless of Network Stability,Gordon Wilfong,cs.DS,http://arxiv.org/pdf/1207.0043v2
+1207.0271v3,2012-07-02T03:22:06Z,Approximating Soft-Capacitated Facility Location Problem With   Uncertainty,Yaohua Tang,cs.DS,http://arxiv.org/pdf/1207.0271v3
+1207.0316v1,2012-07-02T09:31:32Z,Algorithmic Aspects of Homophyly of Networks,Peng Zhang,cs.DS,http://arxiv.org/pdf/1207.0316v1
+1207.0370v1,2012-07-02T13:20:45Z,A new path algorithm for the weighted multi-graphs WMGPA: application to   the Direct Topological Method,Amine Boudghene Stambouli,cs.DS,http://arxiv.org/pdf/1207.0370v1
+1207.0892v1,2012-07-04T03:58:39Z,"Incubators vs Zombies: Fault-Tolerant, Short, Thin and Lanky Spanners   for Doubling Metrics",Li Ning,cs.DS,http://arxiv.org/pdf/1207.0892v1
+1207.1135v1,2012-07-04T22:41:51Z,Sparse Suffix Tree Construction with Small Space,Hjalte Wedel Vildhøj,cs.DS,http://arxiv.org/pdf/1207.1135v1
+1207.1141v2,2012-07-04T23:22:31Z,The Longest Queue Drop Policy for Shared-Memory Switches is   1.5-competitive,Nicolaos Matsakis,cs.DS,http://arxiv.org/pdf/1207.1141v2
+1207.1277v2,2012-07-05T14:50:31Z,Simple Deterministic Algorithms for Fully Dynamic Maximal Matching,Shay Solomon,cs.DS,http://arxiv.org/pdf/1207.1277v2
+1207.1307v1,2012-07-05T17:43:50Z,Identifying all abelian periods of a string in quadratic time and   relevant problems,Costas S. Iliopoulos,cs.DS,http://arxiv.org/pdf/1207.1307v1
+1207.1371v1,2012-07-04T16:06:07Z,On Privacy-Preserving Histograms,Kunal Talwar,cs.DS,http://arxiv.org/pdf/1207.1371v1
+1207.1668v1,2012-07-06T15:46:23Z,Fast Constructions of Light-Weight Spanners for General Graphs,Shay Solomon,cs.DS,http://arxiv.org/pdf/1207.1668v1
+1207.1831v4,2012-07-07T22:39:46Z,"Optimal Euclidean spanners: really short, thin and lanky",Shay Solomon,cs.DS,http://arxiv.org/pdf/1207.1831v4
+1207.2341v1,2012-07-10T13:32:12Z,I/O-Efficient Dynamic Planar Range Skyline Queries,Kostas Tsichlas,cs.DS,http://arxiv.org/pdf/1207.2341v1
+1207.2632v2,2012-07-11T13:30:06Z,On Optimal Top-K String Retrieval,Jeffrey Scott Vitter,cs.DS,http://arxiv.org/pdf/1207.2632v2
+1207.3564v1,2012-07-16T02:35:37Z,Approximate Counting via Correlation Decay on Planar Graphs,Chihao Zhang,cs.DS,http://arxiv.org/pdf/1207.3564v1
+1207.3807v1,2012-07-16T20:01:55Z,Light Spanner and Monotone Tree,Hao-Hsiang Hung,cs.DS,http://arxiv.org/pdf/1207.3807v1
+1207.3976v3,2012-07-17T12:51:55Z,Maintaining Approximate Maximum Weighted Matching in Fully Dynamic   Graphs,Sandeep Sen,cs.DS,http://arxiv.org/pdf/1207.3976v3
+1207.4079v2,2012-07-17T18:24:13Z,Designing FPT algorithms for cut problems using randomized contractions,Michał Pilipczuk,cs.DS,http://arxiv.org/pdf/1207.4079v2
+1207.4366v1,2012-07-18T13:08:39Z,Approximating minimum-cost edge-covers of crossing biset-families,Zeev Nutov,cs.DS,http://arxiv.org/pdf/1207.4366v1
+1207.4372v2,2012-07-18T13:21:26Z,Faster SDP hierarchy solvers for local rounding algorithms,Ali Kemal Sinop,cs.DS,http://arxiv.org/pdf/1207.4372v2
+1207.4382v3,2012-07-18T14:25:56Z,The Space Complexity of 2-Dimensional Approximate Range Counting,Ke Yi,cs.DS,http://arxiv.org/pdf/1207.4382v3
+1207.4383v1,2012-07-18T14:32:57Z,Equivalence between Priority Queues and Sorting in External Memory,Ke Yi,cs.DS,http://arxiv.org/pdf/1207.4383v1
+1207.4607v1,2012-07-19T10:28:56Z,Efficient LZ78 factorization of grammar compressed text,Masayuki Takeda,cs.DS,http://arxiv.org/pdf/1207.4607v1
+1207.4616v1,2012-07-19T11:26:59Z,Exact Algorithms for Maximum Clique: a computational study,Patrick Prosser,cs.DS,http://arxiv.org/pdf/1207.4616v1
+1207.5200v3,2012-07-22T06:23:09Z,Improved Concentration Bounds for Count-Sketch,Eric Price,cs.DS,http://arxiv.org/pdf/1207.5200v3
+1207.5722v1,2012-07-24T15:20:22Z,Approximating Minimum-Cost Connected T-Joins,Zhihan Gao,cs.DS,http://arxiv.org/pdf/1207.5722v1
+1207.5959v2,2012-07-25T11:43:26Z,Tight Analysis of Priority Queuing Policy for Egress Traffic,Tomotaka Maeda,cs.DS,http://arxiv.org/pdf/1207.5959v2
+1207.6246v1,2012-07-26T11:55:13Z,Mimicking Networks and Succinct Representations of Terminal Cuts,Inbal Rika,cs.DS,http://arxiv.org/pdf/1207.6246v1
+1207.6365v4,2012-07-26T18:50:00Z,Low Rank Approximation and Regression in Input Sparsity Time,David P. Woodruff,cs.DS,http://arxiv.org/pdf/1207.6365v4
+1207.6371v1,2012-07-26T19:03:25Z,On Mimicking Networks Representing Minimum Terminal Cuts,László A. Végh,cs.DS,http://arxiv.org/pdf/1207.6371v1
+1208.0312v1,2012-08-01T18:34:36Z,A Model for Minimizing Active Processor Time,Samir Khuller,cs.DS,http://arxiv.org/pdf/1208.0312v1
+1208.0396v3,2012-08-02T04:23:12Z,Solving Cyclic Longest Common Subsequence in Quadratic Time,Andy Nguyen,cs.DS,http://arxiv.org/pdf/1208.0396v3
+1208.0542v1,2012-07-31T07:10:37Z,A Constructive Algorithm to Prove P=NP,Wen-Qi Duan,cs.DS,http://arxiv.org/pdf/1208.0542v1

@@ -1,0 +1,1000 @@
+cs/9905014v1,1999-05-21T14:26:07Z,Hierarchical Reinforcement Learning with the MAXQ Value Function   Decomposition,Thomas G. Dietterich,cs.LG,http://arxiv.org/pdf/cs/9905014v1
+cs/9905015v1,1999-05-21T14:49:39Z,State Abstraction in MAXQ Hierarchical Reinforcement Learning,Thomas G. Dietterich,cs.LG,http://arxiv.org/pdf/cs/9905015v1
+cs/0001004v1,2000-01-07T06:20:53Z,Multiplicative Algorithm for Orthgonal Groups and Independent Component   Analysis,Toshinao Akuzawa,cs.LG,http://arxiv.org/pdf/cs/0001004v1
+cs/0002006v1,2000-02-09T06:44:28Z,Multiplicative Nonholonomic/Newton -like Algorithm,Noboru Murata,cs.LG,http://arxiv.org/pdf/cs/0002006v1
+cs/0009001v3,2000-09-05T18:54:58Z,Complexity analysis for algorithmically simple strings,Andrei N. Soklakov,cs.LG,http://arxiv.org/pdf/cs/0009001v3
+cs/0009007v1,2000-09-13T21:09:47Z,Robust Classification for Imprecise Environments,Tom Fawcett,cs.LG,http://arxiv.org/pdf/cs/0009007v1
+cs/0011032v1,2000-11-21T21:51:01Z,Top-down induction of clustering trees,Jan Ramon,cs.LG,http://arxiv.org/pdf/cs/0011032v1
+cs/0011044v1,2000-11-29T12:14:50Z,Scaling Up Inductive Logic Programming by Learning from Interpretations,Bart Demoen,cs.LG,http://arxiv.org/pdf/cs/0011044v1
+cs/0103003v1,2001-03-02T01:55:46Z,Learning Policies with External Memory,Leslie Kaelbling,cs.LG,http://arxiv.org/pdf/cs/0103003v1
+cs/0110036v1,2001-10-17T15:45:23Z,Efficient algorithms for decision tree cross-validation,Jan Struyf,cs.LG,http://arxiv.org/pdf/cs/0110036v1
+cs/0211003v1,2002-11-01T18:09:56Z,Evaluation of the Performance of the Markov Blanket Bayesian Classifier   Algorithm,Michael G. Madden,cs.LG,http://arxiv.org/pdf/cs/0211003v1
+cs/0211007v1,2002-11-07T07:21:58Z,Approximating Incomplete Kernel Matrices by the em Algorithm,Kiyoshi Asai,cs.LG,http://arxiv.org/pdf/cs/0211007v1
+cs/0309015v1,2003-09-10T13:56:41Z,Reliable and Efficient Inference of Bayesian Networks from Sparse Data   by Statistical Learning Theory,Daniel Herrmann,cs.LG,http://arxiv.org/pdf/cs/0309015v1
+cs/0311042v1,2003-11-27T05:34:04Z,Toward Attribute Efficient Learning Algorithms,Rocco A. Servedio,cs.LG,http://arxiv.org/pdf/cs/0311042v1
+cs/0312004v1,2003-11-30T20:41:18Z,Improving spam filtering by combining Naive Bayes with simple k-nearest   neighbor searches,Daniel Etzold,cs.LG,http://arxiv.org/pdf/cs/0312004v1
+cs/0401005v1,2004-01-08T07:50:51Z,About Unitary Rating Score Constructing,Kromer Victor,cs.LG,http://arxiv.org/pdf/cs/0401005v1
+cs/0412003v1,2004-12-01T16:32:49Z,Mining Heterogeneous Multivariate Time-Series for Learning Meaningful   Patterns: Application to Home Health Telecare,Vincent Rialle,cs.LG,http://arxiv.org/pdf/cs/0412003v1
+cs/0502016v1,2005-02-03T19:54:02Z,Stability Analysis for Regularized Least Squares Regression,Cynthia Rudin,cs.LG,http://arxiv.org/pdf/cs/0502016v1
+cs/0504001v1,2005-03-31T23:04:28Z,Probabilistic and Team PFIN-type Learning: General Properties,Andris Ambainis,cs.LG,http://arxiv.org/pdf/cs/0504001v1
+cs/0506004v4,2005-06-01T14:03:20Z,Non-asymptotic calibration and resolution,Vladimir Vovk,cs.LG,http://arxiv.org/pdf/cs/0506004v4
+cs/0506007v2,2005-06-02T13:26:43Z,Defensive forecasting for linear protocols,Glenn Shafer,cs.LG,http://arxiv.org/pdf/cs/0506007v2
+cs/0506057v2,2005-06-14T04:00:38Z,About one 3-parameter Model of Testing,Kromer Victor,cs.LG,http://arxiv.org/pdf/cs/0506057v2
+cs/0506085v1,2005-06-22T21:21:13Z,On the Job Training,Jason E. Holt,cs.LG,http://arxiv.org/pdf/cs/0506085v1
+cs/0507033v2,2005-07-13T05:45:28Z,Multiresolution Kernels,Kenji Fukumizu,cs.LG,http://arxiv.org/pdf/cs/0507033v2
+cs/0507044v1,2005-07-18T14:33:56Z,Defensive Universal Learning with Experts,Marcus Hutter,cs.LG,http://arxiv.org/pdf/cs/0507044v1
+cs/0507062v1,2005-07-26T05:00:27Z,FPL Analysis for Adaptive Bandits,Jan Poland,cs.LG,http://arxiv.org/pdf/cs/0507062v1
+cs/0509055v1,2005-09-19T04:57:26Z,Learning Optimal Augmented Bayes Networks,Paul Helman,cs.LG,http://arxiv.org/pdf/cs/0509055v1
+cs/0510038v4,2005-10-14T19:26:34Z,Learning Unions of $ω(1)$-Dimensional Rectangles,Rocco A. Servedio,cs.LG,http://arxiv.org/pdf/cs/0510038v4
+cs/0511058v2,2005-11-15T17:13:50Z,On-line regression competitive with reproducing kernel Hilbert spaces,Vladimir Vovk,cs.LG,http://arxiv.org/pdf/cs/0511058v2
+cs/0511088v1,2005-11-25T15:57:56Z,Bounds on Query Convergence,Barak A. Pearlmutter,cs.LG,http://arxiv.org/pdf/cs/0511088v1
+cs/0512050v1,2005-12-13T13:25:57Z,Preference Learning in Terminology Extraction: A ROC-based approach,Michèle Sebag,cs.LG,http://arxiv.org/pdf/cs/0512050v1
+cs/0512059v2,2005-12-14T20:03:30Z,Competing with wild prediction rules,Vladimir Vovk,cs.LG,http://arxiv.org/pdf/cs/0512059v2
+cs/0601044v1,2006-01-11T15:39:16Z,"Genetic Programming, Validation Sets, and Parsimony Pressure",Marco Tomassini,cs.LG,http://arxiv.org/pdf/cs/0601044v1
+cs/0601087v1,2006-01-20T05:40:44Z,Processing of Test Matrices with Guessing Correction,Kromer Victor,cs.LG,http://arxiv.org/pdf/cs/0601087v1
+cs/0602062v1,2006-02-17T08:57:44Z,Learning rational stochastic languages,Amaury Habrard,cs.LG,http://arxiv.org/pdf/cs/0602062v1
+cs/0605040v1,2006-05-09T10:39:03Z,General Discounting versus Average Reward,Marcus Hutter,cs.LG,http://arxiv.org/pdf/cs/0605040v1
+cs/0606077v1,2006-06-16T16:33:23Z,On Sequence Prediction for Arbitrary Measures,Marcus Hutter,cs.LG,http://arxiv.org/pdf/cs/0606077v1
+cs/0606093v1,2006-06-22T04:31:51Z,Predictions as statements and decisions,Vladimir Vovk,cs.LG,http://arxiv.org/pdf/cs/0606093v1
+cs/0607047v1,2006-07-11T13:52:39Z,PAC Classification based on PAC Estimates of Label Class Distributions,Paul W. Goldberg,cs.LG,http://arxiv.org/pdf/cs/0607047v1
+cs/0607067v1,2006-07-13T15:52:04Z,Competing with stationary prediction strategies,Vladimir Vovk,cs.LG,http://arxiv.org/pdf/cs/0607067v1
+cs/0607085v2,2006-07-18T07:21:51Z,Using Pseudo-Stochastic Rational Languages in Probabilistic Grammatical   Inference,Yann Esposito,cs.LG,http://arxiv.org/pdf/cs/0607085v2
+cs/0607096v1,2006-07-20T14:52:08Z,Logical settings for concept learning from incomplete examples in First   Order Logic,Véronique Ventos,cs.LG,http://arxiv.org/pdf/cs/0607096v1
+cs/0607110v1,2006-07-25T15:57:56Z,"A Theory of Probabilistic Boosting, Decision Trees and Matryoshki",Etienne Grossmann,cs.LG,http://arxiv.org/pdf/cs/0607110v1
+cs/0607134v1,2006-07-27T22:11:07Z,Leading strategies in competitive on-line prediction,Vladimir Vovk,cs.LG,http://arxiv.org/pdf/cs/0607134v1
+cs/0607136v1,2006-07-28T21:45:41Z,Competing with Markov prediction strategies,Vladimir Vovk,cs.LG,http://arxiv.org/pdf/cs/0607136v1
+cs/0608033v1,2006-08-06T16:10:05Z,A Study on Learnability for Rigid Lambek Grammars,Roberto Bonato,cs.LG,http://arxiv.org/pdf/cs/0608033v1
+cs/0609007v1,2006-09-03T21:30:03Z,A Massive Local Rules Search Approach to the Classification Problem,Andrey Gorodetsky,cs.LG,http://arxiv.org/pdf/cs/0609007v1
+cs/0609045v1,2006-09-09T11:31:01Z,Metric entropy in competitive on-line prediction,Vladimir Vovk,cs.LG,http://arxiv.org/pdf/cs/0609045v1
+cs/0609093v1,2006-09-16T14:43:27Z,PAC Learning Mixtures of Axis-Aligned Gaussians with No Separation   Assumption,Rocco A. Servedio,cs.LG,http://arxiv.org/pdf/cs/0609093v1
+cs/0611011v1,2006-11-02T18:44:49Z,Hedging predictions in machine learning,Vladimir Vovk,cs.LG,http://arxiv.org/pdf/cs/0611011v1
+cs/0611145v1,2006-11-29T00:00:57Z,A Unified View of TD Algorithms; Introducing Full-Gradient TD and   Equi-Gradient Descent TD,Philippe Preux,cs.LG,http://arxiv.org/pdf/cs/0611145v1
+cs/0703062v1,2007-03-13T08:53:41Z,Bandit Algorithms for Tree Search,Rémi Munos,cs.LG,http://arxiv.org/pdf/cs/0703062v1
+cs/0703125v1,2007-03-25T01:19:14Z,Intrinsic dimension of a dataset: what properties does one expect?,Vladimir Pestov,cs.LG,http://arxiv.org/pdf/cs/0703125v1
+0704.1274v1,2007-04-10T17:01:07Z,Parametric Learning and Monte Carlo Optimization,Dev G. Rajnarayan,cs.LG,http://arxiv.org/pdf/0704.1274v1
+0704.2668v1,2007-04-20T08:26:29Z,Supervised Feature Selection via Dependence Estimation,Justin Bedo,cs.LG,http://arxiv.org/pdf/0704.2668v1
+0705.1585v1,2007-05-11T04:54:54Z,HMM Speaker Identification Using Linear and Non-linear Merging   Techniques,Tshilidzi Marwala,cs.LG,http://arxiv.org/pdf/0705.1585v1
+0706.3679v1,2007-06-25T17:28:57Z,Scale-sensitive Psi-dimensions: the Capacity Measures for Classifiers   Taking Values in R^Q,Yann Guermeur,cs.LG,http://arxiv.org/pdf/0706.3679v1
+0707.3390v2,2007-07-23T14:35:20Z,Consistency of the group Lasso and multiple kernel learning,Francis Bach,cs.LG,http://arxiv.org/pdf/0707.3390v2
+0708.1242v3,2007-08-09T10:21:34Z,Cost-minimising strategies for data labelling : optimal stopping and   active learning,Christian Savu-Krohn,cs.LG,http://arxiv.org/pdf/0708.1242v3
+0708.1503v1,2007-08-10T19:19:54Z,Defensive forecasting for optimal prediction with expert advice,Vladimir Vovk,cs.LG,http://arxiv.org/pdf/0708.1503v1
+0708.2353v2,2007-08-17T12:18:24Z,Continuous and randomized defensive forecasting: unified view,Vladimir Vovk,cs.LG,http://arxiv.org/pdf/0708.2353v2
+0710.0485v2,2007-10-02T10:08:41Z,Prediction with expert advice for the Brier game,Fedor Zhdanov,cs.LG,http://arxiv.org/pdf/0710.0485v2
+0710.2848v1,2007-10-15T15:38:33Z,Consistency of trace norm minimization,Francis Bach,cs.LG,http://arxiv.org/pdf/0710.2848v1
+0711.3594v1,2007-11-22T15:05:35Z,Clustering with Transitive Distance and K-Means Duality,Xiaoou Tang,cs.LG,http://arxiv.org/pdf/0711.3594v1
+0711.4452v1,2007-11-28T12:05:47Z,Covariance and PCA for Categorical Variables,Takashi Okada,cs.LG,http://arxiv.org/pdf/0711.4452v1
+0712.0130v1,2007-12-02T09:38:26Z,On the Relationship between the Posterior and Optimal Similarity,Thomas M. Breuel,cs.LG,http://arxiv.org/pdf/0712.0130v1
+0712.0653v2,2007-12-05T05:39:07Z,Equations of States in Singular Statistical Estimation,Sumio Watanabe,cs.LG,http://arxiv.org/pdf/0712.0653v2
+0712.2869v1,2007-12-18T03:30:05Z,Density estimation in linear time,Daniel Stefankovic,cs.LG,http://arxiv.org/pdf/0712.2869v1
+0712.3402v1,2007-12-20T13:06:50Z,Graph kernels between point clouds,Francis Bach,cs.LG,http://arxiv.org/pdf/0712.3402v1
+0801.1988v1,2008-01-14T06:56:42Z,Online variants of the cross-entropy method,Andras Lorincz,cs.LG,http://arxiv.org/pdf/0801.1988v1
+0801.4061v1,2008-01-26T07:32:48Z,The optimal assignment kernel is not positive definite,Jean-Philippe Vert,cs.LG,http://arxiv.org/pdf/0801.4061v1
+0802.1002v1,2008-02-07T15:18:27Z,New Estimation Procedures for PLS Path Modelling,Xavier Bry,cs.LG,http://arxiv.org/pdf/0802.1002v1
+0802.1430v2,2008-02-11T12:55:34Z,A New Approach to Collaborative Filtering: Operator Estimation with   Spectral Regularization,Jean-Philippe Vert,cs.LG,http://arxiv.org/pdf/0802.1430v2
+0804.3817v1,2008-04-23T23:18:00Z,Multiple Random Oracles Are Better Than One,Elchanan Mossel,cs.LG,http://arxiv.org/pdf/0804.3817v1
+0804.4682v1,2008-04-29T19:25:07Z,Introduction to Relational Networks for Classification,Tshilidzi Marwala,cs.LG,http://arxiv.org/pdf/0804.4682v1
+0804.4741v1,2008-04-30T06:07:45Z,The Effect of Structural Diversity of an Ensemble of Classifiers on   Classification Accuracy,Tshilidzi Marwala,cs.LG,http://arxiv.org/pdf/0804.4741v1
+0804.4898v1,2008-04-30T19:59:56Z,A Quadratic Loss Multi-Class SVM,Yann Guermeur,cs.LG,http://arxiv.org/pdf/0804.4898v1
+0805.0149v1,2008-05-01T20:25:27Z,On Recovery of Sparse Signals via $\ell_1$ Minimization,Jun Zhang,cs.LG,http://arxiv.org/pdf/0805.0149v1
+0805.2752v1,2008-05-18T20:07:22Z,The Margitron: A Generalised Perceptron with Margin,Petroula Tsampouka,cs.LG,http://arxiv.org/pdf/0805.2752v1
+0805.2775v1,2008-05-19T02:55:08Z,Sample Selection Bias Correction Theory,Afshin Rostamizadeh,cs.LG,http://arxiv.org/pdf/0805.2775v1
+0805.4290v1,2008-05-28T09:16:44Z,From Data Topology to a Modular Classifier,Yves Lecourtier,cs.LG,http://arxiv.org/pdf/0805.4290v1
+0806.1156v1,2008-06-06T13:33:31Z,Utilisation des grammaires probabilistes dans les tâches de   segmentation et d'annotation prosodique,Stéphane Rauzy,cs.LG,http://arxiv.org/pdf/0806.1156v1
+0806.3537v2,2008-06-22T01:28:14Z,Statistical Learning of Arbitrary Computable Classifiers,David Soloveichik,cs.LG,http://arxiv.org/pdf/0806.3537v2
+0806.4210v1,2008-06-25T23:18:44Z,Agnostically Learning Juntas from Random Walks,Elchanan Mossel,cs.LG,http://arxiv.org/pdf/0806.4210v1
+0806.4422v1,2008-06-27T05:19:19Z,Computationally Efficient Estimators for Dimension Reductions Using   Stable Random Projections,Ping Li,cs.LG,http://arxiv.org/pdf/0806.4422v1
+0806.4423v1,2008-06-27T05:36:09Z,On Approximating the Lp Distances for p>2,Ping Li,cs.LG,http://arxiv.org/pdf/0806.4423v1
+0807.0093v1,2008-07-01T09:46:14Z,Graph Kernels,Nicol N. Schraudolph,cs.LG,http://arxiv.org/pdf/0807.0093v1
+0807.2983v1,2008-07-18T14:41:44Z,"On Probability Distributions for Trees: Representations, Inference and   Learning",Édouard Gilbert,cs.LG,http://arxiv.org/pdf/0807.2983v1
+0807.4198v2,2008-07-25T22:50:46Z,Positive factor networks: A graphical framework for modeling   non-negative sequential data,Brian K. Vogel,cs.LG,http://arxiv.org/pdf/0807.4198v2
+0809.1590v1,2008-09-09T16:11:12Z,When is there a representer theorem? Vector versus matrix regularizers,Massimiliano Pontil,cs.LG,http://arxiv.org/pdf/0809.1590v1
+0809.2085v1,2008-09-11T19:01:39Z,Clustered Multi-Task Learning: A Convex Formulation,Jean-Philippe Vert,cs.LG,http://arxiv.org/pdf/0809.2085v1
+0809.4632v1,2008-09-26T13:47:36Z,Surrogate Learning - An Approach for Semi-Supervised Classification,Ravikumar Kondadadi,cs.LG,http://arxiv.org/pdf/0809.4632v1
+0810.4611v2,2008-10-25T15:09:28Z,Learning Isometric Separation Maps,David V. Anderson,cs.LG,http://arxiv.org/pdf/0810.4611v2
+0811.0139v1,2008-11-02T08:02:43Z,"Entropy, Perception, and Relativity",Stefan Jaeger,cs.LG,http://arxiv.org/pdf/0811.0139v1
+0811.1629v1,2008-11-11T05:09:08Z,Stability Bound for Stationary Phi-mixing and Beta-mixing Processes,Afshin Rostamizadeh,cs.LG,http://arxiv.org/pdf/0811.1629v1
+0811.2016v1,2008-11-13T01:23:47Z,Land Cover Mapping Using Ensemble Feature Selection Methods,T. Marwala,cs.LG,http://arxiv.org/pdf/0811.2016v1
+0812.1357v1,2008-12-07T15:22:27Z,A Novel Clustering Algorithm Based on Quantum Random Walk,Jing-ping Jiang,cs.LG,http://arxiv.org/pdf/0812.1357v1
+0812.1869v1,2008-12-10T09:00:40Z,Convex Sparse Matrix Factorizations,Jean Ponce,cs.LG,http://arxiv.org/pdf/0812.1869v1
+0812.3145v2,2008-12-16T20:41:06Z,Binary Classification Based on Potentials,Todd Young,cs.LG,http://arxiv.org/pdf/0812.3145v2
+0812.3465v2,2008-12-18T07:59:33Z,Linearly Parameterized Bandits,John N. Tsitsiklis,cs.LG,http://arxiv.org/pdf/0812.3465v2
+0812.4952v4,2008-12-29T18:29:08Z,Importance Weighted Active Learning,John Langford,cs.LG,http://arxiv.org/pdf/0812.4952v4
+0901.0753v1,2009-01-07T04:36:58Z,"Distributed Preemption Decisions: Probabilistic Graphical Model,   Algorithm and Near-Optimality",Chuanyi Ji,cs.LG,http://arxiv.org/pdf/0901.0753v1
+0901.2376v1,2009-01-16T01:00:39Z,A Limit Theorem in Singular Regression Problem,Sumio Watanabe,cs.LG,http://arxiv.org/pdf/0901.2376v1
+0901.4012v3,2009-01-26T15:12:13Z,Cross-situational and supervised learning in the emergence of   communication,Angelo Cangelosi,cs.LG,http://arxiv.org/pdf/0901.4012v3
+0902.1258v1,2009-02-07T18:01:09Z,Extraction de concepts sous contraintes dans des données d'expression   de gènes,François Rioult,cs.LG,http://arxiv.org/pdf/0902.1258v1
+0902.1259v1,2009-02-07T18:01:56Z,Database Transposition for Constrained (Closed) Pattern Mining,François Rioult,cs.LG,http://arxiv.org/pdf/0902.1259v1
+0902.1284v2,2009-02-08T02:30:06Z,Multi-Label Prediction via Compressed Sensing,Tong Zhang,cs.LG,http://arxiv.org/pdf/0902.1284v2
+0902.3373v1,2009-02-19T13:47:53Z,Learning rules from multisource data for cardiac monitoring,René Quiniou,cs.LG,http://arxiv.org/pdf/0902.3373v1
+0902.3846v1,2009-02-23T04:05:48Z,Uniqueness of Low-Rank Matrix Completion by Rigidity Theory,Mihai Cucuringu,cs.LG,http://arxiv.org/pdf/0902.3846v1
+0902.4127v2,2009-02-24T11:47:03Z,Prediction with expert evaluators' advice,Vladimir Vovk,cs.LG,http://arxiv.org/pdf/0902.4127v2
+0902.4228v1,2009-02-24T20:38:32Z,Multiplicative updates For Non-Negative Kernel SVM,Terran Lane,cs.LG,http://arxiv.org/pdf/0902.4228v1
+0903.1125v1,2009-03-05T22:39:46Z,Efficient Human Computation,Liat Ein-Dor,cs.LG,http://arxiv.org/pdf/0903.1125v1
+0903.2299v3,2009-03-13T13:47:03Z,Differential Contrastive Divergence,David McAllester,cs.LG,http://arxiv.org/pdf/0903.2299v3
+0903.2870v2,2009-03-16T22:52:06Z,On $p$-adic Classification,Patrick Erik Bradley,cs.LG,http://arxiv.org/pdf/0903.2870v2
+0904.0814v1,2009-04-05T20:08:44Z,Stability Analysis and Learning Bounds for Transductive Regression   Algorithms,Ashish Rastogi,cs.LG,http://arxiv.org/pdf/0904.0814v1
+0904.2160v1,2009-04-14T17:32:00Z,Inferring Dynamic Bayesian Networks using Frequent Episode Mining,Naren Ramakrishnan,cs.LG,http://arxiv.org/pdf/0904.2160v1
+0904.3664v1,2009-04-23T11:40:57Z,Introduction to Machine Learning: Class Notes 67577,Amnon Shashua,cs.LG,http://arxiv.org/pdf/0904.3664v1
+0904.4527v1,2009-04-29T03:16:20Z,Limits of Learning about a Categorical Latent Variable under Prior   Near-Ignorance,Marcus Hutter,cs.LG,http://arxiv.org/pdf/0904.4527v1
+0904.4608v2,2009-04-29T13:17:31Z,Temporal data mining for root-cause analysis of machine faults in   automotive assembly lines,K. P. Unnikrishnan,cs.LG,http://arxiv.org/pdf/0904.4608v2
+0905.2347v1,2009-05-14T14:59:15Z,Combining Supervised and Unsupervised Learning for GIS Classification,Frdéric Alexandre,cs.LG,http://arxiv.org/pdf/0905.2347v1
+0905.2997v1,2009-05-18T23:21:35Z,Average-Case Active Learning with Costs,Jeff Bilmes,cs.LG,http://arxiv.org/pdf/0905.2997v1
+0905.4022v1,2009-05-25T14:29:59Z,Transfer Learning Using Feature Selection,Lyle Ungar,cs.LG,http://arxiv.org/pdf/0905.4022v1
+0906.0211v2,2009-06-01T04:47:15Z,Equations of States in Statistical Learning for a Nonparametrizable and   Regular Case,Sumio Watanabe,cs.LG,http://arxiv.org/pdf/0906.0211v2
+0906.0470v1,2009-06-02T11:52:36Z,An optimal linear separator for the Sonar Signals Classification task,Mirta B. Gordon,cs.LG,http://arxiv.org/pdf/0906.0470v1
+0906.2635v1,2009-06-15T08:43:51Z,Bayesian History Reconstruction of Complex Human Gene Clusters on a   Phylogeny,Adam Siepel,cs.LG,http://arxiv.org/pdf/0906.2635v1
+0906.4032v1,2009-06-22T15:25:23Z,Bayesian two-sample tests,Zoubin Ghahramani,cs.LG,http://arxiv.org/pdf/0906.4032v1
+0906.4663v1,2009-06-25T11:09:39Z,Acquiring Knowledge for Evaluation of Teachers Performance in Higher   Education using a Questionnaire,Abdur Rashid Khan,cs.LG,http://arxiv.org/pdf/0906.4663v1
+0906.5151v1,2009-06-28T17:47:22Z,Unsupervised Search-based Structured Prediction,Hal Daumé III,cs.LG,http://arxiv.org/pdf/0906.5151v1
+0907.0453v2,2009-07-02T17:54:45Z,Random DFAs are Efficiently PAC Learnable,Leonid Aryeh Kontorovich,cs.LG,http://arxiv.org/pdf/0907.0453v2
+0907.0783v1,2009-07-04T18:35:52Z,Bayesian Multitask Learning with Latent Hierarchies,Hal Daumé III,cs.LG,http://arxiv.org/pdf/0907.0783v1
+0907.0808v1,2009-07-04T22:32:58Z,A Bayesian Model for Supervised Clustering with the Dirichlet Process   Prior,Daniel Marcu,cs.LG,http://arxiv.org/pdf/0907.0808v1
+0907.1812v1,2009-07-10T13:23:37Z,Fast search for Dirichlet process mixture models,Hal Daumé III,cs.LG,http://arxiv.org/pdf/0907.1812v1
+0908.0939v1,2009-08-06T19:48:20Z,Clustering for Improved Learning in Maze Traversal Problem,Eddie White,cs.LG,http://arxiv.org/pdf/0908.0939v1
+0909.3609v1,2009-09-19T23:40:10Z,Randomized Algorithms for Large scale SVMs,Ramesh Hariharan,cs.LG,http://arxiv.org/pdf/0909.3609v1
+0909.4603v1,2009-09-25T05:23:33Z,Scalable Inference for Latent Dirichlet Allocation,Tiberio Caetano,cs.LG,http://arxiv.org/pdf/0909.4603v1
+0911.0225v1,2009-11-02T19:53:01Z,A Mirroring Theorem and its Application to a New Method of Unsupervised   Hierarchical Pattern Classification,K. Eswaran,cs.LG,http://arxiv.org/pdf/0911.0225v1
+0911.2904v4,2009-11-15T18:43:10Z,Sequential anomaly detection in the presence of noise and limited   feedback,Roummel Marcia,cs.LG,http://arxiv.org/pdf/0911.2904v4
+0911.3304v1,2009-11-17T13:35:40Z,Keystroke Dynamics Authentication For Collaborative Systems,Christophe Rosenberger,cs.LG,http://arxiv.org/pdf/0911.3304v1
+0911.4863v2,2009-11-25T14:26:54Z,Statistical exponential families: A digest with flash cards,Vincent Garcia,cs.LG,http://arxiv.org/pdf/0911.4863v2
+0912.0086v1,2009-12-01T19:10:46Z,Learning Mixtures of Gaussians using the k-means Algorithm,Andrea Vattani,cs.LG,http://arxiv.org/pdf/0912.0086v1
+0912.1198v1,2009-12-07T10:35:56Z,Delay-Optimal Power and Subcarrier Allocation for OFDMA Systems via   Stochastic Approximation,Ying Cui,cs.LG,http://arxiv.org/pdf/0912.1198v1
+0912.1822v1,2009-12-09T18:11:11Z,Association Rule Pruning based on Interestingness Measures with   Clustering,R. Bhaskaran,cs.LG,http://arxiv.org/pdf/0912.1822v1
+0912.2314v1,2009-12-11T18:50:46Z,Early Detection of Breast Cancer using SVM Classifier Technique,S. Thamarai Selvi,cs.LG,http://arxiv.org/pdf/0912.2314v1
+0912.3983v1,2009-12-20T05:21:45Z,Performance Analysis of AIM-K-means & K-means in Quality Cluster   Generation,Mrinal Kanti Ghose,cs.LG,http://arxiv.org/pdf/0912.3983v1
+0912.3995v4,2009-12-21T00:08:19Z,Gaussian Process Optimization in the Bandit Setting: No Regret and   Experimental Design,Matthias Seeger,cs.LG,http://arxiv.org/pdf/0912.3995v4
+1001.0405v1,2010-01-03T19:54:40Z,Optimal Query Complexity for Reconstructing Hypergraphs,Hanna Mazzawi,cs.LG,http://arxiv.org/pdf/1001.0405v1
+1001.0879v1,2010-01-06T12:40:13Z,Linear Probability Forecasting,Yuri Kalnishkan,cs.LG,http://arxiv.org/pdf/1001.0879v1
+1001.1079v1,2010-01-07T14:41:21Z,Measuring Latent Causal Structure,Ricardo Silva,cs.LG,http://arxiv.org/pdf/1001.1079v1
+1001.2957v2,2010-01-18T05:34:09Z,Asymptotic Learning Curve and Renormalizable Condition in Statistical   Learning Theory,Sumio Watanabe,cs.LG,http://arxiv.org/pdf/1001.2957v2
+1001.3478v1,2010-01-20T07:30:02Z,Role of Interestingness Measures in CAR Rule Ordering for Associative   Classifier: An Empirical Approach,R. Bhaskaran,cs.LG,http://arxiv.org/pdf/1001.3478v1
+1001.5007v2,2010-01-27T19:24:33Z,Trajectory Clustering and an Application to Airspace Monitoring,Eric Feron,cs.LG,http://arxiv.org/pdf/1001.5007v2
+1002.0709v1,2010-02-03T11:31:24Z,Aggregating Algorithm competing with Banach lattices,Yuri Kalnishkan,cs.LG,http://arxiv.org/pdf/1002.0709v1
+1002.1144v1,2010-02-05T08:27:17Z,A CHAID Based Performance Prediction Model in Educational Data Mining,R. Bhaskaran,cs.LG,http://arxiv.org/pdf/1002.1144v1
+1002.1156v1,2010-02-05T08:59:05Z,Dimensionality Reduction: An Empirical Study on the Usability of IFE-CF   (Independent Feature Elimination- by C-Correlation and F-Correlation)   Measures,L. S. S. Reddy,cs.LG,http://arxiv.org/pdf/1002.1156v1
+1002.1782v3,2010-02-09T07:32:59Z,Online Distributed Sensor Selection,Andreas Krause,cs.LG,http://arxiv.org/pdf/1002.1782v3
+1002.2044v1,2010-02-10T09:08:56Z,On the Stability of Empirical Risk Minimization in the Presence of   Multiple Risk Minimizers,Aleksandr Simma,cs.LG,http://arxiv.org/pdf/1002.2044v1
+1002.2780v1,2010-02-14T16:37:04Z,Collaborative Filtering in a Non-Uniform World: Learning with the   Weighted Trace Norm,Nathan Srebro,cs.LG,http://arxiv.org/pdf/1002.2780v1
+1002.3345v2,2010-02-17T18:43:59Z,Interactive Submodular Set Cover,Jeff Bilmes,cs.LG,http://arxiv.org/pdf/1002.3345v2
+1002.4007v1,2010-02-21T19:48:16Z,Word level Script Identification from Bangla and Devanagri Handwritten   Texts mixed with Roman Script,Dipak Kumar Basu,cs.LG,http://arxiv.org/pdf/1002.4007v1
+1002.4058v3,2010-02-22T07:11:39Z,Contextual Bandit Algorithms with Supervised Learning Guarantees,Robert E. Schapire,cs.LG,http://arxiv.org/pdf/1002.4058v3
+1002.4908v2,2010-02-26T01:36:34Z,Adaptive Bound Optimization for Online Convex Optimization,Matthew Streeter,cs.LG,http://arxiv.org/pdf/1002.4908v2
+1004.1982v1,2010-04-09T09:36:28Z,State-Space Dynamics Distance for Clustering Sequential Data,Fernando Díaz-de-María,cs.LG,http://arxiv.org/pdf/1004.1982v1
+1004.2316v2,2010-04-14T05:08:48Z,Asymptotic Equivalence of Bayes Cross Validation and Widely Applicable   Information Criterion in Singular Learning Theory,Sumio Watanabe,cs.LG,http://arxiv.org/pdf/1004.2316v2
+1004.3334v1,2010-04-20T02:52:27Z,Generation and Interpretation of Temporal Decision Rules,Howard J. Hamilton,cs.LG,http://arxiv.org/pdf/1004.3334v1
+1004.3814v1,2010-04-21T23:09:06Z,Bregman Distance to L1 Regularized Logistic Regression,Thomas S. Huang,cs.LG,http://arxiv.org/pdf/1004.3814v1
+1004.4421v2,2010-04-26T07:41:50Z,Efficient Learning with Partially Observed Attributes,Ohad Shamir,cs.LG,http://arxiv.org/pdf/1004.4421v2
+1007.0660v1,2010-07-05T11:46:35Z,The Latent Bernoulli-Gauss Model for Data Analysis,Gabi Pragier,cs.LG,http://arxiv.org/pdf/1007.0660v1
+1007.0824v1,2010-07-06T07:47:00Z,Filtrage vaste marge pour l'étiquetage séquentiel à noyaux de   signaux,Alain Rakotomamonjy,cs.LG,http://arxiv.org/pdf/1007.0824v1
+1007.1282v1,2010-07-08T03:58:25Z,A note on sample complexity of learning binary output neural networks   under fixed input distributions,Vladimir Pestov,cs.LG,http://arxiv.org/pdf/1007.1282v1
+1007.2049v1,2010-07-13T08:48:18Z,Reinforcement Learning via AIXI Approximation,David Silver,cs.LG,http://arxiv.org/pdf/1007.2049v1
+1007.3799v1,2010-07-22T04:58:24Z,Adapting to the Shifting Intent of Search Queries,Nina Mishra,cs.LG,http://arxiv.org/pdf/1007.3799v1
+1007.5133v1,2010-07-29T07:36:49Z,Comparison of Support Vector Machine and Back Propagation Neural Network   in Evaluating the Enterprise Financial Distress,Chang To,cs.LG,http://arxiv.org/pdf/1007.5133v1
+1008.0336v1,2010-08-02T16:30:02Z,Close Clustering Based Automated Color Image Annotation,Krishna Asawa,cs.LG,http://arxiv.org/pdf/1008.0336v1
+1008.0528v1,2010-08-03T12:10:40Z,Bounded Coordinate-Descent for Biological Sequence Classification in   High Dimensional Predictor Space,Carsten Wiuf,cs.LG,http://arxiv.org/pdf/1008.0528v1
+1008.1398v1,2010-08-08T11:25:12Z,Semi-Supervised Kernel PCA,Lars Kai Hansen,cs.LG,http://arxiv.org/pdf/1008.1398v1
+1008.4232v1,2010-08-25T09:09:29Z,Online Learning in Case of Unbounded Losses Using the Follow Perturbed   Leader Algorithm,Vladimir V. V'yugin,cs.LG,http://arxiv.org/pdf/1008.4232v1
+1008.4532v1,2010-08-26T15:36:22Z,Switching between Hidden Markov Models using Fixed Share,Tim van Erven,cs.LG,http://arxiv.org/pdf/1008.4532v1
+1008.4654v1,2010-08-27T06:53:28Z,Freezing and Sleeping: Tracking Experts that Learn by Evolving Past   Posteriors,Tim van Erven,cs.LG,http://arxiv.org/pdf/1008.4654v1
+1009.0117v1,2010-09-01T08:29:49Z,Exploring Language-Independent Emotional Acoustic Features via Feature   Selection,Ke Chen,cs.LG,http://arxiv.org/pdf/1009.0117v1
+1009.0306v1,2010-09-02T00:25:58Z,Fast Overlapping Group Lasso,Jieping Ye,cs.LG,http://arxiv.org/pdf/1009.0306v1
+1009.2566v1,2010-09-14T03:53:11Z,Reinforcement Learning by Comparing Immediate Reward,Shishir Kumar,cs.LG,http://arxiv.org/pdf/1009.2566v1
+1009.3240v2,2010-09-16T18:40:32Z,A Unified View of Regularized Dual Averaging and Mirror Descent with   Implicit Updates,H. Brendan McMahan,cs.LG,http://arxiv.org/pdf/1009.3240v2
+1009.3346v1,2010-09-17T06:47:25Z,Conditional Random Fields and Support Vector Machines: A Hybrid Approach,Tiberio Caetano,cs.LG,http://arxiv.org/pdf/1009.3346v1
+1009.3604v5,2010-09-19T03:54:12Z,Geometric Decision Tree,P. S. Sastry,cs.LG,http://arxiv.org/pdf/1009.3604v5
+1009.3613v5,2010-09-19T07:26:37Z,On the Doubt about Margin Explanation of Boosting,Zhi-Hua Zhou,cs.LG,http://arxiv.org/pdf/1009.3613v5
+1009.3702v1,2010-09-20T06:35:11Z,Totally Corrective Multiclass Boosting with Binary Weak Learners,Bo Wang,cs.LG,http://arxiv.org/pdf/1009.3702v1
+1009.3896v2,2010-09-20T17:35:35Z,Optimistic Rates for Learning with a Smooth Loss,Ambuj Tewari,cs.LG,http://arxiv.org/pdf/1009.3896v2
+1009.4766v1,2010-09-24T05:53:28Z,Efficient L1/Lq Norm Regularization,Jieping Ye,cs.LG,http://arxiv.org/pdf/1009.4766v1
+1009.4791v2,2010-09-24T09:53:32Z,Multi-parametric Solution-path Algorithm for Instance-weighted Support   Vector Machines,Ichiro Takeuchi,cs.LG,http://arxiv.org/pdf/1009.4791v2
+1009.5419v2,2010-09-28T00:41:45Z,Portfolio Allocation for Bayesian Optimization,Nando de Freitas,cs.LG,http://arxiv.org/pdf/1009.5419v2
+1009.5773v4,2010-09-29T05:23:20Z,Fast Reinforcement Learning for Energy-Efficient Wireless Communications,Mihaela van der Schaar,cs.LG,http://arxiv.org/pdf/1009.5773v4
+1009.5972v1,2010-09-29T18:55:02Z,The Attentive Perceptron,Zhiliang Ying,cs.LG,http://arxiv.org/pdf/1009.5972v1
+1010.0287v1,2010-10-02T03:57:46Z,Queue-Aware Distributive Resource Control for Delay-Sensitive Two-Hop   MIMO Cooperative Systems,Ying Cui,cs.LG,http://arxiv.org/pdf/1010.0287v1
+1010.1526v6,2010-10-07T19:48:23Z,Time Series Classification by Class-Specific Mahalanobis Distance   Measures,Daniel Lemire,cs.LG,http://arxiv.org/pdf/1010.1526v6
+1010.1763v3,2010-10-08T18:53:27Z,Algorithms for nonnegative matrix factorization with the beta-divergence,Jérôme Idier,cs.LG,http://arxiv.org/pdf/1010.1763v3
+1010.3484v1,2010-10-18T05:46:46Z,Hardness Results for Agnostically Learning Low-Degree Polynomial   Threshold Functions,Yi Wu,cs.LG,http://arxiv.org/pdf/1010.3484v1
+1010.4050v1,2010-10-19T21:01:45Z,Efficient Matrix Completion with Gaussian Models,Guillermo Sapiro,cs.LG,http://arxiv.org/pdf/1010.4050v1
+1010.4253v1,2010-10-20T17:21:38Z,Large-Scale Clustering Based on Data Compression,Xudong Ma,cs.LG,http://arxiv.org/pdf/1010.4253v1
+1010.4408v1,2010-10-21T09:57:12Z,Sublinear Optimization for Machine Learning,David P. Woodruff,cs.LG,http://arxiv.org/pdf/1010.4408v1
+1011.0472v1,2010-11-01T23:41:35Z,Regularized Risk Minimization by Nesterov's Accelerated Gradient   Methods: Algorithmic Extensions and Empirical Studies,S. V. N. Vishwanathan,cs.LG,http://arxiv.org/pdf/1011.0472v1
+1011.1576v4,2010-11-06T18:40:15Z,Online Importance Weight Aware Updates,John Langford,cs.LG,http://arxiv.org/pdf/1011.1576v4
+1011.5668v1,2010-11-25T18:52:30Z,"On Theorem 2.3 in ""Prediction, Learning, and Games"" by Cesa-Bianchi and   Lugosi",Alexey Chernov,cs.LG,http://arxiv.org/pdf/1011.5668v1
+1012.0498v1,2010-12-02T17:04:19Z,Estimating Probabilities in Recommendation Systems,Paul Kidwell,cs.LG,http://arxiv.org/pdf/1012.0498v1
+1012.2599v1,2010-12-12T22:53:04Z,"A Tutorial on Bayesian Optimization of Expensive Cost Functions, with   Application to Active User Modeling and Hierarchical Reinforcement Learning",Nando de Freitas,cs.LG,http://arxiv.org/pdf/1012.2599v1
+1012.3877v1,2010-12-17T13:16:07Z,Queue-Aware Dynamic Clustering and Power Allocation for Network MIMO   Systems via Distributive Stochastic Learning,Vincent K. N. Lau,cs.LG,http://arxiv.org/pdf/1012.3877v1
+1012.4051v1,2010-12-18T03:25:44Z,Survey & Experiment: Towards the Learning Accuracy,Zeyuan Allen Zhu,cs.LG,http://arxiv.org/pdf/1012.4051v1
+1012.4249v1,2010-12-20T07:36:42Z,Travel Time Estimation Using Floating Car Data,Ram Rajagopal,cs.LG,http://arxiv.org/pdf/1012.4249v1
+1012.4571v1,2010-12-21T09:11:53Z,"How I won the ""Chess Ratings - Elo vs the Rest of the World"" Competition",Yannis Sismanis,cs.LG,http://arxiv.org/pdf/1012.4571v1
+1101.4170v1,2011-01-21T16:11:05Z,The Role of Normalization in the Belief Propagation Algorithm,Cyril Furtlehner,cs.LG,http://arxiv.org/pdf/1101.4170v1
+1101.4681v6,2011-01-24T22:12:37Z,Close the Gaps: A Learning-while-Doing Algorithm for a Class of   Single-Product Revenue Management Problems,Yinyu Ye,cs.LG,http://arxiv.org/pdf/1101.4681v6
+1101.5039v1,2011-01-26T12:21:13Z,A Novel Template-Based Learning Model,Alireza Nowroozi,cs.LG,http://arxiv.org/pdf/1101.5039v1
+1102.0836v2,2011-02-04T04:40:07Z,EigenNet: A Bayesian hybrid of generative and conditional models for   sparse learning,Feng Yan,cs.LG,http://arxiv.org/pdf/1102.0836v2
+1102.2808v5,2011-02-14T15:53:06Z,Transductive Ordinal Regression,Yew-Soon Ong,cs.LG,http://arxiv.org/pdf/1102.2808v5
+1105.0471v1,2011-05-03T03:14:14Z,Suboptimal Solution Path Algorithm for Support Vector Machine,Ichiro Takeuchi,cs.LG,http://arxiv.org/pdf/1105.0471v1
+1105.0857v1,2011-05-04T15:50:44Z,Domain Adaptation: Overfitting and Small Sample Statistics,Ruslan Salakhutdinov,cs.LG,http://arxiv.org/pdf/1105.0857v1
+1105.1033v2,2011-05-05T11:03:03Z,Adaptively Learning the Crowd Kernel,Adam Tauman Kalai,cs.LG,http://arxiv.org/pdf/1105.1033v2
+1105.2550v3,2011-05-12T19:29:21Z,A Maximal Large Deviation Inequality for Sub-Gaussian Variables,Shie Mannor,cs.LG,http://arxiv.org/pdf/1105.2550v3
+1105.4272v1,2011-05-21T17:28:12Z,Calibration with Changing Checking Rules and Its Application to   Short-Term Trading,Vladimir V'yugin,cs.LG,http://arxiv.org/pdf/1105.4272v1
+1105.4618v1,2011-05-23T20:04:16Z,Bounding the Fat Shattering Dimension of a Composition Function Class   Built Using a Continuous Logic Connective,Hubert Haoyang Duan,cs.LG,http://arxiv.org/pdf/1105.4618v1
+1105.4701v3,2011-05-24T07:58:30Z,"Online Learning, Stability, and Stochastic Gradient Descent",Lorenzo Rosasco,cs.LG,http://arxiv.org/pdf/1105.4701v3
+1105.5196v1,2011-05-26T03:41:47Z,Large-Scale Music Annotation and Retrieval: Learning to Rank in Joint   Semantic Spaces,Philippe Hamel,cs.LG,http://arxiv.org/pdf/1105.5196v1
+1105.5592v1,2011-05-27T15:56:11Z,Kernel Belief Propagation,Carlos Guestrin,cs.LG,http://arxiv.org/pdf/1105.5592v1
+1105.6041v1,2011-05-30T17:02:09Z,The Perceptron with Dynamic Margin,Petroula Tsampouka,cs.LG,http://arxiv.org/pdf/1105.6041v1
+1106.1379v4,2011-06-07T15:52:39Z,A Unified Framework for Approximating and Clustering Data,Michael Langberg,cs.LG,http://arxiv.org/pdf/1106.1379v4
+1106.1684v1,2011-06-08T23:03:47Z,Max-Margin Stacking and Sparse Regularization for Linear Classifier   Combination and Selection,Hakan Erdogan,cs.LG,http://arxiv.org/pdf/1106.1684v1
+1106.1770v3,2011-06-09T10:40:08Z,Reinforcement learning based sensing policy optimization for energy   efficient cognitive radio networks,Visa Koivunen,cs.LG,http://arxiv.org/pdf/1106.1770v3
+1106.1887v4,2011-06-09T19:34:29Z,Learning the Dependence Graph of Time Series with Latent Factors,Sujay Sanghavi,cs.LG,http://arxiv.org/pdf/1106.1887v4
+1106.3355v2,2011-06-16T21:32:26Z,On epsilon-optimality of the pursuit learning algorithm,Omkar Tilak,cs.LG,http://arxiv.org/pdf/1106.3355v2
+1106.3395v1,2011-06-17T06:53:47Z,Decoding finger movements from ECoG signals using switching linear   models,Alain Rakotomamonjy,cs.LG,http://arxiv.org/pdf/1106.3395v1
+1106.3396v1,2011-06-17T06:54:35Z,Large margin filtering for signal sequence labeling,Alain Rakotomamonjy,cs.LG,http://arxiv.org/pdf/1106.3396v1
+1106.3397v1,2011-06-17T06:55:24Z,Handling uncertainties in SVM classification,Stéphane Canu,cs.LG,http://arxiv.org/pdf/1106.3397v1
+1106.4064v2,2011-06-21T00:37:23Z,Algorithmic Programming Language Identification,Simon Weber,cs.LG,http://arxiv.org/pdf/1106.4064v2
+1106.4574v1,2011-06-22T20:59:20Z,Better Mini-Batch Algorithms via Accelerated Gradient Methods,Karthik Sridharan,cs.LG,http://arxiv.org/pdf/1106.4574v1
+1106.5267v1,2011-06-26T21:07:01Z,Potential-Based Shaping and Q-Value Initialization are Equivalent,E. Wiewiora,cs.LG,http://arxiv.org/pdf/1106.5267v1
+1106.6186v1,2011-06-30T11:08:35Z,IBSEAD: - A Self-Evolving Self-Obsessed Learning Algorithm for Machine   Learning,David Chik,cs.LG,http://arxiv.org/pdf/1106.6186v1
+1106.6258v2,2011-06-30T15:03:58Z,A Note on Improved Loss Bounds for Multiple Kernel Learning,Mario Marchand,cs.LG,http://arxiv.org/pdf/1106.6258v2
+1107.0922v1,2011-07-05T16:56:53Z,GraphLab: A Distributed Framework for Machine Learning in the Cloud,Carlos Guestrin,cs.LG,http://arxiv.org/pdf/1107.0922v1
+1107.2490v2,2011-07-13T08:57:29Z,Towards Optimal One Pass Large Scale Learning with Averaged Stochastic   Gradient Descent,Wei Xu,cs.LG,http://arxiv.org/pdf/1107.2490v2
+1107.3407v1,2011-07-18T12:01:28Z,Discovering Knowledge using a Constraint-based Language,Jean-Philippe Métivier,cs.LG,http://arxiv.org/pdf/1107.3407v1
+1107.4080v1,2011-07-20T19:34:00Z,On the Universality of Online Mirror Descent,Ambuj Tewari,cs.LG,http://arxiv.org/pdf/1107.4080v1
+1107.4606v2,2011-07-22T13:05:48Z,The Divergence of Reinforcement Learning Algorithms with Value-Iteration   and Function Approximation,Eduardo Alonso,cs.LG,http://arxiv.org/pdf/1107.4606v2
+1107.5520v1,2011-07-27T16:29:06Z,Axioms for Rational Reinforcement Learning,Marcus Hutter,cs.LG,http://arxiv.org/pdf/1107.5520v1
+1107.5671v1,2011-07-28T10:36:30Z,Automatic Network Reconstruction using ASP,Annegret Wagler,cs.LG,http://arxiv.org/pdf/1107.5671v1
+1108.2486v1,2011-08-11T18:54:02Z,Feature Extraction for Change-Point Detection using Stationary Subspace   Analysis,Klaus-Robert Müller,cs.LG,http://arxiv.org/pdf/1108.2486v1
+1108.4559v2,2011-08-23T11:52:35Z,Optimal Algorithms for Ridge and Lasso Regression with Partially   Observed Attributes,Tomer Koren,cs.LG,http://arxiv.org/pdf/1108.4559v2
+1108.4961v1,2011-08-24T22:38:40Z,Non-trivial two-armed partial-monitoring games are bandits,Csaba Szepesvári,cs.LG,http://arxiv.org/pdf/1108.4961v1
+1109.0093v4,2011-09-01T05:28:55Z,Local Component Analysis,Francis Bach,cs.LG,http://arxiv.org/pdf/1109.0093v4
+1109.1844v2,2011-09-08T20:53:54Z,Weighted Clustering,David Loker,cs.LG,http://arxiv.org/pdf/1109.1844v2
+1109.2047v1,2011-09-09T15:56:58Z,Learning From Labeled And Unlabeled Data: An Empirical Study Across   Techniques And Domains,Grigoris Karakoulas,cs.LG,http://arxiv.org/pdf/1109.2047v1
+1109.2141v1,2011-09-09T20:31:05Z,Efficiency versus Convergence of Boolean Kernels for On-Line Learning   Algorithms,R. A. Servedio,cs.LG,http://arxiv.org/pdf/1109.2141v1
+1109.2147v1,2011-09-09T20:32:41Z,Risk-Sensitive Reinforcement Learning Applied to Control under   Constraints,F. Wysotzki,cs.LG,http://arxiv.org/pdf/1109.2147v1
+1109.2296v1,2011-09-11T09:00:53Z,Bandits with an Edge,Shie Mannor,cs.LG,http://arxiv.org/pdf/1109.2296v1
+1109.3318v2,2011-09-15T11:31:31Z,Distributed User Profiling via Spectral Methods,Laurent Massoulié,cs.LG,http://arxiv.org/pdf/1109.3318v2
+1109.3437v4,2011-09-15T19:20:48Z,Learning Topic Models by Belief Propagation,Jiming Liu,cs.LG,http://arxiv.org/pdf/1109.3437v4
+1109.5078v1,2011-09-23T13:51:31Z,Application of distances between terms for flat and hierarchical data,Jose Hernandez-Orallo,cs.LG,http://arxiv.org/pdf/1109.5078v1
+1109.5231v4,2011-09-24T04:50:55Z,Noise Tolerance under Risk Minimization,P. S. Sastry,cs.LG,http://arxiv.org/pdf/1109.5231v4
+1110.1073v1,2011-10-05T18:59:49Z,Active Learning with Multiple Views,I. Muslea,cs.LG,http://arxiv.org/pdf/1110.1073v1
+1110.1075v1,2011-10-05T19:03:35Z,The Augmented Complex Kernel LMS,Michael Mavroforakis,cs.LG,http://arxiv.org/pdf/1110.1075v1
+1110.2098v3,2011-10-10T16:35:51Z,Dynamic Matrix Factorization: A State Space Approach,Karthik Subbian,cs.LG,http://arxiv.org/pdf/1110.2098v3
+1110.2136v3,2011-10-10T18:32:32Z,Active Learning Using Smooth Relative Regret Approximations with   Applications,Esther Ezra,cs.LG,http://arxiv.org/pdf/1110.2136v3
+1110.2416v1,2011-10-11T16:19:06Z,Supervised learning of short and high-dimensional temporal sequences for   life science measurements,B. Hammer,cs.LG,http://arxiv.org/pdf/1110.2416v1
+1110.3347v1,2011-10-14T21:47:12Z,Dynamic Batch Bayesian Optimization,Xiaoli Fern,cs.LG,http://arxiv.org/pdf/1110.3347v1
+1110.4181v1,2011-10-19T04:42:33Z,Injecting External Solutions Into CMA-ES,Nikolaus Hansen,cs.LG,http://arxiv.org/pdf/1110.4181v1
+1110.4416v1,2011-10-20T00:56:53Z,Data-dependent kernels in nearly-linear time,John Shawe-Taylor,cs.LG,http://arxiv.org/pdf/1110.4416v1
+1110.4481v1,2011-10-20T09:50:58Z,Learning Hierarchical and Topographic Dictionaries with Structured   Sparsity,Francis Bach,cs.LG,http://arxiv.org/pdf/1110.4481v1
+1110.5051v1,2011-10-23T14:41:21Z,Wikipedia Edit Number Prediction based on Temporal Dynamics Only,Dell Zhang,cs.LG,http://arxiv.org/pdf/1110.5051v1
+1110.6287v1,2011-10-28T10:20:25Z,Deciding of HMM parameters based on number of critical points for   gesture recognition from motion capture data,Przemysław Głomb,cs.LG,http://arxiv.org/pdf/1110.6287v1
+1110.6755v2,2011-10-31T11:36:49Z,PAC-Bayes-Bernstein Inequality for Martingales and its Application to   Multiarmed Bandits,John Shawe-Taylor,cs.LG,http://arxiv.org/pdf/1110.6755v2
+1111.1386v1,2011-11-06T08:43:21Z,Confidence Estimation in Structured Prediction,Koby Crammer,cs.LG,http://arxiv.org/pdf/1111.1386v1
+1111.1422v1,2011-11-06T14:01:14Z,Robust Interactive Learning,Steve Hanneke,cs.LG,http://arxiv.org/pdf/1111.1422v1
+1111.4460v1,2011-11-18T19:23:47Z,Parametrized Stochastic Multi-armed Bandits with Binary Rewards,R. Srikant,cs.LG,http://arxiv.org/pdf/1111.4460v1
+1111.4470v2,2011-11-18T20:32:33Z,Efficient Regression in Metric Spaces via Approximate Lipschitz   Extension,Robert Krauthgamer,cs.LG,http://arxiv.org/pdf/1111.4470v2
+1111.4541v2,2011-11-19T08:39:34Z,Large Scale Spectral Clustering Using Approximate Commute Time Embedding,Sanjay Chawla,cs.LG,http://arxiv.org/pdf/1111.4541v2
+1111.6082v3,2011-11-25T18:51:29Z,Trading Regret for Efficiency: Online Convex Optimization with Long Term   Constraints,Tianbao Yang,cs.LG,http://arxiv.org/pdf/1111.6082v3
+1111.6337v4,2011-11-28T03:50:18Z,Regret Bound by Variation for Online Convex Optimization,Shenghuo Zhu,cs.LG,http://arxiv.org/pdf/1111.6337v4
+1201.0292v1,2011-12-31T17:29:08Z,T-Learning,Juergen Schmidhuber,cs.LG,http://arxiv.org/pdf/1201.0292v1
+1201.0838v2,2012-01-04T07:07:06Z,A Topic Modeling Toolbox Using Belief Propagation,Jia Zeng,cs.LG,http://arxiv.org/pdf/1201.0838v2
+1201.1670v1,2012-01-08T23:59:27Z,Customers Behavior Modeling by Semi-Supervised Learning in Customer   Relationship Management,MohammadReza Keyvanpour,cs.LG,http://arxiv.org/pdf/1201.1670v1
+1201.2173v1,2012-01-10T11:03:42Z,Automatic Detection of Diabetes Diagnosis using Feature Weighted Support   Vector Machines based on Mutual Information and Modified Cuckoo Search,Younes Khademian,cs.LG,http://arxiv.org/pdf/1201.2173v1
+1201.2416v1,2012-01-11T21:03:55Z,Stochastic Low-Rank Kernel Learning for Regression,Hervé Glotin,cs.LG,http://arxiv.org/pdf/1201.2416v1
+1201.2902v1,2012-01-13T17:46:17Z,Acoustical Quality Assessment of the Classroom Environment,Moustafa Youssef,cs.LG,http://arxiv.org/pdf/1201.2902v1
+1201.5283v5,2012-01-24T04:09:54Z,An Efficient Primal-Dual Prox Method for Non-Smooth Optimization,Shenghuo Zhu,cs.LG,http://arxiv.org/pdf/1201.5283v5
+1201.6053v1,2012-01-29T16:23:54Z,A Comparison Between Data Mining Prediction Algorithms for Fault   Detection(Case study: Ahanpishegan co.),Malihe Bagheri-Dehnavi,cs.LG,http://arxiv.org/pdf/1201.6053v1
+1201.6462v1,2012-01-31T07:46:08Z,Active Learning of Custering with Side Information Using $\eps$-Smooth   Relative Regret Approximations,Ron Begleiter,cs.LG,http://arxiv.org/pdf/1201.6462v1
+1202.1334v2,2012-02-07T02:27:55Z,Contextual Bandit Learning with Predictable Rewards,Robert E. Schapire,cs.LG,http://arxiv.org/pdf/1202.1334v2
+1202.1558v1,2012-02-07T23:14:36Z,On the Performance of Maximum Likelihood Inverse Reinforcement Learning,Ruben Martinez-Cantin,cs.LG,http://arxiv.org/pdf/1202.1558v1
+1202.3890v1,2012-02-17T11:59:55Z,PAC Bounds for Discounted MDPs,Marcus Hutter,cs.LG,http://arxiv.org/pdf/1202.3890v1
+1202.6221v2,2012-02-28T14:03:11Z,Confusion Matrix Stability Bounds for Multiclass Classification,Liva Ralaivola,cs.LG,http://arxiv.org/pdf/1202.6221v2
+1203.0298v2,2012-03-01T14:40:02Z,Application of Gist SVM in Cancer Detection,L. V. Nandakishore,cs.LG,http://arxiv.org/pdf/1203.0298v2
+1203.2557v3,2012-03-12T17:17:34Z,On the Necessity of Irrelevant Variables,Philip M. Long,cs.LG,http://arxiv.org/pdf/1203.2557v3
+1203.3832v1,2012-03-17T02:06:41Z,Data Mining: A Prediction for Performance Improvement of Engineering   Students using Classification,Saurabh Pal,cs.LG,http://arxiv.org/pdf/1203.3832v1
+1203.4598v1,2012-03-20T21:32:33Z,Adaptive Mixture Methods Based on Bregman Divergences,Suleyman S. Kozat,cs.LG,http://arxiv.org/pdf/1203.4598v1
+1203.4788v1,2012-03-21T17:29:17Z,Very Short Literature Survey From Supervised Learning To Surrogate   Modeling,Altay Brusan,cs.LG,http://arxiv.org/pdf/1203.4788v1
+1203.5716v2,2012-03-26T16:25:35Z,Credal Classification based on AODE and compression coefficients,Alessandro Antonucci,cs.LG,http://arxiv.org/pdf/1203.5716v2
+1204.0566v2,2012-04-03T00:33:53Z,The Kernelized Stochastic Batch Perceptron,Nathan Srebro,cs.LG,http://arxiv.org/pdf/1204.0566v2
+1204.2609v2,2012-04-12T03:49:15Z,Stochastic Feature Mapping for PAC-Bayes Classification,Yuncai Liu,cs.LG,http://arxiv.org/pdf/1204.2609v2
+1204.4329v1,2012-04-19T12:03:20Z,Supervised feature evaluation by consistency analysis: application to   measure sets used to characterise geographic objects,Alexis Drogoul,cs.LG,http://arxiv.org/pdf/1204.4329v1
+1205.0406v1,2012-05-02T12:38:11Z,Minimax Classifier for Uncertain Costs,Ke Tang,cs.LG,http://arxiv.org/pdf/1205.0406v1
+1205.0610v1,2012-05-03T04:09:19Z,Greedy Multiple Instance Learning via Codebook Learning and Nearest   Neighbor Voting,Jason Corso,cs.LG,http://arxiv.org/pdf/1205.0610v1
+1205.2151v1,2012-05-10T03:31:39Z,A Converged Algorithm for Tikhonov Regularized Nonnegative Matrix   Factorization with Automatic Regularization Parameters Determination,Andri Mirzal,cs.LG,http://arxiv.org/pdf/1205.2151v1
+1205.2265v2,2012-05-08T23:06:06Z,Efficient Constrained Regret Minimization,Rong Jin,cs.LG,http://arxiv.org/pdf/1205.2265v2
+1205.2600v1,2012-05-09T18:48:23Z,A Uniqueness Theorem for Clustering,Shai Ben-David,cs.LG,http://arxiv.org/pdf/1205.2600v1
+1205.2602v1,2012-05-09T18:46:51Z,The Entire Quantile Path of a Risk-Agnostic SVM Classifier,Jian Zhang,cs.LG,http://arxiv.org/pdf/1205.2602v1
+1205.2610v1,2012-05-09T18:36:39Z,Probabilistic Structured Predictors,Mario Boley,cs.LG,http://arxiv.org/pdf/1205.2610v1
+1205.2661v1,2012-05-09T14:47:06Z,REGAL: A Regularization based Algorithm for Reinforcement Learning in   Weakly Communicating MDPs,Ambuj Tewari,cs.LG,http://arxiv.org/pdf/1205.2661v1
+1205.2664v1,2012-05-09T14:42:20Z,A Bayesian Sampling Approach to Exploration in Reinforcement Learning,David Wingate,cs.LG,http://arxiv.org/pdf/1205.2664v1
+1205.2874v3,2012-05-13T15:11:00Z,Decoupling Exploration and Exploitation in Multi-Armed Bandits,Ohad Shamir,cs.LG,http://arxiv.org/pdf/1205.2874v3
+1205.3549v2,2012-05-16T03:54:30Z,Normalized Maximum Likelihood Coding for Exponential Family with Its   Applications to Optimal Clustering,Kenji Yamanishi,cs.LG,http://arxiv.org/pdf/1205.3549v2
+1205.4234v2,2012-05-19T08:16:21Z,Visualization of features of a series of measurements with   one-dimensional cellular structure,D. V. Lande,cs.LG,http://arxiv.org/pdf/1205.4234v2
+1205.4698v2,2012-05-21T19:19:49Z,The Role of Weight Shrinking in Large Margin Perceptron Learning,Petroula Tsampouka,cs.LG,http://arxiv.org/pdf/1205.4698v2
+1205.4810v3,2012-05-22T06:02:09Z,Safe Exploration in Markov Decision Processes,Pieter Abbeel,cs.LG,http://arxiv.org/pdf/1205.4810v3
+1205.4839v5,2012-05-22T08:36:41Z,Off-Policy Actor-Critic,Richard S. Sutton,cs.LG,http://arxiv.org/pdf/1205.4839v5
+1205.6432v2,2012-05-29T17:40:04Z,Multiclass Learning Approaches: A Theoretical Comparison with   Implications,Shai Shalev Shwartz,cs.LG,http://arxiv.org/pdf/1205.6432v2
+1206.0994v1,2012-04-20T01:58:40Z,An Optimization Framework for Semi-Supervised and Transfer Learning   using Multiple Classifiers and Clusterers,Sreangsu Acharyya,cs.LG,http://arxiv.org/pdf/1206.0994v1
+1206.1121v2,2012-06-06T04:56:47Z,Comparison of the C4.5 and a Naive Bayes Classifier for the Prediction   of Lung Cancer Survivability,Carol M. Jim,cs.LG,http://arxiv.org/pdf/1206.1121v2
+1206.1208v2,2012-06-06T13:03:31Z,Cumulative Step-size Adaptation on Linear Functions: Technical Report,Nikolaus Hansen,cs.LG,http://arxiv.org/pdf/1206.1208v2
+1206.2190v1,2012-06-11T13:00:51Z,Communication-Efficient Parallel Belief Propagation for Latent Dirichlet   Allocation,Jia Zeng,cs.LG,http://arxiv.org/pdf/1206.2190v1
+1206.4169v1,2012-06-19T10:26:45Z,Clustered Bandits,Shie Mannor,cs.LG,http://arxiv.org/pdf/1206.4169v1
+1206.4612v1,2012-06-18T15:00:20Z,Exact Soft Confidence-Weighted Learning,Steven C. H. Hoi,cs.LG,http://arxiv.org/pdf/1206.4612v1
+1206.4619v1,2012-06-18T15:04:39Z,Inductive Kernel Low-rank Decomposition with Priors: A Generalized   Nystrom Method,Fabian Moerchen,cs.LG,http://arxiv.org/pdf/1206.4619v1
+1206.4621v1,2012-06-18T15:05:32Z,Path Integral Policy Improvement with Covariance Matrix Adaptation,Olivier Sigaud,cs.LG,http://arxiv.org/pdf/1206.4621v1
+1206.4625v1,2012-06-18T15:07:04Z,Optimizing F-measure: A Tale of Two Approaches,Hai Leong Chieu,cs.LG,http://arxiv.org/pdf/1206.4625v1
+1206.4629v1,2012-06-18T15:08:22Z,Multiple Kernel Learning from Noisy Labels by Stochastic Programming,Yang Zhou,cs.LG,http://arxiv.org/pdf/1206.4629v1
+1206.4630v1,2012-06-18T15:08:38Z,Efficient Decomposed Learning for Structured Prediction,Dan Roth,cs.LG,http://arxiv.org/pdf/1206.4630v1
+1206.4648v1,2012-06-18T15:23:02Z,Two-Manifold Problems with Applications to Nonlinear System   Identification,Geoff Gordon,cs.LG,http://arxiv.org/pdf/1206.4648v1
+1206.4655v1,2012-06-18T15:25:58Z,Modelling transition dynamics in MDPs with RKHS embeddings,Arthur Gretton,cs.LG,http://arxiv.org/pdf/1206.4655v1
+1206.4660v1,2012-06-18T15:28:12Z,Learning with Augmented Features for Heterogeneous Domain Adaptation,Ivor Tsang,cs.LG,http://arxiv.org/pdf/1206.4660v1
+1206.4683v1,2012-06-18T15:40:50Z,Marginalized Denoising Autoencoders for Domain Adaptation,Fei Sha,cs.LG,http://arxiv.org/pdf/1206.4683v1
+1206.5345v4,2012-06-23T00:36:08Z,Dynamic Pricing under Finite Space Demand Uncertainty: A Multi-Armed   Bandit with Dependent Arms,Qing Zhao,cs.LG,http://arxiv.org/pdf/1206.5345v4
+1206.5533v2,2012-06-24T19:17:35Z,Practical recommendations for gradient-based training of deep   architectures,Yoshua Bengio,cs.LG,http://arxiv.org/pdf/1206.5533v2
+1206.5538v3,2012-06-24T20:51:38Z,Representation Learning: A Review and New Perspectives,Pascal Vincent,cs.LG,http://arxiv.org/pdf/1206.5538v3
+1206.5915v1,2012-06-26T08:29:43Z,Graph Based Classification Methods Using Inaccurate External Classifier   Information,Sathiya Keerthi Selvaraj,cs.LG,http://arxiv.org/pdf/1206.5915v1
+1206.6883v1,2012-06-28T18:57:01Z,Learning Neighborhoods for Metric Learning,Alexandros Kalousis,cs.LG,http://arxiv.org/pdf/1206.6883v1
+1207.0166v3,2012-06-30T23:07:03Z,On Multilabel Classification and Ranking with Partial Feedback,Francesco Orabona,cs.LG,http://arxiv.org/pdf/1207.0166v3
+1207.0783v1,2012-07-03T19:12:13Z,Hybrid Template Update System for Unimodal Biometric Systems,Bernadette Dorizzi,cs.LG,http://arxiv.org/pdf/1207.0783v1
+1207.0784v1,2012-07-03T19:12:56Z,Web-Based Benchmark for Keystroke Dynamics Biometric Systems: A   Statistical Analysis,Christophe Rosenberger,cs.LG,http://arxiv.org/pdf/1207.0784v1
+1207.3790v1,2012-07-16T08:49:34Z,Accuracy Measures for the Comparison of Classifiers,Hocine Cherifi,cs.LG,http://arxiv.org/pdf/1207.3790v1
+1207.4404v1,2012-07-18T16:07:36Z,Better Mixing via Deep Representations,Salah Rifai,cs.LG,http://arxiv.org/pdf/1207.4404v1
+1207.7035v1,2012-07-27T08:47:50Z,Supervised Laplacian Eigenmaps with Applications in Clinical Diagnostics   for Pediatric Cardiology,Mark Braunstein,cs.LG,http://arxiv.org/pdf/1207.7035v1
+1208.0984v1,2012-08-05T06:34:44Z,APRIL: Active Preference-learning based Reinforcement Learning,Michèle Sebag,cs.LG,http://arxiv.org/pdf/1208.0984v1
+1208.1315v1,2012-08-07T01:31:32Z,Data Selection for Semi-Supervised Learning,Amin Allahyar,cs.LG,http://arxiv.org/pdf/1208.1315v1
+1208.1544v1,2012-08-07T23:21:31Z,Guess Who Rated This Movie: Identifying Users Through Subspace   Clustering,Andrea Montanari,cs.LG,http://arxiv.org/pdf/1208.1544v1
+1208.1829v1,2012-08-09T07:14:37Z,Metric Learning across Heterogeneous Domains by Respectively Aligning   Both Priors and Posteriors,Songcan Chen,cs.LG,http://arxiv.org/pdf/1208.1829v1
+1208.1846v1,2012-08-09T08:53:11Z,Margin Distribution Controlled Boosting,Songcan Chen,cs.LG,http://arxiv.org/pdf/1208.1846v1
+1208.2112v2,2012-08-10T08:36:49Z,Inverse Reinforcement Learning with Gaussian Process,Peter A. Beling,cs.LG,http://arxiv.org/pdf/1208.2112v2
+1208.3561v3,2012-08-17T09:49:31Z,Efficient Active Learning of Halfspaces: an Aggressive Approach,Shai Shalev-Shwartz,cs.LG,http://arxiv.org/pdf/1208.3561v3
+1208.3719v2,2012-08-18T02:14:47Z,Auto-WEKA: Combined Selection and Hyperparameter Optimization of   Classification Algorithms,Kevin Leyton-Brown,cs.LG,http://arxiv.org/pdf/1208.3719v2
+1208.5801v2,2012-08-28T21:51:36Z,Vector Field k-Means: Clustering Trajectories by Fitting Multiple Vector   Fields,Claudio Silva,cs.LG,http://arxiv.org/pdf/1208.5801v2
+1208.6231v1,2012-08-30T16:48:05Z,Link Prediction via Generalized Coupled Tensor Factorisation,A. Taylan Cemgil,cs.LG,http://arxiv.org/pdf/1208.6231v1
+1209.0853v1,2012-09-05T03:02:26Z,Improving the K-means algorithm using improved downhill simplex search,Anoosheh Sadeghi,cs.LG,http://arxiv.org/pdf/1209.0853v1
+1209.0913v1,2012-09-05T10:08:02Z,Structuring Relevant Feature Sets with Multiple Model Learning,Alexandros Kalousis,cs.LG,http://arxiv.org/pdf/1209.0913v1
+1209.1800v1,2012-09-09T14:11:04Z,An Empirical Study of MAUC in Multi-class Problems with Uncertain Cost   Matrices,Ke Tang,cs.LG,http://arxiv.org/pdf/1209.1800v1
+1209.2501v1,2012-09-12T05:28:32Z,Performance Evaluation of Predictive Classifiers For Knowledge Discovery   From Engineering Materials Data Sets,Hemanth K. S Doreswamy,cs.LG,http://arxiv.org/pdf/1209.2501v1
+1209.2673v2,2012-09-12T17:39:37Z,Conditional validity of inductive conformal predictors,Vladimir Vovk,cs.LG,http://arxiv.org/pdf/1209.2673v2
+1209.2790v1,2012-09-13T06:47:26Z,Improving Energy Efficiency in Femtocell Networks: A Hierarchical   Reinforcement Learning Framework,Mika Lasanen,cs.LG,http://arxiv.org/pdf/1209.2790v1
+1209.3056v1,2012-09-13T22:47:07Z,Parametric Local Metric Learning for Nearest Neighbor Classification,Alexandros Kalousis,cs.LG,http://arxiv.org/pdf/1209.3056v1
+1209.5038v1,2012-09-23T07:50:42Z,Fast Randomized Model Generation for Shapelet-Based Time Series   Classification,Lior Rokach,cs.LG,http://arxiv.org/pdf/1209.5038v1
+1209.5260v1,2012-09-24T13:23:39Z,Towards Large-scale and Ultrahigh Dimensional Feature Selection via   Feature Generation,Li Wang,cs.LG,http://arxiv.org/pdf/1209.5260v1
+1209.5335v1,2012-09-24T16:59:12Z,BPRS: Belief Propagation Based Iterative Recommender System,Faramarz Fekri,cs.LG,http://arxiv.org/pdf/1209.5335v1
+1209.6329v1,2012-09-27T18:57:26Z,More Is Better: Large Scale Partially-supervised Sentiment   Classification - Appendix,Shie Mannor,cs.LG,http://arxiv.org/pdf/1209.6329v1
+1209.6409v1,2012-09-28T01:46:47Z,A Deterministic Analysis of an Online Convex Mixture of Expert   Algorithms,Suleyman S. Kozat,cs.LG,http://arxiv.org/pdf/1209.6409v1
+1210.0473v1,2012-10-01T17:08:25Z,Memory Constraint Online Multitask Classification,Nicolò Cesa-Bianchi,cs.LG,http://arxiv.org/pdf/1210.0473v1
+1210.0699v1,2012-10-02T08:40:46Z,TV-SVM: Total Variation Support Vector Machine for Semi-Supervised Data   Classification,Ruiliang Zhang,cs.LG,http://arxiv.org/pdf/1210.0699v1
+1210.2179v3,2012-10-08T08:17:18Z,Fast Online EM for Big Topic Modeling,Xiao-Qin Cao,cs.LG,http://arxiv.org/pdf/1210.2179v3
+1210.2346v2,2012-10-08T17:19:43Z,Blending Learning and Inference in Structured Prediction,Raquel Urtasun,cs.LG,http://arxiv.org/pdf/1210.2346v2
+1210.4601v1,2012-10-17T00:22:31Z,A Direct Approach to Multi-class Boosting and Extensions,Anton van den Hengel,cs.LG,http://arxiv.org/pdf/1210.4601v1
+1210.5394v1,2012-10-19T12:15:28Z,Bayesian Estimation for Continuous-Time Sparse Stochastic Processes,Michael Unser,cs.LG,http://arxiv.org/pdf/1210.5394v1
+1210.5544v1,2012-10-19T21:31:50Z,Online Learning in Decentralized Multiuser Resource Sharing Problems,Mingyan Liu,cs.LG,http://arxiv.org/pdf/1210.5544v1
+1210.6292v2,2012-10-23T17:12:01Z,A density-sensitive hierarchical clustering method,Álvaro Martínez-Pérez,cs.LG,http://arxiv.org/pdf/1210.6292v2
+1210.7657v1,2012-10-29T13:30:27Z,Text Classification with Compression Algorithms,Antonio Giuliano Zippo,cs.LG,http://arxiv.org/pdf/1210.7657v1
+1212.0901v2,2012-12-04T23:25:34Z,Advances in Optimizing Recurrent Networks,Razvan Pascanu,cs.LG,http://arxiv.org/pdf/1212.0901v2
+1212.1936v1,2012-12-09T23:28:02Z,High-dimensional sequence transduction,Pascal Vincent,cs.LG,http://arxiv.org/pdf/1212.1936v1
+1212.3185v3,2012-12-13T14:31:58Z,Cost-Sensitive Feature Selection of Data with Errors,William Zhu,cs.LG,http://arxiv.org/pdf/1212.3185v3
+1212.3631v1,2012-12-14T22:50:44Z,Learning efficient sparse and low rank models,Guillermo Sapiro,cs.LG,http://arxiv.org/pdf/1212.3631v1
+1212.4675v1,2012-12-18T20:17:56Z,Analysis of Large-scale Traffic Dynamics using Non-negative Tensor   Factorization,Fabien Moutarde,cs.LG,http://arxiv.org/pdf/1212.4675v1
+1212.5101v1,2012-12-20T15:53:43Z,Hybrid Fuzzy-ART based K-Means Clustering Methodology to Cellular   Manufacturing Using Operational Time,Manojit Chattopadhyay,cs.LG,http://arxiv.org/pdf/1212.5101v1
+1212.5701v1,2012-12-22T15:46:49Z,ADADELTA: An Adaptive Learning Rate Method,Matthew D. Zeiler,cs.LG,http://arxiv.org/pdf/1212.5701v1
+1212.6031v1,2012-12-25T12:12:57Z,Tangent Bundle Manifold Learning via Grassmann&Stiefel Eigenmaps,Alexander P. Kuleshov,cs.LG,http://arxiv.org/pdf/1212.6031v1
+1302.0540v1,2013-02-03T22:12:52Z,A game-theoretic framework for classifier ensembles using weighted   majority voting with local accuracy estimates,Michael E. Mavroforakis,cs.LG,http://arxiv.org/pdf/1302.0540v1
+1302.0963v1,2013-02-05T09:04:25Z,RandomBoost: Simplified Multi-class Boosting through Randomization,Anton van den Hengel,cs.LG,http://arxiv.org/pdf/1302.0963v1
+1302.0974v1,2013-02-05T09:45:21Z,A Comparison of Relaxations of Multiset Cannonical Correlation Analysis   and Applications,Sabrina Guettes,cs.LG,http://arxiv.org/pdf/1302.0974v1
+1302.1043v2,2013-02-05T14:31:51Z,The price of bandit information in multiclass online classification,Tom Helbertal,cs.LG,http://arxiv.org/pdf/1302.1043v2
+1302.2157v2,2013-02-08T21:18:24Z,Passive Learning with Target Risk,Rong Jin,cs.LG,http://arxiv.org/pdf/1302.2157v2
+1302.2176v1,2013-02-08T23:16:04Z,Minimax Optimal Algorithms for Unconstrained Linear Optimization,H. Brendan McMahan,cs.LG,http://arxiv.org/pdf/1302.2176v1
+1302.2277v2,2013-02-09T22:56:45Z,A Time Series Forest for Classification and Feature Extraction,Martyanov Vladimir,cs.LG,http://arxiv.org/pdf/1302.2277v2
+1302.2436v1,2013-02-11T10:29:17Z,Extracting useful rules through improved decision tree induction using   information entropy,A Govardhan,cs.LG,http://arxiv.org/pdf/1302.2436v1
+1302.2550v1,2013-02-11T17:44:10Z,Online Regret Bounds for Undiscounted Continuous Reinforcement Learning,Daniil Ryabko,cs.LG,http://arxiv.org/pdf/1302.2550v1
+1302.2552v1,2013-02-11T17:49:38Z,Selecting the State-Representation in Reinforcement Learning,Daniil Ryabko,cs.LG,http://arxiv.org/pdf/1302.2552v1
+1302.2553v2,2013-02-11T17:55:49Z,Optimal Regret Bounds for Selecting the State Representation in   Reinforcement Learning,Daniil Ryabko,cs.LG,http://arxiv.org/pdf/1302.2553v2
+1302.3219v1,2013-02-13T08:48:53Z,An Efficient Dual Approach to Distance Metric Learning,Anton van den Hengel,cs.LG,http://arxiv.org/pdf/1302.3219v1
+1302.3268v2,2013-02-13T22:42:44Z,Adaptive Crowdsourcing Algorithms for the Bandit Survey Problem,Aleksandrs Slivkins,cs.LG,http://arxiv.org/pdf/1302.3268v2
+1302.3283v3,2013-02-14T01:01:24Z,StructBoost: Boosting Methods for Predicting Structured Output Variables,Anton van den Hengel,cs.LG,http://arxiv.org/pdf/1302.3283v3
+1302.3721v1,2013-02-15T10:48:57Z,Thompson Sampling in Switching Environments with Bayesian Online Change   Point Detection,Jonathan Shapiro,cs.LG,http://arxiv.org/pdf/1302.3721v1
+1302.5348v3,2013-02-21T17:30:42Z,Graph-based Generalization Bounds for Learning Binary Relations,Lise Getoor,cs.LG,http://arxiv.org/pdf/1302.5348v3
+1302.5565v1,2013-02-22T12:11:42Z,The Importance of Clipping in Neurocontrol by Direct Gradient Descent on   the Cost-to-Go Function and in Adaptive Dynamic Programming,Michael Fairbank,cs.LG,http://arxiv.org/pdf/1302.5565v1
+1302.5797v1,2013-02-23T13:33:09Z,Prediction by Random-Walk Perturbation,Gergely Neu,cs.LG,http://arxiv.org/pdf/1302.5797v1
+1302.6523v1,2013-02-26T18:18:35Z,Sparse Frequency Analysis with Sparse-Derivative Instantaneous Amplitude   and Phase Functions,Ivan W. Selesnick,cs.LG,http://arxiv.org/pdf/1302.6523v1
+1302.6927v1,2013-02-27T17:14:14Z,Online Learning for Time Series Prediction,Ohad Shamir,cs.LG,http://arxiv.org/pdf/1302.6927v1
+1302.6937v2,2013-02-27T17:46:43Z,Online Convex Optimization Against Adversaries with Memory and   Application to Statistical Arbitrage,Shie Mannor,cs.LG,http://arxiv.org/pdf/1302.6937v2
+1302.7263v3,2013-02-28T17:15:55Z,Online Similarity Prediction of Networked Data from Known and Unknown   Graphs,Stephen Pasteris,cs.LG,http://arxiv.org/pdf/1302.7263v3
+1303.0339v1,2013-03-02T03:01:46Z,Learning Hash Functions Using Column Generation,Anthony Dick,cs.LG,http://arxiv.org/pdf/1303.0339v1
+1303.0362v1,2013-03-02T07:47:21Z,Inductive Sparse Subspace Clustering,Zhang Yi,cs.LG,http://arxiv.org/pdf/1303.0362v1
+1303.1271v5,2013-03-06T08:20:33Z,Convex and Scalable Weakly Labeled SVMs,Zhi-Hua Zhou,cs.LG,http://arxiv.org/pdf/1303.1271v5
+1303.1733v2,2013-03-07T16:10:44Z,Multi-relational Learning Using Weighted Tensor Decomposition with   Modular Loss,Lise Getoor,cs.LG,http://arxiv.org/pdf/1303.1733v2
+1303.2104v1,2013-03-08T20:46:27Z,Transfer Learning for Voice Activity Detection: A Denoising Deep Neural   Network Perspective,Ji Wu,cs.LG,http://arxiv.org/pdf/1303.2104v1
+1303.2130v2,2013-03-08T21:32:52Z,Convex Discriminative Multitask Clustering,Xiao-Lei Zhang,cs.LG,http://arxiv.org/pdf/1303.2130v2
+1303.2132v2,2013-03-08T21:40:42Z,Heuristic Ternary Error-Correcting Output Codes Via Weight Optimization   and Layered Clustering-Based Approach,Xiao-Lei Zhang,cs.LG,http://arxiv.org/pdf/1303.2132v2
+1303.3754v1,2013-03-15T12:20:53Z,A Last-Step Regression Algorithm for Non-Stationary Online Learning,Koby Crammer,cs.LG,http://arxiv.org/pdf/1303.3754v1
+1303.3934v2,2013-03-16T00:49:56Z,A Quorum Sensing Inspired Algorithm for Dynamic Clustering,Jean-Jacques Slotine,cs.LG,http://arxiv.org/pdf/1303.3934v2
+1303.4015v2,2013-03-16T20:09:16Z,On multi-class learning through the minimization of the confusion matrix   norm,Cécile Capponi,cs.LG,http://arxiv.org/pdf/1303.4015v2
+1303.4169v1,2013-03-18T07:14:15Z,Markov Chain Monte Carlo for Arrangement of Hyperplanes in   Locality-Sensitive Hashing,Makiko Konoshima,cs.LG,http://arxiv.org/pdf/1303.4169v1
+1303.4664v1,2013-03-19T17:00:22Z,Large-Scale Learning with Less RAM via Randomization,Michael Young,cs.LG,http://arxiv.org/pdf/1303.4664v1
+1303.6390v2,2013-03-26T06:01:34Z,A Note on k-support Norm Regularized Risk Minimization,Matthew Blaschko,cs.LG,http://arxiv.org/pdf/1303.6390v2
+1303.7043v1,2013-03-28T05:45:21Z,Inductive Hashing on Manifolds,Zhenmin Tang,cs.LG,http://arxiv.org/pdf/1303.7043v1
+1304.0740v1,2013-04-02T19:11:23Z,O(logT) Projections for Stochastic Optimization of Smooth and Strongly   Convex Functions,Xiaofei He,cs.LG,http://arxiv.org/pdf/1304.0740v1
+1304.1192v1,2013-04-03T21:14:50Z,Efficient Distance Metric Learning by Adaptive Sampling and Mini-Batch   Stochastic Gradient Descent (SGD),Shenghuo Zhu,cs.LG,http://arxiv.org/pdf/1304.1192v1
+1304.1391v1,2013-04-04T15:08:31Z,Fast SVM training using approximate extreme points,Sachin S. Talathi,cs.LG,http://arxiv.org/pdf/1304.1391v1
+1304.2994v3,2013-04-10T15:26:13Z,A Generalized Online Mirror Descent with Applications to Classification   and Regression,Nicolò Cesa-Bianchi,cs.LG,http://arxiv.org/pdf/1304.2994v3
+1304.3840v1,2013-04-13T20:19:25Z,A New Homogeneity Inter-Clusters Measure in SemiSupervised Clustering,Ourida Ben Boubaker Saidi,cs.LG,http://arxiv.org/pdf/1304.3840v1
+1304.5634v1,2013-04-20T14:43:35Z,A Survey on Multi-view Learning,Chao Xu,cs.LG,http://arxiv.org/pdf/1304.5634v1
+1304.5793v4,2013-04-21T20:03:23Z,Continuum armed bandit problem of few variables in high dimensions,Bernd Gärtner,cs.LG,http://arxiv.org/pdf/1304.5793v4
+1304.7158v1,2013-04-26T13:28:47Z,Irreflexive and Hierarchical Relations as Translations,Oksana Yakhnenko,cs.LG,http://arxiv.org/pdf/1304.7158v1
+1304.7576v1,2013-04-29T07:16:54Z,Fractal structures in Adversarial Prediction,Preyas Popat,cs.LG,http://arxiv.org/pdf/1304.7576v1
+1307.0253v1,2013-07-01T01:09:25Z,Exploratory Learning,Jamie Callan,cs.LG,http://arxiv.org/pdf/1307.0253v1
+1307.2118v1,2013-07-08T15:03:03Z,A PAC-Bayesian Tutorial with A Dropout Bound,David McAllester,cs.LG,http://arxiv.org/pdf/1307.2118v1
+1307.3675v1,2013-07-13T19:38:09Z,Minimum Error Rate Training and the Convex Hull Semiring,Chris Dyer,cs.LG,http://arxiv.org/pdf/1307.3675v1
+1307.5101v3,2013-07-18T23:55:55Z,Large-scale Multi-label Learning with Missing Labels,Inderjit S. Dhillon,cs.LG,http://arxiv.org/pdf/1307.5101v3
+1307.5438v3,2013-07-20T16:40:46Z,Towards Distribution-Free Multi-Armed Bandits with Combinatorial   Strategies,Yaqin Zhou,cs.LG,http://arxiv.org/pdf/1307.5438v3
+1307.5497v1,2013-07-21T06:06:13Z,A scalable stage-wise approach to large-margin multi-class loss based   boosting,Anton van den Hengel,cs.LG,http://arxiv.org/pdf/1307.5497v1
+1307.5730v1,2013-07-22T14:36:03Z,A New Strategy of Cost-Free Learning in the Class Imbalance Problem,Bao-Gang Hu,cs.LG,http://arxiv.org/pdf/1307.5730v1
+1307.6814v1,2013-07-25T17:07:39Z,A Propound Method for the Improvement of Cluster Quality,V. S. Dixit,cs.LG,http://arxiv.org/pdf/1307.6814v1
+1307.8187v2,2013-07-31T01:49:50Z,Towards Minimax Online Learning with Unknown Time Horizon,Robert E. Schapire,cs.LG,http://arxiv.org/pdf/1307.8187v2
+1307.8305v1,2013-07-31T12:38:20Z,The Planning-ahead SMO Algorithm,Tobias Glasmachers,cs.LG,http://arxiv.org/pdf/1307.8305v1
+1310.1177v2,2013-10-04T06:18:59Z,Clustering on Multiple Incomplete Datasets via Collective Kernel   Learning,Philip S. Yu,cs.LG,http://arxiv.org/pdf/1310.1177v2
+1310.2049v1,2013-10-08T09:03:28Z,Fast Multi-Instance Multi-Label Learning,Zhi-Hua Zhou,cs.LG,http://arxiv.org/pdf/1310.2049v1
+1310.2646v1,2013-10-09T22:24:28Z,Localized Iterative Methods for Interpolation in Graph Structured Data,Antonio Ortega,cs.LG,http://arxiv.org/pdf/1310.2646v1
+1310.2959v2,2013-10-10T20:30:06Z,Scaling Graph-based Semi Supervised Learning to Large Number of Labels   Using Count-Min Sketch,William Cohen,cs.LG,http://arxiv.org/pdf/1310.2959v2
+1310.4977v1,2013-10-18T11:37:33Z,Learning Tensors in Reproducing Kernel Hilbert Spaces with Multilinear   Spectral Penalties,Johan A. K. Suykens,cs.LG,http://arxiv.org/pdf/1310.4977v1
+1310.5008v1,2013-10-17T04:17:20Z,Thompson Sampling in Dynamic Systems for Contextual Bandit Problems,Amelia Regan,cs.LG,http://arxiv.org/pdf/1310.5008v1
+1310.5249v1,2013-10-19T17:24:39Z,Graph-Based Approaches to Clustering Network-Constrained Trajectory Data,Fabrice Rossi,cs.LG,http://arxiv.org/pdf/1310.5249v1
+1310.5393v1,2013-10-21T01:06:56Z,Multi-Task Regularization with Covariance Dictionary for Linear   Classifiers,Zhiding Yu,cs.LG,http://arxiv.org/pdf/1310.5393v1
+1310.5665v3,2013-10-21T18:27:25Z,Learning Theory and Algorithms for Revenue Optimization in Second-Price   Auctions with Reserve,Andres Muñoz Medina,cs.LG,http://arxiv.org/pdf/1310.5665v3
+1310.5796v4,2013-10-22T04:28:12Z,Relative Deviation Learning Bounds and Generalization with Unbounded   Loss Functions,Mehryar Mohri,cs.LG,http://arxiv.org/pdf/1310.5796v4
+1310.6007v3,2013-10-22T18:44:29Z,Efficient Optimization for Sparse Gaussian Process Regression,Aaron Hertzmann,cs.LG,http://arxiv.org/pdf/1310.6007v3
+1310.6304v2,2013-10-23T17:33:26Z,Combining Structured and Unstructured Randomness in Large Scale PCA,Paul Mineiro,cs.LG,http://arxiv.org/pdf/1310.6304v2
+1310.7795v1,2013-10-29T13:18:41Z,An Unsupervised Feature Learning Approach to Improve Automatic Incident   Detection,Stephen Liao,cs.LG,http://arxiv.org/pdf/1310.7795v1
+1310.8418v4,2013-10-31T08:00:21Z,An efficient distributed learning algorithm based on effective local   functional approximations,Leon Bottou,cs.LG,http://arxiv.org/pdf/1310.8418v4
+1310.8428v2,2013-10-31T09:00:39Z,Multilabel Classification through Random Graph Ensembles,Juho Rousu,cs.LG,http://arxiv.org/pdf/1310.8428v2
+1311.0202v1,2013-10-17T03:44:18Z,A systematic comparison of supervised classifiers,L. da F. Costa,cs.LG,http://arxiv.org/pdf/1311.0202v1
+1311.0800v1,2013-11-04T18:19:25Z,Distributed Exploration in Multi-Armed Bandits,Oren Somekh,cs.LG,http://arxiv.org/pdf/1311.0800v1
+1311.0914v1,2013-11-04T22:06:40Z,A Divide-and-Conquer Solver for Kernel Support Vector Machines,Inderjit S. Dhillon,cs.LG,http://arxiv.org/pdf/1311.0914v1
+1311.0989v2,2013-11-05T08:46:26Z,Large Margin Distribution Machine,Zhi-Hua Zhou,cs.LG,http://arxiv.org/pdf/1311.0989v2
+1311.1958v3,2013-11-07T12:14:24Z,Constructing Time Series Shape Association Measures: Minkowski Distance   and Data Standardization,Ildar Batyrshin,cs.LG,http://arxiv.org/pdf/1311.1958v3
+1311.2097v3,2013-11-08T22:25:26Z,Risk-sensitive Reinforcement Learning,Klaus Obermayer,cs.LG,http://arxiv.org/pdf/1311.2097v3
+1311.2115v7,2013-11-09T00:54:37Z,Fast large-scale optimization by unifying stochastic gradient and   quasi-Newton methods,Surya Ganguli,cs.LG,http://arxiv.org/pdf/1311.2115v7
+1311.2137v1,2013-11-09T06:15:15Z,A Structured Prediction Approach for Missing Value Imputation,S. Sathiya Keerthi,cs.LG,http://arxiv.org/pdf/1311.2137v1
+1311.2139v1,2013-11-09T06:47:22Z,Large Margin Semi-supervised Structured Output Learning,Sundararajan Sellamanickam,cs.LG,http://arxiv.org/pdf/1311.2139v1
+1311.2271v1,2013-11-10T13:28:19Z,More data speeds up training time in learning halfspaces over sparse   vectors,Shai Shalev Shwartz,cs.LG,http://arxiv.org/pdf/1311.2271v1
+1311.2276v1,2013-11-10T14:17:47Z,A Quantitative Evaluation Framework for Missing Value Imputation   Algorithms,Vijay Narayanan,cs.LG,http://arxiv.org/pdf/1311.2276v1
+1311.2334v4,2013-11-11T02:37:16Z,Embed and Conquer: Scalable Embeddings for Kernel k-Means on MapReduce,Fakhri Karray,cs.LG,http://arxiv.org/pdf/1311.2334v4
+1311.2378v1,2013-11-11T08:26:09Z,An Empirical Evaluation of Sequence-Tagging Trainers,S. S Keerthi,cs.LG,http://arxiv.org/pdf/1311.2378v1
+1311.2987v1,2013-11-13T00:11:09Z,Learning Input and Recurrent Weight Matrices in Echo State Networks,Rabab K Ward,cs.LG,http://arxiv.org/pdf/1311.2987v1
+1311.3157v1,2013-11-12T17:25:29Z,Multiple Closed-Form Local Metric Learning for K-Nearest Neighbor   Classifier,Jianbo Ye,cs.LG,http://arxiv.org/pdf/1311.3157v1
+1311.4235v1,2013-11-18T00:48:14Z,On the definition of a general learning system with user-defined   operators,María-José Ramírez-Quintana,cs.LG,http://arxiv.org/pdf/1311.4235v1
+1311.4486v2,2013-11-18T18:41:20Z,Discriminative Density-ratio Estimation,Mohamed S. Kamel,cs.LG,http://arxiv.org/pdf/1311.4486v2
+1311.5068v1,2013-11-20T14:31:00Z,Gromov-Hausdorff stability of linkage-based hierarchical clustering   methods,A. Martínez-Pérez,cs.LG,http://arxiv.org/pdf/1311.5068v1
+1311.5636v1,2013-11-22T01:49:26Z,Learning Non-Linear Feature Maps,Delmiro Fernandez-Reyes,cs.LG,http://arxiv.org/pdf/1311.5636v1
+1311.6041v3,2013-11-23T19:19:37Z,No Free Lunch Theorem and Bayesian probability theory: two sides of the   same coin. Some implications for black-box optimization and metaheuristics,Loris Serafino,cs.LG,http://arxiv.org/pdf/1311.6041v3
+1311.6184v4,2013-11-24T23:28:49Z,Bounding the Test Log-Likelihood of Generative Models,Kyunghyun Cho,cs.LG,http://arxiv.org/pdf/1311.6184v4
+1311.6211v1,2013-11-25T05:27:41Z,Novelty Detection Under Multi-Instance Multi-Label Framework,Xiaoli Z. Fern,cs.LG,http://arxiv.org/pdf/1311.6211v1
+1311.6396v2,2013-11-25T18:36:26Z,A Unified Approach to Universal Prediction: Generalized Upper and Lower   Bounds,Suleyman S. Kozat,cs.LG,http://arxiv.org/pdf/1311.6396v2
+1311.6556v2,2013-11-26T05:13:18Z,Double Ramp Loss Based Reject Option Classifier,Ramasubramanian Sundararajan,cs.LG,http://arxiv.org/pdf/1311.6556v2
+1311.6809v1,2013-11-26T10:02:20Z,A Novel Family of Adaptive Filtering Algorithms Based on The Logarithmic   Cost,Suleyman S. Kozat,cs.LG,http://arxiv.org/pdf/1311.6809v1
+1311.7385v3,2013-11-28T17:44:45Z,Algorithmic Identification of Probabilities,Nick Chater,cs.LG,http://arxiv.org/pdf/1311.7385v3
+1311.7679v1,2013-11-29T20:01:10Z,Combination of Diverse Ranking Models for Personalized Expedia Hotel   Searches,Bin Wang,cs.LG,http://arxiv.org/pdf/1311.7679v1
+1404.0138v1,2014-04-01T06:26:55Z,Efficient Algorithms and Error Analysis for the Modified Nystrom Method,Zhihua Zhang,cs.LG,http://arxiv.org/pdf/1404.0138v1
+1404.0649v1,2014-03-30T20:49:33Z,A probabilistic estimation and prediction technique for dynamic   continuous social science models: The evolution of the attitude of the Basque   Country population towards ETA as a case study,Javier Villanueva-Oller,cs.LG,http://arxiv.org/pdf/1404.0649v1
+1404.0789v3,2014-04-03T07:41:46Z,The Least Wrong Model Is Not in the Data,Oscar Stiffelman,cs.LG,http://arxiv.org/pdf/1404.0789v3
+1404.0933v1,2014-04-03T14:34:47Z,Bayes and Naive Bayes Classifier,Trilochan,cs.LG,http://arxiv.org/pdf/1404.0933v1
+1404.1066v1,2014-04-03T19:49:57Z,Parallel Support Vector Machines in Practice,John Tran,cs.LG,http://arxiv.org/pdf/1404.1066v1
+1404.1282v3,2014-03-22T06:25:51Z,Hierarchical Dirichlet Scaling Process,Alice Oh,cs.LG,http://arxiv.org/pdf/1404.1282v3
+1404.1491v1,2014-03-24T16:05:26Z,An Efficient Feature Selection in Classification of Audio Files,Diganta Saha,cs.LG,http://arxiv.org/pdf/1404.1491v1
+1404.2948v1,2014-04-10T20:49:35Z,Gradient-based Laplacian Feature Selection,Anna Goldenberg,cs.LG,http://arxiv.org/pdf/1404.2948v1
+1404.3190v1,2014-04-11T19:15:22Z,Pareto-Path Multi-Task Multiple Kernel Learning,Georgios C. Anagnostopoulos,cs.LG,http://arxiv.org/pdf/1404.3190v1
+1404.4038v2,2014-04-15T19:47:15Z,Discovering and Exploiting Entailment Relationships in Multi-Label   Learning,Ioannis Tsamardinos,cs.LG,http://arxiv.org/pdf/1404.4038v2
+1404.4088v1,2014-04-15T21:35:48Z,Ensemble Classifiers and Their Applications: A Review,Sumaira Tasnim,cs.LG,http://arxiv.org/pdf/1404.4088v1
+1404.4108v2,2014-02-24T15:17:39Z,Representation as a Service,Joelle Pineau,cs.LG,http://arxiv.org/pdf/1404.4108v2
+1404.4114v3,2014-04-16T00:12:03Z,Structured Stochastic Variational Inference,David M. Blei,cs.LG,http://arxiv.org/pdf/1404.4114v3
+1404.4171v1,2014-04-16T08:54:01Z,Dropout Training for Support Vector Machines,Bo Zhang,cs.LG,http://arxiv.org/pdf/1404.4171v1
+1404.4960v2,2014-04-19T14:57:54Z,Agent Behavior Prediction and Its Generalization Analysis,Tie-Yan Liu,cs.LG,http://arxiv.org/pdf/1404.4960v2
+1404.5065v1,2014-04-20T19:17:23Z,Multi-Target Regression via Random Linear Target Combinations,Ioannis Vlahavas,cs.LG,http://arxiv.org/pdf/1404.5065v1
+1404.5511v1,2014-04-18T21:17:04Z,Coactive Learning for Locally Optimal Problem Solving,Prasad Tadepalli,cs.LG,http://arxiv.org/pdf/1404.5511v1
+1404.6163v2,2014-04-24T15:50:02Z,Overlapping Trace Norms in Multi-View Learning,Guillaume Bouchard,cs.LG,http://arxiv.org/pdf/1404.6163v2
+1404.6580v2,2014-04-25T22:59:34Z,Multitask Learning for Sequence Labeling Tasks,Saurabh Kataria,cs.LG,http://arxiv.org/pdf/1404.6580v2
+1404.6674v1,2014-04-26T19:24:24Z,A Comparison of First-order Algorithms for Machine Learning,Pock Thomas,cs.LG,http://arxiv.org/pdf/1404.6674v1
+1404.7195v1,2014-04-29T00:08:15Z,Fast Approximation of Rotations and Hessians matrices,Yann LeCun,cs.LG,http://arxiv.org/pdf/1404.7195v1
+1404.7255v1,2014-04-29T06:43:19Z,Meteorological time series forecasting based on MLP modelling using   heterogeneous transfer functions,Gilles Notton,cs.LG,http://arxiv.org/pdf/1404.7255v1
+1404.7472v1,2014-04-29T19:28:09Z,Implementing spectral methods for hidden Markov models with real-valued   emissions,Carl Mattfeld,cs.LG,http://arxiv.org/pdf/1404.7472v1
+1404.7527v2,2014-04-29T20:54:40Z,A Map of Update Constraints in Inductive Inference,Raphaela Palenta,cs.LG,http://arxiv.org/pdf/1404.7527v2
+1405.0792v1,2014-05-05T06:49:05Z,On Exact Learning Monotone DNF from Membership Queries,Hanna Mazzawi,cs.LG,http://arxiv.org/pdf/1405.0792v1
+1405.1503v3,2014-05-07T04:39:01Z,Adaptation Algorithm and Theory Based on Generalized Discrepancy,Andres Muñoz Medina,cs.LG,http://arxiv.org/pdf/1405.1503v3
+1405.1535v1,2014-05-07T09:06:28Z,Learning Boolean Halfspaces with Small Weights from Membership Queries,Nader H. Bshouty,cs.LG,http://arxiv.org/pdf/1405.1535v1
+1405.2420v1,2014-05-10T11:23:08Z,Optimal Learners for Multiclass Problems,Shai Shalev-Shwartz,cs.LG,http://arxiv.org/pdf/1405.2420v1
+1405.2476v4,2014-05-10T22:30:38Z,A Canonical Semi-Deterministic Transducer,Colin de la Higuera,cs.LG,http://arxiv.org/pdf/1405.2476v4
+1405.2652v6,2014-05-12T07:45:54Z,Selecting Near-Optimal Approximate State Representations in   Reinforcement Learning,Daniil Ryabko,cs.LG,http://arxiv.org/pdf/1405.2652v6
+1405.3167v1,2014-05-13T14:36:59Z,"Clustering, Hamming Embedding, Generalized LSH and the Max Norm",Nathan Srebro,cs.LG,http://arxiv.org/pdf/1405.3167v1
+1405.3396v1,2014-05-14T08:03:08Z,Reducing Dueling Bandits to Cardinal Bandits,Zohar Karnin,cs.LG,http://arxiv.org/pdf/1405.3396v1
+1405.3843v1,2014-05-15T13:29:27Z,Logistic Regression: Tight Bounds for Stochastic and Online Optimization,Kfir Y. Levy,cs.LG,http://arxiv.org/pdf/1405.3843v1
+1405.4423v1,2014-05-17T18:20:13Z,A two-step learning approach for solving full and almost full cold start   problems in dyadic prediction,Willem Waegeman,cs.LG,http://arxiv.org/pdf/1405.4423v1
+1405.4471v1,2014-05-18T08:47:58Z,Online Learning with Composite Loss Functions,Yuval Peres,cs.LG,http://arxiv.org/pdf/1405.4471v1
+1405.4543v1,2014-05-18T19:54:18Z,A Distributed Algorithm for Training Nonlinear Kernel Machines,S. Sundararajan,cs.LG,http://arxiv.org/pdf/1405.4543v1
+1405.4544v2,2014-05-18T20:07:41Z,A distributed block coordinate descent method for training $l_1$   regularized linear classifiers,S. Sundararajan,cs.LG,http://arxiv.org/pdf/1405.4544v2
+1405.4758v1,2014-05-19T14:56:51Z,Lipschitz Bandits: Regret Lower Bounds and Optimal Algorithms,Alexandre Proutiere,cs.LG,http://arxiv.org/pdf/1405.4758v1
+1405.6076v1,2014-05-23T14:33:48Z,Online Linear Optimization via Smoothing,Ambuj Tewari,cs.LG,http://arxiv.org/pdf/1405.6076v1
+1405.6684v1,2014-05-26T19:00:15Z,Visualizing Random Forest with Self-Organising Map,Krzysztof Zaremba,cs.LG,http://arxiv.org/pdf/1405.6684v1
+1405.6757v1,2014-05-26T23:11:40Z,Proximal Reinforcement Learning: A New Theory of Sequential Decision   Making in Primal-Dual Spaces,Ji Liu,cs.LG,http://arxiv.org/pdf/1405.6757v1
+1405.7430v1,2014-05-29T00:37:28Z,"BayesOpt: A Bayesian Optimization Library for Nonlinear Optimization,   Experimental Design and Bandits",Ruben Martinez-Cantin,cs.LG,http://arxiv.org/pdf/1405.7430v1
+1405.7471v1,2014-05-29T05:59:26Z,Effect of Different Distance Measures on the Performance of K-Means   Algorithm: An Experimental Study in Matlab,Dr. Anil Kumar Gupta,cs.LG,http://arxiv.org/pdf/1405.7471v1
+1405.7624v1,2014-05-29T17:32:29Z,Simultaneous Feature and Expert Selection within Mixture of Experts,Billy Peralta,cs.LG,http://arxiv.org/pdf/1405.7624v1
+1405.7897v1,2014-05-30T15:50:28Z,Flip-Flop Sublinear Models for Graphs: Proof of Theorem 1,Brijnesh Jain,cs.LG,http://arxiv.org/pdf/1405.7897v1
+1407.0107v3,2014-07-01T05:57:43Z,Randomized Block Coordinate Descent for Online and Stochastic   Optimization,Arindam Banerjee,cs.LG,http://arxiv.org/pdf/1407.0107v3
+1407.1082v1,2014-07-03T23:06:10Z,Online Submodular Maximization under a Matroid Constraint with   Application to Learning Assignments,Matthew Streeter,cs.LG,http://arxiv.org/pdf/1407.1082v1
+1407.1538v1,2014-07-06T20:13:48Z,Large-Scale Multi-Label Learning with Incomplete Label Assignments,Wei Fan,cs.LG,http://arxiv.org/pdf/1407.1538v1
+1407.2538v3,2014-07-09T15:54:27Z,Learning Deep Structured Models,Raquel Urtasun,cs.LG,http://arxiv.org/pdf/1407.2538v3
+1407.2736v1,2014-07-10T09:39:24Z,A multi-instance learning algorithm based on a stacked ensemble of lazy   learners,Manisha Srivastava,cs.LG,http://arxiv.org/pdf/1407.2736v1
+1407.4422v1,2014-07-16T18:50:40Z,Subspace Restricted Boltzmann Machine,Adam Gonczarek,cs.LG,http://arxiv.org/pdf/1407.4422v1
+1407.4668v1,2014-07-17T13:51:55Z,A feature construction framework based on outlier detection and   discriminative pattern mining,Albrecht Zimmermann,cs.LG,http://arxiv.org/pdf/1407.4668v1
+1407.5908v1,2014-07-19T15:16:40Z,"Exploiting Smoothness in Statistical Learning, Sequential Prediction,   and Stochastic Optimization",Mehrdad Mahdavi,cs.LG,http://arxiv.org/pdf/1407.5908v1
+1407.7449v1,2014-07-23T09:14:49Z,A Fast Synchronization Clustering Algorithm,Xinquan Chen,cs.LG,http://arxiv.org/pdf/1407.7449v1
+1407.7635v1,2014-07-29T06:17:49Z,Chasing Ghosts: Competing with Stateful Policies,Moshe Tennenholtz,cs.LG,http://arxiv.org/pdf/1407.7635v1
+1407.7753v1,2014-07-29T15:23:11Z,A Hash-based Co-Clustering Algorithm for Categorical Data,Fabricio Olivetti de França,cs.LG,http://arxiv.org/pdf/1407.7753v1
+1407.7906v3,2014-07-29T23:32:44Z,How Auto-Encoders Could Provide Credit Assignment in Deep Networks via   Target Propagation,Yoshua Bengio,cs.LG,http://arxiv.org/pdf/1407.7906v3
+1407.8289v2,2014-07-31T06:33:42Z,DuSK: A Dual Structure-preserving Kernel for Supervised Tensor Learning   with Applications to Neuroimages,Xiaowei Yang,cs.LG,http://arxiv.org/pdf/1407.8289v2
+1407.8339v6,2014-07-31T10:09:11Z,Combinatorial Multi-Armed Bandit and Its Extension to Probabilistically   Triggered Arms,Qinshi Wang,cs.LG,http://arxiv.org/pdf/1407.8339v6
+1507.00500v1,2015-07-02T10:06:02Z,Non-convex Regularizations for Feature Selection in Ranking With Sparse   SVM,Josiane Mothe,cs.LG,http://arxiv.org/pdf/1507.00500v1
+1507.00504v2,2015-07-02T10:15:11Z,Optimal Transport for Domain Adaptation,Alain Rakotomamonjy,cs.LG,http://arxiv.org/pdf/1507.00504v2
+1507.01215v2,2015-07-05T12:49:20Z,Combining Models of Approximation with Partial Learning,Sandra Zilles,cs.LG,http://arxiv.org/pdf/1507.01215v2
+1507.01563v1,2015-07-06T18:53:09Z,"A Simple Algorithm for Maximum Margin Classification, Revisited",Sariel Har-Peled,cs.LG,http://arxiv.org/pdf/1507.01563v1
+1507.02011v1,2015-07-08T03:35:58Z,A Bayesian Approach for Online Classifier Ensemble,Stan Sclaroff,cs.LG,http://arxiv.org/pdf/1507.02011v1
+1507.02158v2,2015-07-08T13:58:19Z,An Empirical Study on Budget-Aware Online Kernel Algorithms for Streams   of Graphs,Alessandro Sperduti,cs.LG,http://arxiv.org/pdf/1507.02158v2
+1507.02186v2,2015-07-08T14:58:49Z,Extending local features with contextual information in graph kernels,Riccardo Tesselli,cs.LG,http://arxiv.org/pdf/1507.02186v2
+1507.02750v2,2015-07-10T00:05:38Z,Utility-based Dueling Bandits as a Partial Monitoring Game,Tanguy Urvoy,cs.LG,http://arxiv.org/pdf/1507.02750v2
+1507.03032v2,2015-07-10T20:52:35Z,Spectral Smoothing via Random Matrix Perturbations,Ambuj Tewari,cs.LG,http://arxiv.org/pdf/1507.03032v2
+1507.03125v1,2015-07-11T16:46:37Z,A new boosting algorithm based on dual averaging scheme,Nan Wang,cs.LG,http://arxiv.org/pdf/1507.03125v1
+1507.03292v4,2015-07-12T23:27:50Z,Cluster-Aided Mobility Predictions,Alexandre Proutiere,cs.LG,http://arxiv.org/pdf/1507.03292v4
+1507.03372v2,2015-07-13T09:50:41Z,Ordered Decompositional DAG Kernels Enhancements,Alessandro Sperduti,cs.LG,http://arxiv.org/pdf/1507.03372v2
+1507.04029v1,2015-07-14T21:16:23Z,Training artificial neural networks to learn a nondeterministic game,Thomas E. Portegys,cs.LG,http://arxiv.org/pdf/1507.04029v1
+1507.04502v1,2015-07-16T09:28:27Z,Towards Predicting First Daily Departure Times: a Gaussian Modeling   Approach for Load Shift Forecasting,Ilya Dianov,cs.LG,http://arxiv.org/pdf/1507.04502v1
+1507.04523v1,2015-07-16T11:02:13Z,Upper-Confidence-Bound Algorithms for Active Learning in Multi-Armed   Bandits,András Antos,cs.LG,http://arxiv.org/pdf/1507.04523v1
+1507.04888v3,2015-07-17T09:30:03Z,Maximum Entropy Deep Inverse Reinforcement Learning,Ingmar Posner,cs.LG,http://arxiv.org/pdf/1507.04888v3
+1507.04910v1,2015-07-17T10:39:52Z,Lower Bounds for Multi-armed Bandit with Non-equivalent Multiple Plays,Gleb Gusev,cs.LG,http://arxiv.org/pdf/1507.04910v1
+1507.05307v1,2015-07-19T16:55:08Z,2 Notes on Classes with Vapnik-Chervonenkis Dimension 1,Shai Ben-David,cs.LG,http://arxiv.org/pdf/1507.05307v1
+1507.05455v2,2015-07-20T11:48:01Z,AMP: a new time-frequency feature extraction method for intermittent   time-series data,Gavin Smith,cs.LG,http://arxiv.org/pdf/1507.05455v2
+1507.05800v1,2015-07-21T12:17:58Z,Bandit-Based Task Assignment for Heterogeneous Crowdsourcing,Masashi Sugiyama,cs.LG,http://arxiv.org/pdf/1507.05800v1
+1507.05880v2,2015-07-21T15:55:46Z,A study of the classification of low-dimensional data with supervised   manifold learning,Christine Guillemot,cs.LG,http://arxiv.org/pdf/1507.05880v2
+1507.06527v4,2015-07-23T15:16:46Z,Deep Recurrent Q-Learning for Partially Observable MDPs,Peter Stone,cs.LG,http://arxiv.org/pdf/1507.06527v4
+1507.06923v1,2015-07-24T17:22:17Z,A Reinforcement Learning Approach to Online Learning of Decision Trees,Balaraman Ravindran,cs.LG,http://arxiv.org/pdf/1507.06923v1
+1507.07146v1,2015-07-25T22:53:31Z,A Framework of Sparse Online Learning and Its Applications,Steven C. H. Hoi,cs.LG,http://arxiv.org/pdf/1507.07146v1
+1507.07147v1,2015-07-25T22:56:29Z,True Online Emphatic TD($λ$): Quick Reference and Implementation   Guide,Richard S. Sutton,cs.LG,http://arxiv.org/pdf/1507.07147v1
+1507.07199v1,2015-07-26T13:26:57Z,Task Selection for Bandit-Based Task Assignment in Heterogeneous   Crowdsourcing,Masashi Sugiyama,cs.LG,http://arxiv.org/pdf/1507.07199v1
+1507.07955v1,2015-07-28T20:54:56Z,Sparse Multidimensional Patient Modeling using Auxiliary Confidence   Labels,Milos Hauskrecht,cs.LG,http://arxiv.org/pdf/1507.07955v1
+1507.08104v1,2015-07-29T11:28:41Z,Learning Representations for Outlier Detection on a Budget,Ira Assent,cs.LG,http://arxiv.org/pdf/1507.08104v1
+1507.08379v1,2015-07-30T05:09:03Z,VMF-SNE: Embedding for Spherical Data,Dong Wang,cs.LG,http://arxiv.org/pdf/1507.08379v1
+0910.0349v1,2009-10-02T08:40:01Z,Post-Processing of Discovered Association Rules Using Ontologies,Henri Briand,cs.LG,http://arxiv.org/pdf/0910.0349v1
+0910.0668v2,2009-10-05T03:30:13Z,Variable sigma Gaussian processes: An expectation propagation   perspective,Thomas P. Minka,cs.LG,http://arxiv.org/pdf/0910.0668v2
+0910.2540v1,2009-10-14T07:43:03Z,Effectiveness and Limitations of Statistical Spam Filters,Tariq R. Jan,cs.LG,http://arxiv.org/pdf/0910.2540v1
+0910.4683v2,2009-10-24T22:40:40Z,Competing with Gaussian linear experts,Vladimir Vovk,cs.LG,http://arxiv.org/pdf/0910.4683v2
+0910.5461v1,2009-10-28T18:46:41Z,Anomaly Detection with Score functions based on Nearest Neighbor Graphs,Venkatesh Saligrama,cs.LG,http://arxiv.org/pdf/0910.5461v1
+1003.0024v1,2010-02-26T21:59:02Z,Asymptotic Analysis of Generative Semi-Supervised Learning,Guy Lebanon,cs.LG,http://arxiv.org/pdf/1003.0024v1
+1003.0470v2,2010-03-01T22:32:18Z,Unsupervised Supervised Learning II: Training Margin Based Classifiers   without Labels,Guy Lebanon,cs.LG,http://arxiv.org/pdf/1003.0470v2
+1003.0516v1,2010-03-02T08:21:07Z,Model Selection with the Loss Rank Principle,Minh-Ngoc Tran,cs.LG,http://arxiv.org/pdf/1003.0516v1
+1003.0691v1,2010-03-02T21:54:16Z,Statistical and Computational Tradeoffs in Stochastic Composite   Likelihood,Guy Lebanon,cs.LG,http://arxiv.org/pdf/1003.0691v1
+1003.0696v1,2010-03-02T22:27:31Z,Exponential Family Hybrid Semi-Supervised Learning,Hal Daume III,cs.LG,http://arxiv.org/pdf/1003.0696v1
+1003.1450v1,2010-03-07T11:08:33Z,A New Clustering Approach based on Page's Path Similarity for Navigation   Patterns Mining,Mashalla Abbasi Dezfouli,cs.LG,http://arxiv.org/pdf/1003.1450v1
+1003.1510v1,2010-03-07T18:32:47Z,Hierarchical Web Page Classification Based on a Topic Model and   Neighboring Pages Integration,Choochart Haruechaiyasak,cs.LG,http://arxiv.org/pdf/1003.1510v1
+1003.2218v1,2010-03-10T21:53:56Z,Supermartingales in Prediction with Expert Advice,Vladimir Vovk,cs.LG,http://arxiv.org/pdf/1003.2218v1
+1005.0027v2,2010-04-30T21:52:17Z,Learning from Multiple Outlooks,Shie Mannor,cs.LG,http://arxiv.org/pdf/1005.0027v2
+1005.0047v1,2010-05-01T06:06:36Z,A Geometric View of Conjugate Priors,Hal Daume III,cs.LG,http://arxiv.org/pdf/1005.0047v1
+1005.0075v1,2010-05-01T13:57:15Z,Distributive Stochastic Learning for Delay-Optimal OFDMA Power and   Subband Allocation,Vincent K. N. Lau,cs.LG,http://arxiv.org/pdf/1005.0075v1
+1005.0340v1,2010-05-03T16:35:49Z,Statistical Learning in Automated Troubleshooting: Application to LTE   Interference Mitigation,Zwi Altman,cs.LG,http://arxiv.org/pdf/1005.0340v1
+1005.0897v1,2010-05-06T06:42:51Z,The Complex Gaussian Kernel LMS algorithm,Sergios Theodoridis,cs.LG,http://arxiv.org/pdf/1005.0897v1
+1005.0902v2,2010-05-06T06:59:22Z,Extension of Wirtinger Calculus in RKH Spaces and the Complex Kernel LMS,Sergios Theodoridis,cs.LG,http://arxiv.org/pdf/1005.0902v2
+1005.1545v2,2010-05-10T13:49:01Z,Improving Semi-Supervised Support Vector Machines Through Unlabeled   Instances Selection,Zhi-Hua Zhou,cs.LG,http://arxiv.org/pdf/1005.1545v2
+1005.1918v2,2010-05-11T19:27:35Z,Prediction with Expert Advice under Discounted Loss,Fedor Zhdanov,cs.LG,http://arxiv.org/pdf/1005.1918v2
+1005.2179v1,2010-05-12T19:53:29Z,Detecting Blackholes and Volcanoes in Directed Networks,Yanchi Liu,cs.LG,http://arxiv.org/pdf/1005.2179v1
+1005.2243v1,2010-05-13T01:59:57Z,Robustness and Generalization,Shie Mannor,cs.LG,http://arxiv.org/pdf/1005.2243v1
+1005.2296v2,2010-05-13T10:56:01Z,Online Learning of Noisy Data with Kernels,Ohad Shamir,cs.LG,http://arxiv.org/pdf/1005.2296v2
+1005.3566v1,2010-05-19T22:58:53Z,Evolution with Drifting Targets,Jennifer Wortman Vaughan,cs.LG,http://arxiv.org/pdf/1005.3566v1
+1005.3681v2,2010-05-20T12:39:56Z,Learning Kernel-Based Halfspaces with the Zero-One Loss,Karthik Sridharan,cs.LG,http://arxiv.org/pdf/1005.3681v2
+1005.5462v2,2010-05-29T15:27:16Z,On the clustering aspect of nonnegative matrix factorization,Masashi Furukawa,cs.LG,http://arxiv.org/pdf/1005.5462v2
+1005.5581v2,2010-05-31T03:59:35Z,Multi-View Active Learning in the Non-Realizable Case,Zhi-Hua Zhou,cs.LG,http://arxiv.org/pdf/1005.5581v2
+1006.0475v1,2010-06-02T19:41:27Z,Prediction with Advice of Unknown Number of Experts,Vladimir Vovk,cs.LG,http://arxiv.org/pdf/1006.0475v1
+1006.1129v2,2010-06-06T18:21:06Z,Predictive PAC learnability: a paradigm for learning from exchangeable   input data,Vladimir Pestov,cs.LG,http://arxiv.org/pdf/1006.1129v2
+1006.1288v2,2010-06-07T16:20:02Z,Regression on fixed-rank positive semidefinite matrices: a Riemannian   approach,Rodolphe Sepulchre,cs.LG,http://arxiv.org/pdf/1006.1288v2
+1006.2156v1,2010-06-10T21:19:28Z,Dyadic Prediction Using a Latent Feature Log-Linear Model,Charles Elkan,cs.LG,http://arxiv.org/pdf/1006.2156v1
+1006.2588v1,2010-06-14T02:03:12Z,Agnostic Active Learning Without Constraints,Tong Zhang,cs.LG,http://arxiv.org/pdf/1006.2588v1
+1006.3033v3,2010-06-15T17:09:01Z,Extension of Wirtinger's Calculus to Reproducing Kernel Hilbert Spaces   and the Complex Kernel LMS,Sergios Theodoridis,cs.LG,http://arxiv.org/pdf/1006.3033v3
+1006.4832v1,2010-06-24T16:42:38Z,MINLIP for the Identification of Monotone Wiener Systems,Kristiaan Pelckmans,cs.LG,http://arxiv.org/pdf/1006.4832v1
+1006.5090v1,2010-06-26T01:44:57Z,PAC learnability of a concept class under non-atomic measures: a problem   by Vidyasagar,Vladimir Pestov,cs.LG,http://arxiv.org/pdf/1006.5090v1
+1103.0598v1,2011-03-03T02:46:51Z,Learning transformed product distributions,Rocco A. Servedio,cs.LG,http://arxiv.org/pdf/1103.0598v1
+1103.1013v2,2011-03-05T07:10:41Z,A Feature Selection Method for Multivariate Performance Measures,Ivor W. Tsang,cs.LG,http://arxiv.org/pdf/1103.1013v2
+1103.4204v1,2011-03-22T04:54:35Z,Parallel Online Learning,Alex Smola,cs.LG,http://arxiv.org/pdf/1103.4204v1
+1104.0235v1,2011-04-01T19:33:05Z,Gaussian Robust Classification,Amir Globerson,cs.LG,http://arxiv.org/pdf/1104.0235v1
+1104.0651v3,2011-04-04T19:04:25Z,Meaningful Clustered Forest: an Automatic and Robust Clustering   Algorithm,Andrés Almansa,cs.LG,http://arxiv.org/pdf/1104.0651v3
+1104.2097v1,2011-04-12T01:15:03Z,PAC learnability versus VC dimension: a footnote to a basic result of   statistical learning,Vladimir Pestov,cs.LG,http://arxiv.org/pdf/1104.2097v1
+1104.4664v1,2011-04-24T22:59:24Z,Temporal Second Difference Traces,Mitchell Keith Bloch,cs.LG,http://arxiv.org/pdf/1104.4664v1
+1104.5059v1,2011-04-27T00:58:52Z,Reducing Commitment to Tasks with Off-Policy Hierarchical Reinforcement   Learning,Mitchell Keith Bloch,cs.LG,http://arxiv.org/pdf/1104.5059v1
+1104.5071v1,2011-04-27T04:12:47Z,Attacking and Defending Covert Channels and Behavioral Models,Annarita Giani,cs.LG,http://arxiv.org/pdf/1104.5071v1
+1112.1125v2,2011-12-06T00:13:44Z,Learning in embodied action-perception loops through exploration,Friedrich T. Sommer,cs.LG,http://arxiv.org/pdf/1112.1125v2
+1112.1390v1,2011-12-06T20:15:37Z,An Identity for Kernel Ridge Regression,Yuri Kalnishkan,cs.LG,http://arxiv.org/pdf/1112.1390v1
+1112.1966v1,2011-12-08T21:33:38Z,Bipartite ranking algorithm for classification and survival analysis,Marina Sapir,cs.LG,http://arxiv.org/pdf/1112.1966v1
+1112.3712v1,2011-12-16T05:21:10Z,Analysis and Extension of Arc-Cosine Kernels for Large Margin   Classification,Lawrence K. Saul,cs.LG,http://arxiv.org/pdf/1112.3712v1
+1112.3714v1,2011-12-16T05:33:59Z,Nonnegative Matrix Factorization for Semi-supervised Dimensionality   Reduction,Lawrence K. Saul,cs.LG,http://arxiv.org/pdf/1112.3714v1
+1112.4020v1,2011-12-17T03:57:06Z,Clustering and Latent Semantic Indexing Aspects of the Nonnegative   Matrix Factorization,Andri Mirzal,cs.LG,http://arxiv.org/pdf/1112.4020v1
+1112.4133v1,2011-12-18T08:02:49Z,Evaluation of Performance Measures for Classifiers Comparison,Hocine Cherifi,cs.LG,http://arxiv.org/pdf/1112.4133v1
+1112.4722v2,2011-12-20T15:21:26Z,Modeling transition dynamics in MDPs with RKHS embeddings of conditional   distributions,Guy Lever,cs.LG,http://arxiv.org/pdf/1112.4722v2
+1112.5246v3,2011-12-22T08:07:56Z,Combining One-Class Classifiers via Meta-Learning,Yuval Elovici,cs.LG,http://arxiv.org/pdf/1112.5246v3
+1112.6209v5,2011-12-29T00:26:54Z,Building high-level features using large scale unsupervised learning,Andrew Y. Ng,cs.LG,http://arxiv.org/pdf/1112.6209v5
+1112.6399v1,2011-12-29T19:52:14Z,Two-Manifold Problems,Geoffrey J. Gordon,cs.LG,http://arxiv.org/pdf/1112.6399v1
+1211.0210v1,2012-11-01T15:52:11Z,Extension of TSVM to Multi-Class and Hierarchical Text Classification   Problems With General Losses,Shirish Shevade,cs.LG,http://arxiv.org/pdf/1211.0210v1
+1211.1513v2,2012-11-07T10:57:38Z,K-Plane Regression,P. S. Sastry,cs.LG,http://arxiv.org/pdf/1211.1513v2
+1211.1799v1,2012-11-08T09:22:11Z,Algorithm for Missing Values Imputation in Categorical Data with Use of   Association Rules,Jiří Kaiser,cs.LG,http://arxiv.org/pdf/1211.1799v1
+1211.2260v1,2012-11-09T22:13:10Z,No-Regret Algorithms for Unconstrained Online Convex Optimization,H. Brendan McMahan,cs.LG,http://arxiv.org/pdf/1211.2260v1
+1211.3046v4,2012-11-13T16:39:45Z,Recovering the Optimal Solution by Dual Random Projection,Shenghuo Zhu,cs.LG,http://arxiv.org/pdf/1211.3046v4
+1211.5063v2,2012-11-21T15:40:11Z,On the difficulty of training Recurrent Neural Networks,Yoshua Bengio,cs.LG,http://arxiv.org/pdf/1211.5063v2
+1211.6340v1,2012-11-09T09:54:29Z,An Approach of Improving Students Academic Performance by using k means   clustering algorithm and Decision tree,Mahfuza Haque,cs.LG,http://arxiv.org/pdf/1211.6340v1
+1211.6581v5,2012-11-28T11:42:36Z,Multi-Target Regression via Input Space Expansion: Treating Targets as   Inputs,Ioannis Vlahavas,cs.LG,http://arxiv.org/pdf/1211.6581v5
+1301.0179v1,2013-01-02T07:13:19Z,A Novel Design Specification Distance(DSD) Based K-Mean Clustering   Performace Evluation on Engineering Materials Database,K. S. Hemanth,cs.LG,http://arxiv.org/pdf/1301.0179v1
+1301.1936v1,2013-01-09T18:02:54Z,Risk-Aversion in Multi-armed Bandits,Rémi Munos,cs.LG,http://arxiv.org/pdf/1301.1936v1
+1301.2012v1,2013-01-10T00:47:21Z,Error Correction in Learning using SVMs,Ramarathnam Venkatesan,cs.LG,http://arxiv.org/pdf/1301.2012v1
+1301.2609v5,2013-01-11T21:24:11Z,Learning to Optimize Via Posterior Sampling,Benjamin Van Roy,cs.LG,http://arxiv.org/pdf/1301.2609v5
+1301.3224v5,2013-01-15T04:39:32Z,Efficient Learning of Domain-invariant Image Representations,Kate Saenko,cs.LG,http://arxiv.org/pdf/1301.3224v5
+1301.3391v3,2013-01-15T16:06:11Z,Feature grouping from spatially constrained multiplicative interaction,Roland Memisevic,cs.LG,http://arxiv.org/pdf/1301.3391v3
+1301.3485v2,2013-01-15T20:52:50Z,A Semantic Matching Energy Function for Learning with Multi-relational   Data,Yoshua Bengio,cs.LG,http://arxiv.org/pdf/1301.3485v2
+1301.3524v1,2013-01-15T22:51:40Z,How good is the Electricity benchmark for evaluating concept drift   adaptation,Indre Zliobaite,cs.LG,http://arxiv.org/pdf/1301.3524v1
+1301.3539v1,2013-01-16T01:07:38Z,Learning Features with Structure-Adapting Multi-view Exponential Family   Harmoniums,Seungjin Choi,cs.LG,http://arxiv.org/pdf/1301.3539v1
+1301.3577v3,2013-01-16T04:07:46Z,Saturating Auto-Encoders,Yann LeCun,cs.LG,http://arxiv.org/pdf/1301.3577v3
+1301.3630v4,2013-01-16T09:01:47Z,Behavior Pattern Recognition using A New Representation Model,Peter A. Beling,cs.LG,http://arxiv.org/pdf/1301.3630v4
+1301.3753v2,2013-01-16T17:04:10Z,Switched linear encoding with rectified linear autoencoders,Craig Corcoran,cs.LG,http://arxiv.org/pdf/1301.3753v2
+1301.3816v1,2013-01-16T20:16:02Z,Learning Output Kernels for Multi-Task Problems,Francesco Dinuzzo,cs.LG,http://arxiv.org/pdf/1301.3816v1
+1301.5160v2,2013-01-22T11:59:04Z,See the Tree Through the Lines: The Shazoo Algorithm -- Full Version --,Giovanni Zappella,cs.LG,http://arxiv.org/pdf/1301.5160v2
+1301.6058v1,2013-01-25T15:09:39Z,Weighted Last-Step Min-Max Algorithm with Improved Sub-Logarithmic   Regret,Koby Crammer,cs.LG,http://arxiv.org/pdf/1301.6058v1
+1301.6316v3,2013-01-27T04:51:21Z,Hierarchical Data Representation Model - Multi-layer NMF,Soo-Young Lee,cs.LG,http://arxiv.org/pdf/1301.6316v3
+1301.6659v4,2013-01-28T20:01:57Z,Clustering-Based Matrix Factorization,Charles X. Ling,cs.LG,http://arxiv.org/pdf/1301.6659v4
+1305.0103v1,2013-05-01T06:32:12Z,Clustering Unclustered Data: Unsupervised Binary Labeling of Two   Datasets Having Different Class Balances,Masashi Sugiyama,cs.LG,http://arxiv.org/pdf/1305.0103v1
+1305.0208v2,2013-05-01T15:45:34Z,Perceptron Mistake Bounds,Afshin Rostamizadeh,cs.LG,http://arxiv.org/pdf/1305.0208v2
+1305.0445v2,2013-05-02T14:33:28Z,Deep Learning of Representations: Looking Forward,Yoshua Bengio,cs.LG,http://arxiv.org/pdf/1305.0445v2
+1305.0665v2,2013-05-03T10:20:02Z,Spectral Classification Using Restricted Boltzmann Machine,Guodong Zhao,cs.LG,http://arxiv.org/pdf/1305.0665v2
+1305.0698v1,2013-05-03T13:26:24Z,Learning from Imprecise and Fuzzy Observations: Data Disambiguation   through Generalized Loss Minimization,Eyke Hüllermeier,cs.LG,http://arxiv.org/pdf/1305.0698v1
+1305.1019v2,2013-05-05T14:58:15Z,Simple Deep Random Model Ensemble,Ji Wu,cs.LG,http://arxiv.org/pdf/1305.1019v2
+1305.1359v1,2013-05-07T00:02:51Z,A Differential Equations Approach to Optimizing Regret Trade-offs,Rina Panigrahy,cs.LG,http://arxiv.org/pdf/1305.1359v1
+1305.1363v2,2013-05-07T00:30:32Z,One-Pass AUC Optimization,Zhi-Hua Zhou,cs.LG,http://arxiv.org/pdf/1305.1363v2
+1305.1707v1,2013-05-08T03:39:17Z,Class Imbalance Problem in Data Mining Review,Snehalata Dongre,cs.LG,http://arxiv.org/pdf/1305.1707v1
+1305.2452v1,2013-05-10T23:06:47Z,Stochastic Collapsed Variational Bayesian Inference for Latent Dirichlet   Allocation,Max Welling,cs.LG,http://arxiv.org/pdf/1305.2452v1
+1305.2732v1,2013-05-13T10:39:47Z,An efficient algorithm for learning with semi-bandit feedback,Gábor Bartók,cs.LG,http://arxiv.org/pdf/1305.2732v1
+1305.2982v1,2013-05-14T00:29:42Z,Estimating or Propagating Gradients Through Stochastic Neurons,Yoshua Bengio,cs.LG,http://arxiv.org/pdf/1305.2982v1
+1305.4076v5,2013-05-17T13:42:49Z,Contractive De-noising Auto-encoder,Jing Bai,cs.LG,http://arxiv.org/pdf/1305.4076v5
+1305.4345v1,2013-05-19T10:24:06Z,Ensembles of Classifiers based on Dimensionality Reduction,Amir Amit,cs.LG,http://arxiv.org/pdf/1305.4345v1
+1305.6663v4,2013-05-29T00:25:54Z,Generalized Denoising Auto-Encoders as Generative Models,Pascal Vincent,cs.LG,http://arxiv.org/pdf/1305.6663v4
+1305.7111v1,2013-05-30T13:52:32Z,Test cost and misclassification cost trade-off using reframing,José Hernández-Orallo,cs.LG,http://arxiv.org/pdf/1305.7111v1
+1306.0125v1,2013-06-01T15:48:58Z,Understanding ACT-R - an Outsider's Perspective,Jacob Whitehill,cs.LG,http://arxiv.org/pdf/1306.0125v1
+1306.0237v3,2013-06-02T18:30:45Z,Guided Random Forest in the RRF Package,Houtao Deng,cs.LG,http://arxiv.org/pdf/1306.0237v3
+1306.1091v5,2013-06-05T13:01:14Z,Deep Generative Stochastic Networks Trainable by Backprop,Jason Yosinski,cs.LG,http://arxiv.org/pdf/1306.1091v5
+1306.1326v1,2013-06-06T07:42:33Z,Performance analysis of unsupervised feature selection methods,E. N. Sathishkumar,cs.LG,http://arxiv.org/pdf/1306.1326v1
+1306.2347v4,2013-06-10T20:18:48Z,Auditing: Active Learning with Outcome-Dependent Query Costs,Nathan Srebro,cs.LG,http://arxiv.org/pdf/1306.2347v4
+1306.3108v2,2013-06-13T13:47:51Z,Guaranteed Classification via Regularized Similarity Learning,Yiming Ying,cs.LG,http://arxiv.org/pdf/1306.3108v2
+1306.3895v2,2013-06-17T15:29:00Z,On-line PCA with Optimal Regrets,Manfred K. Warmuth,cs.LG,http://arxiv.org/pdf/1306.3895v2
+1306.4653v4,2013-06-19T19:25:51Z,Multiarmed Bandits With Limited Expert Advice,Satyen Kale,cs.LG,http://arxiv.org/pdf/1306.4653v4
+1306.4947v2,2013-06-20T18:04:24Z,Machine Teaching for Bayesian Learners in the Exponential Family,Xiaojin Zhu,cs.LG,http://arxiv.org/pdf/1306.4947v2
+1306.5349v1,2013-06-22T19:32:05Z,Song-based Classification techniques for Endangered Bird Conservation,Nicolas Vidot,cs.LG,http://arxiv.org/pdf/1306.5349v1
+1306.5487v1,2013-06-23T23:36:40Z,Model Reframing by Feature Context Change,Celestine-Periale Maguedong-Djoumessi,cs.LG,http://arxiv.org/pdf/1306.5487v1
+1308.2893v2,2013-08-13T15:15:37Z,Multiclass learnability and the ERM principle,Shai Shalev-Shwartz,cs.LG,http://arxiv.org/pdf/1308.2893v2
+1308.3432v1,2013-08-15T15:19:34Z,Estimating or Propagating Gradients Through Stochastic Neurons for   Conditional Computation,Aaron Courville,cs.LG,http://arxiv.org/pdf/1308.3432v1
+1308.3509v1,2013-08-15T20:59:32Z,Stochastic Optimization for Machine Learning,Andrew Cotter,cs.LG,http://arxiv.org/pdf/1308.3509v1
+1308.3541v2,2013-08-16T03:46:25Z,Knapsack Constrained Contextual Submodular List Prediction with   Application to Multi-document Summarization,J. Andrew Bagnell,cs.LG,http://arxiv.org/pdf/1308.3541v2
+1308.3750v1,2013-08-17T03:56:03Z,"Comment on ""robustness and regularization of support vector machines"" by   H. Xu, et al., (Journal of Machine Learning Research, vol. 10, pp. 1485-1510,   2009, arXiv:0803.3490)",Hadi Sadoghi Yazdi,cs.LG,http://arxiv.org/pdf/1308.3750v1
+1308.4828v1,2013-08-22T11:39:06Z,The Sample-Complexity of General Reinforcement Learning,Peter Sunehag,cs.LG,http://arxiv.org/pdf/1308.4828v1
+1308.5281v1,2013-08-24T02:33:11Z,Ensemble of Distributed Learners for Online Classification of Dynamic   Data Streams,Mihaela van der Schaar,cs.LG,http://arxiv.org/pdf/1308.5281v1
+1308.6324v2,2013-08-28T22:08:29Z,Prediction of breast cancer recurrence using Classification Restricted   Boltzmann Machine with Dropping,Jakub M. Tomczak,cs.LG,http://arxiv.org/pdf/1308.6324v2
+1309.0489v3,2013-09-02T19:29:34Z,Relative Comparison Kernel Learning with Auxiliary Kernels,Milos Hauskrecht,cs.LG,http://arxiv.org/pdf/1309.0489v3
+1309.3697v1,2013-09-14T19:56:58Z,Group Learning and Opinion Diffusion in a Broadcast Network,Mingyan Liu,cs.LG,http://arxiv.org/pdf/1309.3697v1
+1309.3877v1,2013-09-16T09:39:25Z,A Metric-learning based framework for Support Vector Machines and   Multiple Kernel Learning,Alexandros Kalousis,cs.LG,http://arxiv.org/pdf/1309.3877v1
+1309.5605v1,2013-09-22T14:46:15Z,Stochastic Bound Majorization,Tony Jebara,cs.LG,http://arxiv.org/pdf/1309.5605v1
+1309.5823v1,2013-09-23T14:39:48Z,A Kernel Classification Framework for Metric Learning,David Zhang,cs.LG,http://arxiv.org/pdf/1309.5823v1
+1309.5904v1,2013-09-23T18:14:02Z,Fenchel Duals for Drifting Adversaries,Jayram S. Thatchachar,cs.LG,http://arxiv.org/pdf/1309.5904v1
+1309.7598v1,2013-09-29T13:48:52Z,On Sampling from the Gibbs Distribution with Random Maximum A-Posteriori   Perturbations,Tommi Jaakkola,cs.LG,http://arxiv.org/pdf/1309.7598v1
+1309.7750v2,2013-09-30T08:24:14Z,An Extensive Experimental Study on the Cluster-based Reference Set   Reduction for speeding-up the k-NN Classifier,Dimitris A. Dervos,cs.LG,http://arxiv.org/pdf/1309.7750v2
+1309.7982v1,2013-09-26T14:44:10Z,On the Feature Discovery for App Usage Prediction in Smartphones,Philip S Yu,cs.LG,http://arxiv.org/pdf/1309.7982v1
+1312.0048v1,2013-11-30T01:07:25Z,Stochastic Optimization of Smooth Loss,Rong Jin,cs.LG,http://arxiv.org/pdf/1312.0048v1
+1312.0412v1,2013-12-02T10:58:01Z,Practical Collapsed Stochastic Variational Inference for the HDP,Arnim Bleier,cs.LG,http://arxiv.org/pdf/1312.0412v1
+1312.0512v2,2013-12-02T16:47:10Z,Sensing-Aware Kernel SVM,W. Clem Karl,cs.LG,http://arxiv.org/pdf/1312.0512v2
+1312.0579v1,2013-12-02T20:26:41Z,SpeedMachines: Anytime Structured Prediction,Martial Hebert,cs.LG,http://arxiv.org/pdf/1312.0579v1
+1312.0786v2,2013-12-03T11:59:57Z,Image Representation Learning Using Graph Regularized Auto-Encoders,Yong Liu,cs.LG,http://arxiv.org/pdf/1312.0786v2
+1312.1121v1,2013-12-04T11:57:53Z,Interpreting random forest classification models using a feature   contribution method,Daniel Neagu,cs.LG,http://arxiv.org/pdf/1312.1121v1
+1312.1530v2,2013-12-05T13:00:23Z,Bandit Online Optimization Over the Permutahedron,Eiji Takimoto,cs.LG,http://arxiv.org/pdf/1312.1530v2
+1312.1737v1,2013-12-05T23:53:45Z,Curriculum Learning for Handwritten Text Line Recognition,Christopher Kermorvant,cs.LG,http://arxiv.org/pdf/1312.1737v1
+1312.1847v2,2013-12-06T12:55:05Z,Understanding Deep Architectures using a Recursive Convolutional Network,Yann LeCun,cs.LG,http://arxiv.org/pdf/1312.1847v2
+1312.2451v1,2013-12-06T18:25:15Z,CEAI: CCM based Email Authorship Identification Model,Nasrullah Memon,cs.LG,http://arxiv.org/pdf/1312.2451v1
+1312.2578v2,2013-12-09T20:58:16Z,Kernel-based Distance Metric Learning in the Output Space,Georgios C. Anagnostopoulos,cs.LG,http://arxiv.org/pdf/1312.2578v2
+1312.2606v1,2013-12-09T21:27:23Z,Multi-Task Classification Hypothesis Space with Improved Generalization   Bounds,Georgios C. Anagnostopoulos,cs.LG,http://arxiv.org/pdf/1312.2606v1
+1312.2789v1,2013-12-10T13:16:02Z,Performance Analysis Of Regularized Linear Regression Models For   Oxazolines And Oxazoles Derivitive Descriptor Dataset,Chanabasayya . M. Vastrad,cs.LG,http://arxiv.org/pdf/1312.2789v1
+1312.2936v1,2013-12-10T20:36:04Z,Active Player Modelling,Georgios N. Yannakakis,cs.LG,http://arxiv.org/pdf/1312.2936v1
+1312.3388v1,2013-12-12T02:46:07Z,Online Bayesian Passive-Aggressive Learning,Jun Zhu,cs.LG,http://arxiv.org/pdf/1312.3388v1
+1312.3393v2,2013-12-12T03:08:46Z,Relative Upper Confidence Bound for the K-Armed Dueling Bandit Problem,Maarten de Rijke,cs.LG,http://arxiv.org/pdf/1312.3393v2
+1312.3811v1,2013-12-13T14:10:30Z,Efficient Baseline-free Sampling in Parameter Exploring Policy   Gradients: Super Symmetric PGPE,Frank Sehnke,cs.LG,http://arxiv.org/pdf/1312.3811v1
+1312.4209v1,2013-12-15T23:40:49Z,Feature Graph Architectures,Philip Leong,cs.LG,http://arxiv.org/pdf/1312.4209v1
+1312.4314v3,2013-12-16T11:15:10Z,Learning Factored Representations in a Deep Mixture of Experts,Ilya Sutskever,cs.LG,http://arxiv.org/pdf/1312.4314v3
+1312.4405v1,2013-12-16T15:40:05Z,Learning Deep Representations By Distributed Random Samplings,Xiao-Lei Zhang,cs.LG,http://arxiv.org/pdf/1312.4405v1
+1312.4461v4,2013-12-16T18:58:34Z,Low-Rank Approximations for Conditional Feedforward Computation in Deep   Neural Networks,Itamar Arel,cs.LG,http://arxiv.org/pdf/1312.4461v4
+1312.4599v1,2013-12-17T00:32:43Z,Evolution and Computational Learning Theory: A survey on Valiant's paper,Arka Bhattacharya,cs.LG,http://arxiv.org/pdf/1312.4599v1
+1312.4986v1,2013-12-17T22:12:52Z,A Comparative Evaluation of Curriculum Learning with Filtering and   Boosting,Tony Martinez,cs.LG,http://arxiv.org/pdf/1312.4986v1
+1312.5021v1,2013-12-18T02:10:21Z,Efficient Online Bootstrapping for Large Scale Learning,John Langford,cs.LG,http://arxiv.org/pdf/1312.5021v1
+1312.5419v3,2013-12-19T06:53:24Z,Large-scale Multi-label Text Classification - Revisiting Neural Networks,Johannes Fürnkranz,cs.LG,http://arxiv.org/pdf/1312.5419v3
+1312.5602v1,2013-12-19T16:00:08Z,Playing Atari with Deep Reinforcement Learning,Martin Riedmiller,cs.LG,http://arxiv.org/pdf/1312.5602v1
+1312.5650v3,2013-12-19T17:30:31Z,Zero-Shot Learning by Convex Combination of Semantic Embeddings,Jeffrey Dean,cs.LG,http://arxiv.org/pdf/1312.5650v3
+1312.5663v2,2013-12-19T17:46:46Z,k-Sparse Autoencoders,Brendan Frey,cs.LG,http://arxiv.org/pdf/1312.5663v2
+1312.5869v2,2013-12-20T10:16:13Z,Principled Non-Linear Feature Selection,Delmiro Fernandez-Reyes,cs.LG,http://arxiv.org/pdf/1312.5869v2
+1312.5946v2,2013-12-20T14:08:48Z,Simple Methods for Initializing the EM Algorithm for Gaussian Mixture   Models,Kathrin Bujna,cs.LG,http://arxiv.org/pdf/1312.5946v2
+1312.6042v4,2013-12-20T17:03:50Z,Learning States Representations in POMDP,Patrick Gallinari,cs.LG,http://arxiv.org/pdf/1312.6042v4
+1312.6055v3,2013-12-20T17:44:06Z,Unit Tests for Stochastic Optimization,David Silver,cs.LG,http://arxiv.org/pdf/1312.6055v3
+1312.6062v2,2013-12-20T18:14:44Z,Stopping Criteria in Contrastive Divergence: Alternatives to the   Reconstruction Error,Jordi Delgado,cs.LG,http://arxiv.org/pdf/1312.6062v2
+1312.6086v1,2013-12-20T19:33:26Z,The return of AdaBoost.MH: multi-class Hamming trees,Balázs Kégl,cs.LG,http://arxiv.org/pdf/1312.6086v1
+1312.6117v2,2013-12-19T21:45:10Z,"Comparison three methods of clustering: k-means, spectral clustering and   hierarchical clustering",Kamran Kowsari,cs.LG,http://arxiv.org/pdf/1312.6117v2
+1312.6190v2,2013-12-21T01:50:08Z,Adaptive Feature Ranking for Unsupervised Transfer Learning,Artur d'Avila Garcez,cs.LG,http://arxiv.org/pdf/1312.6190v2
+1312.6282v1,2013-12-21T18:10:59Z,Dimension-free Concentration Bounds on Hankel Matrices for Spectral   Learning,Amaury Habrard,cs.LG,http://arxiv.org/pdf/1312.6282v1
+1312.6712v1,2013-12-23T22:15:59Z,Invariant Factorization Of Time-Series,Lars Schmidt-Thieme,cs.LG,http://arxiv.org/pdf/1312.6712v1
+1312.6807v1,2013-12-24T12:24:30Z,Iterative Nearest Neighborhood Oversampling in Semisupervised Learning   from Imbalanced Data,Fatemeh Kaveh-Yazdy,cs.LG,http://arxiv.org/pdf/1312.6807v1
+1312.7381v2,2013-12-28T02:08:53Z,Rate-Distortion Auto-Encoders,Jose C. Principe,cs.LG,http://arxiv.org/pdf/1312.7381v2
+1401.0044v1,2013-12-30T22:40:50Z,Approximating the Bethe partition function,Tony Jebara,cs.LG,http://arxiv.org/pdf/1401.0044v1
+1401.0116v1,2013-12-31T09:13:09Z,Controlled Sparsity Kernel Learning,Chiranjib Bhattacharyya,cs.LG,http://arxiv.org/pdf/1401.0116v1
+1401.0362v3,2014-01-02T03:12:28Z,EigenGP: Gaussian Process Models with Adaptive Eigenfunctions,Yuan Qi,cs.LG,http://arxiv.org/pdf/1401.0362v3
+1401.1123v1,2014-01-06T15:53:25Z,Exploration vs Exploitation vs Safety: Risk-averse Multi-Armed Bandits,Olivier Teytaud,cs.LG,http://arxiv.org/pdf/1401.1123v1
+1401.1880v2,2014-01-09T01:50:09Z,DJ-MC: A Reinforcement-Learning Agent for Music Playlist Recommendation,Peter Stone,cs.LG,http://arxiv.org/pdf/1401.1880v2
+1401.2411v1,2014-01-10T17:36:23Z,"Clustering, Coding, and the Concept of Similarity",L. Thorne McCarty,cs.LG,http://arxiv.org/pdf/1401.2411v1
+1401.3429v1,2014-01-15T04:46:37Z,Latent Tree Models and Approximate Inference in Bayesian Networks,Tao Chen,cs.LG,http://arxiv.org/pdf/1401.3429v1
+1401.3434v1,2014-01-15T04:50:50Z,Adaptive Stochastic Resource Control: A Machine Learning Approach,László Monostori,cs.LG,http://arxiv.org/pdf/1401.3434v1
+1401.3447v1,2014-01-15T05:09:07Z,"Anytime Induction of Low-cost, Low-error Classifiers: a Sampling-based   Approach",Shaul Markovitch,cs.LG,http://arxiv.org/pdf/1401.3447v1
+1401.3880v1,2014-01-16T05:12:21Z,Regression Conformal Prediction with Nearest Neighbours,Alex Gammerman,cs.LG,http://arxiv.org/pdf/1401.3880v1
+1401.4143v1,2014-01-16T19:49:02Z,Convex Optimization for Binary Classifier Aggregation in Multiclass   Problems,Seungjin Choi,cs.LG,http://arxiv.org/pdf/1401.4143v1
+1401.5136v1,2014-01-21T01:16:44Z,A Unifying Framework for Typical Multi-Task Multiple Kernel Learning   Problems,Georgios C. Anagnostopoulos,cs.LG,http://arxiv.org/pdf/1401.5136v1
+1401.6240v1,2014-01-24T01:57:42Z,Is Extreme Learning Machine Feasible? A Theoretical Assessment (Part II),Zongben Xu,cs.LG,http://arxiv.org/pdf/1401.6240v1
+1401.6376v1,2014-01-24T15:36:09Z,Steady-state performance of non-negative least-mean-square algorithm and   its variants,Cédric Richard,cs.LG,http://arxiv.org/pdf/1401.6376v1
+1401.6421v1,2014-01-23T02:42:39Z,Riffled Independence for Efficient Inference with Partial Rankings,Carlos Guestrin,cs.LG,http://arxiv.org/pdf/1401.6421v1
+1401.6424v1,2014-01-23T02:46:53Z,Toward Supervised Anomaly Detection,Ulf Brefeld,cs.LG,http://arxiv.org/pdf/1401.6424v1
+1402.0452v1,2014-02-03T18:20:46Z,A Lower Bound for the Variance of Estimators for Nakagami m Distribution,Tarun Choubisa,cs.LG,http://arxiv.org/pdf/1402.0452v1
+1402.0570v1,2014-02-04T01:37:24Z,A Feature Subset Selection Algorithm Automatic Recommendation Method,Yuming Zhou,cs.LG,http://arxiv.org/pdf/1402.0570v1
+1402.0577v1,2014-02-04T01:40:28Z,A Survey on Latent Tree Models and Applications,Philippe Leray,cs.LG,http://arxiv.org/pdf/1402.0577v1
+1402.2092v4,2014-02-10T10:36:49Z,Near-Optimally Teaching the Crowd to Classify,Andreas Krause,cs.LG,http://arxiv.org/pdf/1402.2092v4
+1402.3427v4,2014-02-14T10:44:48Z,Indian Buffet Process Deep Generative Models,Sotirios P. Chatzis,cs.LG,http://arxiv.org/pdf/1402.3427v4
+1402.3902v4,2014-02-17T06:00:16Z,Sparse Polynomial Learning and Graph Sketching,Adam Klivans,cs.LG,http://arxiv.org/pdf/1402.3902v4
+1402.4084v1,2014-02-17T17:53:57Z,Selective Sampling with Drift,Koby Crammer,cs.LG,http://arxiv.org/pdf/1402.4084v1
+1402.4322v1,2014-02-18T13:08:47Z,On the properties of $α$-unchaining single linkage hierarchical   clustering,A. Martínez-Pérez,cs.LG,http://arxiv.org/pdf/1402.4322v1
+1402.4437v2,2014-02-18T18:47:41Z,Learning the Irreducible Representations of Commutative Lie Groups,Max Welling,cs.LG,http://arxiv.org/pdf/1402.4437v2
+1402.4645v1,2014-02-19T12:40:31Z,A Survey on Semi-Supervised Learning Techniques,Dr. L. M. Nithya,cs.LG,http://arxiv.org/pdf/1402.4645v1
+1402.4861v1,2014-02-20T01:44:33Z,A Quasi-Newton Method for Large Scale Support Vector Machines,Alejandro Ribeiro,cs.LG,http://arxiv.org/pdf/1402.4861v1
+1402.5634v1,2014-02-23T16:51:51Z,To go deep or wide in learning?,Ambedkar Dukkipati,cs.LG,http://arxiv.org/pdf/1402.5634v1
+1402.5758v1,2014-02-24T09:27:18Z,Bandits with concave rewards and convex knapsacks,Nikhil R. Devanur,cs.LG,http://arxiv.org/pdf/1402.5758v1
+1402.6552v1,2014-02-26T14:29:33Z,Renewable Energy Prediction using Weather Forecasts for Optimal   Scheduling in HPC Systems,Ankur Sahai,cs.LG,http://arxiv.org/pdf/1402.6552v1
+1402.7001v1,2014-02-27T18:31:33Z,Marginalizing Corrupted Features,Kilian Weinberger,cs.LG,http://arxiv.org/pdf/1402.7001v1
+1402.7025v2,2014-02-26T10:47:09Z,Exploiting the Statistics of Learning and Inference,Max Welling,cs.LG,http://arxiv.org/pdf/1402.7025v2
+1403.0156v1,2014-03-02T04:14:23Z,Sleep Analytics and Online Selective Anomaly Detection,Romesh Abeysuriya,cs.LG,http://arxiv.org/pdf/1403.0156v1
+1403.0598v1,2014-03-03T21:20:14Z,The Structurally Smoothed Graphlet Kernel,S. V. N. Vishwanathan,cs.LG,http://arxiv.org/pdf/1403.0598v1
+1403.0628v2,2014-03-03T23:06:24Z,Unconstrained Online Linear Learning in Hilbert Spaces: Minimax   Algorithms and Normal Approximations,Francesco Orabona,cs.LG,http://arxiv.org/pdf/1403.0628v2
+1403.1329v1,2014-03-06T02:42:22Z,Integer Programming Relaxations for Integrated Clustering and Outlier   Detection,Sanjay Chawla,cs.LG,http://arxiv.org/pdf/1403.1329v1
+1403.1942v2,2014-03-08T07:07:12Z,Predictive Overlapping Co-Clustering,Jaideep Srivastava,cs.LG,http://arxiv.org/pdf/1403.1942v2
+1403.1946v1,2014-03-08T07:47:44Z,Improving Performance of a Group of Classification Algorithms Using   Resampling and Feature Selection,Touraj Varaee,cs.LG,http://arxiv.org/pdf/1403.1946v1
+1403.2065v8,2014-03-09T14:51:53Z,Categorization Axioms for Clustering Results,Zongben Xu,cs.LG,http://arxiv.org/pdf/1403.2065v8
+1403.2372v1,2014-03-08T08:04:29Z,A Hybrid Feature Selection Method to Improve Performance of a Group of   Classification Algorithms,Touraj Varaee,cs.LG,http://arxiv.org/pdf/1403.2372v1
+1403.2950v1,2014-03-12T14:33:43Z,Cancer Prognosis Prediction Using Balanced Stratified Sampling,L M Patnaik,cs.LG,http://arxiv.org/pdf/1403.2950v1
+1403.3465v3,2014-03-14T00:25:03Z,A Survey of Algorithms and Analysis for Adaptive Online Learning,H. Brendan McMahan,cs.LG,http://arxiv.org/pdf/1403.3465v3
+1403.3610v2,2014-03-14T15:30:23Z,Making Risk Minimization Tolerant to Label Noise,P. S. Sastry,cs.LG,http://arxiv.org/pdf/1403.3610v2
+1403.3628v1,2014-03-14T16:15:24Z,Mixed-norm Regularization for Brain Decoding,Alain Rakotomamonjy,cs.LG,http://arxiv.org/pdf/1403.3628v1
+1403.4224v2,2014-03-17T19:35:06Z,Learning Negative Mixture Models by Tensor Decompositions,François Denis,cs.LG,http://arxiv.org/pdf/1403.4224v2
+1403.4378v1,2014-03-18T09:04:02Z,Spectral Clustering with Jensen-type kernels and their multi-point   extensions,Aparna S. Vijayan,cs.LG,http://arxiv.org/pdf/1403.4378v1
+1403.5115v1,2014-03-20T12:46:33Z,Unconfused Ultraconservative Multiclass Algorithms,Liva Ralaivola,cs.LG,http://arxiv.org/pdf/1403.5115v1
+1403.5287v1,2014-03-20T20:36:18Z,Online Local Learning via Semidefinite Programming,Paul Christiano,cs.LG,http://arxiv.org/pdf/1403.5287v1
+1403.5341v2,2014-03-21T01:42:53Z,An Information-Theoretic Analysis of Thompson Sampling,Benjamin Van Roy,cs.LG,http://arxiv.org/pdf/1403.5341v2
+1403.5556v5,2014-03-21T02:02:25Z,Learning to Optimize via Information-Directed Sampling,Benjamin Van Roy,cs.LG,http://arxiv.org/pdf/1403.5556v5
+1403.6863v1,2014-03-26T21:17:05Z,Online Learning of k-CNF Boolean Functions,Marcus Hutter,cs.LG,http://arxiv.org/pdf/1403.6863v1
+1403.7100v1,2014-03-26T05:43:12Z,A study on cost behaviors of binary classification measures in   class-imbalanced problems,Wei-Ming Dong,cs.LG,http://arxiv.org/pdf/1403.7100v1
+1403.7471v3,2014-03-28T18:07:21Z,Approximate Decentralized Bayesian Inference,Jonathan P. How,cs.LG,http://arxiv.org/pdf/1403.7471v3
+1406.0223v1,2014-06-02T00:34:24Z,Holistic Measures for Evaluating Prediction Models in Smart Grids,Viktor K. Prasanna,cs.LG,http://arxiv.org/pdf/1406.0223v1
+1406.1385v1,2014-06-05T13:44:25Z,Learning the Information Divergence,Erkki Oja,cs.LG,http://arxiv.org/pdf/1406.1385v1
+1406.1584v3,2014-06-06T05:28:48Z,Learning to Discover Efficient Mathematical Identities,Rob Fergus,cs.LG,http://arxiv.org/pdf/1406.1584v3
+1406.1822v13,2014-06-06T21:52:25Z,Logarithmic Time Online Multiclass prediction,John Langford,cs.LG,http://arxiv.org/pdf/1406.1822v13
+1406.1837v5,2014-06-07T00:24:42Z,A Credit Assignment Compiler for Joint Prediction,Stephane Ross,cs.LG,http://arxiv.org/pdf/1406.1837v5
+1406.1856v2,2014-06-07T03:11:05Z,A Drifting-Games Analysis for Online Learning and Applications to   Boosting,Robert E. Schapire,cs.LG,http://arxiv.org/pdf/1406.1856v2
+1406.2751v4,2014-06-11T00:44:31Z,Reweighted Wake-Sleep,Yoshua Bengio,cs.LG,http://arxiv.org/pdf/1406.2751v4
+1406.3270v1,2014-01-16T05:02:28Z,Kalman Temporal Differences,Olivier Pietquin,cs.LG,http://arxiv.org/pdf/1406.3270v1
+1406.3407v2,2014-06-13T02:19:26Z,Restricted Boltzmann Machine for Classification with Hierarchical   Correlated Prior,Sargur H. Srihari,cs.LG,http://arxiv.org/pdf/1406.3407v2
+1406.3726v1,2014-06-14T13:08:30Z,Evaluation of Machine Learning Techniques for Green Energy Prediction,Ankur Sahai,cs.LG,http://arxiv.org/pdf/1406.3726v1
+1406.3840v1,2014-06-15T18:41:47Z,Optimal Resource Allocation with Semi-Bandit Feedback,Csaba Szepesvári,cs.LG,http://arxiv.org/pdf/1406.3840v1
+1406.4631v1,2014-06-18T08:25:03Z,A Sober Look at Spectral Learning,Pascal Poupart,cs.LG,http://arxiv.org/pdf/1406.4631v1
+1406.4757v1,2014-06-18T15:09:21Z,An Experimental Evaluation of Nearest Neighbour Time Series   Classification,Jason Lines,cs.LG,http://arxiv.org/pdf/1406.4757v1
+1406.5388v3,2014-06-20T13:52:36Z,Learning computationally efficient dictionaries and their implementation   as fast transforms,Rémi Gribonval,cs.LG,http://arxiv.org/pdf/1406.5388v3
+1406.5600v1,2014-06-21T11:47:21Z,From conformal to probabilistic prediction,Valentina Fedorova,cs.LG,http://arxiv.org/pdf/1406.5600v1
+1406.5675v6,2014-06-22T05:02:06Z,"SPSD Matrix Approximation vis Column Selection: Theories, Algorithms,   and Extensions",Zhihua Zhang,cs.LG,http://arxiv.org/pdf/1406.5675v6
+1406.6020v1,2014-06-23T18:48:59Z,Stationary Mixing Bandits,Liva Ralaivola,cs.LG,http://arxiv.org/pdf/1406.6020v1
+1406.6114v1,2014-06-24T00:48:23Z,Mining Recurrent Concepts in Data Streams using the Discrete Fourier   Transform,Russel Pears,cs.LG,http://arxiv.org/pdf/1406.6114v1
+1406.6130v1,2014-06-24T03:31:16Z,Generalized Mixability via Entropic Duality,Nishant Mehta,cs.LG,http://arxiv.org/pdf/1406.6130v1
+1406.6176v1,2014-06-24T09:32:10Z,Composite Likelihood Estimation for Restricted Boltzmann machines,Kazuyuki Tanaka,cs.LG,http://arxiv.org/pdf/1406.6176v1
+1406.6398v1,2014-06-24T21:41:03Z,Incremental Clustering: The Case for Extra Clusters,Sanjoy Dasgupta,cs.LG,http://arxiv.org/pdf/1406.6398v1
+1406.7429v1,2014-06-28T18:59:44Z,Comparison of SVM Optimization Techniques in the Primal,Diane Duros,cs.LG,http://arxiv.org/pdf/1406.7429v1
+1406.7445v1,2014-06-28T22:13:52Z,Contrastive Feature Induction for Efficient Structure Learning of   Conditional Random Fields,Jun Zhu,cs.LG,http://arxiv.org/pdf/1406.7445v1
+1406.7447v2,2014-06-28T23:45:30Z,Unimodal Bandits without Smoothness,Alexandre Proutiere,cs.LG,http://arxiv.org/pdf/1406.7447v2
+1408.2327v7,2014-08-11T06:52:46Z,On the Consistency of Ordinal Regression Methods,Alexandre Gramfort,cs.LG,http://arxiv.org/pdf/1408.2327v7
+1408.2368v1,2014-08-11T10:40:29Z,On the Complexity of Bandit Linear Optimization,Ohad Shamir,cs.LG,http://arxiv.org/pdf/1408.2368v1
+1408.2803v2,2014-08-12T18:57:48Z,Learning a hyperplane classifier by minimizing an exact bound on the VC   dimension,Jayadeva,cs.LG,http://arxiv.org/pdf/1408.2803v2
+1408.2890v1,2014-08-13T00:41:01Z,Robust OS-ELM with a novel selective ensemble based on particle swarm   optimization,Amaury Lendase,cs.LG,http://arxiv.org/pdf/1408.2890v1
+1408.3359v1,2014-08-13T05:14:15Z,Linear Contour Learning: A Method for Supervised Dimension Reduction,Francesca Chiaromonte,cs.LG,http://arxiv.org/pdf/1408.3359v1
+1408.3733v1,2014-08-16T11:11:59Z,Multi-Sensor Event Detection using Shape Histograms,Puneet Agarwal,cs.LG,http://arxiv.org/pdf/1408.3733v1
+1408.4673v1,2014-08-20T14:29:11Z,Horn functions and the AFP Algorithm,Rooholah Majdodin,cs.LG,http://arxiv.org/pdf/1408.4673v1
+1408.4714v1,2014-08-20T16:23:53Z,Conic Multi-Task Classification,Georgios C. Anagnostopoulos,cs.LG,http://arxiv.org/pdf/1408.4714v1
+1408.5823v5,2014-08-25T16:24:43Z,Improved Distributed Principal Component Analysis,David Woodruff,cs.LG,http://arxiv.org/pdf/1408.5823v5
+1408.6027v2,2014-08-26T06:48:58Z,Label Distribution Learning,Xin Geng,cs.LG,http://arxiv.org/pdf/1408.6027v2
+1408.6515v3,2014-08-27T06:32:21Z,Large Scale Purchase Prediction with Historical User Actions on B2C   Online Retail Platform,Bin Wang,cs.LG,http://arxiv.org/pdf/1408.6515v3
+1408.6617v1,2014-08-28T03:27:27Z,Task-group Relatedness and Generalization Bounds for Regularized   Multi-task Learning,Xiang Li,cs.LG,http://arxiv.org/pdf/1408.6617v1
+1408.6804v2,2014-08-28T18:38:24Z,A Multi-Plane Block-Coordinate Frank-Wolfe Algorithm for Training   Structural SVMs with a Costly max-Oracle,Christoph H. Lampert,cs.LG,http://arxiv.org/pdf/1408.6804v2
+1409.0763v1,2014-09-02T15:49:40Z,Data classification using the Dempster-Shafer method,Chris Roadknight,cs.LG,http://arxiv.org/pdf/1409.0763v1
+1409.0919v1,2014-09-02T23:28:22Z,Solving the Problem of the K Parameter in the KNN Classifier Using an   Ensemble Learning Approach,Ahmad Ali Alhasanat,cs.LG,http://arxiv.org/pdf/1409.0919v1
+1409.0923v1,2014-09-02T23:45:29Z,Dimensionality Invariant Similarity Measure,Ahmad Basheer Hassanat,cs.LG,http://arxiv.org/pdf/1409.0923v1
+1409.1200v1,2014-09-03T19:18:05Z,Domain Transfer Structured Output Learning,Jim Jing-Yan Wang,cs.LG,http://arxiv.org/pdf/1409.1200v1
+1409.1917v1,2014-09-05T16:17:14Z,Novel Methods for Activity Classification and Occupany Prediction   Enabling Fine-grained HVAC Control,Wen Hu,cs.LG,http://arxiv.org/pdf/1409.1917v1
+1409.2905v1,2014-09-09T21:36:47Z,Non-Convex Boosting Overcomes Random Label Noise,Yoav Freund,cs.LG,http://arxiv.org/pdf/1409.2905v1
+1409.3136v1,2014-09-10T16:10:33Z,Metric Learning for Temporal Sequence Alignment,Francis Bach,cs.LG,http://arxiv.org/pdf/1409.3136v1
+1409.3446v1,2014-09-11T14:11:02Z,Consensus-Based Modelling using Distributed Feature Construction,Ashwin Srinivasan,cs.LG,http://arxiv.org/pdf/1409.3446v1
+1409.4155v1,2014-09-15T04:37:46Z,Active Metric Learning from Relative Comparisons,Xiaoli Z. Fern,cs.LG,http://arxiv.org/pdf/1409.4155v1
+1409.4698v1,2014-09-16T16:52:14Z,A Mixtures-of-Experts Framework for Multi-Label Classification,Milos Hauskrecht,cs.LG,http://arxiv.org/pdf/1409.4698v1
+1409.5079v1,2014-09-16T13:09:23Z,Predictive Capacity of Meteorological Data - Will it rain tomorrow,Bilal Ahmed,cs.LG,http://arxiv.org/pdf/1409.5079v1
+1409.5330v1,2014-09-18T15:09:47Z,Learning and approximation capability of orthogonal super greedy   algorithm,Zongben Xu,cs.LG,http://arxiv.org/pdf/1409.5330v1
+1409.5495v4,2014-09-19T00:37:42Z,Efficient Feature Group Sequencing for Anytime Linear Prediction,Martial Hebert,cs.LG,http://arxiv.org/pdf/1409.5495v4
+1409.5616v2,2014-09-19T12:01:08Z,A Survey on Soft Subspace Clustering,Shitong Wang,cs.LG,http://arxiv.org/pdf/1409.5616v2
+1409.5686v2,2014-09-19T14:58:56Z,Transfer Prototype-based Fuzzy Clustering,Shitong Wang,cs.LG,http://arxiv.org/pdf/1409.5686v2
+1409.6075v3,2014-09-22T03:39:23Z,The Information Theoretically Efficient Model (ITEM): A model for   computerized analysis of large datasets,Tyler Ward,cs.LG,http://arxiv.org/pdf/1409.6075v3
+1409.6110v2,2014-09-22T08:41:02Z,Best-Arm Identification in Linear Bandits,Rémi Munos,cs.LG,http://arxiv.org/pdf/1409.6110v2
+1409.7202v3,2014-09-25T10:02:01Z,A Boosting Framework on Grounds of Online Learning,Beat Pfister,cs.LG,http://arxiv.org/pdf/1409.7202v3
+1409.7384v2,2014-09-25T11:57:48Z,A Semidefinite Programming Based Search Strategy for Feature Selection   with Mutual Information Measure,Beat Pfister,cs.LG,http://arxiv.org/pdf/1409.7384v2
+1409.7780v1,2014-09-27T07:45:56Z,Maximum mutual information regularized classification,Xin Gao,cs.LG,http://arxiv.org/pdf/1409.7780v1
+1409.7930v5,2014-09-28T16:36:06Z,Cognitive Learning of Statistical Primary Patterns via Bayesian Network,Shuguang Cui,cs.LG,http://arxiv.org/pdf/1409.7930v5
+1409.8211v2,2014-09-29T18:03:22Z,Efficient multivariate sequence classification,Pavel P. Kuksa,cs.LG,http://arxiv.org/pdf/1409.8211v2
+1410.0741v1,2014-10-03T01:59:25Z,Generalized Laguerre Reduction of the Volterra Kernel for Practical   Identification of Nonlinear Dynamic Systems,Dale A. Smith,cs.LG,http://arxiv.org/pdf/1410.0741v1
+1410.1103v3,2014-10-05T00:51:59Z,Online Ranking with Top-1 Feedback,Ambuj Tewari,cs.LG,http://arxiv.org/pdf/1410.1103v3
+1410.1784v1,2014-10-02T12:10:40Z,Stochastic Discriminative EM,Andres R. Masegosa,cs.LG,http://arxiv.org/pdf/1410.1784v1
+1410.2191v1,2014-10-03T09:25:43Z,Learning manifold to regularize nonnegative matrix factorization,Xin Gao,cs.LG,http://arxiv.org/pdf/1410.2191v1
+1410.3935v1,2014-10-15T06:01:03Z,A Logic-based Approach to Generatively Defined Discriminative Modeling,Yoshitaka Kameya,cs.LG,http://arxiv.org/pdf/1410.3935v1
+1410.4210v1,2014-10-15T20:08:21Z,Two-Layer Feature Reduction for Sparse-Group Lasso via Decomposition of   Convex Sets,Jieping Ye,cs.LG,http://arxiv.org/pdf/1410.4210v1
+1410.4573v1,2014-10-16T20:04:49Z,Learning a hyperplane regressor by minimizing an exact bound on the VC   dimension,Sanjit S. Batra,cs.LG,http://arxiv.org/pdf/1410.4573v1
+1410.5329v4,2014-10-16T22:11:34Z,Naive Bayes and Text Classification I - Introduction and Theory,Sebastian Raschka,cs.LG,http://arxiv.org/pdf/1410.5329v4
+1410.5330v1,2014-10-17T00:50:42Z,An Overview of General Performance Metrics of Binary Classifier Systems,Sebastian Raschka,cs.LG,http://arxiv.org/pdf/1410.5330v1
+1410.5473v2,2014-10-20T21:32:05Z,Feature Selection Based on Confidence Machine,Yi Xu,cs.LG,http://arxiv.org/pdf/1410.5473v2
+1410.6093v1,2014-10-22T16:13:36Z,Cosine Similarity Measure According to a Convex Cost Function,A. Enis Cetin,cs.LG,http://arxiv.org/pdf/1410.6093v1
+1410.6973v2,2014-10-26T00:16:16Z,Differentially- and non-differentially-private random decision trees,Yann LeCun,cs.LG,http://arxiv.org/pdf/1410.6973v2
+1410.6975v1,2014-10-26T00:59:11Z,Notes on using Determinantal Point Processes for Clustering with   Applications to Text Clustering,Krzysztof Choromanski,cs.LG,http://arxiv.org/pdf/1410.6975v1
+1410.7372v1,2014-10-27T19:46:55Z,Feature Selection through Minimization of the VC dimension,Siddharth Sabharwal,cs.LG,http://arxiv.org/pdf/1410.7372v1
+1410.7835v2,2014-10-28T23:14:56Z,Fast Learning of Relational Dependency Networks,Yan Sun,cs.LG,http://arxiv.org/pdf/1410.7835v2
+1410.7890v1,2014-10-29T07:05:21Z,Global Bandits with Holder Continuity,Mihaela van der Schaar,cs.LG,http://arxiv.org/pdf/1410.7890v1
+1410.8251v1,2014-10-30T04:33:36Z,Notes on Noise Contrastive Estimation and Negative Sampling,Chris Dyer,cs.LG,http://arxiv.org/pdf/1410.8251v1
+1410.8516v6,2014-10-30T19:44:20Z,NICE: Non-linear Independent Components Estimation,Yoshua Bengio,cs.LG,http://arxiv.org/pdf/1410.8516v6
+1410.8750v1,2014-10-31T14:31:54Z,Learning Mixtures of Ranking Models,Aravindan Vijayaraghavan,cs.LG,http://arxiv.org/pdf/1410.8750v1
+1411.0602v1,2014-11-03T18:49:25Z,Factorbird - a Parameter Server Approach to Distributed Matrix   Factorization,Reza Zadeh,cs.LG,http://arxiv.org/pdf/1411.0602v1
+1411.0860v1,2014-11-04T11:03:50Z,CUR Algorithm for Partially Observed Matrices,Zhi-Hua Zhou,cs.LG,http://arxiv.org/pdf/1411.0860v1
+1411.1420v5,2014-11-05T21:07:20Z,Eigenvectors of Orthogonally Decomposable Functions,James Voss,cs.LG,http://arxiv.org/pdf/1411.1420v5
+1411.1434v2,2014-11-05T22:28:00Z,On the Information Theoretic Limits of Learning Ising Models,Pradeep Ravikumar,cs.LG,http://arxiv.org/pdf/1411.1434v2
+1411.1490v2,2014-11-06T03:51:39Z,Efficient Representations for Life-Long Learning and Autoencoding,Santosh Vempala,cs.LG,http://arxiv.org/pdf/1411.1490v2
+1411.1623v1,2014-11-06T14:18:39Z,A Hybrid Recurrent Neural Network For Music Transcription,Simon Dixon,cs.LG,http://arxiv.org/pdf/1411.1623v1
+1411.2057v1,2014-11-07T22:52:19Z,Online Collaborative-Filtering on Graphs,Sanjay Shakkottai,cs.LG,http://arxiv.org/pdf/1411.2057v1
+1411.2635v1,2014-11-10T21:41:32Z,A chain rule for the expected suprema of Gaussian processes,Andreas Maurer,cs.LG,http://arxiv.org/pdf/1411.2635v1
+1411.2919v1,2014-11-11T18:55:35Z,Bounded Regret for Finite-Armed Structured Bandits,Remi Munos,cs.LG,http://arxiv.org/pdf/1411.2919v1
+1411.3553v1,2014-11-13T14:26:11Z,Greedy metrics in orthogonal greedy learning,Zongben Xu,cs.LG,http://arxiv.org/pdf/1411.3553v1
+1411.3698v2,2014-11-13T20:30:06Z,Minimal Realization Problems for Hidden Markov Models,Munther Dahleh,cs.LG,http://arxiv.org/pdf/1411.3698v2
+1411.3919v1,2014-11-14T14:30:27Z,Sample-targeted clinical trial adaptation,Ognjen Arandjelovic,cs.LG,http://arxiv.org/pdf/1411.3919v1
+1411.5428v2,2014-11-20T03:10:47Z,Differentially Private Algorithms for Empirical Machine Learning,Ashwin Machanavajjhala,cs.LG,http://arxiv.org/pdf/1411.5428v2
+1411.5649v5,2014-11-20T19:38:11Z,No-Regret Learnability for Piecewise Linear Losses,Patrick Jaillet,cs.LG,http://arxiv.org/pdf/1411.5649v5
+1411.6231v3,2014-11-23T12:50:20Z,Compound Rank-k Projections for Bilinear Analysis,Chengqi Zhang,cs.LG,http://arxiv.org/pdf/1411.6231v3
+1411.6232v2,2014-11-23T13:00:18Z,Semi-supervised Feature Analysis by Mining Correlations among Multiple   Tasks,Yi Yang,cs.LG,http://arxiv.org/pdf/1411.6232v2
+1411.6233v1,2014-11-23T13:06:43Z,A Convex Sparse PCA for Feature Analysis,Heng Huang,cs.LG,http://arxiv.org/pdf/1411.6233v1
+1411.6235v1,2014-11-23T13:16:25Z,Balanced k-Means and Min-Cut Clustering,Yi Yang,cs.LG,http://arxiv.org/pdf/1411.6235v1
+1411.6241v2,2014-11-23T13:35:29Z,Improved Spectral Clustering via Embedded Label Propagation,Heng Huang,cs.LG,http://arxiv.org/pdf/1411.6241v2
+1411.6243v2,2014-11-23T14:11:01Z,Structure Regularization for Structured Prediction: Theories and   Experiments,Xu Sun,cs.LG,http://arxiv.org/pdf/1411.6243v2
+1411.6305v1,2014-11-23T21:58:29Z,Revenue Optimization in Posted-Price Auctions with Strategic Buyers,Andres Muñoz Medina,cs.LG,http://arxiv.org/pdf/1411.6305v1
+1411.6308v1,2014-11-23T22:12:52Z,A Convex Formulation for Spectral Shrunk Clustering,Xiaofang Zhou,cs.LG,http://arxiv.org/pdf/1411.6308v1
+1411.6725v1,2014-11-25T04:36:35Z,Accelerated Parallel Optimization Methods for Large Scale Machine   Learning,Jean-Francois Paiement,cs.LG,http://arxiv.org/pdf/1411.6725v1
+1411.7450v1,2014-11-27T02:52:56Z,Worst-Case Linear Discriminant Analysis as Scalable Semidefinite   Feasibility Problems,Qinfeng Shi,cs.LG,http://arxiv.org/pdf/1411.7450v1
+1411.7582v1,2014-11-27T13:19:15Z,Graph Sensitive Indices for Comparing Clusterings,Marina Meila,cs.LG,http://arxiv.org/pdf/1411.7582v1
+1411.8003v3,2014-11-28T20:52:47Z,Guaranteed Matrix Completion via Non-convex Factorization,Zhi-Quan Luo,cs.LG,http://arxiv.org/pdf/1411.8003v3
+1412.0233v3,2014-11-30T15:48:16Z,The Loss Surfaces of Multilayer Networks,Yann LeCun,cs.LG,http://arxiv.org/pdf/1412.0233v3
+1412.1114v1,2014-12-02T21:55:44Z,Easy Hyperparameter Search Using Optunity,Bart De Moor,cs.LG,http://arxiv.org/pdf/1412.1114v1
+1412.1619v3,2014-12-04T11:01:11Z,Fast Rates by Transferring from Auxiliary Hypotheses,Francesco Orabona,cs.LG,http://arxiv.org/pdf/1412.1619v3
+1412.1947v1,2014-12-05T10:50:31Z,A parallel sampling based clustering,Kalyan Netti,cs.LG,http://arxiv.org/pdf/1412.1947v1
+1412.2106v1,2014-12-05T19:28:15Z,Consistent optimization of AMS by logistic loss minimization,Wojciech Kotłowski,cs.LG,http://arxiv.org/pdf/1412.2106v1
+1412.2302v4,2014-12-07T01:12:10Z,Theano-based Large-Scale Visual Recognition with Multiple GPUs,Graham Taylor,cs.LG,http://arxiv.org/pdf/1412.2302v4
+1412.2485v1,2014-12-08T08:46:07Z,Accurate Streaming Support Vector Machines,Sharath Raghvendra,cs.LG,http://arxiv.org/pdf/1412.2485v1
+1412.3397v3,2014-12-10T18:16:12Z,Sequential Labeling with online Deep Learning,Sargur Srihari,cs.LG,http://arxiv.org/pdf/1412.3397v3
+1412.4186v1,2014-12-13T03:33:13Z,An Evaluation of Support Vector Machines as a Pattern Recognition Tool,Eugene Borovikov,cs.LG,http://arxiv.org/pdf/1412.4186v1
+1412.4863v1,2014-12-16T02:55:01Z,Max-Margin based Discriminative Feature Learning,Lin Yang,cs.LG,http://arxiv.org/pdf/1412.4863v1
+1412.5617v1,2014-12-17T21:15:06Z,Learning from Data with Heterogeneous Noise using SGD,Anand D. Sarwate,cs.LG,http://arxiv.org/pdf/1412.5617v1
+1412.5732v2,2014-12-18T06:37:50Z,Dynamic Structure Embedded Online Multiple-Output Regression for Stream   Data,Xin Zhang,cs.LG,http://arxiv.org/pdf/1412.5732v2
+1412.5949v1,2014-12-18T17:14:34Z,Large Scale Distributed Distance Metric Learning,Eric Xing,cs.LG,http://arxiv.org/pdf/1412.5949v1
+1412.6452v3,2014-12-19T17:43:26Z,"Algorithmic Robustness for Learning via $(ε, γ, τ)$-Good   Similarity Functions",Massih-Reza Amini,cs.LG,http://arxiv.org/pdf/1412.6452v3
+1412.6547v7,2014-12-19T22:09:35Z,Fast Label Embeddings via Randomized Linear Algebra,Nikos Karampatziakis,cs.LG,http://arxiv.org/pdf/1412.6547v7
+1412.6599v3,2014-12-20T04:36:28Z,Hot Swapping for Online Adaptation of Optimization Hyperparameters,Padhraic Smyth,cs.LG,http://arxiv.org/pdf/1412.6599v3
+1412.6617v6,2014-12-20T07:08:37Z,Understanding Minimum Probability Flow for RBMs Under Various Kinds of   Dynamics,Graham W. Taylor,cs.LG,http://arxiv.org/pdf/1412.6617v6
+1412.6980v9,2014-12-22T13:54:29Z,Adam: A Method for Stochastic Optimization,Jimmy Ba,cs.LG,http://arxiv.org/pdf/1412.6980v9
+1501.00037v1,2014-12-30T22:34:24Z,Discriminative Clustering with Relative Constraints,Teresa Vania Tjahja,cs.LG,http://arxiv.org/pdf/1501.00037v1
+1501.00358v1,2015-01-02T07:57:14Z,Comprehend DeepWalk as Matrix Factorization,Zhiyuan Liu,cs.LG,http://arxiv.org/pdf/1501.00358v1
+1501.00687v1,2015-01-04T15:37:20Z,On Enhancing The Performance Of Nearest Neighbour Classifiers Using   Hassanat Distance Metric,Ahmad B. A. Hassanat,cs.LG,http://arxiv.org/pdf/1501.00687v1
+1501.00728v1,2015-01-04T22:12:36Z,Differential Search Algorithm-based Parametric Optimization of Fuzzy   Generalized Eigenvalue Proximal Support Vector Machine,Ahmed I. Taloba,cs.LG,http://arxiv.org/pdf/1501.00728v1
+1501.01242v2,2015-01-06T17:19:06Z,Efficient Online Relative Comparison Kernel Learning,Milos Hauskrecht,cs.LG,http://arxiv.org/pdf/1501.01242v2
+1501.01348v1,2015-01-07T02:13:09Z,Deep Autoencoders for Dimensionality Reduction of High-Content Screening   Data,Zhaolei Zhang,cs.LG,http://arxiv.org/pdf/1501.01348v1
+1501.02411v1,2015-01-11T02:24:26Z,A Gaussian Particle Filter Approach for Sensors to Track Multiple Moving   Targets,Haojun Li,cs.LG,http://arxiv.org/pdf/1501.02411v1
+1501.02432v1,2015-01-11T09:29:05Z,Learning a Fuzzy Hyperplane Fat Margin Classifier with Minimum VC   dimension,Siddarth Sabharwal,cs.LG,http://arxiv.org/pdf/1501.02432v1
+1501.02702v1,2015-01-12T16:33:47Z,Max-Cost Discrete Function Evaluation Problem under a Budget,Venkatesh Saligrama,cs.LG,http://arxiv.org/pdf/1501.02702v1
+1501.03084v1,2015-01-13T17:26:26Z,Deep Learning with Nonparametric Clustering,Gang Chen,cs.LG,http://arxiv.org/pdf/1501.03084v1
+1501.03273v1,2015-01-14T08:16:50Z,Classification with Low Rank and Missing Data,Yishay Mansour,cs.LG,http://arxiv.org/pdf/1501.03273v1
+1501.03669v5,2015-01-15T13:23:14Z,A Proximal Approach for Sparse Multiclass SVM,B. Pesquet-Popescu,cs.LG,http://arxiv.org/pdf/1501.03669v5
+1501.03786v2,2015-01-15T19:33:34Z,Multi-view learning for multivariate performance measures optimization,Jim Jing-Yan Wang,cs.LG,http://arxiv.org/pdf/1501.03786v2
+1501.04244v1,2015-01-17T23:42:08Z,Generalised Random Forest Space Overview,Miron B. Kursa,cs.LG,http://arxiv.org/pdf/1501.04244v1
+1501.04267v2,2015-01-18T05:15:55Z,"Comment on ""Clustering by fast search and find of density peaks""",Yan Li,cs.LG,http://arxiv.org/pdf/1501.04267v2
+1501.04282v1,2015-01-18T11:46:30Z,Regularized maximum correntropy machine,Xin Gao,cs.LG,http://arxiv.org/pdf/1501.04282v1
+1501.05279v1,2015-01-21T19:54:26Z,Extreme Entropy Machines: Robust information theoretic classification,Jacek Tabor,cs.LG,http://arxiv.org/pdf/1501.05279v1
+1501.06237v1,2015-01-26T02:28:18Z,Deep Transductive Semi-supervised Maximum Margin Clustering,Gang Chen,cs.LG,http://arxiv.org/pdf/1501.06237v1
+1501.06284v1,2015-01-26T08:30:55Z,On a Family of Decomposable Kernels on Sequences,Carl Henrik Ek,cs.LG,http://arxiv.org/pdf/1501.06284v1
+1501.06478v2,2015-01-26T16:51:34Z,Compressed Support Vector Machines,Kilian Q. Weinberger,cs.LG,http://arxiv.org/pdf/1501.06478v2
+1501.07093v2,2015-01-28T13:26:02Z,Novel Approaches for Predicting Risk Factors of Atherosclerosis,M. Naresh Kumar,cs.LG,http://arxiv.org/pdf/1501.07093v2
+1501.07315v3,2015-01-29T00:15:28Z,Per-Block-Convex Data Modeling by Accelerated Stochastic Approximation,Georgios B. Giannakis,cs.LG,http://arxiv.org/pdf/1501.07315v3
+1501.07584v1,2015-01-29T20:41:29Z,Efficient Divide-And-Conquer Classification Based on Feature-Space   Decomposition,Sun-Yuan Kung,cs.LG,http://arxiv.org/pdf/1501.07584v1
+1501.07627v1,2015-01-29T22:13:02Z,"Representing Objects, Relations, and Sequences",T. Wendy Okaywe,cs.LG,http://arxiv.org/pdf/1501.07627v1
+1502.00064v1,2015-01-31T03:40:17Z,A Batchwise Monotone Algorithm for Dictionary Learning,Daniel Spielman,cs.LG,http://arxiv.org/pdf/1502.00064v1
+1502.00598v3,2015-02-02T20:00:13Z,Lock in Feedback in Sequential Experiments,Davide Iannuzzi,cs.LG,http://arxiv.org/pdf/1502.00598v3
+1502.02158v1,2015-02-07T16:21:28Z,Learning Parametric-Output HMMs with Two Aliased States,Boaz Nadler,cs.LG,http://arxiv.org/pdf/1502.02158v1
+1502.02268v1,2015-02-08T16:34:41Z,SDNA: Stochastic Dual Newton Ascent for Empirical Risk Minimization,Olivier Fercoq,cs.LG,http://arxiv.org/pdf/1502.02268v1
+1502.02322v2,2015-02-09T01:12:11Z,"Rademacher Observations, Private Data, and Boosting",Arik Friedman,cs.LG,http://arxiv.org/pdf/1502.02322v2
+1502.02476v4,2015-02-09T13:18:24Z,An Infinite Restricted Boltzmann Machine,Hugo Larochelle,cs.LG,http://arxiv.org/pdf/1502.02476v4
+1502.02599v1,2015-02-09T18:49:29Z,Adaptive Random SubSpace Learning (RSSL) Algorithm for Prediction,Ernest Fokoue,cs.LG,http://arxiv.org/pdf/1502.02599v1
+1502.02651v1,2015-02-09T20:58:38Z,Optimal and Adaptive Algorithms for Online Boosting,Haipeng Luo,cs.LG,http://arxiv.org/pdf/1502.02651v1
+1502.02704v1,2015-02-09T22:05:25Z,Learning Reductions that Really Work,Paul Mineiro,cs.LG,http://arxiv.org/pdf/1502.02704v1
+1502.02710v2,2015-02-09T22:18:26Z,Scalable Multilabel Prediction via Randomized Methods,Paul Mineiro,cs.LG,http://arxiv.org/pdf/1502.02710v2
+1502.02791v2,2015-02-10T06:01:30Z,Learning Transferable Features with Deep Adaptation Networks,Michael I. Jordan,cs.LG,http://arxiv.org/pdf/1502.02791v2
+1502.03167v3,2015-02-11T01:44:18Z,Batch Normalization: Accelerating Deep Network Training by Reducing   Internal Covariate Shift,Christian Szegedy,cs.LG,http://arxiv.org/pdf/1502.03167v3
+1502.03505v1,2015-02-12T01:38:36Z,Supervised LogEuclidean Metric Learning for Symmetric Positive Definite   Matrices,Masashi Sugiyama,cs.LG,http://arxiv.org/pdf/1502.03505v1
+1502.03508v2,2015-02-12T01:51:08Z,Adding vs. Averaging in Distributed Primal-Dual Optimization,Martin Takáč,cs.LG,http://arxiv.org/pdf/1502.03508v2
+1502.03529v3,2015-02-12T04:01:46Z,Scalable Stochastic Alternating Direction Method of Multipliers,Zhi-Hua Zhou,cs.LG,http://arxiv.org/pdf/1502.03529v3
+1502.03601v1,2015-02-12T11:07:51Z,A Predictive System for detection of Bankruptcy using Machine Learning   techniques,Amulyashree Sridhar,cs.LG,http://arxiv.org/pdf/1502.03601v1
+1502.04137v1,2015-02-13T21:32:12Z,Non-Adaptive Learning a Hidden Hipergraph,Hanna Mazzawi,cs.LG,http://arxiv.org/pdf/1502.04137v1
+1502.04156v3,2015-02-14T01:11:25Z,Towards Biologically Plausible Deep Learning,Zhouhan Lin,cs.LG,http://arxiv.org/pdf/1502.04156v3
+1502.04187v2,2015-02-14T10:58:53Z,Application of Deep Neural Network in Estimation of the Weld Bead   Parameters,Chee Khiang Pang,cs.LG,http://arxiv.org/pdf/1502.04187v2
+1502.04585v1,2015-02-16T15:53:03Z,The Ladder: A Reliable Leaderboard for Machine Learning Competitions,Moritz Hardt,cs.LG,http://arxiv.org/pdf/1502.04585v1
+1502.04617v1,2015-02-16T16:41:26Z,Deep Transform: Error Correction via Probabilistic Re-Synthesis,Andrew J. R. Simpson,cs.LG,http://arxiv.org/pdf/1502.04617v1
+1502.04843v2,2015-02-17T10:08:48Z,Generalized Gradient Learning on Time Series under Elastic   Transformations,Brijnesh Jain,cs.LG,http://arxiv.org/pdf/1502.04843v2
+1502.05090v1,2015-02-18T00:27:39Z,Real time clustering of time series using triangular potentials,Oliver Williams,cs.LG,http://arxiv.org/pdf/1502.05090v1
+1502.05111v1,2015-02-18T04:04:45Z,CSAL: Self-adaptive Labeling based Clustering Integrating Supervised   Learning on Unlabeled Data,Longbing Cao,cs.LG,http://arxiv.org/pdf/1502.05111v1
+1502.05134v2,2015-02-18T06:55:07Z,Supervised cross-modal factor analysis for multiple modal data   classification,Halima Bensmail,cs.LG,http://arxiv.org/pdf/1502.05134v2
+1502.05477v4,2015-02-19T06:44:25Z,Trust Region Policy Optimization,Pieter Abbeel,cs.LG,http://arxiv.org/pdf/1502.05477v4
+1502.05934v1,2015-02-20T16:58:36Z,Achieving All with No Parameters: Adaptive NormalHedge,Robert E. Schapire,cs.LG,http://arxiv.org/pdf/1502.05934v1
+1502.06177v1,2015-02-22T04:42:01Z,SDCA without Duality,Shai Shalev-Shwartz,cs.LG,http://arxiv.org/pdf/1502.06177v1
+1502.06187v2,2015-02-22T06:21:28Z,Teaching and compressing for low VC-dimension,Amir Yehudayoff,cs.LG,http://arxiv.org/pdf/1502.06187v2
+1502.06362v2,2015-02-23T09:47:54Z,Contextual Dueling Bandits,Masrour Zoghi,cs.LG,http://arxiv.org/pdf/1502.06362v2
+1502.06665v1,2015-02-24T01:26:43Z,Reified Context Models,Percy Liang,cs.LG,http://arxiv.org/pdf/1502.06665v1
+1502.06668v1,2015-02-24T01:42:09Z,Learning Fast-Mixing Models for Structured Prediction,Percy Liang,cs.LG,http://arxiv.org/pdf/1502.06668v1
+1502.07073v3,2015-02-25T07:24:40Z,Strongly Adaptive Online Learning,Shai Shalev-Shwartz,cs.LG,http://arxiv.org/pdf/1502.07073v3
+1502.07143v1,2015-02-25T12:14:04Z,The VC-Dimension of Similarity Hypotheses Spaces,James Townsend,cs.LG,http://arxiv.org/pdf/1502.07143v1
+1502.07617v1,2015-02-26T16:18:53Z,Online Learning with Feedback Graphs: Beyond Bandits,Tomer Koren,cs.LG,http://arxiv.org/pdf/1502.07617v1
+1503.00424v2,2015-03-02T06:59:06Z,Learning Mixtures of Gaussians in High Dimensions,Sham M. Kakade,cs.LG,http://arxiv.org/pdf/1503.00424v2
+1503.00491v1,2015-03-02T12:09:23Z,Utility-Theoretic Ranking for Semi-Automated Text Classification,Fabrizio Sebastiani,cs.LG,http://arxiv.org/pdf/1503.00491v1
+1503.00600v1,2015-03-02T16:35:02Z,An $\mathcal{O}(n\log n)$ projection operator for weighted $\ell_1$-norm   regularization with sum constraint,Weiran Wang,cs.LG,http://arxiv.org/pdf/1503.00600v1
+1503.01002v1,2015-03-03T16:40:17Z,Projection onto the capped simplex,Canyi Lu,cs.LG,http://arxiv.org/pdf/1503.01002v1
+1503.01239v1,2015-03-04T06:47:16Z,Active Sample Learning and Feature Selection: A Unified Approach,Hongyuan Zha,cs.LG,http://arxiv.org/pdf/1503.01239v1
+1503.01428v3,2015-03-04T19:23:55Z,Probabilistic Label Relation Graphs with Ising Models,Hartmut Neven,cs.LG,http://arxiv.org/pdf/1503.01428v3
+1503.01883v1,2015-03-06T09:10:34Z,Ranking and significance of variable-length similarity-based time series   motifs,Josep Lluis Arcos,cs.LG,http://arxiv.org/pdf/1503.01883v1
+1503.02143v1,2015-03-07T08:39:15Z,Model selection of polynomial kernel regression,Jinshan Zeng,cs.LG,http://arxiv.org/pdf/1503.02143v1
+1503.02193v2,2015-03-07T17:36:08Z,Label optimal regret bounds for online local learning,Andrej Risteski,cs.LG,http://arxiv.org/pdf/1503.02193v2
+1503.02406v1,2015-03-09T09:39:41Z,Deep Learning and the Information Bottleneck Principle,Noga Zaslavsky,cs.LG,http://arxiv.org/pdf/1503.02406v1
+1503.02946v2,2015-03-10T15:09:25Z,apsis - Framework for Automated Optimization of Machine Learning Hyper   Parameters,Andreas Jauch,cs.LG,http://arxiv.org/pdf/1503.02946v2
+1503.03238v1,2015-03-11T09:38:49Z,Scalable Discovery of Time-Series Shapelets,Lars Schmidt-Thieme,cs.LG,http://arxiv.org/pdf/1503.03238v1
+1503.03488v2,2015-03-07T22:45:54Z,Estimating the Mean Number of K-Means Clusters to Form,Robert A. Murphy,cs.LG,http://arxiv.org/pdf/1503.03488v2
+1503.03578v1,2015-03-12T04:07:32Z,LINE: Large-scale Information Network Embedding,Qiaozhu Mei,cs.LG,http://arxiv.org/pdf/1503.03578v1
+1503.04269v2,2015-03-14T04:44:20Z,An Emphatic Approach to the Problem of Off-policy Temporal-Difference   Learning,Martha White,cs.LG,http://arxiv.org/pdf/1503.04269v2
+1503.04996v1,2015-03-17T11:01:37Z,On Extreme Pruning of Random Forest Ensembles for Real-time Predictive   Applications,Eyad Elyan,cs.LG,http://arxiv.org/pdf/1503.04996v1
+1503.05018v1,2015-03-17T12:41:30Z,Ultra-Fast Shapelets for Time Series Classification,Lars Schmidt-Thieme,cs.LG,http://arxiv.org/pdf/1503.05018v1
+1503.05187v1,2015-03-17T11:05:31Z,An Outlier Detection-based Tree Selection Approach to Extreme Pruning of   Random Forests,Eyad Elyan,cs.LG,http://arxiv.org/pdf/1503.05187v1
+1503.05571v2,2015-03-18T20:06:07Z,GSNs : Generative Stochastic Networks,Pascal Vincent,cs.LG,http://arxiv.org/pdf/1503.05571v2
+1503.05938v1,2015-03-19T20:30:46Z,On Invariance and Selectivity in Representation Learning,Tomaso Poggio,cs.LG,http://arxiv.org/pdf/1503.05938v1
+1503.06169v1,2015-03-20T17:21:12Z,Networked Stochastic Multi-Armed Bandits with Combinatorial Strategies,Yaqin Zhou,cs.LG,http://arxiv.org/pdf/1503.06169v1
+1503.06549v1,2015-03-23T08:19:17Z,Optimum Reject Options for Prototype-based Classification,Heiko Wersing,cs.LG,http://arxiv.org/pdf/1503.06549v1
+1503.06608v1,2015-03-23T11:47:05Z,Proficiency Comparison of LADTree and REPTree Classifiers for Credit   Risk Forecast,Lakshmi Devasena C,cs.LG,http://arxiv.org/pdf/1503.06608v1
+1503.06619v2,2015-03-23T12:31:18Z,Fusing Continuous-valued Medical Labels using a Bayesian Model,Gari D. Clifford,cs.LG,http://arxiv.org/pdf/1503.06619v2
+1503.06629v1,2015-03-23T13:20:22Z,A Probabilistic Interpretation of Sampling Theory of Graph Signals,Antonio Ortega,cs.LG,http://arxiv.org/pdf/1503.06629v1
+1503.06745v1,2015-03-23T17:47:00Z,Online classifier adaptation for cost-sensitive learning,Jose Garcia,cs.LG,http://arxiv.org/pdf/1503.06745v1
+1503.06858v4,2015-03-23T22:00:51Z,Communication Efficient Distributed Kernel Principal Component Analysis,Bo Xie,cs.LG,http://arxiv.org/pdf/1503.06858v4
+1503.06952v1,2015-03-24T08:57:25Z,Comparing published multi-label classifier performance measures to the   ones obtained by a simple multi-label baseline classifier,Maria C. Monard,cs.LG,http://arxiv.org/pdf/1503.06952v1
+1503.06960v2,2015-03-24T09:30:33Z,Sample compression schemes for VC classes,Amir Yehudayoff,cs.LG,http://arxiv.org/pdf/1503.06960v2
+1503.07477v1,2015-03-25T17:56:19Z,A Survey of Classification Techniques in the Area of Big Data,Debajyoti Mukhopadhyay,cs.LG,http://arxiv.org/pdf/1503.07477v1
+1503.07795v1,2015-03-26T17:22:26Z,Multi-Labeled Classification of Demographic Attributes of Patients: a   case study of diabetics patients,Marina Sokolova,cs.LG,http://arxiv.org/pdf/1503.07795v1
+1503.08316v4,2015-03-28T15:51:48Z,A Variance Reduced Stochastic Newton Method,Thomas Hofmann,cs.LG,http://arxiv.org/pdf/1503.08316v4
+1503.08370v1,2015-03-29T00:16:58Z,Global Bandits,Mihaela van der Schaar,cs.LG,http://arxiv.org/pdf/1503.08370v1
+1503.08395v6,2015-03-29T07:25:32Z,Towards More Efficient SPSD Matrix Approximation and CUR Matrix   Decomposition,Tong Zhang,cs.LG,http://arxiv.org/pdf/1503.08395v6
+1503.08873v1,2015-03-30T23:29:46Z,Fast Label Embeddings for Extremely Large Output Spaces,Nikos Karampatziakis,cs.LG,http://arxiv.org/pdf/1503.08873v1
+1503.09082v11,2015-03-31T15:17:57Z,Generalized Categorization Axioms,Jian Yu,cs.LG,http://arxiv.org/pdf/1503.09082v11
+1504.00736v1,2015-04-03T03:21:15Z,Unsupervised Feature Selection with Adaptive Structure Learning,Yi-Dong Shen,cs.LG,http://arxiv.org/pdf/1504.00736v1
+1504.00948v3,2015-04-03T22:04:05Z,The Child is Father of the Man: Foresee the Success at the Early Stage,Hanghang Tong,cs.LG,http://arxiv.org/pdf/1504.00948v3

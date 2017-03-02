@@ -1,0 +1,1017 @@
+[{
+    "category": "cs.GL", 
+    "author": "Donald E. Knuth", 
+    "title": "Theory and practice", 
+    "publish": "1991-11-01T00:00:00Z", 
+    "summary": "The author argues to Silicon Valley that the most important and powerful part\nof computer science is work that is simultaneously theoretical and practical.\nHe particularly considers the intersection of the theory of algorithms and\npractical software development. He combines examples from the development of\nthe TeX typesetting system with clever jokes, criticisms, and encouragements.", 
+    "link": "http://arxiv.org/pdf/cs/9301114v1", 
+    "arxiv-id": "cs/9301114v1"
+},{
+    "category": "cs.GL", 
+    "author": "Jim Gray", 
+    "title": "The Revolution Yet to Happen", 
+    "publish": "1998-09-02T19:39:25Z", 
+    "summary": "All information about physical objects including humans, buildings,\nprocesses, and organizations will be online. This trend is both desirable and\ninevitable. Cyberspace will provide the basis for wonderful new ways to inform,\nentertain, and educate people. The information and the corresponding systems\nwill streamline commerce, but will also provide new levels of personal service,\nhealth care, and automation. The most significant benefit will be a\nbreakthrough in our ability to remotely communicate with one another using all\nour senses.\n  The ACM and the transistor were born in 1947. At that time the stored program\ncomputer was a revolutionary idea and the transistor was just a curiosity. Both\nideas evolved rapidly. By the mid 1960s integrated circuits appeared --\nallowing mass fabrication of transistors on silicon substrates. This allowed\nlow-cost mass-produced computers. These technologies enabled extraordinary\nincreases in processing speed and memory coupled with extraordinary price\ndeclines.\n  The only form of processing and memory more easily, cheaply, and rapidly\nfabricated is the human brain. Peter Cohrane (1996) estimates the brain to have\na processing power of around 1000 million-million operations per second, (one\nPetaops) and a memory of 10 Terabytes. If current trends continue, computers\ncould have these capabilities by 2047. Such computers could be 'on body'\npersonal assistants able to recall everything one reads, hears, and sees.", 
+    "link": "http://arxiv.org/pdf/cs/9809010v1", 
+    "arxiv-id": "cs/9809010v1"
+},{
+    "category": "cs.GL", 
+    "author": "Jim Gray", 
+    "title": "What Next? A Dozen Information-Technology Research Goals", 
+    "publish": "1999-11-11T23:05:28Z", 
+    "summary": "Charles Babbage's vision of computing has largely been realized. We are on\nthe verge of realizing Vannevar Bush's Memex. But, we are some distance from\npassing the Turing Test. These three visions and their associated problems have\nprovided long-range research goals for many of us. For example, the scalability\nproblem has motivated me for several decades. This talk defines a set of\nfundamental research problems that broaden the Babbage, Bush, and Turing\nvisions. They extend Babbage's computational goal to include highly-secure,\nhighly-available, self-programming, self-managing, and self-replicating\nsystems. They extend Bush's Memex vision to include a system that automatically\norganizes, indexes, digests, evaluates, and summarizes information (as well as\na human might). Another group of problems extends Turing's vision of\nintelligent machines to include prosthetic vision, speech, hearing, and other\nsenses. Each problem is simply stated and each is orthogonal from the others,\nthough they share some common core technologies", 
+    "link": "http://arxiv.org/pdf/cs/9911005v1", 
+    "arxiv-id": "cs/9911005v1"
+},{
+    "category": "cs.GL", 
+    "author": "Douglas M. Snyder", 
+    "title": "Questions for a Materialist Philosophy Implying the Equivalence of   Computers and Human Cognition", 
+    "publish": "2000-12-11T06:58:06Z", 
+    "summary": "Issues related to a materialist philosophy are explored as concerns the\nimplied equivalence of computers running software and human observers. One\nissue explored concerns the measurement process in quantum mechanics. Another\nissue explored concerns the nature of experience as revealed by the existence\nof dreams. Some difficulties stemming from a materialist philosophy as regards\nthese issues are pointed out. For example, a gedankenexperiment involving what\nhas been called \"negative\" observation is discussed that illustrates the\ndifficulty with a materialist assumption in quantum mechanics. Based on an\nexploration of these difficulties, specifications are outlined briefly that\nwould provide a means to demonstrate the equivalence of of computers running\nsoftware and human experience given a materialist assumption.", 
+    "link": "http://arxiv.org/pdf/cs/0012003v1", 
+    "arxiv-id": "cs/0012003v1"
+},{
+    "category": "cs.GL", 
+    "author": "Krzysztof R. Apt", 
+    "title": "One More Revolution to Make: Free Scientific Publishing", 
+    "publish": "2001-06-11T14:11:22Z", 
+    "summary": "Computer scientists are in the position to create new, free high-quality\njournals. So what would it take?", 
+    "link": "http://arxiv.org/pdf/cs/0106022v1", 
+    "arxiv-id": "cs/0106022v1"
+},{
+    "category": "cs.GL", 
+    "author": "Robert Cannon", 
+    "title": "ENUM: The Collision of Telephony and DNS Policy", 
+    "publish": "2001-10-04T17:35:18Z", 
+    "summary": "ENUM marks either the convergence or collision of the public telephone\nnetwork with the Internet. ENUM is an innovation in the domain name system\n(DNS). It starts with numerical domain names that are used to query DNS name\nservers. The servers respond with address information found in DNS records.\nThis can be telephone numbers, email addresses, fax numbers, SIP addresses, or\nother information. The concept is to use a single number in order to obtain a\nplethora of contact information.\n  By convention, the Internet Engineering Task Force (IETF) ENUM Working Group\ndetermined that an ENUM number would be the same numerical string as a\ntelephone number. In addition, the assignee of an ENUM number would be the\nassignee of that telephone number. But ENUM could work with any numerical\nstring or, in fact, any domain name. The IETF is already working on using E.212\nnumbers with ENUM. [Abridged]", 
+    "link": "http://arxiv.org/pdf/cs/0110018v2", 
+    "arxiv-id": "cs/0110018v2"
+},{
+    "category": "cs.GL", 
+    "author": "Krzysztof R. Apt", 
+    "title": "Edsger Wybe Dijkstra (1930 -- 2002): A Portrait of a Genius", 
+    "publish": "2002-10-01T01:37:42Z", 
+    "summary": "We discuss the scientific contributions of Edsger Wybe Dijkstra, his opinions\nand his legacy.", 
+    "link": "http://arxiv.org/pdf/cs/0210001v1", 
+    "arxiv-id": "cs/0210001v1"
+},{
+    "category": "cs.GL", 
+    "author": "Gilson Antonio Giraldi", 
+    "title": "Classical and Nonextensive Information Theory", 
+    "publish": "2003-06-26T14:08:39Z", 
+    "summary": "In this work we firstly review some results in Classical Information Theory.\nNext, we try to generalize these results by using the Tsallis entropy. We\npresent a preliminary result and discuss our aims in this field.", 
+    "link": "http://arxiv.org/pdf/cs/0306132v1", 
+    "arxiv-id": "cs/0306132v1"
+},{
+    "category": "cs.GL", 
+    "author": "P. H. Potgieter", 
+    "title": "The pre-history of quantum computation", 
+    "publish": "2004-02-17T06:54:26Z", 
+    "summary": "The main ideas behind developments in the theory and technology of quantum\ncomputation were formulated in the late 1970s and early 1980s by two physicists\nin the West and a mathematician in the former Soviet Union. It is not generally\nknown in the West that the subject has roots in the Russian technical\nliterature. The author hopes to present as impartial a synthesis as possible of\nthe early history of thought on this subject. The role of reversible and\nirreversible computational processes is examined briefly as it relates to the\norigins of quantum computing and the so-called Information Paradox in physics.", 
+    "link": "http://arxiv.org/pdf/cs/0402037v2", 
+    "arxiv-id": "cs/0402037v2"
+},{
+    "category": "cs.GL", 
+    "author": "Serban E. Vlad", 
+    "title": "Some first thoughts on the stability of the asynchronous systems", 
+    "publish": "2004-10-29T12:08:52Z", 
+    "summary": "The (non-initialized, non-deterministic) asynchronous systems (in the\ninput-output sense) are multi-valued functions from m-dimensional signals to\nsets of n-dimensional signals, the concept being inspired by the modeling of\nthe asynchronous circuits. Our purpose is to state the problem of the their\nstability.", 
+    "link": "http://arxiv.org/pdf/cs/0410075v1", 
+    "arxiv-id": "cs/0410075v1"
+},{
+    "category": "cs.GL", 
+    "author": "Serban E. Vlad", 
+    "title": "The equations of the ideal latches", 
+    "publish": "2004-11-05T12:38:05Z", 
+    "summary": "The latches are simple circuits with feedback from the digital electrical\nengineering. We have included in our work the C element of Muller, the RS\nlatch, the clocked RS latch, the D latch and also circuits containing two\ninterconnected latches: the edge triggered RS flip-flop, the D flip-flop, the\nJK flip-flop, the T flip-flop. The purpose of this study is to model with\nequations the previous circuits, considered to be ideal, i.e. non-inertial. The\ntechnique of analysis is the pseudoboolean differential calculus.", 
+    "link": "http://arxiv.org/pdf/cs/0411009v2", 
+    "arxiv-id": "cs/0411009v2"
+},{
+    "category": "cs.GL", 
+    "author": "Serban E. Vlad", 
+    "title": "Real Time Models of the Asynchronous Circuits: The Delay Theory", 
+    "publish": "2004-12-17T23:04:08Z", 
+    "summary": "The chapter from the book introduces the delay theory, whose purpose is the\nmodeling of the asynchronous circuits from digital electrical engineering with\nordinary and differential pseudo-boolean equations.", 
+    "link": "http://arxiv.org/pdf/cs/0412090v1", 
+    "arxiv-id": "cs/0412090v1"
+},{
+    "category": "cs.GL", 
+    "author": "Nathan Boeger", 
+    "title": "Methods for scaling a large member base", 
+    "publish": "2006-02-20T18:08:20Z", 
+    "summary": "The technical challenges of scaling websites with large and growing member\nbases, like social networking sites, are numerous. One of these challenges is\nhow to evenly distribute the growing member base across all available\nresources. This paper will explore various methods that address this issue. The\ntechniques used in this paper can be generalized and applied to various other\nproblems that need to distribute data evenly amongst a finite amount of\nresources.", 
+    "link": "http://arxiv.org/pdf/cs/0602070v1", 
+    "arxiv-id": "cs/0602070v1"
+},{
+    "category": "cs.GL", 
+    "author": "G. A. Maney", 
+    "title": "Ten Incredibly Dangerous Software Ideas", 
+    "publish": "2006-07-07T01:17:05Z", 
+    "summary": "This is a rough draft synopsis of a book presently in preparation. This book\nprovides a systematic critique of the software industry. This critique is\naccomplished using classical methods in practical design science.", 
+    "link": "http://arxiv.org/pdf/cs/0607022v1", 
+    "arxiv-id": "cs/0607022v1"
+},{
+    "category": "cs.GL", 
+    "author": "Serban E. Vlad", 
+    "title": "The intersection and the union of the asynchronous systems", 
+    "publish": "2006-10-20T21:33:17Z", 
+    "summary": "The asynchronous systems $f$ are the models of the asynchronous circuits from\ndigital electrical engineering. They are multi-valued functions that associate\nto each input $u:\\mathbf{R}\\to \\{0,1\\}^{m}$ a set of states $x\\in f(u),$ where\n$x:\\mathbf{R}\\to \\{0,1\\}^{n}.$ The intersection of the systems allows adding\nsupplementary conditions in modeling and the union of the systems allows\nconsidering the validity of one of two systems in modeling, for example when\ntesting the asynchronous circuits and the circuit is supposed to be 'good' or\n'bad'. The purpose of the paper is that of analyzing the intersection and the\nunion against the initial/final states, initial/final time, initial/final state\nfunctions, subsystems, dual systems, inverse systems, Cartesian product of\nsystems, parallel connection and serial connection of systems.", 
+    "link": "http://arxiv.org/pdf/cs/0610127v1", 
+    "arxiv-id": "cs/0610127v1"
+},{
+    "category": "cs.GL", 
+    "author": "Umesh Thakkar", 
+    "title": "Recruitment, Preparation, Retention: A case study of computing culture   at the University of Illinois at Urbana-Champaign", 
+    "publish": "2007-02-24T00:34:10Z", 
+    "summary": "Computer science is seeing a decline in enrollment at all levels of\neducation, including undergraduate and graduate study. This paper reports on\nthe results of a study conducted at the University of Illinois at\nUrbana-Champaign which evaluated students attitudes regarding three areas which\ncan contribute to improved enrollment in the Department of Computer Science:\nRecruitment, preparation and retention. The results of our study saw two\nthemes. First, the department's tight research focus appears to draw\nsignificant attention from other activities -- such as teaching, service, and\nother community-building activities -- that are necessary for a department's\nexcellence. Yet, as demonstrated by our second theme, one partial solution is\nto better promote such activities already employed by the department to its\nstudents and faculty. Based on our results, we make recommendations for\nimprovements and enhancements based on the current state of practice at peer\ninstitutions.", 
+    "link": "http://arxiv.org/pdf/cs/0702141v1", 
+    "arxiv-id": "cs/0702141v1"
+},{
+    "category": "cs.GL", 
+    "author": "K. P. N. Murthy", 
+    "title": "MIMO detection employing Markov Chain Monte Carlo", 
+    "publish": "2007-05-05T12:04:52Z", 
+    "summary": "We propose a soft-output detection scheme for Multiple-Input-Multiple-Output\n(MIMO) systems. The detector employs Markov Chain Monte Carlo method to compute\nbit reliabilities from the signals received and is thus suited for coded MIMO\nsystems. It offers a good trade-off between achievable performance and\nalgorithmic complexity.", 
+    "link": "http://arxiv.org/pdf/0705.0742v1", 
+    "arxiv-id": "0705.0742v1"
+},{
+    "category": "cs.GL", 
+    "author": "David R. Wright", 
+    "title": "Motivation, Design, and Ubiquity: A Discussion of Research Ethics and   Computer Science", 
+    "publish": "2007-06-04T17:17:44Z", 
+    "summary": "Modern society is permeated with computers, and the software that controls\nthem can have latent, long-term, and immediate effects that reach far beyond\nthe actual users of these systems. This places researchers in Computer Science\nand Software Engineering in a critical position of influence and\nresponsibility, more than any other field because computer systems are vital\nresearch tools for other disciplines. This essay presents several key ethical\nconcerns and responsibilities relating to research in computing. The goal is to\npromote awareness and discussion of ethical issues among computer science\nresearchers. A hypothetical case study is provided, along with questions for\nreflection and discussion.", 
+    "link": "http://arxiv.org/pdf/0706.0484v1", 
+    "arxiv-id": "0706.0484v1"
+},{
+    "category": "cs.GL", 
+    "author": "David Chadwick", 
+    "title": "Stop That Subversive Spreadsheet!", 
+    "publish": "2007-12-16T21:00:02Z", 
+    "summary": "This paper documents the formation of the European Spreadsheet Risks Interest\nGroup (EuSpRIG www.eusprig.org) and outlines some of the research undertaken\nand reported upon by interested parties in EuSpRIG publications", 
+    "link": "http://arxiv.org/pdf/0712.2594v1", 
+    "arxiv-id": "0712.2594v1"
+},{
+    "category": "cs.GL", 
+    "author": "Serban E. Vlad", 
+    "title": "The equations of the ideal latches", 
+    "publish": "2008-04-05T23:55:16Z", 
+    "summary": "The latches are simple circuits with feedback from the digital electrical\nengineering. We have included in our work the C element of Muller, the RS\nlatch, the clocked RS latch, the D latch and also circuits containing two\ninterconnected latches: the edge triggered RS flip-flop, the D flip-flop, the\nJK flip-flop, the T flip-flop. The purpose of this study is to model with\nequations the previous circuits, considered to be ideal, i.e. non-inertial. The\ntechnique of analysis is the pseudoboolean differential calculus.", 
+    "link": "http://arxiv.org/pdf/0804.0879v1", 
+    "arxiv-id": "0804.0879v1"
+},{
+    "category": "cs.GL", 
+    "author": "Serban E. Vlad", 
+    "title": "The non-anticipation of the asynchronous systems", 
+    "publish": "2008-04-12T23:58:30Z", 
+    "summary": "The asynchronous systems are the models of the asynchronous circuits from the\ndigital electrical engineering and non-anticipation is one of the most\nimportant properties in systems theory. Our present purpose is to introduce\nseveral concepts of non-anticipation of the asynchronous systems.", 
+    "link": "http://arxiv.org/pdf/0804.2035v1", 
+    "arxiv-id": "0804.2035v1"
+},{
+    "category": "cs.GL", 
+    "author": "Christoph Schommer", 
+    "title": "Design and Implementation of a Master of Science in Information and   Computer Sciences - An Inventory and retrospect for the last four years", 
+    "publish": "2008-04-16T15:43:27Z", 
+    "summary": "This Master of Science in Computer and Information Sciences (MICS) is an\ninternational accredited master program that has been initiated in 2004 and\nstarted in September 2005. MICS is a research-oriented academic study of 4\nsemesters and a continuation of the Bachelor towards the PhD. It is completely\ntaught in English, supported by lecturers coming from more than ten different\ncountries. This report compass a description of its underlying architecture,\ndescribes some implementation details and gives a presentation of diverse\nexperiences and results. As the program has been designed and implemented right\nafter the creation of the University, the significance of the program is\nmoreover a self-discovery of the computer science department, which has finally\nled to the creation of the today's research institutes and research axes.", 
+    "link": "http://arxiv.org/pdf/0804.2621v1", 
+    "arxiv-id": "0804.2621v1"
+},{
+    "category": "cs.GL", 
+    "author": "Matteo Rossi", 
+    "title": "Modeling Time in Computing: A Taxonomy and a Comparative Survey", 
+    "publish": "2008-07-25T16:09:16Z", 
+    "summary": "The increasing relevance of areas such as real-time and embedded systems,\npervasive computing, hybrid systems control, and biological and social systems\nmodeling is bringing a growing attention to the temporal aspects of computing,\nnot only in the computer science domain, but also in more traditional fields of\nengineering.\n  This article surveys various approaches to the formal modeling and analysis\nof the temporal features of computer-based systems, with a level of detail that\nis suitable also for non-specialists. In doing so, it provides a unifying\nframework, rather than just a comprehensive list of formalisms.\n  The paper first lays out some key dimensions along which the various\nformalisms can be evaluated and compared. Then, a significant sample of\nformalisms for time modeling in computing are presented and discussed according\nto these dimensions. The adopted perspective is, to some extent, historical,\ngoing from \"traditional\" models and formalisms to more modern ones.", 
+    "link": "http://arxiv.org/pdf/0807.4132v3", 
+    "arxiv-id": "0807.4132v3"
+},{
+    "category": "cs.GL", 
+    "author": "Arjan de Jager", 
+    "title": "Free and Open Source Software for Development", 
+    "publish": "2008-08-27T15:21:21Z", 
+    "summary": "Development organizations and International Non-Governmental Organizations\nhave been emphasizing the high potential of Free and Open Source Software for\nthe Less Developed Countries. Cost reduction, less vendor dependency and\nincreased potential for local capacity development have been their main\narguments. In spite of its advantages, Free and Open Source Software is not\nwidely adopted at the African continent. In this book the authors will explore\nthe grounds on with these expectations are based. Where do they come from and\nis there evidence to support these expectations? Over the past years several\nprojects have been initiated and some good results have been achieved, but at\nthe same time many challenges were encountered. What lessons can be drawn from\nthese experiences and do these experiences contain enough evidence to support\nthe high expectations? Several projects and their achievements will be\nconsidered. In the final part of the book the future of Free and Open Source\nSoftware for Development will be explored. Special attention is given to the\nAfrican continent since here challenges are highest. What is the role of Free\nand open Source Software for Development and how do we need to position and\nexplore the potential? What are the threats? The book aims at professionals\nthat are engaged in the design and implementation of ICT for Development\n(ICT4D) projects and want to improve their understanding of the role Free and\nOpen Source Software can play.", 
+    "link": "http://arxiv.org/pdf/0808.3717v1", 
+    "arxiv-id": "0808.3717v1"
+},{
+    "category": "cs.GL", 
+    "author": "Vincent C. M\u00fcller", 
+    "title": "A Dialogue Concerning Two World Systems: Info-Computational vs.   Mechanistic", 
+    "publish": "2009-10-26T22:50:08Z", 
+    "summary": "The dialogue develops arguments for and against adopting a new world system,\ninfo-computationalist naturalism, that is poised to replace the traditional\nmechanistic world system. We try to figure out what the info-computational\nparadigm would mean, in particular its pancomputationalism. We make some steps\ntowards developing the notion of computing that is necessary here, especially\nin relation to traditional notions. We investigate whether pancomputationalism\ncan possibly provide the basic causal structure to the world, whether the\noverall research programme appears productive and whether it can revigorate\ncomputationalism in the philosophy of mind.", 
+    "link": "http://arxiv.org/pdf/0910.5001v1", 
+    "arxiv-id": "0910.5001v1"
+},{
+    "category": "cs.GL", 
+    "author": "Michael S. Vogeley", 
+    "title": "Making Sense of the Evolution of a Scientific Domain: A Visual Analytic   Study of the Sloan Digital Sky Survey Research", 
+    "publish": "2010-02-09T20:54:33Z", 
+    "summary": "We introduce a new visual analytic approach to the study of scientific\ndiscoveries and knowledge diffusion. Our approach enhances contemporary\nco-citation network analysis by enabling analysts to identify co-citation\nclusters of cited references intuitively, synthesize thematic contexts in which\nthese clusters are cited, and trace how research focus evolves over time. The\nnew approach integrates and streamlines a few previously isolated techniques\nsuch as spectral clustering and feature selection algorithms. The integrative\nprocedure is expected to empower and strengthen analytical and sense making\ncapabilities of scientists, learners, and researchers to understand the\ndynamics of the evolution of scientific domains in a wide range of scientific\nfields, science studies, and science policy evaluation and planning. We\ndemonstrate the potential of our approach through a visual analysis of the\nevolution of astronomical research associated with the Sloan Digital Sky Survey\n(SDSS) using bibliographic data between 1994 and 2008. In addition, we also\ndemonstrate that the approach can be consistently applied to a set of\nheterogeneous data sources such as e-prints on arXiv, publications on ADS, and\nNSF awards related to the same topic of SDSS.", 
+    "link": "http://arxiv.org/pdf/1002.1936v1", 
+    "arxiv-id": "1002.1936v1"
+},{
+    "category": "cs.GL", 
+    "author": "Martyn Amos", 
+    "title": "Removing Barriers to Interdisciplinary Research", 
+    "publish": "2010-12-19T14:06:14Z", 
+    "summary": "A significant amount of high-impact contemporary scientific research occurs\nwhere biology, computer science, engineering and chemistry converge. Although\nprogrammes have been put in place to support such work, the complex dynamics of\ninterdisciplinarity are still poorly understood. In this paper we interrogate\nthe nature of interdisciplinary research and how we might measure its\n\"success\", identify potential barriers to its implementation, and suggest\npossible mechanisms for removing these impediments.", 
+    "link": "http://arxiv.org/pdf/1012.4170v2", 
+    "arxiv-id": "1012.4170v2"
+},{
+    "category": "cs.GL", 
+    "author": "Serban E. Vlad", 
+    "title": "On the serial connection of the regular asynchronous systems", 
+    "publish": "2012-06-20T20:14:13Z", 
+    "summary": "The asynchronous systems f are multi-valued functions, representing the\nnon-deterministic models of the asynchronous circuits from the digital\nelectrical engineering. In real time, they map an 'admissible input' function\nu:R\\rightarrow{0,1}^{m} to a set f(u) of 'possible states' x\\inf(u), where\nx:R\\rightarrow{0,1}^{m}. When f is defined by making use of a 'generator\nfunction' {\\Phi}:{0,1}^{n}\\times{0,1}^{m}\\rightarrow{0,1}^{n}, the system is\ncalled regular. The usual definition of the serial connection of systems as\ncomposition of multi-valued functions does not bring the regular systems into\nregular systems, thus the first issue in this study is to modify in an\nacceptable manner the definition of the serial connection in a way that matches\nregularity. This intention was expressed for the first time, without proving\nthe regularity of the serial connection of systems, in a previous work. Our\npresent purpose is to restate with certain corrections and prove that result.", 
+    "link": "http://arxiv.org/pdf/1206.4708v1", 
+    "arxiv-id": "1206.4708v1"
+},{
+    "category": "cs.GL", 
+    "author": "Gordana Dodig-Crnkovic", 
+    "title": "Info-Computationalism and Philosophical Aspects of Research in   Information Sciences", 
+    "publish": "2012-07-03T05:54:51Z", 
+    "summary": "The historical development has lead to the decay of Natural Philosophy which\nuntil 19th century included all of our knowledge about the physical world into\nthe growing multitude of specialized sciences. The focus on the in-depth\nenquiry disentangled from its broad context lead to the problem of loss of\ncommon world-view and impossibility of communication between specialist\nresearch fields because of different languages they developed in isolation. The\nneed for a new unifying framework is becoming increasingly apparent with the\ninformation technology enabling and intensifying the communication between\ndifferent research fields and knowledge communities. This time, not only\nnatural sciences, but also all of human knowledge is being integrated in a\nglobal network such as Internet with its diverse knowledge and language\ncommunities. Info-computationalism (ICON) as a synthesis of pancomputationalism\nand paninformationalism presents a unifying framework for understanding of\nnatural phenomena including living beings and their cognition, their ways of\nprocessing information and producing knowledge. Within ICON physical universe\nis understood as a network of computational processes on an informational\nstructure.", 
+    "link": "http://arxiv.org/pdf/1207.1032v1", 
+    "arxiv-id": "1207.1032v1"
+},{
+    "category": "cs.GL", 
+    "author": "Gordana Dodig-Crnkovic", 
+    "title": "Alan Turing's Legacy: Info-Computational Philosophy of Nature", 
+    "publish": "2012-07-03T05:55:24Z", 
+    "summary": "Alan Turing's pioneering work on computability, and his ideas on\nmorphological computing support Andrew Hodges' view of Turing as a natural\nphilosopher. Turing's natural philosophy differs importantly from Galileo's\nview that the book of nature is written in the language of mathematics (The\nAssayer, 1623). Computing is more than a language of nature as computation\nproduces real time physical behaviors. This article presents the framework of\nNatural Info-computationalism as a contemporary natural philosophy that builds\non the legacy of Turing's computationalism. Info-computationalism is a\nsynthesis of Informational Structural Realism (the view that nature is a web of\ninformational structures) and Natural Computationalism (the view that nature\nphysically computes its own time development). It presents a framework for the\ndevelopment of a unified approach to nature, with common interpretation of\ninanimate nature as well as living organisms and their social networks.\nComputing is understood as information processing that drives all the changes\non different levels of organization of information and can be modeled as\nmorphological computing on data sets pertinent to informational structures. The\nuse of infocomputational conceptualizations, models and tools makes possible\nfor the first time in history the study of complex selforganizing adaptive\nsystems, including basic characteristics and functions of living systems,\nintelligence, and cognition.", 
+    "link": "http://arxiv.org/pdf/1207.1033v1", 
+    "arxiv-id": "1207.1033v1"
+},{
+    "category": "cs.GL", 
+    "author": "Martyn Amos", 
+    "title": "NanoInfoBio: A case-study in interdisciplinary research", 
+    "publish": "2012-11-23T13:55:44Z", 
+    "summary": "A significant amount of high-impact contemporary scientific research occurs\nwhere biology, computer science, engineering and chemistry converge. Although\nprogrammes have been put in place to support such work, the complex dynamics of\ninterdisciplinarity are still poorly understood. In this paper we highlight\npotential barriers to effective research across disciplines, and suggest, using\na case study, possible mechanisms for removing these impediments.", 
+    "link": "http://arxiv.org/pdf/1211.5508v1", 
+    "arxiv-id": "1211.5508v1"
+},{
+    "category": "cs.GL", 
+    "author": "G. S. Yablonsky", 
+    "title": "Grasping Complexity", 
+    "publish": "2013-03-15T18:40:15Z", 
+    "summary": "The century of complexity has come. The face of science has changed.\nSurprisingly, when we start asking about the essence of these changes and then\ncritically analyse the answers, the result are mostly discouraging. Most of the\nanswers are related to the properties that have been in the focus of scientific\nresearch already for more than a century (like non-linearity). This paper is\nPreface to the special issue \"Grasping Complexity\" of the journal \"Computers\nand Mathematics with Applications\". We analyse the change of era in science,\nits reasons and main changes in scientific activity and give a brief review of\nthe papers in the issue.", 
+    "link": "http://arxiv.org/pdf/1303.3855v1", 
+    "arxiv-id": "1303.3855v1"
+},{
+    "category": "cs.GL", 
+    "author": "Hector Zenil", 
+    "title": "Levels of Abstraction and the Apparent Contradictory Philosophical   Legacy of Turing and Shannon", 
+    "publish": "2014-02-05T17:43:12Z", 
+    "summary": "In a recent article, Luciano Floridi explains his view of Turing's legacy in\nconnection to the philosophy of information. I will very briefly survey one of\nTuring's other contributions to the philosophy of information and computation,\nincluding similarities to Shannon's own methodological approach to information\nthrough communication, showing how crucial they are and have been as\nmethodological strategies to understanding key aspects of these concepts. While\nFloridi's concept of Levels of Abstraction is related to the novel methodology\nof Turing's imitation game for tackling the question of machine intelligence,\nTuring's other main contribution to the philosophy of information runs contrary\nto it. Indeed, the seminal concept of computation universality strongly\nsuggests the deletion of fundamental differences among seemingly different\nlevels of description. How might we reconcile these apparently contradictory\ncontributions? I will argue that Turing's contribution should prompt us to plot\nsome directions for a philosophy of information and computation, one that\nclosely parallels the most important developments in computer science, one that\nunderstands the profound implications of the works of Turing, Shannon and\nothers.", 
+    "link": "http://arxiv.org/pdf/1402.1099v1", 
+    "arxiv-id": "1402.1099v1"
+},{
+    "category": "cs.GL", 
+    "author": "S\u00e9bastien Canevet", 
+    "title": "Le droit du num\u00e9rique : une histoire \u00e0 pr\u00e9server", 
+    "publish": "2012-10-12T18:48:58Z", 
+    "summary": "Although the history of informatics is recent, this field poses unusual\nproblems with respect to its preservation. These problems are amplified by\nlegal issues, digital law being in itself a subject matter whose history is\nalso worth presenting in a computer science museum. The purpose of this paper\nis to present a quick overview of the evolution of law regarding digital\nmatters, from an historical perspective as well as with respect to the\npreservation and presentation of the works.", 
+    "link": "http://arxiv.org/pdf/1210.3597v1", 
+    "arxiv-id": "1210.3597v1"
+},{
+    "category": "cs.GL", 
+    "author": "Raffaela Giovagnoli", 
+    "title": "Computing Nature: A Network of Networks of Concurrent Information   Processes", 
+    "publish": "2012-10-29T19:14:54Z", 
+    "summary": "This text presents the research field of natural/unconventional computing as\nit appears in the book COMPUTING NATURE. The articles discussed consist a\nselection of works from the Symposium on Natural Computing at AISB-IACAP\n(British Society for the Study of Artificial Intelligence and the Simulation of\nBehaviour and The International Association for Computing and Philosophy) World\nCongress 2012, held at the University of Birmingham, celebrating Turing\ncentenary. The COMPUTING NATURE is about nature considered as the totality of\nphysical existence, the universe. By physical we mean all phenomena, objects\nand processes, that are possible to detect either directly by our senses or via\ninstruments. Historically, there have been many ways of describing the universe\n(cosmic egg, cosmic tree, theistic universe, mechanistic universe) while a\nparticularly prominent contemporary approach is computational universe, as\ndiscussed in this article.", 
+    "link": "http://arxiv.org/pdf/1210.7784v1", 
+    "arxiv-id": "1210.7784v1"
+},{
+    "category": "cs.GL", 
+    "author": "Gordana Dodig-Crnkovic", 
+    "title": "Typologies of Computation and Computational Models", 
+    "publish": "2013-12-09T14:35:08Z", 
+    "summary": "We need much better understanding of information processing and computation\nas its primary form. Future progress of new computational devices capable of\ndealing with problems of big data, internet of things, semantic web, cognitive\nrobotics and neuroinformatics depends on the adequate models of computation. In\nthis article we first present the current state of the art through\nsystematization of existing models and mechanisms, and outline basic structural\nframework of computation. We argue that defining computation as information\nprocessing, and given that there is no information without (physical)\nrepresentation, the dynamics of information on the fundamental level is\nphysical/ intrinsic/ natural computation. As a special case, intrinsic\ncomputation is used for designed computation in computing machinery. Intrinsic\nnatural computation occurs on variety of levels of physical processes,\ncontaining the levels of computation of living organisms (including highly\nintelligent animals) as well as designed computational devices. The present\narticle offers a typology of current models of computation and indicates future\npaths for the advancement of the field; both by the development of new\ncomputational models and by learning from nature how to better compute using\ndifferent mechanisms of intrinsic computation.", 
+    "link": "http://arxiv.org/pdf/1312.2447v1", 
+    "arxiv-id": "1312.2447v1"
+},{
+    "category": "cs.GL", 
+    "author": "Serge Abiteboul", 
+    "title": "Les connaissances de la toile", 
+    "publish": "2013-12-08T19:50:05Z", 
+    "summary": "How to manage knowledge on the Web.", 
+    "link": "http://arxiv.org/pdf/1312.3213v1", 
+    "arxiv-id": "1312.3213v1"
+},{
+    "category": "cs.GL", 
+    "author": "Wladmir Cardoso Brand\u00e3o", 
+    "title": "Writing and Publishing Scientific Articles in Computer Science", 
+    "publish": "2015-06-01T16:09:53Z", 
+    "summary": "Over 15 years of teaching, advising students and coordinating scientific\nresearch activities and projects in computer science, we have observed the\ndifficulties of students to write scientific papers to present the results of\ntheir research practices. In addition, they repeatedly have doubts about the\npublishing process. In this article we propose a conceptual framework to\nsupport the writing and publishing of scientific papers in computer science,\nproviding a kind of guide for computer science students to effectively present\nthe results of their research practices, particularly for experimental\nresearch.", 
+    "link": "http://arxiv.org/pdf/1506.00555v1", 
+    "arxiv-id": "1506.00555v1"
+},{
+    "category": "cs.GL", 
+    "author": "J\u00e9r\u00e9my Barbay", 
+    "title": "Bouncing Towers move faster than Hanoi Towers, but still require   exponential time", 
+    "publish": "2016-02-12T00:19:42Z", 
+    "summary": "The problem of the Hanoi Tower is a classic exercise in recursive\nprogramming: the solution has a simple recursive definition, and its complexity\nand the matching lower bound are the solution of a simple recursive function\n(the solution is so easy that most students memorize it and regurgitate it at\nexams without truly understanding it). We describe how some very minor changes\nin the rules of the Hanoi Tower yield various increases of complexity in the\nsolution, so that they require a deeper analysis than the classical Hanoi Tower\nproblem while still yielding exponential solutions. In particular, we analyze\nthe problem fo the Bouncing Tower, where just changing the insertion and\nextraction position from the top to the middle of the tower results in a\nsurprising increase of complexity in the solution: such a tower of $n$ disks\ncan be optimally moved in $\\sqrt{3}^n$ moves for $n$ even (i.e. less than a\nHanoi Tower of same height), via $5$ recursive functions (or, equivalently, one\nrecursion function with $5$ states).", 
+    "link": "http://arxiv.org/pdf/1602.03934v2", 
+    "arxiv-id": "1602.03934v2"
+},{
+    "category": "cs.GL", 
+    "author": "Gary R. Prok", 
+    "title": "Life, The Mind, and Everything", 
+    "publish": "2016-02-19T18:16:57Z", 
+    "summary": "Incompleteness theorems of Godel, Turing, Chaitin, and Algorithmic\nInformation Theory have profound epistemological implications. Incompleteness\nlimits our ability to ever understand every observable phenomenon in the\nuniverse. Incompleteness limits the ability of evolutionary processes from\nfinding optimal solutions. Incompleteness limits the detectability of machine\nconsciousness. This is an effort to convey these thoughts and results in a\nsomewhat entertaining manner.", 
+    "link": "http://arxiv.org/pdf/1602.07646v2", 
+    "arxiv-id": "1602.07646v2"
+},{
+    "category": "cs.GL", 
+    "author": "Steven Meyer", 
+    "title": "Philosophical Solution to P=?NP: P is Equal to NP", 
+    "publish": "2016-03-19T00:02:51Z", 
+    "summary": "The P=?NP problem is philosophically solved by showing P is equal to NP in\nthe random access with unit multiply (MRAM) model. It is shown that the MRAM\nmodel empirically best models computation hardness. The P=?NP problem is shown\nto be a scientific rather than a mathematical problem. The assumptions involved\nin the current definition of the P?=NP problem as a problem involving non\ndeterministic Turing Machines (NDTMs) from axiomatic automata theory are\ncriticized. The problem is also shown to be neither a problem in pure nor\napplied mathematics. The details of The MRAM model and the well known Hartmanis\nand Simon construction that shows how to code and simulate NDTMs on MRAM\nmachines is described. Since the computation power of MRAMs is the same as\nNDTMs, P is equal to NP. The paper shows that the justification for the NDTM\nP?=NP problem using a letter from Kurt Godel to John Von Neumann is incorrect\nby showing Von Neumann explicitly rejected automata models of computation\nhardness and used his computer architecture for modeling computation that is\nexactly the MRAM model. The paper argues that Deolalikar's scientific solution\nshowing P not equal to NP if assumptions from statistical physics are used,\nneeds to be revisited.", 
+    "link": "http://arxiv.org/pdf/1603.06018v1", 
+    "arxiv-id": "1603.06018v1"
+},{
+    "category": "cs.GL", 
+    "author": "Craig Alan Feinstein", 
+    "title": "Dialogue Concerning The Two Chief World Views", 
+    "publish": "2016-05-26T19:36:40Z", 
+    "summary": "In 1632, Galileo Galilei wrote a book called \\textit{Dialogue Concerning the\nTwo Chief World Systems} which compared the new Copernican model of the\nuniverse with the old Ptolemaic model. His book took the form of a dialogue\nbetween three philosophers, Salviati, a proponent of the Copernican model,\nSimplicio, a proponent of the Ptolemaic model, and Sagredo, who was initially\nopen-minded and neutral. In this paper, I am going to use Galileo's idea to\npresent a dialogue between three modern philosophers, Mr. Spock, a proponent of\nthe view that $\\mathsf{P} \\neq \\mathsf{NP}$, Professor Simpson, a proponent of\nthe view that $\\mathsf{P} = \\mathsf{NP}$, and Judge Wapner, who is initially\nopen-minded and neutral.", 
+    "link": "http://arxiv.org/pdf/1605.08639v1", 
+    "arxiv-id": "1605.08639v1"
+},{
+    "category": "cond-mat.dis-nn", 
+    "author": "Adilson E. Motter", 
+    "title": "Signatures of small-world and scale-free properties in large computer   programs", 
+    "publish": "2003-06-24T17:33:13Z", 
+    "summary": "A large computer program is typically divided into many hundreds or even\nthousands of smaller units, whose logical connections define a network in a\nnatural way. This network reflects the internal structure of the program, and\ndefines the ``information flow'' within the program. We show that, (1) due to\nits growth in time this network displays a scale-free feature in that the\nprobability of the number of links at a node obeys a power-law distribution,\nand (2) as a result of performance optimization of the program the network has\na small-world structure. We believe that these features are generic for large\ncomputer programs. Our work extends the previous studies on growing networks,\nwhich have mostly been for physical networks, to the domain of computer\nsoftware.", 
+    "link": "http://arxiv.org/pdf/cond-mat/0306609v1", 
+    "arxiv-id": "cond-mat/0306609v1"
+},{
+    "category": "cs.GL", 
+    "author": "Alan L. Selman", 
+    "title": "Writing and Editing Complexity Theory: Tales and Tools", 
+    "publish": "1998-11-01T17:44:15Z", 
+    "summary": "Each researcher should have a full shelf---physical or virtual---of books on\nwriting and editing prose. Though we make no claim to any special degree of\nexpertise, we recently edited a book of complexity theory surveys (Complexity\nTheory Retrospective II, Springer-Verlag, 1997), and in doing so we were\nbrought into particularly close contact with the subject of this article, and\nwith a number of the excellent resources available to writers and editors. In\nthis article, we list some of these resources, and we also relate some of the\nadventures we had as our book moved from concept to reality.", 
+    "link": "http://arxiv.org/pdf/cs/9811005v1", 
+    "arxiv-id": "cs/9811005v1"
+},{
+    "category": "cs.LO", 
+    "author": "Ray Kemp", 
+    "title": "No information can be conveyed by certain events: The case of the clever   widows of Fornicalia and the Stobon Oracle", 
+    "publish": "1999-07-08T23:16:17Z", 
+    "summary": "In this short article, we look at an old logical puzzle, its solution and\nproof and discuss some interesting aspects concerning its representation in a\nlogic programming language like Prolog. We also discuss an intriguing\ninformation theoretic aspect of the puzzle.", 
+    "link": "http://arxiv.org/pdf/cs/9907014v1", 
+    "arxiv-id": "cs/9907014v1"
+},{
+    "category": "cs.CY", 
+    "author": "Lane A. Hemaspaandra", 
+    "title": "Take-home Complexity", 
+    "publish": "2000-01-21T05:31:08Z", 
+    "summary": "We discuss the use of projects in first-year graduate complexity theory\ncourses.", 
+    "link": "http://arxiv.org/pdf/cs/0001016v1", 
+    "arxiv-id": "cs/0001016v1"
+},{
+    "category": "cs.GL", 
+    "author": "Ming-Yang Kao", 
+    "title": "Multiple-Size Divide-and-Conquer Recurrences", 
+    "publish": "2001-01-15T02:31:54Z", 
+    "summary": "This short note reports a master theorem on tight asymptotic solutions to\ndivide-and-conquer recurrences with more than one recursive term: for example,\nT(n) = 1/4 T(n/16) + 1/3 T(3n/5) + 4 T(n/100) + 10 T(n/300) + n^2.", 
+    "link": "http://arxiv.org/pdf/cs/0101011v1", 
+    "arxiv-id": "cs/0101011v1"
+},{
+    "category": "cs.SE", 
+    "author": "S. Patton", 
+    "title": "Concrete uses of XML in software development and data analysis", 
+    "publish": "2003-06-11T19:59:16Z", 
+    "summary": "XML is now becoming an industry standard for data description and exchange.\nDespite this there are still some questions about how or if this technology can\nbe useful in High Energy Physics software development and data analysis. This\npaper aims to answer these questions by demonstrating how XML is used in the\nIceCube software development system, data handling and analysis. It does this\nby first surveying the concepts and tools that make up the XML technology. It\nthen goes on to discuss concrete examples of how these concepts and tools are\nused to speed up software development in IceCube and what are the benefits of\nusing XML in IceCube's data handling and analysis chain. The overall aim of\nthis paper it to show that XML does have many benefits to bring High Energy\nPhysics software development and data analysis.", 
+    "link": "http://arxiv.org/pdf/cs/0306047v1", 
+    "arxiv-id": "cs/0306047v1"
+},{
+    "category": "cs.AI", 
+    "author": "Wolfram Schmied", 
+    "title": "Demolishing Searle's Chinese Room", 
+    "publish": "2004-03-08T17:50:32Z", 
+    "summary": "Searle's Chinese Room argument is refuted by showing that he has actually\ngiven two different versions of the room, which fail for different reasons.\nHence, Searle does not achieve his stated goal of showing ``that a system could\nhave input and output capabilities that duplicated those of a native Chinese\nspeaker and still not understand Chinese''.", 
+    "link": "http://arxiv.org/pdf/cs/0403009v2", 
+    "arxiv-id": "cs/0403009v2"
+},{
+    "category": "cs.GL", 
+    "author": "Chua Beng Koon", 
+    "title": "DAB Content Annotation and Receiver Hardware Control with XML", 
+    "publish": "2004-04-11T08:36:04Z", 
+    "summary": "The Eureka-147 Digital Audio Broadcasting (DAB) standard defines the 'dynamic\nlabels' data field for holding information about the transmission content.\nHowever, this information does not follow a well-defined structure since it is\ndesigned to carry text for direct output to displays, for human interpretation.\nThis poses a problem when machine interpretation of DAB content information is\ndesired. Extensible Markup Language (XML) was developed to allow for the\nwell-defined, structured machine-to-machine exchange of data over computer\nnetworks. This article proposes a novel technique of machine-interpretable DAB\ncontent annotation and receiver hardware control, involving the utilisation of\nXML as metadata in the transmitted DAB frames.", 
+    "link": "http://arxiv.org/pdf/cs/0404026v1", 
+    "arxiv-id": "cs/0404026v1"
+},{
+    "category": "cs.GL", 
+    "author": "G. Sajith", 
+    "title": "The Persistent Buffer Tree : An I/O-efficient Index for Temporal Data", 
+    "publish": "2004-04-15T03:17:56Z", 
+    "summary": "In a variety of applications, we need to keep track of the development of a\ndata set over time. For maintaining and querying this multi version data\nI/O-efficiently, external memory data structures are required. In this paper,\nwe present a probabilistic self-balancing persistent data structure in external\nmemory called the persistent buffer tree, which supports insertions, updates\nand deletions of data items at the present version and range queries for any\nversion, past or present. The persistent buffer tree is I/O-optimal in the\nsense that the expected amortized I/O performance bounds are asymptotically the\nsame as the deterministic amortized bounds of the (single version) buffer tree\nin the worst case.", 
+    "link": "http://arxiv.org/pdf/cs/0404033v1", 
+    "arxiv-id": "cs/0404033v1"
+},{
+    "category": "cs.SE", 
+    "author": "Chris Kimble", 
+    "title": "Uncovering the epistemological and ontological assumptions of software   designers", 
+    "publish": "2004-06-16T10:01:06Z", 
+    "summary": "The ontological and epistemological positions adopted by information systems\ndesign methods are incommensur-able when pushed to their extremes. Information\nsystems research has therefore tended to focus on the similarities between\ndifferent positions, usually in search of a single, unifying position. However,\nby focusing on the similari-ties, the clarity of argument provided by any one\nphiloso-phical position is necessarily diminished. Consequently, researchers\noften treat the philosophical foundations of design methods as being of only\nminor importance. In this paper, we have deliberately chosen to focus on the\ndifferences between various philosophical positions. From this focus, we\nbelieve we can offer a clearer under-standing of the empirical behaviour of\nsoftware as viewed from particular philosophical positions. Since the\nem-pirical evidence does not favour any single position, we conclude by arguing\nfor the validity of ad hoc approaches to software design which we believe\nprovides a stronger and more theoretically grounded approach to software\ndesign.", 
+    "link": "http://arxiv.org/pdf/cs/0406022v1", 
+    "arxiv-id": "cs/0406022v1"
+},{
+    "category": "cs.SE", 
+    "author": "Chris Kimble", 
+    "title": "Notions of Equivalence in Software Design", 
+    "publish": "2004-06-16T10:07:16Z", 
+    "summary": "Design methods in information systems frequently create software descriptions\nusing formal languages. Nonetheless, most software designers prefer to describe\nsoftware using natural languages. This distinction is not simply a matter of\nconvenience. Natural languages are not the same as formal languages; in\nparticular, natural languages do not follow the notions of equivalence used by\nformal languages. In this paper, we show both the existence and coexistence of\ndifferent notions of equivalence by extending the no-tion of oracles used in\nformal languages. This allows distinctions to be made between the trustworthy\noracles assumed by formal languages and the untrust-worthy oracles used by\nnatural languages. By examin-ing the notion of equivalence, we hope to\nencourage designers of software to rethink the place of ambiguity in software\ndesign.", 
+    "link": "http://arxiv.org/pdf/cs/0406023v1", 
+    "arxiv-id": "cs/0406023v1"
+},{
+    "category": "cs.GR", 
+    "author": "A. W. Overhauser", 
+    "title": "Analytic Definition of Curves and Surfaces by Parabolic Blending", 
+    "publish": "2005-03-22T16:59:56Z", 
+    "summary": "A procedure for interpolating between specified points of a curve or surface\nis described. The method guarantees slope continuity at all junctions. A\nsurface panel divided into p x q contiguous patches is completely specified by\nthe coordinates of (p+1) x (q+1) points. Each individual patch, however,\ndepends parametrically on the coordinates of 16 points, allowing shape\nflexibility and global conformity.", 
+    "link": "http://arxiv.org/pdf/cs/0503054v1", 
+    "arxiv-id": "cs/0503054v1"
+},{
+    "category": "cs.CC", 
+    "author": "Craig Alan Feinstein", 
+    "title": "Complexity Science for Simpletons", 
+    "publish": "2005-07-05T17:03:37Z", 
+    "summary": "In this article, we shall describe some of the most interesting topics in the\nsubject of Complexity Science for a general audience. Anyone with a solid\nfoundation in high school mathematics (with some calculus) and an elementary\nunderstanding of computer programming will be able to follow this article.\nFirst, we shall explain the significance of the P versus NP problem and solve\nit. Next, we shall describe two other famous mathematics problems, the Collatz\n3n+1 Conjecture and the Riemann Hypothesis, and show how both Chaitin's\nincompleteness theorem and Wolfram's notion of \"computational irreducibility\"\nare important for understanding why no one has, as of yet, solved these two\nproblems.", 
+    "link": "http://arxiv.org/pdf/cs/0507008v7", 
+    "arxiv-id": "cs/0507008v7"
+},{
+    "category": "cs.CE", 
+    "author": "Simon W. de Leeuw", 
+    "title": "Component Based Programming in Scientific Computing: The Viable Approach", 
+    "publish": "2005-08-31T21:57:04Z", 
+    "summary": "Computational scientists are facing a new era where the old ways of\ndeveloping and reusing code have to be left behind and a few daring steps are\nto be made towards new horizons. The present work analyzes the needs that drive\nthis change, the factors that contribute to the inertia of the community and\nslow the transition, the status and perspective of present attempts, the\nprinciple, practical and technical problems that are to be addressed in the\nshort and long run.", 
+    "link": "http://arxiv.org/pdf/cs/0509002v1", 
+    "arxiv-id": "cs/0509002v1"
+},{
+    "category": "cs.MA", 
+    "author": "Russ Abbott", 
+    "title": "If a tree casts a shadow is it telling the time?", 
+    "publish": "2006-03-30T22:31:26Z", 
+    "summary": "Physical processes are computations only when we use them to externalize\nthought. Computation is the performance of one or more fixed processes within a\ncontingent environment. We reformulate the Church-Turing thesis so that it\napplies to programs rather than to computability. When suitably formulated\nagent-based computing in an open, multi-scalar environment represents the\ncurrent consensus view of how we interact with the world. But we don't know how\nto formulate multi-scalar environments.", 
+    "link": "http://arxiv.org/pdf/cs/0603125v2", 
+    "arxiv-id": "cs/0603125v2"
+},{
+    "category": "cs.NE", 
+    "author": "Boris D. Lubachevsky", 
+    "title": "Theory of sexes by Geodakian as it is advanced by Iskrin", 
+    "publish": "2006-07-03T04:03:23Z", 
+    "summary": "In 1960s V.Geodakian proposed a theory that explains sexes as a mechanism for\nevolutionary adaptation of the species to changing environmental conditions. In\n2001 V.Iskrin refined and augmented the concepts of Geodakian and gave a new\nand interesting explanation to several phenomena which involve sex, and sex\nratio, including the war-years phenomena. He also introduced a new concept of\nthe \"catastrophic sex ratio.\" This note is an attempt to digest technical\naspects of the new ideas by Iskrin.", 
+    "link": "http://arxiv.org/pdf/cs/0607007v4", 
+    "arxiv-id": "cs/0607007v4"
+},{
+    "category": "cs.GL", 
+    "author": "Solomon Feferman", 
+    "title": "Tarski's influence on computer science", 
+    "publish": "2006-08-15T16:40:24Z", 
+    "summary": "The influence of Alfred Tarski on computer science was indirect but\nsignificant in a number of directions and was in certain respects fundamental.\nHere surveyed is the work of Tarski on the decision procedure for algebra and\ngeometry, the method of elimination of quantifiers, the semantics of formal\nlanguages, modeltheoretic preservation theorems, and algebraic logic; various\nconnections of each with computer science are taken up.", 
+    "link": "http://arxiv.org/pdf/cs/0608062v2", 
+    "arxiv-id": "cs/0608062v2"
+},{
+    "category": "cs.OS", 
+    "author": "Franco Milicchio", 
+    "title": "The Unix KISS: A Case Study", 
+    "publish": "2007-01-04T09:45:28Z", 
+    "summary": "In this paper we show that the initial philosophy used in designing and\ndeveloping UNIX in early times has been forgotten due to \"fast practices\". We\nquestion the leitmotif that microkernels, though being by design adherent to\nthe KISS principle, have a number of context switches higher than their\nmonolithic counterparts, running a test suite and verify the results with\nstandard statistical validation tests. We advocate a wiser distribution of\nshared libraries by statistically analyzing the weight of each shared object in\na typical UNIX system, showing that the majority of shared libraries exist in a\ncommon space for no real evidence of need. Finally we examine the UNIX heritage\nwith an historical point of view, noticing how habits swiftly replaced the\nintents of the original authors, moving the focus from the earliest purpose of\nis avoiding complications, keeping a system simple to use and maintain.", 
+    "link": "http://arxiv.org/pdf/cs/0701021v2", 
+    "arxiv-id": "cs/0701021v2"
+},{
+    "category": "cs.DL", 
+    "author": "Philip M. Davis", 
+    "title": "Citation advantage of Open Access articles likely explained by quality   differential and media effects", 
+    "publish": "2007-01-16T20:00:35Z", 
+    "summary": "In a study of articles published in the Proceedings of the National Academy\nof Sciences, Gunther Eysenbach discovered a significant citation advantage for\nthose articles made freely-available upon publication (Eysenbach 2006). While\nthe author attempted to control for confounding factors that may have explained\nthe citation differential, the study was unable to control for characteristics\nof the article that may have led some authors to pay the additional page\ncharges ($1,000) for immediate OA status. OA articles published in PNAS were\nmore than twice as likely to be featured on the front cover of the journal\n(3.3% vs. 1.4%), nearly twice as likely to be picked up by the media (15% vs.\n8%) and when cited reached, on average, nearly twice as many news outlets as\nsubscription-based articles (4.2 vs. 2.6). The citation advantage of Open\nAccess articles in PNAS may likely be explained by a quality differential and\nthe amplification of media effects.", 
+    "link": "http://arxiv.org/pdf/cs/0701101v1", 
+    "arxiv-id": "cs/0701101v1"
+},{
+    "category": "quant-ph", 
+    "author": "Wolfgang Polak", 
+    "title": "An Introduction to Quantum Computing for Non-Physicists", 
+    "publish": "1998-09-08T19:02:58Z", 
+    "summary": "Richard Feynman's observation that quantum mechanical effects could not be\nsimulated efficiently on a computer led to speculation that computation in\ngeneral could be done more efficiently if it used quantum effects. This\nspeculation appeared justified when Peter Shor described a polynomial time\nquantum algorithm for factoring integers.\n  In quantum systems, the computational space increases exponentially with the\nsize of the system which enables exponential parallelism. This parallelism\ncould lead to exponentially faster quantum algorithms than possible\nclassically. The catch is that accessing the results, which requires\nmeasurement, proves tricky and requires new non-traditional programming\ntechniques.\n  The aim of this paper is to guide computer scientists and other\nnon-physicists through the conceptual and notational barriers that separate\nquantum computing from conventional computing. We introduce basic principles of\nquantum mechanics to explain where the power of quantum computers comes from\nand why it is difficult to harness. We describe quantum cryptography,\nteleportation, and dense coding. Various approaches to harnessing the power of\nquantum parallelism are explained, including Shor's algorithm, Grover's\nalgorithm, and Hogg's algorithms. We conclude with a discussion of quantum\nerror correction.", 
+    "link": "http://arxiv.org/pdf/quant-ph/9809016v2", 
+    "arxiv-id": "quant-ph/9809016v2"
+},{
+    "category": "cs.AI", 
+    "author": "Johan Bollen", 
+    "title": "Modeling Computations in a Semantic Network", 
+    "publish": "2007-05-31T21:56:25Z", 
+    "summary": "Semantic network research has seen a resurgence from its early history in the\ncognitive sciences with the inception of the Semantic Web initiative. The\nSemantic Web effort has brought forth an array of technologies that support the\nencoding, storage, and querying of the semantic network data structure at the\nworld stage. Currently, the popular conception of the Semantic Web is that of a\ndata modeling medium where real and conceptual entities are related in\nsemantically meaningful ways. However, new models have emerged that explicitly\nencode procedural information within the semantic network substrate. With these\nnew technologies, the Semantic Web has evolved from a data modeling medium to a\ncomputational medium. This article provides a classification of existing\ncomputational modeling efforts and the requirements of supporting technologies\nthat will aid in the further growth of this burgeoning domain.", 
+    "link": "http://arxiv.org/pdf/0706.0022v1", 
+    "arxiv-id": "0706.0022v1"
+},{
+    "category": "cs.OS", 
+    "author": "St\u00e9phane Fr\u00e9not", 
+    "title": "A Survey of Unix Init Schemes", 
+    "publish": "2007-06-19T09:44:36Z", 
+    "summary": "In most modern operating systems, init (as in \"initialization\") is the\nprogram launched by the kernel at boot time. It runs as a daemon and typically\nhas PID 1. Init is responsible for spawning all other processes and scavenging\nzombies. It is also responsible for reboot and shutdown operations. This\ndocument describes existing solutions that implement the init process and/or\ninit scripts in Unix-like systems. These solutions range from the legacy and\nstill-in-use BSD and SystemV schemes, to recent and promising schemes from\nUbuntu, Apple, Sun and independent developers. Our goal is to highlight their\nfocus and compare their sets of features.", 
+    "link": "http://arxiv.org/pdf/0706.2748v2", 
+    "arxiv-id": "0706.2748v2"
+},{
+    "category": "cs.LG", 
+    "author": "Enrique ter Horst", 
+    "title": "Filtering Additive Measurement Noise with Maximum Entropy in the Mean", 
+    "publish": "2007-09-04T19:36:22Z", 
+    "summary": "The purpose of this note is to show how the method of maximum entropy in the\nmean (MEM) may be used to improve parametric estimation when the measurements\nare corrupted by large level of noise. The method is developed in the context\non a concrete example: that of estimation of the parameter in an exponential\ndistribution. We compare the performance of our method with the bayesian and\nmaximum likelihood approaches.", 
+    "link": "http://arxiv.org/pdf/0709.0509v1", 
+    "arxiv-id": "0709.0509v1"
+},{
+    "category": "cs.MA", 
+    "author": "Michael M. Harris", 
+    "title": "Computational Solutions for Today's Navy", 
+    "publish": "2008-01-10T16:46:04Z", 
+    "summary": "New methods are being employed to meet the Navy's changing\nsoftware-development environment.", 
+    "link": "http://arxiv.org/pdf/0801.1630v3", 
+    "arxiv-id": "0801.1630v3"
+},{
+    "category": "cs.CL", 
+    "author": "Johan Bollen", 
+    "title": "Between conjecture and memento: shaping a collective emotional   perception of the future", 
+    "publish": "2008-01-25T01:09:47Z", 
+    "summary": "Large scale surveys of public mood are costly and often impractical to\nperform. However, the web is awash with material indicative of public mood such\nas blogs, emails, and web queries. Inexpensive content analysis on such\nextensive corpora can be used to assess public mood fluctuations. The work\npresented here is concerned with the analysis of the public mood towards the\nfuture. Using an extension of the Profile of Mood States questionnaire, we have\nextracted mood indicators from 10,741 emails submitted in 2006 to futureme.org,\na web service that allows its users to send themselves emails to be delivered\nat a later date. Our results indicate long-term optimism toward the future, but\nmedium-term apprehension and confusion.", 
+    "link": "http://arxiv.org/pdf/0801.3864v1", 
+    "arxiv-id": "0801.3864v1"
+},{
+    "category": "cs.SE", 
+    "author": "Chris Kimble", 
+    "title": "Philosophical Smoke Signals: Theory and Practice in Information Systems   Design", 
+    "publish": "2008-04-17T16:46:55Z", 
+    "summary": "Although the gulf between the theory and practice in Information Systems is\nmuch lamented, few researchers have offered a way forward except through a\nnumber of (failed) attempts to develop a single systematic theory for\nInformation Systems. In this paper, we encourage researchers to re-examine the\npractical consequences of their theoretical arguments. By examining these\narguments we may be able to form a number of more rigorous theories of\nInformation Systems, allowing us to draw theory and practice together without\nundertaking yet another attempt at the holy grail of a single unified\nsystematic theory of Information Systems.", 
+    "link": "http://arxiv.org/pdf/0804.2852v1", 
+    "arxiv-id": "0804.2852v1"
+},{
+    "category": "cs.CY", 
+    "author": "Alberto Pepe", 
+    "title": "A Grateful Dead Analysis: The Relationship Between Concert and Listening   Behavior", 
+    "publish": "2008-07-15T21:31:36Z", 
+    "summary": "The Grateful Dead were an American band that was born out of the San\nFrancisco, California psychedelic movement of the 1960s. The band played music\ntogether from 1965 to 1995 and is well known for concert performances\ncontaining extended improvisations and long and unique set lists. This article\npresents a comparative analysis between 1,590 of the Grateful Dead's concert\nset lists from 1972 to 1995 and 2,616,990 last.fm Grateful Dead listening\nevents from August 2005 to October 2007. While there is a strong correlation\nbetween how songs were played in concert and how they are listened to by\nlast.fm members, the outlying songs in this trend identify interesting aspects\nof the band and their fans 10 years after the band's dissolution.", 
+    "link": "http://arxiv.org/pdf/0807.2466v1", 
+    "arxiv-id": "0807.2466v1"
+},{
+    "category": "cs.CY", 
+    "author": "Fionn Murtagh", 
+    "title": "Between the Information Economy and Student Recruitment: Present   Conjuncture and Future Prospects", 
+    "publish": "2008-09-04T18:17:05Z", 
+    "summary": "In university programs and curricula, in general we react to the need to meet\nmarket needs. We respond to market stimulus, or at least try to do so. Consider\nnow an inverted view. Consider our data and perspectives in university programs\nas reflecting and indeed presaging economic trends. In this article I pursue\nthis line of thinking. I show how various past events fit very well into this\nnew view. I provide explanation for why some technology trends happened as they\ndid, and why some current developments are important now.", 
+    "link": "http://arxiv.org/pdf/0809.0874v1", 
+    "arxiv-id": "0809.0874v1"
+},{
+    "category": "cs.CY", 
+    "author": "Christoph Schommer", 
+    "title": "16 Propositions to Reconsider the Organization of a Scientific Workshop", 
+    "publish": "2008-09-29T09:42:23Z", 
+    "summary": "Participating a scientific workshop is nowadays often an adventure because\nthe number of participants do seldom exceed the number of talks. A half-day\nworkshop is mostly finished at lunchtime, speakers are sometimes not present\nand unexcused, and a strict progression of the workshop offers little air for\ndiscussion. And when talks are re-scheduled on short notice in case that a\nspeech is dropped out, attaining guests definitely wonder why the presenter is\ntalking about something that does not match the previously announced talk. In\nthis respect, we believe that the organization of a workshop in the classical\nsense must be reconsidered. It is not enough of compelling the presenters to\npay the registration fee only and to let the participants being impassive or\ntaken away mentally. With this work, we address several propositions to become\nimplemented in the future workshop organization. With that, we hope to\ncontribute to the identification of scientific workshops as a place of\ninteraction.", 
+    "link": "http://arxiv.org/pdf/0809.4916v1", 
+    "arxiv-id": "0809.4916v1"
+},{
+    "category": "q-fin.TR", 
+    "author": "Victor Lebreton", 
+    "title": "Le trading algorithmique", 
+    "publish": "2008-10-22T08:23:10Z", 
+    "summary": "The algorithmic trading comes from digitalisation of the processing of\ntrading assets on financial markets. Since 1980 the computerization of the\nstock market offers real time processing of financial information. This\ntechnological revolution has offered processes and mathematic methods to\nidentify best return on transactions. Current research relates to autonomous\ntransaction systems programmed in certain periods and some algorithms. This\noffers return opportunities where traders can not intervene. There are about\nthirty algorithms to assist the traders, the best known are the VWAP, the TWAP,\nTVOL. The algorithms offer the latest strategies and decision-making are the\nsubject of much research. These advances in modeling decision-making autonomous\nagent can envisage a rich future for these technologies, the players already in\nuse for more than 30% of their trading.", 
+    "link": "http://arxiv.org/pdf/0810.4000v2", 
+    "arxiv-id": "0810.4000v2"
+},{
+    "category": "cs.GL", 
+    "author": "Don Pellegrino", 
+    "title": "Towards an explanatory and computational theory of scientific discovery", 
+    "publish": "2009-04-08T23:46:10Z", 
+    "summary": "We propose an explanatory and computational theory of transformative\ndiscoveries in science. The theory is derived from a recurring theme found in a\ndiverse range of scientific change, scientific discovery, and knowledge\ndiffusion theories in philosophy of science, sociology of science, social\nnetwork analysis, and information science. The theory extends the concept of\nstructural holes from social networks to a broader range of associative\nnetworks found in science studies, especially including networks that reflect\nunderlying intellectual structures such as co-citation networks and\ncollaboration networks. The central premise is that connecting otherwise\ndisparate patches of knowledge is a valuable mechanism of creative thinking in\ngeneral and transformative scientific discovery in particular.", 
+    "link": "http://arxiv.org/pdf/0904.1439v1", 
+    "arxiv-id": "0904.1439v1"
+},{
+    "category": "cs.GL", 
+    "author": "Manuel Oriol", 
+    "title": "The Business of Selling Electronic Documents", 
+    "publish": "2009-04-21T13:00:15Z", 
+    "summary": "The music industry has huge troubles adapting to the new technologies. As\nmany pointed out, when copying music is essentially free and socially accepted\nit becomes increasingly tempting for users to infringe copyrights and copy\nmusic from one person to another. The answer of the music industry is to outlaw\na majority of citizens. This article describes how the music industry should\nreinvent itself and adapt to a world where the network is ubiquitous and\nexchanging information is essentially free. It relies on adapting prices to the\ndemand and lower costs of electronic documents in a dramatic way.", 
+    "link": "http://arxiv.org/pdf/0904.3243v1", 
+    "arxiv-id": "0904.3243v1"
+},{
+    "category": "cs.CY", 
+    "author": "Abdur Rashid Khan", 
+    "title": "Knowledge Elecitation for Factors Affecting Taskforce Productivity using   a Questionnaire", 
+    "publish": "2009-07-30T21:06:19Z", 
+    "summary": "In this paper we present the process of Knowledge Elicitation through a\nstructured questionnaire technique. This is an effort to depict a problem\ndomain as Investigation of factors affecting taskforce productivity. The\nproblem has to be solved using the expert system technology. This problem is\nthe very first step how to acquire knowledge from the domain experts. Knowledge\nElicitation is one of the difficult tasks in knowledge base formation which is\na key component of expert system. The questionnaire was distributed among 105\ndifferent domain experts of Public and Private Organizations (i.e. Education\nInstitutions, Industries and Research etc) in Pakistan. A total 61 responses\nfrom these experts were received. All the experts were well qualified, highly\nexperienced and has been remained the members for selection committees a number\nof times for different posts. Facts acquired were analyzed from which knowledge\nwas extracted and elicited. A standard shape was given to the questionnaire for\nfurther research as a knowledge learning tool. This tool may be used as a\nstandard document for selection and promotion of employees.", 
+    "link": "http://arxiv.org/pdf/0907.5429v1", 
+    "arxiv-id": "0907.5429v1"
+},{
+    "category": "cs.GL", 
+    "author": "Azeez Raheem Ajetola", 
+    "title": "Exploration of the Gap Between Computer Science Curriculum and   Industrial I.T Skills Requirements", 
+    "publish": "2009-08-29T18:33:55Z", 
+    "summary": "This paper sets out to examine the skills gaps between the industrial\napplication of Information Technology and university academic programmes\n(curriculum). It looks at some of the causes, and considers the probable\nsolutions for bridging the gap between them and suggests the possibilities of\nexploring a new role for our universities and employers of labor. It also\nhighlights strategies to abolish the misalignment between university and\nindustry. The main concept is to blend the academic rigidity with the\nindustrial relevance.", 
+    "link": "http://arxiv.org/pdf/0908.4353v1", 
+    "arxiv-id": "0908.4353v1"
+},{
+    "category": "cs.CY", 
+    "author": "R. C. Walke", 
+    "title": "Going Green: A Holistic Approach to Transform Business", 
+    "publish": "2010-09-04T14:56:07Z", 
+    "summary": "In recent years environmental and energy conservation issues have taken the\ncentral theme in the global business arena. The reality of rising energy cost\nand their impact on international affairs coupled with the different kinds of\nenvironmental issues has shifted the social and economic consciousness of the\nbusiness community. Hence, the business community is now in search of an\neco-friendly business model. This paper highlights the concept of green\nbusiness and their needs in the current global scenario.", 
+    "link": "http://arxiv.org/pdf/1009.0844v1", 
+    "arxiv-id": "1009.0844v1"
+},{
+    "category": "cs.SE", 
+    "author": "S. F. M. van Vlijmen", 
+    "title": "Introducing Sourcements", 
+    "publish": "2011-07-23T12:12:12Z", 
+    "summary": "Sourcing processes are discussed at a high abstraction level. A dedicated\nterminology is developed concerning general aspects of sourcing. The term\nsourcement is coined to denote a building block for sourcing. No- tions of\nallocation, functional architecture and allocational architecture, equilibrium,\nand configuration are discussed. Limitations of the concept of outsourcing are\noutlined. This theoretical work is meant to serve as a point of departure for\nthe subsequent development of a detailed theory of sourcing and sourcing\ntransformations, which can be a tool for dealing with practical applica- tions.", 
+    "link": "http://arxiv.org/pdf/1107.4684v1", 
+    "arxiv-id": "1107.4684v1"
+},{
+    "category": "cs.AI", 
+    "author": "Randall Reiserer", 
+    "title": "Data Mining Session-Based Patient Reported Outcomes (PROs) in a Mental   Health Setting: Toward Data-Driven Clinical Decision Support and Personalized   Treatment", 
+    "publish": "2011-12-07T19:44:48Z", 
+    "summary": "The CDOI outcome measure - a patient-reported outcome (PRO) instrument\nutilizing direct client feedback - was implemented in a large, real-world\nbehavioral healthcare setting in order to evaluate previous findings from\nsmaller controlled studies. PROs provide an alternative window into treatment\neffectiveness based on client perception and facilitate detection of\nproblems/symptoms for which there is no discernible measure (e.g. pain). The\nprincipal focus of the study was to evaluate the utility of the CDOI for\npredictive modeling of outcomes in a live clinical setting. Implementation\nfactors were also addressed within the framework of the Theory of Planned\nBehavior by linking adoption rates to implementation practices and clinician\nperceptions. The results showed that the CDOI does contain significant capacity\nto predict outcome delta over time based on baseline and early change scores in\na large, real-world clinical setting, as suggested in previous research. The\nimplementation analysis revealed a number of critical factors affecting\nsuccessful implementation and adoption of the CDOI outcome measure, though\nthere was a notable disconnect between clinician intentions and actual\nbehavior. Most importantly, the predictive capacity of the CDOI underscores the\nutility of direct client feedback measures such as PROs and their potential use\nas the basis for next generation clinical decision support tools and\npersonalized treatment approaches.", 
+    "link": "http://arxiv.org/pdf/1112.1670v1", 
+    "arxiv-id": "1112.1670v1"
+},{
+    "category": "math.HO", 
+    "author": "Henry Cohn", 
+    "title": "Mathematicians take a stand", 
+    "publish": "2012-04-05T20:06:16Z", 
+    "summary": "We survey the reasons for the ongoing boycott of the publisher Elsevier. We\nexamine Elsevier's pricing and bundling policies, restrictions on dissemination\nby authors, and lapses in ethics and peer review, and we conclude with thoughts\nabout the future of mathematical publishing.", 
+    "link": "http://arxiv.org/pdf/1204.1351v2", 
+    "arxiv-id": "1204.1351v2"
+},{
+    "category": "quant-ph", 
+    "author": "Valerio Scarani", 
+    "title": "The Quantum Frontier", 
+    "publish": "2012-06-04T22:41:04Z", 
+    "summary": "The success of the abstract model of computation, in terms of bits, logical\noperations, programming language constructs, and the like, makes it easy to\nforget that computation is a physical process. Our cherished notions of\ncomputation and information are grounded in classical mechanics, but the\nphysics underlying our world is quantum. In the early 80s researchers began to\nask how computation would change if we adopted a quantum mechanical, instead of\na classical mechanical, view of computation. Slowly, a new picture of\ncomputation arose, one that gave rise to a variety of faster algorithms, novel\ncryptographic mechanisms, and alternative methods of communication. Small\nquantum information processing devices have been built, and efforts are\nunderway to build larger ones. Even apart from the existence of these devices,\nthe quantum view on information processing has provided significant insight\ninto the nature of computation and information, and a deeper understanding of\nthe physics of our universe and its connections with computation.\n  We start by describing aspects of quantum mechanics that are at the heart of\na quantum view of information processing. We give our own idiosyncratic view of\na number of these topics in the hopes of correcting common misconceptions and\nhighlighting aspects that are often overlooked. A number of the phenomena\ndescribed were initially viewed as oddities of quantum mechanics. It was\nquantum information processing, first quantum cryptography and then, more\ndramatically, quantum computing, that turned the tables and showed that these\noddities could be put to practical effect. It is these application we describe\nnext. We conclude with a section describing some of the many questions left for\nfuture work, especially the mysteries surrounding where the power of quantum\ninformation ultimately comes from.", 
+    "link": "http://arxiv.org/pdf/1206.0785v2", 
+    "arxiv-id": "1206.0785v2"
+},{
+    "category": "cs.GL", 
+    "author": "Mark Burgin", 
+    "title": "Axiomatic Tools versus Constructive approach to Unconventional   Algorithms", 
+    "publish": "2012-07-03T05:56:03Z", 
+    "summary": "In this paper, we analyze axiomatic issues of unconventional computations\nfrom a methodological and philosophical point of view. We explain how the new\nmodels of algorithms changed the algorithmic universe, making it open and\nallowing increased flexibility and creativity. However, the greater power of\nnew types of algorithms also brought the greater complexity of the algorithmic\nuniverse, demanding new tools for its study. That is why we analyze new\npowerful tools brought forth by the axiomatic theory of algorithms, automata\nand computation.", 
+    "link": "http://arxiv.org/pdf/1207.1034v1", 
+    "arxiv-id": "1207.1034v1"
+},{
+    "category": "cs.GL", 
+    "author": "Ian P. Gent", 
+    "title": "The Recomputation Manifesto", 
+    "publish": "2013-04-12T16:29:42Z", 
+    "summary": "Replication of scientific experiments is critical to the advance of science.\nUnfortunately, the discipline of Computer Science has never treated replication\nseriously, even though computers are very good at doing the same thing over and\nover again. Not only are experiments rarely replicated, they are rarely even\nreplicable in a meaningful way. Scientists are being encouraged to make their\nsource code available, but this is only a small step. Even in the happy event\nthat source code can be built and run successfully, running code is a long way\naway from being able to replicate the experiment that code was used for. I\npropose that the discipline of Computer Science must embrace replication of\nexperiments as standard practice. I propose that the only credible technique to\nmake experiments truly replicable is to provide copies of virtual machines in\nwhich the experiments are validated to run. I propose that tools and\nrepositories should be made available to make this happen. I propose to be one\nof those who makes it happen.", 
+    "link": "http://arxiv.org/pdf/1304.3674v1", 
+    "arxiv-id": "1304.3674v1"
+},{
+    "category": "math.LO", 
+    "author": "S. Barry Cooper", 
+    "title": "The Mathematician's Bias - and the Return to Embodied Computation", 
+    "publish": "2013-04-19T12:01:24Z", 
+    "summary": "There are growing uncertainties surrounding the classical model of\ncomputation established by G\\\"odel, Church, Kleene, Turing and others in the\n1930s onwards. The mismatch between the Turing machine conception, and the\nexperiences of those more practically engaged in computing, has parallels with\nthe wider one between science and those working creatively or intuitively out\nin the 'real' world. The scientific outlook is more flexible and basic than\nsome understand or want to admit. The science is subject to limitations which\nthreaten careers. We look at embodiment and disembodiment of computation as the\nkey to the mismatch, and find Turing had the right idea all along - amongst a\nproductive confusion of ideas about computation in the real and the abstract\nworlds.", 
+    "link": "http://arxiv.org/pdf/1304.5385v1", 
+    "arxiv-id": "1304.5385v1"
+},{
+    "category": "cs.GL", 
+    "author": "Suresh Venkatasubramanian", 
+    "title": "Rethinking Abstractions for Big Data: Why, Where, How, and What", 
+    "publish": "2013-06-14T05:11:34Z", 
+    "summary": "Big data refers to large and complex data sets that, under existing\napproaches, exceed the capacity and capability of current compute platforms,\nsystems software, analytical tools and human understanding. Numerous lessons on\nthe scalability of big data can already be found in asymptotic analysis of\nalgorithms and from the high-performance computing (HPC) and applications\ncommunities. However, scale is only one aspect of current big data trends;\nfundamentally, current and emerging problems in big data are a result of\nunprecedented complexity--in the structure of the data and how to analyze it,\nin dealing with unreliability and redundancy, in addressing the human factors\nof comprehending complex data sets, in formulating meaningful analyses, and in\nmanaging the dense, power-hungry data centers that house big data.\n  The computer science solution to complexity is finding the right\nabstractions, those that hide as much triviality as possible while revealing\nthe essence of the problem that is being addressed. The \"big data challenge\"\nhas disrupted computer science by stressing to the very limits the familiar\nabstractions which define the relevant subfields in data analysis, data\nmanagement and the underlying parallel systems. As a result, not enough of\nthese challenges are revealed by isolating abstractions in a traditional\nsoftware stack or standard algorithmic and analytical techniques, and attempts\nto address complexity either oversimplify or require low-level management of\ndetails. The authors believe that the abstractions for big data need to be\nrethought, and this reorganization needs to evolve and be sustained through\ncontinued cross-disciplinary collaboration.", 
+    "link": "http://arxiv.org/pdf/1306.3295v1", 
+    "arxiv-id": "1306.3295v1"
+},{
+    "category": "cs.GL", 
+    "author": "Ross Gore", 
+    "title": "Epistemology of Modeling and Simulation: How can we gain Knowledge from   Simulations?", 
+    "publish": "2013-06-21T19:15:51Z", 
+    "summary": "Epistemology is the branch of philosophy that deals with gaining knowledge.\nIt is closely related to ontology. The branch that deals with questions like\n\"What is real?\" and \"What do we know?\" as it provides these components. When\nusing modeling and simulation, we usually imply that we are doing so to either\napply knowledge, in particular when we are using them for training and\nteaching, or that we want to gain new knowledge, for example when doing\nanalysis or conducting virtual experiments. This paper looks at the history of\nscience to give a context to better cope with the question, how we can gain\nknowledge from simulation. It addresses aspects of computability and the\ngeneral underlying mathematics, and applies the findings to validation and\nverification and development of federations. As simulations are understood as\ncomputable executable hypotheses, validation can be understood as hypothesis\ntesting and theory building. The mathematical framework allows furthermore\naddressing some challenges when developing federations and the potential\nintroduction of contradictions when composing different theories, as they are\nrepresented by the federated simulation systems.", 
+    "link": "http://arxiv.org/pdf/1306.5215v1", 
+    "arxiv-id": "1306.5215v1"
+},{
+    "category": "cs.SE", 
+    "author": "Stefanie Betz", 
+    "title": "The Karlskrona manifesto for sustainability design", 
+    "publish": "2014-10-25T22:43:33Z", 
+    "summary": "Sustainability is a central concern for our society, and software systems\nincreasingly play a central role in it. As designers of software technology, we\ncause change and are responsible for the effects of our design choices. We\nrecognize that there is a rapidly increasing awareness of the fundamental need\nand desire for a more sustainable world, and there is a lot of genuine\ngoodwill. However, this alone will be ineffective unless we come to understand\nand address our persistent misperceptions. The Karlskrona Manifesto for\nSustainability Design aims to initiate a much needed conversation in and beyond\nthe software community by highlighting such perceptions and proposing a set of\nfundamental principles for sustainability design.", 
+    "link": "http://arxiv.org/pdf/1410.6968v4", 
+    "arxiv-id": "1410.6968v4"
+},{
+    "category": "cs.DL", 
+    "author": "Chris Mentzel", 
+    "title": "A Preliminary Review of Influential Works in Data-Driven Discovery", 
+    "publish": "2015-03-30T18:17:30Z", 
+    "summary": "The Gordon and Betty Moore Foundation ran an Investigator Competition as part\nof its Data-Driven Discovery Initiative in 2014. We received about 1,100\napplications and each applicant had the opportunity to list up to five\ninfluential works in the general field of \"Big Data\" for scientific discovery.\nWe collected nearly 5,000 references and 53 works were cited at least six\ntimes. This paper contains our preliminary findings.", 
+    "link": "http://arxiv.org/pdf/1503.08776v2", 
+    "arxiv-id": "1503.08776v2"
+},{
+    "category": "math.LO", 
+    "author": "S. Barry Cooper", 
+    "title": "The Machine as Data: A Computational View of Emergence and Definability", 
+    "publish": "2015-06-20T17:07:55Z", 
+    "summary": "Turing's (1936) paper on computable numbers has played its role in\nunderpinning different perspectives on the world of information. On the one\nhand, it encourages a digital ontology, with a perceived flatness of\ncomputational structure comprehensively hosting causality at the physical level\nand beyond. On the other (the main point of Turing's paper), it can give an\ninsight into the way in which higher order information arises and leads to loss\nof computational control - while demonstrating how the control can be\nre-established, in special circumstances, via suitable type reductions. We\nexamine the classical computational framework more closely than is usual,\ndrawing out lessons for the wider application of information-theoretical\napproaches to characterizing the real world. The problem which arises across a\nrange of contexts is the characterizing of the balance of power between the\ncomplexity of informational structure (with emergence, chaos, randomness and\n'big data' prominently on the scene) and the means available (simulation,\ncodes, statistical sampling, human intuition, semantic constructs) to bring\nthis information back into the computational fold. We proceed via appropriate\nmathematical modelling to a more coherent view of the computational structure\nof information, relevant to a wide spectrum of areas of investigation.", 
+    "link": "http://arxiv.org/pdf/1506.06270v1", 
+    "arxiv-id": "1506.06270v1"
+},{
+    "category": "q-bio.OT", 
+    "author": "Cameron Mura", 
+    "title": "An Introduction to Programming for Bioscientists: A Python-based Primer", 
+    "publish": "2016-05-18T02:21:53Z", 
+    "summary": "Computing has revolutionized the biological sciences over the past several\ndecades, such that virtually all contemporary research in the biosciences\nutilizes computer programs. The computational advances have come on many\nfronts, spurred by fundamental developments in hardware, software, and\nalgorithms. These advances have influenced, and even engendered, a phenomenal\narray of bioscience fields, including molecular evolution and bioinformatics;\ngenome-, proteome-, transcriptome- and metabolome-wide experimental studies;\nstructural genomics; and atomistic simulations of cellular-scale molecular\nassemblies as large as ribosomes and intact viruses. In short, much of\npost-genomic biology is increasingly becoming a form of computational biology.\nThe ability to design and write computer programs is among the most\nindispensable skills that a modern researcher can cultivate. Python has become\na popular programming language in the biosciences, largely because (i) its\nstraightforward semantics and clean syntax make it a readily accessible first\nlanguage; (ii) it is expressive and well-suited to object-oriented programming,\nas well as other modern paradigms; and (iii) the many available libraries and\nthird-party toolkits extend the functionality of the core language into\nvirtually every biological domain (sequence and structure analyses,\nphylogenomics, workflow management systems, etc.). This primer offers a basic\nintroduction to coding, via Python, and it includes concrete examples and\nexercises to illustrate the language's usage and capabilities; the main text\nculminates with a final project in structural bioinformatics. A suite of\nSupplemental Chapters is also provided. Starting with basic concepts, such as\nthat of a 'variable', the Chapters methodically advance the reader to the point\nof writing a graphical user interface to compute the Hamming distance between\ntwo DNA sequences.", 
+    "link": "http://arxiv.org/pdf/1605.05419v1", 
+    "arxiv-id": "1605.05419v1"
+},{
+    "category": "cs.GL", 
+    "author": "Joseph M. Hellerstein", 
+    "title": "Naughton's Wisconsin Bibliography: A Brief Guide", 
+    "publish": "2016-05-17T05:54:01Z", 
+    "summary": "Over nearly three decades at the University of Wisconsin, Jeff Naughton has\nleft an indelible mark on computer science. He has been a global leader of the\ndatabase research field, deepening its core and pushing its boundaries. Many of\nNaughton's ideas were translated directly into practice in commercial and\nopen-source systems. But software comes and goes. In the end, it is the ideas\nthemselves that have had impact, ideas written down in papers.\n  Naughton has been a prolific scholar over the last thirty years, with over\n175 publications in his bibliography, covering a wide range of topics. This\ndocument does not attempt to enumerate or even summarize the wealth of ideas\nthat Naughton has published over the course of his academic career--the task is\ntoo daunting. Instead, the best this short note aims to do is to serve as a\nrough map of the territory: something to help other researchers navigate the\nwide spaces of Naughton's work.", 
+    "link": "http://arxiv.org/pdf/1605.05566v1", 
+    "arxiv-id": "1605.05566v1"
+},{
+    "category": "stat.OT", 
+    "author": "Adam Loy", 
+    "title": "Embracing Data Science", 
+    "publish": "2016-07-04T12:40:15Z", 
+    "summary": "Statistics is running the risk of appearing irrelevant to today's\nundergraduate students. Today's undergraduate students are familiar with data\nscience projects and they judge statistics against what they have seen.\nStatistics, especially at the introductory level, should take inspiration from\ndata science so that the discipline is not seen as somehow lesser than data\nscience. This article provides a brief overview of data science, outlines ideas\nfor how introductory courses could take inspiration from data science, and\nprovides a reference to materials for developing stand-alone data science\ncourses.", 
+    "link": "http://arxiv.org/pdf/1607.00858v1", 
+    "arxiv-id": "1607.00858v1"
+},{
+    "category": "cs.IR", 
+    "author": "James Keiser", 
+    "title": "First Study on Data Readiness Level", 
+    "publish": "2017-01-18T15:23:41Z", 
+    "summary": "We introduce the idea of Data Readiness Level (DRL) to measure the relative\nrichness of data to answer specific questions often encountered by data\nscientists. We first approach the problem in its full generality explaining its\ndesired mathematical properties and applications and then we propose and study\ntwo DRL metrics. Specifically, we define DRL as a function of at least four\nproperties of data: Noisiness, Believability, Relevance, and Coherence. The\ninformation-theoretic based metrics, Cosine Similarity and Document Disparity,\nare proposed as indicators of Relevance and Coherence for a piece of data. The\nproposed metrics are validated through a text-based experiment using Twitter\ndata.", 
+    "link": "http://arxiv.org/pdf/1702.02107v1", 
+    "arxiv-id": "1702.02107v1"
+},{
+    "category": "cs.NI", 
+    "author": "Kirby Vosburgh", 
+    "title": "Brittle System Analysis", 
+    "publish": "1999-04-22T15:47:22Z", 
+    "summary": "The goal of this paper is to define and analyze systems which exhibit brittle\nbehavior. This behavior is characterized by a sudden and steep decline in\nperformance as the system approaches the limits of tolerance. This can be due\nto input parameters which exceed a specified input, or environmental conditions\nwhich exceed specified operating boundaries. An analogy is made between brittle\ncommmunication systems in particular and materials science.", 
+    "link": "http://arxiv.org/pdf/cs/9904016v1", 
+    "arxiv-id": "cs/9904016v1"
+},{
+    "category": "cs.PL", 
+    "author": "Burkhard D. Burow", 
+    "title": "DRAFT : Task System and Item Architecture (TSIA)", 
+    "publish": "1999-05-05T01:43:13Z", 
+    "summary": "During its execution, a task is independent of all other tasks. For an\napplication which executes in terms of tasks, the application definition can be\nfree of the details of the execution. Many projects have demonstrated that a\ntask system (TS) can provide such an application with a parallel, distributed,\nheterogeneous, adaptive, dynamic, real-time, interactive, reliable, secure or\nother execution. A task consists of items and thus the application is defined\nin terms of items. An item architecture (IA) can support arrays, routines and\nother structures of items, thus allowing for a structured application\ndefinition. Taking properties from many projects, the support can extend\nthrough to currying, application defined types, conditional items, streams and\nother definition elements. A task system and item architecture (TSIA) thus\npromises unprecedented levels of support for application execution and\ndefinition.", 
+    "link": "http://arxiv.org/pdf/cs/9905002v1", 
+    "arxiv-id": "cs/9905002v1"
+},{
+    "category": "cs.PL", 
+    "author": "Burkhard D. Burow", 
+    "title": "After Compilers and Operating Systems : The Third Advance in Application   Support", 
+    "publish": "1999-08-03T14:50:09Z", 
+    "summary": "After compilers and operating systems, TSIAs are the third advance in\napplication support. A compiler supports a high level application definition in\na programming language. An operating system supports a high level interface to\nthe resources used by an application execution. A Task System and Item\nArchitecture (TSIA) provides an application with a transparent reliable,\ndistributed, heterogeneous, adaptive, dynamic, real-time, interactive,\nparallel, secure or other execution. In addition to supporting the application\nexecution, a TSIA also supports the application definition. This run-time\nsupport for the definition is complementary to the compile-time support of a\ncompiler. For example, this allows a language similar to Fortran or C to\ndeliver features promised by functional computing. While many TSIAs exist, they\npreviously have not been recognized as such and have served only a particular\ntype of application. Existing TSIAs and other projects demonstrate that TSIAs\nare feasible for most applications. As the next paradigm for application\nsupport, the TSIA simplifies and unifies existing computing practice and\nresearch. By solving many outstanding problems, the TSIA opens many, many new\nopportunities for computing.", 
+    "link": "http://arxiv.org/pdf/cs/9908002v1", 
+    "arxiv-id": "cs/9908002v1"
+},{
+    "category": "cs.CL", 
+    "author": "Julien Nioche", 
+    "title": "Estimation of English and non-English Language Use on the WWW", 
+    "publish": "2000-06-23T09:43:27Z", 
+    "summary": "The World Wide Web has grown so big, in such an anarchic fashion, that it is\ndifficult to describe. One of the evident intrinsic characteristics of the\nWorld Wide Web is its multilinguality. Here, we present a technique for\nestimating the size of a language-specific corpus given the frequency of\ncommonly occurring words in the corpus. We apply this technique to estimating\nthe number of words available through Web browsers for given languages.\nComparing data from 1996 to data from 1999 and 2000, we calculate the growth of\na number of European languages on the Web. As expected, non-English languages\nare growing at a faster pace than English, though the position of English is\nstill dominant.", 
+    "link": "http://arxiv.org/pdf/cs/0006032v1", 
+    "arxiv-id": "cs/0006032v1"
+},{
+    "category": "cs.CR", 
+    "author": "Leonid A. Levin", 
+    "title": "The Tale of One-way Functions", 
+    "publish": "2000-12-26T22:48:10Z", 
+    "summary": "The existence of one-way functions is arguably the most important problem in\ncomputer theory. The article discusses and refines a number of concepts\nrelevant to this problem. For instance, it gives the first combinatorial\ncomplete owf, i.e., a function which is one-way if any function is. There are\nsurprisingly many subtleties in basic definitions. Some of these subtleties are\ndiscussed or hinted at in the literature and some are overlooked. Here, a\nunified approach is attempted.", 
+    "link": "http://arxiv.org/pdf/cs/0012023v5", 
+    "arxiv-id": "cs/0012023v5"
+},{
+    "category": "cs.DS", 
+    "author": "Evgueniy Vitchev", 
+    "title": "A (non)static 0-order statistical model and its implementation for   compressing virtually uncompressible data", 
+    "publish": "2002-05-15T23:27:26Z", 
+    "summary": "We give an implementation of a statistical model, which can be successfully\napplied for compressing of a sequence of binary digits with behavior close to\nrandom.", 
+    "link": "http://arxiv.org/pdf/cs/0205024v1", 
+    "arxiv-id": "cs/0205024v1"
+},{
+    "category": "cs.NI", 
+    "author": "S. Redner", 
+    "title": "A Statistical Physics Perspective on Web Growth", 
+    "publish": "2002-06-07T13:45:05Z", 
+    "summary": "Approaches from statistical physics are applied to investigate the structure\nof network models whose growth rules mimic aspects of the evolution of the\nworld-wide web. We first determine the degree distribution of a growing network\nin which nodes are introduced one at a time and attach to an earlier node of\ndegree k with rate A_ksim k^gamma. Very different behaviors arise for gamma<1,\ngamma=1, and gamma>1. We also analyze the degree distribution of a\nheterogeneous network, the joint age-degree distribution, the correlation\nbetween degrees of neighboring nodes, as well as global network properties. An\nextension to directed networks is then presented. By tuning model parameters to\nreasonable values, we obtain distinct power-law forms for the in-degree and\nout-degree distributions with exponents that are in good agreement with current\ndata for the web. Finally, a general growth process with independent\nintroduction of nodes and links is investigated. This leads to independently\ngrowing sub-networks that may coalesce with other sub-networks. General results\nfor both the size distribution of sub-networks and the degree distribution are\nobtained.", 
+    "link": "http://arxiv.org/pdf/cs/0206011v1", 
+    "arxiv-id": "cs/0206011v1"
+},{
+    "category": "cs.NI", 
+    "author": "Burc Gokden", 
+    "title": "Semiclassical Quantum Computation Solutions to the Count to Infinity   Problem: A Brief Discussion", 
+    "publish": "2003-05-27T15:43:08Z", 
+    "summary": "In this paper we briefly define distance vector routing algorithms, their\nadvantages and possible drawbacks. On these possible drawbacks, currently\nwidely used methods split horizon and poisoned reverse are defined and\ncompared. The count to infinity problem is specified and it is classified to be\na halting problem and a proposition stating that entangled states used in\nquantum computation can be used to handle this problem is examined. Several\nsolutions to this problem by using entangled states are proposed and a very\nbrief introduction to entangled states is presented.", 
+    "link": "http://arxiv.org/pdf/cs/0305045v2", 
+    "arxiv-id": "cs/0305045v2"
+},{
+    "category": "cs.NE", 
+    "author": "Vigen A. Geodakian", 
+    "title": "Why Two Sexes?", 
+    "publish": "2004-08-01T15:04:53Z", 
+    "summary": "Evolutionary role of the separation into two sexes from a cyberneticist's\npoint of view. [I translated this 1965 article from Russian \"Nauka i Zhizn\"\n(Science and Life) in 1988. In a popular form, the article puts forward several\nuseful ideas not all of which even today are necessarily well known or widely\naccepted. Boris Lubachevsky, bdl@bell-labs.com ]", 
+    "link": "http://arxiv.org/pdf/cs/0408006v1", 
+    "arxiv-id": "cs/0408006v1"
+},{
+    "category": "cs.MA", 
+    "author": "Russ Abbott", 
+    "title": "Emergence Explained", 
+    "publish": "2006-02-12T22:11:14Z", 
+    "summary": "Emergence (macro-level effects from micro-level causes) is at the heart of\nthe conflict between reductionism and functionalism. How can there be\nautonomous higher level laws of nature (the functionalist claim) if everything\ncan be reduced to the fundamental forces of physics (the reductionist\nposition)? We cut through this debate by applying a computer science lens to\nthe way we view nature. We conclude (a) that what functionalism calls the\nspecial sciences (sciences other than physics) do indeed study autonomous laws\nand furthermore that those laws pertain to real higher level entities but (b)\nthat interactions among such higher-level entities is epiphenomenal in that\nthey can always be reduced to primitive physical forces. In other words,\nepiphenomena, which we will identify with emergent phenomena, do real\nhigher-level work. The proposed perspective provides a framework for\nunderstanding many thorny issues including the nature of entities, stigmergy,\nthe evolution of complexity, phase transitions, supervenience, and downward\nentailment. We also discuss some practical considerations pertaining to systems\nof systems and the limitations of modeling.", 
+    "link": "http://arxiv.org/pdf/cs/0602045v1", 
+    "arxiv-id": "cs/0602045v1"
+},{
+    "category": "cs.DL", 
+    "author": "Herbert Van de Sompel", 
+    "title": "Mapping the Bid Behavior of Conference Referees", 
+    "publish": "2006-05-24T16:45:08Z", 
+    "summary": "The peer-review process, in its present form, has been repeatedly criticized.\nOf the many critiques ranging from publication delays to referee bias, this\npaper will focus specifically on the issue of how submitted manuscripts are\ndistributed to qualified referees. Unqualified referees, without the proper\nknowledge of a manuscript's domain, may reject a perfectly valid study or\npotentially more damaging, unknowingly accept a faulty or fraudulent result. In\nthis paper, referee competence is analyzed with respect to referee bid data\ncollected from the 2005 Joint Conference on Digital Libraries (JCDL). The\nanalysis of the referee bid behavior provides a validation of the intuition\nthat referees are bidding on conference submissions with regards to the subject\ndomain of the submission. Unfortunately, this relationship is not strong and\ntherefore suggests that there exists other factors beyond subject domain that\nmay be influencing referees to bid for particular submissions.", 
+    "link": "http://arxiv.org/pdf/cs/0605110v1", 
+    "arxiv-id": "cs/0605110v1"
+},{
+    "category": "math.ST", 
+    "author": "Igor Podlubny", 
+    "title": "A note on comparison of scientific impact expressed by the number of   citations in different fields of science", 
+    "publish": "2004-10-27T16:02:30Z", 
+    "summary": "Citation distributions for 1992, 1994, 1996, 1997, 1999, and 2001, which were\npublished in the 2004 report of the National Science Foundation, USA, are\nanalyzed. It is shown that the ratio of the total number of citations of any\ntwo broad fields of science remains close to constant over the analyzed years.\nBased on this observation, normalization of total numbers of citations with\nrespect to the number of citations in mathematics is suggested as a tool for\ncomparing scientific impact expressed by the number of citations in different\nfields of science.", 
+    "link": "http://arxiv.org/pdf/math/0410574v2", 
+    "arxiv-id": "math/0410574v2"
+},{
+    "category": "math.ST", 
+    "author": "Katarina Kassayova", 
+    "title": "Towards a better list of citation superstars: compiling a   multidisciplinary list of highly cited researchers", 
+    "publish": "2006-03-01T15:26:33Z", 
+    "summary": "A new approach to producing multidisciplinary lists of highly cited\nresearchers is described and used for compiling a multidisciplinary list of\nhighly cited researchers. This approach is essentially related to the recently\ndiscovered law of the constant ratios (Podlubny, 2004) and gives a\nbetter-balanced representation of different scientific fields.", 
+    "link": "http://arxiv.org/pdf/math/0603024v2", 
+    "arxiv-id": "math/0603024v2"
+},{
+    "category": "nlin.AO", 
+    "author": "Carlos Gershenson", 
+    "title": "A General Methodology for Designing Self-Organizing Systems", 
+    "publish": "2005-05-03T19:23:35Z", 
+    "summary": "Our technologies complexify our environments. Thus, new technologies need to\ndeal with more and more complexity. Several efforts have been made to deal with\nthis complexity using the concept of self-organization. However, in order to\npromote its use and understanding, we must first have a pragmatic understanding\nof complexity and self-organization. This paper presents a conceptual framework\nfor speaking about self-organizing systems. The aim is to provide a methodology\nuseful for designing and controlling systems developed to solve complex\nproblems. First, practical notions of complexity and self-organization are\ngiven. Then, starting from the agent metaphor, a conceptual framework is\npresented. This provides formal ways of speaking about \"satisfaction\" of\nelements and systems. The main premise of the methodology claims that reducing\nthe \"friction\" or \"interference\" of interactions between elements of a system\nwill result in a higher \"satisfaction\" of the system, i.e. better performance.\nThe methodology discusses different ways in which this can be achieved. A case\nstudy on self-organizing traffic lights illustrates the ideas presented in the\npaper.", 
+    "link": "http://arxiv.org/pdf/nlin/0505009v3", 
+    "arxiv-id": "nlin/0505009v3"
+},{
+    "category": "physics.soc-ph", 
+    "author": "Alessandro Flammini", 
+    "title": "Optimal Traffic Networks", 
+    "publish": "2006-01-26T09:08:51Z", 
+    "summary": "Inspired by studies on the airports' network and the physical Internet, we\npropose a general model of weighted networks via an optimization principle. The\ntopology of the optimal network turns out to be a spanning tree that minimizes\na combination of topological and metric quantities. It is characterized by a\nstrongly heterogeneous traffic, non-trivial correlations between distance and\ntraffic and a broadly distributed centrality. A clear spatial hierarchical\norganization, with local hubs distributing traffic in smaller regions, emerges\nas a result of the optimization. Varying the parameters of the cost function,\ndifferent classes of trees are recovered, including in particular the minimum\nspanning tree and the shortest path tree. These results suggest that a\nvariational approach represents an alternative and possibly very meaningful\npath to the study of the structure of complex weighted networks.", 
+    "link": "http://arxiv.org/pdf/physics/0601203v2", 
+    "arxiv-id": "physics/0601203v2"
+},{
+    "category": "cs.DL", 
+    "author": "Alberto Pepe", 
+    "title": "On the relationship between the structural and socioacademic communities   of a coauthorship network", 
+    "publish": "2008-01-15T17:26:20Z", 
+    "summary": "This article presents a study that compares detected structural communities\nin a coauthorship network to the socioacademic characteristics of the scholars\nthat compose the network. The coauthorship network was created from the\nbibliographic record of a multi-institution, interdisciplinary research group\nfocused on the study of sensor networks and wireless communication. Four\ndifferent community detection algorithms were employed to assign a structural\ncommunity to each scholar in the network: leading eigenvector, walktrap, edge\nbetweenness and spinglass. Socioacademic characteristics were gathered from the\nscholars and include such information as their academic department, academic\naffiliation, country of origin, and academic position. A Pearson's $\\chi^2$\ntest, with a simulated Monte Carlo, revealed that structural communities best\nrepresent groupings of individuals working in the same academic department and\nat the same institution. A generalization of this result suggests that, even in\ninterdisciplinary, multi-institutional research groups, coauthorship is\nprimarily driven by departmental and institutional affiliation.", 
+    "link": "http://arxiv.org/pdf/0801.2345v3", 
+    "arxiv-id": "0801.2345v3"
+},{
+    "category": "cs.CR", 
+    "author": "Bart Jacobs", 
+    "title": "Increased security through open source", 
+    "publish": "2008-01-25T12:06:48Z", 
+    "summary": "In this paper we discuss the impact of open source on both the security and\ntransparency of a software system. We focus on the more technical aspects of\nthis issue, combining and extending arguments developed over the years. We\nstress that our discussion of the problem only applies to software for general\npurpose computing systems. For embedded systems, where the software usually\ncannot easily be patched or upgraded, different considerations may apply.", 
+    "link": "http://arxiv.org/pdf/0801.3924v1", 
+    "arxiv-id": "0801.3924v1"
+},{
+    "category": "cs.GL", 
+    "author": "Yuri Gurevich", 
+    "title": "When are two algorithms the same?", 
+    "publish": "2008-11-05T20:38:22Z", 
+    "summary": "People usually regard algorithms as more abstract than the programs that\nimplement them. The natural way to formalize this idea is that algorithms are\nequivalence classes of programs with respect to a suitable equivalence\nrelation. We argue that no such equivalence relation exists.", 
+    "link": "http://arxiv.org/pdf/0811.0811v1", 
+    "arxiv-id": "0811.0811v1"
+},{
+    "category": "cs.IT", 
+    "author": "Sanjukta Bhanja", 
+    "title": "Maximum Error Modeling for Fault-Tolerant Computation using Maximum a   posteriori (MAP) Hypothesis", 
+    "publish": "2009-06-17T19:23:28Z", 
+    "summary": "The application of current generation computing machines in safety-centric\napplications like implantable biomedical chips and automobile safety has\nimmensely increased the need for reviewing the worst-case error behavior of\ncomputing devices for fault-tolerant computation. In this work, we propose an\nexact probabilistic error model that can compute the maximum error over all\npossible input space in a circuit specific manner and can handle various types\nof structural dependencies in the circuit. We also provide the worst-case input\nvector, which has the highest probability to generate an erroneous output, for\nany given logic circuit. We also present a study of circuit-specific error\nbounds for fault-tolerant computation in heterogeneous circuits using the\nmaximum error computed for each circuit. We model the error estimation problem\nas a maximum a posteriori (MAP) estimate, over the joint error probability\nfunction of the entire circuit, calculated efficiently through an intelligent\nsearch of the entire input space using probabilistic traversal of a binary join\ntree using Shenoy-Shafer algorithm. We demonstrate this model using MCNC and\nISCAS benchmark circuits and validate it using an equivalent HSpice model. Both\nresults yield the same worst-case input vectors and the highest % difference of\nour error model over HSpice is just 1.23%. We observe that the maximum error\nprobabilities are significantly larger than the average error probabilities,\nand provides a much tighter error bounds for fault-tolerant computation. We\nalso find that the error estimates depend on the specific circuit structure and\nthe maximum error probabilities are sensitive to the individual gate failure\nprobabilities.", 
+    "link": "http://arxiv.org/pdf/0906.3282v3", 
+    "arxiv-id": "0906.3282v3"
+},{
+    "category": "cs.AI", 
+    "author": "Marko A. Rodriguez", 
+    "title": "A Reflection on the Structure and Process of the Web of Data", 
+    "publish": "2009-08-04T01:59:07Z", 
+    "summary": "The Web community has introduced a set of standards and technologies for\nrepresenting, querying, and manipulating a globally distributed data structure\nknown as the Web of Data. The proponents of the Web of Data envision much of\nthe world's data being interrelated and openly accessible to the general\npublic. This vision is analogous in many ways to the Web of Documents of common\nknowledge, but instead of making documents and media openly accessible, the\nfocus is on making data openly accessible. In providing data for public use,\nthere has been a stimulated interest in a movement dubbed Open Data. Open Data\nis analogous in many ways to the Open Source movement. However, instead of\nfocusing on software, Open Data is focused on the legal and licensing issues\naround publicly exposed data. Together, various technological and legal tools\nare laying the groundwork for the future of global-scale data management on the\nWeb. As of today, in its early form, the Web of Data hosts a variety of data\nsets that include encyclopedic facts, drug and protein data, metadata on music,\nbooks and scholarly articles, social network representations, geospatial\ninformation, and many other types of information. The size and diversity of the\nWeb of Data is a demonstration of the flexibility of the underlying standards\nand the overall feasibility of the project as a whole. The purpose of this\narticle is to provide a review of the technological underpinnings of the Web of\nData as well as some of the hurdles that need to be overcome if the Web of Data\nis to emerge as the defacto medium for data representation, distribution, and\nultimately, processing.", 
+    "link": "http://arxiv.org/pdf/0908.0373v1", 
+    "arxiv-id": "0908.0373v1"
+},{
+    "category": "cs.NI", 
+    "author": "Jon Crowcroft", 
+    "title": "Planet-scale Human Mobility Measurement", 
+    "publish": "2009-09-18T16:27:51Z", 
+    "summary": "Research into, and design and construction of mobile systems and algorithms\nrequires access to large-scale mobility data. Unfortunately, the wireless and\nmobile research community lacks such data. For instance, the largest available\nhuman contact traces contain only 100 nodes with very sparse connectivity,\nlimited by experimental logistics. In this paper we pose a challenge to the\ncommunity: how can we collect mobility data from billions of human\nparticipants? We re-assert the importance of large-scale datasets in\ncommunication network design, and claim that this could impact fundamental\nstudies in other academic disciplines. In effect, we argue that planet-scale\nmobility measurements can help to save the world. For example, through\nunderstanding large-scale human mobility, we can track and model and contain\nthe spread of epidemics of various kinds.", 
+    "link": "http://arxiv.org/pdf/0909.3481v1", 
+    "arxiv-id": "0909.3481v1"
+},{
+    "category": "cs.IR", 
+    "author": "Giuseppe Mangioni", 
+    "title": "Search for overlapped communities by parallel genetic algorithms", 
+    "publish": "2009-12-04T20:54:07Z", 
+    "summary": "In the last decade the broad scope of complex networks has led to a rapid\nprogress. In this area a particular interest has the study of community\nstructures. The analysis of this type of structure requires the formalization\nof the intuitive concept of community and the definition of indices of goodness\nfor the obtained results. A lot of algorithms has been presented to reach this\ngoal. In particular, an interesting problem is the search of overlapped\ncommunities and it is field seems very interesting a solution based on the use\nof genetic algorithms. The approach discusses in this paper is based on a\nparallel implementation of a genetic algorithm and shows the performance\nbenefits of this solution.", 
+    "link": "http://arxiv.org/pdf/0912.0913v2", 
+    "arxiv-id": "0912.0913v2"
+},{
+    "category": "math.HO", 
+    "author": "Joseph F. Grcar", 
+    "title": "Education for Computational Science and Engineering", 
+    "publish": "2011-02-23T02:31:18Z", 
+    "summary": "Computational science and engineering (CSE) has been misunderstood to advance\nwith the construction of enormous computers. To the contrary, the historical\nrecord demonstrates that innovations in CSE come from improvements to the\nmathematics embodied by computer programs. Whether scientists and engineers\nbecome inventors who make these breakthroughs depends on circumstances and the\ninterdisciplinary extent of their educations. The USA currently has the largest\nCSE professorate, but the data suggest this prominence is ephemeral.", 
+    "link": "http://arxiv.org/pdf/1102.4651v3", 
+    "arxiv-id": "1102.4651v3"
+},{
+    "category": "cs.LO", 
+    "author": "Zoran Majkic", 
+    "title": "First-order Logic: Modality and Intensionality", 
+    "publish": "2011-03-03T13:32:59Z", 
+    "summary": "Contemporary use of the term 'intension' derives from the traditional logical\nFrege-Russell's doctrine that an idea (logic formula) has both an extension and\nan intension. From the Montague's point of view, the meaning of an idea can be\nconsidered as particular extensions in different possible worlds. In this paper\nwe analyze the minimal intensional semantic enrichment of the syntax of the FOL\nlanguage, by unification of different views: Tarskian extensional semantics of\nthe FOL, modal interpretation of quantifiers, and a derivation of the Tarskian\ntheory of truth from unified semantic theory based on a single meaning\nrelation. We show that not all modal predicate logics are intensional, and that\nan equivalent modal Kripke's interpretation of logic quantifiers in FOL results\nin a particular pure extensional modal predicate logic (as is the standard\nTarskian semantics of the FOL). This minimal intensional enrichment is obtained\nby adopting the theory of properties, relations and propositions (PRP) as the\nuniverse or domain of the FOL, composed by particulars and universals (or\nconcepts), with the two-step interpretation of the FOL that eliminates the weak\npoints of the Montague's intensional semantics. Differently from the Bealer's\nintensional FOL, we show that it is not necessary the introduction of the\nintensional abstraction in order to obtain the full intensional properties of\nthe FOL. Final result of this paper is represented by the commutative\nhomomorphic diagram that holds in each given possible world of this new\nintensional FOL, from the free algebra of the FOL syntax, toward its\nintensional algebra of concepts, and, successively, to the new extensional\nrelational algebra (different from Cylindric algebras), and we show that it\ncorresponds to the Tarski's interpretation of the standard extensional FOL in\nthis possible world.", 
+    "link": "http://arxiv.org/pdf/1103.0680v1", 
+    "arxiv-id": "1103.0680v1"
+},{
+    "category": "math.HO", 
+    "author": "Erika Rogers", 
+    "title": "Gender Gaps in the Mathematical Sciences: The Creativity Factor", 
+    "publish": "2011-12-17T20:20:36Z", 
+    "summary": "This article presents an overview, and recent history, of studies of gender\ngaps in the mathematically-intensive sciences. Included are several statistics\nabout gender differences in science, and about public resources aimed at\naddressing them. We then examine the role that gender differences in creativity\nplay in explaining the recent and current gender differences in the\nmathematical sciences, and identify several constructive suggestions aimed at\nimproving analytical creativity output in research institutions.", 
+    "link": "http://arxiv.org/pdf/1112.4082v4", 
+    "arxiv-id": "1112.4082v4"
+},{
+    "category": "quant-ph", 
+    "author": "Scott Aaronson", 
+    "title": "The Ghost in the Quantum Turing Machine", 
+    "publish": "2013-06-02T00:36:34Z", 
+    "summary": "In honor of Alan Turing's hundredth birthday, I unwisely set out some\nthoughts about one of Turing's obsessions throughout his life, the question of\nphysics and free will. I focus relatively narrowly on a notion that I call\n\"Knightian freedom\": a certain kind of in-principle physical unpredictability\nthat goes beyond probabilistic unpredictability. Other, more metaphysical\naspects of free will I regard as possibly outside the scope of science. I\nexamine a viewpoint, suggested independently by Carl Hoefer, Cristi Stoica, and\neven Turing himself, that tries to find scope for \"freedom\" in the universe's\nboundary conditions rather than in the dynamical laws. Taking this viewpoint\nseriously leads to many interesting conceptual problems. I investigate how far\none can go toward solving those problems, and along the way, encounter (among\nother things) the No-Cloning Theorem, the measurement problem, decoherence,\nchaos, the arrow of time, the holographic principle, Newcomb's paradox,\nBoltzmann brains, algorithmic information theory, and the Common Prior\nAssumption. I also compare the viewpoint explored here to the more radical\nspeculations of Roger Penrose. The result of all this is an unusual perspective\non time, quantum mechanics, and causation, of which I myself remain skeptical,\nbut which has several appealing features. Among other things, it suggests\ninteresting empirical questions in neuroscience, physics, and cosmology; and\ntakes a millennia-old philosophical debate into some underexplored territory.", 
+    "link": "http://arxiv.org/pdf/1306.0159v2", 
+    "arxiv-id": "1306.0159v2"
+},{
+    "category": "cs.GL", 
+    "author": "Greg Wilson", 
+    "title": "Software Carpentry: Lessons Learned", 
+    "publish": "2013-07-20T18:44:29Z", 
+    "summary": "Over the last 15 years, Software Carpentry has evolved from a week-long\ntraining course at the US national laboratories into a worldwide volunteer\neffort to raise standards in scientific computing. This article explains what\nwe have learned along the way the challenges we now face, and our plans for the\nfuture.", 
+    "link": "http://arxiv.org/pdf/1307.5448v2", 
+    "arxiv-id": "1307.5448v2"
+},{
+    "category": "cs.CL", 
+    "author": "Margaret Mitchell", 
+    "title": "A Survey of Current Datasets for Vision and Language Research", 
+    "publish": "2015-06-23T00:59:27Z", 
+    "summary": "Integrating vision and language has long been a dream in work on artificial\nintelligence (AI). In the past two years, we have witnessed an explosion of\nwork that brings together vision and language from images to videos and beyond.\nThe available corpora have played a crucial role in advancing this area of\nresearch. In this paper, we propose a set of quality metrics for evaluating and\nanalyzing the vision & language datasets and categorize them accordingly. Our\nanalyses show that the most recent datasets have been using more complex\nlanguage and more abstract concepts, however, there are different strengths and\nweaknesses in each.", 
+    "link": "http://arxiv.org/pdf/1506.06833v2", 
+    "arxiv-id": "1506.06833v2"
+},{
+    "category": "cs.DC", 
+    "author": "Magnus Jahre", 
+    "title": "A Study of Energy and Locality Effects using Space-filling Curves", 
+    "publish": "2016-06-20T14:18:25Z", 
+    "summary": "The cost of energy is becoming an increasingly important driver for the\noperating cost of HPC systems, adding yet another facet to the challenge of\nproducing efficient code. In this paper, we investigate the energy implications\nof trading computation for locality using Hilbert and Morton space-filling\ncurves with dense matrix-matrix multiplication. The advantage of these curves\nis that they exhibit an inherent tiling effect without requiring specific\narchitecture tuning. By accessing the matrices in the order determined by the\nspace-filling curves, we can trade computation for locality. The index\ncomputation overhead of the Morton curve is found to be balanced against its\nlocality and energy efficiency, while the overhead of the Hilbert curve\noutweighs its improvements on our test system.", 
+    "link": "http://arxiv.org/pdf/1606.06133v1", 
+    "arxiv-id": "1606.06133v1"
+},{
+    "category": "cs.AI", 
+    "author": "Toby Walsh", 
+    "title": "Ethical Considerations in Artificial Intelligence Courses", 
+    "publish": "2017-01-26T16:52:22Z", 
+    "summary": "The recent surge in interest in ethics in artificial intelligence may leave\nmany educators wondering how to address moral, ethical, and philosophical\nissues in their AI courses. As instructors we want to develop curriculum that\nnot only prepares students to be artificial intelligence practitioners, but\nalso to understand the moral, ethical, and philosophical impacts that\nartificial intelligence will have on society. In this article we provide\npractical case studies and links to resources for use by AI educators. We also\nprovide concrete suggestions on how to integrate AI ethics into a general\nartificial intelligence course and how to teach a stand-alone artificial\nintelligence ethics course.", 
+    "link": "http://arxiv.org/pdf/1701.07769v1", 
+    "arxiv-id": "1701.07769v1"
+},{
+    "category": "quant-ph", 
+    "author": "Alexandre M. Zagoskin", 
+    "title": "Operation of universal gates in a DXD superconducting solid state   quantum computer", 
+    "publish": "1999-05-13T21:44:55Z", 
+    "summary": "We demonstrate that complete set of gates can be realized in a DXD\nsuperconducting solid state quantum computer (quamputer), thereby proving its\nuniversality.", 
+    "link": "http://arxiv.org/pdf/quant-ph/9905043v2", 
+    "arxiv-id": "quant-ph/9905043v2"
+},{
+    "category": "cs.AI", 
+    "author": "Mario Fritz", 
+    "title": "Towards a Visual Turing Challenge", 
+    "publish": "2014-10-29T15:38:29Z", 
+    "summary": "As language and visual understanding by machines progresses rapidly, we are\nobserving an increasing interest in holistic architectures that tightly\ninterlink both modalities in a joint learning and inference process. This trend\nhas allowed the community to progress towards more challenging and open tasks\nand refueled the hope at achieving the old AI dream of building machines that\ncould pass a turing test in open domains. In order to steadily make progress\ntowards this goal, we realize that quantifying performance becomes increasingly\ndifficult. Therefore we ask how we can precisely define such challenges and how\nwe can evaluate different algorithms on this open tasks? In this paper, we\nsummarize and discuss such challenges as well as try to give answers where\nappropriate options are available in the literature. We exemplify some of the\nsolutions on a recently presented dataset of question-answering task based on\nreal-world indoor images that establishes a visual turing challenge. Finally,\nwe argue despite the success of unique ground-truth annotation, we likely have\nto step away from carefully curated dataset and rather rely on 'social\nconsensus' as the main driving force to create suitable benchmarks. Providing\ncoverage in this inherently ambiguous output space is an emerging challenge\nthat we face in order to make quantifiable progress in this area.", 
+    "link": "http://arxiv.org/pdf/1410.8027v3", 
+    "arxiv-id": "1410.8027v3"
+},{
+    "category": "cs.NA", 
+    "author": "B. Moa", 
+    "title": "Using Propagation for Solving Complex Arithmetic Constraints", 
+    "publish": "2003-09-11T18:37:09Z", 
+    "summary": "Solving a system of nonlinear inequalities is an important problem for which\nconventional numerical analysis has no satisfactory method. With a\nbox-consistency algorithm one can compute a cover for the solution set to\narbitrarily close approximation. Because of difficulties in the use of\npropagation for complex arithmetic expressions, box consistency is computed\nwith interval arithmetic. In this paper we present theorems that support a\nsimple modification of propagation that allows complex arithmetic expressions\nto be handled efficiently. The version of box consistency that is obtained in\nthis way is stronger than when interval arithmetic is used.", 
+    "link": "http://arxiv.org/pdf/cs/0309018v1", 
+    "arxiv-id": "cs/0309018v1"
+},{
+    "category": "cs.GL", 
+    "author": "Roger Penrose", 
+    "title": "Foreword: A Computable Universe, Understanding Computation and Exploring   Nature As Computation", 
+    "publish": "2012-05-25T21:04:53Z", 
+    "summary": "I am most honoured to have the privilege to present the Foreword to this\nfascinating and wonderfully varied collection of contributions, concerning the\nnature of computation and of its deep connection with the operation of those\nbasic laws, known or yet unknown, governing the universe in which we live.\nFundamentally deep questions are indeed being grappled with here, and the fact\nthat we find so many different viewpoints is something to be expected, since,\nin truth, we know little about the foundational nature and origins of these\nbasic laws, despite the immense precision that we so often find revealed in\nthem. Accordingly, it is not surprising that within the viewpoints expressed\nhere is some unabashed speculation, occasionally bordering on just partially\njustified guesswork, while elsewhere we find a good deal of precise reasoning,\nsome in the form of rigorous mathematical theorems. Both of these are as should\nbe, for without some inspired guesswork we cannot have new ideas as to where\nlook in order to make genuinely new progress, and without precise mathematical\nreasoning, no less than in precise observation, we cannot know when we are\nright -- or, more usually, when we are wrong.", 
+    "link": "http://arxiv.org/pdf/1205.5823v1", 
+    "arxiv-id": "1205.5823v1"
+}]

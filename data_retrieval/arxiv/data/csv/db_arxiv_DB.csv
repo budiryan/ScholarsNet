@@ -1,0 +1,1000 @@
+cs/9809005v1,1998-09-02T01:49:32Z,"The Five-Minute Rule Ten Years Later, and Other Computer Storage Rules   of Thumb",Goetz Graefe,cs.DB,http://arxiv.org/pdf/cs/9809005v1
+cs/9809023v2,1998-09-17T14:41:07Z,Similarity-Based Queries for Time Series Data,Alberto Mendelzon,cs.DB,http://arxiv.org/pdf/cs/9809023v2
+cs/9809033v2,1998-09-18T21:24:23Z,Efficient Retrieval of Similar Time Sequences Using DFT,Alberto Mendelzon,cs.DB,http://arxiv.org/pdf/cs/9809033v2
+cs/9909016v1,1999-09-21T21:20:20Z,Least expected cost query optimization: an exercise in utility,Praveen Seshadri,cs.DB,http://arxiv.org/pdf/cs/9909016v1
+cs/9910021v1,1999-10-25T16:30:20Z,Efficient and Extensible Algorithms for Multi Query Optimization,Siddhesh Bhobe,cs.DB,http://arxiv.org/pdf/cs/9910021v1
+cs/9912015v1,1999-12-22T15:25:55Z,Comparative Analysis of Five XML Query Languages,Stefano Ceri,cs.DB,http://arxiv.org/pdf/cs/9912015v1
+cs/0003005v1,2000-03-02T08:15:21Z,"Don't Trash your Intermediate Results, Cache 'em",S. Sudarshan,cs.DB,http://arxiv.org/pdf/cs/0003005v1
+cs/0003006v1,2000-03-02T08:05:24Z,Materialized View Selection and Maintenance Using Multi-Query   Optimization,S. Sudarshan,cs.DB,http://arxiv.org/pdf/cs/0003006v1
+cs/0007044v2,2000-07-31T20:15:08Z,Managing Periodically Updated Data in Relational Databases: A Stochastic   Modeling Approach,Jonathan Eckstein,cs.DB,http://arxiv.org/pdf/cs/0007044v2
+cs/0011024v1,2000-11-17T12:16:43Z,Algorithms for Rewriting Aggregate Queries Using Views,Alexander Serebrenik,cs.DB,http://arxiv.org/pdf/cs/0011024v1
+cs/0011041v1,2000-11-27T09:15:08Z,EquiX---A Search and Query Language for XML,Alexander Serebrenik,cs.DB,http://arxiv.org/pdf/cs/0011041v1
+cs/0103004v1,2001-03-02T20:00:16Z,Rapid Application Evolution and Integration Through Document   Metamorphosis,James D. Thornton,cs.DB,http://arxiv.org/pdf/cs/0103004v1
+cs/0106055v1,2001-06-28T06:02:46Z,A Seamless Integration of Association Rule Mining with Database Systems,Yudho Giri Sucahyo,cs.DB,http://arxiv.org/pdf/cs/0106055v1
+cs/0109084v1,2001-09-24T20:42:05Z,The Internet and Community Networks: Case Studies of Five U.S. Cities,John B. Horrigan,cs.DB,http://arxiv.org/pdf/cs/0109084v1
+cs/0110020v1,2001-10-08T06:29:14Z,Structuring Business Metadata in Data Warehouse Systems for Effective   Business Support,N. L. Sarda,cs.DB,http://arxiv.org/pdf/cs/0110020v1
+cs/0110044v1,2001-10-22T08:03:50Z,EquiX--A Search and Query Language for XML,Alexander Serebrenik,cs.DB,http://arxiv.org/pdf/cs/0110044v1
+cs/0110052v1,2001-10-25T08:55:57Z,Mragyati : A System for Keyword-based Searching in Databases,Ankur Jain,cs.DB,http://arxiv.org/pdf/cs/0110052v1
+cs/0111004v1,2001-11-01T22:07:01Z,The Relational Database Aspects of Argonne's ATLAS Control System,S. L. Dean,cs.DB,http://arxiv.org/pdf/cs/0111004v1
+cs/0111006v1,2001-11-05T18:14:16Z,Proliferation of SDDS Support for Various Platforms and Languages,Robert Soliday,cs.DB,http://arxiv.org/pdf/cs/0111006v1
+cs/0202035v1,2002-02-21T05:23:51Z,Sprinkling Selections over Join DAGs for Efficient Query Optimization,Kamalakar Karlapalem,cs.DB,http://arxiv.org/pdf/cs/0202035v1
+cs/0202037v2,2002-02-25T19:35:12Z,Towards practical meta-querying,Gottfried Vossen,cs.DB,http://arxiv.org/pdf/cs/0202037v2
+cs/0204010v1,2002-04-05T22:24:33Z,On the Computational Complexity of Consistent Query Answers,Jerzy Marcinkowski,cs.DB,http://arxiv.org/pdf/cs/0204010v1
+cs/0205060v1,2002-05-23T14:15:55Z,Optimizing Queries Using a Meta-level Database,Christoph Koch,cs.DB,http://arxiv.org/pdf/cs/0205060v1
+cs/0207093v1,2002-07-27T00:46:50Z,Preference Queries,Jan Chomicki,cs.DB,http://arxiv.org/pdf/cs/0207093v1
+cs/0207094v1,2002-07-26T21:18:50Z,Answer Sets for Consistent Query Answering in Inconsistent Databases,Jan Chomicki,cs.DB,http://arxiv.org/pdf/cs/0207094v1
+cs/0211020v2,2002-11-15T20:01:54Z,Monadic Datalog and the Expressive Power of Languages for Web   Information Extraction,Christoph Koch,cs.DB,http://arxiv.org/pdf/cs/0211020v2
+cs/0212004v1,2002-12-05T16:23:35Z,Minimal-Change Integrity Maintenance Using Tuple Deletions,Jerzy Marcinkowski,cs.DB,http://arxiv.org/pdf/cs/0212004v1
+cs/0212017v1,2002-12-09T17:29:12Z,Classes of Spatiotemporal Objects and Their Closure Properties,Peter Revesz,cs.DB,http://arxiv.org/pdf/cs/0212017v1
+cs/0212051v1,2002-12-23T10:26:36Z,ExploitingWeb Service Semantics: Taxonomies vs. Ontologies,Ibrahim Cingil,cs.DB,http://arxiv.org/pdf/cs/0212051v1
+cs/0212052v1,2002-12-25T15:15:16Z,Improving the Functionality of UDDI Registries through Web Service   Semantics,Yildiray Kabak,cs.DB,http://arxiv.org/pdf/cs/0212052v1
+cs/0301009v1,2003-01-13T05:34:39Z,A Script Language for Data Integration in Database,Qingguo Zheng,cs.DB,http://arxiv.org/pdf/cs/0301009v1
+cs/0301017v1,2003-01-20T00:13:18Z,Completeness and Decidability Properties for Functional Dependencies in   XML,Jixue Liu,cs.DB,http://arxiv.org/pdf/cs/0301017v1
+cs/0305038v1,2003-05-21T15:59:56Z,The Evolution of the Computerized Database,Nancy Hartline Bercich,cs.DB,http://arxiv.org/pdf/cs/0305038v1
+cs/0306006v2,2003-05-30T23:08:44Z,Experience with the Open Source based implementation for ATLAS   Conditions Data Management System,N. Barros,cs.DB,http://arxiv.org/pdf/cs/0306006v2
+cs/0306013v1,2003-06-02T09:38:47Z,Transparent Persistence with Java Data Objects,Julius Hrivnac,cs.DB,http://arxiv.org/pdf/cs/0306013v1
+cs/0306019v1,2003-06-04T17:38:23Z,Relational databases for data management in PHENIX,D. Morrison,cs.DB,http://arxiv.org/pdf/cs/0306019v1
+cs/0306020v2,2003-06-04T19:22:52Z,On the Verge of One Petabyte - the Story Behind the BaBar Database   System,David Quarrie,cs.DB,http://arxiv.org/pdf/cs/0306020v2
+cs/0306034v1,2003-06-07T15:09:16Z,A ROOT/IO Based Software Framework for CMS,William Tanenbaum,cs.DB,http://arxiv.org/pdf/cs/0306034v1
+cs/0306056v1,2003-06-12T17:24:16Z,Twelve Ways to Build CMS Crossings from ROOT Files,C. Charlot,cs.DB,http://arxiv.org/pdf/cs/0306056v1
+cs/0306065v1,2003-06-13T16:21:53Z,"POOL File Catalog, Collection and Metadata Components",Z. Xie,cs.DB,http://arxiv.org/pdf/cs/0306065v1
+cs/0306066v1,2003-06-13T14:33:53Z,The COMPASS Event Store in 2002,Massimo Lamanna,cs.DB,http://arxiv.org/pdf/cs/0306066v1
+cs/0306077v1,2003-06-13T22:10:36Z,The TESLA Requirements Database,Kathrin Lappe,cs.DB,http://arxiv.org/pdf/cs/0306077v1
+cs/0306079v1,2003-06-13T23:04:10Z,Integrated Information Management for TESLA,Andrea Robben,cs.DB,http://arxiv.org/pdf/cs/0306079v1
+cs/0306081v1,2003-06-14T00:42:30Z,An on-line Integrated Bookkeeping: electronic run log book and Meta-Data   Repository for ATLAS,Yu. Ryabov PNPI,cs.DB,http://arxiv.org/pdf/cs/0306081v1
+cs/0307015v2,2003-07-07T14:07:59Z,"Architecture of an Open-Sourced, Extensible Data Warehouse Builder:   InterBase 6 Data Warehouse Builder (IB-DWB)",Chi Wai So,cs.DB,http://arxiv.org/pdf/cs/0307015v2
+cs/0307073v1,2003-07-31T11:18:51Z,Search and Navigation in Relational Databases,Kevin Keenoy,cs.DB,http://arxiv.org/pdf/cs/0307073v1
+cs/0309011v1,2003-09-08T19:57:46Z,Indexing of Tables Referencing Complex Structures,Hakon Gudbjartsson,cs.DB,http://arxiv.org/pdf/cs/0309011v1
+cs/0310006v1,2003-10-06T05:42:49Z,The Lowell Database Research Self Assessment,Stan Zdonik,cs.DB,http://arxiv.org/pdf/cs/0310006v1
+cs/0310012v1,2003-10-08T00:18:31Z,A Formal Comparison of Visual Web Wrapper Generators,Christoph Koch,cs.DB,http://arxiv.org/pdf/cs/0310012v1
+cs/0310028v1,2003-10-15T16:07:56Z,Providing Diversity in K-Nearest Neighbor Query Results,Jayant R. Haritsa,cs.DB,http://arxiv.org/pdf/cs/0310028v1
+cs/0310035v1,2003-10-17T10:02:11Z,Supporting Exploratory Queries in Database Centric Web Applications,Jayant R. Haritsa,cs.DB,http://arxiv.org/pdf/cs/0310035v1
+cs/0310038v1,2003-10-17T16:55:08Z,On Addressing Efficiency Concerns in Privacy Preserving Data Mining,Jayant Haritsa,cs.DB,http://arxiv.org/pdf/cs/0310038v1
+cs/0311038v1,2003-11-25T09:42:59Z,XPath-Logic and XPathLog: A Logic-Programming Style XML Data   Manipulation Language,Wolfgang May,cs.DB,http://arxiv.org/pdf/cs/0311038v1
+cs/0312042v1,2003-12-18T17:43:43Z,Declarative Semantics for Active Rules,Sergio Greco,cs.DB,http://arxiv.org/pdf/cs/0312042v1
+cs/0312043v1,2003-12-18T20:08:57Z,On A Theory of Probabilistic Deductive Databases,Fereidoon Sadri,cs.DB,http://arxiv.org/pdf/cs/0312043v1
+cs/0401014v1,2004-01-18T03:09:04Z,Nested Intervals with Farey Fractions,Vadim Tropashko,cs.DB,http://arxiv.org/pdf/cs/0401014v1
+cs/0402003v1,2004-02-02T01:42:35Z,Semantic Optimization of Preference Queries,Jan Chomicki,cs.DB,http://arxiv.org/pdf/cs/0402003v1
+cs/0402051v2,2004-02-20T19:45:56Z,Nested Intervals Tree Encoding with Continued Fractions,Vadim Tropashko,cs.DB,http://arxiv.org/pdf/cs/0402051v2
+cs/0403014v2,2004-03-11T06:30:30Z,Search Efficiency in Indexing Structures for Similarity Searching,Sandhya G. Nair,cs.DB,http://arxiv.org/pdf/cs/0403014v2
+cs/0403017v1,2004-03-12T09:42:04Z,Extending the SDSS Batch Query System to the National Virtual   Observatory Grid,Aniruddha R. Thakar,cs.DB,http://arxiv.org/pdf/cs/0403017v1
+cs/0403018v1,2004-03-12T09:57:43Z,The World Wide Telescope: An Archetype for Online Science,Alexander S. Szalay,cs.DB,http://arxiv.org/pdf/cs/0403018v1
+cs/0403020v1,2004-03-12T10:20:23Z,The Sloan Digital Sky Survey Science Archive: Migrating a Multi-Terabyte   Astronomical Archive from Object to Relational DBMS,Jim Gray,cs.DB,http://arxiv.org/pdf/cs/0403020v1
+cs/0404003v1,2004-04-02T02:03:32Z,Enhancing the expressive power of the U-Datalog language,Roberta Gori,cs.DB,http://arxiv.org/pdf/cs/0404003v1
+cs/0405076v1,2004-05-22T10:30:35Z,An Abductive Framework For Computing Knowledge Base Updates,Katsumi Inoue,cs.DB,http://arxiv.org/pdf/cs/0405076v1
+cs/0406004v1,2004-06-02T12:55:04Z,Application of Business Intelligence In Banks (Pakistan),Syed Ata Hussain Jaffri,cs.DB,http://arxiv.org/pdf/cs/0406004v1
+cs/0406016v1,2004-06-07T20:45:28Z,Schema-based Scheduling of Event Processors and Buffer Minimization for   Queries on Structured Data Streams,Bernhard Stegmaier,cs.DB,http://arxiv.org/pdf/cs/0406016v1
+cs/0406029v1,2004-06-17T09:11:49Z,Subset Queries in Relational Databases,Kamalakar Karlapalem,cs.DB,http://arxiv.org/pdf/cs/0406029v1
+cs/0408030v1,2004-08-14T02:31:50Z,The Revolution In Database System Architecture,Jim Gray,cs.DB,http://arxiv.org/pdf/cs/0408030v1
+cs/0408031v1,2004-08-14T02:40:59Z,There Goes the Neighborhood: Relational Algebra for Spatial Data Search,Arnold H. Rots,cs.DB,http://arxiv.org/pdf/cs/0408031v1
+cs/0408051v1,2004-08-22T03:19:19Z,Scalable XSLT Evaluation,Aoying Zhou,cs.DB,http://arxiv.org/pdf/cs/0408051v1
+cs/0409020v1,2004-09-11T11:02:30Z,A Generalized Disjunctive Paraconsistent Data Model for Negative and   Disjunctive Information,Rajshekhar Sunderraman,cs.DB,http://arxiv.org/pdf/cs/0409020v1
+cs/0410001v2,2004-10-01T16:55:38Z,The Infati Data,J. Runge,cs.DB,http://arxiv.org/pdf/cs/0410001v2
+cs/0410038v1,2004-10-16T13:14:54Z,Frequent Knot Discovery,Floris Geerts,cs.DB,http://arxiv.org/pdf/cs/0410038v1
+cs/0410053v1,2004-10-20T08:50:22Z,An Extended Generalized Disjunctive Paraconsistent Data Model for   Disjunctive Information,Rajshekhar Sunderraman,cs.DB,http://arxiv.org/pdf/cs/0410053v1
+cs/0410054v1,2004-10-20T11:40:50Z,Paraconsistent Intuitionistic Fuzzy Relational Data Model,Haibin Wang,cs.DB,http://arxiv.org/pdf/cs/0410054v1
+cs/0410070v1,2004-10-26T17:00:40Z,Using image partitions in 4th Dimension,Giovanni Gasparri,cs.DB,http://arxiv.org/pdf/cs/0410070v1
+cs/0501029v1,2005-01-14T19:45:10Z,Estimating Range Queries using Aggregate Data with Integrity   Constraints: a Probabilistic Approach,Domenico Sacca',cs.DB,http://arxiv.org/pdf/cs/0501029v1
+cs/0501053v3,2005-01-21T20:07:32Z,Relational Algebra as non-Distributive Lattice,Vadim Tropashko,cs.DB,http://arxiv.org/pdf/cs/0501053v3
+cs/0503012v2,2005-03-04T15:34:45Z,First-order Complete and Computationally Complete Query Languages for   Spatio-Temporal Databases,Bart Kuijpers,cs.DB,http://arxiv.org/pdf/cs/0503012v2
+cs/0503022v2,2005-03-09T17:53:15Z,Theory and Practice of Transactional Method Caching,Peter C. Lockemann,cs.DB,http://arxiv.org/pdf/cs/0503022v2
+cs/0505038v1,2005-05-16T14:42:01Z,Efficient Management of Short-Lived Data,Christian S. Jensen,cs.DB,http://arxiv.org/pdf/cs/0505038v1
+cs/0505059v1,2005-05-23T14:19:24Z,Consistent query answers on numerical databases under aggregate   constraints,Francesco Parisi,cs.DB,http://arxiv.org/pdf/cs/0505059v1
+cs/0505074v1,2005-05-26T09:51:46Z,Instance-Independent View Serializability for Semistructured Databases,Roel Vercammen,cs.DB,http://arxiv.org/pdf/cs/0505074v1
+cs/0506002v1,2005-06-01T01:30:09Z,HepToX: Heterogeneous Peer to Peer XML Databases,Laks V. S. Lakshmanan,cs.DB,http://arxiv.org/pdf/cs/0506002v1
+cs/0506026v1,2005-06-08T22:03:49Z,Database Reformulation with Integrity Constraints (extended abstract),Michael R. Genesereth,cs.DB,http://arxiv.org/pdf/cs/0506026v1
+cs/0506063v1,2005-06-14T23:10:47Z,Priority-Based Conflict Resolution in Inconsistent Relational Databases,Jan Chomicki,cs.DB,http://arxiv.org/pdf/cs/0506063v1
+cs/0508120v1,2005-08-26T21:05:44Z,Iterative Algorithm for Finding Frequent Patterns in Transactional   Databases,Xidi Wang,cs.DB,http://arxiv.org/pdf/cs/0508120v1
+cs/0509088v1,2005-09-28T08:38:15Z,Business intelligence systems and user's parameters: an application to a   documents' database,Odile Thiery,cs.DB,http://arxiv.org/pdf/cs/0509088v1
+cs/0511106v1,2005-11-30T16:12:38Z,Benefits of InterSite Pre-Processing and Clustering Methods in   E-Commerce Domain,Brigitte Trousse,cs.DB,http://arxiv.org/pdf/cs/0511106v1
+cs/0602039v1,2006-02-10T12:21:42Z,Path Summaries and Path Partitioning in Modern XML Databases,Andrea Pugliese,cs.DB,http://arxiv.org/pdf/cs/0602039v1
+cs/0603044v2,2006-03-10T18:11:49Z,First Steps in Relational Lattice,Vadim Tropashko,cs.DB,http://arxiv.org/pdf/cs/0603044v2
+cs/0604076v1,2006-04-19T22:33:33Z,Semantically Correct Query Answers in the Presence of Null Values,Leopoldo Bertossi,cs.DB,http://arxiv.org/pdf/cs/0604076v1
+cs/0605124v1,2006-05-26T16:41:15Z,Semantics and Complexity of SPARQL,Claudio Gutierrez,cs.DB,http://arxiv.org/pdf/cs/0605124v1
+cs/0606075v2,2006-06-16T14:24:34Z,10^(10^6) Worlds and Beyond: Efficient Representation and Processing of   Incomplete Information,Dan Olteanu,cs.DB,http://arxiv.org/pdf/cs/0606075v2
+cs/0609144v1,2006-09-26T15:21:40Z,The Management and Integration of Biomedical Knowledge: Application in   the Health-e-Child Project (Position Paper),A. Rios,cs.DB,http://arxiv.org/pdf/cs/0609144v1
+cs/0610020v2,2006-10-04T23:21:11Z,XString: XML as a String,William F. Gilreath,cs.DB,http://arxiv.org/pdf/cs/0610020v2
+cs/0611031v2,2006-11-07T18:23:34Z,Efficient Threshold Aggregation of Moving Objects,Peter Revesz,cs.DB,http://arxiv.org/pdf/cs/0611031v2
+cs/0611094v1,2006-11-20T10:12:46Z,Reducing Order Enforcement Cost in Complex Query Plans,Ch. Sobhan Babu,cs.DB,http://arxiv.org/pdf/cs/0611094v1
+cs/0612102v2,2006-12-20T21:11:05Z,The Dichotomy of Conjunctive Queries on Probabilistic Structures,Dan Suciu,cs.DB,http://arxiv.org/pdf/cs/0612102v2
+cs/0612103v1,2006-12-21T00:21:45Z,The Boundary Between Privacy and Utility in Data Anonymization,Sungho Hong,cs.DB,http://arxiv.org/pdf/cs/0612103v1
+cs/0612110v1,2006-12-21T19:36:38Z,Architecture for Modular Data Centers,James Hamilton,cs.DB,http://arxiv.org/pdf/cs/0612110v1
+cs/0612111v1,2006-12-21T21:51:15Z,Fragmentation in Large Object Repositories,Catharine van Ingen,cs.DB,http://arxiv.org/pdf/cs/0612111v1
+cs/0612112v1,2006-12-21T21:51:55Z,Managing Query Compilation Memory Consumption to Improve DBMS Throughput,Stefano Stefani,cs.DB,http://arxiv.org/pdf/cs/0612112v1
+cs/0612113v1,2006-12-21T22:08:17Z,Isolation Support for Service-based Applications: A Position Paper,Surya Nepal,cs.DB,http://arxiv.org/pdf/cs/0612113v1
+cs/0612114v1,2006-12-21T22:29:07Z,Demaq: A Foundation for Declarative XML Message Processing,Guido Moerkotte,cs.DB,http://arxiv.org/pdf/cs/0612114v1
+cs/0612115v1,2006-12-21T22:40:33Z,Consistent Streaming Through Time: A Vision for Event Stream Processing,Mingsheng Hong,cs.DB,http://arxiv.org/pdf/cs/0612115v1
+cs/0612127v1,2006-12-22T20:32:00Z,bdbms -- A Database Management System for Biological Data,Walid G. Aref,cs.DB,http://arxiv.org/pdf/cs/0612127v1
+cs/0612128v1,2006-12-22T20:38:58Z,SASE: Complex Event Processing over Streams,Gordon Anderson,cs.DB,http://arxiv.org/pdf/cs/0612128v1
+cs/0612129v1,2006-12-22T20:49:29Z,Impliance: A Next Generation Information Management Appliance,Garret Swart,cs.DB,http://arxiv.org/pdf/cs/0612129v1
+cs/0612137v1,2006-12-27T22:21:57Z,Turning Cluster Management into Data Management: A System Overview,David DeWitt,cs.DB,http://arxiv.org/pdf/cs/0612137v1
+cs/0701155v1,2007-01-25T22:39:37Z,"Data Cube: A Relational Aggregation Operator Generalizing Group-By,   Cross-Tab, and Sub-Totals",Hamid Pirahesh,cs.DB,http://arxiv.org/pdf/cs/0701155v1
+cs/0701156v1,2007-01-25T22:42:28Z,"Data Management: Past, Present, and Future",Jim Gray,cs.DB,http://arxiv.org/pdf/cs/0701156v1
+cs/0701157v1,2007-01-25T22:53:48Z,A Critique of ANSI SQL Isolation Levels,Patrick O'Neil,cs.DB,http://arxiv.org/pdf/cs/0701157v1
+cs/0701158v1,2007-01-25T22:56:45Z,Queues Are Databases,Jim Gray,cs.DB,http://arxiv.org/pdf/cs/0701158v1
+cs/0701168v1,2007-01-26T00:54:04Z,To BLOB or Not To BLOB: Large Object Storage in a Database or a   Filesystem?,Jim Gray,cs.DB,http://arxiv.org/pdf/cs/0701168v1
+cs/0702075v1,2007-02-13T11:13:29Z,Firebird Database Backup by Serialized Database Table Dump,Maurice HT Ling,cs.DB,http://arxiv.org/pdf/cs/0702075v1
+cs/0702143v1,2007-02-24T03:11:09Z,Attribute Value Reordering For Efficient Hybrid OLAP,Daniel Lemire,cs.DB,http://arxiv.org/pdf/cs/0702143v1
+cs/0702144v2,2007-02-24T03:16:27Z,Slope One Predictors for Online Rating-Based Collaborative Filtering,Anna Maclachlan,cs.DB,http://arxiv.org/pdf/cs/0702144v2
+cs/0703103v3,2007-03-22T03:31:27Z,Concept of a Value in Multilevel Security Databases,Tsz Shing Cheng,cs.DB,http://arxiv.org/pdf/cs/0703103v3
+cs/0703113v1,2007-03-23T04:25:36Z,Automatic Selection of Bitmap Join Indexes in Data Warehouses,Fadila Bentayeb,cs.DB,http://arxiv.org/pdf/cs/0703113v1
+cs/0703114v1,2007-03-23T04:31:35Z,Clustering-Based Materialized View Selection in Data Warehouses,Jerome Darmont,cs.DB,http://arxiv.org/pdf/cs/0703114v1
+0704.3500v1,2007-04-26T09:10:41Z,Une plate-forme dynamique pour l'évaluation des performances des bases   de données à objets,Jérôme Darmont,cs.DB,http://arxiv.org/pdf/0704.3500v1
+0704.3501v1,2007-04-26T09:13:04Z,Conception d'un banc d'essais décisionnel,Omar Boussaïd,cs.DB,http://arxiv.org/pdf/0704.3501v1
+0704.3520v1,2007-04-26T11:47:35Z,Vers l'auto-administration des entrepôts de données,Jérôme Darmont,cs.DB,http://arxiv.org/pdf/0704.3520v1
+0705.0281v1,2007-05-02T12:50:39Z,Dynamic Clustering in Object-Oriented Databases: An Advocacy for   Simplicity,Michel Schneider,cs.DB,http://arxiv.org/pdf/0705.0281v1
+0705.0450v1,2007-05-03T12:50:04Z,VOODB: A Generic Discrete-Event Random Simulation Model to Evaluate the   Performances of OODBs,Michel Schneider,cs.DB,http://arxiv.org/pdf/0705.0450v1
+0705.0453v1,2007-05-03T12:54:30Z,OCB: A Generic Benchmark to Evaluate the Performances of Object-Oriented   Database Systems,Michel Schneider,cs.DB,http://arxiv.org/pdf/0705.0453v1
+0705.0454v1,2007-05-03T13:02:06Z,Performance Evaluation for Clustering Algorithms in Object-Oriented   Database Systems,Michel Gourgand,cs.DB,http://arxiv.org/pdf/0705.0454v1
+0705.1453v1,2007-05-10T12:23:35Z,DWEB: A Data Warehouse Engineering Benchmark,Omar Boussaïd,cs.DB,http://arxiv.org/pdf/0705.1453v1
+0705.1454v1,2007-05-10T12:24:27Z,DOEF: A Dynamic Object Evaluation Framework,Jérôme Darmont,cs.DB,http://arxiv.org/pdf/0705.1454v1
+0705.1455v1,2007-05-10T12:25:57Z,Decision tree modeling with relational views,Jérôme Darmont,cs.DB,http://arxiv.org/pdf/0705.1455v1
+0705.1456v1,2007-05-10T12:28:52Z,Warehousing Web Data,Fadila Bentayeb,cs.DB,http://arxiv.org/pdf/0705.1456v1
+0705.1457v1,2007-05-10T12:30:19Z,Web data modeling for integration in data warehouses,Omar Boussaïd,cs.DB,http://arxiv.org/pdf/0705.1457v1
+0705.2787v1,2007-05-19T00:12:24Z,Worst-Case Background Knowledge for Privacy-Preserving Data Publishing,Joseph Y. Halpern,cs.DB,http://arxiv.org/pdf/0705.2787v1
+0705.4442v2,2007-05-30T17:56:06Z,World-set Decompositions: Expressiveness and Efficient Algorithms,Lyublena Antova,cs.DB,http://arxiv.org/pdf/0705.4442v2
+0707.0745v1,2007-07-05T09:40:19Z,Semantic Information Retrieval from Distributed Heterogeneous Data   Sources,I. Habib,cs.DB,http://arxiv.org/pdf/0707.0745v1
+0707.0763v1,2007-07-05T11:21:39Z,The Requirements for Ontologies in Medical Data Integration: A Case   Study,Jetendr Shamdasani,cs.DB,http://arxiv.org/pdf/0707.0763v1
+0707.1288v1,2007-07-09T15:52:02Z,Espaces de représentation multidimensionnels dédiés à la   visualisation,Cécile Favre,cs.DB,http://arxiv.org/pdf/0707.1288v1
+0707.1304v1,2007-07-09T16:58:14Z,Un index de jointure pour les entrepôts de données XML,Jérôme Darmont,cs.DB,http://arxiv.org/pdf/0707.1304v1
+0707.1306v1,2007-07-09T17:23:31Z,Sélection simultanée d'index et de vues matérialisées,Jérôme Darmont,cs.DB,http://arxiv.org/pdf/0707.1306v1
+0707.1534v1,2007-07-10T22:01:40Z,An Architecture Framework for Complex Data Warehouses,Kamel Aouiche,cs.DB,http://arxiv.org/pdf/0707.1534v1
+0707.1548v1,2007-07-11T02:45:10Z,Data Mining-based Materialized View and Index Selection in Data   Warehouses,Jérôme Darmont,cs.DB,http://arxiv.org/pdf/0707.1548v1
+0707.4304v1,2007-07-29T21:46:50Z,Spatial Aggregation: Data Model and Implementation,Alejandro Vaisman,cs.DB,http://arxiv.org/pdf/0707.4304v1
+0708.0361v7,2007-08-02T15:24:29Z,Why the relational data model can be considered as a formal basis for   group operations in object-oriented systems,Evgeniy Grigoriev,cs.DB,http://arxiv.org/pdf/0708.0361v7
+0708.2076v1,2007-08-15T18:31:48Z,Repairing Inconsistent XML Write-Access Control Policies,Irini Fundulaki,cs.DB,http://arxiv.org/pdf/0708.2076v1
+0708.2717v1,2007-08-20T20:08:53Z,Aggregation Languages for Moving Object and Places of Interest Data,Alejandro Vaisman,cs.DB,http://arxiv.org/pdf/0708.2717v1
+0709.1166v1,2007-09-07T21:18:57Z,An Optimal Linear Time Algorithm for Quasi-Monotonic Segmentation,Yuhong Yan,cs.DB,http://arxiv.org/pdf/0709.1166v1
+0710.2156v3,2007-10-11T19:48:10Z,Collaborative OLAP with Tag Clouds: Web 2.0 OLAP Formalism and   Experimental Evaluation,Robert Godin,cs.DB,http://arxiv.org/pdf/0710.2156v3
+0710.2604v1,2007-10-13T11:47:14Z,Efficient Skyline Querying with Variable User Preferences on Nominal   Attributes,Yubao Liu,cs.DB,http://arxiv.org/pdf/0710.2604v1
+0710.5333v1,2007-10-29T19:46:58Z,Neutrosophic Relational Data Model,Andre Rogatko,cs.DB,http://arxiv.org/pdf/0710.5333v1
+0711.3375v1,2007-11-21T13:22:15Z,An Inflationary Fixed Point Operator in XQuery,Jens Teubner,cs.DB,http://arxiv.org/pdf/0711.3375v1
+0801.0131v1,2007-12-30T14:29:17Z,Two-Level Concept-Oriented Data Model,Alexandr Savinov,cs.DB,http://arxiv.org/pdf/0801.0131v1
+0801.0139v1,2007-12-30T15:04:25Z,Principles of the Concept-Oriented Data Model,Alexandr Savinov,cs.DB,http://arxiv.org/pdf/0801.0139v1
+0802.0137v3,2008-02-01T14:47:24Z,Fault-Tolerant Partial Replication in Large-Scale Database Systems,Marc Shapiro,cs.DB,http://arxiv.org/pdf/0802.0137v3
+0803.3224v1,2008-03-21T20:39:53Z,A Model-Based Frequency Constraint for Mining Associations from   Transaction Data,Michael Hahsler,cs.DB,http://arxiv.org/pdf/0803.3224v1
+0804.3171v2,2008-04-20T03:23:38Z,Optimization Approach for Detecting the Critical Data on a Database,Prashanth Alluvada,cs.DB,http://arxiv.org/pdf/0804.3171v2
+0805.3339v3,2008-05-21T19:50:46Z,Tri de la table de faits et compression des index bitmaps avec   alignement sur les mots,Owen Kaser,cs.DB,http://arxiv.org/pdf/0805.3339v3
+0806.0075v1,2008-05-31T14:49:00Z,An Experimental Investigation of XML Compression Tools,Sherif Sakr,cs.DB,http://arxiv.org/pdf/0806.0075v1
+0806.1071v1,2008-06-05T23:19:56Z,Histograms and Wavelets on Probabilistic Data,Minos Garofalakis,cs.DB,http://arxiv.org/pdf/0806.1071v1
+0806.3115v1,2008-06-19T02:06:14Z,Using rational numbers to key nested sets,Dan Hazel,cs.DB,http://arxiv.org/pdf/0806.3115v1
+0806.4703v2,2008-06-28T16:24:03Z,Challenging More Updates: Towards Anonymous Re-publication of Fully   Dynamic Datasets,Shuigeng Zhou,cs.DB,http://arxiv.org/pdf/0806.4703v2
+0806.4749v1,2008-06-29T11:38:06Z,Nested Ordered Sets and their Use for Data Modelling,Alexandr Savinov,cs.DB,http://arxiv.org/pdf/0806.4749v1
+0806.4920v1,2008-06-30T15:23:20Z,"Conception et Evaluation de XQuery dans une architecture de médiation   ""Tout-XML""",Georges Gardarin,cs.DB,http://arxiv.org/pdf/0806.4920v1
+0807.1734v5,2008-07-10T20:26:31Z,Faster Sequential Search with a Two-Pass Dynamic-Time-Warping Lower   Bound,Daniel Lemire,cs.DB,http://arxiv.org/pdf/0807.1734v5
+0807.2972v1,2008-07-18T14:12:02Z,DescribeX: A Framework for Exploring and Querying XML Web Collections,Flavio Rizzolo,cs.DB,http://arxiv.org/pdf/0807.2972v1
+0807.3795v1,2008-07-24T05:24:34Z,Relational Lattice Axioms,Vadim Tropashko,cs.DB,http://arxiv.org/pdf/0807.3795v1
+0807.4580v1,2008-07-29T06:18:34Z,A Logical Model and Data Placement Strategies for MEMS Storage Devices,Il-Yeol Song,cs.DB,http://arxiv.org/pdf/0807.4580v1
+0808.2083v3,2008-08-15T03:14:55Z,Histogram-Aware Sorting for Enhanced Word-Aligned Compression in Bitmap   Indexes,Kamel Aouiche,cs.DB,http://arxiv.org/pdf/0808.2083v3
+0809.0116v1,2008-08-31T12:24:38Z,Toward Expressive and Scalable Sponsored Search Auctions,Joseph Y. Halpern,cs.DB,http://arxiv.org/pdf/0809.0116v1
+0809.1551v2,2008-09-09T15:04:52Z,Consistent Query Answers in the Presence of Universal Constraints,Jan Chomicki,cs.DB,http://arxiv.org/pdf/0809.1551v2
+0809.1963v1,2008-09-11T11:59:00Z,Materialized View Selection by Query Clustering in XML Data Warehouses,Jérôme Darmont,cs.DB,http://arxiv.org/pdf/0809.1963v1
+0809.1965v1,2008-09-11T12:01:34Z,Dynamic index selection in data warehouses,Jérôme Darmont,cs.DB,http://arxiv.org/pdf/0809.1965v1
+0809.1971v1,2008-09-11T12:20:00Z,Knowledge and Metadata Integration for Warehousing Complex Data,Jérôme Darmont,cs.DB,http://arxiv.org/pdf/0809.1971v1
+0809.1981v1,2008-09-11T12:44:10Z,A Join Index for XML Data Warehouses,Jérôme Darmont,cs.DB,http://arxiv.org/pdf/0809.1981v1
+0809.2686v1,2008-09-16T11:42:42Z,An MAS-Based ETL Approach for Complex Data,Jérôme Darmont,cs.DB,http://arxiv.org/pdf/0809.2686v1
+0809.2687v1,2008-09-16T11:44:39Z,Frequent itemsets mining for database auto-administration,Le Gruenwald,cs.DB,http://arxiv.org/pdf/0809.2687v1
+0809.2688v1,2008-09-16T11:47:58Z,"A Complex Data Warehouse for Personalized, Anticipative Medicine",Emerson Olivier,cs.DB,http://arxiv.org/pdf/0809.2688v1
+0809.2691v1,2008-09-16T12:12:15Z,Expressing OLAP operators with the TAX XML algebra,Jérôme Darmont,cs.DB,http://arxiv.org/pdf/0809.2691v1
+0810.4809v1,2008-10-27T13:41:48Z,XQuery Join Graph Isolation,J. Rittinger,cs.DB,http://arxiv.org/pdf/0810.4809v1
+0811.0741v1,2008-11-05T15:00:32Z,Data Mining-based Fragmentation of XML Data Warehouses,Jérôme Darmont,cs.DB,http://arxiv.org/pdf/0811.0741v1
+0811.2117v1,2008-11-13T14:12:57Z,Disjunctive Databases for Representing Repairs,Jerzy Marcinkowski,cs.DB,http://arxiv.org/pdf/0811.2117v1
+0811.2250v2,2008-11-14T01:47:14Z,Semantics and Evaluation of Top-k Queries in Probabilistic Databases,Jan Chomicki,cs.DB,http://arxiv.org/pdf/0811.2250v2
+0811.3691v1,2008-11-22T15:22:40Z,Temporal Support of Regular Expressions in Sequential Pattern Mining,Alejandro Vaisman,cs.DB,http://arxiv.org/pdf/0811.3691v1
+0812.2049v1,2008-12-10T23:20:17Z,Consensus Answers for Queries over Probabilistic Databases,Amol Deshpande,cs.DB,http://arxiv.org/pdf/0812.2049v1
+0812.2195v3,2008-12-11T17:25:55Z,Equivalence of SQL Queries in Presence of Embedded Dependencies,Michael Genesereth,cs.DB,http://arxiv.org/pdf/0812.2195v3
+0812.2874v1,2008-12-15T18:25:51Z,A Data Model for Integrating Heterogeneous Medical Data in the   Health-e-Child Project,Jetendr Shamdasani,cs.DB,http://arxiv.org/pdf/0812.2874v1
+0812.2879v1,2008-12-15T18:34:44Z,Ontology Assisted Query Reformulation Using Semantic and Assertion   Capabilities of OWL-DL Ontologies,Richard McClatchey,cs.DB,http://arxiv.org/pdf/0812.2879v1
+0812.3715v1,2008-12-19T07:52:46Z,Business processes integration and performance indicators in a PLM,Abdelaziz Bouras,cs.DB,http://arxiv.org/pdf/0812.3715v1
+0812.3788v2,2008-12-19T13:51:57Z,Foundations of SPARQL Query Optimization,Georg Lausen,cs.DB,http://arxiv.org/pdf/0812.3788v2
+0812.4986v1,2008-12-29T23:14:00Z,An Array Algebra,Albrecht Schmidt,cs.DB,http://arxiv.org/pdf/0812.4986v1
+0901.2224v4,2009-01-15T10:41:28Z,Concept-Oriented Model and Query Language,Alexandr Savinov,cs.DB,http://arxiv.org/pdf/0901.2224v4
+0901.3751v7,2009-01-23T19:01:06Z,Sorting improves word-aligned bitmap indexes,Kamel Aouiche,cs.DB,http://arxiv.org/pdf/0901.3751v7
+0901.3984v2,2009-01-26T12:09:38Z,Stop the Chase,Georg Lausen,cs.DB,http://arxiv.org/pdf/0901.3984v2
+0902.2504v1,2009-02-15T18:53:19Z,Hyperset Approach to Semi-structured Databases and the Experimental   Implementation of the Query Language Delta,Richard Molyneux,cs.DB,http://arxiv.org/pdf/0902.2504v1
+0902.4535v1,2009-02-26T09:06:29Z,Electronical Health Record's Systems. Interoperability,Corina Vernic,cs.DB,http://arxiv.org/pdf/0902.4535v1
+0903.1059v1,2009-03-05T18:33:52Z,Home Heating Systems Design using PHP and MySQL Databases,Tiberiu Marius Karnyanszky,cs.DB,http://arxiv.org/pdf/0903.1059v1
+0903.1953v1,2009-03-11T11:34:20Z,Laconic schema mappings: computing core universal solutions by means of   SQL queries,Wang-Chiew Tan,cs.DB,http://arxiv.org/pdf/0903.1953v1
+0903.3317v2,2009-03-19T12:33:47Z,Discovering Matching Dependencies,Lei Chen,cs.DB,http://arxiv.org/pdf/0903.3317v2
+0903.4305v2,2009-03-25T11:39:31Z,Evaluation d'une requete en SQL,Diana Sophia Codat,cs.DB,http://arxiv.org/pdf/0903.4305v2
+0903.5346v1,2009-03-31T00:10:02Z,Cooperative Update Exchange in the Youtopia System,Christoph Koch,cs.DB,http://arxiv.org/pdf/0903.5346v1
+0905.1755v1,2009-05-12T03:36:26Z,Can the Utility of Anonymized Data be used for Privacy Breaches?,Philip S. Yu,cs.DB,http://arxiv.org/pdf/0905.1755v1
+0905.2657v2,2009-05-16T05:57:06Z,Web 2.0 OLAP: From Data Cubes to Tag Clouds,Robert Godin,cs.DB,http://arxiv.org/pdf/0905.2657v2
+0905.4605v1,2009-05-28T10:29:20Z,Techniques for Securing Data Exchange between a Database Server and a   Client Program,Ovidiu Crista,cs.DB,http://arxiv.org/pdf/0905.4605v1
+0905.4761v1,2009-05-28T22:36:57Z,Optimizing XML Compression,Denilson Barbosa,cs.DB,http://arxiv.org/pdf/0905.4761v1
+0906.0252v1,2009-06-01T11:04:04Z,Progressive Processing of Continuous Range Queries in Hierarchical   Wireless Sensor Networks,Jun-Seok Heo,cs.DB,http://arxiv.org/pdf/0906.0252v1
+0906.4327v1,2009-06-23T18:29:06Z,A Rough Sets Partitioning Model for Mining Sequential Patterns with Time   Constraint,K. R. Pardasani,cs.DB,http://arxiv.org/pdf/0906.4327v1
+0906.4927v1,2009-06-26T13:24:57Z,Fast Probabilistic Ranking under x-Relation Model,Lu Qin,cs.DB,http://arxiv.org/pdf/0906.4927v1
+0907.3183v2,2009-07-18T06:37:37Z,Why Did My Query Slow Down?,Aameek Singh,cs.DB,http://arxiv.org/pdf/0907.3183v2
+0908.0464v3,2009-08-04T15:10:25Z,Prioritized Repairing and Consistent Query Answering in Relational   Databases,Jerzy Marcinkowski,cs.DB,http://arxiv.org/pdf/0908.0464v3
+0908.3957v1,2009-08-27T09:12:08Z,Enhancing XML Data Warehouse Query Performance by Fragmentation,Jérôme Darmont,cs.DB,http://arxiv.org/pdf/0908.3957v1
+0909.1346v8,2009-09-07T21:34:52Z,Reordering Columns for Smaller Indexes,Owen Kaser,cs.DB,http://arxiv.org/pdf/0909.1346v8
+0909.1760v1,2009-09-09T18:05:37Z,"LifeRaft: Data-Driven, Batch Processing for the Exploration of   Scientific Databases",Tanu Malik,cs.DB,http://arxiv.org/pdf/0909.1760v1
+0909.1766v1,2009-09-09T18:09:27Z,RIOT: I/O-Efficient Numerical Computing without SQL,Jun Yang,cs.DB,http://arxiv.org/pdf/0909.1766v1
+0909.1767v1,2009-09-09T18:09:31Z,Towards Eco-friendly Database Management Systems,Jignesh Patel,cs.DB,http://arxiv.org/pdf/0909.1767v1
+0909.1771v1,2009-09-09T18:09:48Z,The Role of Schema Matching in Large Enterprises,Chris Wolf,cs.DB,http://arxiv.org/pdf/0909.1771v1
+0909.1773v1,2009-09-09T18:09:55Z,Search Driven Analysis of Heterogenous XML Data,Fatma Ozcan,cs.DB,http://arxiv.org/pdf/0909.1773v1
+0909.1777v1,2009-09-09T18:10:11Z,Capturing Data Uncertainty in High-Volume Stream Processing,Michael Zink,cs.DB,http://arxiv.org/pdf/0909.1777v1
+0909.1778v1,2009-09-09T18:10:16Z,A Case for A Collaborative Query Management System,Dan Suciu,cs.DB,http://arxiv.org/pdf/0909.1778v1
+0909.1779v1,2009-09-09T18:10:20Z,"The Case for RodentStore, an Adaptive, Declarative Storage System",Sam Madden,cs.DB,http://arxiv.org/pdf/0909.1779v1
+0909.1782v1,2009-09-09T18:10:33Z,Principles for Inconsistency,Rainer Brendle,cs.DB,http://arxiv.org/pdf/0909.1782v1
+0909.1785v1,2009-09-09T18:10:42Z,Harnessing the Deep Web: Present and Future,Alon Halevy,cs.DB,http://arxiv.org/pdf/0909.1785v1
+0909.2062v1,2009-09-10T22:55:16Z,Inter-Operator Feedback in Data Stream Management Systems via   Punctuation,Jin Li,cs.DB,http://arxiv.org/pdf/0909.2062v1
+0909.2623v1,2009-09-14T19:07:58Z,Reducing Network Traffic in Unstructured P2P Systems Using Top-k Queries,Patrick Valduriez,cs.DB,http://arxiv.org/pdf/0909.2623v1
+0909.4196v1,2009-09-23T12:55:26Z,Personal Information Databases,Bernhard Thalheim,cs.DB,http://arxiv.org/pdf/0909.4196v1
+0909.4409v1,2009-09-24T10:52:58Z,Clustering with Obstacles in Spatial Databases,Mohamed E. El-Sharkawi,cs.DB,http://arxiv.org/pdf/0909.4409v1
+0909.4412v1,2009-09-24T11:09:15Z,Algorithm for Spatial Clustering with Obstacles,Mohamed A. El-Zawawy,cs.DB,http://arxiv.org/pdf/0909.4412v1
+0909.5530v1,2009-09-30T07:16:38Z,Differential Privacy via Wavelet Transforms,Johannes Gehrke,cs.DB,http://arxiv.org/pdf/0909.5530v1
+0911.0508v1,2009-11-03T06:25:23Z,Optimization and Evaluation of Nested Queries and Procedures,Ravindra Guravannavar,cs.DB,http://arxiv.org/pdf/0911.0508v1
+0911.3600v1,2009-11-18T16:59:38Z,"""Almost automatic"" and semantic integration of XML Schemas at various   ""severity"" levels",D. Ursino,cs.DB,http://arxiv.org/pdf/0911.3600v1
+0911.4329v2,2009-11-23T06:45:37Z,Structural Consistency: Enabling XML Keyword Search to Eliminate   Spurious Results Consistently,Min-Soo Kim,cs.DB,http://arxiv.org/pdf/0911.4329v2
+0912.0579v1,2009-12-03T05:34:56Z,A Multidatabase System as 4-Tiered Client-Server Distributed   Heterogeneous Database System,Mohammad Ghulam Ali,cs.DB,http://arxiv.org/pdf/0912.0579v1
+0912.0603v1,2009-12-03T09:01:39Z,Object Oriented Approach for Integration of Heterogeneous Databases in a   Multidatabase System and Local Schemas Modifications Propagation,Mohammad Ghulam Ali,cs.DB,http://arxiv.org/pdf/0912.0603v1
+0912.1016v1,2009-12-05T13:21:57Z,Refactoring of a Database,Shalini Bhatia,cs.DB,http://arxiv.org/pdf/0912.1016v1
+0912.1110v1,2009-12-06T15:26:43Z,XML Multidimensional Modelling and Querying,Esteban Zimányi,cs.DB,http://arxiv.org/pdf/0912.1110v1
+0912.3924v1,2009-12-19T18:51:40Z,A Study on Feature Selection Techniques in Educational Data Mining,R. Bhaskaran,cs.DB,http://arxiv.org/pdf/0912.3924v1
+0912.5426v1,2009-12-30T08:31:10Z,The Hardness and Approximation Algorithms for L-Diversity,Yufei Tao,cs.DB,http://arxiv.org/pdf/0912.5426v1
+1001.1276v1,2010-01-08T13:53:15Z,A framework to model real-time databases,Faiez Gargouri,cs.DB,http://arxiv.org/pdf/1001.1276v1
+1001.2275v1,2010-01-13T19:19:06Z,Efficient Candidacy Reduction For Frequent Pattern Mining,Ali B Mamat,cs.DB,http://arxiv.org/pdf/1001.2275v1
+1001.2625v2,2010-01-15T07:01:37Z,Finding top-k similar pairs of objects annotated with terms from an   ontology,Ambuj K. Singh,cs.DB,http://arxiv.org/pdf/1001.2625v2
+1001.3488v1,2010-01-20T07:49:15Z,A Model for Mining Multilevel Fuzzy Association Rule in Database,K. R. Pardasani,cs.DB,http://arxiv.org/pdf/1001.3488v1
+1001.3494v1,2010-01-20T08:02:20Z,Proposing a New Method for Query Processing Adaption in DataBase,Amir Asil,cs.DB,http://arxiv.org/pdf/1001.3494v1
+1001.3720v1,2010-01-21T05:18:08Z,Page-Differential Logging: An Efficient and DBMS-independent Approach   for Storing Data into Flash Memory,Il-Yeol Song,cs.DB,http://arxiv.org/pdf/1001.3720v1
+1001.4880v1,2010-01-27T09:33:54Z,The WebContent XML Store,Spyros Zoupanos,cs.DB,http://arxiv.org/pdf/1001.4880v1
+1002.0139v1,2010-01-31T16:39:26Z,Extraction of Flat and Nested Data Records from Web Pages,Siddu P. Algur,cs.DB,http://arxiv.org/pdf/1002.0139v1
+1002.0971v1,2010-02-04T12:09:15Z,The WebStand Project,Pierre Senellart,cs.DB,http://arxiv.org/pdf/1002.0971v1
+1002.1143v2,2010-02-05T08:22:24Z,A Logical Temporal Relational Data Model,Kamran Ahsan,cs.DB,http://arxiv.org/pdf/1002.1143v2
+1002.1150v1,2010-02-05T08:43:45Z,Finding Sequential Patterns from Large Sequence Data,Fazekas Gabor,cs.DB,http://arxiv.org/pdf/1002.1150v1
+1002.1159v1,2010-02-05T09:07:54Z,Mining The Successful Binary Combinations: Methodology and A Simple Case   Study,Yuval Cohen,cs.DB,http://arxiv.org/pdf/1002.1159v1
+1002.1185v1,2010-02-05T10:30:51Z,Significant Interval and Frequent Pattern Discovery in Web Log Data,Rahul Shukla,cs.DB,http://arxiv.org/pdf/1002.1185v1
+1002.4315v2,2010-02-23T12:45:31Z,Mining Statistically Significant Substrings Based on the Chi-Square   Measure,Arnab Bhattacharya,cs.DB,http://arxiv.org/pdf/1002.4315v2
+1004.0048v1,2010-04-01T03:39:33Z,Anonimos: An LP based Approach for Anonymizing Weighted Social Network   Graphs,Amr El Abbadi,cs.DB,http://arxiv.org/pdf/1004.0048v1
+1004.1249v6,2010-04-08T06:10:11Z,Semi-Automatic Index Tuning: Keeping DBAs in the Loop,Neoklis Polyzotis,cs.DB,http://arxiv.org/pdf/1004.1249v6
+1004.1614v1,2010-04-09T17:33:37Z,PROBER: Ad-Hoc Debugging of Extraction and Integration Pipelines,Philip Bohannon,cs.DB,http://arxiv.org/pdf/1004.1614v1
+1004.1677v1,2010-04-10T03:46:01Z,Mining The Data From Distributed Database Using An Improved Mining   Algorithm,K. L. Shunmuganathan,cs.DB,http://arxiv.org/pdf/1004.1677v1
+1004.1747v1,2010-04-10T22:23:27Z,Mobile Database System: Role of Mobility on the Query Processing,Dr. R. S. Kasana,cs.DB,http://arxiv.org/pdf/1004.1747v1
+1004.3272v1,2010-04-19T18:18:43Z,Database Reverse Engineering based on Association Rule Mining,Kittisak Kerdprasop,cs.DB,http://arxiv.org/pdf/1004.3272v1
+1004.3565v1,2010-04-20T20:29:12Z,An Optimized Weighted Association Rule Mining On Dynamic Content,K. Duraisamy,cs.DB,http://arxiv.org/pdf/1004.3565v1
+1004.4022v1,2010-04-22T22:22:02Z,Database Security: A Historical Perspective,Paul Lesov,cs.DB,http://arxiv.org/pdf/1004.4022v1
+1004.4718v1,2010-04-27T05:56:24Z,A Data Cleansing Method for Clustering Large-scale Transaction Databases,Jun-Gyu Kang,cs.DB,http://arxiv.org/pdf/1004.4718v1
+1007.3275v1,2010-07-19T20:32:00Z,An Algorithmic Structuration of a Type System for an Orthogonal   Object/Relational Model,Youssef Amghar,cs.DB,http://arxiv.org/pdf/1007.3275v1
+1007.3781v1,2010-07-22T01:37:46Z,Multiresolution Cube Estimators for Sensor Network Aggregate Queries,Joseph M. Hellerstein,cs.DB,http://arxiv.org/pdf/1007.3781v1
+1008.0557v2,2010-08-03T14:23:41Z,LiquidXML: Adaptive XML Content Redistribution,Alexandra Roatis,cs.DB,http://arxiv.org/pdf/1008.0557v2
+1008.1337v1,2010-08-07T12:55:26Z,PDM based I-SOAS Data Warehouse Design,Zeeshan Ahmed,cs.DB,http://arxiv.org/pdf/1008.1337v1
+1008.1339v1,2010-08-07T13:02:01Z,Removal of Communication Gap,Sudhir Ganti,cs.DB,http://arxiv.org/pdf/1008.1339v1
+1008.2300v1,2010-08-13T12:06:29Z,Probabilistic Frequent Pattern Growth for Itemset Mining in Uncertain   Databases (Technical Report),Andreas Züfle,cs.DB,http://arxiv.org/pdf/1008.2300v1
+1008.3743v1,2010-08-23T03:15:10Z,Data Cleaning and Query Answering with Matching Dependencies and   Matching Functions,Laks V. S. Lakshmanan,cs.DB,http://arxiv.org/pdf/1008.3743v1
+1008.3751v1,2010-08-23T05:30:01Z,ElasTraS: An Elastic Transactional Data Store in the Cloud,Amr El Abbadi,cs.DB,http://arxiv.org/pdf/1008.3751v1
+1008.4627v1,2010-08-27T01:30:14Z,"Matching Dependencies with Arbitrary Attribute Values: Semantics, Query   Answering and Integrity Constraints",Iluju Kiringa,cs.DB,http://arxiv.org/pdf/1008.4627v1
+1008.5073v1,2010-08-30T12:58:17Z,On the Count of Trees,Alan Schmitt,cs.DB,http://arxiv.org/pdf/1008.5073v1
+1008.5357v1,2010-08-31T16:41:09Z,Preference Elicitation in Prioritized Skyline Queries,Jan Chomicki,cs.DB,http://arxiv.org/pdf/1008.5357v1
+1009.0255v1,2010-09-01T19:27:40Z,The Conceptual Integration Modeling Framework: Abstracting from the   Multidimensional Model,Kwok Wong,cs.DB,http://arxiv.org/pdf/1009.0255v1
+1009.0368v1,2010-09-02T10:00:51Z,Discovering potential user browsing behaviors using custom-built apriori   algorithm,Lakshmi Rajamani,cs.DB,http://arxiv.org/pdf/1009.0368v1
+1009.0384v1,2010-09-02T10:47:11Z,Clustering high dimensional data using subspace and projected clustering   algorithms,Abdullah Embong,cs.DB,http://arxiv.org/pdf/1009.0384v1
+1009.0397v1,2010-09-02T11:41:29Z,Mobile Information Collectors' Trajectory Data Warehouse Design,jalel akaichi,cs.DB,http://arxiv.org/pdf/1009.0397v1
+1009.0827v1,2010-09-04T11:29:55Z,A Novel Watermarking Scheme for Detecting and Recovering Distortions in   Database Tables,Hassan Rashidi,cs.DB,http://arxiv.org/pdf/1009.0827v1
+1009.0929v1,2010-09-05T16:48:59Z,Mining Target-Oriented Sequential Patterns with Time-Intervals,Hao-En Chueh,cs.DB,http://arxiv.org/pdf/1009.0929v1
+1009.0971v1,2010-09-06T05:46:18Z,ETP-Mine: An Efficient Method for Mining Transitional Patterns,A. Bhaskar,cs.DB,http://arxiv.org/pdf/1009.0971v1
+1009.2270v1,2010-09-12T22:14:04Z,Active Integrity Constraints and Revision Programming,M. Truszczynski,cs.DB,http://arxiv.org/pdf/1009.2270v1
+1009.2764v2,2010-09-14T20:15:14Z,A Blink Tree latch method and protocol to support synchronous node   deletion,Karl Malbrain,cs.DB,http://arxiv.org/pdf/1009.2764v2
+1009.5149v1,2010-09-27T03:10:28Z,Towards an incremental maintenance of cyclic association rules,Mohamed Salah Gouider,cs.DB,http://arxiv.org/pdf/1009.5149v1
+1010.0122v1,2010-10-01T11:05:18Z,Rule-based Generation of Diff Evolution Mappings between Ontology   Versions,Erhard Rahm,cs.DB,http://arxiv.org/pdf/1010.0122v1
+1010.0924v1,2010-10-05T15:51:50Z,Preserving Privacy in Sequential Data Release against Background   Knowledge Attacks,Claudio Bettini,cs.DB,http://arxiv.org/pdf/1010.0924v1
+1010.2148v1,2010-10-11T16:22:43Z,Ontological Matchmaking in Recommender Systems,Gianvito Summa,cs.DB,http://arxiv.org/pdf/1010.2148v1
+1010.3615v1,2010-10-18T14:38:31Z,Scalable XML Collaborative Editing with Undo short paper,Stéphane Weiss,cs.DB,http://arxiv.org/pdf/1010.3615v1
+1010.4850v2,2010-10-23T06:01:31Z,Treillis des concepts skylines : Analyse multidimensionnelle des   skylines fondée sur les ensembles en accord,Rosine Cicchetti,cs.DB,http://arxiv.org/pdf/1010.4850v2
+1011.0328v1,2010-11-01T14:14:10Z,Mining Frequent Itemsets Using Genetic Algorithm,Partha Pratim Sarkar,cs.DB,http://arxiv.org/pdf/1011.0328v1
+1011.2511v1,2010-11-10T21:39:24Z,Individual Privacy vs Population Privacy: Learning to Attack   Anonymization,Graham Cormode,cs.DB,http://arxiv.org/pdf/1011.2511v1
+1012.0335v2,2010-12-01T22:05:14Z,Faster Query Answering in Probabilistic Databases using Read-Once   Functions,Val Tannen,cs.DB,http://arxiv.org/pdf/1012.0335v2
+1012.1565v2,2010-12-07T17:47:31Z,A Survey on Data Warehouse Evolution,jalel akaichi,cs.DB,http://arxiv.org/pdf/1012.1565v2
+1012.1621v1,2010-12-07T21:53:31Z,YeastMed: an XML-Based System for Biological Data Integration of Yeast,Khalid Lairini,cs.DB,http://arxiv.org/pdf/1012.1621v1
+1012.1632v1,2010-12-07T22:24:15Z,Benchmarking triple stores with biological data,Martin Kuiper,cs.DB,http://arxiv.org/pdf/1012.1632v1
+1012.1645v1,2010-12-07T23:52:54Z,ChemCloud: Chemical e-Science Information Cloud,Stephan Heineke,cs.DB,http://arxiv.org/pdf/1012.1645v1
+1012.1660v1,2010-12-08T00:51:37Z,Provenance and evidence in UniProtKB,Nicole Redaschi,cs.DB,http://arxiv.org/pdf/1012.1660v1
+1012.1898v1,2010-12-09T00:03:31Z,Ontology Usage at ZFIN,Christian Pich,cs.DB,http://arxiv.org/pdf/1012.1898v1
+1012.2858v1,2010-12-13T20:48:12Z,Relational transducers for declarative networking,Jan Van den Bussche,cs.DB,http://arxiv.org/pdf/1012.2858v1
+1012.4074v1,2010-12-18T09:46:03Z,A fast divide-and-conquer algorithm for indexing human genome sequences,Wookey Lee,cs.DB,http://arxiv.org/pdf/1012.4074v1
+1012.4855v1,2010-12-22T01:43:14Z,Target-driven merging of Taxonomies,Erhard Rahm,cs.DB,http://arxiv.org/pdf/1012.4855v1
+1012.5696v1,2010-12-28T04:48:21Z,Fast and Tiny Structural Self-Indexes for XML,Tom Sebastian,cs.DB,http://arxiv.org/pdf/1012.5696v1
+1012.6009v1,2010-12-29T19:34:11Z,Cluster Evaluation of Density Based Subspace Clustering,Jasni Mohamad Zain,cs.DB,http://arxiv.org/pdf/1012.6009v1
+1101.1110v1,2011-01-05T22:20:29Z,Provenance for Aggregate Queries,Val Tannen,cs.DB,http://arxiv.org/pdf/1101.1110v1
+1101.2613v2,2011-01-13T17:32:01Z,A Novel Probabilistic Pruning Approach to Speed Up Similarity Queries in   Uncertain Databases,Andreas Zuefle,cs.DB,http://arxiv.org/pdf/1101.2613v2
+1101.4270v1,2011-01-22T08:00:33Z,A Comparative Agglomerative Hierarchical Clustering Method to Cluster   Implemented Course,Abdullah Embong,cs.DB,http://arxiv.org/pdf/1101.4270v1
+1101.5668v1,2011-01-29T05:09:20Z,Analysis of Web Logs and Web User in Web Mining,Dhinaharan Nagamalai,cs.DB,http://arxiv.org/pdf/1101.5668v1
+1102.0115v1,2011-02-01T10:11:15Z,Business Intelligence for Small and Middle-Sized Entreprises,Iryna Zolotaryova,cs.DB,http://arxiv.org/pdf/1102.0115v1
+1102.0372v1,2011-02-02T07:11:13Z,XWeB: the XML Warehouse Benchmark,Jérôme Darmont,cs.DB,http://arxiv.org/pdf/1102.0372v1
+1102.0952v1,2011-02-04T15:59:12Z,Pattern tree-based XOLAP rollup operator for XML complex hierarchies,Jérôme Darmont,cs.DB,http://arxiv.org/pdf/1102.0952v1
+1102.4429v1,2011-02-22T08:15:51Z,A Trajectory UML profile For Modeling Trajectory Data: A Mobile Hospital   Use Case,Jalel Akaichi,cs.DB,http://arxiv.org/pdf/1102.4429v1
+1102.5190v1,2011-02-25T08:39:16Z,Specifying Data Bases Management Systems by Using RM-ODP Engineering   Language,Youssef Balouki,cs.DB,http://arxiv.org/pdf/1102.5190v1
+1105.0049v1,2011-04-30T05:19:42Z,Negative Database for Data Security,Magdalini Eirinaki,cs.DB,http://arxiv.org/pdf/1105.0049v1
+1105.0350v1,2011-05-02T15:07:34Z,Preprocessing: A Prerequisite for Discovering Patterns in Web Usage   Mining Process,Dr. K. S. Shreedhara,cs.DB,http://arxiv.org/pdf/1105.0350v1
+1105.1930v1,2011-05-10T12:36:17Z,Emerging multidisciplinary research across database management systems,Aparna Varde,cs.DB,http://arxiv.org/pdf/1105.1930v1
+1105.1950v1,2011-05-10T13:58:10Z,An analytical framework for data stream mining techniques based on   challenges and requirements,Mohammadreza Keyvanpour,cs.DB,http://arxiv.org/pdf/1105.1950v1
+1105.2255v1,2011-05-11T17:22:32Z,On the Limitations of Provenance for Queries With Difference,Val Tannen,cs.DB,http://arxiv.org/pdf/1105.2255v1
+1105.4251v1,2011-05-21T12:06:39Z,Synthesizing Products for Online Catalogs,Rakesh Agrawal,cs.DB,http://arxiv.org/pdf/1105.4251v1
+1105.4253v1,2011-05-21T12:08:23Z,Implementing Performance Competitive Logical Recovery,Michael Zwilling,cs.DB,http://arxiv.org/pdf/1105.4253v1
+1105.4395v1,2011-05-23T03:19:25Z,Default-all is dangerous!,Dan Suciu,cs.DB,http://arxiv.org/pdf/1105.4395v1
+1105.5951v1,2011-05-30T11:58:42Z,Performance of Short-Commit in Extreme Database Environment,Muhammad Rizwan,cs.DB,http://arxiv.org/pdf/1105.5951v1
+1105.6001v4,2011-05-30T14:07:10Z,A Call to Arms: Revisiting Database Design,Daniel Lemire,cs.DB,http://arxiv.org/pdf/1105.6001v4
+1106.0304v1,2011-06-01T20:01:00Z,Using Ontologies for the Design of Data Warehouses,Jose-Norberto Mazón,cs.DB,http://arxiv.org/pdf/1106.0304v1
+1106.1478v1,2011-06-08T01:21:04Z,Consistent Query Answering under Spatial Semantic Constraints,Monica Caniupan,cs.DB,http://arxiv.org/pdf/1106.1478v1
+1106.1811v2,2011-06-09T13:47:34Z,Caching Stars in the Sky: A Semantic Caching Approach to Accelerate   Skyline Queries,Sourav Dutta,cs.DB,http://arxiv.org/pdf/1106.1811v2
+1106.3745v2,2011-06-19T13:37:19Z,Composition with Target Constraints,Alan Nash,cs.DB,http://arxiv.org/pdf/1106.3745v2
+1106.5979v1,2011-06-29T15:49:36Z,Probabilistic Voronoi Diagrams for Probabilistic Moving Nearest Neighbor   Queries,Ramamohanarao Kotagiri,cs.DB,http://arxiv.org/pdf/1106.5979v1
+1107.1104v1,2011-07-06T11:56:34Z,"SERIMI - Resource Description Similarity, RDF Instance Matching and   Interlinking",Arjen P. de Vries,cs.DB,http://arxiv.org/pdf/1107.1104v1
+1107.1779v1,2011-07-09T12:26:14Z,A Survey of User-Centric Data Warehouses: From Personalization to   Recommendation,Faïez Gargouri,cs.DB,http://arxiv.org/pdf/1107.1779v1
+1107.3606v3,2011-07-19T01:52:52Z,Optimizing Index Deployment Order for Evolving OLAP (Extended Version),Stanley B. Zdonik,cs.DB,http://arxiv.org/pdf/1107.3606v3
+1107.4924v1,2011-07-25T12:38:15Z,Discovering Attractive Products based on Influence Sets,Antonios Deligiannakis,cs.DB,http://arxiv.org/pdf/1107.4924v1
+1108.0186v3,2011-07-31T15:55:48Z,Differentially Private Search Log Sanitization with Optimal Output   Utility,Mingrui Wu,cs.DB,http://arxiv.org/pdf/1108.0186v3
+1108.0729v1,2011-08-03T02:41:02Z,Estudo de Viabilidade de uma Plataforma de Baixo Custo para Data   Warehouse,Eduardo Cunha de Almeida,cs.DB,http://arxiv.org/pdf/1108.0729v1
+1108.0831v1,2011-08-03T12:36:23Z,Towards Spatio-Temporal SOLAP,Alejandro Vaisman,cs.DB,http://arxiv.org/pdf/1108.0831v1
+1108.1925v1,2011-08-09T13:40:29Z,Rule-based Construction of Matching Processes,Erhard Rahm,cs.DB,http://arxiv.org/pdf/1108.1925v1
+1108.4596v1,2011-08-23T13:31:56Z,XML content warehousing: Improving sociological studies of mailing lists   and web data,Pierre Senellart,cs.DB,http://arxiv.org/pdf/1108.4596v1
+1108.5253v1,2011-08-26T08:07:22Z,A Frequent Closed Itemsets Lattice-based Approach for Mining Minimal   Non-Redundant Association Rules,Bac Le,cs.DB,http://arxiv.org/pdf/1108.5253v1
+1108.5451v1,2011-08-27T14:09:08Z,A Uniform Fixpoint Approach to the Implementation of Inference Methods   for Deductive Databases,Andreas Behrend,cs.DB,http://arxiv.org/pdf/1108.5451v1
+1108.5592v1,2011-08-26T07:08:13Z,A Performance Study of Data Mining Techniques: Multiple Linear   Regression vs. Factor Analysis,R. K. Chauhan,cs.DB,http://arxiv.org/pdf/1108.5592v1
+1108.5619v1,2011-08-26T07:06:03Z,Modification of GTD from Flat File Format to OLAP for Data Mining,Shuchita Bhasin,cs.DB,http://arxiv.org/pdf/1108.5619v1
+1108.6328v5,2011-08-31T19:22:48Z,Foundations of Traversal Based Query Execution over Linked Data   (Extended Version),Johann-Christoph Freytag,cs.DB,http://arxiv.org/pdf/1108.6328v5
+1109.0086v3,2011-09-01T04:14:34Z,"Comments on ""Stack-based Algorithms for Pattern Matching on DAGs""",Hai Zhuge,cs.DB,http://arxiv.org/pdf/1109.0086v3
+1109.0181v1,2011-09-01T13:14:13Z,Improving the recall of decentralised linked data querying through   implicit knowledge,Axel Polleres,cs.DB,http://arxiv.org/pdf/1109.0181v1
+1109.0617v1,2011-09-03T12:04:00Z,Metadata Challenge for Query Processing Over Heterogeneous Wireless   Sensor Network,Chetna Laroiya,cs.DB,http://arxiv.org/pdf/1109.0617v1
+1109.0736v1,2011-09-04T18:11:43Z,Compression Aware Physical Database Design,Manoj Syamala,cs.DB,http://arxiv.org/pdf/1109.0736v1
+1109.1087v1,2011-09-06T07:02:35Z,A Business Intelligence Model to Predict Bankruptcy using Financial   Domain Ontology with Association Rule Mining Algorithm,Dr. V. Prasanna Venkatesan,cs.DB,http://arxiv.org/pdf/1109.1087v1
+1109.1144v1,2011-09-06T11:12:42Z,Event Centric Modeling Approach in Colocation Pattern Snalysis from   Spatial Data,P. Prabhavathy,cs.DB,http://arxiv.org/pdf/1109.1144v1
+1109.1202v1,2011-09-06T14:32:05Z,Data Mining Techniques: A Source for Consumer Behavior Analysis,R. V. Kulkarni,cs.DB,http://arxiv.org/pdf/1109.1202v1
+1109.1302v1,2011-09-06T21:12:33Z,Adding a new site in an existing Oracle Multimaster replication without   quiescing the replication,Aleksander Xhuvani,cs.DB,http://arxiv.org/pdf/1109.1302v1
+1109.1359v1,2011-09-07T05:57:20Z,Representation for alphanumeric data type based on space and speed case   study: Student ID of X university,Agus Pratondo,cs.DB,http://arxiv.org/pdf/1109.1359v1
+1109.2427v1,2011-09-12T10:37:53Z,Maximal frequent itemset generation using segmentation approach,Dr. R. Nedunchezhian,cs.DB,http://arxiv.org/pdf/1109.2427v1
+1109.4288v4,2011-09-20T13:30:32Z,Adding Logical Operators to Tree Pattern Queries on Graph-Structured   Data,Hai Zhuge,cs.DB,http://arxiv.org/pdf/1109.4288v4
+1109.6299v1,2011-09-28T19:04:18Z,Sensitivity Analysis for Declarative Relational Query Languages with   Ordinal Ranks,Vilem Vychodil,cs.DB,http://arxiv.org/pdf/1109.6299v1
+1109.6880v1,2011-09-30T16:24:41Z,Explanation-Based Auditing,Kristen LeFevre,cs.DB,http://arxiv.org/pdf/1109.6880v1
+1109.6881v1,2011-09-30T16:24:47Z,Human-powered Sorts and Joins,Robert Miller,cs.DB,http://arxiv.org/pdf/1109.6881v1
+1109.6882v1,2011-09-30T16:24:53Z,Verifying Computations with Streaming Interactive Proofs,Ke Yi,cs.DB,http://arxiv.org/pdf/1109.6882v1
+1109.6883v1,2011-09-30T16:24:58Z,A MovingObject Index for Efficient Query Processing with Peer-Wise   Location Privacy,Jiaheng Lu,cs.DB,http://arxiv.org/pdf/1109.6883v1
+1109.6884v1,2011-09-30T16:25:02Z,ERA: Efficient Serial and Parallel Suffix Tree Construction for Very   Long Strings,Panos Kalnis,cs.DB,http://arxiv.org/pdf/1109.6884v1
+1109.6885v1,2011-09-30T16:25:08Z,Fast Updates on Read-Optimized Databases Using Multi-Core CPUs,Alexander Zeier,cs.DB,http://arxiv.org/pdf/1109.6885v1
+1109.6886v1,2011-09-30T16:25:13Z,A Data-Based Approach to Social Influence Maximization,Laks V. S. Lakshmanan,cs.DB,http://arxiv.org/pdf/1109.6886v1
+1110.0207v1,2011-10-02T17:49:47Z,Analysing complexity of XML Schemas in geospatial web services,Joaquín Huerta,cs.DB,http://arxiv.org/pdf/1110.0207v1
+1110.0209v1,2011-10-02T18:08:34Z,Dealing with large schema sets in mobile SOS-based applications,Joaquín Huerta,cs.DB,http://arxiv.org/pdf/1110.0209v1
+1110.1700v1,2011-10-08T06:05:02Z,Adaptive Data Stream Management System Using Learning Automata,Mostafa S. Haghjoo,cs.DB,http://arxiv.org/pdf/1110.1700v1
+1110.1729v1,2011-10-08T12:16:48Z,Array Requirements for Scientific Applications and an Implementation for   Microsoft SQL Server,Andrija Jovanovic,cs.DB,http://arxiv.org/pdf/1110.1729v1
+1110.2704v1,2011-10-12T17:06:12Z,An Efficient Fuzzy Clustering-Based Approach for Intrusion Detection,Jérôme Darmont,cs.DB,http://arxiv.org/pdf/1110.2704v1
+1110.2890v1,2011-10-13T10:45:33Z,ELCA Evaluation for Keyword Search on Probabilistic XML Data,Jeffrey Xu Yu,cs.DB,http://arxiv.org/pdf/1110.2890v1
+1110.3158v1,2011-10-14T09:25:52Z,Efficient Incremental Breadth-Depth XML Event Mining,Omar Boussaïd,cs.DB,http://arxiv.org/pdf/1110.3158v1
+1110.3569v1,2011-10-17T03:40:07Z,Dimension Reduction of Health Data Clustering,Abdullah Embong,cs.DB,http://arxiv.org/pdf/1110.3569v1
+1110.3879v1,2011-10-18T05:48:03Z,GTRACE-RS: Efficient Graph Sequence Mining using Reverse Search,Takashi Washio,cs.DB,http://arxiv.org/pdf/1110.3879v1
+1110.6647v1,2011-10-30T20:21:05Z,On Predictive Modeling for Optimizing Transaction Execution in Parallel   OLTP Systems,Stanley Zdonik,cs.DB,http://arxiv.org/pdf/1110.6647v1
+1110.6648v1,2011-10-30T20:21:16Z,View Selection in Semantic Web Databases,Ioana Manolescu,cs.DB,http://arxiv.org/pdf/1110.6648v1
+1110.6649v1,2011-10-30T20:21:30Z,Building Wavelet Histograms on Large Data in MapReduce,Feifei Li,cs.DB,http://arxiv.org/pdf/1110.6649v1
+1110.6650v1,2011-10-30T20:21:40Z,Summarization and Matching of Density-Based Clusters in Streaming   Environments,Matthew O. Ward,cs.DB,http://arxiv.org/pdf/1110.6650v1
+1110.6651v1,2011-10-30T20:21:47Z,Multilingual Schema Matching for Wikipedia Infoboxes,Juliana Freire,cs.DB,http://arxiv.org/pdf/1110.6651v1
+1110.6652v1,2011-10-30T20:22:00Z,Controlling False Positives in Association Rule Mining,Limsoon Wong,cs.DB,http://arxiv.org/pdf/1110.6652v1
+1111.2530v1,2011-11-10T17:34:05Z,A semantically enriched web usage based recommendation model,A. Govardhan,cs.DB,http://arxiv.org/pdf/1111.2530v1
+1111.2669v1,2011-11-11T06:24:49Z,A Novel Approach for Web Page Set Mining,Prasad Reddy P. V. G. D,cs.DB,http://arxiv.org/pdf/1111.2669v1
+1111.2852v1,2011-11-11T20:44:38Z,Principles of Distributed Data Management in 2020?,Patrick Valduriez,cs.DB,http://arxiv.org/pdf/1111.2852v1
+1111.3069v1,2011-11-13T22:06:36Z,A fusion algorithm for joins based on collections in Odra (Object   Database for Rapid Application development),Sami Halawani,cs.DB,http://arxiv.org/pdf/1111.3069v1
+1111.3689v1,2011-11-15T23:32:34Z,CBLOCK: An Automatic Blocking Mechanism for Large-Scale De-duplication   Tasks,Philip Bohannon,cs.DB,http://arxiv.org/pdf/1111.3689v1
+1111.5639v1,2011-11-23T22:28:38Z,A New Technique to Backup and Restore DBMS using XML and .NET   Technologies,Hassan Hayek,cs.DB,http://arxiv.org/pdf/1111.5639v1
+1111.5687v1,2011-11-24T07:52:59Z,Coron : Plate-forme d'extraction de connaissances dans les bases de   données,Laszlo Szathmary,cs.DB,http://arxiv.org/pdf/1111.5687v1
+1111.5690v1,2011-11-24T07:56:18Z,The Coron System,Jean Villerd,cs.DB,http://arxiv.org/pdf/1111.5690v1
+1111.6552v8,2011-11-28T19:17:40Z,Nouvelle représentation concise exacte des motifs corrélés rares :   Application à la détection d'intrusions,Sadok Ben Yahia,cs.DB,http://arxiv.org/pdf/1111.6552v8
+1111.7164v1,2011-11-30T14:08:40Z,"PARIS: Probabilistic Alignment of Relations, Instances, and Schema",Pierre Senellart,cs.DB,http://arxiv.org/pdf/1111.7164v1
+1111.7165v1,2011-11-30T14:09:11Z,Answering Top-k Queries Over a Mixture of Attractive and Repulsive   Dimensions,Ambuj K. Singh,cs.DB,http://arxiv.org/pdf/1111.7165v1
+1111.7166v1,2011-11-30T14:09:39Z,PIQL: Success-Tolerant Query Processing in the Cloud,David A. Patterson,cs.DB,http://arxiv.org/pdf/1111.7166v1
+1111.7167v1,2011-11-30T14:10:01Z,gSketch: On Query Estimation in Graph Streams,Min Wang,cs.DB,http://arxiv.org/pdf/1111.7167v1
+1111.7168v1,2011-11-30T14:10:17Z,Indexing the Earth Mover's Distance Using Normal Distributions,Ambuj K. Singh,cs.DB,http://arxiv.org/pdf/1111.7168v1
+1111.7169v1,2011-11-30T14:11:28Z,Size-l Object Summaries for Relational Keyword Search,Nikos Mamoulis,cs.DB,http://arxiv.org/pdf/1111.7169v1
+1111.7170v1,2011-11-30T14:11:53Z,REX: Explaining Relationships between Entity Pairs,Philip Bohannon,cs.DB,http://arxiv.org/pdf/1111.7170v1
+1111.7171v1,2011-11-30T14:12:22Z,PASS-JOIN: A Partition-based Method for Similarity Joins,Jianhua Feng,cs.DB,http://arxiv.org/pdf/1111.7171v1
+1111.7224v1,2011-11-30T16:08:06Z,Generating Exact- and Ranked Partially-Matched Answers to Questions in   Advertisements,Yiu-Kai Ng,cs.DB,http://arxiv.org/pdf/1111.7224v1
+1201.0226v1,2011-12-31T05:32:48Z,Towards Cost-Effective Storage Provisioning for DBMSs,Hakan Hacıgümüş,cs.DB,http://arxiv.org/pdf/1201.0226v1
+1201.0227v1,2011-12-31T05:33:08Z,B+-tree Index Optimization by Exploiting Internal Parallelism of   Flash-based Solid State Drives,Sang-Won Lee,cs.DB,http://arxiv.org/pdf/1201.0227v1
+1201.0228v1,2011-12-31T05:34:34Z,High-Performance Concurrency Control Mechanisms for Main-Memory   Databases,Mike Zwilling,cs.DB,http://arxiv.org/pdf/1201.0228v1
+1201.0229v1,2011-12-31T05:34:57Z,Capturing Topology in Graph Pattern Matching,Tianyu Wo,cs.DB,http://arxiv.org/pdf/1201.0229v1
+1201.0230v1,2011-12-31T05:35:26Z,RTED: A Robust Algorithm for the Tree Edit Distance,Nikolaus Augsten,cs.DB,http://arxiv.org/pdf/1201.0230v1
+1201.0231v1,2011-12-31T05:35:52Z,Putting Lipstick on Pig: Enabling Database-style Workflow Provenance,Val Tannen,cs.DB,http://arxiv.org/pdf/1201.0231v1
+1201.0232v1,2011-12-31T05:36:12Z,Relational Approach for Shortest Path Discovery over Large Graphs,Tengjiao Wang,cs.DB,http://arxiv.org/pdf/1201.0232v1
+1201.0233v1,2011-12-31T05:36:29Z,Mining Flipping Correlations from Large Datasets with Taxonomies,Jiawei Han,cs.DB,http://arxiv.org/pdf/1201.0233v1
+1201.0234v1,2011-12-31T05:36:46Z,A Statistical Approach Towards Robust Progress Estimation,Vivek Narasayya,cs.DB,http://arxiv.org/pdf/1201.0234v1
+1201.2766v1,2012-01-13T08:54:37Z,ART : Sub-Logarithmic Decentralized Range Query Processing with   Probabilistic Guarantees,Yannis Manolopoulos,cs.DB,http://arxiv.org/pdf/1201.2766v1
+1201.3458v1,2012-01-17T08:59:57Z,Detecting Priming News Events,Zheng Liu,cs.DB,http://arxiv.org/pdf/1201.3458v1
+1201.6112v1,2012-01-30T06:31:06Z,An Efficient Method for Mining Event-Related Potential Patterns,Saleh Ali Alomari,cs.DB,http://arxiv.org/pdf/1201.6112v1
+1201.6563v1,2012-01-31T15:08:41Z,Relation Strength-Aware Clustering of Heterogeneous Information Networks   with Incomplete Attributes,Jiawei Han,cs.DB,http://arxiv.org/pdf/1201.6563v1
+1201.6564v1,2012-01-31T15:08:53Z,Shortest Path and Distance Queries on Road Networks: An Experimental   Evaluation,Shuigeng Zhou,cs.DB,http://arxiv.org/pdf/1201.6564v1
+1201.6565v1,2012-01-31T15:09:10Z,The Filter-Placement Problem and its Application to Minimizing   Information Multiplicity,Azer Bestavros,cs.DB,http://arxiv.org/pdf/1201.6565v1
+1201.6566v1,2012-01-31T15:09:50Z,Fast and Exact Top-k Search for Random Walk with Restart,Masaru Kitsuregawa,cs.DB,http://arxiv.org/pdf/1201.6566v1
+1201.6567v1,2012-01-31T15:10:03Z,Densest Subgraph in Streaming and MapReduce,Sergei Vassilvitskii,cs.DB,http://arxiv.org/pdf/1201.6567v1
+1201.6568v1,2012-01-31T15:10:13Z,Mining Attribute-structure Correlated Patterns in Large Attributed   Graphs,Mohammed J. Zaki,cs.DB,http://arxiv.org/pdf/1201.6568v1
+1201.6569v1,2012-01-31T15:10:34Z,Aggregation in Probabilistic Databases via Knowledge Compilation,Dan Olteanu,cs.DB,http://arxiv.org/pdf/1201.6569v1
+1202.2335v1,2012-02-10T19:47:57Z,Getting It All from the Crowd,Purnamrita Sarkar,cs.DB,http://arxiv.org/pdf/1202.2335v1
+1202.2926v1,2012-02-14T03:13:10Z,Detection of Calendar-Based Periodicities of Interval-Based Temporal   Patterns,Mala Dutta,cs.DB,http://arxiv.org/pdf/1202.2926v1
+1202.3179v1,2012-02-15T00:23:24Z,Randomization Resilient To Sensitive Reconstruction,Ada Waichee Fu,cs.DB,http://arxiv.org/pdf/1202.3179v1
+1202.3215v1,2012-02-15T06:32:26Z,Data quality measurement on categorical data using genetic algorithm,T. Bhuvaneswari,cs.DB,http://arxiv.org/pdf/1202.3215v1
+1202.3253v1,2012-02-15T10:04:25Z,Small Count Privacy and Large Count Utility in Data Publishing,Raymond Chi-Wing Wong,cs.DB,http://arxiv.org/pdf/1202.3253v1
+1202.3461v2,2012-02-15T22:14:31Z,Adaptively Sharing Time-Series with Differential Privacy,Li Xiong,cs.DB,http://arxiv.org/pdf/1202.3461v2
+1202.3667v3,2012-02-16T19:04:49Z,On Directly Mapping Relational Databases to RDF and OWL (Extended   Version),Daniel P. Miranker,cs.DB,http://arxiv.org/pdf/1202.3667v3
+1202.3686v1,2012-02-16T20:18:48Z,Inferential or Differential: Privacy Laws Dictate,Raywong Chi-Wing Wong,cs.DB,http://arxiv.org/pdf/1202.3686v1
+1202.3807v1,2012-02-16T22:00:09Z,An Adaptive Mechanism for Accurate Query Answering under Differential   Privacy,Gerome Miklau,cs.DB,http://arxiv.org/pdf/1202.3807v1
+1202.4818v1,2012-02-22T05:07:44Z,Association Rule Mining Based On Trade List,Madhuri rao,cs.DB,http://arxiv.org/pdf/1202.4818v1
+1202.5358v1,2012-02-24T01:29:34Z,DPCube: Differentially Private Histogram Release through   Multidimensional Partitioning,Slawomir Goryczka,cs.DB,http://arxiv.org/pdf/1202.5358v1
+1202.6677v1,2012-02-29T20:37:33Z,Trajectory and Policy Aware Sender Anonymity in Location Based Services,Kevin Keliang Zhao,cs.DB,http://arxiv.org/pdf/1202.6677v1
+1203.0024v1,2012-02-29T21:41:50Z,Verification of Relational Data-Centric Dynamic Systems with External   Services,Marco Montali,cs.DB,http://arxiv.org/pdf/1203.0024v1
+1203.0055v1,2012-03-01T00:16:29Z,Stochastic Database Cracking: Towards Robust Adaptive Indexing in   Main-Memory Column-Stores,Roland H. C. Yap,cs.DB,http://arxiv.org/pdf/1203.0055v1
+1203.0056v1,2012-03-01T00:17:13Z,SharedDB: Killing One Thousand Queries With One Stone,Donald Kossmann,cs.DB,http://arxiv.org/pdf/1203.0056v1
+1203.0057v1,2012-03-01T00:17:22Z,Pushing the Boundaries of Crowd-enabled Databases with Query-driven   Schema Expansion,Wolf-Tilo Balke,cs.DB,http://arxiv.org/pdf/1203.0057v1
+1203.0059v1,2012-03-01T00:17:40Z,How to Price Shared Optimizations in the Cloud,Dan Suciu,cs.DB,http://arxiv.org/pdf/1203.0059v1
+1203.0060v1,2012-03-01T00:17:48Z,Dense Subgraph Maintenance under Streaming Edge Weight Updates for   Real-time Story Identification,Divesh Srivastava,cs.DB,http://arxiv.org/pdf/1203.0060v1
+1203.0061v1,2012-03-01T00:17:58Z,ReStore: Reusing Results of MapReduce Jobs,Ashraf Aboulnaga,cs.DB,http://arxiv.org/pdf/1203.0061v1
+1203.0077v1,2012-03-01T02:34:00Z,Queries with Guarded Negation (full version),Martin Otto,cs.DB,http://arxiv.org/pdf/1203.0077v1
+1203.0617v2,2012-03-03T07:19:56Z,Bayesian inference under differential privacy,Li Xiong,cs.DB,http://arxiv.org/pdf/1203.0617v2
+1203.1569v2,2012-03-07T18:53:35Z,SPARQL for a Web of Linked Data: Semantics and Computability (Extended   Version),Olaf Hartig,cs.DB,http://arxiv.org/pdf/1203.1569v2
+1203.1878v1,2012-03-08T18:30:25Z,Outlier detection from ETL Execution trace,Amlan Chakrabarti,cs.DB,http://arxiv.org/pdf/1203.1878v1
+1203.2574v2,2012-03-12T18:07:58Z,Towards a Unified Architecture for in-RDBMS Analytics,Christopher Ré,cs.DB,http://arxiv.org/pdf/1203.2574v2
+1203.4157v1,2012-03-19T16:38:05Z,Quartile Clustering: A quartile based technique for Generating   Meaningful Clusters,Amlan Chakrabarti,cs.DB,http://arxiv.org/pdf/1203.4157v1
+1203.4163v1,2012-03-19T16:54:39Z,Outlier Detection Techniques for SQL and ETL Tuning,Amlan Chakrabarti,cs.DB,http://arxiv.org/pdf/1203.4163v1
+1203.4380v3,2012-03-20T10:41:29Z,Analyzing closed frequent itemsets with convex polytopes,Natalia Vanetik,cs.DB,http://arxiv.org/pdf/1203.4380v3
+1203.4732v1,2012-03-21T13:34:38Z,A Unifying Framework to Characterize the Power of a Language to Express   Relations,Giancarlo Mauri,cs.DB,http://arxiv.org/pdf/1203.4732v1
+1203.6400v1,2012-03-29T00:04:35Z,PerfXplain: Debugging MapReduce Job Performance,Dan Suciu,cs.DB,http://arxiv.org/pdf/1203.6400v1
+1203.6401v1,2012-03-29T00:05:40Z,Uncertain Centroid based Partitional Clustering of Uncertain Data,Andrea Tagarelli,cs.DB,http://arxiv.org/pdf/1203.6401v1
+1203.6402v1,2012-03-29T00:06:07Z,Scalable K-Means++,Sergei Vassilvitskii,cs.DB,http://arxiv.org/pdf/1203.6402v1
+1203.6403v1,2012-03-29T00:06:16Z,Querying Schemas With Access Restrictions,Clemens Ley,cs.DB,http://arxiv.org/pdf/1203.6403v1
+1203.6404v1,2012-03-29T00:06:48Z,"Definition, Detection, and Recovery of Single-Page Failures, a Fourth   Class of Database Failures",Harumi Kuno,cs.DB,http://arxiv.org/pdf/1203.6404v1
+1203.6405v1,2012-03-29T00:07:00Z,Concurrency Control for Adaptive Indexing,Stefan Manegold,cs.DB,http://arxiv.org/pdf/1203.6405v1
+1203.6406v1,2012-03-29T00:07:19Z,An Analysis of Structured Data on the Web,Bo Pang,cs.DB,http://arxiv.org/pdf/1203.6406v1
+1203.6454v1,2012-03-29T07:43:18Z,XRecursive: An Efficient Method to Store and Query XML Documents,Norrozila Sulaiman,cs.DB,http://arxiv.org/pdf/1203.6454v1
+1204.0176v1,2012-04-01T08:17:47Z,Using Fuzzy Logic to Evaluate Normalization Completeness for An Improved   Database Design,Nayyar Iqbal,cs.DB,http://arxiv.org/pdf/1204.0176v1
+1204.0864v1,2012-04-04T05:07:47Z,GeT_Move: An Efficient and Unifying Spatio-Temporal Pattern Mining   Algorithm for Moving Objects,Maguelonne Teisseire,cs.DB,http://arxiv.org/pdf/1204.0864v1
+1204.2731v1,2012-04-12T14:05:37Z,How do Ontology Mappings Change in the Life Sciences?,Erhard Rahm,cs.DB,http://arxiv.org/pdf/1204.2731v1
+1204.3223v1,2012-04-14T22:30:15Z,Intelligent Database Flexible Querying System by Approximate Query   Processing,Habib Ounelli,cs.DB,http://arxiv.org/pdf/1204.3223v1
+1204.3432v3,2012-04-16T10:13:43Z,Converging to the Chase - a Tool for Finite Controllability,J. Marcinkowski,cs.DB,http://arxiv.org/pdf/1204.3432v3
+1204.4948v2,2012-04-22T23:47:28Z,On Injective Embeddings of Tree Patterns,Zhilin Wu,cs.DB,http://arxiv.org/pdf/1204.4948v2
+1204.5648v1,2012-04-25T13:01:23Z,Taxonomy and synthesis of Web services querying languages,Ounsa Roudies,cs.DB,http://arxiv.org/pdf/1204.5648v1
+1204.6076v1,2012-04-26T23:25:02Z,Shortest Path Computation with No Information Leakage,Man Lung Yiu,cs.DB,http://arxiv.org/pdf/1204.6076v1
+1204.6077v1,2012-04-26T23:25:14Z,V-SMART-Join: A Scalable MapReduce Framework for All-Pair Similarity   Joins of Multisets and Vectors,Christos Faloutsos,cs.DB,http://arxiv.org/pdf/1204.6077v1
+1204.6079v1,2012-04-26T23:25:35Z,Learning Semantic String Transformations from Examples,Sumit Gulwani,cs.DB,http://arxiv.org/pdf/1204.6079v1
+1204.6080v1,2012-04-26T23:25:43Z,Cologne: A Declarative Distributed Constraint Optimization Platform,Prithwish Basu,cs.DB,http://arxiv.org/pdf/1204.6080v1
+1204.6081v1,2012-04-26T23:25:50Z,Optimizing I/O for Big Array Analytics,Jun Yang,cs.DB,http://arxiv.org/pdf/1204.6081v1
+1205.0724v1,2011-12-14T11:46:13Z,Using Data Warehouse to Support Building Strategy or Forecast Business   Tend,Phuc V. Nguyen,cs.DB,http://arxiv.org/pdf/1205.0724v1
+1205.1126v1,2012-05-05T12:29:35Z,A Comprehensive Study of CRM through Data Mining Techniques,Khalid Raza,cs.DB,http://arxiv.org/pdf/1205.1126v1
+1205.1609v1,2012-05-08T07:21:44Z,CSHURI - Modified HURI algorithm for Customer Segmentation and   Transaction Profitability,O. P. Vyas,cs.DB,http://arxiv.org/pdf/1205.1609v1
+1205.1796v1,2012-05-08T19:58:28Z,Moving Object Trajectories Meta-Model And Spatio-Temporal Queries,Ahmed Lbath,cs.DB,http://arxiv.org/pdf/1205.1796v1
+1205.1923v1,2012-05-09T09:37:52Z,Using data mining techniques for diagnosis and prognosis of cancer   disease,Shweta Kharya,cs.DB,http://arxiv.org/pdf/1205.1923v1
+1205.2320v1,2012-05-10T17:29:05Z,Publishing Life Science Data as Linked Open Data: the Case Study of   miRBase,Artemis G. Hatzigeorgiou,cs.DB,http://arxiv.org/pdf/1205.2320v1
+1205.2465v1,2012-05-11T09:31:27Z,Identifying And Weighting Integration Hypotheses On Open Data Platforms,Wolfgang Lehner,cs.DB,http://arxiv.org/pdf/1205.2465v1
+1205.2691v2,2012-05-11T17:20:02Z,Improving Schema Matching with Linked Data,David Trastour,cs.DB,http://arxiv.org/pdf/1205.2691v2
+1205.2726v1,2012-05-11T21:38:16Z,Non-Interactive Differential Privacy: a Survey,David Leoni,cs.DB,http://arxiv.org/pdf/1205.2726v1
+1205.2880v1,2012-05-13T16:35:40Z,Efficient Spatial Keyword Search in Trajectory Databases,Meihui Zhang,cs.DB,http://arxiv.org/pdf/1205.2880v1
+1205.3231v1,2012-05-15T01:00:07Z,Survey on Distributed Data Mining in P2P Networks,Sabu M. Thampi,cs.DB,http://arxiv.org/pdf/1205.3231v1
+1205.3321v2,2012-05-15T11:00:48Z,Tree Projections and Structural Decomposition Methods: The Power of   Local Consistency and Larger Islands of Tractability,Francesco Scarcello,cs.DB,http://arxiv.org/pdf/1205.3321v2
+1205.5921v1,2012-05-26T22:37:10Z,Robust representation for conversion UML class into XML Document using   DOM,Mohamed BAHAJ,cs.DB,http://arxiv.org/pdf/1205.5921v1
+1205.5922v1,2012-05-26T22:41:44Z,Mapping relational database into OWL Structure with data semantic   preservation,Mohamed Bahaj,cs.DB,http://arxiv.org/pdf/1205.5922v1
+1205.6691v1,2012-05-30T14:32:16Z,Efficient Subgraph Matching on Billion Node Graphs,Jianzhong Li,cs.DB,http://arxiv.org/pdf/1205.6691v1
+1205.6692v1,2012-05-30T14:32:39Z,Efficient Subgraph Similarity Search on Large Probabilistic Graph   Databases,Haixun Wang,cs.DB,http://arxiv.org/pdf/1205.6692v1
+1205.6693v1,2012-05-30T14:32:46Z,Truss Decomposition in Massive Networks,James Cheng,cs.DB,http://arxiv.org/pdf/1205.6693v1
+1205.6694v1,2012-05-30T14:32:51Z,SEAL: Spatio-Textual Similarity Search,Jun Hu,cs.DB,http://arxiv.org/pdf/1205.6694v1
+1205.6695v1,2012-05-30T14:32:56Z,On The Spatiotemporal Burstiness of Terms,Vassilis J. Tsotras,cs.DB,http://arxiv.org/pdf/1205.6695v1
+1205.6696v1,2012-05-30T14:33:01Z,Efficient Reachability Query Evaluation in Large Spatiotemporal Contact   Datasets,Cyrus Shahabi,cs.DB,http://arxiv.org/pdf/1205.6696v1
+1205.6697v1,2012-05-30T14:33:06Z,Boosting Moving Object Indexing through Velocity Partitioning,Phillip Ward,cs.DB,http://arxiv.org/pdf/1205.6697v1
+1205.6698v1,2012-05-30T14:33:10Z,Type-Based Detection of XML Query-Update Independence,Federico Ulliana,cs.DB,http://arxiv.org/pdf/1205.6698v1
+1205.6699v1,2012-05-30T14:33:38Z,Minuet: A Scalable Distributed Multiversion B-Tree,Mehul A. Shah,cs.DB,http://arxiv.org/pdf/1205.6699v1
+1205.6700v1,2012-05-30T14:33:56Z,Challenging the Long Tail Recommendation,Chen Chen,cs.DB,http://arxiv.org/pdf/1205.6700v1
+1206.0021v1,2012-05-31T20:15:35Z,Clinical Productivity System - A Decision Support Model,Casey C. Bennett,cs.DB,http://arxiv.org/pdf/1206.0021v1
+1206.0217v1,2012-06-01T15:06:58Z,Efficient techniques for mining spatial databases,Mohamed A. El-Zawawy,cs.DB,http://arxiv.org/pdf/1206.0217v1
+1206.1032v1,2012-06-05T19:26:24Z,Frequent Patterns mining in time-sensitive Data Stream,Med Salah Gouider,cs.DB,http://arxiv.org/pdf/1206.1032v1
+1206.6646v1,2012-06-28T12:06:51Z,Aggregate Skyline Join Queries: Skylines with Aggregate Operations over   Multiple Relations,B. Palvali Teja,cs.DB,http://arxiv.org/pdf/1206.6646v1
+1207.0132v1,2012-06-30T20:10:21Z,Answering Table Queries on the Web using Column Keywords,Sunita Sarawagi,cs.DB,http://arxiv.org/pdf/1207.0132v1
+1207.0134v1,2012-06-30T20:15:28Z,SODA: Generating SQL for Business Users,Kurt Stockinger,cs.DB,http://arxiv.org/pdf/1207.0134v1
+1207.0135v1,2012-06-30T20:16:16Z,Privacy Preservation by Disassociation,Spiros Skiadopoulos,cs.DB,http://arxiv.org/pdf/1207.0135v1
+1207.0136v1,2012-06-30T20:17:05Z,Supercharging Recommender Systems using Taxonomies for Learning User   Purchase Behavior,Lluis Garcia-Pueyo,cs.DB,http://arxiv.org/pdf/1207.0136v1
+1207.0137v1,2012-06-30T20:17:47Z,"DBToaster: Higher-order Delta Processing for Dynamic, Frequently Fresh   Views",Milos Nikolic,cs.DB,http://arxiv.org/pdf/1207.0137v1
+1207.0139v1,2012-06-30T20:19:09Z,Sketch-based Querying of Distributed Sliding-Window Data Streams,Antonios Deligiannakis,cs.DB,http://arxiv.org/pdf/1207.0139v1
+1207.0140v1,2012-06-30T20:19:50Z,LogBase: A Scalable Log-structured Database System in the Cloud,Beng Chin Ooi,cs.DB,http://arxiv.org/pdf/1207.0140v1
+1207.0141v1,2012-06-30T20:20:31Z,Efficient Processing of k Nearest Neighbor Joins using MapReduce,Beng Chin Ooi,cs.DB,http://arxiv.org/pdf/1207.0141v1
+1207.0142v1,2012-06-30T20:21:10Z,Early Accurate Results for Advanced Analytics on MapReduce,Carlo Zaniolo,cs.DB,http://arxiv.org/pdf/1207.0142v1
+1207.0143v1,2012-06-30T20:21:52Z,CDAS: A Crowdsourcing Data Analytics System,Meihui Zhang,cs.DB,http://arxiv.org/pdf/1207.0143v1
+1207.0144v1,2012-06-30T20:22:30Z,Mining Statistically Significant Substrings using the Chi-Square   Statistic,Arnab Bhattacharya,cs.DB,http://arxiv.org/pdf/1207.0144v1
+1207.0145v1,2012-06-30T20:23:09Z,Massively Parallel Sort-Merge Joins in Main Memory Multi-Core Database   Systems,Thomas Neumann,cs.DB,http://arxiv.org/pdf/1207.0145v1
+1207.0147v1,2012-06-30T20:41:39Z,hStorage-DB: Heterogeneity-aware Data Management to Exploit the Full   Capability of Hybrid Storage Systems,Xiaodong Zhang,cs.DB,http://arxiv.org/pdf/1207.0147v1
+1207.1535v1,2012-07-06T07:06:06Z,Data Mining on Educational Domain,Nikhil Rajadhyax,cs.DB,http://arxiv.org/pdf/1207.1535v1
+1207.2189v3,2012-07-09T21:47:13Z,Reordering Rows for Better Compression: Beyond the Lexicographic Order,Eduardo Gutarra,cs.DB,http://arxiv.org/pdf/1207.2189v3
+1207.4570v2,2012-07-19T07:14:15Z,Presentation an Approach for Optimization of Semantic Web Language Based   on the Document Structure,Jamshidi,cs.DB,http://arxiv.org/pdf/1207.4570v2
+1207.4958v1,2012-07-11T11:11:54Z,Minimally Infrequent Itemset Mining using Pattern-Growth Paradigm and   Residual Trees,Arnab Bhattacharya,cs.DB,http://arxiv.org/pdf/1207.4958v1
+1207.5226v2,2012-07-22T13:10:33Z,On the Relative Trust between Inconsistent Data and Inaccurate   Constraints,Artur Galiullin,cs.DB,http://arxiv.org/pdf/1207.5226v2
+1207.5466v1,2012-07-23T17:57:47Z,"Approximate Inverse Frequent Itemset Mining: Privacy, Complexity, and   Approximation",Xintao Wu,cs.DB,http://arxiv.org/pdf/1207.5466v1
+1207.6096v1,2012-07-25T19:31:18Z,Accurate and Efficient Private Release of Datacubes and Contingency   Tables,Grigory Yaroslavtsev,cs.DB,http://arxiv.org/pdf/1207.6096v1
+1207.6560v1,2012-07-27T14:49:18Z,Covering Rough Sets From a Topological Point of View,Nguyen Duc Thuan,cs.DB,http://arxiv.org/pdf/1207.6560v1
+1208.0073v1,2012-08-01T03:42:19Z,A Scalable Algorithm for Maximizing Range Sum in Spatial Databases,Yufei Tao,cs.DB,http://arxiv.org/pdf/1208.0073v1
+1208.0074v1,2012-08-01T03:43:08Z,Spatial Queries with Two kNN Predicates,Mourad Ouzzani,cs.DB,http://arxiv.org/pdf/1208.0074v1
+1208.0075v1,2012-08-01T03:43:52Z,Optimal Algorithms for Crawling a Hidden Database in the Web,Xin Jin,cs.DB,http://arxiv.org/pdf/1208.0075v1
+1208.0076v1,2012-08-01T03:44:46Z,Diversifying Top-K Results,Lijun Chang,cs.DB,http://arxiv.org/pdf/1208.0076v1
+1208.0077v1,2012-08-01T03:45:38Z,Keyword-aware Optimal Route Search,Xiaokui Xiao,cs.DB,http://arxiv.org/pdf/1208.0077v1
+1208.0078v1,2012-08-01T03:46:21Z,Answering Queries using Views over Probabilistic XML: Complexity and   Tractability,Evgeny Kharlamov,cs.DB,http://arxiv.org/pdf/1208.0078v1
+1208.0079v1,2012-08-01T03:47:10Z,Probabilistic Databases with MarkoViews,Dan Suciu,cs.DB,http://arxiv.org/pdf/1208.0079v1
+1208.0080v1,2012-08-01T03:47:57Z,The Complexity of Social Coordination,Johannes Gehrke,cs.DB,http://arxiv.org/pdf/1208.0080v1
+1208.0081v1,2012-08-01T03:48:44Z,Efficient Multi-way Theta-Join Processing Using MapReduce,Min Wang,cs.DB,http://arxiv.org/pdf/1208.0081v1
+1208.0082v1,2012-08-01T03:49:32Z,Stubby: A Transformation-based Optimizer for MapReduce Workflows,Shivnath Babu,cs.DB,http://arxiv.org/pdf/1208.0082v1
+1208.0083v1,2012-08-01T03:50:17Z,Labeling Workflow Views with Fine-Grained Dependencies,Tova Milo,cs.DB,http://arxiv.org/pdf/1208.0083v1
+1208.0084v1,2012-08-01T03:51:05Z,Fundamentals of Order Dependencies,Jarek Gryz,cs.DB,http://arxiv.org/pdf/1208.0084v1
+1208.0086v1,2012-08-01T03:52:40Z,Optimization of Analytic Window Functions,Kian-Lee Tan,cs.DB,http://arxiv.org/pdf/1208.0086v1
+1208.0087v1,2012-08-01T03:53:27Z,Opening the Black Boxes in Data Flow Optimization,Kostas Tzoumas,cs.DB,http://arxiv.org/pdf/1208.0087v1
+1208.0088v1,2012-08-01T03:54:11Z,Spinning Fast Iterative Data Flows,Volker Markl,cs.DB,http://arxiv.org/pdf/1208.0088v1
+1208.0089v1,2012-08-01T03:54:58Z,"REX: Recursive, Delta-Based Data-Centric Computation",Sudipto Guha,cs.DB,http://arxiv.org/pdf/1208.0089v1
+1208.0090v1,2012-08-01T03:55:46Z,K-Reach: Who is in Your Small World,Jeffrey Xu Yu,cs.DB,http://arxiv.org/pdf/1208.0090v1
+1208.0091v1,2012-08-01T03:56:31Z,Performance Guarantees for Distributed Reachability Queries,Yinghui Wu,cs.DB,http://arxiv.org/pdf/1208.0091v1
+1208.0092v1,2012-08-01T03:57:16Z,Efficient Indexing and Querying over Syntactically Annotated Trees,Davood Rafiei,cs.DB,http://arxiv.org/pdf/1208.0092v1
+1208.0093v1,2012-08-01T03:58:50Z,PrivBasis: Frequent Itemset Mining with Differential Privacy,Jianneng Cao,cs.DB,http://arxiv.org/pdf/1208.0093v1
+1208.0094v1,2012-08-01T03:59:34Z,Low-Rank Mechanism: Optimizing Batch Queries under Differential Privacy,Zhifeng Hao,cs.DB,http://arxiv.org/pdf/1208.0094v1
+1208.0163v1,2012-08-01T10:21:55Z,Spatial and Spatio-Temporal Multidimensional Data Modelling: A Survey,Mohamed Salah Gouider,cs.DB,http://arxiv.org/pdf/1208.0163v1
+1208.0203v1,2012-08-01T13:27:20Z,Towards the Next Generation of Data Warehouse Personalization System: A   Survey and a Comparative Study,Mohamed Salah Gouider,cs.DB,http://arxiv.org/pdf/1208.0203v1
+1208.0219v1,2012-08-01T14:11:04Z,Functional Mechanism: Regression Analysis under Differential Privacy,Marianne Winslett,cs.DB,http://arxiv.org/pdf/1208.0219v1
+1208.0220v1,2012-08-01T14:11:45Z,Publishing Microdata with a Robust Privacy Guarantee,Panagiotis Karras,cs.DB,http://arxiv.org/pdf/1208.0220v1
+1208.0221v1,2012-08-01T14:12:02Z,Measuring Two-Event Structural Correlations on Graphs,Lance M. Kaplan,cs.DB,http://arxiv.org/pdf/1208.0221v1
+1208.0222v1,2012-08-01T14:12:21Z,Ranking Large Temporal Data,Mingwang Tang,cs.DB,http://arxiv.org/pdf/1208.0222v1
+1208.0224v1,2012-08-01T14:13:12Z,Compacting Transactional Data in Hybrid OLTP & OLAP Databases,Thomas Neumann,cs.DB,http://arxiv.org/pdf/1208.0224v1
+1208.0225v1,2012-08-01T14:13:23Z,Processing a Trillion Cells per Mouse Click,Marc Nunkesser,cs.DB,http://arxiv.org/pdf/1208.0225v1
+1208.0227v1,2012-08-01T14:13:33Z,OLTP on Hardware Islands,Anastasia Ailamaki,cs.DB,http://arxiv.org/pdf/1208.0227v1
+1208.0270v1,2012-08-01T16:48:57Z,"Serializability, not Serial: Concurrency Control and Availability in   Multi-Datacenter Datastores",Amr El Abbadi,cs.DB,http://arxiv.org/pdf/1208.0270v1
+1208.0271v1,2012-08-01T16:49:06Z,Automatic Partitioning of Database Applications,Andrew C. Myers,cs.DB,http://arxiv.org/pdf/1208.0271v1
+1208.0273v1,2012-08-01T16:49:31Z,Whom to Ask? Jury Selection for Decision Making Tasks on Micro-blog   Services,Lei Chen,cs.DB,http://arxiv.org/pdf/1208.0273v1
+1208.0274v1,2012-08-01T16:49:39Z,ALAE: Accelerating Local Alignment with Affine Gap Exactly in   Biosequence Databases,Bin Wang,cs.DB,http://arxiv.org/pdf/1208.0274v1
+1208.0275v1,2012-08-01T16:49:49Z,sDTW: Computing DTW Distances using Locally Relevant Constraints based   on Salient Feature Alignments,Xiaolan Wang,cs.DB,http://arxiv.org/pdf/1208.0275v1
+1208.0276v1,2012-08-01T16:49:56Z,SCOUT: Prefetching for Latent Feature Following Queries,Anastasia Ailamaki,cs.DB,http://arxiv.org/pdf/1208.0276v1
+1208.0277v1,2012-08-01T16:50:06Z,Accelerating Pathology Image Data Cross-Comparison on CPU-GPU Hybrid   Systems,Joel H. Saltz,cs.DB,http://arxiv.org/pdf/1208.0277v1
+1208.0278v1,2012-08-01T16:50:15Z,Robust Estimation of Resource Consumption for SQL Queries using   Statistical Techniques,Surajit Chaudhuri,cs.DB,http://arxiv.org/pdf/1208.0278v1
+1208.0285v1,2012-08-01T17:20:05Z,Who Tags What? An Analysis Framework,Cong Yu,cs.DB,http://arxiv.org/pdf/1208.0285v1
+1208.0286v1,2012-08-01T17:20:11Z,A Generic Framework for Efficient and Effective Subsequence Retrieval,Vassilis Athitsos,cs.DB,http://arxiv.org/pdf/1208.0286v1
+1208.0287v1,2012-08-01T17:20:18Z,Only Aggressive Elephants are Fast Elephants,Jörg Schad,cs.DB,http://arxiv.org/pdf/1208.0287v1
+1208.0288v1,2012-08-01T17:20:26Z,Multiple Location Profiling for Users and Relationships from Social   Network and Content,Kevin Chen-Chuan Chang,cs.DB,http://arxiv.org/pdf/1208.0288v1
+1208.0289v1,2012-08-01T17:20:34Z,Flash-based Extended Cache for Higher Throughput and Faster Recovery,Bongki Moon,cs.DB,http://arxiv.org/pdf/1208.0289v1
+1208.0290v1,2012-08-01T17:21:23Z,Don't Thrash: How to Cache Your Hash on Flash,Erez Zadok,cs.DB,http://arxiv.org/pdf/1208.0290v1
+1208.0291v1,2012-08-01T17:21:32Z,Learning Expressive Linkage Rules using Genetic Programming,Christian Bizer,cs.DB,http://arxiv.org/pdf/1208.0291v1
+1208.0292v1,2012-08-01T17:22:19Z,Mining Frequent Itemsets over Uncertain Databases,Philip S. Yu,cs.DB,http://arxiv.org/pdf/1208.0292v1
+1208.0684v1,2012-08-03T08:17:57Z,Comparative Evaluation of Data Stream Indexing Models,MohammadReza Keyvanpour,cs.DB,http://arxiv.org/pdf/1208.0684v1
+1208.1231v1,2012-08-06T18:26:17Z,Building and Maintaining Halls of Fame over a Database,Aleksandar Stupar,cs.DB,http://arxiv.org/pdf/1208.1231v1
+1208.1927v1,2012-08-09T14:46:38Z,CrowdER: Crowdsourcing Entity Resolution,Jianhua Feng,cs.DB,http://arxiv.org/pdf/1208.1927v1
+1208.1931v1,2012-08-09T14:52:01Z,Uncertain Time-Series Similarity: Return to the Basics,Themis Palpanas,cs.DB,http://arxiv.org/pdf/1208.1931v1
+1208.1932v1,2012-08-09T14:52:19Z,Statistical Distortion: Consequences of Data Cleaning,Ji Meng Loh,cs.DB,http://arxiv.org/pdf/1208.1932v1
+1208.1933v1,2012-08-09T14:54:33Z,Towards Energy-Efficient Database Cluster Design,Dimitris Tsirogiannis,cs.DB,http://arxiv.org/pdf/1208.1933v1
+1208.2448v3,2012-08-12T18:51:23Z,Breaking Out The XML MisMatch Trap,Jiaheng Lu,cs.DB,http://arxiv.org/pdf/1208.2448v3
+1208.2773v1,2012-08-14T02:42:01Z,Privacy Preserving Record Linkage via grams Projections,Benjamin C. M. Fung,cs.DB,http://arxiv.org/pdf/1208.2773v1
+1208.3307v3,2012-08-16T07:43:28Z,"Impedance mismatch is not an ""Objects vs. Relations"" problem",Grigoriev Evgeny,cs.DB,http://arxiv.org/pdf/1208.3307v3
+1208.3533v2,2012-08-17T05:45:18Z,DisC Diversity: Result Diversification based on Dissimilarity and   Coverage,Evaggelia Pitoura,cs.DB,http://arxiv.org/pdf/1208.3533v2
+1208.3812v1,2012-08-19T06:09:49Z,Algorithms for Efficient Mining of Statistically Significant Attribute   Association Information,Murali Ramanathan,cs.DB,http://arxiv.org/pdf/1208.3812v1
+1208.3876v1,2012-08-19T18:34:28Z,Digging Deeper into Deep Web Databases by Breaking Through the Top-k   Barrier,Gautam Das,cs.DB,http://arxiv.org/pdf/1208.3876v1
+1208.4016v1,2012-08-20T14:09:01Z,Concept driven framework for Latent Table Discovery,F Sagayaraj Francis,cs.DB,http://arxiv.org/pdf/1208.4016v1
+1208.4145v1,2012-08-21T00:13:56Z,Injecting Uncertainty in Graphs for Identity Obfuscation,Tamir Tassa,cs.DB,http://arxiv.org/pdf/1208.4145v1
+1208.4165v1,2012-08-21T02:52:27Z,"The MADlib Analytics Library or MAD Skills, the SQL",Arun Kumar,cs.DB,http://arxiv.org/pdf/1208.4165v1
+1208.4166v1,2012-08-21T02:52:46Z,Can the Elephants Handle the NoSQL Onslaught?,Donghui Zhang,cs.DB,http://arxiv.org/pdf/1208.4166v1
+1208.4167v1,2012-08-21T02:52:55Z,Solving Big Data Challenges for Enterprise Application Performance   Management,Serge Mankowskii,cs.DB,http://arxiv.org/pdf/1208.4167v1
+1208.4168v1,2012-08-21T02:53:00Z,M3R: Increased performance for in-memory Hadoop jobs,Vijay Saraswat,cs.DB,http://arxiv.org/pdf/1208.4168v1
+1208.4169v1,2012-08-21T02:53:09Z,A Storage Advisor for Hybrid-Store Databases,Franz Faerber,cs.DB,http://arxiv.org/pdf/1208.4169v1
+1208.4170v1,2012-08-21T02:53:17Z,From Cooperative Scans to Predictive Buffer Management,Marcin Żukowski,cs.DB,http://arxiv.org/pdf/1208.4170v1
+1208.4171v1,2012-08-21T02:53:45Z,The Unified Logging Infrastructure for Data Analytics at Twitter,Dmitriy Ryaboy,cs.DB,http://arxiv.org/pdf/1208.4171v1
+1208.4172v1,2012-08-21T02:53:49Z,Transaction Log Based Application Error Recovery and Point In-Time Query,Hanuma Kodavalla,cs.DB,http://arxiv.org/pdf/1208.4172v1
+1208.4173v1,2012-08-21T02:53:52Z,The Vertica Analytic Database: C-Store 7 Years Later,Chuck Bear,cs.DB,http://arxiv.org/pdf/1208.4173v1
+1208.4174v1,2012-08-21T02:53:55Z,Interactive Analytical Processing in Big Data Systems: A Cross-Industry   Study of MapReduce Workloads,Randy Katz,cs.DB,http://arxiv.org/pdf/1208.4174v1
+1208.4175v1,2012-08-21T02:53:58Z,Muppet: MapReduce-Style Processing of Fast Data,AnHai Doan,cs.DB,http://arxiv.org/pdf/1208.4175v1
+1208.4176v1,2012-08-21T02:54:03Z,Building User-defined Runtime Adaptation Routines for Stream Processing   Applications,Vibhore Kumar,cs.DB,http://arxiv.org/pdf/1208.4176v1
+1208.4178v1,2012-08-21T02:56:43Z,MOIST: A Scalable and Parallel Moving Object Indexer with School   Tracking,Yuqian Li,cs.DB,http://arxiv.org/pdf/1208.4178v1
+1208.4179v1,2012-08-21T02:56:46Z,Serializable Snapshot Isolation in PostgreSQL,Kevin Grittner,cs.DB,http://arxiv.org/pdf/1208.4179v1
+1208.4270v1,2012-08-21T14:01:36Z,ODYS: A Massively-Parallel Search Engine Using a DB-IR   Tightly-Integrated Parallel DBMS,In-Joong Kim,cs.DB,http://arxiv.org/pdf/1208.4270v1
+1208.4809v1,2012-08-23T17:32:32Z,Comparing N-Node Set Importance Representative results with Node   Importance Representative results for Categorical Clustering: An exploratory   study,B. Ramasubba Reddy,cs.DB,http://arxiv.org/pdf/1208.4809v1
+1208.5443v1,2012-08-27T16:50:53Z,A Framework for Extracting Semantic Guarantees from Privacy,Daniel Kifer,cs.DB,http://arxiv.org/pdf/1208.5443v1
+1208.5745v1,2012-08-28T18:52:12Z,Bayes Networks for Supporting Query Processing Over Incomplete   Autonomous Databases,Subbarao Kambhampati,cs.DB,http://arxiv.org/pdf/1208.5745v1
+1209.0378v2,2012-09-03T15:04:55Z,Provenance for SPARQL queries,G. Antoniou,cs.DB,http://arxiv.org/pdf/1209.0378v2
+1209.1794v1,2012-09-09T11:54:39Z,A New Similairty Measure For Spatial Personalization,Mohamed Salah Gouider,cs.DB,http://arxiv.org/pdf/1209.1794v1
+1209.2647v1,2012-09-12T15:48:33Z,"Shadow Theory, data model design for data integration",Jason T. Liu,cs.DB,http://arxiv.org/pdf/1209.2647v1
+1209.2794v1,2012-09-13T07:07:24Z,Protecting oracle pl/sql source code from a dba user,Aleksander Xhuvani,cs.DB,http://arxiv.org/pdf/1209.2794v1
+1209.3756v3,2012-09-17T19:10:38Z,Incomplete Information in RDF,Manolis Koubarakis,cs.DB,http://arxiv.org/pdf/1209.3756v3
+1209.3943v1,2012-09-18T13:04:01Z,Formal Concept Analysis Based Association Rules Extraction,Wafa Tebourski Ourida Ben Boubaker Saidi,cs.DB,http://arxiv.org/pdf/1209.3943v1
+1209.3944v1,2012-09-18T13:09:24Z,Cyclic Association Rules Mining under Constraints,Wafa Tebourski Wahiba Ben Abdessalem Karaa,cs.DB,http://arxiv.org/pdf/1209.3944v1
+1209.4169v1,2012-09-19T07:23:02Z,Hybrid Data Mining Technique for Knowledge Discovery from Engineering   Materials' Data sets,Hemanth K. S,cs.DB,http://arxiv.org/pdf/1209.4169v1
+1209.5244v1,2012-09-24T12:24:49Z,Ranking Search Engine Result Pages based on Trustworthiness of Websites,L. M. Patnaik,cs.DB,http://arxiv.org/pdf/1209.5244v1
+1209.5426v2,2012-09-24T21:17:09Z,A Coherent Distributed Grid Service for Assimilation and Unification of   Heterogeneous Data Source,Manzur H. Khan,cs.DB,http://arxiv.org/pdf/1209.5426v2
+1209.5598v3,2012-09-25T13:13:11Z,Granular association rules on two universes with four measures,Fan Min,cs.DB,http://arxiv.org/pdf/1209.5598v3
+1209.5625v1,2012-09-25T14:37:48Z,Managing Complex Structured Data In a Fast Evolving Environment,Robert Smith,cs.DB,http://arxiv.org/pdf/1209.5625v1
+1209.6297v1,2012-09-27T17:29:58Z,An Efficient Algorithm for Mining Multilevel Association Rule Based on   Pincer Search,Rahul Shukla,cs.DB,http://arxiv.org/pdf/1209.6297v1
+1209.6490v1,2012-09-28T11:47:00Z,Spatial Indexing of Large Multidimensional Databases,Alexander Szalay,cs.DB,http://arxiv.org/pdf/1209.6490v1
+1210.1040v1,2012-10-03T09:19:19Z,A Comparative Analysis of Data Mining Tools in Agent Based Systems,V. Suma,cs.DB,http://arxiv.org/pdf/1210.1040v1
+1210.2872v1,2012-10-10T11:12:13Z,Data Mining and Its Applications for Knowledge Management: A Literature   Review from 2007 to 2012,Kulthida Tuamsuk,cs.DB,http://arxiv.org/pdf/1210.2872v1
+1210.4405v2,2012-10-05T09:49:35Z,Semantic integration and analysis of clinical data,Dirk Colaert,cs.DB,http://arxiv.org/pdf/1210.4405v2
+1210.5403v1,2012-10-19T12:39:17Z,An Experience Report of Large Scale Federations,Ralf Schenkel,cs.DB,http://arxiv.org/pdf/1210.5403v1
+1210.5980v1,2012-10-22T17:38:29Z,The Ontological Key: Automatically Understanding and Integrating Forms   to Access the Deep Web,Christian Schallhart,cs.DB,http://arxiv.org/pdf/1210.5980v1
+1210.5984v1,2012-10-22T17:58:07Z,AMBER: Automatic Supervision for Multi-Attribute Extraction,Cheng Wang,cs.DB,http://arxiv.org/pdf/1210.5984v1
+1210.6242v1,2012-10-23T14:22:02Z,Enhancing Algebraic Query Relaxation with Semantic Similarity,Lena Wiese,cs.DB,http://arxiv.org/pdf/1210.6242v1
+1210.6272v2,2012-10-23T15:46:23Z,Affinity-based XML Fragmentation,Carmem Satie Hara,cs.DB,http://arxiv.org/pdf/1210.6272v2
+1210.6746v1,2012-10-25T06:30:51Z,Shared Execution of Path Queries on Road Networks,Tanzima Hashem,cs.DB,http://arxiv.org/pdf/1210.6746v1
+1210.8229v1,2012-10-31T05:09:32Z,Top Down Approach to find Maximal Frequent Item Sets using Subset   Creation,Radhika M. Pai,cs.DB,http://arxiv.org/pdf/1210.8229v1
+1212.0254v1,2012-12-02T22:50:25Z,Resolution and Datalog Rewriting Under Value Invention and Equality   Constraints,Bruno Marnette,cs.DB,http://arxiv.org/pdf/1212.0254v1
+1212.0317v1,2012-12-03T08:50:50Z,An Improved UP-Growth High Utility Itemset Mining,M. H. M. Krishna Prasad,cs.DB,http://arxiv.org/pdf/1212.0317v1
+1212.1469v1,2012-12-06T21:05:47Z,mqr-tree: A 2-dimensional Spatial Access Method,Wendy Osborn,cs.DB,http://arxiv.org/pdf/1212.1469v1
+1212.2071v1,2012-12-10T14:09:03Z,A Data Warehouse Design for a Typical University Information System,Youssef Bassil,cs.DB,http://arxiv.org/pdf/1212.2071v1
+1212.2251v1,2012-12-10T23:47:25Z,A Propagation Model for Provenance Views of Public/Private Workflows,Sudeepa Roy,cs.DB,http://arxiv.org/pdf/1212.2251v1
+1212.2338v1,2012-12-11T09:02:45Z,Controlled conflict resolution for replicated document,Pascal Urso,cs.DB,http://arxiv.org/pdf/1212.2338v1
+1212.3501v1,2012-12-14T15:28:45Z,On optimum left-to-right strategies for active context-free games,Joscha Kulbatzki,cs.DB,http://arxiv.org/pdf/1212.3501v1
+1212.5636v1,2012-12-21T23:51:05Z,Partout: A Distributed Engine for Efficient RDF Processing,Ralf Schenkel,cs.DB,http://arxiv.org/pdf/1212.5636v1
+1212.6051v1,2012-12-25T14:07:44Z,Automatic approach for generating ETL operators,Hanene Ben-Abdallah,cs.DB,http://arxiv.org/pdf/1212.6051v1
+1212.6383v1,2012-12-27T15:15:48Z,Heuristics Miners for Streaming Event Data,Wil M. P. van der Aalst,cs.DB,http://arxiv.org/pdf/1212.6383v1
+1212.6636v2,2012-12-29T15:07:50Z,A Dichotomy on the Complexity of Consistent Query Answering for Atoms   with Simple Keys,Dan Suciu,cs.DB,http://arxiv.org/pdf/1212.6636v2
+1302.0103v2,2013-02-01T07:51:58Z,"A Survey on Array Storage, Query Languages, and Systems",Yu Cheng,cs.DB,http://arxiv.org/pdf/1302.0103v2
+1302.0309v2,2013-02-01T22:29:28Z,Highly Available Transactions: Virtues and Limitations (Extended   Version),Ion Stoica,cs.DB,http://arxiv.org/pdf/1302.0309v2
+1302.0337v1,2013-02-02T03:36:37Z,Perancangan basisdata sistem informasi penggajian,Leon Andretti Abdillah,cs.DB,http://arxiv.org/pdf/1302.0337v1
+1302.0351v2,2013-02-02T06:51:20Z,New Dimension Value Introduction for In-Memory What-If Analysis,Manish Mishra,cs.DB,http://arxiv.org/pdf/1302.0351v2
+1302.0914v5,2013-02-05T01:24:12Z,Beyond Worst-Case Analysis for Joins with Minesweeper,Atri Rudra,cs.DB,http://arxiv.org/pdf/1302.0914v5
+1302.0971v1,2013-02-05T09:32:54Z,Validasi data dengan menggunakan objek lookup pada borland delphi 7.0,Leon Andretti Abdillah,cs.DB,http://arxiv.org/pdf/1302.0971v1
+1302.1638v1,2013-02-07T04:29:39Z,Discovery of Maximal Frequent Item Sets using Subset Creation,Jnanamurthy H. K.,cs.DB,http://arxiv.org/pdf/1302.1638v1
+1302.1923v1,2013-02-08T01:22:54Z,Update XML Views,Jeffery Xu Yu,cs.DB,http://arxiv.org/pdf/1302.1923v1
+1302.2966v1,2013-02-13T01:35:03Z,The Family of MapReduce and Large Scale Data Processing Systems,Ayman G. Fayoumi,cs.DB,http://arxiv.org/pdf/1302.2966v1
+1302.6556v3,2013-02-26T19:49:55Z,On Sharing Private Data with Multiple Non-Colluding Adversaries,Ashwin Machanavajjhala,cs.DB,http://arxiv.org/pdf/1302.6556v3
+1303.0866v1,2013-03-04T21:32:18Z,Adaptive Partitioning and its Applicability to a Highly Scalable and   Available Geo-Spatial Indexing Solution,David W. LeJeune Jr,cs.DB,http://arxiv.org/pdf/1303.0866v1
+1303.1951v1,2013-03-08T11:13:02Z,Approximate k-nearest neighbour based spatial clustering using k-d tree,Dr. Mohammed Otair,cs.DB,http://arxiv.org/pdf/1303.1951v1
+1303.2310v1,2013-03-10T11:49:41Z,Trajectory Based Optimal Segment Computation in Road Network Databases,Kian-Lee Tan,cs.DB,http://arxiv.org/pdf/1303.2310v1
+1303.2595v1,2013-03-11T17:46:13Z,"Integrating Space, Time, Version and Scale Using Alexandrov Topologies",Martin Breunig,cs.DB,http://arxiv.org/pdf/1303.2595v1
+1303.3233v1,2013-03-13T17:53:15Z,Consistency Checking and Querying in Probabilistic Databases under   Integrity Constraints,Francesco Parisi,cs.DB,http://arxiv.org/pdf/1303.3233v1
+1303.4277v4,2013-03-18T15:03:43Z,Simple Schemas for Unordered XML,Slawek Staworko,cs.DB,http://arxiv.org/pdf/1303.4277v4
+1303.4471v1,2013-03-19T02:15:24Z,BarQL: Collaborating Through Change,Lukasz Ziarek,cs.DB,http://arxiv.org/pdf/1303.4471v1
+1303.4869v1,2013-03-20T08:22:11Z,Does query performance optimization lead to energy efficiency? A   comparative analysis of energy efficiency of database operations under   different workload scenarios,Richard Göbel,cs.DB,http://arxiv.org/pdf/1303.4869v1
+1303.6682v1,2013-03-26T22:10:15Z,Anatomy of the chase,Adrian Onet,cs.DB,http://arxiv.org/pdf/1303.6682v1
+1304.0567v1,2013-04-02T09:02:48Z,On the Formulation of Performant SPARQL Queries,Paul Groth,cs.DB,http://arxiv.org/pdf/1304.0567v1
+1304.0959v1,2013-04-03T14:11:04Z,Conditional Tables in practice,Nihat Tartal,cs.DB,http://arxiv.org/pdf/1304.0959v1
+1304.1411v2,2013-04-04T15:54:48Z,RITA: An Index-Tuning Advisor for Replicated Databases,Anastasia Ailamaki,cs.DB,http://arxiv.org/pdf/1304.1411v2
+1304.2184v1,2013-04-08T12:29:31Z,Object-Oriented Translation for Programmable Relational System (DRAFT),Evgeniy Grigoriev,cs.DB,http://arxiv.org/pdf/1304.2184v1
+1304.2637v2,2013-04-09T15:40:21Z,Containment of Nested Regular Expressions,Juan L. Reutter,cs.DB,http://arxiv.org/pdf/1304.2637v2
+1304.3120v1,2013-04-10T00:25:01Z,"GUI Database for the Equipment Store of the Department of Geomatic   Engineering, KNUST",J. E. N. Ablade,cs.DB,http://arxiv.org/pdf/1304.3120v1
+1304.3603v1,2013-04-12T11:02:56Z,SCAF An effective approach to Classify Subspace Clustering algorithms,Parag Kulkarni,cs.DB,http://arxiv.org/pdf/1304.3603v1
+1304.4184v1,2013-04-15T17:36:57Z,Bidirectional Growth based Mining and Cyclic Behaviour Analysis of Web   Sequential Patterns,L. M. Patnaik,cs.DB,http://arxiv.org/pdf/1304.4184v1
+1304.4187v1,2013-04-15T18:00:40Z,The Webdamlog System Managing Distributed Knowledge on the Web,Julia Stoyanovich,cs.DB,http://arxiv.org/pdf/1304.4187v1
+1304.4303v1,2013-04-16T00:21:25Z,Learning and Verifying Quantified Boolean Queries by Example,Avi Silberschatz,cs.DB,http://arxiv.org/pdf/1304.4303v1
+1304.4795v1,2013-04-17T12:40:15Z,"Recursive Mechanism: Towards Node Differential Privacy and Unrestricted   Joins [Full Version, Draft 0.1]",Shuigeng Zhou,cs.DB,http://arxiv.org/pdf/1304.4795v1
+1304.7285v1,2013-04-25T09:27:18Z,Traitement approximatif des requêtes flexibles avec groupement   d'attributs et jointure,Soukaina Ben Bdira,cs.DB,http://arxiv.org/pdf/1304.7285v1
+1304.7799v3,2013-04-29T20:49:49Z,Left Bit Right: For SPARQL Join Queries with OPTIONAL Patterns   (Left-outer-joins),Medha Atre,cs.DB,http://arxiv.org/pdf/1304.7799v3
+1304.7854v2,2013-04-30T04:05:44Z,On the Complexity of Query Answering under Matching Dependencies for   Entity Resolution,Jaffer Gardezi,cs.DB,http://arxiv.org/pdf/1304.7854v2
+1307.0191v1,2013-06-30T09:53:16Z,"NoSQL Database: New Era of Databases for Big data Analytics -   Classification, Characteristics and Comparison",Syed Akhter Hossain,cs.DB,http://arxiv.org/pdf/1307.0191v1
+1307.0193v1,2013-06-30T10:07:22Z,A Sampling Algebra for Aggregate Estimation,Chris Jermaine,cs.DB,http://arxiv.org/pdf/1307.0193v1
+1307.0844v1,2013-07-02T20:50:15Z,Making massive probabilistic databases practical,Christopher Dudley,cs.DB,http://arxiv.org/pdf/1307.0844v1
+1307.1927v1,2013-07-07T22:20:27Z,Link Based Session Reconstruction: Finding All Maximal Paths,Ismail Hakki Toroslu,cs.DB,http://arxiv.org/pdf/1307.1927v1
+1307.2554v1,2013-07-09T19:31:50Z,Les index pour les entrepôts de données : comparaison entre index   arbre-B et Bitmap,El Amin Aoulad Abdelouarit,cs.DB,http://arxiv.org/pdf/1307.2554v1
+1307.2603v1,2013-07-09T21:08:27Z,Ontology Based Data Integration Over Document and Column Family Oriented   NOSQL,Chan Le Duc,cs.DB,http://arxiv.org/pdf/1307.2603v1
+1307.2991v2,2013-07-11T07:03:06Z,Integrity Verification for Outsourcing Uncertain Frequent Itemset Mining,Xudong Gong,cs.DB,http://arxiv.org/pdf/1307.2991v2
+1307.3046v1,2013-07-11T10:35:01Z,Spatio-Temporal Queries for moving objects Data warehousing,Mohamed El-Sharkawi,cs.DB,http://arxiv.org/pdf/1307.3046v1
+1307.3061v1,2013-07-11T11:30:32Z,The technology of using a data warehouse to support decision-making in   health care,Ahmed Nour Eldeen,cs.DB,http://arxiv.org/pdf/1307.3061v1
+1307.3419v2,2013-07-12T11:30:58Z,Pleasantly Consuming Linked Data with RDF Data Descriptions,Georg Lausen,cs.DB,http://arxiv.org/pdf/1307.3419v2
+1307.3448v1,2013-07-12T13:16:21Z,Evaluating a healthcare data warehouse for cancer diseases,Ahmed Nour Eldeen,cs.DB,http://arxiv.org/pdf/1307.3448v1
+1307.4519v1,2013-07-17T07:09:30Z,Extending the ER Model to relational Model novel transformation   Algorithm: transforming relationship Types among Subtypes,Dhammika Pieris,cs.DB,http://arxiv.org/pdf/1307.4519v1
+1307.5437v1,2013-07-20T16:19:35Z,Algorithm and approaches to handle large Data- A Survey,Manoj Kumar,cs.DB,http://arxiv.org/pdf/1307.5437v1
+1307.6348v2,2013-07-24T09:33:41Z,Learning Schemas for Unordered XML,Slawek Staworko,cs.DB,http://arxiv.org/pdf/1307.6348v2
+1307.7328v1,2013-07-28T03:50:16Z,Data Warehouse Success and Strategic Oriented Business Intelligence: A   Theoretical Framework,Mahmoud Al-Dalahmeh,cs.DB,http://arxiv.org/pdf/1307.7328v1
+1307.7411v3,2013-07-28T22:17:40Z,Towards an Efficient Discovery of the Topological Representative   Subgraphs,Engelbert Mephu Nguifo,cs.DB,http://arxiv.org/pdf/1307.7411v3
+1307.8269v1,2013-07-31T10:21:33Z,Introducing Access Control in Webdamlog,Vera Zaychik Moffitt,cs.DB,http://arxiv.org/pdf/1307.8269v1
+1310.0141v4,2013-10-01T05:02:14Z,Hopping over Big Data: Accelerating Ad-hoc OLAP Queries with Grasshopper   Algorithms,Alexander Russakovsky,cs.DB,http://arxiv.org/pdf/1310.0141v4
+1310.1161v1,2013-10-04T03:48:41Z,Identifying Correlated Heavy-Hitters in a Two-Dimensional Data Stream,Srikanta Tirthapura,cs.DB,http://arxiv.org/pdf/1310.1161v1
+1310.1190v1,2013-10-04T07:43:00Z,Review on Fragment Allocation by using Clustering Technique in   Distributed Database System,Sanjay Kumar Padhi,cs.DB,http://arxiv.org/pdf/1310.1190v1
+1310.2367v1,2013-10-09T06:22:15Z,Handy Annotations within Oracle 10g,Mr. Chaitanya Bilaware,cs.DB,http://arxiv.org/pdf/1310.2367v1
+1310.3939v1,2013-10-15T07:38:36Z,Multi-Sorted Inverse Frequent Itemsets Mining,Antonio Piccolo,cs.DB,http://arxiv.org/pdf/1310.3939v1
+1310.5254v1,2013-10-19T17:30:48Z,Real Time Data Warehouse,Syed Ijaz Ahmad Bukhari,cs.DB,http://arxiv.org/pdf/1310.5254v1
+1310.5841v1,2013-10-22T08:50:41Z,Ontology based data warehouses federation management system,Abderrafiaa Elkalay,cs.DB,http://arxiv.org/pdf/1310.5841v1
+1310.6833v1,2013-10-25T06:50:48Z,New Proximity Estimate for Incremental Update of Non-uniformly   Distributed Clusters,M. Shashi,cs.DB,http://arxiv.org/pdf/1310.6833v1
+1310.7297v1,2013-10-28T02:38:26Z,Scalable Visibility Color Map Construction in Spatial Databases,Ishat E Rabban,cs.DB,http://arxiv.org/pdf/1310.7297v1
+1311.0059v1,2013-10-31T22:51:50Z,Revisiting Aggregation for Data Intensive Applications: A Performance   Study,Vassilis J. Tsotras,cs.DB,http://arxiv.org/pdf/1311.0059v1
+1311.0320v2,2013-11-01T22:52:00Z,Explicit and Implicit Constrained-Space Probabilistic Threshold Range   Queries for Moving Objects,Minyi Guo,cs.DB,http://arxiv.org/pdf/1311.0320v2
+1311.0350v1,2013-11-02T06:55:10Z,Sequential Mining: Patterns and Algorithms Analysis,Amor Lazzez,cs.DB,http://arxiv.org/pdf/1311.0350v1
+1311.0505v1,2013-11-03T18:48:50Z,Automated Change Detection and Reactive Clustering in Multivariate   Streaming Data,Dang-Hoan Tran,cs.DB,http://arxiv.org/pdf/1311.0505v1
+1311.0536v3,2013-11-03T21:57:48Z,"The SPARQL2XQuery Interoperability Framework. Utilizing Schema Mapping,   Schema Transformation and Query Translation to Integrate XML and the Semantic   Web",Stavros Christodoulakis,cs.DB,http://arxiv.org/pdf/1311.0536v3
+1311.0805v2,2013-11-04T18:29:45Z,On the inequality of the 3V's of Big Data Architectural Paradigms: A   case for heterogeneity,Roberto V. Zicari,cs.DB,http://arxiv.org/pdf/1311.0805v2
+1311.0841v2,2013-11-04T20:39:16Z,A multi-terabyte relational database for geo-tagged social network data,Gábor Vattay,cs.DB,http://arxiv.org/pdf/1311.0841v2
+1311.2100v1,2013-11-08T22:47:39Z,Querying Knowledge Graphs by Example Entity Tuples,Ramez Elmasri,cs.DB,http://arxiv.org/pdf/1311.2100v1
+1311.2342v1,2013-11-11T03:15:38Z,Anatomy of Graph Matching based on an XQuery and RDF Implementation,Hasan M. Jamil,cs.DB,http://arxiv.org/pdf/1311.2342v1
+1311.3312v1,2013-11-13T21:14:40Z,Synthetic Data Generation using Benerator Tool,Liam Murphy,cs.DB,http://arxiv.org/pdf/1311.3312v1
+1311.3879v1,2013-11-15T15:34:26Z,Answering SPARQL queries modulo RDF Schema with paths,Jérôme Euzenat,cs.DB,http://arxiv.org/pdf/1311.3879v1
+1311.4040v1,2013-11-16T09:59:05Z,Enhanced XML Validation using SRML,Ferenc Havasi,cs.DB,http://arxiv.org/pdf/1311.4040v1
+1311.4121v1,2013-11-17T06:27:50Z,Application of Rough Set Theory in Data Mining,Thabet Slimani,cs.DB,http://arxiv.org/pdf/1311.4121v1
+1311.4529v2,2013-11-18T20:44:13Z,Incremental Discovery of Prominent Situational Facts,Cong Yu,cs.DB,http://arxiv.org/pdf/1311.4529v2
+1311.4610v2,2013-11-19T02:23:03Z,Scientific Workflows and Provenance: Introduction and Research   Opportunities,Bertram Ludäscher,cs.DB,http://arxiv.org/pdf/1311.4610v2
+1311.5204v1,2013-11-18T09:06:59Z,On Quantifying Qualitative Geospatial Data: A Probabilistic Approach,Anastasios Kyrillidis,cs.DB,http://arxiv.org/pdf/1311.5204v1
+1311.5663v1,2013-11-22T07:48:25Z,Scalable Data Cube Analysis over Big Data,Xiaolong Xu,cs.DB,http://arxiv.org/pdf/1311.5663v1
+1311.6335v1,2013-11-25T15:26:49Z,SOFA: An Extensible Logical Optimizer for UDF-heavy Dataflows,Felix Naumann,cs.DB,http://arxiv.org/pdf/1311.6335v1
+1311.6570v2,2013-11-26T07:17:23Z,XQuery Streaming by Forest Transducers,Hideya Iwasaki,cs.DB,http://arxiv.org/pdf/1311.6570v2
+1311.6714v1,2013-11-26T15:55:41Z,Efficient XML Keyword Search based on DAG-Compression,Jonathan Rabe,cs.DB,http://arxiv.org/pdf/1311.6714v1
+1311.7219v2,2013-11-28T07:06:56Z,Partitioning Clustering algorithms for handling numerical and   categorical data: a review,Trupti M. Kodinariya Dr. Prashant R. Makwana,cs.DB,http://arxiv.org/pdf/1311.7219v2
+1311.7307v4,2013-11-28T13:03:12Z,Schemas for Unordered XML on a DIME,Sławek Staworko,cs.DB,http://arxiv.org/pdf/1311.7307v4
+1404.0046v1,2014-03-31T21:39:29Z,Approximation Schemes for Many-Objective Query Optimization,Christoph Koch,cs.DB,http://arxiv.org/pdf/1404.0046v1
+1404.0696v1,2014-04-02T20:31:12Z,D-P2P-Sim+:A Novel Distributed Framework for P2P Protocols Performance   Testing,Y. Manolopoulos,cs.DB,http://arxiv.org/pdf/1404.0696v1
+1404.1270v2,2014-04-04T14:39:48Z,Validating RDF with Shape Expressions,Sławek Staworko,cs.DB,http://arxiv.org/pdf/1404.1270v2
+1404.2034v1,2014-04-08T08:11:32Z,Main Memory Adaptive Indexing for Multi-core Systems,Stefan Richter,cs.DB,http://arxiv.org/pdf/1404.2034v1
+1404.2160v1,2014-04-08T14:46:03Z,SAP HANA and its performance benefits,Craig Brockman,cs.DB,http://arxiv.org/pdf/1404.2160v1
+1404.3461v1,2014-04-14T05:20:48Z,A 2D based Partition Strategy for Solving Ranking under Team Context   (RTP),Ling Feng,cs.DB,http://arxiv.org/pdf/1404.3461v1
+1404.4286v1,2014-04-16T15:31:38Z,Case study: Data Mining of Associate Degree Accepted Candidates by   Modular Method,Maryam Nazaridoust,cs.DB,http://arxiv.org/pdf/1404.4286v1
+1404.4963v2,2014-04-19T15:46:01Z,Functional dependencies with null markers,Daniel Lemire,cs.DB,http://arxiv.org/pdf/1404.4963v2
+1404.6570v1,2014-04-25T22:12:40Z,EAGr: Supporting Continuous Ego-centric Aggregate Queries over Large   Dynamic Graphs,Amol Deshpande,cs.DB,http://arxiv.org/pdf/1404.6570v1
+1404.6664v2,2014-04-26T17:11:22Z,How to extract data from proprietary software database systems using   TCP/IP?,Marc Burdon,cs.DB,http://arxiv.org/pdf/1404.6664v2
+1404.6857v2,2014-04-28T02:58:31Z,Causality in Databases: The Diagnosis and Repair Connections,Leopoldo Bertossi,cs.DB,http://arxiv.org/pdf/1404.6857v2
+1404.7571v1,2014-04-30T01:57:40Z,Continuous Matrix Approximation on Distributed Data,Feifei Li,cs.DB,http://arxiv.org/pdf/1404.7571v1
+1405.0253v2,2014-05-01T19:09:39Z,Approximate Query Answering in Inconsistent Databases,Federica Panella,cs.DB,http://arxiv.org/pdf/1405.0253v2
+1405.1339v1,2014-05-06T16:22:38Z,General upper bounds for well-behaving goodness measures on dependency   rules,Wilhelmiina Hämäläinen,cs.DB,http://arxiv.org/pdf/1405.1339v1
+1405.1360v1,2014-05-06T16:54:20Z,Assessing the statistical significance of association rules,Wilhelmiina Hämäläinen,cs.DB,http://arxiv.org/pdf/1405.1360v1
+1405.1705v1,2014-05-07T19:14:42Z,Scalable Fault-Tolerant Data Feeds in AsterixDB,Michael J. Carey,cs.DB,http://arxiv.org/pdf/1405.1705v1
+1405.1851v1,2014-05-08T09:26:52Z,Output Privacy Protection With Pattern-Based Heuristic Algorithm,A. R. Mohammed Shanavas,cs.DB,http://arxiv.org/pdf/1405.1851v1
+1405.1912v1,2014-05-08T13:06:34Z,The Efficiency Examination of Teaching of Different Normalization   Methods,Márta Czenky,cs.DB,http://arxiv.org/pdf/1405.1912v1
+1405.2848v1,2014-05-12T17:34:45Z,Query Rewriting and Optimization for Ontological Databases,Andreas Pieris,cs.DB,http://arxiv.org/pdf/1405.2848v1
+1405.3631v8,2014-05-14T19:17:36Z,"The SQL++ Query Language: Configurable, Unifying and Semi-structured",Romain Vernoux,cs.DB,http://arxiv.org/pdf/1405.3631v8
+1405.4228v2,2014-05-16T16:18:56Z,"Unifying Causality, Diagnosis, Repairs and View-Updates in Databases",Babak Salimi,cs.DB,http://arxiv.org/pdf/1405.4228v2
+1405.4979v1,2014-05-20T07:44:03Z,PHD-Store: An Adaptive SPARQL Engine with Dynamic Partitioning for   Distributed RDF Repositories,Panos Kalnis,cs.DB,http://arxiv.org/pdf/1405.4979v1
+1405.5905v2,2014-05-22T20:43:51Z,Managing large-scale scientific hypotheses as uncertain and   probabilistic data with support for predictive analytics,Fabio Porto,cs.DB,http://arxiv.org/pdf/1405.5905v2
+1405.7264v2,2014-05-28T14:47:50Z,On the CALM Principle for Bulk Synchronous Parallel Computation,Letizia Tanca,cs.DB,http://arxiv.org/pdf/1405.7264v2
+1407.0454v1,2014-07-02T04:29:54Z,"AsterixDB: A Scalable, Open Source BDMS",Till Westmann,cs.DB,http://arxiv.org/pdf/1407.0454v1
+1407.0455v1,2014-07-02T05:04:28Z,Pregelix: Big(ger) Graph Analytics on A Dataflow Engine,Tyson Condie,cs.DB,http://arxiv.org/pdf/1407.0455v1
+1407.1807v1,2014-07-04T19:28:35Z,Building A Smart Academic Advising System Using Association Rule Mining,Mohammed Al-Maolegi,cs.DB,http://arxiv.org/pdf/1407.1807v1
+1407.2279v1,2014-07-08T21:31:32Z,The data-exchange chase under the microscope,Adrian Onet,cs.DB,http://arxiv.org/pdf/1407.2279v1
+1407.2899v1,2014-07-10T18:39:47Z,Fedra: Query Processing for SPARQL Federations with Divergence,Maria-Esther Vidal,cs.DB,http://arxiv.org/pdf/1407.2899v1
+1407.3745v1,2014-07-14T17:53:30Z,Query Optimization for Dynamic Graphs,John Feo,cs.DB,http://arxiv.org/pdf/1407.3745v1
+1407.3850v1,2014-07-15T00:15:11Z,KDD-SC: Subspace Clustering Extensions for Knowledge Discovery   Frameworks,Thomas Seidl,cs.DB,http://arxiv.org/pdf/1407.3850v1
+1407.5661v1,2014-07-21T20:34:32Z,Evaluating Accumulo Performance for a Scalable Cyber Data Processing   Pipeline,B. David O'Gwynn,cs.DB,http://arxiv.org/pdf/1407.5661v1
+1407.8515v1,2014-07-29T05:33:53Z,Integrated ERP System for Improving the Functional efficiency of the   organization by Customized Architecture,Preeti Patil,cs.DB,http://arxiv.org/pdf/1407.8515v1
+1507.00541v1,2015-07-02T12:09:29Z,Relational Division in Rank-Aware Databases,Vilem Vychodil,cs.DB,http://arxiv.org/pdf/1507.00541v1
+1507.00819v1,2015-07-03T05:33:04Z,Improving package recommendations through query relaxation,Alexandra Meliou,cs.DB,http://arxiv.org/pdf/1507.00819v1
+1507.00942v1,2015-07-03T15:22:57Z,PackageBuilder: From Tuples to Packages,Alexandra Meliou,cs.DB,http://arxiv.org/pdf/1507.00942v1
+1507.01685v1,2015-07-07T06:48:40Z,Periodicity Detection of Outlier Sequences Using Constraint Based   Pattern Tree with MAD,S. S. Pawar,cs.DB,http://arxiv.org/pdf/1507.01685v1
+1507.01759v1,2015-07-07T11:40:47Z,Mining high on-shelf utility itemsets with negative values from dynamic   updated database,S. S. Pawar,cs.DB,http://arxiv.org/pdf/1507.01759v1
+1507.02321v1,2015-07-08T21:51:11Z,On the Evaluation of RDF Distribution Algorithms Implemented over Apache   Spark,Bernd Amann,cs.DB,http://arxiv.org/pdf/1507.02321v1
+1507.03049v2,2015-07-11T00:17:59Z,Forecasting the cost of processing multi-join queries via hashing for   main-memory databases (Extended version),Spyros Blanas,cs.DB,http://arxiv.org/pdf/1507.03049v2
+1507.04180v1,2015-07-15T11:59:07Z,Wikidata through the Eyes of DBpedia,Sebastian Hellmann,cs.DB,http://arxiv.org/pdf/1507.04180v1
+1507.04614v2,2015-07-16T15:19:03Z,LDQL: A Query Language for the Web of Linked Data (Extended Version),Jorge Pérez,cs.DB,http://arxiv.org/pdf/1507.04614v2
+1507.04955v1,2015-07-17T13:04:32Z,Structurally Tractable Uncertain Data,Antoine Amarilli,cs.DB,http://arxiv.org/pdf/1507.04955v1
+1507.05591v3,2015-07-20T18:59:25Z,Estimating the Impact of Unknown Unknowns on Aggregate Query Results,Tim Kraska,cs.DB,http://arxiv.org/pdf/1507.05591v3
+1507.08257v1,2015-07-29T18:46:03Z,Ordering Selection Operators Using the Minmax Regret Rule,Peter T. Wood,cs.DB,http://arxiv.org/pdf/1507.08257v1
+0910.3372v4,2009-10-18T13:46:36Z,Composition and Inversion of Schema Mappings,Cristian Riveros,cs.DB,http://arxiv.org/pdf/0910.3372v4
+1003.1179v1,2010-03-05T03:24:13Z,View Synthesis from Schema Mappings,Moshe Y. Vardi,cs.DB,http://arxiv.org/pdf/1003.1179v1
+1003.1500v1,2010-03-07T17:44:18Z,Hierarchical Approach for Online Mining--Emphasis towards Software   Metrics,P. Satish,cs.DB,http://arxiv.org/pdf/1003.1500v1
+1003.1816v1,2010-03-09T07:31:37Z,Role of Data Mining in E-Payment systems,Partha Pratim Ghosh,cs.DB,http://arxiv.org/pdf/1003.1816v1
+1003.3370v1,2010-03-17T14:01:19Z,Adding HL7 version 3 data types to PostgreSQL,Ander de Keijzer,cs.DB,http://arxiv.org/pdf/1003.3370v1
+1003.4068v1,2010-03-22T05:38:24Z,A Novel Approach For Discovery Multi Level Fuzzy Association Rule Mining,K. R. Pardasani,cs.DB,http://arxiv.org/pdf/1003.4068v1
+1003.4076v1,2010-03-22T06:23:56Z,Similarity Data Item Set Approach: An Encoded Temporal Data Base   Technique,K. Duraiswamy,cs.DB,http://arxiv.org/pdf/1003.4076v1
+1003.4353v2,2010-03-23T09:11:11Z,XPath Whole Query Optimization,Kim Nguyen,cs.DB,http://arxiv.org/pdf/1003.4353v2
+1003.4827v1,2010-03-25T09:23:18Z,Tuple-based abstract data types: full parallelism,Carmelo Malta,cs.DB,http://arxiv.org/pdf/1003.4827v1
+1003.4828v1,2010-03-25T09:33:35Z,A framework for designing concurrent and recoverable abstract data types   based on commutativity,José Martinez,cs.DB,http://arxiv.org/pdf/1003.4828v1
+1003.4830v1,2010-03-25T09:52:39Z,Limits of Commutativity on Abstract Data Types,José Martinez,cs.DB,http://arxiv.org/pdf/1003.4830v1
+1003.4836v1,2010-03-25T09:55:48Z,Automating Fine Concurrency Control in Object-Oriented Databases,José Martinez,cs.DB,http://arxiv.org/pdf/1003.4836v1
+1003.5056v1,2010-03-26T07:46:33Z,Cubes convexes,Lotfi Lakhal,cs.DB,http://arxiv.org/pdf/1003.5056v1
+1003.5080v1,2010-03-26T08:19:02Z,Transparent Anonymization: Thwarting Adversaries Who Know the Algorithm,Nick Koudas,cs.DB,http://arxiv.org/pdf/1003.5080v1
+1005.0198v1,2010-05-03T06:36:10Z,Personnalisation de Systèmes OLAP Annotés,Olivier Teste,cs.DB,http://arxiv.org/pdf/1005.0198v1
+1005.0201v1,2010-05-03T06:40:36Z,Personnalisation de bases de données multidimensionnelles,Gilles Zurfluh,cs.DB,http://arxiv.org/pdf/1005.0201v1
+1005.0212v1,2010-05-03T07:43:22Z,Construction graphique d'entrepôts et de magasins de données,Olivier Teste,cs.DB,http://arxiv.org/pdf/1005.0212v1
+1005.0213v1,2010-05-03T07:43:25Z,Algèbre OLAP et langage graphique,Gilles Zurfluh,cs.DB,http://arxiv.org/pdf/1005.0213v1
+1005.0214v1,2010-05-03T07:43:45Z,Modélisation et extraction de données pour un entrepôt objet,Zurfluh Gilles,cs.DB,http://arxiv.org/pdf/1005.0214v1
+1005.0217v1,2010-05-03T07:47:20Z,Analyse multigraduelle OLAP,Olivier Teste,cs.DB,http://arxiv.org/pdf/1005.0217v1
+1005.0218v1,2010-05-03T07:47:56Z,Contraintes pour modèle et langage multidimensionnels,Gilles Zurfluh,cs.DB,http://arxiv.org/pdf/1005.0218v1
+1005.0219v1,2010-05-03T07:48:53Z,Modélisation et manipulation de données historisées et archivées   dans un entrepôt orienté objet,Olivier Teste,cs.DB,http://arxiv.org/pdf/1005.0219v1
+1005.0220v1,2010-05-03T07:49:14Z,Elaboration d'entrepôts de données complexes,Olivier Teste,cs.DB,http://arxiv.org/pdf/1005.0220v1
+1005.0224v1,2010-05-03T07:55:33Z,Towards Conceptual Multidimensional Design in Decision Support Systems,Olivier Teste,cs.DB,http://arxiv.org/pdf/1005.0224v1
+1005.0813v1,2010-04-13T23:30:24Z,"TSDS: high-performance merge, subset, and filter software for time   series-like data",J. Faden,cs.DB,http://arxiv.org/pdf/1005.0813v1
+1005.0972v1,2010-05-06T10:47:03Z,Adaptive Tuning Algorithm for Performance tuning of Database Management   System,U. P. Kulkarni,cs.DB,http://arxiv.org/pdf/1005.0972v1
+1005.4714v2,2010-05-26T00:06:09Z,Defining and Mining Functional Dependencies in Probabilistic Databases,Subbarao Kambhampati,cs.DB,http://arxiv.org/pdf/1005.4714v2
+1005.5432v1,2010-05-29T07:27:24Z,Attribute oriented induction with star schema,Spits Warnars H. L. H,cs.DB,http://arxiv.org/pdf/1005.5432v1
+1005.5433v1,2010-05-29T07:35:23Z,A Data Warehouse Assistant Design System Based on Clover Model,Jalel Akaichi,cs.DB,http://arxiv.org/pdf/1005.5433v1
+1005.5434v1,2010-05-29T07:38:51Z,Efficient Support Coupled Frequent Pattern Mining Over Progressive   Databases,Durga Toshniwal,cs.DB,http://arxiv.org/pdf/1005.5434v1
+1005.5438v1,2010-05-29T08:16:38Z,Query Routing and Processing in Peer-To-Peer Data Sharing Systems,Franck Morvan,cs.DB,http://arxiv.org/pdf/1005.5438v1
+1005.5514v1,2010-05-30T11:13:08Z,Managing Semantic Loss during Query Reformulation in Peer Data   Management Systems,Paraskevas V. Lekeas,cs.DB,http://arxiv.org/pdf/1005.5514v1
+1005.5732v2,2010-05-31T19:40:01Z,A New Framework for Join Product Skew,Dora Souliou,cs.DB,http://arxiv.org/pdf/1005.5732v2
+1006.0575v1,2010-06-03T07:59:15Z,XQ2P: Efficient XQuery P2P Time Series Processing,Laurent Yeh,cs.DB,http://arxiv.org/pdf/1006.0575v1
+1006.0576v1,2010-06-03T07:59:40Z,Gestion efficace de séries temporelles en P2P: Application à   l'analyse technique et l'étude des objets mobiles,Iulian Sandu-Popa,cs.DB,http://arxiv.org/pdf/1006.0576v1
+1006.0876v1,2010-06-04T12:03:32Z,Building a Data Warehouse for National Social Security Fund of the   Republic of Tunisia,Amine Farhat,cs.DB,http://arxiv.org/pdf/1006.0876v1
+1006.1309v1,2010-06-07T17:47:30Z,Using Grid Files for a Relational Database Management System,S. Srikumar,cs.DB,http://arxiv.org/pdf/1006.1309v1
+1006.1663v1,2010-06-08T20:57:02Z,Tata Kelola Database Perguruan Tinggi Yang Optimal Dengan Data Warehouse,Spits Warnars,cs.DB,http://arxiv.org/pdf/1006.1663v1
+1006.1695v1,2010-06-09T03:19:36Z,Attribute Oriented Induction with simple select SQL statement,Spits Warnars,cs.DB,http://arxiv.org/pdf/1006.1695v1
+1006.1699v1,2010-06-09T03:43:16Z,Multidimensional Datawarehouse with Combination Formula,Spits Warnars,cs.DB,http://arxiv.org/pdf/1006.1699v1
+1006.2077v1,2010-06-10T16:16:37Z,Multidimensi Pada Data Warehouse Dengan Menggunakan Rumus Kombinasi,H. L. H Spits Warnars,cs.DB,http://arxiv.org/pdf/1006.2077v1
+1006.2088v1,2010-06-10T17:20:14Z,Classification rule with simple select SQL statement,Spits Warnars H. L. H,cs.DB,http://arxiv.org/pdf/1006.2088v1
+1006.3726v4,2010-06-18T15:38:04Z,Diamond Dicing,Owen Kaser,cs.DB,http://arxiv.org/pdf/1006.3726v4
+1006.4833v1,2010-06-24T16:47:28Z,A Generic Storage API,Ron Morrison,cs.DB,http://arxiv.org/pdf/1006.4833v1
+1006.5273v1,2010-06-28T06:37:32Z,Linear Detrending Subsequence Matching in Time-Series Databases,Bum-Soo Kim,cs.DB,http://arxiv.org/pdf/1006.5273v1
+1006.5794v1,2010-06-30T07:57:10Z,Report on the XBase Project,Ron Morrison,cs.DB,http://arxiv.org/pdf/1006.5794v1
+1103.0083v1,2011-03-01T05:17:30Z,Mining Target-Oriented Fuzzy Correlation Rules to Optimize Telecom   Service Management,Hao-En Chueh,cs.DB,http://arxiv.org/pdf/1103.0083v1
+1103.0172v2,2011-03-01T14:07:04Z,Inverse Queries For Multidimensional Spaces,Andreas Züfle,cs.DB,http://arxiv.org/pdf/1103.0172v2
+1103.0633v1,2011-03-03T09:44:14Z,RDBNorma: - A semi-automated tool for relational database schema   normalization up to third normal form,S. V. Deshmukh,cs.DB,http://arxiv.org/pdf/1103.0633v1
+1103.0686v1,2011-03-03T14:09:24Z,Querying and Manipulating Temporal Databases,Mohamed Moalla,cs.DB,http://arxiv.org/pdf/1103.0686v1
+1103.0825v1,2011-03-04T05:02:47Z,Differentially Private Publication of Sparse Data,Thanh T. L. Tran,cs.DB,http://arxiv.org/pdf/1103.0825v1
+1103.0921v1,2011-03-03T10:45:11Z,Managing and Querying Web Services Communities: A Survey,Jalel Akaichi,cs.DB,http://arxiv.org/pdf/1103.0921v1
+1103.1255v1,2011-03-07T11:43:58Z,"A General Framework for Representing, Reasoning and Querying with   Annotated Semantic Web Data",Umberto Straccia,cs.DB,http://arxiv.org/pdf/1103.1255v1
+1103.1367v1,2011-03-07T20:22:38Z,Efficient Batch Query Answering Under Differential Privacy,Gerome Miklau,cs.DB,http://arxiv.org/pdf/1103.1367v1
+1103.2406v1,2011-03-12T01:05:38Z,Automatic Wrappers for Large Scale Web Extraction,Mohamed Soliman,cs.DB,http://arxiv.org/pdf/1103.2406v1
+1103.2410v1,2011-03-12T01:09:30Z,Large-Scale Collective Entity Matching,Minos Garofalakis,cs.DB,http://arxiv.org/pdf/1103.2410v1
+1103.3103v1,2011-03-16T05:51:51Z,Guided Data Repair,Ihab F. Ilyas,cs.DB,http://arxiv.org/pdf/1103.3103v1
+1103.3107v2,2011-03-16T05:57:58Z,Incrementally Maintaining Classification using an RDBMS,Christopher Ré,cs.DB,http://arxiv.org/pdf/1103.3107v2
+1103.3753v2,2011-03-19T06:12:56Z,On the Scalability of Multidimensional Databases,István Szépkúti,cs.DB,http://arxiv.org/pdf/1103.3753v2
+1103.3857v2,2011-03-20T15:35:03Z,Difference Sequence Compression of Multidimensional Databases,István Szépkúti,cs.DB,http://arxiv.org/pdf/1103.3857v2
+1103.3863v3,2011-03-20T17:02:03Z,Multidimensional or Relational? / How to Organize an On-line Analytical   Processing Database,István Szépkúti,cs.DB,http://arxiv.org/pdf/1103.3863v3
+1103.4168v2,2011-03-21T22:07:08Z,Caching in Multidimensional Databases,István Szépkúti,cs.DB,http://arxiv.org/pdf/1103.4168v2
+1103.4169v3,2011-03-21T22:12:10Z,Difference-Huffman Coding of Multidimensional Databases,István Szépkúti,cs.DB,http://arxiv.org/pdf/1103.4169v3
+1103.4410v1,2011-03-22T23:23:20Z,Distributed Inference and Query Processing for RFID Tracking and   Monitoring,Prashant Shenoy,cs.DB,http://arxiv.org/pdf/1103.4410v1
+1103.4916v2,2011-03-25T07:10:50Z,Detection of Spatial Changes using Spatial Data Mining,P. S. Hiremath,cs.DB,http://arxiv.org/pdf/1103.4916v2
+1103.4979v3,2011-03-25T14:24:18Z,An Introduction to Functional dependency in Relational Databases,K. Viswanathan Iyer,cs.DB,http://arxiv.org/pdf/1103.4979v3
+1103.5170v3,2011-03-26T22:47:47Z,Differentially Private Spatial Decompositions,Ting Yu,cs.DB,http://arxiv.org/pdf/1103.5170v3
+1103.5795v1,2011-03-29T23:46:06Z,Heuristic Algorithm for Interpretation of Non-Atomic Categorical   Attributes in Similarity-based Fuzzy Databases - Scalability Evaluation,Rafal A. Angryk,cs.DB,http://arxiv.org/pdf/1103.5795v1
+1104.0553v3,2011-04-04T12:56:47Z,Determining Relevance of Accesses at Runtime (Extended Version),Pierre Senellart,cs.DB,http://arxiv.org/pdf/1104.0553v3
+1104.1311v1,2011-04-07T12:11:53Z,Latent table discovery by semantic relationship extraction between   unrelated sets of entity sets of structured data sources,F Sagayaraj Francis,cs.DB,http://arxiv.org/pdf/1104.1311v1
+1104.2079v1,2011-04-11T22:32:31Z,Optimizing XML querying using type-based document projection,Kim Nguyen,cs.DB,http://arxiv.org/pdf/1104.2079v1
+1104.2284v1,2011-04-12T17:42:57Z,Preprocessing: A Prerequisite for Discovering Patterns in WUM Process,G Kavitha,cs.DB,http://arxiv.org/pdf/1104.2284v1
+1104.2721v1,2011-04-14T11:01:56Z,Optimal Cell Towers Distribution by using Spatial Mining and Geographic   Information System,Soukaena H. Hashem,cs.DB,http://arxiv.org/pdf/1104.2721v1
+1104.2756v1,2011-04-14T13:28:08Z,Privacy Preserving Moving KNN Queries,Rui Zhang,cs.DB,http://arxiv.org/pdf/1104.2756v1
+1104.3214v1,2011-04-16T08:51:27Z,"CoPhy: A Scalable, Portable, and Interactive Index Advisor for Large   Workloads",Anastasia Ailamaki,cs.DB,http://arxiv.org/pdf/1104.3214v1
+1104.3216v1,2011-04-16T08:52:25Z,Tuffy: Scaling up Statistical Inference in Markov Logic Networks using   an RDBMS,Jude Shavlik,cs.DB,http://arxiv.org/pdf/1104.3216v1
+1104.4384v1,2011-04-22T03:49:09Z,EMBANKS: Towards Disk Based Algorithms For Keyword-Search In Structured   Databases,Nitin Gupta,cs.DB,http://arxiv.org/pdf/1104.4384v1
+1104.4899v1,2011-04-26T12:25:56Z,Data Base Mappings and Theory of Sketches,Zoran Majkic,cs.DB,http://arxiv.org/pdf/1104.4899v1
+1104.5139v1,2011-04-27T13:43:12Z,Web services synchronization health care application,Jalel Akaichi,cs.DB,http://arxiv.org/pdf/1104.5139v1
+1112.1117v2,2011-12-05T23:12:31Z,Finding Heavy Paths in Graphs: A Rank Join Approach,Laks V. S. Lakshmanan,cs.DB,http://arxiv.org/pdf/1112.1117v2
+1112.1668v1,2011-12-07T19:44:19Z,Data Mining and Electronic Health Records: Selecting Optimal Clinical   Treatments in Practice,Thomas Doub,cs.DB,http://arxiv.org/pdf/1112.1668v1
+1112.2020v1,2011-12-09T05:19:57Z,Differentially Private Trajectory Data Publication,Bipin C. Desai,cs.DB,http://arxiv.org/pdf/1112.2020v1
+1112.2137v1,2011-12-09T16:22:00Z,Compact Weighted Class Association Rule Mining using Information Gain,K. R. Chandran,cs.DB,http://arxiv.org/pdf/1112.2137v1
+1112.2155v1,2011-12-09T17:27:51Z,A Concurrency Control Method Based on Commitment Ordering in Mobile   Databases,Ahmad Baraani-Dastjerdi,cs.DB,http://arxiv.org/pdf/1112.2155v1
+1112.2336v1,2011-12-11T08:43:54Z,The Spatial Nearest Neighbor Skyline Queries,Ahmad Baraani-Dastgerdi,cs.DB,http://arxiv.org/pdf/1112.2336v1
+1112.2401v1,2011-12-11T21:00:16Z,A Real-Time Database QoS-aware Service Selection Protocol for MANET,Henda Ben Ghezala,cs.DB,http://arxiv.org/pdf/1112.2401v1
+1112.2610v1,2011-12-12T16:29:25Z,The ViP2P Platform: XML Views in P2P,Spyros Zoupanos,cs.DB,http://arxiv.org/pdf/1112.2610v1
+1112.2663v1,2011-12-09T20:52:14Z,Customer Data Clustering using Data Mining Technique,Dr. Sankar Rajagopal,cs.DB,http://arxiv.org/pdf/1112.2663v1
+1112.3018v1,2011-12-13T20:19:12Z,Open Source CRM Systems for SMEs,Jorge Bernardino,cs.DB,http://arxiv.org/pdf/1112.3018v1
+1112.3134v1,2011-12-14T07:12:31Z,Proposing Cluster_Similarity Method in Order to Find as Much Better   Similarities in Databases,Azade Roohany,cs.DB,http://arxiv.org/pdf/1112.3134v1
+1112.5957v2,2011-12-27T13:15:47Z,Usage Des Mesures Pour La Génération Des Règles d'Associations   Cycliques,Faïez Gargouri,cs.DB,http://arxiv.org/pdf/1112.5957v2
+1211.0176v1,2012-11-01T13:45:04Z,Joining relations under discrete uncertainty,Danilo Montesi,cs.DB,http://arxiv.org/pdf/1211.0176v1
+1211.0224v1,2012-11-01T17:00:27Z,Views over RDF Datasets: A State-of-the-Art and Open Challenges,Alejandro A. Vaisman,cs.DB,http://arxiv.org/pdf/1211.0224v1
+1211.1565v1,2012-11-07T14:54:46Z,Data Shapes and Data Transformations,Richard Cyganiak,cs.DB,http://arxiv.org/pdf/1211.1565v1
+1211.1788v1,2012-11-08T08:29:50Z,An Adaptive parameter free data mining approach for healthcare   application,Bhagyashree Agrawal,cs.DB,http://arxiv.org/pdf/1211.1788v1
+1211.2367v1,2012-11-11T01:59:11Z,IS-LABEL: an Independent-Set based Labeling Scheme for Point-to-Point   Distance Querying on Large Graphs,Raymond Chi-Wing Wong,cs.DB,http://arxiv.org/pdf/1211.2367v1
+1211.3016v1,2012-11-13T15:07:48Z,The View Update Problem Revisited,Paolo Guagliardo,cs.DB,http://arxiv.org/pdf/1211.3016v1
+1211.3871v1,2012-11-16T12:07:11Z,Multi Relational Data Mining Approaches: A Data Mining Technique,Rasmita Panigrahi,cs.DB,http://arxiv.org/pdf/1211.3871v1
+1211.4371v1,2012-11-19T11:50:32Z,Building a health care data warehouse for cancer diseases,Ahmed Nour Eldeen,cs.DB,http://arxiv.org/pdf/1211.4371v1
+1211.5009v1,2012-11-21T11:58:47Z,Temporal Provenance Model (TPM): Model and Query Language,Boualem Benatallah,cs.DB,http://arxiv.org/pdf/1211.5009v1
+1211.5418v1,2012-11-23T06:29:45Z,A survey on data and transaction management in mobile databases,T. N. Ravi,cs.DB,http://arxiv.org/pdf/1211.5418v1
+1211.5724v1,2012-11-25T04:24:02Z,Data Mining: A prediction Technique for the workers in the PR Department   of Orissa (Block and Panchayat),Rasmita Panigrahi,cs.DB,http://arxiv.org/pdf/1211.5724v1
+1211.5817v1,2012-11-21T10:55:36Z,Extending SPARQL to Support Entity Grouping and Path Queries,Hamid Reza Motahari-Nezhad,cs.DB,http://arxiv.org/pdf/1211.5817v1
+1211.6176v1,2012-11-27T01:36:58Z,Shark: SQL and Rich Analytics at Scale,Ion Stoica,cs.DB,http://arxiv.org/pdf/1211.6176v1
+1211.6273v1,2012-11-27T11:17:09Z,A RDF-based Data Integration Framework,Nasser Nemat bakhsh,cs.DB,http://arxiv.org/pdf/1211.6273v1
+1301.1575v1,2013-01-06T04:03:29Z,BigDB: Automatic Machine Learning Optimizer,Michael Gubanov,cs.DB,http://arxiv.org/pdf/1301.1575v1
+1301.2236v1,2013-01-10T20:09:36Z,User Profile-Driven Data Warehouse Summary for Adaptive OLAP Queries,Fadila Bentayeb,cs.DB,http://arxiv.org/pdf/1301.2236v1
+1301.2362v1,2013-01-11T00:05:46Z,Quasi-SLCA based Keyword Query Processing over Probabilistic XML Data,Jeffrey Xu Yu,cs.DB,http://arxiv.org/pdf/1301.2362v1
+1301.2375v1,2013-01-11T01:33:50Z,Context-based Diversification for Keyword Queries over XML Data,Jeffrey Xu Yu,cs.DB,http://arxiv.org/pdf/1301.2375v1
+1301.2378v1,2013-01-11T01:55:10Z,Query-driven Frequent Co-occurring Term Extraction over Relational Data   using MapReduce,Rui Zhou,cs.DB,http://arxiv.org/pdf/1301.2378v1
+1301.7015v2,2013-01-29T18:37:35Z,Mining Frequent Graph Patterns with Differential Privacy,Ting Yu,cs.DB,http://arxiv.org/pdf/1301.7015v2
+1305.0502v2,2013-05-02T16:39:04Z,"Simple, Fast, and Scalable Reachability Oracle",Guan Wang,cs.DB,http://arxiv.org/pdf/1305.0502v2
+1305.1609v1,2013-05-07T19:07:28Z,Formal Representation of the SS-DB Benchmark and Experimental Evaluation   in EXTASCID,Florin Rusu,cs.DB,http://arxiv.org/pdf/1305.1609v1
+1305.1713v1,2013-05-08T04:26:10Z,Optimization of stochastic database cracking,Meenesh Bhardwaj,cs.DB,http://arxiv.org/pdf/1305.1713v1
+1305.2103v2,2013-05-09T14:30:12Z,Translating Relational Queries into Spreadsheets,Jerzy Tyszkiewicz,cs.DB,http://arxiv.org/pdf/1305.2103v2
+1305.2758v1,2013-05-13T12:33:58Z,Using Page Size for Controlling Duplicate Query Results in Semantic Web,4Humza Naseer,cs.DB,http://arxiv.org/pdf/1305.2758v1
+1305.3058v1,2013-05-14T08:31:10Z,Rule-Based Application Development using Webdamlog,Jules Testard,cs.DB,http://arxiv.org/pdf/1305.3058v1
+1305.3082v1,2013-05-14T09:46:17Z,Mining Frequent Neighborhood Patterns in Large Labeled Graphs,Ji-Rong Wen,cs.DB,http://arxiv.org/pdf/1305.3082v1
+1305.3407v2,2013-05-15T09:54:58Z,Probabilistic Nearest Neighbor Queries on Uncertain Moving Object   Trajectories,Hans-Peter Kriegel,cs.DB,http://arxiv.org/pdf/1305.3407v2
+1305.4195v2,2013-05-17T21:22:14Z,Search and Result Presentation in Scientific Workflow Repositories,Xiaojie Yuan,cs.DB,http://arxiv.org/pdf/1305.4195v2
+1305.5653v1,2013-05-24T08:54:46Z,Geographica: A Benchmark for Geospatial RDF Stores,Manolis Koubarakis,cs.DB,http://arxiv.org/pdf/1305.5653v1
+1305.5824v1,2013-05-24T18:46:34Z,Towards a semantic and statistical selection of association rules,Engelbert Mephu Nguifo,cs.DB,http://arxiv.org/pdf/1305.5824v1
+1305.6506v1,2013-05-28T14:16:11Z,Notes on Physical & Logical Data Layouts,Michael Hausenblas,cs.DB,http://arxiv.org/pdf/1305.6506v1
+1305.7006v1,2013-05-30T05:27:23Z,Subgraph Pattern Matching over Uncertain Graphs with Identity Linkage   Uncertainty,Lise Getoor,cs.DB,http://arxiv.org/pdf/1305.7006v1
+1306.1334v1,2013-06-06T08:15:22Z,Tuple Value Based Multiplicative Data Perturbation Approach To Preserve   Privacy In Data Stream Mining,Sanjay Garg,cs.DB,http://arxiv.org/pdf/1306.1334v1
+1306.1689v1,2013-06-07T11:17:41Z,Verification of Query Completeness over Processes [Extended Version],Werner Nutt,cs.DB,http://arxiv.org/pdf/1306.1689v1
+1306.1730v1,2013-06-07T13:56:43Z,A Conceptual Metadata Framework for Spatial Data Warehouse,A. Govardhan,cs.DB,http://arxiv.org/pdf/1306.1730v1
+1306.2459v1,2013-06-11T09:21:42Z,Fast Search for Dynamic Multi-Relational Graphs,John Feo,cs.DB,http://arxiv.org/pdf/1306.2459v1
+1306.2460v1,2013-06-11T09:24:06Z,StreamWorks - A system for Dynamic Graph Search,John Feo,cs.DB,http://arxiv.org/pdf/1306.2460v1
+1306.2691v1,2013-06-12T01:55:18Z,Preserving differential privacy under finite-precision semantics,Catuscia Palamidessi,cs.DB,http://arxiv.org/pdf/1306.2691v1
+1306.5690v1,2013-06-21T06:47:48Z,Modifying the Entity relationship modelling notation: towards high   quality relational databases from better notated ER models,Dhammika Pieris,cs.DB,http://arxiv.org/pdf/1306.5690v1
+1306.5972v1,2013-06-25T14:04:49Z,Communication Steps for Parallel Query Processing,Dan Suciu,cs.DB,http://arxiv.org/pdf/1306.5972v1
+1306.6670v1,2013-06-27T22:06:27Z,Towards a better insight of RDF triples Ontology-guided Storage system   abilities,Guillaume Blin,cs.DB,http://arxiv.org/pdf/1306.6670v1
+1306.6734v1,2013-06-28T07:12:23Z,A novel ER model to relational model transformation algorithm for   semantically clear high quality database design,Dhammika Pieris,cs.DB,http://arxiv.org/pdf/1306.6734v1
+1308.0769v1,2013-08-04T02:20:05Z,XPath Satisfiability with Parent Axes or Qualifiers Is Tractable under   Many of Real-World DTDs,Toru Fujiwara,cs.DB,http://arxiv.org/pdf/1308.0769v1
+1308.1440v1,2013-08-06T23:02:12Z,Graywulf: A platform for federated scientific databases and services,Nolan Li,cs.DB,http://arxiv.org/pdf/1308.1440v1
+1308.1471v1,2013-08-07T04:12:50Z,Application of Inventory Management Principles for Efficient Data   Placement in Storage Networks,F. Sagayaraj Francis,cs.DB,http://arxiv.org/pdf/1308.1471v1
+1308.2310v1,2013-08-10T13:21:20Z,Mining Positive and Negative Association Rules Using CoherentApproach,P. Narayana,cs.DB,http://arxiv.org/pdf/1308.2310v1
+1308.3679v1,2013-08-16T17:49:24Z,Just In Time Indexing,Sreedish PS,cs.DB,http://arxiv.org/pdf/1308.3679v1
+1308.4027v2,2013-08-19T14:06:11Z,Combined-Semantics Equivalence Is Decidable for a Practical Class of   Conjunctive Queries,Rada Chirkova,cs.DB,http://arxiv.org/pdf/1308.4027v2
+1308.4048v1,2013-08-19T15:12:18Z,Gcube Indexing,A. Govardhan,cs.DB,http://arxiv.org/pdf/1308.4048v1
+1308.5585v1,2013-08-26T13:45:05Z,Rewriting XPath Queries using View Intersections: Tractability versus   Completeness,Nicola Onose,cs.DB,http://arxiv.org/pdf/1308.5585v1
+1308.5703v2,2013-08-26T21:26:00Z,A Principled Approach to Bridging the Gap between Graph Data and their   Schemas,Kavitha Srinivas,cs.DB,http://arxiv.org/pdf/1308.5703v2
+1308.5933v1,2013-08-27T17:49:50Z,Framework Model for Database Replication within the Availability Zones,Hussein Owaied,cs.DB,http://arxiv.org/pdf/1308.5933v1
+1308.6682v1,2013-08-30T09:01:25Z,A Novel Query-Based Approach for Addressing Summarizability Issues in   XOLAP,Jérôme Darmont,cs.DB,http://arxiv.org/pdf/1308.6682v1
+1308.6683v1,2013-08-30T09:02:02Z,Benchmarking Summarizability Processing in XML Warehouses with Complex   Hierarchies,Jérôme Darmont,cs.DB,http://arxiv.org/pdf/1308.6683v1
+1308.6701v1,2013-08-30T10:25:51Z,Enhanced Data Integration for LabVIEW Laboratory Systems,Valentin Sgarciu,cs.DB,http://arxiv.org/pdf/1308.6701v1
+1309.0373v1,2013-09-02T12:02:34Z,ENFrame: A Platform for Processing Probabilistic Data,Robert Fink,cs.DB,http://arxiv.org/pdf/1309.0373v1
+1309.1556v1,2013-09-06T07:35:53Z,Hyper-Graph Based Database Partitioning for Transactional Workloads,Stephen Todd,cs.DB,http://arxiv.org/pdf/1309.1556v1
+1309.2371v1,2013-09-10T04:52:58Z,Performance analysis of modified algorithm for finding multilevel   association rules,R. C. Jain,cs.DB,http://arxiv.org/pdf/1309.2371v1
+1309.2517v1,2013-09-10T14:05:09Z,Forecasting Stock Time-Series using Data Approximation and Pattern   Sequence Similarity,L. M. Patnaik,cs.DB,http://arxiv.org/pdf/1309.2517v1
+1309.2597v1,2013-09-10T18:07:58Z,Mine Blood Donors Information through Improved K-Means Clustering,Prof G. S. V. Prasad Raju,cs.DB,http://arxiv.org/pdf/1309.2597v1
+1309.2687v1,2013-09-10T23:06:57Z,CrowdPlanner: A Crowd-Based Route Recommendation System,Han Su,cs.DB,http://arxiv.org/pdf/1309.2687v1
+1309.3733v1,2013-09-15T06:21:30Z,Discovery of Approximate Differential Dependencies,Millist Vincent,cs.DB,http://arxiv.org/pdf/1309.3733v1
+1309.5821v1,2013-09-20T13:51:18Z,Undefined By Data: A Survey of Big Data Definitions,Adam Barker,cs.DB,http://arxiv.org/pdf/1309.5821v1
+1312.0001v1,2013-11-28T04:11:36Z,A Proposal for the Characterization of Multi-Dimensional   Inter-relationships of RDF Graphs Based on Set Theoretic Approach,Debajyoti Mukhopadhyay,cs.DB,http://arxiv.org/pdf/1312.0001v1
+1312.0156v1,2013-11-30T21:33:49Z,Datom: Towards modular data management,Verena Kantere,cs.DB,http://arxiv.org/pdf/1312.0156v1
+1312.0285v1,2013-12-01T23:16:42Z,Distributed Data Placement via Graph Partitioning,Barna Saha,cs.DB,http://arxiv.org/pdf/1312.0285v1
+1312.2065v1,2013-12-07T07:29:56Z,Implementation of CRISP Methodology for ERP Systems,Prof. M. S. Prasada Babu,cs.DB,http://arxiv.org/pdf/1312.2065v1
+1312.2353v1,2013-12-09T09:34:05Z,On the difference between checking integrity constraints before or after   updates,Davide Martinenghi,cs.DB,http://arxiv.org/pdf/1312.2353v1
+1312.2355v1,2013-12-09T09:37:16Z,On the dependency on the size of the data when chasing under conceptual   dependencies,Davide Martinenghi,cs.DB,http://arxiv.org/pdf/1312.2355v1
+1312.2378v1,2013-12-09T10:49:08Z,Unsupervised classification of uncertain data objects in spatial   databases using computational geometry and indexing techniques,Ramachandra Rao Kurada,cs.DB,http://arxiv.org/pdf/1312.2378v1
+1312.2669v1,2013-12-10T05:14:08Z,DRSP : Dimension Reduction For Similarity Matching And Pruning Of Time   Series Data Streams,L M Patnaik,cs.DB,http://arxiv.org/pdf/1312.2669v1
+1312.2678v1,2013-12-10T05:58:43Z,Analysis & Prediction of Sales Data in SAP-ERP System using Clustering   Algorithms,Prof. M. S. Prasada Babu,cs.DB,http://arxiv.org/pdf/1312.2678v1
+1312.2919v1,2013-12-10T19:27:41Z,Win-Move is Coordination-Free (Sometimes),Bertram Ludäscher,cs.DB,http://arxiv.org/pdf/1312.2919v1
+1312.2990v2,2013-12-10T22:48:02Z,Efficient Lineage for SUM Aggregate Queries,Angelos Vasilakopoulos,cs.DB,http://arxiv.org/pdf/1312.2990v2
+1312.3913v5,2013-12-13T19:23:12Z,Blowfish Privacy: Tuning Privacy-Utility Trade-offs using Policies,Bolin Ding,cs.DB,http://arxiv.org/pdf/1312.3913v5
+1312.4012v1,2013-12-14T07:14:09Z,Oblivious Query Processing,Raghav Kaushik,cs.DB,http://arxiv.org/pdf/1312.4012v1
+1312.4283v1,2013-12-16T10:03:03Z,On Load Shedding in Complex Event Processing,Jeffrey F. Naughton,cs.DB,http://arxiv.org/pdf/1312.4283v1
+1312.4477v1,2013-12-13T15:00:50Z,GCG: Mining Maximal Complete Graph Patterns from Large Spatial Data,Ghazi Al-Naymat,cs.DB,http://arxiv.org/pdf/1312.4477v1
+1312.4800v1,2013-12-17T14:30:38Z,New Approach to Optimize the Time of Association Rules Extraction,Thabet Slimani,cs.DB,http://arxiv.org/pdf/1312.4800v1
+1312.5148v2,2013-12-18T14:17:09Z,Object Selection under Team Context,Ling Feng,cs.DB,http://arxiv.org/pdf/1312.5148v2
+1312.5912v2,2013-12-20T12:13:11Z,Containment of Schema Mappings for Data Exchange (Preliminary Report),Riccardo Torlone,cs.DB,http://arxiv.org/pdf/1312.5912v2
+1312.5914v2,2013-12-20T12:18:29Z,Deep Separability of Ontological Constraints,Riccardo Frosini,cs.DB,http://arxiv.org/pdf/1312.5914v2
+1312.7373v3,2013-12-27T23:59:54Z,Extending Contexts with Ontologies for Multidimensional Data Quality   Assessment,Sina Ariyan,cs.DB,http://arxiv.org/pdf/1312.7373v3
+1312.7542v1,2013-12-29T14:38:24Z,Towards Connected Enterprises: The Business Network System,Daniel Ritter,cs.DB,http://arxiv.org/pdf/1312.7542v1
+1401.0069v2,2013-12-31T01:59:21Z,Determining Relevant Relations for Datalog Queries under Access   Limitations is Undecidable,Davide Martinenghi,cs.DB,http://arxiv.org/pdf/1401.0069v2
+1401.0494v1,2014-01-02T18:14:33Z,Flexible SQLf query based on fuzzy linguistic summaries,Amel Grissa-Touzi,cs.DB,http://arxiv.org/pdf/1401.0494v1
+1401.1043v2,2014-01-06T11:16:01Z,Discovering Compressing Serial Episodes from Event Sequences,P. S. Sastry,cs.DB,http://arxiv.org/pdf/1401.1043v2
+1401.1174v1,2014-01-06T19:35:23Z,Towards Breaking the Curse of Dimensionality for High-Dimensional   Privacy: An Extended Version,Ken Barker,cs.DB,http://arxiv.org/pdf/1401.1174v1
+1401.1406v2,2014-01-06T12:35:31Z,BigDataBench: a Big Data Benchmark Suite from Internet Services,Bizhu Qiu,cs.DB,http://arxiv.org/pdf/1401.1406v2
+1401.2101v1,2014-01-09T17:55:33Z,NoSQL Databases,Massimo Carro,cs.DB,http://arxiv.org/pdf/1401.2101v1
+1401.2250v1,2014-01-10T08:21:22Z,High speed data retrieval from national data center (ndc) reducing time   and ignoring spelling error in search key based on double metaphone algorithm,Shah Md. Tanvir Siddiquee,cs.DB,http://arxiv.org/pdf/1401.2250v1
+1401.2690v1,2014-01-13T00:56:12Z,Distance Landmarks Revisited for Road Graphs,Jinpeng Huai,cs.DB,http://arxiv.org/pdf/1401.2690v1
+1401.2911v1,2014-01-09T13:55:29Z,Front End Data Cleaning And Transformation In Standard Printed Form   Using Neural Models,Dr. A. Govardhan,cs.DB,http://arxiv.org/pdf/1401.2911v1
+1401.4840v2,2014-01-20T09:43:59Z,Termination of oblivious chase is undecidable,Jerzy Marcinkowski,cs.DB,http://arxiv.org/pdf/1401.4840v2
+1401.5051v1,2014-01-20T20:48:05Z,"WaterFowl, a Compact, Self-indexed RDF Store with Inference-enabled   Dictionaries",David Faye,cs.DB,http://arxiv.org/pdf/1401.5051v1
+1401.5465v3,2014-01-22T02:17:52Z,BDGS: A Scalable Big Data Generator Suite in Big Data Benchmarking,Jianfeng Zhan,cs.DB,http://arxiv.org/pdf/1401.5465v3
+1401.6360v1,2014-01-24T14:54:41Z,EagleTree: Exploring the Design Space of SSD-Based Algorithms,Luc Bouganim,cs.DB,http://arxiv.org/pdf/1401.6360v1
+1401.6887v1,2014-01-27T15:16:17Z,OLAP on Structurally Significant Data in Graphs,Young-Koo Lee,cs.DB,http://arxiv.org/pdf/1401.6887v1
+1401.7584v1,2014-01-28T20:38:05Z,XLSearch: A Search Engine for Spreadsheets,Christian Liguda,cs.DB,http://arxiv.org/pdf/1401.7584v1
+1401.7733v1,2014-01-30T04:43:22Z,Security Implications of Distributed Database Management System Models,S. R. Vinotha,cs.DB,http://arxiv.org/pdf/1401.7733v1
+1402.1257v2,2014-02-06T06:17:18Z,Incremental classification using Feature Tree,M. M. Raghuwanshi,cs.DB,http://arxiv.org/pdf/1402.1257v2
+1402.1258v1,2014-02-06T06:17:51Z,In-Memory Database Systems - A Paradigm Shift,Megha Singh Verma,cs.DB,http://arxiv.org/pdf/1402.1258v1
+1402.1327v1,2014-02-06T11:37:45Z,A Survey on Spatial Co-location Patterns Discovery from Spatial Datasets,Mr. Mahipalsinh R. Zala,cs.DB,http://arxiv.org/pdf/1402.1327v1
+1402.1469v1,2014-02-06T19:59:14Z,Use of Dynamical Systems Modeling to Hybrid Cloud Database,Evgeny Nikulchev,cs.DB,http://arxiv.org/pdf/1402.1469v1
+1402.1546v1,2014-02-07T03:29:08Z,PRESS: A Novel Framework of Trajectory Compression in Road Networks,Yu Zheng,cs.DB,http://arxiv.org/pdf/1402.1546v1
+1402.1814v1,2014-02-08T03:25:57Z,Foundation for Frequent Pattern Mining Algorithms Implementation,Dr. Yogesh Ghodasara,cs.DB,http://arxiv.org/pdf/1402.1814v1
+1402.2237v4,2014-02-10T19:01:33Z,Coordination Avoidance in Database Systems (Extended Version),Ion Stoica,cs.DB,http://arxiv.org/pdf/1402.2237v4
+1402.2394v1,2014-02-11T08:23:49Z,GraphX: Unifying Data-Parallel and Graph-Parallel Analytics,Ion Stoica,cs.DB,http://arxiv.org/pdf/1402.2394v1
+1402.2487v1,2014-02-11T13:46:30Z,Materialized View Replacement using Markovs Analysis,Soumya Sen,cs.DB,http://arxiv.org/pdf/1402.2487v1
+1402.2892v1,2014-02-12T16:45:54Z,Efficient Analysis of Pattern and Association Rule Mining Approaches,Amor Lazzez,cs.DB,http://arxiv.org/pdf/1402.2892v1
+1402.3329v1,2014-02-13T22:47:13Z,Differential Privacy: An Economic Method for Choosing Epsilon,Aaron Roth,cs.DB,http://arxiv.org/pdf/1402.3329v1
+1402.5781v1,2014-02-24T10:39:44Z,Program Transformations for Asynchronous and Batched Query Submission,S Sudarshan,cs.DB,http://arxiv.org/pdf/1402.5781v1
+1402.6407v10,2014-02-26T04:38:22Z,Better bitmap performance with Roaring bitmaps,Robert Godin,cs.DB,http://arxiv.org/pdf/1402.6407v10
+1402.7063v1,2014-02-27T20:46:09Z,Rapid AkNN Query Processing for Fast Classification of Multidimensional   Data in the Cloud,Evaggelia Pitoura,cs.DB,http://arxiv.org/pdf/1402.7063v1
+1402.7190v1,2014-02-28T10:36:16Z,Two Stage Prediction Process with Gradient Descent Methods Aligning with   the Data Privacy Preservation,L M Patnaik,cs.DB,http://arxiv.org/pdf/1402.7190v1
+1403.0017v2,2014-02-28T21:48:30Z,Intensional RDB Manifesto: a Unifying NewSQL Model for Flexible Big Data,Zoran Majkic,cs.DB,http://arxiv.org/pdf/1403.0017v2
+1403.0230v1,2014-03-02T16:11:58Z,Research Traceability using Provenance Services for Biomedical Analysis,the neuGRID Consortium,cs.DB,http://arxiv.org/pdf/1403.0230v1
+1403.0701v1,2014-03-04T07:05:06Z,GraphChi-DB: Simple Design for a Scalable Graph Database System -- on   Just a PC,Carlos Guestrin,cs.DB,http://arxiv.org/pdf/1403.0701v1
+1403.0779v2,2014-03-04T13:09:09Z,Hop Doubling Label Indexing for Point-to-Point Distance Querying on   Scale-Free Networks,Yanyan Xu,cs.DB,http://arxiv.org/pdf/1403.0779v2
+1403.0783v1,2014-03-04T13:21:39Z,Uncertainty in Crowd Data Sourcing under Structural Constraints,Tova Milo,cs.DB,http://arxiv.org/pdf/1403.0783v1
+1403.2307v2,2014-03-10T17:12:09Z,The Homeostasis Protocol: Avoiding Transaction Coordination Through   Program Analysis,Johannes Gehrke,cs.DB,http://arxiv.org/pdf/1403.2307v2
+1403.2763v2,2014-03-11T21:32:59Z,Aggregate Estimation Over Dynamic Hidden Web Databases,Gautam Das,cs.DB,http://arxiv.org/pdf/1403.2763v2
+1403.2958v1,2014-03-11T07:30:43Z,An Approach for Normalizing Fuzzy Relational Databases Based on Join   Dependency,Deepa S,cs.DB,http://arxiv.org/pdf/1403.2958v1
+1403.3304v1,2014-03-13T15:40:54Z,A Spatial Data Model for Moving Object Databases,Farshad Hakimpour,cs.DB,http://arxiv.org/pdf/1403.3304v1
+1403.3948v1,2014-03-16T18:50:54Z,An Improved Apriori Algorithm for Association Rules,Bassam Arkok,cs.DB,http://arxiv.org/pdf/1403.3948v1
+1403.5381v1,2014-03-21T07:10:16Z,"(α, k)-Minimal Sorting and Skew Join in MPI and MapReduce",Ada Wai-Chee Fu,cs.DB,http://arxiv.org/pdf/1403.5381v1
+1403.5645v1,2014-03-22T11:04:03Z,Transaction Repair: Full Serializability Without Locks,Todd L. Veldhuizen,cs.DB,http://arxiv.org/pdf/1403.5645v1
+1403.5946v3,2014-03-24T13:29:04Z,Metadata for Energy Disaggregation,William Knottenbelt,cs.DB,http://arxiv.org/pdf/1403.5946v3
+1403.6089v2,2014-03-24T19:15:37Z,Intensional RDB for Big Data Interoperability,Zoran Majkic,cs.DB,http://arxiv.org/pdf/1403.6089v2
+1403.6985v3,2014-03-27T11:54:27Z,A Fast Minimal Infrequent Itemset Mining Algorithm,Douglas J. Leith,cs.DB,http://arxiv.org/pdf/1403.6985v3
+1403.7248v1,2014-03-27T23:43:38Z,Updating RDFS ABoxes and TBoxes in SPARQL,Axel Polleres,cs.DB,http://arxiv.org/pdf/1403.7248v1
+1403.7729v1,2014-03-30T10:15:06Z,Multi-Resource Parallel Query Scheduling and Optimization,Yannis Ioannidis,cs.DB,http://arxiv.org/pdf/1403.7729v1
+1403.7928v1,2014-03-31T09:38:37Z,"Integrated Data Acquisition, Storage, Retrieval and Processing Using the   COMPASS DataBase (CDB)",A. S. Duarte,cs.DB,http://arxiv.org/pdf/1403.7928v1
+1406.0435v1,2014-06-02T16:32:05Z,Odysseus/DFS: Integration of DBMS and Distributed File System for   Transaction Processing of Big Data,Il-Yeol Song,cs.DB,http://arxiv.org/pdf/1406.0435v1
+1406.0905v1,2014-06-03T23:22:59Z,Provenance and data differencing for workflow reproducibility analysis,Paul Watson,cs.DB,http://arxiv.org/pdf/1406.0905v1
+1406.1423v1,2014-06-05T15:59:42Z,A ToolBox for Conservative XML Schema Evolution and Document Adaptation,Pierre Réty,cs.DB,http://arxiv.org/pdf/1406.1423v1
+1406.1431v1,2014-06-03T20:08:18Z,Intégration des règles actives dans des documents,Youssef Amghar,cs.DB,http://arxiv.org/pdf/1406.1431v1
+1406.1998v1,2014-06-08T16:26:53Z,"ProvAbs: model, policy, and tooling for abstracting PROV graphs",Roxana Danger,cs.DB,http://arxiv.org/pdf/1406.1998v1
+1406.2495v1,2014-06-10T10:20:33Z,ProvGen: generating synthetic PROV graphs with predictable structure,Paolo Missier,cs.DB,http://arxiv.org/pdf/1406.2495v1
+1406.3399v1,2014-06-13T01:07:50Z,Foundations of an Alternative Approach to Reification in RDF,Bryan Thompson,cs.DB,http://arxiv.org/pdf/1406.3399v1
+1406.5917v1,2014-06-23T14:21:13Z,BSTree: an Incremental Indexing Structure for Similarity Search and Real   Time Monitoring of Data Streams,Mohamed Salah Gouider,cs.DB,http://arxiv.org/pdf/1406.5917v1
+1406.6490v1,2014-06-25T08:18:39Z,Variance Competitiveness for Monotone Estimation: Tightening the Bounds,Edith Cohen,cs.DB,http://arxiv.org/pdf/1406.6490v1
+1406.6667v2,2014-06-25T19:06:15Z,Tupleware: Redefining Modern Analytics,Stan Zdonik,cs.DB,http://arxiv.org/pdf/1406.6667v2
+1406.6778v1,2014-06-26T06:09:26Z,Performance Comparison of Two Streaming Data Clustering Algorithms,M. Kumar,cs.DB,http://arxiv.org/pdf/1406.6778v1
+1406.7371v1,2014-06-28T08:18:57Z,Using Apriori with WEKA for Frequent Pattern Mining,Yogesh Ghodasara,cs.DB,http://arxiv.org/pdf/1406.7371v1
+1406.7685v1,2014-06-30T11:56:20Z,Efficiency Analysis of Materialized views in DataWarehouse Using   selfmaintenance,Pakeeza Batool,cs.DB,http://arxiv.org/pdf/1406.7685v1
+1408.0528v2,2014-08-03T19:02:51Z,Answering Regular Path Queries on Workflow Provenance,Xiaojie Yuan,cs.DB,http://arxiv.org/pdf/1408.0528v2
+1408.0926v1,2014-08-05T11:17:13Z,Dynamic Provenance for SPARQL Update,James Cheney,cs.DB,http://arxiv.org/pdf/1408.0926v1
+1408.2081v1,2014-08-09T11:09:00Z,On the BDD/FC Conjecture,Jerzy Marcinkowski,cs.DB,http://arxiv.org/pdf/1408.2081v1
+1408.2800v2,2014-08-12T18:53:23Z,Supporting SPARQL Update Queries in RDF-XML Integration,Stavros Christodoulakis,cs.DB,http://arxiv.org/pdf/1408.2800v2
+1408.3148v1,2014-08-13T21:16:31Z,rdf:SynopsViz - A Framework for Hierarchical Linked Data Visual   Exploration and Analysis,George Papastefanatos,cs.DB,http://arxiv.org/pdf/1408.3148v1
+1408.3175v1,2014-08-14T00:43:46Z,Mining Frequent Itemsets (MFI) over Data Streams: Variable Window Size   (VWS) by Context Variation Analysis (CVA) of the Streaming Transactions,Dr. A. Govardhan,cs.DB,http://arxiv.org/pdf/1408.3175v1
+1408.4793v1,2014-08-19T22:57:41Z,Restpark: Minimal RESTful API for Retrieving RDF Triples,Luca Matteis,cs.DB,http://arxiv.org/pdf/1408.4793v1
+1408.5460v1,2014-08-23T05:31:35Z,Web Usage mining framework for Data Cleaning and IP address   Identification,Nishtha Kesswani,cs.DB,http://arxiv.org/pdf/1408.5460v1
+1408.5894v1,2014-08-25T15:05:54Z,Location Estimation Using Crowdsourced Geospatial Narratives,Anastasios Kyrillidis,cs.DB,http://arxiv.org/pdf/1408.5894v1
+1408.6395v2,2014-08-27T12:31:17Z,Bridging the Semantic Gap between RDF and SPARQL using Completeness   Statements [Extended Version],Werner Nutt,cs.DB,http://arxiv.org/pdf/1408.6395v2
+1408.6589v1,2014-08-27T23:21:58Z,Uncertainty Aware Query Execution Time Prediction,Jeffrey F. Naughton,cs.DB,http://arxiv.org/pdf/1408.6589v1
+1408.6916v2,2014-08-29T03:36:29Z,Leveraging Transitive Relations for Crowdsourced Joins,Jianhua Feng,cs.DB,http://arxiv.org/pdf/1408.6916v2
+1409.0651v1,2014-09-02T10:07:27Z,An LSH Index for Computing Kendall's Tau over Top-k Lists,Sebastian Michel,cs.DB,http://arxiv.org/pdf/1409.0651v1
+1409.0798v1,2014-09-02T17:16:47Z,DataHub: Collaborative Data Science & Dataset Version Management at   Scale,Aditya G. Parameswaran,cs.DB,http://arxiv.org/pdf/1409.0798v1
+1409.0980v2,2014-09-03T08:06:22Z,Monoidal functional dependencies,Vilem Vychodil,cs.DB,http://arxiv.org/pdf/1409.0980v2
+1409.1152v1,2014-09-02T18:45:43Z,FS^3: A Sampling based method for top-k Frequent Subgraph Mining,Mohammad Al Hasan,cs.DB,http://arxiv.org/pdf/1409.1152v1
+1409.1292v1,2014-09-04T00:54:16Z,Finding Patterns in a Knowledge Base using Keywords to Compose Table   Answers,Kaushik Chakrabarti,cs.DB,http://arxiv.org/pdf/1409.1292v1
+1409.1636v2,2014-09-05T01:11:03Z,Two-level Data Staging ETL for Transaction Data,Xiufeng Liu,cs.DB,http://arxiv.org/pdf/1409.1636v2

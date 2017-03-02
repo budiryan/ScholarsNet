@@ -1,0 +1,804 @@
+cs/9810011v1,1998-10-12T10:11:05Z,Flysig: Dataflow Oriented Delay-Insensitive Processor for Rapid   Prototyping of Signal Processing,Bernd Kleinjohann,cs.AR,http://arxiv.org/pdf/cs/9810011v1
+cs/0111029v1,2001-11-09T15:08:12Z,Versatile Data Acquisition and Controls for Epics Using Vme-Based Fpgas,R. Flood,cs.AR,http://arxiv.org/pdf/cs/0111029v1
+cs/0111030v1,2001-11-09T16:04:17Z,A Dual Digital Signal Processor VME Board For Instrumentation And   Control Applications,J. Musson,cs.AR,http://arxiv.org/pdf/cs/0111030v1
+cs/0111032v1,2001-11-09T19:08:57Z,SNS Timing System,C. Sibley,cs.AR,http://arxiv.org/pdf/cs/0111032v1
+cs/0207012v1,2002-07-04T04:30:30Z,Synthesis of Low-Power Digital Circuits Derived from Binary Decision   Diagrams,Denis V. Popel,cs.AR,http://arxiv.org/pdf/cs/0207012v1
+cs/0207014v1,2002-07-04T04:55:42Z,On the Information Engine of Circuit Design,Nawar Al-Hakeem,cs.AR,http://arxiv.org/pdf/cs/0207014v1
+cs/0405015v1,2004-05-05T01:56:22Z,A High-Level Reconfigurable Computing Platform Software Frameworks,Andreas Weisensee,cs.AR,http://arxiv.org/pdf/cs/0405015v1
+cs/0407019v2,2004-07-08T06:52:37Z,Stochastic fuzzy controller,Franc Jurkovic,cs.AR,http://arxiv.org/pdf/cs/0407019v2
+cs/0407032v1,2004-07-13T08:24:37Z,Exposing Software Defined Radio Functionality To Native Operating System   Applications via Virtual Devices,Darran Nathan,cs.AR,http://arxiv.org/pdf/cs/0407032v1
+cs/0409025v1,2004-09-13T11:08:09Z,Topics in asynchronous systems,Serban E. Vlad,cs.AR,http://arxiv.org/pdf/cs/0409025v1
+cs/0412040v1,2004-12-09T22:10:48Z,Data-stationary Architecture to Execute Quantum Algorithms Classically,J. R. Burger,cs.AR,http://arxiv.org/pdf/cs/0412040v1
+cs/0503066v1,2005-03-24T12:36:07Z,A Practical Approach for Circuit Routing on Dynamic Reconfigurable   Devices,Jan van der Veen,cs.AR,http://arxiv.org/pdf/cs/0503066v1
+cs/0508038v1,2005-08-04T17:35:38Z,Quantum Algorithm Processor For Finding Exact Divisors,John Robert Burger,cs.AR,http://arxiv.org/pdf/cs/0508038v1
+cs/0510039v1,2005-10-14T22:03:45Z,DyNoC: A Dynamic Infrastructure for Communication in Dynamically   Reconfigurable Devices,Jan van der Veen,cs.AR,http://arxiv.org/pdf/cs/0510039v1
+cs/0602096v1,2006-02-27T18:59:39Z,Difficulties in the Implementation of Quantum Computers,Abhilash Ponnath,cs.AR,http://arxiv.org/pdf/cs/0602096v1
+cs/0603088v1,2006-03-22T18:11:40Z,Novel BCD Adders and Their Reversible Logic Implementation for IEEE 754r   Format,M. B Srinivas,cs.AR,http://arxiv.org/pdf/cs/0603088v1
+cs/0603091v1,2006-03-23T06:44:34Z,A New Reversible TSG Gate and Its Application For Designing Efficient   Adder Circuits,M. B Srinivas,cs.AR,http://arxiv.org/pdf/cs/0603091v1
+cs/0603092v1,2006-03-23T08:33:08Z,An Extension to DNA Based Fredkin Gate Circuits: Design of Reversible   Sequential Circuits using Fredkin Gates,M. B Srinivas,cs.AR,http://arxiv.org/pdf/cs/0603092v1
+cs/0605004v1,2006-05-01T09:34:32Z,Novel Reversible Multiplier Architecture Using Reversible TSG Gate,M. B Srinivas,cs.AR,http://arxiv.org/pdf/cs/0605004v1
+cs/0605125v1,2006-05-26T18:43:13Z,Combinational Logic Circuit Design with the Buchberger Algorithm,Germain Drolet,cs.AR,http://arxiv.org/pdf/cs/0605125v1
+cs/0605142v1,2006-05-30T15:04:18Z,Intégration de la synthèse mémoire dans l'outil de   synthèse d'architecture GAUT Low Power,Eric Martin,cs.AR,http://arxiv.org/pdf/cs/0605142v1
+cs/0605143v1,2006-05-30T15:07:51Z,High-level synthesis under I/O Timing and Memory constraints,Eric Martin,cs.AR,http://arxiv.org/pdf/cs/0605143v1
+cs/0605144v1,2006-05-30T15:09:18Z,A Memory Aware High Level Synthesis Too,Eric Martin,cs.AR,http://arxiv.org/pdf/cs/0605144v1
+cs/0605145v1,2006-05-30T15:09:32Z,Memory Aware High-Level Synthesis for Embedded Systems,Eric Martin,cs.AR,http://arxiv.org/pdf/cs/0605145v1
+cs/0605146v1,2006-05-30T15:10:57Z,Synthèse Comportementale Sous Contraintes de Communication et de   Placement Mémoire pour les composants du TDSI,Eric Martin,cs.AR,http://arxiv.org/pdf/cs/0605146v1
+cs/0608075v1,2006-08-18T13:12:55Z,Design of multimedia processor based on metric computation,Mohamed Abid,cs.AR,http://arxiv.org/pdf/cs/0608075v1
+cs/0609023v1,2006-09-06T16:09:04Z,Novel Reversible TSG Gate and Its Application for Designing Components   of Primitive Reversible/Quantum ALU,M. B. Srinivas,cs.AR,http://arxiv.org/pdf/cs/0609023v1
+cs/0609028v1,2006-09-07T14:18:41Z,VLSI Implementation of RSA Encryption System Using Ancient Indian Vedic   Mathematics,M. B Srinivas,cs.AR,http://arxiv.org/pdf/cs/0609028v1
+cs/0609029v1,2006-09-07T14:25:21Z,Reversible Programmable Logic Array (RPLA) using Fredkin & Feynman Gates   for Industrial Electronics and Applications,Hamid R. Arabnia,cs.AR,http://arxiv.org/pdf/cs/0609029v1
+cs/0609036v1,2006-09-08T05:36:20Z,Reduced Area Low Power High Throughput BCD Adders for IEEE 754r Format,M. B Srinivas,cs.AR,http://arxiv.org/pdf/cs/0609036v1
+cs/0610090v1,2006-10-14T10:39:42Z,Combined Integer and Floating Point Multiplication Architecture(CIFM)   for FPGAs and Its Reversible Logic Implementation,A. P Vinod,cs.AR,http://arxiv.org/pdf/cs/0610090v1
+0706.1692v1,2007-06-12T13:45:50Z,A Methodology for Efficient Space-Time Adapter Design Space Exploration:   A Case Study of an Ultra Wide Band Interleaver,Eric Martin,cs.AR,http://arxiv.org/pdf/0706.1692v1
+0706.2732v1,2007-06-19T14:18:57Z,A Design Methodology for Space-Time Adapter,Eric Martin,cs.AR,http://arxiv.org/pdf/0706.2732v1
+0706.2824v1,2007-06-19T15:56:43Z,Méthodologie de modélisation et d'implémentation d'adaptateurs   spatio-temporels,Eric Martin,cs.AR,http://arxiv.org/pdf/0706.2824v1
+0707.1151v6,2007-07-09T19:26:06Z,"Logic, Design & Organization of PTVD-SHAM; A Parallel Time Varying &   Data Super-helical Access Memory",P. B. Alipour,cs.AR,http://arxiv.org/pdf/0707.1151v6
+0710.3443v1,2007-10-18T06:57:52Z,DPA on quasi delay insensitive asynchronous circuits: formalization and   improvement,F. Germain,cs.AR,http://arxiv.org/pdf/0710.3443v1
+0710.3535v2,2007-10-18T15:26:32Z,JANUS: an FPGA-based System for High Performance Scientific Computing,J. L. Velasco,cs.AR,http://arxiv.org/pdf/0710.3535v2
+0710.3789v1,2007-10-19T20:59:53Z,Frequency Analysis of Decoupling Capacitors for Three Voltage Supplies   in SoC,Mohd Abubakr,cs.AR,http://arxiv.org/pdf/0710.3789v1
+0710.4630v1,2007-10-25T08:07:11Z,CAFFEINE: Template-Free Symbolic Model Generation of Analog Circuits via   Canonical Form Functions and Genetic Programming,Georges Gielen,cs.AR,http://arxiv.org/pdf/0710.4630v1
+0710.4632v1,2007-10-25T08:07:52Z,Hardware Support for Arbitrarily Complex Loop Structures in Embedded   Applications,Spiridon Nikolaidis,cs.AR,http://arxiv.org/pdf/0710.4632v1
+0710.4634v1,2007-10-25T08:08:50Z,A Probabilistic Collocation Method Based Statistical Gate Delay Model   Considering Process Variations and Multiple Input Switching,Janet Wang,cs.AR,http://arxiv.org/pdf/0710.4634v1
+0710.4636v1,2007-10-25T08:09:23Z,Why Systems-on-Chip Needs More UML like a Hole in the Head,Campbell Mccausland,cs.AR,http://arxiv.org/pdf/0710.4636v1
+0710.4638v1,2007-10-25T08:10:40Z,Buffer Insertion for Bridges and Optimal Buffer Sizing for Communication   Sub-System of Systems-on-Chip,Eugene A. Feinberg,cs.AR,http://arxiv.org/pdf/0710.4638v1
+0710.4639v1,2007-10-25T08:11:06Z,Modeling the Non-Linear Behavior of Library Cells for an Accurate Static   Noise Analysis,Davide Pandini,cs.AR,http://arxiv.org/pdf/0710.4639v1
+0710.4644v1,2007-10-25T08:18:14Z,Cycle Accurate Binary Translation for Simulation Acceleration in Rapid   Prototyping of SoCs,Wolfgang Rosenstiel,cs.AR,http://arxiv.org/pdf/0710.4644v1
+0710.4645v1,2007-10-25T08:19:34Z,At-Speed Logic BIST for IP Cores,S. Wu,cs.AR,http://arxiv.org/pdf/0710.4645v1
+0710.4646v1,2007-10-25T08:20:27Z,Fast Dynamic Memory Integration in Co-Simulation Frameworks for   Multiprocessor System on-Chip,G. Palermo,cs.AR,http://arxiv.org/pdf/0710.4646v1
+0710.4649v1,2007-10-25T08:24:02Z,Stochastic Power Grid Analysis Considering Process Variations,Janet Wang,cs.AR,http://arxiv.org/pdf/0710.4649v1
+0710.4652v1,2007-10-25T08:31:15Z,Locality-Aware Process Scheduling for Embedded MPSoCs,Guilin Chen,cs.AR,http://arxiv.org/pdf/0710.4652v1
+0710.4653v1,2007-10-25T08:32:08Z,Simultaneous Reduction of Dynamic and Static Power in Scan Structures,Zainalabedin Navabi,cs.AR,http://arxiv.org/pdf/0710.4653v1
+0710.4654v1,2007-10-25T08:33:14Z,Modeling Interconnect Variability Using Efficient Parametric Model Order   Reduction,Sani R. Nassif,cs.AR,http://arxiv.org/pdf/0710.4654v1
+0710.4655v1,2007-10-25T08:34:09Z,A Fast Diagnosis Scheme for Distributed Small Embedded SRAMs,Andre Ivanov,cs.AR,http://arxiv.org/pdf/0710.4655v1
+0710.4656v1,2007-10-25T08:34:32Z,A Memory Hierarchical Layer Assigning and Prefetching Technique to   Overcome the Memory Performance/Energy Bottleneck,Antonios Thanailakis,cs.AR,http://arxiv.org/pdf/0710.4656v1
+0710.4657v1,2007-10-25T08:34:59Z,New Schemes for Self-Testing RAM,A. Labunetz,cs.AR,http://arxiv.org/pdf/0710.4657v1
+0710.4659v1,2007-10-25T08:35:37Z,Synchronization Processor Synthesis for Latency Insensitive Systems,Emmanuel Boutillon,cs.AR,http://arxiv.org/pdf/0710.4659v1
+0710.4660v1,2007-10-25T08:36:55Z,Thermal-Aware Task Allocation and Scheduling for Embedded Systems,M. J. Irwin,cs.AR,http://arxiv.org/pdf/0710.4660v1
+0710.4661v1,2007-10-25T08:37:31Z,Bright-Field AAPSM Conflict Detection and Correction,A. Zelikovsky,cs.AR,http://arxiv.org/pdf/0710.4661v1
+0710.4663v1,2007-10-25T08:41:06Z,Statistical Modeling of Pipeline Delay and Design of Pipeline under   Process Variation to Enhance Yield in sub-100nm Technologies,Kaushik Roy,cs.AR,http://arxiv.org/pdf/0710.4663v1
+0710.4665v1,2007-10-25T08:43:31Z,New Perspectives and Opportunities From the Wild West of Microelectronic   Biochips,Roberto Guerrieri,cs.AR,http://arxiv.org/pdf/0710.4665v1
+0710.4669v1,2007-10-25T08:45:18Z,SOC Testing Methodology and Practice,Cheng-Wen Wu,cs.AR,http://arxiv.org/pdf/0710.4669v1
+0710.4670v1,2007-10-25T08:45:52Z,Evolutionary Optimization in Code-Based Test Compression,Bernd Becker,cs.AR,http://arxiv.org/pdf/0710.4670v1
+0710.4671v1,2007-10-25T08:46:59Z,An Application-Specific Design Methodology for STbus Crossbar Generation,Giovanni De Micheli,cs.AR,http://arxiv.org/pdf/0710.4671v1
+0710.4672v1,2007-10-25T08:47:40Z,Yield Enhancement of Digital Microfluidics-Based Biochips Using Space   Redundancy and Local Reconfiguration,Vamsee K. Pamula,cs.AR,http://arxiv.org/pdf/0710.4672v1
+0710.4673v1,2007-10-25T08:48:12Z,Design of Fault-Tolerant and Dynamically-Reconfigurable Microfluidic   Biochips,Krishnendu Chakrabarty,cs.AR,http://arxiv.org/pdf/0710.4673v1
+0710.4678v1,2007-10-25T09:02:53Z,CMOS-Based Biosensor Arrays,H. -C. Hanke,cs.AR,http://arxiv.org/pdf/0710.4678v1
+0710.4679v1,2007-10-25T09:03:13Z,DVS for On-Chip Bus Designs Based on Timing Error Correction,Todd Austin,cs.AR,http://arxiv.org/pdf/0710.4679v1
+0710.4681v1,2007-10-25T09:05:03Z,A Quality-of-Service Mechanism for Interconnection Networks in   System-on-Chips,Drew Wingard,cs.AR,http://arxiv.org/pdf/0710.4681v1
+0710.4684v1,2007-10-25T09:07:44Z,Reliability-Centric High-Level Synthesis,Yuan Xie,cs.AR,http://arxiv.org/pdf/0710.4684v1
+0710.4685v1,2007-10-25T09:08:39Z,Reliable System Specification for Self-Checking Data-Paths,L. Pomante,cs.AR,http://arxiv.org/pdf/0710.4685v1
+0710.4686v1,2007-10-25T09:08:40Z,Test Planning for Mixed-Signal SOCs with Wrapped Analog Cores,Krishnendu Chakrabarty,cs.AR,http://arxiv.org/pdf/0710.4686v1
+0710.4687v1,2007-10-25T09:09:14Z,On-Chip Test Infrastructure Design for Optimal Multi-Site Testing of   System Chips,Erik Jan Marinissen,cs.AR,http://arxiv.org/pdf/0710.4687v1
+0710.4688v1,2007-10-25T09:09:34Z,On the Optimal Design of Triple Modular Redundancy Logic for SRAM-based   FPGAs,M. Sonza Reorda,cs.AR,http://arxiv.org/pdf/0710.4688v1
+0710.4691v1,2007-10-25T09:11:11Z,An O(bn^2) Time Algorithm for Optimal Buffer Insertion with b Buffer   Types,Weiping Shi,cs.AR,http://arxiv.org/pdf/0710.4691v1
+0710.4692v1,2007-10-25T09:11:49Z,Cantilever-Based Biosensors in CMOS Technology,A. Hierlemannn,cs.AR,http://arxiv.org/pdf/0710.4692v1
+0710.4693v1,2007-10-25T09:14:05Z,Memory Testing Under Different Stress Conditions: An Industrial   Evaluation,Fred Bowen,cs.AR,http://arxiv.org/pdf/0710.4693v1
+0710.4697v1,2007-10-25T09:16:49Z,Statistical Timing Based Optimization using Gate Sizing,David Blaauw,cs.AR,http://arxiv.org/pdf/0710.4697v1
+0710.4703v1,2007-10-25T09:27:22Z,A Way Memoization Technique for Reducing Power Consumption of Caches in   Application Specific Integrated Processors,Farzan Fallah,cs.AR,http://arxiv.org/pdf/0710.4703v1
+0710.4704v1,2007-10-25T09:28:05Z,Resource Sharing and Pipelining in Coarse-Grained Reconfigurable   Architecture for Domain-Specific Optimization,Kiyoung Choi,cs.AR,http://arxiv.org/pdf/0710.4704v1
+0710.4705v1,2007-10-25T09:29:03Z,A Study of the Speedups and Competitiveness of FPGA Soft Processor Cores   using Dynamic Hardware/Software Partitioning,Frank Vahid,cs.AR,http://arxiv.org/pdf/0710.4705v1
+0710.4706v1,2007-10-25T09:29:33Z,An Infrastructure to Functionally Test Designs Generated by Compilers   Targeting FPGAs,Joao M. P. Cardoso,cs.AR,http://arxiv.org/pdf/0710.4706v1
+0710.4707v1,2007-10-25T09:29:58Z,Energy- and Performance-Driven NoC Communication Architecture Synthesis   Using a Decomposition Approach,Radu Marculescu,cs.AR,http://arxiv.org/pdf/0710.4707v1
+0710.4709v1,2007-10-25T09:30:46Z,Analog and Digital Circuit Design in 65 nm CMOS: End of the Road?,Ted Vucurevich,cs.AR,http://arxiv.org/pdf/0710.4709v1
+0710.4711v1,2007-10-25T09:32:43Z,FPGA Architecture for Multi-Style Asynchronous Logic,M. Renaudin,cs.AR,http://arxiv.org/pdf/0710.4711v1
+0710.4712v1,2007-10-25T09:33:14Z,An Accurate SER Estimation Method Based on Propagation Probability,Mehdi B. Tahoori,cs.AR,http://arxiv.org/pdf/0710.4712v1
+0710.4713v1,2007-10-25T09:33:36Z,Improving the Process-Variation Tolerance of Digital Circuits Using Gate   Sizing and Statistical Techniques,Xiaoyu Song,cs.AR,http://arxiv.org/pdf/0710.4713v1
+0710.4714v1,2007-10-25T09:33:38Z,Assertion-Based Design Exploration of DVS in Network Processor   Architectures,Felice Balarin,cs.AR,http://arxiv.org/pdf/0710.4714v1
+0710.4715v1,2007-10-25T09:34:11Z,Circuit-Level Modeling for Concurrent Testing of Operational Defects due   to Gate Oxide Breakdown,Daniel J. Sorin,cs.AR,http://arxiv.org/pdf/0710.4715v1
+0710.4716v1,2007-10-25T09:34:19Z,Optimized Generation of Data-Path from C Codes for FPGAs,Kees Vissers,cs.AR,http://arxiv.org/pdf/0710.4716v1
+0710.4717v1,2007-10-25T09:35:03Z,Multi-Placement Structures for Fast and Optimized Placement in Analog   Circuit Synthesis,Ranga Vemuri,cs.AR,http://arxiv.org/pdf/0710.4717v1
+0710.4719v1,2007-10-25T09:36:21Z,Specification Test Compaction for Analog Circuits and MEMS,Larry T. Pileggi,cs.AR,http://arxiv.org/pdf/0710.4719v1
+0710.4720v1,2007-10-25T09:36:27Z,Soft-Error Tolerance Analysis and Optimization of Nanometer Circuits,Abhijit Chatterjee,cs.AR,http://arxiv.org/pdf/0710.4720v1
+0710.4721v1,2007-10-25T09:36:53Z,IEEE 1149.4 Compatible ABMs for Basic RF Measurements,Markku Moilanen,cs.AR,http://arxiv.org/pdf/0710.4721v1
+0710.4722v1,2007-10-25T09:36:56Z,Designer-Driven Topology Optimization for Pipelined Analog to Digital   Converters,Tamal Mukherjee,cs.AR,http://arxiv.org/pdf/0710.4722v1
+0710.4724v1,2007-10-25T09:37:45Z,Systematic Figure of Merit Computation for the Design of Pipeline ADC,D. Houzet,cs.AR,http://arxiv.org/pdf/0710.4724v1
+0710.4727v1,2007-10-25T09:38:14Z,Top-Down Design of a Low-Power Multi-Channel 2.5-Gbit/s/Channel Gated   Oscillator Clock-Recovery Circuit,Yusuf Leblebici,cs.AR,http://arxiv.org/pdf/0710.4727v1
+0710.4728v1,2007-10-25T09:38:43Z,Energy-Aware Routing for E-Textile Applications,Radu Marculescu,cs.AR,http://arxiv.org/pdf/0710.4728v1
+0710.4729v1,2007-10-25T09:39:25Z,Modeling and Analysis of Loading Effect in Leakage of Nano-Scaled   Bulk-CMOS Logic Circuits,Kaushik Roy,cs.AR,http://arxiv.org/pdf/0710.4729v1
+0710.4731v1,2007-10-25T09:40:02Z,Leakage-Aware Interconnect for On-Chip Network,Mary Jane Irwin,cs.AR,http://arxiv.org/pdf/0710.4731v1
+0710.4733v1,2007-10-25T09:41:13Z,Smart Temperature Sensor for Thermal Testing of Cell-Based ICs,J. Segura,cs.AR,http://arxiv.org/pdf/0710.4733v1
+0710.4735v1,2007-10-25T09:42:30Z,Worst-Case and Average-Case Analysis of n-Detection Test Sets,Sudhakar M. Reddy,cs.AR,http://arxiv.org/pdf/0710.4735v1
+0710.4736v1,2007-10-25T09:42:35Z,A New Embedded Measurement Structure for eDRAM Capacitor,D. Nee,cs.AR,http://arxiv.org/pdf/0710.4736v1
+0710.4738v1,2007-10-25T09:43:59Z,Exploring NoC Mapping Strategies: An Energy and Timing Aware Technique,Fabiano Hessel,cs.AR,http://arxiv.org/pdf/0710.4738v1
+0710.4742v1,2007-10-25T09:45:28Z,Hardware Accelerated Power Estimation,Anand Raghunathan,cs.AR,http://arxiv.org/pdf/0710.4742v1
+0710.4747v1,2007-10-25T09:48:22Z,An Efficient Transparent Test Scheme for Embedded Word-Oriented Memories,Chin-Long Wey,cs.AR,http://arxiv.org/pdf/0710.4747v1
+0710.4748v1,2007-10-25T09:49:10Z,Systematic Transaction Level Modeling of Embedded Systems with SystemC,Wolfgang Klingauf,cs.AR,http://arxiv.org/pdf/0710.4748v1
+0710.4751v1,2007-10-25T09:51:11Z,Influence of Memory Hierarchies on Predictability for Time Constrained   Embedded Software,Peter Marwedel,cs.AR,http://arxiv.org/pdf/0710.4751v1
+0710.4754v1,2007-10-25T09:52:56Z,Design of a Virtual Component Neutral Network-on-Chip Transaction Layer,Philippe Martin,cs.AR,http://arxiv.org/pdf/0710.4754v1
+0710.4757v1,2007-10-25T09:53:37Z,Techniques for Fast Transient Fault Grading Based on Autonomous   Emulation,Luis Entrena-Arrontes,cs.AR,http://arxiv.org/pdf/0710.4757v1
+0710.4759v1,2007-10-25T09:54:18Z,A Fast Concurrent Power-Thermal Model for Sub-100nm Digital ICs,J. Segura,cs.AR,http://arxiv.org/pdf/0710.4759v1
+0710.4760v1,2007-10-25T09:54:46Z,Low Power Oriented CMOS Circuit Optimization Protocol,D. Auvergne,cs.AR,http://arxiv.org/pdf/0710.4760v1
+0710.4761v1,2007-10-25T09:55:04Z,Low-Cost Multi-Gigahertz Test Systems Using CMOS FPGAs and PECL,N. Taher,cs.AR,http://arxiv.org/pdf/0710.4761v1
+0710.4762v1,2007-10-25T09:55:21Z,Area-Efficient Selective Multi-Threshold CMOS Design Methodology for   Standby Leakage Power Reduction,Toshiyuki Furusawa,cs.AR,http://arxiv.org/pdf/0710.4762v1
+0710.4763v1,2007-10-25T09:55:27Z,Logic Design for On-Chip Test Clock Generation - Implementation Details   and Impact on Delay Test Quality,Ron Press,cs.AR,http://arxiv.org/pdf/0710.4763v1
+0710.4764v1,2007-10-25T09:55:48Z,Hotspot Prevention Through Runtime Reconfiguration in Network-On-Chip,N. Vijaykrishnan,cs.AR,http://arxiv.org/pdf/0710.4764v1
+0710.4794v1,2007-10-25T11:51:44Z,Power-Performance Trade-Offs in Nanometer-Scale Multi-Level Caches   Considering Total Leakage,Trevor Mudge,cs.AR,http://arxiv.org/pdf/0710.4794v1
+0710.4795v1,2007-10-25T11:52:22Z,Test Time Reduction Reusing Multiple Processors in a Network-on-Chip   Based Architecture,Edson I. Moreno,cs.AR,http://arxiv.org/pdf/0710.4795v1
+0710.4796v1,2007-10-25T11:53:03Z,A Hybrid Prefetch Scheduling Heuristic to Minimize at Run-Time the   Reconfiguration Overhead of Dynamically Reconfigurable Hardware,Francky Catthoor,cs.AR,http://arxiv.org/pdf/0710.4796v1
+0710.4801v1,2007-10-25T11:55:59Z,Behavioural Transformation to Improve Circuit Performance in High-Level   Synthesis,R. Hermida,cs.AR,http://arxiv.org/pdf/0710.4801v1
+0710.4805v1,2007-10-25T11:57:50Z,Modeling of a Reconfigurable OFDM IP Block Family For an RF System   Simulator,Jussi Liedes,cs.AR,http://arxiv.org/pdf/0710.4805v1
+0710.4806v1,2007-10-25T11:57:56Z,A VLSI Design Flow for Secure Side-Channel Attack Resistant ICs,Ingrid Verbauwhede,cs.AR,http://arxiv.org/pdf/0710.4806v1
+0710.4808v1,2007-10-25T11:59:15Z,Fast and Accurate Transaction Level Modeling of an Extended AMBA2.0 Bus   Architecture,Soo-Kwan Eo,cs.AR,http://arxiv.org/pdf/0710.4808v1
+0710.4809v1,2007-10-25T11:59:48Z,C Based Hardware Design for Wireless Applications,Thomas Bollaert,cs.AR,http://arxiv.org/pdf/0710.4809v1
+0710.4812v1,2007-10-25T12:00:41Z,Area and Throughput Trade-Offs in the Design of Pipelined Discrete   Wavelet Transform Architectures,Sergio Bampi,cs.AR,http://arxiv.org/pdf/0710.4812v1
+0710.4813v1,2007-10-25T12:00:48Z,Queue Management in Network Processors,A. Nikologiannis,cs.AR,http://arxiv.org/pdf/0710.4813v1
+0710.4814v1,2007-10-25T12:01:15Z,picoArray Technology: The Tool's Story,Will Robbins,cs.AR,http://arxiv.org/pdf/0710.4814v1
+0710.4820v1,2007-10-25T12:04:11Z,ISEGEN: Generation of High-Quality Instruction Set Extensions by   Iterative Improvement,Paolo Ienne,cs.AR,http://arxiv.org/pdf/0710.4820v1
+0710.4824v1,2007-10-25T12:04:43Z,FPGA based Agile Algorithm-On-Demand Co-Processor,V. Kamakoti,cs.AR,http://arxiv.org/pdf/0710.4824v1
+0710.4825v1,2007-10-25T12:05:33Z,Meeting the Embedded Design Needs of Automotive Applications,Wayne Lyons,cs.AR,http://arxiv.org/pdf/0710.4825v1
+0710.4826v1,2007-10-25T12:06:43Z,The Integration of On-Line Monitoring and Reconfiguration Functions   using EDAA - European design and Automation Association1149.4 Into a Safety   Critical Automotive Electronic Control Unit,S. Riches,cs.AR,http://arxiv.org/pdf/0710.4826v1
+0710.4827v1,2007-10-25T12:07:17Z,"Debug Support, Calibration and Emulation for Multiple Processor and   Powertrain Control SoCs",K. D. Mcdonald-Maier,cs.AR,http://arxiv.org/pdf/0710.4827v1
+0710.4832v1,2007-10-25T12:10:19Z,SystemC Analysis of a New Dynamic Power Management Architecture,Massimo Conti,cs.AR,http://arxiv.org/pdf/0710.4832v1
+0710.4833v1,2007-10-25T12:11:11Z,Exploiting Real-Time FPGA Based Adaptive Systems Technology for   Real-Time Sensor Fusion in Next Generation Automotive Safety Systems,Chris Sullivan,cs.AR,http://arxiv.org/pdf/0710.4833v1
+0710.4834v1,2007-10-25T12:12:03Z,Platform Based Design for Automotive Sensor Conditioning,A. Rocchi,cs.AR,http://arxiv.org/pdf/0710.4834v1
+0710.4838v1,2007-10-25T12:15:35Z,"A 6bit, 1.2GSps Low-Power Flash-ADC in 0.13$μ$m Digital CMOS",Franz Kuttner,cs.AR,http://arxiv.org/pdf/0710.4838v1
+0710.4839v1,2007-10-25T12:16:26Z,A 97mW 110MS/s 12b Pipeline ADC Implemented in 0.18$μ$m Digital CMOS,Oystein Moldsvor,cs.AR,http://arxiv.org/pdf/0710.4839v1
+0710.4840v1,2007-10-25T12:17:29Z,Testing Logic Cores using a BIST P1500 Compliant Approach: A Case of   Study,M. Sonza Reorda,cs.AR,http://arxiv.org/pdf/0710.4840v1
+0710.4842v1,2007-10-25T12:18:38Z,Using Mobilize Power Management IP for Dynamic & Static Power Reduction   in SoC at 130 nm,Dan Hillman,cs.AR,http://arxiv.org/pdf/0710.4842v1
+0710.4843v1,2007-10-25T12:19:07Z,MultiNoC: A Multiprocessing System Enabled by a Network on Chip,Fernando Moraes,cs.AR,http://arxiv.org/pdf/0710.4843v1
+0710.4844v1,2007-10-25T12:20:27Z,A Partitioning Methodology for Accelerating Applications in Hybrid   Reconfigurable Platforms,C. E. Goutis,cs.AR,http://arxiv.org/pdf/0710.4844v1
+0710.4845v1,2007-10-25T12:21:19Z,Evaluation of SystemC Modelling of Reconfigurable Embedded Systems,Wayne Luk,cs.AR,http://arxiv.org/pdf/0710.4845v1
+0710.4850v1,2007-10-25T12:24:59Z,Hardware Support for QoS-based Function Allocation in Reconfigurable   Systems,Jurgen Becker,cs.AR,http://arxiv.org/pdf/0710.4850v1
+0711.0838v2,2007-11-06T11:16:34Z,On the operating unit size of load/store architectures,C. A. Middelburg,cs.AR,http://arxiv.org/pdf/0711.0838v2
+0711.2383v1,2007-11-15T11:55:30Z,Decoding the Golden Code: a VLSI design,Emanuele Viterbo,cs.AR,http://arxiv.org/pdf/0711.2383v1
+0711.2671v1,2007-11-16T20:18:32Z,Combined Integer and Variable Precision (CIVP) Floating Point   Multiplication Architecture for FPGAs,Kamal K. Sharma,cs.AR,http://arxiv.org/pdf/0711.2671v1
+0711.2674v1,2007-11-16T20:25:20Z,Partial Reversible Gates(PRG) for Reversible BCD Arithmetic,Kamal K. Sharma,cs.AR,http://arxiv.org/pdf/0711.2674v1
+0802.3441v1,2008-02-23T13:11:13Z,Efficient implementation of GALS systems over commercial synchronous   FPGAs: a new approach,Javier D. Garcia-Lasheras,cs.AR,http://arxiv.org/pdf/0802.3441v1
+0807.1765v1,2008-07-11T02:47:55Z,Archer: A Community Distributed Computing Infrastructure for Computer   Architecture Research and Education,Gary Tyson,cs.AR,http://arxiv.org/pdf/0807.1765v1
+0807.3732v1,2008-07-23T19:22:06Z,An adaptive embedded architecture for real-time Particle Image   Velocimetry algorithms,Virginie Fresse,cs.AR,http://arxiv.org/pdf/0807.3732v1
+0808.2584v2,2008-08-19T12:31:07Z,On Transformations of Load-Store Maurer Instruction Set Architecture,Tie Hou,cs.AR,http://arxiv.org/pdf/0808.2584v2
+0808.2602v2,2008-08-19T14:44:05Z,Easily testable logical networks based on a 'widened long flip-flop',Nick Stukach,cs.AR,http://arxiv.org/pdf/0808.2602v2
+0812.3871v1,2008-12-19T18:14:54Z,Decting Errors in Reversible Circuits With Invariant Relationships,Nuno Alves,cs.AR,http://arxiv.org/pdf/0812.3871v1
+0901.4081v1,2009-01-26T19:54:27Z,Adaptive FPGA NoC-based Architecture for Multispectral Image Correlation,Viktor Fischer,cs.AR,http://arxiv.org/pdf/0901.4081v1
+0906.3832v1,2009-06-20T22:56:19Z,Hardware Trojan by Hot Carrier Injection,W. Clay,cs.AR,http://arxiv.org/pdf/0906.3832v1
+0906.3834v1,2009-06-20T23:12:45Z,Exploiting Semiconductor Properties for Hardware Trojans,W. Clay,cs.AR,http://arxiv.org/pdf/0906.3834v1
+0909.0099v1,2009-09-01T06:15:22Z,"Hardware Virtualization Support In INTEL, AMD And IBM Power Processors",Md. Ashraful Islam,cs.AR,http://arxiv.org/pdf/0909.0099v1
+0909.1876v1,2009-09-10T07:29:52Z,Turbo NOC: a framework for the design of Network On Chip based turbo   decoder architectures,Guido Masera,cs.AR,http://arxiv.org/pdf/0909.1876v1
+1001.3716v1,2010-01-21T04:34:07Z,A Multicore Processor based Real-Time System for Automobile management   application,T. R. Gopalakrishnan Nair,cs.AR,http://arxiv.org/pdf/1001.3716v1
+1001.3781v1,2010-01-21T11:31:11Z,An Architectural Approach for Decoding and Distributing Functions in   FPUs in a Functional Processor System,H. K. Krutthika,cs.AR,http://arxiv.org/pdf/1001.3781v1
+1001.4694v1,2010-01-26T14:11:18Z,VLSI Architectures for WIMAX Channel Decoders,Guido Masera,cs.AR,http://arxiv.org/pdf/1001.4694v1
+1002.1881v1,2010-02-09T15:21:20Z,Evaluation and Design Space Exploration of a Time-Division Multiplexed   NoC on FPGA for Image Analysis Applications,Anne-Claire Legrand,cs.AR,http://arxiv.org/pdf/1002.1881v1
+1007.4465v1,2010-07-26T14:06:59Z,FPGA Implementation of a Reconfigurable Viterbi Decoder for WiMAX   Receiver,Khaled Ali Shehata,cs.AR,http://arxiv.org/pdf/1007.4465v1
+1008.2729v1,2010-08-16T18:14:06Z,Asynchronous logic circuits and sheaf obstructions,Michael Robinson,cs.AR,http://arxiv.org/pdf/1008.2729v1
+1008.3288v1,2010-08-19T12:25:44Z,Reversible Logic Synthesis of Fault Tolerant Carry Skip BCD Adder,Zerina Begum,cs.AR,http://arxiv.org/pdf/1008.3288v1
+1008.3311v1,2010-08-19T14:35:12Z,Fault tolerant reversible logic synthesis: Carry look-ahead and   carry-skip adders,Mohd. Zulfiquar Hafiz,cs.AR,http://arxiv.org/pdf/1008.3311v1
+1008.3340v1,2010-08-19T16:12:11Z,Synthesis of Fault Tolerant Reversible Logic Circuits,Abdullah Al Mahmud,cs.AR,http://arxiv.org/pdf/1008.3340v1
+1008.3344v1,2010-08-19T16:27:28Z,Efficient Approaches for Designing Fault Tolerant Reversible Carry   Look-Ahead and Carry-Skip Adders,Mohd. Zulfiquar Hafiz,cs.AR,http://arxiv.org/pdf/1008.3344v1
+1008.3352v1,2010-08-19T17:07:51Z,Variable Block Carry Skip Logic using Reversible Gates,Hafiz Md. Hasan Babu,cs.AR,http://arxiv.org/pdf/1008.3352v1
+1008.3357v1,2010-08-19T17:21:54Z,Building Toffoli Network for Reversible Logic Synthesis Based on   Swapping Bit Strings,Abdullah Al Mahmud,cs.AR,http://arxiv.org/pdf/1008.3357v1
+1008.3452v2,2010-08-20T07:53:24Z,Memristor-based Circuits for Performing Basic Arithmetic Operations,Saeed Bagheri Shouraki,cs.AR,http://arxiv.org/pdf/1008.3452v2
+1008.3533v1,2010-08-20T16:23:54Z,A Novel Quantum Cost Efficient Reversible Full Adder Gate in   Nanotechnology,Md. Saiful Islam,cs.AR,http://arxiv.org/pdf/1008.3533v1
+1008.3694v1,2010-08-22T11:13:34Z,Sorting Network for Reversible Logic Synthesis,Muhammad Rezaul karim,cs.AR,http://arxiv.org/pdf/1008.3694v1
+1008.4668v1,2010-08-27T09:05:49Z,BSSSN: Bit String Swapping Sorting Network for Reversible Logic   Synthesis,Md. Saiful Islam,cs.AR,http://arxiv.org/pdf/1008.4668v1
+1009.1796v1,2010-09-09T14:41:27Z,Power optimized programmable embedded controller,A. V. N. Tilak,cs.AR,http://arxiv.org/pdf/1009.1796v1
+1009.2622v1,2010-09-14T10:48:56Z,On the Design and Analysis of Quaternary Serial and Parallel Adders,Masud Hasan,cs.AR,http://arxiv.org/pdf/1009.2622v1
+1009.3819v1,2010-09-20T13:53:39Z,Fault Tolerant Variable Block Carry Skip Logic (VBCSL) using Parity   Preserving Reversible Gates,Mohd. Zulfiquar Hafiz,cs.AR,http://arxiv.org/pdf/1009.3819v1
+1009.4590v1,2010-09-23T12:01:38Z,A Unique 10 Segment Display for Bengali Numerals,S. M. Kamruzzaman,cs.AR,http://arxiv.org/pdf/1009.4590v1
+1009.4977v1,2010-09-25T06:17:02Z,Universal Numeric Segmented Display,S. M. Kamruzzaman,cs.AR,http://arxiv.org/pdf/1009.4977v1
+1009.6132v1,2010-09-09T04:43:52Z,Multi-standard programmable baseband modulator for next generation   wireless communication,Indrajit Chakrabarti,cs.AR,http://arxiv.org/pdf/1009.6132v1
+1011.4157v2,2010-11-18T09:12:50Z,"A full-custom ASIC design of a 8-bit, 25 MHz, Pipeline ADC using 0.35 um   CMOS technology",Imran Khan,cs.AR,http://arxiv.org/pdf/1011.4157v2
+1101.3698v1,2011-01-17T18:09:52Z,Systolic Arrays for Lattice-Reduction-Aided MIMO Detection,Kung Yao,cs.AR,http://arxiv.org/pdf/1101.3698v1
+1101.5364v1,2011-01-27T19:20:42Z,RISC and CISC,Farhat Masood,cs.AR,http://arxiv.org/pdf/1101.5364v1
+1102.0884v1,2011-02-04T11:40:14Z,A Simulation Experiment on a Built-In Self Test Equipped with   Pseudorandom Test Pattern Generator and Multi-Input Shift Register (MISR),A. Ahmad,cs.AR,http://arxiv.org/pdf/1102.0884v1
+1105.1014v1,2011-05-05T08:41:43Z,Improving Network-on-Chip-based turbo decoder architectures,Guido Masera,cs.AR,http://arxiv.org/pdf/1105.1014v1
+1105.1967v1,2011-05-10T15:03:05Z,Algebra-Logical Repair Method for FPGA Logic Blocks,Olesya Guz,cs.AR,http://arxiv.org/pdf/1105.1967v1
+1105.1973v1,2011-05-10T15:24:49Z,Brain-like infrastructure for embedded SoC diagnosis,Olesya Guz,cs.AR,http://arxiv.org/pdf/1105.1973v1
+1105.2624v1,2011-05-13T07:17:16Z,A Flexible LDPC code decoder with a Network on Chip as underlying   interconnect architecture,Guido Masera,cs.AR,http://arxiv.org/pdf/1105.2624v1
+1105.2960v1,2011-05-15T19:03:25Z,Multi-Amdahl: Optimal Resource Sharing with Multiple Program Execution   Segments,Uri Weiser,cs.AR,http://arxiv.org/pdf/1105.2960v1
+1106.3677v1,2011-06-18T18:44:38Z,Pseudo-Ring Testing Schemes and Algorithms of RAM Built-In and Embedded   Self-Testing,Wajeb Gharibi,cs.AR,http://arxiv.org/pdf/1106.3677v1
+1106.3681v1,2011-06-18T19:07:44Z,SoC Software Components Diagnosis Technology,Aleksey Sushanov,cs.AR,http://arxiv.org/pdf/1106.3681v1
+1107.3924v1,2011-07-20T09:20:30Z,Reversible arithmetic logic unit,Manqun Zhang,cs.AR,http://arxiv.org/pdf/1107.3924v1
+1108.3970v2,2011-08-19T14:32:32Z,"A Design Methodology for Folded, Pipelined Architectures in VLSI   Applications using Projective Space Lattices",Sachin Patkar,cs.AR,http://arxiv.org/pdf/1108.3970v2
+1108.5497v2,2011-08-28T08:07:09Z,Formulation and Development of a Novel Quaternary Algebra,Masud Hasan,cs.AR,http://arxiv.org/pdf/1108.5497v2
+1109.0708v1,2011-09-04T12:28:46Z,A Novel Methodology for Thermal Analysis & 3-Dimensional Memory   Integration,Vinod Pangracious,cs.AR,http://arxiv.org/pdf/1109.0708v1
+1109.0752v1,2011-09-04T20:02:53Z,An improved distributed routing algorithm for Benes based optical NoC,Yintang Yang,cs.AR,http://arxiv.org/pdf/1109.0752v1
+1109.0755v1,2011-09-04T20:46:08Z,Intelligent Bees for QoS Routing in Networks-on-Chip,Huaxi Gu,cs.AR,http://arxiv.org/pdf/1109.0755v1
+1110.1549v1,2011-10-07T14:40:51Z,Power comparison of CMOS and adiabatic full adder circuit,Rajendra prasad,cs.AR,http://arxiv.org/pdf/1110.1549v1
+1110.3281v4,2011-10-14T17:52:39Z,Faster Energy Efficient Dadda Based Baugh-Wooley Multipliers,Harish M Kittur,cs.AR,http://arxiv.org/pdf/1110.3281v4
+1110.3376v2,2011-10-15T03:54:27Z,Faster and Low Power Twin Precision Multiplier,Harish M Kittur,cs.AR,http://arxiv.org/pdf/1110.3376v2
+1110.3535v1,2011-10-16T22:48:56Z,Multi-core processors - An overview,Balaji Venu,cs.AR,http://arxiv.org/pdf/1110.3535v1
+1110.3584v1,2011-10-17T06:16:05Z,Optimal Final Carry Propagate Adder Design for Parallel Multipliers,Harish M. Kittur,cs.AR,http://arxiv.org/pdf/1110.3584v1
+1110.3655v1,2011-10-17T13:00:10Z,Accelerating Algorithms using a Dataflow Graph in a Reconfigurable   System,Antonio Carlos Fernandes da Silva,cs.AR,http://arxiv.org/pdf/1110.3655v1
+1110.6865v1,2011-10-31T17:13:25Z,FPGA implementation of short critical path CORDIC-based approximation of   the eight-point DCT,Alexander Petrovsky,cs.AR,http://arxiv.org/pdf/1110.6865v1
+1111.0703v1,2011-11-03T01:10:43Z,Efficient Network for Non-Binary QC-LDPC Decoder,Keshab K. Parhi,cs.AR,http://arxiv.org/pdf/1111.0703v1
+1111.0704v1,2011-11-03T01:12:49Z,Reduced-Latency SC Polar Decoder Architectures,Keshab K. Parhi,cs.AR,http://arxiv.org/pdf/1111.0704v1
+1111.0705v1,2011-11-03T01:15:58Z,Low-Latency SC Decoder Architectures for Polar Codes,Keshab K. Parhi,cs.AR,http://arxiv.org/pdf/1111.0705v1
+1111.3056v1,2011-11-13T19:28:01Z,Performance of Cache Memory Subsystems for Multicore Architectures,N. Ammasai Gounden,cs.AR,http://arxiv.org/pdf/1111.3056v1
+1111.4279v1,2011-11-18T04:12:12Z,Elastic Fidelity: Trading-off Computational Accuracy for Energy   Reduction,Srinivasan Parthasarathy,cs.AR,http://arxiv.org/pdf/1111.4279v1
+1111.7258v1,2011-11-30T18:07:44Z,A New Design for Array Multiplier with Trade off in Power and Area,T. Subba Rao,cs.AR,http://arxiv.org/pdf/1111.7258v1
+1201.0954v1,2012-01-04T18:21:06Z,Information Analysis Infrastructure for Diagnosis,Svetlana Chumachenko,cs.AR,http://arxiv.org/pdf/1201.0954v1
+1201.1674v1,2012-01-09T01:00:44Z,Theoretical Modeling and Simulation of Phase-Locked Loop (PLL) for Clock   Data Recovery (CDR),Anis Nurashikin Nordin,cs.AR,http://arxiv.org/pdf/1201.1674v1
+1201.2107v1,2012-01-10T16:46:57Z,Design and ASIC implementation of DUC/DDC for communication systems,Naagesh S. Bhat,cs.AR,http://arxiv.org/pdf/1201.2107v1
+1202.0613v1,2012-02-03T06:47:39Z,A Resolution for Shared Memory Conflict in Multiprocessor   System-on-a-Chip,Nitin,cs.AR,http://arxiv.org/pdf/1202.0613v1
+1203.0787v1,2012-03-04T23:43:07Z,A handy systematic method for data hazards detection in an instruction   set of a pipelined microprocessor,Ahmed M. Mahran,cs.AR,http://arxiv.org/pdf/1203.0787v1
+1203.4150v1,2012-03-19T16:18:54Z,Designing a WISHBONE Protocol Network Adapter for an Asynchronous   Network-on-Chip,Hesham M. A. M. Keshk,cs.AR,http://arxiv.org/pdf/1203.4150v1
+1203.5349v1,2012-03-22T10:48:33Z,LOCKE Detailed Specification Tables,Jose-Angel Gregorio,cs.AR,http://arxiv.org/pdf/1203.5349v1
+1204.1179v1,2012-04-05T10:59:03Z,C-slow Technique vs Multiprocessor in designing Low Area Customized   Instruction set Processor for Embedded Applications,Muhammad Masood Sarfaraz,cs.AR,http://arxiv.org/pdf/1204.1179v1
+1204.2809v1,2012-04-12T18:40:55Z,Performance-Optimum Superscalar Architecture for Embedded Applications,Mostafa E. Salehi,cs.AR,http://arxiv.org/pdf/1204.2809v1
+1204.5407v1,2012-04-24T15:28:25Z,Reversible Programmable Logic Array (RPLA) using Feynman & MUX Gates for   Low Power Industrial Applications,Naveen Kr. Malik,cs.AR,http://arxiv.org/pdf/1204.5407v1
+1205.1737v2,2012-05-08T16:30:40Z,A simple 1-byte 1-clock RC4 design and its efficient implementation in   FPGA coprocessor for secured ethernet communication,Ranjan Ghosh,cs.AR,http://arxiv.org/pdf/1205.1737v2
+1205.1860v1,2012-05-09T03:18:40Z,Wishbone bus Architecture - A Survey and Comparison,Dilip Kumar,cs.AR,http://arxiv.org/pdf/1205.1860v1
+1205.1866v1,2012-05-09T04:15:39Z,Microcontroller Based Testing of Digital IP-Core,Balwinder Singh,cs.AR,http://arxiv.org/pdf/1205.1866v1
+1205.1871v1,2012-05-09T05:23:13Z,Design Space Exploration to Find the Optimum Cache and Register File   Size for Embedded Applications,Hesamodin shojaei baghini,cs.AR,http://arxiv.org/pdf/1205.1871v1
+1205.2153v1,2012-05-10T04:04:45Z,Design and implementation of real time AES-128 on real time operating   system for multiple FPGA communication,Amlan Chakrabarti,cs.AR,http://arxiv.org/pdf/1205.2153v1
+1205.2428v1,2012-05-11T05:06:47Z,Relaxed Half-Stochastic Belief Propagation,Warren J. Gross,cs.AR,http://arxiv.org/pdf/1205.2428v1
+1205.4967v1,2012-05-22T16:26:23Z,Investigating Warp Size Impact in GPUs,Ahmad Khonsari,cs.AR,http://arxiv.org/pdf/1205.4967v1
+1206.1567v1,2012-06-07T18:17:32Z,Architecture for real time continuous sorting on large width data volume   for fpga based applications,Amlan Chakrabarti,cs.AR,http://arxiv.org/pdf/1206.1567v1
+1206.2132v1,2012-06-11T08:50:37Z,RepTFD: Replay Based Transient Fault Detection,Ruiyang Wu,cs.AR,http://arxiv.org/pdf/1206.2132v1
+1206.4753v2,2012-06-21T00:59:43Z,DLS: Directoryless Shared Last-level Cache,Weiwu Hu,cs.AR,http://arxiv.org/pdf/1206.4753v2
+1207.1187v1,2012-07-05T08:20:02Z,Dynamic Priority Queue: An SDRAM Arbiter With Bounded Access Latencies   for Tight WCET Calculation,Alois Knoll,cs.AR,http://arxiv.org/pdf/1207.1187v1
+1207.1683v1,2012-07-06T16:52:24Z,Design and Development of Low Cost Multi-Channel USB Data,Nungleppam Gopil Singh,cs.AR,http://arxiv.org/pdf/1207.1683v1
+1207.2060v1,2012-07-09T14:25:51Z,Design of PIC12F675 Microcontroller Based Data Acquisition System for   Slowly Varying Signals,K. C. Sarma,cs.AR,http://arxiv.org/pdf/1207.2060v1
+1207.2739v1,2012-07-11T18:29:21Z,Low Cost PC Based Real Time Data Logging System Using PCs Parallel Port   For Slowly Varying Signals,K. C. Sarma,cs.AR,http://arxiv.org/pdf/1207.2739v1
+1207.2840v1,2012-07-12T03:57:37Z,Design and Performance Analysis of hybrid adders for high speed   arithmetic circuit,Veerati Raju,cs.AR,http://arxiv.org/pdf/1207.2840v1
+1208.0995v1,2012-08-05T09:22:06Z,Design and implementation of a digital clock showing digits in Bangla   font using microcontroller AT89C4051,Sheikh Mominul Islam,cs.AR,http://arxiv.org/pdf/1208.0995v1
+1208.2374v2,2012-08-11T18:05:59Z,Dynamic Warp Resizing in High-Performance SIMT,Ahmad Khonsari,cs.AR,http://arxiv.org/pdf/1208.2374v2
+1209.3099v1,2012-09-14T06:09:10Z,A Cache Management Strategy to Replace Wear Leveling Techniques for   Embedded Flash Memory,Stéphane Rubini,cs.AR,http://arxiv.org/pdf/1209.3099v1
+1209.3564v1,2012-09-17T07:14:15Z,Deadlock Recovery Technique in Bus Enhanced NoC Architecture,Hamid Shahimohamadi,cs.AR,http://arxiv.org/pdf/1209.3564v1
+1210.6338v1,2012-10-22T15:11:08Z,A Ternary Digital to Analog Converter with High Power Output and 170-dB   Dynamic Range,Guido Stolfi,cs.AR,http://arxiv.org/pdf/1210.6338v1
+1302.4172v1,2013-02-18T07:35:15Z,Reduction in Packet Delay Through the use of Common Buffer over   Distributed Buffer in the Routing Node of NOC Architecture,Sanjay L. Badjate,cs.AR,http://arxiv.org/pdf/1302.4172v1
+1302.4463v1,2013-02-18T21:23:54Z,A Low-Power Content-Addressable-Memory Based on   Clustered-Sparse-Networks,Warren J. Gross,cs.AR,http://arxiv.org/pdf/1302.4463v1
+1302.6515v2,2013-02-26T17:48:12Z,Hybrid Crossbar Architecture for a Memristor Based Memory,Tarek M. Taha,cs.AR,http://arxiv.org/pdf/1302.6515v2
+1303.2175v1,2013-03-09T06:57:21Z,An efficient cntfet-based 7-input minority gate,Keivan Navi,cs.AR,http://arxiv.org/pdf/1303.2175v1
+1303.4892v1,2013-03-20T10:17:54Z,On whether and how D-RISC and Microgrids can be kept relevant   (self-assessment report),Raphael Poss,cs.AR,http://arxiv.org/pdf/1303.4892v1
+1303.5762v1,2013-03-21T22:53:24Z,Object-oriented approach to Rapid Custom Instruction design,Mohamed Abid,cs.AR,http://arxiv.org/pdf/1303.5762v1
+1304.0835v1,2013-04-03T03:52:52Z,Improved Analytical Delay Models for RC-Coupled Interconnects,Zhiyuan Yan,cs.AR,http://arxiv.org/pdf/1304.0835v1
+1304.5081v1,2013-04-18T11:00:50Z,Open Tiled Manycore System-on-Chip,Andreas Herkersdorf,cs.AR,http://arxiv.org/pdf/1304.5081v1
+1307.3324v1,2013-07-12T04:57:14Z,Power efficient carry propagate adder,Ganga Agnihotri,cs.AR,http://arxiv.org/pdf/1307.3324v1
+1307.3853v1,2013-07-15T08:44:19Z,Thermal analysis of 3D associative processor,Ran Ginosar,cs.AR,http://arxiv.org/pdf/1307.3853v1
+1307.6406v1,2013-07-24T13:09:43Z,Relative Performance of a Multi-level Cache with Last-Level Cache   Replacement: An Analytic Review,Bijay Paikaray,cs.AR,http://arxiv.org/pdf/1307.6406v1
+1307.8319v1,2013-07-31T13:40:40Z,Allocating the chains of consecutive additions for optimal fixed-point   data path synthesis,Gregory W. Donohoe,cs.AR,http://arxiv.org/pdf/1307.8319v1
+1307.8401v1,2013-07-31T17:45:54Z,FpSynt: a fixed-point datapath synthesis tool for embedded systems,Gregory W. Donohoe,cs.AR,http://arxiv.org/pdf/1307.8401v1
+1310.0100v1,2013-10-01T00:06:15Z,Technical report: Functional Constraint Extraction From Register   Transfer Level for ATPG,Jean-François Boland,cs.AR,http://arxiv.org/pdf/1310.0100v1
+1310.3356v1,2013-10-12T10:05:07Z,A Novel Reconfigurable Computing Architecture for Image Signal   Processing Using Circuit-Switched NoC and Synchronous Dataflow Model,Huazhong Yang,cs.AR,http://arxiv.org/pdf/1310.3356v1
+1310.4231v1,2013-10-16T00:41:12Z,Dynamic cache reconfiguration based techniques for improving cache   energy efficiency,Sparsh Mittal,cs.AR,http://arxiv.org/pdf/1310.4231v1
+1310.7792v1,2013-10-29T13:03:38Z,Evaluating Cache Coherent Shared Virtual Memory for Heterogeneous   Multicore Chips,Daniel J. Sorin,cs.AR,http://arxiv.org/pdf/1310.7792v1
+1310.8494v1,2013-10-31T13:33:16Z,Using Cache-coloring to Mitigate Inter-set Write Variation in   Non-volatile Caches,Sparsh Mittal,cs.AR,http://arxiv.org/pdf/1310.8494v1
+1311.0041v2,2013-10-31T21:41:18Z,A Technique for Write-endurance aware Management of Resistive RAM Last   Level Caches,Sparsh Mittal,cs.AR,http://arxiv.org/pdf/1311.0041v2
+1311.0170v1,2013-11-01T12:52:59Z,A Technique for Efficiently Managing SRAM-NVM Hybrid Cache,Sparsh Mittal,cs.AR,http://arxiv.org/pdf/1311.0170v1
+1311.0602v2,2013-11-04T08:23:38Z,Input-Output Logic based Fault-Tolerant Design Technique for SRAM-based   FPGAs,Zafar Ali Khan,cs.AR,http://arxiv.org/pdf/1311.0602v2
+1311.1667v1,2013-11-07T13:15:11Z,3D Cache Hierarchy Optimization,Ran Ginosar,cs.AR,http://arxiv.org/pdf/1311.1667v1
+1404.1602v2,2014-04-06T17:34:23Z,A high-level model of embedded flash energy consumption,Jeremy Bennett,cs.AR,http://arxiv.org/pdf/1404.1602v2
+1404.3162v1,2014-04-11T17:28:54Z,A Signal Processor for Gaussian Message Passing,Qiuting Huang,cs.AR,http://arxiv.org/pdf/1404.3162v1
+1404.3381v1,2014-04-13T13:07:36Z,Modeling the Temperature Bias of Power Consumption for Nanometer-Scale   CPUs in Application Processors,Fabien Coelho,cs.AR,http://arxiv.org/pdf/1404.3381v1
+1404.3877v1,2014-04-15T11:46:50Z,Design space exploration for image processing architectures on FPGA   targets,Ranjan Ghosh,cs.AR,http://arxiv.org/pdf/1404.3877v1
+1404.4629v2,2014-04-17T19:57:51Z,A Survey of Methods For Analyzing and Improving GPU Energy Efficiency,Jeffrey S. Vetter,cs.AR,http://arxiv.org/pdf/1404.4629v2
+1404.5885v1,2014-04-22T12:38:22Z,Hardware Efficient WiMAX Deinterleaver Capable of Address Generation for   Random Interleaving Depths,Gangadharaiah S. L,cs.AR,http://arxiv.org/pdf/1404.5885v1
+1404.5929v1,2014-04-23T19:09:19Z,FPGA design of a cdma2000 turbo decoder,Fabio G. Guerrero,cs.AR,http://arxiv.org/pdf/1404.5929v1
+1405.2909v1,2014-05-12T16:40:23Z,Emulated ASIC Power and Temperature Monitor System for FPGA Prototyping   of an Invasive MPSoC Computing Architecture,Doris Schmitt-Landsiedel,cs.AR,http://arxiv.org/pdf/1405.2909v1
+1405.4232v2,2014-05-16T16:31:35Z,Architectural Design of a RAM Arbiter,Sourangsu Banerji,cs.AR,http://arxiv.org/pdf/1405.4232v2
+1407.0147v1,2014-07-01T09:10:26Z,Application Specific Hardware Design Simulation for High Performance   Embedded System,Manoj Kumar Jain,cs.AR,http://arxiv.org/pdf/1407.0147v1
+1407.2082v1,2014-07-08T13:46:42Z,FPGA Based Efficient Multiplier for Image Processing Applications Using   Recursive Error Free Mitchell Log Multiplier and KOM Architecture,L M Patnaik,cs.AR,http://arxiv.org/pdf/1407.2082v1
+1407.5173v1,2014-07-19T11:42:48Z,An ECG-SoC with 535nW/channel lossless data compression for wearable   sensors,C. J. Deepu,cs.AR,http://arxiv.org/pdf/1407.5173v1
+1507.01777v1,2015-07-07T12:24:25Z,FPGA based Novel High Speed DAQ System Design with Error Correction,Subhasish Chattopadhyay,cs.AR,http://arxiv.org/pdf/1507.01777v1
+1507.03303v1,2015-07-13T01:47:16Z,Managing Hybrid Main Memories with a Page-Utility Driven Performance   Model,Onur Mutlu,cs.AR,http://arxiv.org/pdf/1507.03303v1
+0910.3427v4,2009-10-18T21:51:55Z,A Scalable VLSI Architecture for Soft-Input Soft-Output Depth-First   Sphere Decoding,Heinrich Meyr,cs.AR,http://arxiv.org/pdf/0910.3427v4
+0910.3736v1,2009-10-20T04:01:51Z,A Fault-tolerant Structure for Reliable Multi-core Systems Based on   Hardware-Software Co-design,Hui Wang,cs.AR,http://arxiv.org/pdf/0910.3736v1
+1006.1179v1,2010-06-07T06:32:39Z,Low Power Shift and Add Multiplier Design,Aswathy Ramesan,cs.AR,http://arxiv.org/pdf/1006.1179v1
+1104.0298v1,2011-04-02T07:14:38Z,High Speed Multiple Valued Logic Full Adder Using Carbon Nano Tube Field   Effect Transistor,Iman Mahmoudi,cs.AR,http://arxiv.org/pdf/1104.0298v1
+1104.3310v1,2011-04-17T12:15:42Z,Computer Arithmetic Preserving Hamming Distance of Operands in Operation   Result,Dan Tamir,cs.AR,http://arxiv.org/pdf/1104.3310v1
+1112.0727v1,2011-12-04T06:48:53Z,Quantum Cost Efficient Reversible BCD Adder for Nanotechnology Based   Systems,Zerina Begum,cs.AR,http://arxiv.org/pdf/1112.0727v1
+1211.5248v1,2012-11-22T10:46:25Z,Design Of A Reconfigurable DSP Processor With Bit Efficient Residue   Number System,Amitabha Sinha,cs.AR,http://arxiv.org/pdf/1211.5248v1
+1301.0051v1,2013-01-01T03:19:24Z,MIMS: Towards a Message Interface based Memory System,Yungang Bao,cs.AR,http://arxiv.org/pdf/1301.0051v1
+1301.1465v2,2013-01-08T09:59:28Z,A joint communication and application simulator for NoC-based SoCs,Guido Masera,cs.AR,http://arxiv.org/pdf/1301.1465v2
+1301.3281v1,2013-01-15T09:51:33Z,Reconfiguration Strategies for Online Hardware Multitasking in Embedded   Systems,Sara Roman,cs.AR,http://arxiv.org/pdf/1301.3281v1
+1305.3038v1,2013-05-14T06:56:10Z,Phase-Priority based Directory Coherence for Multicore Processor,Hong An,cs.AR,http://arxiv.org/pdf/1305.3038v1
+1306.0089v1,2013-06-01T09:04:40Z,A Novel Reconfigurable Architecture of a DSP Processor for Efficient   Mapping of DSP Functions using Field Programmable DSP Arrays,Suranjan Chakraborty,cs.AR,http://arxiv.org/pdf/1306.0089v1
+1306.1889v1,2013-06-08T07:21:22Z,An Improved Structure Of Reversible Adder And Subtractor,Nitin Maheshwari,cs.AR,http://arxiv.org/pdf/1306.1889v1
+1306.3109v2,2013-06-13T14:02:13Z,Computer Architecture with Associative Processor Replacing Last Level   Cache and SIMD Accelerator,Ran Ginosar,cs.AR,http://arxiv.org/pdf/1306.3109v2
+1306.5501v1,2013-06-24T02:50:32Z,A Wrapper of PCI Express with FIFO Interfaces based on FPGA,Hefei Hu,cs.AR,http://arxiv.org/pdf/1306.5501v1
+1308.6021v1,2013-08-28T00:37:56Z,Selective Decoding in Associative Memories Based on Sparse-Clustered   Networks,Warren J. Gross,cs.AR,http://arxiv.org/pdf/1308.6021v1
+1309.2458v1,2013-09-10T11:19:15Z,Low power-area designs of 1bit full adder in cadence virtuoso platform,Karthik Reddy. G,cs.AR,http://arxiv.org/pdf/1309.2458v1
+1309.3685v1,2013-09-14T16:43:05Z,On the Performance Potential of Speculative Execution based on Branch   and Value Prediction,Marjan Gusev,cs.AR,http://arxiv.org/pdf/1309.3685v1
+1309.3785v1,2013-09-15T18:32:21Z,Energy Saving Techniques for Phase Change Memory (PCM),Sparsh Mittal,cs.AR,http://arxiv.org/pdf/1309.3785v1
+1309.5459v1,2013-09-21T10:33:36Z,Advances in computer architecture,Irfan Uddin,cs.AR,http://arxiv.org/pdf/1309.5459v1
+1309.5507v1,2013-09-21T17:50:09Z,Microgrid - The microthreaded many-core architecture,Irfan Uddin,cs.AR,http://arxiv.org/pdf/1309.5507v1
+1309.5551v1,2013-09-22T02:01:28Z,Design space exploration in the microthreaded many-core architecture,Irfan Uddin,cs.AR,http://arxiv.org/pdf/1309.5551v1
+1309.5647v1,2013-09-22T20:44:49Z,A Cache-Coloring Based Technique for Saving Leakage Energy In   Multitasking Systems,Sparsh Mittal,cs.AR,http://arxiv.org/pdf/1309.5647v1
+1309.7082v1,2013-09-26T22:18:43Z,A Cache Reconfiguration Approach for Saving Leakage and Refresh Energy   in Embedded DRAM Caches,Sparsh Mittal,cs.AR,http://arxiv.org/pdf/1309.7082v1
+1309.7163v1,2013-09-27T09:09:37Z,"A Low-Voltage, Low-Power 4-bit BCD Adder, designed using the Clock Gated   Power Gating, and the DVT Scheme",C. K. Sarkar,cs.AR,http://arxiv.org/pdf/1309.7163v1
+1309.7321v1,2013-09-27T18:24:32Z,Recycled Error Bits: Energy-Efficient Architectural Support for Higher   Precision Floating Point,Xiaobai Sun,cs.AR,http://arxiv.org/pdf/1309.7321v1
+1309.7818v1,2013-09-30T12:20:47Z,Partial Sums Generation Architecture for Successive Cancellation   Decoding of Polar Codes,Dominique Dallet,cs.AR,http://arxiv.org/pdf/1309.7818v1
+1312.0885v4,2013-11-29T09:48:57Z,"Row-Based Dual Vdd Assignment, for a Level Converter Free CSA Design and   Its Near-Threshold Operation",C. K. Sarkar,cs.AR,http://arxiv.org/pdf/1312.0885v4
+1312.2207v2,2013-12-08T13:03:15Z,A Cache Energy Optimization Technique for STT-RAM Last Level Cache,Sparsh Mittal,cs.AR,http://arxiv.org/pdf/1312.2207v2
+1312.2976v1,2013-12-10T21:39:01Z,A Survey of Network-On-Chip Tools,Slim Ben Saoud,cs.AR,http://arxiv.org/pdf/1312.2976v1
+1401.0765v1,2014-01-04T02:06:23Z,A Survey of Techniques For Improving Energy Efficiency in Embedded   Computing Systems,Sparsh Mittal,cs.AR,http://arxiv.org/pdf/1401.0765v1
+1401.1003v1,2014-01-06T07:36:13Z,On the likelihood of multiple bit upsets in logic circuits,Madhav P. Desai,cs.AR,http://arxiv.org/pdf/1401.1003v1
+1401.2727v1,2014-01-13T06:57:21Z,Hardware Implementation of four byte per clock RC4 algorithm,Ranjan Ghosh,cs.AR,http://arxiv.org/pdf/1401.2727v1
+1401.2732v1,2014-01-13T07:19:52Z,Fault Detection for RC4 Algorithm and its Implementation on FPGA   Platform,Ranjan Ghosh,cs.AR,http://arxiv.org/pdf/1401.2732v1
+1401.2768v1,2014-01-13T09:52:08Z,Design of novel architectures and field programmable gate arrays   implementation of two dimensional gaussian surround function,M. T. Gopalakrishna,cs.AR,http://arxiv.org/pdf/1401.2768v1
+1401.4629v1,2014-01-19T03:20:40Z,HERMES: A Hierarchical Broadcast-Based Silicon Photonic Interconnect for   Scalable Many-Core Systems,Alan Mickelson,cs.AR,http://arxiv.org/pdf/1401.4629v1
+1401.4891v1,2014-01-20T13:20:58Z,The Design of a Network-On-Chip Architecture Based On An Avionic   Protocol,Slim Ben Saoud,cs.AR,http://arxiv.org/pdf/1401.4891v1
+1401.6370v1,2014-01-24T15:14:52Z,Design of a High Speed XAUI Based on Dynamic Reconfigurable Transceiver   IP Core,Mengmeng Cao,cs.AR,http://arxiv.org/pdf/1401.6370v1
+1402.2415v2,2014-02-11T10:01:15Z,Reversible Squaring Circuit For Low Power Digital Signal Processing,Devraj Gautam,cs.AR,http://arxiv.org/pdf/1402.2415v2
+1402.2420v1,2014-02-11T10:10:39Z,L-Shape based Layout Fracturing for E-Beam Lithography,David Z. Pan,cs.AR,http://arxiv.org/pdf/1402.2420v1
+1402.2425v1,2014-02-11T10:26:20Z,Triple Patterning Lithography (TPL) Layout Decomposition using   End-Cutting,David Z. Pan,cs.AR,http://arxiv.org/pdf/1402.2425v1
+1402.2435v1,2014-02-11T10:37:37Z,E-BLOW: E-Beam Lithography Overlapping aware Stencil Planning for MCC   System,David Z. Pan,cs.AR,http://arxiv.org/pdf/1402.2435v1
+1402.2442v1,2014-02-11T11:02:42Z,Self-Aligned Double Patterning Friendly Configuration for Standard Cell   Library Considering Placement,David Z. Pan,cs.AR,http://arxiv.org/pdf/1402.2442v1
+1402.2459v1,2014-02-11T11:36:51Z,Layout decomposition for triple patterning lithography,David Z. Pan,cs.AR,http://arxiv.org/pdf/1402.2459v1
+1402.2460v1,2014-02-11T11:49:24Z,Network flow-based simultaneous retiming and slack budgeting for low   power design,Satoshi Goto,cs.AR,http://arxiv.org/pdf/1402.2460v1
+1402.2462v1,2014-02-11T11:57:04Z,Floorplanning and Topology Generation for Application-Specific   Network-on-Chip,Satoshi Goto,cs.AR,http://arxiv.org/pdf/1402.2462v1
+1402.2536v1,2014-02-11T15:51:52Z,Design and Implementation of Bit Transition Counter,Balwinder Singh,cs.AR,http://arxiv.org/pdf/1402.2536v1
+1402.2635v1,2014-02-11T20:29:09Z,Methodology for standard cell compliance and detailed placement for   triple patterning lithography,David Z. Pan,cs.AR,http://arxiv.org/pdf/1402.2635v1
+1402.2890v1,2014-02-12T16:43:46Z,A High-Performance Triple Patterning Layout Decomposer with Balanced   Density,David Z. Pan,cs.AR,http://arxiv.org/pdf/1402.2890v1
+1402.2894v1,2014-02-12T16:55:10Z,Multi-Voltage and Level-Shifter Assignment Driven Floorplanning,Statoshi Goto,cs.AR,http://arxiv.org/pdf/1402.2894v1
+1402.2899v1,2014-02-12T17:03:22Z,GLOW: A global router for low-power thermal-reliable interconnect   synthesis using photonic wavelength multiplexing,David Z. Pan,cs.AR,http://arxiv.org/pdf/1402.2899v1
+1402.2904v1,2014-02-12T17:25:05Z,EPIC: Efficient prediction of IC manufacturing hotspots with a unified   meta-classification formulation,David Z. Pan,cs.AR,http://arxiv.org/pdf/1402.2904v1
+1402.2906v1,2014-02-12T17:34:01Z,TRIAD: a triple patterning lithography aware detailed router,Yih-Lang Li,cs.AR,http://arxiv.org/pdf/1402.2906v1
+1402.3149v1,2014-02-13T14:32:26Z,Voltage and Level-Shifter Assignment Driven Floorplanning,Satoshi Goto,cs.AR,http://arxiv.org/pdf/1402.3149v1
+1402.3150v1,2014-02-13T14:32:56Z,Lithography Hotspot Detection and Mitigation in Nanometer VLSI,David Z. Pan,cs.AR,http://arxiv.org/pdf/1402.3150v1
+1402.6005v1,2014-02-24T22:42:02Z,Open Cores for Digital Signal Processing,Alexander López-Parrado,cs.AR,http://arxiv.org/pdf/1402.6005v1
+1403.1928v1,2014-03-08T04:21:39Z,Five Modular Redundancy with Mitigation Technique to Recover the Error   Module,Agfianto Eko Putra,cs.AR,http://arxiv.org/pdf/1403.1928v1
+1403.2686v1,2014-03-11T18:49:18Z,Development of SyReC based expandable reversible logic circuits,Vandana Maheshwari,cs.AR,http://arxiv.org/pdf/1403.2686v1
+1403.2785v1,2014-03-12T01:26:16Z,State Dependent Statistical Timing Model for Voltage Scaled Circuits,Fadi J. Kurdahi,cs.AR,http://arxiv.org/pdf/1403.2785v1
+1403.4554v1,2014-03-18T18:02:25Z,A Flexible Design for Optimization of Hardware Architecture in   Distributed Arithmetic based FIR Filters,Omid Hashemipour,cs.AR,http://arxiv.org/pdf/1403.4554v1
+1403.6632v1,2014-03-26T11:24:19Z,Design space exploration tools for the ByoRISC configurable processor   family,Spiridon Nikolaidis,cs.AR,http://arxiv.org/pdf/1403.6632v1
+1403.7291v1,2014-03-28T07:35:09Z,Instruction-set Selection for Multi-application based ASIP Design: An   Instruction-level Study,Angelo Ambrose,cs.AR,http://arxiv.org/pdf/1403.7291v1
+1403.7299v1,2014-03-28T08:13:20Z,Heterogeneous processor pipeline for a product cipher application,S. Radhakrishnan,cs.AR,http://arxiv.org/pdf/1403.7299v1
+1403.7380v1,2014-03-28T14:06:17Z,Generating and evaluating application-specific hardware extensions,Nikolaos Kavvadias,cs.AR,http://arxiv.org/pdf/1403.7380v1
+1406.1886v1,2014-06-07T11:23:31Z,The Z1: Architecture and Algorithms of Konrad Zuse's First Computer,Raul Rojas,cs.AR,http://arxiv.org/pdf/1406.1886v1
+1406.4628v1,2014-06-18T07:50:50Z,An Efficient Synchronous Static Memory design for Embedded System,Manoj Kumar Jain,cs.AR,http://arxiv.org/pdf/1406.4628v1
+1406.5000v1,2014-06-19T10:40:23Z,Application Specific Cache Simulation Analysis for Application Specific   Instruction set Processor,Manoj Kumar Jain,cs.AR,http://arxiv.org/pdf/1406.5000v1
+1406.7662v1,2014-06-30T10:46:50Z,Selective Match-Line Energizer Content Addressable Memory(SMLE -CAM),Harish M Kittur,cs.AR,http://arxiv.org/pdf/1406.7662v1
+1408.0982v1,2014-08-05T14:19:21Z,Modeling and simulation of multiprocessor systems MPSoC by SystemC/TLM2,Mohamed Sadik,cs.AR,http://arxiv.org/pdf/1408.0982v1
+1408.5401v1,2014-08-21T11:57:16Z,A Many-Core Overlay for High-Performance Embedded Computing on FPGAs,Horácio Neto,cs.AR,http://arxiv.org/pdf/1408.5401v1
+1409.8018v1,2014-09-29T08:06:04Z,An ECG-on-Chip with 535-nW/Channel Integrated Lossless Data Compressor   for Wireless Sensors,Y. Lian,cs.AR,http://arxiv.org/pdf/1409.8018v1
+1409.8020v1,2014-09-29T08:14:15Z,An ECG-on-Chip for Wearable Cardiac Monitoring Devices,Y. Lian,cs.AR,http://arxiv.org/pdf/1409.8020v1
+1410.7560v1,2014-10-28T09:11:21Z,Multi Core SSL/TLS Security Processor Architecture Prototype Design with   automated Preferential Algorithm in FPGA,Ranjan Ghosh,cs.AR,http://arxiv.org/pdf/1410.7560v1
+1411.0863v1,2014-11-04T11:26:58Z,Inner Loop Optimizations in Mapping Single Threaded Programs to Hardware,Madhav Desai,cs.AR,http://arxiv.org/pdf/1411.0863v1
+1411.2088v1,2014-11-08T05:57:42Z,Energy Efficient Full Adder Cell Design With Using Carbon Nanotube Field   Effect Transistors In 32 Nanometer Technology,Ghazaleh Ghorbani,cs.AR,http://arxiv.org/pdf/1411.2088v1
+1411.2212v1,2014-11-09T09:26:43Z,"Designing high-speed, low-power full adder cells based on carbon   nanotube technology",Keivan Navi,cs.AR,http://arxiv.org/pdf/1411.2212v1
+1411.2917v1,2014-11-11T18:52:26Z,Fast Prefix Adders for Non-Uniform Input Arrival Times,Sophie Spirkl,cs.AR,http://arxiv.org/pdf/1411.2917v1
+1411.3492v1,2014-11-13T10:37:18Z,Evaluation of silicon consumption for a connectionless Network-on-Chip,Antônio Augusto Fröhlich,cs.AR,http://arxiv.org/pdf/1411.3492v1
+1411.3929v1,2014-11-14T15:07:54Z,Analog Signal Processing Solution for Image Alignment,Dev Gupta,cs.AR,http://arxiv.org/pdf/1411.3929v1
+1411.6498v1,2014-11-24T16:00:47Z,"Correction to the 2005 paper: ""Digit Selection for SRT Division and   Square Root""",Peter Kornerup,cs.AR,http://arxiv.org/pdf/1411.6498v1
+1412.1140v1,2014-12-03T00:16:43Z,Sphynx: A Shared Instruction Cache Exporatory Study,Josef Spjut,cs.AR,http://arxiv.org/pdf/1412.1140v1
+1412.2950v1,2014-12-09T13:14:29Z,Performance Enhancement of Routers in Networks-on-Chip Using Dynamic   Virtual Channels Allocation,Farshad Safaei,cs.AR,http://arxiv.org/pdf/1412.2950v1
+1412.3224v1,2014-12-10T08:43:27Z,Prophet: A Speculative Multi-threading Execution Model with   Architectural Support Based on CMP,Du Yanning,cs.AR,http://arxiv.org/pdf/1412.3224v1
+1412.3829v5,2014-12-11T21:29:49Z,A High-Throughput Energy-Efficient Implementation of   Successive-Cancellation Decoder for Polar Codes Using Combinational Logic,Erdal Arıkan,cs.AR,http://arxiv.org/pdf/1412.3829v5
+1412.6043v1,2014-12-18T20:07:22Z,A 237 Gbps Unrolled Hardware Polar Decoder,Warren J. Gross,cs.AR,http://arxiv.org/pdf/1412.6043v1
+1412.7692v1,2014-12-24T15:35:44Z,A Feasibility Study on Programmer Specific Instruction Set Processors   (PSISPs),R. G. Ragel,cs.AR,http://arxiv.org/pdf/1412.7692v1
+1501.00579v1,2015-01-03T16:55:01Z,"A Model Study of an All-Digital, Discrete-Time and Embedded Linear   Regulator",Arijit Raychowdhury,cs.AR,http://arxiv.org/pdf/1501.00579v1
+1501.04192v1,2015-01-17T11:52:53Z,Design of a Transport Triggered Architecture Processor for Flexible   Iterative Turbo Decoder,Markku Juntti,cs.AR,http://arxiv.org/pdf/1501.04192v1
+1501.07420v1,2015-01-29T11:44:47Z,Tejas Simulator : Validation against Hardware,Seep Goel,cs.AR,http://arxiv.org/pdf/1501.07420v1
+1502.01237v1,2015-02-04T15:43:55Z,Running Identical Threads in C-Slow Retiming based Designs for   Functional Failure Detection,Tobias Strauch,cs.AR,http://arxiv.org/pdf/1502.01237v1
+1502.02239v1,2015-02-08T11:07:50Z,A High-Performance Solid-State Disk with Double-Data-Rate NAND Flash   Memory,Sungroh Yoon,cs.AR,http://arxiv.org/pdf/1502.02239v1
+1502.07055v1,2015-02-25T05:45:08Z,A Novel Architecture of Area Efficient FFT Algorithm for FPGA   Implementation,Debesh Choudhury,cs.AR,http://arxiv.org/pdf/1502.07055v1
+1502.07454v1,2015-02-26T06:21:58Z,Generation and Validation of Custom Multiplication IP Blocks from the   Web,Minas Dasygenis,cs.AR,http://arxiv.org/pdf/1502.07454v1
+1503.02354v1,2015-03-09T01:36:50Z,A General Scheme for Noise-Tolerant Logic Design Based on Probabilistic   and DCVS Approaches,Huazhong Yang,cs.AR,http://arxiv.org/pdf/1503.02354v1
+1503.03166v1,2015-03-08T18:23:32Z,Design of High Performance MIPS Cryptography Processor Based on T-DES   Algorithm,Shivani Parmar,cs.AR,http://arxiv.org/pdf/1503.03166v1
+1503.03169v1,2015-03-10T09:38:51Z,"Dynamic Partitioning of Physical Memory Among Virtual Machines,   ASMI:Architectural Support for Memory Isolation",Priya Chandran,cs.AR,http://arxiv.org/pdf/1503.03169v1
+1503.04628v1,2015-03-16T12:45:04Z,Logic BIST: State-of-the-Art and Open Problems,Kim Petersen,cs.AR,http://arxiv.org/pdf/1503.04628v1
+1503.05694v2,2015-03-19T10:21:42Z,Improving GPU Performance Through Resource Sharing,Amey Karkare,cs.AR,http://arxiv.org/pdf/1503.05694v2
+1504.03437v1,2015-04-14T07:12:24Z,Low-latency List Decoding Of Polar Codes With Double Thresholding,Bin Li,cs.AR,http://arxiv.org/pdf/1504.03437v1
+1504.04297v1,2015-04-16T16:36:14Z,MigrantStore: Leveraging Virtual Memory in DRAM-PCM Memory Architecture,T. N. Vijaykumar,cs.AR,http://arxiv.org/pdf/1504.04297v1
+1504.04586v1,2015-04-17T17:27:27Z,A Reconfigurable Vector Instruction Processor for Accelerating a   Convection Parametrization Model on FPGAs,Wim Vanderbauwhede,cs.AR,http://arxiv.org/pdf/1504.04586v1
+1505.01459v2,2015-05-06T19:00:56Z,Multi-mode Unrolled Architectures for Polar Decoders,Warren J. Gross,cs.AR,http://arxiv.org/pdf/1505.01459v2
+1505.03476v1,2015-05-13T17:54:15Z,Twin-Load: Building a Scalable Memory System over the Non-Scalable   Interface,Mingyu Chen,cs.AR,http://arxiv.org/pdf/1505.03476v1
+1505.03899v1,2015-05-14T21:57:26Z,An Approach to Data Prefetching Using 2-Dimensional Selection Criteria,Josef Spjut,cs.AR,http://arxiv.org/pdf/1505.03899v1
+1505.04339v1,2015-05-16T23:32:40Z,A 2.48Gb/s QC-LDPC Decoder Implementation on the NI USRP-2953R,Predrag Spasojevic,cs.AR,http://arxiv.org/pdf/1505.04339v1
+1505.04569v1,2015-05-18T09:32:11Z,High speed fault tolerant secure communication for muon chamber using   fpga based gbt emulator,Subhasis Chattopadhyay,cs.AR,http://arxiv.org/pdf/1505.04569v1
+1505.07502v1,2015-05-27T22:07:28Z,SQUASH: Simple QoS-Aware High-Performance Memory Scheduler for   Heterogeneous Systems with Hardware Accelerators,Onur Mutlu,cs.AR,http://arxiv.org/pdf/1505.07502v1
+1506.03160v1,2015-06-10T04:14:29Z,Simultaneous Multi Layer Access: A High Bandwidth and Low Cost   3D-Stacked Memory Interface,Onur Mutlu,cs.AR,http://arxiv.org/pdf/1506.03160v1
+1506.03181v2,2015-06-10T06:14:33Z,DEW: A Fast Level 1 Cache Simulation Approach for Embedded Processors   with FIFO Replacement Policy,Sri Parameswaran,cs.AR,http://arxiv.org/pdf/1506.03181v2
+1506.03182v2,2015-06-10T06:26:02Z,TRISHUL: A Single-pass Optimal Two-level Inclusive Data Cache Hierarchy   Selection Process for Real-time MPSoCs,Shaobo Luo,cs.AR,http://arxiv.org/pdf/1506.03182v2
+1506.03186v2,2015-06-10T06:57:55Z,CIPARSim: Cache Intersection Property Assisted Rapid Single-pass FIFO   Cache Simulation Technique,Sri Parameswaran,cs.AR,http://arxiv.org/pdf/1506.03186v2
+1506.03193v2,2015-06-10T07:14:45Z,Accelerating Non-volatile/Hybrid Processor Cache Design Space   Exploration for Application Specific Embedded Systems,Qingsong Wei,cs.AR,http://arxiv.org/pdf/1506.03193v2
+1508.06811v1,2015-08-27T11:37:36Z,Model-based Hardware Design for FPGAs using Folding Transformations   based on Subcircuits,Peter Zipf,cs.AR,http://arxiv.org/pdf/1508.06811v1
+1508.06832v1,2015-08-27T12:44:22Z,Designing Hardware/Software Systems for Embedded High-Performance   Computing,Horácio C. Neto,cs.AR,http://arxiv.org/pdf/1508.06832v1
+1508.07139v1,2015-08-28T09:19:57Z,Using System Hyper Pipelining (SHP) to Improve the Performance of a   Coarse-Grained Reconfigurable Architecture (CGRA) Mapped on an FPGA,Tobias Strauch,cs.AR,http://arxiv.org/pdf/1508.07139v1
+1509.03575v1,2015-09-11T16:20:07Z,FPGA Implementation of High Speed Baugh-Wooley Multiplier using   Decomposition Logic,Navdeep Prashar,cs.AR,http://arxiv.org/pdf/1509.03575v1
+1509.03721v1,2015-09-12T08:02:39Z,DReAM: Dynamic Re-arrangement of Address Mapping to Improve the   Performance of DRAMs,Mikel Luján,cs.AR,http://arxiv.org/pdf/1509.03721v1
+1509.03740v1,2015-09-12T13:03:04Z,HAPPY: Hybrid Address-based Page Policy in DRAMs,Mikel Luján,cs.AR,http://arxiv.org/pdf/1509.03740v1
+1509.04268v1,2015-09-14T03:46:00Z,High Speed VLSI Architecture for 3-D Discrete Wavelet Transform,Indrajit Chakrabarti,cs.AR,http://arxiv.org/pdf/1509.04268v1
+1509.04618v1,2015-09-11T16:38:57Z,Cost Efficient Design of Reversible Adder Circuits for Low Power   Applications,Amit Kumar,cs.AR,http://arxiv.org/pdf/1509.04618v1
+1509.06891v1,2015-09-23T09:02:49Z,A Novel Method for Soft Error Mitigation in FPGA using Adaptive Cross   Parity Code,Subhasis Chattopadhyay,cs.AR,http://arxiv.org/pdf/1509.06891v1
+1509.08111v3,2015-09-27T17:32:42Z,Automatic latency balancing in VHDL-implemented complex pipelined   systems,Wojciech M. Zabolotny,cs.AR,http://arxiv.org/pdf/1509.08111v3
+1509.09249v1,2015-09-30T16:36:32Z,In-Field Logic Repair of Deep Sub-Micron CMOS Processors,Mark Zwolinski,cs.AR,http://arxiv.org/pdf/1509.09249v1
+1510.02574v1,2015-10-09T06:11:34Z,A High Throughput List Decoder Architecture for Polar Codes,Zhiyuan Yan,cs.AR,http://arxiv.org/pdf/1510.02574v1
+1510.04241v1,2015-10-14T19:09:21Z,A Clock Synchronizer for Repeaterless Low Swing On-Chip Links,Dinesh K. Sharma,cs.AR,http://arxiv.org/pdf/1510.04241v1
+1510.06791v1,2015-10-23T00:14:10Z,Network-on-Chip with load balancing based on interleave of flits   technique,Marcelo Daniel Berejuck,cs.AR,http://arxiv.org/pdf/1510.06791v1
+1511.01946v1,2015-11-05T23:00:13Z,SecureD: A Secure Dual Core Embedded Processor,Sri Parameswaran,cs.AR,http://arxiv.org/pdf/1511.01946v1
+1511.06726v1,2015-11-20T19:10:00Z,Testable Design of Repeaterless Low Swing On-Chip Interconnect,Dinesh K. Sharma,cs.AR,http://arxiv.org/pdf/1511.06726v1
+1511.08774v3,2015-11-27T19:44:36Z,Tardis 2.0: Optimized Time Traveling Coherence for Relaxed Consistency   Models,Srinivas Devadas,cs.AR,http://arxiv.org/pdf/1511.08774v3
+1511.09074v1,2015-11-29T19:42:09Z,Digital LDO with Time-Interleaved Comparators for Fast Response and Low   Ripple,Mrigank Sharad,cs.AR,http://arxiv.org/pdf/1511.09074v1
+1601.01463v1,2016-01-07T10:12:25Z,Design of a Low-Power 1.65 Gbps Data Channel for HDMI Transmitter,R. S. Gamad,cs.AR,http://arxiv.org/pdf/1601.01463v1
+1601.06352v1,2016-01-24T07:25:02Z,Reducing Performance Impact of DRAM Refresh by Parallelizing Refreshes   with Accesses,Onur Mutlu,cs.AR,http://arxiv.org/pdf/1601.06352v1
+1601.06903v1,2016-01-26T06:36:03Z,Tiered-Latency DRAM (TL-DRAM),Onur Mutlu,cs.AR,http://arxiv.org/pdf/1601.06903v1
+1602.00722v1,2016-02-01T21:43:40Z,Enabling Efficient Dynamic Resizing of Large DRAM Caches via A Hardware   Consistent Hashing Mechanism,Onur Mutlu,cs.AR,http://arxiv.org/pdf/1602.00722v1
+1602.01329v1,2016-02-03T15:02:05Z,Effect of Data Sharing on Private Cache Design in Chip Multiprocessors,Ran Ginosar,cs.AR,http://arxiv.org/pdf/1602.01329v1
+1602.01348v1,2016-02-03T15:57:59Z,A Framework for Accelerating Bottlenecks in GPU Execution with Assist   Warps,Onur Mutlu,cs.AR,http://arxiv.org/pdf/1602.01348v1
+1602.03095v1,2016-02-09T17:59:24Z,OpenRISC System-on-Chip Design Emulation,Fei Xie,cs.AR,http://arxiv.org/pdf/1602.03095v1
+1602.04414v1,2016-02-14T04:42:19Z,Temperature-aware Dynamic Optimization of Embedded Systems,Ann Gordon-Ross,cs.AR,http://arxiv.org/pdf/1602.04414v1
+1602.04415v1,2016-02-14T04:42:38Z,Phase distance mapping: a phase-based cache tuning methodology for   embedded systems,Arslan Munir,cs.AR,http://arxiv.org/pdf/1602.04415v1
+1603.01187v1,2016-03-03T17:17:56Z,A Dynamic Overlay Supporting Just-In-Time Assembly to Construct   Customized Hardware Accelerators,David Andrews,cs.AR,http://arxiv.org/pdf/1603.01187v1
+1603.04094v1,2016-03-10T06:32:36Z,Design and Implementation of an Improved Carry Increment Adder,Romesh Laishram,cs.AR,http://arxiv.org/pdf/1603.04094v1
+1603.04627v1,2016-03-15T10:44:29Z,Modified Micropipline Architecture for Synthesizable Asynchronous FIR   Filter Design,Hsien-Chih Chiu,cs.AR,http://arxiv.org/pdf/1603.04627v1
+1603.07961v1,2016-03-25T17:02:58Z,ASIC-based Implementation of Synchronous Section-Carry Based Carry   Lookahead Adders,N E Mastorakis,cs.AR,http://arxiv.org/pdf/1603.07961v1
+1603.07962v1,2016-03-25T17:11:33Z,Global versus Local Weak-Indication Self-Timed Function Blocks - A   Comparative Analysis,N E Mastorakis,cs.AR,http://arxiv.org/pdf/1603.07962v1
+1603.07964v1,2016-03-25T17:14:55Z,"Power, Delay and Area Comparisons of Majority Voters relevant to TMR   Architectures",N E Mastorakis,cs.AR,http://arxiv.org/pdf/1603.07964v1
+1603.08454v1,2016-03-28T17:39:23Z,Adaptive-Latency DRAM (AL-DRAM),Onur Mutlu,cs.AR,http://arxiv.org/pdf/1603.08454v1
+1604.03062v2,2016-04-11T18:44:27Z,CLEAR: Cross-Layer Exploration for Architecting Resilience - Combining   Hardware and Software Techniques to Tolerate Soft Errors in Processor Cores,Subhasish Mitra,cs.AR,http://arxiv.org/pdf/1604.03062v2
+1604.04006v1,2016-04-14T01:01:41Z,Area/latency optimized early output asynchronous full adders and   relative-timed ripple carry adders,S Yamashita,cs.AR,http://arxiv.org/pdf/1604.04006v1
+1604.08041v1,2016-04-27T12:35:05Z,Reducing DRAM Latency at Low Cost by Exploiting Heterogeneity,Donghyuk Lee,cs.AR,http://arxiv.org/pdf/1604.08041v1
+1605.03229v1,2016-05-10T22:18:06Z,CORDIC-based Architecture for Powering Computation in Fixed-Point   Arithmetic,Daniel Llamocca,cs.AR,http://arxiv.org/pdf/1605.03229v1
+1605.03770v1,2016-05-12T11:50:33Z,An Asynchronous Early Output Full Adder and a Relative-Timed Ripple   Carry Adder,N E Mastorakis,cs.AR,http://arxiv.org/pdf/1605.03770v1
+1605.03771v1,2016-05-12T11:54:44Z,A Fault Tolerance Improved Majority Voter for TMR System Architectures,N E Mastorakis,cs.AR,http://arxiv.org/pdf/1605.03771v1
+1605.04582v2,2016-05-15T17:52:28Z,A Foray into Efficient Mapping of Algorithms to Hardware Platforms on   Heterogeneous Systems,Martin Margala,cs.AR,http://arxiv.org/pdf/1605.04582v2
+1605.06483v1,2016-05-20T19:38:14Z,Simple DRAM and Virtual Memory Abstractions to Enable Highly Efficient   Memory Systems,Vivek Seshadri,cs.AR,http://arxiv.org/pdf/1605.06483v1
+1605.08149v1,2016-05-26T05:46:03Z,Proceedings of the 2nd International Workshop on Overlay Architectures   for FPGAs (OLAF 2016),John Wawrzynek,cs.AR,http://arxiv.org/pdf/1605.08149v1
+1606.01037v1,2016-06-03T10:37:41Z,GRVI Phalanx: A Massively Parallel RISC-V FPGA Accelerator Accelerator,Jan Gray,cs.AR,http://arxiv.org/pdf/1606.01037v1
+1606.03717v1,2016-06-12T14:26:01Z,Automated Space/Time Scaling of Streaming Task Graph,Guy G. F. Lemieux,cs.AR,http://arxiv.org/pdf/1606.03717v1
+1606.04609v1,2016-06-15T01:26:24Z,High Throughput Neural Network based Embedded Streaming Multicore   Processors,David J. Mountain,cs.AR,http://arxiv.org/pdf/1606.04609v1
+1606.05094v1,2016-06-16T08:40:57Z,A 0.3-2.6 TOPS/W Precision-Scalable Processor for Real-Time Large-Scale   ConvNets,Marian Verhelst,cs.AR,http://arxiv.org/pdf/1606.05094v1
+1606.05621v1,2016-06-17T18:54:48Z,Design of Synchronous Section-Carry Based Carry Lookahead Adders with   Improved Figure of Merit,N E Mastorakis,cs.AR,http://arxiv.org/pdf/1606.05621v1
+1606.05933v1,2016-06-20T00:57:30Z,Criticality Aware Multiprocessors,Anil Krishna,cs.AR,http://arxiv.org/pdf/1606.05933v1
+1606.06451v1,2016-06-21T07:22:12Z,High Level Synthesis with a Dataflow Architectural Template,John Wawrzynek,cs.AR,http://arxiv.org/pdf/1606.06451v1
+1606.06452v1,2016-06-21T07:25:05Z,Reliability-Aware Overlay Architectures for FPGAs: Features and Design   Challenges,Mihalis Psarakis,cs.AR,http://arxiv.org/pdf/1606.06452v1
+1606.06454v1,2016-06-21T07:33:43Z,Soft GPGPUs for Embedded FPGAs: An Architectural Evaluation,Russell Tessier,cs.AR,http://arxiv.org/pdf/1606.06454v1
+1606.06457v1,2016-06-21T07:43:55Z,Enabling Effective FPGA Debug using Overlays: Opportunities and   Challenges,Steven J. E. Wilton,cs.AR,http://arxiv.org/pdf/1606.06457v1
+1606.06460v1,2016-06-21T07:52:00Z,An Area-Efficient FPGA Overlay using DSP Block based Time-multiplexed   Functional Units,Suhaib A. Fahmy,cs.AR,http://arxiv.org/pdf/1606.06460v1
+1606.06483v1,2016-06-21T09:00:33Z,A Soft Processor Overlay with Tightly-coupled FPGA Accelerator,Hayden Kwok-Hay So,cs.AR,http://arxiv.org/pdf/1606.06483v1
+1606.07852v1,2016-06-24T23:20:50Z,"FPMax: a 106GFLOPS/W at 217GFLOPS/mm2 Single-Precision FPU, and a   43.7GFLOPS/W at 74.6GFLOPS/mm2 Double-Precision FPU, in 28nm UTBB FDSOI",Mark Horowitz,cs.AR,http://arxiv.org/pdf/1606.07852v1
+1606.08686v1,2016-06-28T13:19:10Z,A Benes Based NoC Switching Architecture for Mixed Criticality Embedded   Systems,Kerstin Eder,cs.AR,http://arxiv.org/pdf/1606.08686v1
+1607.00064v1,2016-06-30T22:10:13Z,Maximizing CNN Accelerator Efficiency Through Resource Partitioning,Peter Milder,cs.AR,http://arxiv.org/pdf/1607.00064v1
+1607.02318v1,2016-07-08T11:15:31Z,The Renewed Case for the Reduced Instruction Set Computer: Avoiding ISA   Bloat with Macro-Op Fusion for RISC-V,Krste Asanović,cs.AR,http://arxiv.org/pdf/1607.02318v1
+1607.03238v5,2016-07-12T06:45:08Z,Scratchpad Sharing in GPUs,Amey Karkare,cs.AR,http://arxiv.org/pdf/1607.03238v5
+1607.07766v2,2016-07-26T15:53:54Z,Uber: Utilizing Buffers to Simplify NoCs for Hundreds-Cores,Giorgos Passas,cs.AR,http://arxiv.org/pdf/1607.07766v2
+1608.01225v1,2016-08-03T15:40:01Z,Early Output Hybrid Input Encoded Asynchronous Full Adder and   Relative-Timed Ripple Carry Adder,K Prasad,cs.AR,http://arxiv.org/pdf/1608.01225v1
+1608.07547v2,2016-08-26T18:13:57Z,"TriCheck: Memory Model Verification at the Trisection of Software,   Hardware, and ISA",Margaret Martonosi,cs.AR,http://arxiv.org/pdf/1608.07547v2
+1608.08376v1,2016-08-30T09:14:14Z,A near-threshold RISC-V core with DSP extensions for scalable IoT   Endpoint Devices,Luca Benini,cs.AR,http://arxiv.org/pdf/1608.08376v1
+1609.00306v1,2016-09-01T16:32:54Z,On-Chip Mechanisms to Reduce Effective Memory Access Latency,Milad Hashemi,cs.AR,http://arxiv.org/pdf/1609.00306v1
+1609.01585v1,2016-09-06T14:54:26Z,A Hardware-Efficient Approach to Computing the Rotation Matrix from a   Quaternion,Galina Cariowa,cs.AR,http://arxiv.org/pdf/1609.01585v1
+1609.03897v1,2016-09-13T15:33:06Z,Design of a Ternary Edge-Triggered D Flip-Flap-Flop for Multiple-Valued   Sequential Logic,Niloofar Farahani,cs.AR,http://arxiv.org/pdf/1609.03897v1
+1609.04913v1,2016-09-16T06:13:37Z,Design of an Optoelectronic State Machine with integrated BDD based   Optical logic,Macauley Coggins,cs.AR,http://arxiv.org/pdf/1609.04913v1
+1609.07234v1,2016-09-23T05:31:18Z,Reducing DRAM Access Latency by Exploiting DRAM Leakage Characteristics   and Common Access Patterns,Hasan Hassan,cs.AR,http://arxiv.org/pdf/1609.07234v1
+1610.00751v1,2016-10-03T20:59:17Z,An overview about Networks-on-Chip with multicast suppor,Marcelo Daniel Berejuck,cs.AR,http://arxiv.org/pdf/1610.00751v1
+1610.01832v1,2016-10-06T12:05:14Z,Epiphany-V: A 1024 processor 64-bit RISC System-On-Chip,Andreas Olofsson,cs.AR,http://arxiv.org/pdf/1610.01832v1
+1610.02094v1,2016-10-06T23:21:05Z,Validating Simplified Processor Models in Architectural Studies,Arvind,cs.AR,http://arxiv.org/pdf/1610.02094v1
+1610.07501v1,2016-10-24T17:24:56Z,A 481pJ/decision 3.4M decision/s Multifunctional Deep In-memory   Inference Processor using Standard 6T SRAM Array,Naresh Shanbhag,cs.AR,http://arxiv.org/pdf/1610.07501v1
+1610.08705v2,2016-10-27T11:02:38Z,Accelerating BLAS and LAPACK via Efficient Floating Point Architecture   Design,Ranjani Narayan,cs.AR,http://arxiv.org/pdf/1610.08705v2
+1610.09603v1,2016-10-30T05:01:54Z,"The Processing Using Memory Paradigm:In-DRAM Bulk Copy, Initialization,   Bitwise AND and OR",Onur Mutlu,cs.AR,http://arxiv.org/pdf/1610.09603v1
+1610.09604v1,2016-10-30T05:21:07Z,Reducing DRAM Latency by Exploiting Design-Induced Latency Variation in   Modern DRAM Chips,Onur Mutlu,cs.AR,http://arxiv.org/pdf/1610.09604v1
+1610.09761v1,2016-10-31T02:29:23Z,ARAPrototyper: Enabling Rapid Prototyping and Evaluation for   Accelerator-Rich Architectures,Peipei Zhou,cs.AR,http://arxiv.org/pdf/1610.09761v1
+1611.02450v1,2016-11-08T09:43:03Z,PipeCNN: An OpenCL-Based FPGA Accelerator for Large-Scale Convolution   Neuron Networks,Ke Xu,cs.AR,http://arxiv.org/pdf/1611.02450v1
+1611.02792v1,2016-11-09T01:25:59Z,Non-volatile Hierarchical Temporal Memory: Hardware for Spatial Pooling,Kevin Gomez,cs.AR,http://arxiv.org/pdf/1611.02792v1
+1611.02915v1,2015-10-17T04:27:53Z,Power Gating Structure for Reversible Programmable Logic Array,Pradeep Singla,cs.AR,http://arxiv.org/pdf/1611.02915v1
+1611.05415v1,2016-11-16T19:39:08Z,Multipliers: comparison of Fourier transformation based method and   Synopsys design technique for up to 32 bits inputs in regular and saturation   arithmetics,Danila Gorodecky,cs.AR,http://arxiv.org/pdf/1611.05415v1
+1611.09446v1,2016-11-29T00:48:14Z,FPGA Based Implementation of Distributed Minority and Majority Voting   Based Redundancy for Mission and Safety-Critical Applications,N E Mastorakis,cs.AR,http://arxiv.org/pdf/1611.09446v1
+1611.09452v1,2016-11-29T01:28:58Z,An Efficient Partial Sums Generator for Constituent Code based   Successive Cancellation Decoding of Polar Codes,Gwan Choi,cs.AR,http://arxiv.org/pdf/1611.09452v1
+1611.09988v1,2016-11-30T03:34:57Z,Buddy-RAM: Improving the Performance and Efficiency of Bulk Bitwise   Operations Using DRAM,Todd C. Mowry,cs.AR,http://arxiv.org/pdf/1611.09988v1
+1611.10316v1,2016-11-30T19:09:07Z,Memory Controller Design Under Cloud Workloads,Andreas Moshovos,cs.AR,http://arxiv.org/pdf/1611.10316v1
+1612.04277v1,2016-12-12T01:43:11Z,Copycat: A High Precision Real Time NAND Simulator,Sang Lyul Min,cs.AR,http://arxiv.org/pdf/1612.04277v1
+1612.04855v1,2016-12-14T21:52:33Z,A 700uW 1GS/s 4-bit Folding-Flash ADC in 65nm CMOS for Wideband Wireless   Communications,Davood Shahrjerdi,cs.AR,http://arxiv.org/pdf/1612.04855v1
+1612.04986v1,2016-12-15T08:51:02Z,HADES: Microprocessor Hazard Analysis via Formal Verification of   Parameterized Systems,Tomáš Vojnar,cs.AR,http://arxiv.org/pdf/1612.04986v1
+1612.05166v1,2016-12-15T17:55:06Z,A Novel RTL ATPG Model Based on Gate Inherent Faults (GIF-PO) of Complex   Gates,Tobias Strauch,cs.AR,http://arxiv.org/pdf/1612.05166v1
+1612.05547v1,2016-12-16T16:42:28Z,"Prototyping RISC Based, Reconfigurable Networking Applications in Open   Source",Andrew W. Moore,cs.AR,http://arxiv.org/pdf/1612.05547v1
+1612.05974v1,2016-12-18T19:20:42Z,An IoT Endpoint System-on-Chip for Secure and Energy-Efficient   Near-Sensor Analytics,Luca Benini,cs.AR,http://arxiv.org/pdf/1612.05974v1
+1612.08239v1,2016-12-25T06:20:51Z,Higher likelihood of multiple bit-flips due to neutron-induced strikes   on logic gates,Madhav P. Desai,cs.AR,http://arxiv.org/pdf/1612.08239v1
+1701.01630v1,2017-01-06T13:32:36Z,Reducing Competitive Cache Misses in Modern Processor Architectures,Pece Mitrevski,cs.AR,http://arxiv.org/pdf/1701.01630v1
+1701.03499v2,2017-01-12T20:31:53Z,VESPA: VIPT Enhancements for Superpage Accesses,Tushar Krishna,cs.AR,http://arxiv.org/pdf/1701.03499v2
+1701.03878v1,2017-01-14T04:03:50Z,HoLiSwap: Reducing Wire Energy in L1 Caches,William J. Dally,cs.AR,http://arxiv.org/pdf/1701.03878v1
+1701.06382v1,2017-01-23T13:40:16Z,Design of an Audio Interface for Patmos,Fabian Goerge,cs.AR,http://arxiv.org/pdf/1701.06382v1
+1701.06741v3,2017-01-24T06:06:25Z,Variability-Aware Design for Energy Efficient Computational Artificial   Intelligence Platform,Rhonda P. Zhang,cs.AR,http://arxiv.org/pdf/1701.06741v3
+1701.07517v2,2017-01-25T23:27:30Z,Hardware Translation Coherence for Virtualized Systems,Abhishek Bhattacharjee,cs.AR,http://arxiv.org/pdf/1701.07517v2
+1701.08849v1,2017-01-30T22:09:23Z,Accurate Measurement of Power Consumption Overhead During FPGA Dynamic   Partial Reconfiguration,Yves Louet,cs.AR,http://arxiv.org/pdf/1701.08849v1
+1701.08877v2,2017-01-31T00:14:32Z,1.5 bit-per-stage 8-bit Pipelined CMOS A/D Converter for Neuromophic   Vision Processor,Li Du,cs.AR,http://arxiv.org/pdf/1701.08877v2
+1702.00483v2,2017-01-18T01:08:14Z,FPGA-based real-time 105-channel data acquisition platform for imaging   system,Jason Y. Du,cs.AR,http://arxiv.org/pdf/1702.00483v2
+1702.00938v1,2017-02-03T08:48:52Z,A Multi-Gbps Unrolled Hardware List Decoder for a Systematic Polar Code,Warren J. Gross,cs.AR,http://arxiv.org/pdf/1702.00938v1
+1702.01067v1,2017-02-03T16:06:21Z,Sense Amplifier Comparator with Offset Correction for Decision Feedback   Equalization based Receivers,Dinesh Sharma,cs.AR,http://arxiv.org/pdf/1702.01067v1
+1702.01295v1,2017-02-04T14:37:38Z,Embedded Systems Architecture for SLAM Applications,Jean-Luc Gaudiot,cs.AR,http://arxiv.org/pdf/1702.01295v1
+1702.02313v1,2017-02-08T07:45:46Z,FASHION: Fault-Aware Self-Healing Intelligent On-chip Network,Nanning Zheng,cs.AR,http://arxiv.org/pdf/1702.02313v1
+cs/9809007v1,1998-09-02T17:30:05Z,Locally Served Network Computers,Jim Gray,cs.AR,http://arxiv.org/pdf/cs/9809007v1
+cs/9809021v1,1998-09-16T14:22:35Z,Producing NLP-based On-line Contentware,Olivier Gremont,cs.CL,http://arxiv.org/pdf/cs/9809021v1
+cs/9811021v1,1998-11-12T09:49:57Z,Automatic Hardware Synthesis for a Hybrid Reconfigurable CPU Featuring   Philips CPLDs,Bernardo Kastrup,cs.PL,http://arxiv.org/pdf/cs/9811021v1
+cs/9910014v2,1999-10-14T22:41:39Z,Processor Verification Using Efficient Reductions of the Logic of   Uninterpreted Functions to Propositional Logic,Miroslav N. Velev,cs.LO,http://arxiv.org/pdf/cs/9910014v2
+cs/9912010v1,1999-12-18T02:19:42Z,"Scalability Terminology: Farms, Clones, Partitions, Packs, RACS and RAPS",George Spix,cs.AR,http://arxiv.org/pdf/cs/9912010v1
+cs/0009020v1,2000-09-22T10:39:30Z,Cluster Computing: A High-Performance Contender,Dan Hyde,cs.DC,http://arxiv.org/pdf/cs/0009020v1
+cs/0010007v1,2000-10-02T17:09:06Z,Towards a Theory of Cache-Efficient Algorithms,Neeraj Dumir,cs.AR,http://arxiv.org/pdf/cs/0010007v1
+cs/0103025v1,2001-03-29T14:30:18Z,The Anatomy of the Grid - Enabling Scalable Virtual Organizations,Steven Tuecke,cs.AR,http://arxiv.org/pdf/cs/0103025v1
+cs/0108016v1,2001-08-25T00:58:27Z,Verifying Sequential Consistency on Shared-Memory Multiprocessors by   Model Checking,Shaz Qadeer,cs.DC,http://arxiv.org/pdf/cs/0108016v1
+cs/0110065v1,2001-10-31T18:07:17Z,Interfacing the ControlLogix PLC over Ethernet/IP,L. R. Dalesio,cs.NI,http://arxiv.org/pdf/cs/0110065v1
+cs/0307035v1,2003-07-13T13:01:19Z,Adaptive Domain Model: Dealing With Multiple Attributes of Self-Managing   Distributed Object Systems,Pavel Motuzenko,cs.AR,http://arxiv.org/pdf/cs/0307035v1
+cs/0307041v1,2003-07-17T12:10:21Z,High-density and Secure Data Transmission via Linear Combinations,Vince Grolmusz,cs.CC,http://arxiv.org/pdf/cs/0307041v1
+cs/0310002v2,2003-10-05T06:30:56Z,The Graphics Card as a Streaming Computer,Suresh Venkatasubramanian,cs.GR,http://arxiv.org/pdf/cs/0310002v2
+cs/0310059v1,2003-10-30T18:11:28Z,Design and Implementation of MPICH2 over InfiniBand with RDMA Support,Brian Toonen,cs.AR,http://arxiv.org/pdf/cs/0310059v1
+cs/0311017v1,2003-11-14T22:36:39Z,2 P2P or Not 2 P2P?,Jeff Mogul,cs.NI,http://arxiv.org/pdf/cs/0311017v1
+cs/0402027v1,2004-02-12T20:37:26Z,Efficient and Scalable Barrier over Quadrics and Myrinet with a New   NIC-Based Collective Message Passing Protocol,Dhabaleswar K. Panda,cs.DC,http://arxiv.org/pdf/cs/0402027v1
+cs/0405004v1,2004-05-03T20:25:00Z,Quantum Computers,Archil Avaliani,cs.AI,http://arxiv.org/pdf/cs/0405004v1
+cs/0408020v1,2004-08-06T12:56:29Z,Collaborative Storage Management In Sensor Networks,Wendi Heinzelman,cs.NI,http://arxiv.org/pdf/cs/0408020v1
+cs/0411050v1,2004-11-16T01:49:22Z,Utilizing Reconfigurable Hardware Processors via Grid Services,Ralf Clemens,cs.DC,http://arxiv.org/pdf/cs/0411050v1
+cs/0411075v1,2004-11-20T06:31:32Z,A Self-Reconfigurable Computing Platform Hardware Architecture,Darran Nathan,cs.AR,http://arxiv.org/pdf/cs/0411075v1
+cs/0412093v1,2004-12-20T11:55:30Z,ScotGrid: A Prototype Tier 2 Centre,S. Thorn,cs.AR,http://arxiv.org/pdf/cs/0412093v1
+cs/0412119v1,2004-12-30T19:43:14Z,CDTP Chain Distributed Transfer Protocol,Shmuel Vagner,cs.NI,http://arxiv.org/pdf/cs/0412119v1
+cs/0502061v1,2005-02-14T11:39:04Z,A Geographic Directed Preferential Internet Topology Model,Avishai Wool,cs.NI,http://arxiv.org/pdf/cs/0502061v1
+cs/0502062v1,2005-02-14T13:06:26Z,Tree Parity Machine Rekeying Architectures,Sebastian Wallner,cs.CR,http://arxiv.org/pdf/cs/0502062v1
+cs/0505005v1,2005-05-02T01:10:04Z,Defragmenting the Module Layout of a Partially Reconfigurable Device,Juergen Teich,cs.AR,http://arxiv.org/pdf/cs/0505005v1
+cs/0508065v1,2005-08-13T03:09:25Z,Representing Digital Assets using MPEG-21 Digital Item Declaration,Herbert Van de Sompel,cs.DL,http://arxiv.org/pdf/cs/0508065v1
+cs/0508116v1,2005-08-25T19:04:22Z,Quantum Algorithm Processors to Reveal Hamiltonian Cycles,John Robert Burger,cs.AR,http://arxiv.org/pdf/cs/0508116v1
+cs/0512104v1,2005-12-28T19:59:10Z,Reversible CAM Processor Modeled After Quantum Computer Behavior,John Robert Burger,cs.AR,http://arxiv.org/pdf/cs/0512104v1
+cs/0602078v2,2006-02-21T21:58:06Z,Associative Memory For Reversible Programming and Charge Recovery,John Robert Burger,cs.AR,http://arxiv.org/pdf/cs/0602078v2
+cs/0603115v1,2006-03-29T11:48:29Z,Implementation of float-float operators on graphics hardware,David Defour,cs.AR,http://arxiv.org/pdf/cs/0603115v1
+cs/0611134v1,2006-11-27T19:45:40Z,Hard Disk Drive as a Magnetomechanical Logic Device,Vladimir L. Safonov,cs.OH,http://arxiv.org/pdf/cs/0611134v1
+cs/0701165v1,2007-01-26T00:23:07Z,Petascale Computational Systems,Alex Szalay,cs.DB,http://arxiv.org/pdf/cs/0701165v1
+cs/0701166v1,2007-01-26T00:29:02Z,Empirical Measurements of Disk Failure Rates and Error Rates,Catharine van Ingen,cs.DB,http://arxiv.org/pdf/cs/0701166v1
+cs/0702062v1,2007-02-11T09:52:12Z,Noise Limited Computational Speed,Luca Gammaitoni,cs.AR,http://arxiv.org/pdf/cs/0702062v1
+cs/0703128v2,2007-03-26T01:51:25Z,Physarum machine: Implementation of Kolmogorov-Uspensky machine in   biological substrat,Andrew Adamatzky,cs.AR,http://arxiv.org/pdf/cs/0703128v2
+0704.3573v1,2007-04-26T15:49:47Z,"Simulating spin systems on IANUS, an FPGA-based computer",J. L. Velasco,cond-mat.dis-nn,http://arxiv.org/pdf/0704.3573v1
+0708.1496v1,2007-08-10T18:12:52Z,A Light-Based Device for Solving the Hamiltonian Path Problem,Mihai Oltean,cs.AR,http://arxiv.org/pdf/0708.1496v1
+0708.1512v1,2007-08-10T20:01:24Z,Solving the Hamiltonian path problem with a light-based computer,Mihai Oltean,cs.AR,http://arxiv.org/pdf/0708.1512v1
+0708.1962v1,2007-08-14T21:41:55Z,Exact Cover with light,Oana Muntean,cs.AR,http://arxiv.org/pdf/0708.1962v1
+0710.0244v1,2007-10-01T09:35:30Z,Theoretical Engineering and Satellite Comlink of a PTVD-SHAM System,Philip B. Alipour,cs.CE,http://arxiv.org/pdf/0710.0244v1
+0710.4643v1,2007-10-25T08:14:40Z,Generic Pipelined Processor Modeling and High Performance Cycle-Accurate   Simulator Generation,Nikil Dutt,cs.AR,http://arxiv.org/pdf/0710.4643v1
+0710.4658v1,2007-10-25T08:35:10Z,Compositional Memory Systems for Multimedia Communicating Tasks,J. T. J. Van Eijndhoven,cs.AR,http://arxiv.org/pdf/0710.4658v1
+0710.4667v1,2007-10-25T08:44:47Z,"Integration, Verification and Layout of a Complex Multimedia SOC",Youn-Long Lin,cs.AR,http://arxiv.org/pdf/0710.4667v1
+0712.1167v1,2007-12-07T15:59:37Z,Transactional WaveCache: Towards Speculative and Out-of-Order DataFlow   Execution of Memory Operations,Vítor Santos Costa,cs.AR,http://arxiv.org/pdf/0712.1167v1
+0801.2201v1,2008-01-15T15:44:28Z,Policies of System Level Pipeline Modeling,Ed Harcourt,cs.AR,http://arxiv.org/pdf/0801.2201v1
+0809.4317v5,2008-09-25T03:59:24Z,On the Effect of Quantum Interaction Distance on Quantum Addition   Circuits,Rodney Van Meter,quant-ph,http://arxiv.org/pdf/0809.4317v5
+0810.4196v1,2008-10-23T03:32:47Z,Interval Semantics for Standard Floating-Point Arithmetic,M. H. van Emden,cs.NA,http://arxiv.org/pdf/0810.4196v1
+0901.1123v1,2009-01-08T20:14:00Z,A High Dynamic Range 3-Moduli-Set with Efficient Reverse Converter,Reza Rastegar,cs.AR,http://arxiv.org/pdf/0901.1123v1
+0902.1737v1,2009-02-10T20:33:06Z,Optimal cache-aware suffix selection,S. Muthukrishnan,cs.DS,http://arxiv.org/pdf/0902.1737v1
+0903.0748v2,2009-03-04T12:32:01Z,Circuit Design for A Measurement-Based Quantum Carry-Lookahead Adder,Rodney Van Meter,quant-ph,http://arxiv.org/pdf/0903.0748v2
+0905.0792v1,2009-05-06T10:55:04Z,Introducing a Performance Model for Bandwidth-Limited Loop Kernels,Georg Hager,cs.PF,http://arxiv.org/pdf/0905.0792v1
+0907.0749v1,2009-07-04T09:24:26Z,"Function Interface Models for Hardware Compilation: Types, Signatures,   Protocols",Dan R. Ghica,cs.PL,http://arxiv.org/pdf/0907.0749v1
+0908.0221v1,2009-08-03T10:30:55Z,FPGA-based Controller for a Mobile Robot,S. S. Shriramwar,cs.RO,http://arxiv.org/pdf/0908.0221v1
+0909.1781v1,2009-09-09T18:10:30Z,Boosting XML Filtering with a Scalable FPGA-based Architecture,Vassilis Tsotras,cs.AR,http://arxiv.org/pdf/0909.1781v1
+0911.2174v3,2009-11-11T16:47:22Z,QPACE -- a QCD parallel computer based on Cell processors,F. Winter,hep-lat,http://arxiv.org/pdf/0911.2174v3
+1001.4493v1,2010-01-25T17:36:32Z,Maintaining Virtual Areas on FPGAs using Strip Packing with Delays,Juergen Teich,cs.AR,http://arxiv.org/pdf/1001.4493v1
+1002.1953v1,2010-02-09T19:47:34Z,Ahb Compatible DDR Sdram Controller Ip Core for Arm Based Soc,C. S. Hemanthkumar,cs.AR,http://arxiv.org/pdf/1002.1953v1
+1008.0838v1,2010-08-04T18:35:25Z,Associative control processor with a rigid structure,Omar Khazamov,cs.AR,http://arxiv.org/pdf/1008.0838v1
+1008.5093v1,2010-08-30T15:05:05Z,An $Θ(\sqrt{n})$-depth Quantum Adder on a 2D NTC Quantum Computer   Architecture,Rodney Van Meter,quant-ph,http://arxiv.org/pdf/1008.5093v1
+1010.4059v2,2010-10-19T21:58:14Z,Multiplierless Modules for Forward and Backward Integer Wavelet   Transform,Vasil Kolev,cs.AR,http://arxiv.org/pdf/1010.4059v2
+1011.3382v1,2010-11-15T13:48:33Z,Multi-core: Adding a New Dimension to Computing,Md. Tanvir Al Amin,cs.AR,http://arxiv.org/pdf/1011.3382v1
+1101.4222v1,2011-01-21T20:06:28Z,Reversible Logic Based Concurrent Error Detection Methodology For   Emerging Nanocircuits,Nagarajan Ranganathan,cs.AR,http://arxiv.org/pdf/1101.4222v1
+1102.3796v1,2011-02-18T09:59:53Z,APEnet+: high bandwidth 3D torus direct network for petaflops scale   commodity clusters,Piero Vicini,physics.comp-ph,http://arxiv.org/pdf/1102.3796v1
+1105.4780v3,2011-05-24T14:32:18Z,Fault-tolerant Algorithms for Tick-Generation in Asynchronous Logic:   Robust Pulse Generation,Ulrich Schmid,cs.DC,http://arxiv.org/pdf/1105.4780v3
+1106.2568v1,2011-06-13T22:29:08Z,HMTT: A Hybrid Hardware/Software Tracing System for Bridging Memory   Trace's Semantic Gap,Jianping Fan,cs.AR,http://arxiv.org/pdf/1106.2568v1
+1107.4851v1,2011-07-25T06:43:39Z,AWRP: Adaptive Weight Ranking Policy for Improving Cache Performance,Debabrata Swain,cs.PF,http://arxiv.org/pdf/1107.4851v1
+1109.4351v1,2011-09-20T16:55:50Z,Designing a CPU model: from a pseudo-formal document to fast code,Xiaomu Shi,cs.SE,http://arxiv.org/pdf/1109.4351v1
+1110.1393v1,2011-10-06T20:55:19Z,High-Precision Tuning of State for Memristive Devices by Adaptable   Variation-Tolerant Algorithm,Dmitri Strukov,cond-mat.mtrl-sci,http://arxiv.org/pdf/1110.1393v1
+1111.1086v1,2011-11-04T10:27:24Z,Design and Simulation of an 8-bit Dedicated Processor for calculating   the Sine and Cosine of an Angle using the CORDIC Algorithm,M. G. Bhatia,cs.AR,http://arxiv.org/pdf/1111.1086v1
+1111.4287v1,2011-11-18T05:29:44Z,Parametric Estimation of the Ultimate Size of Hypercomputers,Dmitry Zinoviev,cs.PF,http://arxiv.org/pdf/1111.4287v1
+1201.0782v1,2012-01-03T22:15:22Z,Umgebungserfassungssystem fuer mobile Roboter (environment logging   system for mobile autonomous robots),Dirk Hesselbach,cs.RO,http://arxiv.org/pdf/1201.0782v1
+1201.2542v1,2012-01-12T12:23:33Z,An efficient FPGA implementation of MRI image filtering and tumor   characterization using Xilinx system generator,A. Kandaswamy,cs.AR,http://arxiv.org/pdf/1201.2542v1
+1201.3332v1,2012-01-16T18:34:36Z,A Novel Methodology for Thermal Aware Silicon Area Estimation for 2D &   3D MPSoCs,Vinod Pangracious,cs.ET,http://arxiv.org/pdf/1201.3332v1
+1202.1925v1,2012-02-09T09:30:32Z,FATAL+: A Self-Stabilizing Byzantine Fault-tolerant Clocking Scheme for   SoCs,Andreas Steininger,cs.DC,http://arxiv.org/pdf/1202.1925v1
+1203.1536v1,2012-03-07T16:46:05Z,The Distributed Network Processor: a novel off-chip and on-chip   interconnection network architecture,Piero Vicini,cs.AR,http://arxiv.org/pdf/1203.1536v1
+1204.2772v1,2012-04-12T17:07:58Z,Effect of Thread Level Parallelism on the Performance of Optimum   Architecture for Embedded Applications,Hojjat Taghdisi,cs.AR,http://arxiv.org/pdf/1204.2772v1
+1204.4134v1,2012-04-18T17:03:44Z,Reconfigurable computing for Monte Carlo simulations: results and   prospects of the Janus project,D. Yllanes,cond-mat.dis-nn,http://arxiv.org/pdf/1204.4134v1
+1204.6662v1,2012-04-30T15:04:49Z,Mppsocgen: A framework for automatic generation of mppsoc architecture,Mohamed Abid,cs.DC,http://arxiv.org/pdf/1204.6662v1
+1206.6213v1,2012-06-27T09:33:06Z,The Necessity for Hardware QoS Support for Server Consolidation and   Cloud Computing,José Ángel Gregorio,cs.AR,http://arxiv.org/pdf/1206.6213v1
+1207.5138v1,2012-07-21T13:47:55Z,Ethernet Packet Processor for SoC Application,R. C. Biradar,cs.AR,http://arxiv.org/pdf/1207.5138v1
+1210.1158v3,2012-10-03T15:57:49Z,Emulating a large memory with a collection of small ones,James Hanlon,cs.AR,http://arxiv.org/pdf/1210.1158v3
+1210.2907v1,2012-10-10T13:27:20Z,A Low-Power 9-bit Pipelined CMOS ADC with Amplifier and Comparator   Sharing Technique,Dmitry Osipov,physics.ins-det,http://arxiv.org/pdf/1210.2907v1
+1210.5342v1,2012-10-19T08:27:38Z,Design & Simulation of 128x Interpolator Filter,Sonika Arora,cs.ET,http://arxiv.org/pdf/1210.5342v1
+1212.0310v1,2012-12-03T08:28:13Z,Design and Implementation of Multistage Interconnection Networks for SoC   Networks,Majid Rezazadeh,cs.AR,http://arxiv.org/pdf/1212.0310v1
+1212.2874v1,2012-12-12T16:37:23Z,Diametrical Mesh Of Tree (D2D-MoT) Architecture: A Novel Routing   Solution For NoC,Sankar Karmakar,cs.ET,http://arxiv.org/pdf/1212.2874v1
+1302.1078v1,2013-02-05T16:06:15Z,Performance Evaluation of Sparse Matrix Multiplication Kernels on Intel   Xeon Phi,Umit V. Catalyurek,cs.PF,http://arxiv.org/pdf/1302.1078v1
+1302.1390v1,2013-02-06T15:00:35Z,MGSim - Simulation tools for multi-core processor architectures,Chris R. Jesshope,cs.AR,http://arxiv.org/pdf/1302.1390v1
+1302.4464v1,2013-02-18T21:24:22Z,Dynamic Power Reduction in a Novel CMOS 5T-SRAM for Low-Power SoC,Richard F. Hobson,cs.AR,http://arxiv.org/pdf/1302.4464v1
+1302.6911v1,2013-02-11T20:34:05Z,Using Virtual Addresses with Communication Channels,Oskar Schirmer,cs.DC,http://arxiv.org/pdf/1302.6911v1
+1303.6849v1,2013-03-27T14:56:33Z,A Fast Improved Fat Tree Encoder for Wave Union TDC in an FPGA,Qi An,physics.ins-det,http://arxiv.org/pdf/1303.6849v1
+1304.2110v1,2013-04-08T06:22:59Z,An Improved GEF Fast Addition Algorithm,M. M. A. Hashem,cs.DS,http://arxiv.org/pdf/1304.2110v1
+1304.6672v1,2013-04-11T11:57:33Z,Hardware Implementation of Algorithm for Cryptanalysis,Rakesh Mehta,cs.CR,http://arxiv.org/pdf/1304.6672v1
+1304.7862v1,2013-04-30T04:14:53Z,A formalisation of XMAS,Julien Schmaltz,cs.AR,http://arxiv.org/pdf/1304.7862v1
+1307.0100v1,2013-06-29T13:07:10Z,Marrying Many-core Accelerators and InfiniBand for a New Commodity   Processor,Yuichi Tsujita,cs.DC,http://arxiv.org/pdf/1307.0100v1
+1307.3690v1,2013-07-14T03:31:10Z,Design of Parity Preserving Logic Based Fault Tolerant Reversible   Arithmetic Logic Unit,M. K. Venkatesha,cs.AR,http://arxiv.org/pdf/1307.3690v1
+1404.0296v1,2014-04-01T16:12:12Z,Metal-Gated Junctionless Nanowire Transistors,Csaba Andras Moritz,cs.ET,http://arxiv.org/pdf/1404.0296v1
+1404.0607v1,2014-04-02T16:41:11Z,Skybridge: 3-D Integrated Circuit Technology Alternative to CMOS,Csaba Andras Moritz,cs.ET,http://arxiv.org/pdf/1404.0607v1
+1404.1311v3,2014-03-25T21:54:56Z,"Comments on ""IEEE 1588 Clock Synchronization using Dual Slave Clocks in   a Slave""",Kyeong Soo Kim,cs.AR,http://arxiv.org/pdf/1404.1311v3
+1405.2907v1,2014-05-12T16:39:44Z,Massively Parallel Processor Architectures for Resource-aware Computing,Jürgen Teich,cs.AR,http://arxiv.org/pdf/1405.2907v1
+1407.6342v1,2014-07-15T06:40:49Z,RTL2RTL Formal Equivalence: Boosting the Design Confidence,S S Bindumadhava,cs.SE,http://arxiv.org/pdf/1407.6342v1
+1407.6470v1,2014-07-24T07:05:38Z,New Trends in Parallel and Distributed Simulation: from Many-Cores to   Cloud Computing,Moreno Marzolla,cs.DC,http://arxiv.org/pdf/1407.6470v1
+0910.0505v2,2009-10-03T02:04:22Z,Hard Data on Soft Errors: A Large-Scale Assessment of Real-World Error   Rates in GPGPU,Vijay S. Pande,cs.AR,http://arxiv.org/pdf/0910.0505v2
+0910.4052v1,2009-10-21T11:31:14Z,Virtual-Threading: Advanced General Purpose Processors Architecture,Andrei I. Yafimau,cs.AR,http://arxiv.org/pdf/0910.4052v1
+0910.4865v1,2009-10-26T12:48:02Z,Multi-core architectures: Complexities of performance prediction and the   impact of cache topology,Gerhard Wellein,cs.PF,http://arxiv.org/pdf/0910.4865v1
+1103.1360v2,2011-03-07T20:04:05Z,"A Secure Asynchronous FPGA Architecture, Experimental Results and Some   Debug Feedback",Marc Renaudin,cs.AR,http://arxiv.org/pdf/1103.1360v2
+1104.0924v2,2011-04-05T21:38:17Z,ReveR: Software Simulator of Reversible Processor with Stack,Alexander Yu. Vlasov,cs.ET,http://arxiv.org/pdf/1104.0924v2
+1104.1493v1,2011-04-08T06:24:47Z,Scalability of spin FPGA: A Reconfigurable Architecture based on spin   MOSFET,Yoshiaki Saito,cond-mat.mes-hall,http://arxiv.org/pdf/1104.1493v1
+1211.6192v1,2012-11-27T02:37:00Z,Static Analysis of Lockless Microcontroller C Programs,Stefan Kowalewski,cs.PL,http://arxiv.org/pdf/1211.6192v1
+1306.1916v1,2013-06-08T13:18:48Z,Performance Evaluation of Low Power MIPS Crypto Processor based on   Cryptography Algorithms,Dilip Kumar,cs.CR,http://arxiv.org/pdf/1306.1916v1
+1306.3302v1,2013-06-14T06:20:44Z,The Effect of Communication and Synchronization on Amdahl Law in   Multicore Systems,Ran Ginosar,cs.AR,http://arxiv.org/pdf/1306.3302v1
+1308.0090v1,2013-08-01T04:17:30Z,Resistive Threshold Logic,D. Kumar,cs.ET,http://arxiv.org/pdf/1308.0090v1
+1308.0840v1,2013-08-04T19:06:44Z,Designing Parity Preserving Reversible Circuits,Chander Chandak,cs.AR,http://arxiv.org/pdf/1308.0840v1
+1308.1419v1,2013-08-06T20:44:35Z,Improving the GPU space of computation under triangular domain problems,Nancy Hitschfeld,cs.DC,http://arxiv.org/pdf/1308.1419v1
+1308.3123v1,2013-08-14T13:46:37Z,First experiences with the Intel MIC architecture at LRZ,Momme Allalen,cs.PF,http://arxiv.org/pdf/1308.3123v1
+1309.2533v1,2013-09-10T14:50:29Z,Evaluation of the Performance/Energy Overhead in DSP Video Decoding and   its Implications,Djamel Benazzouz,cs.AR,http://arxiv.org/pdf/1309.2533v1
+1312.2306v1,2013-12-09T05:17:45Z,Dominant block guided optimal cache size estimation to maximize IPC of   embedded software,Arvind Rajawat,cs.PF,http://arxiv.org/pdf/1312.2306v1
+1312.7354v1,2013-12-22T15:13:12Z,Design of Reversible Random Access Memory,Syed Monowar Hossain,cs.ET,http://arxiv.org/pdf/1312.7354v1
+1312.7355v1,2013-12-22T15:59:43Z,A Novel Approach for Designing Online Testable Reversible Circuits,Uzzal Kumar Prodhan,cs.ET,http://arxiv.org/pdf/1312.7355v1
+1401.3421v1,2014-01-15T03:25:41Z,Performance Evaluation of ECC in Single and Multi Processor   Architectures on FPGA Based Embedded System,Amlan Chakrabarti,cs.AR,http://arxiv.org/pdf/1401.3421v1
+1401.6375v1,2014-01-24T15:29:06Z,Design of an Encryption-Decryption Module Oriented for Internet   Information Security SOC Design,Tao Feng,cs.AR,http://arxiv.org/pdf/1401.6375v1
+1402.4046v1,2014-02-17T16:21:31Z,Boolean Logic Gates From A Single Memristor Via Low-Level Sequential   Logic,Andrew Adamatzky,cs.ET,http://arxiv.org/pdf/1402.4046v1
+1406.0309v1,2014-06-02T09:45:59Z,Network Function Virtualization based on FPGAs:A Framework for   all-Programmable network devices,Dimitrios Soudris,cs.NI,http://arxiv.org/pdf/1406.0309v1
+1406.1565v1,2014-06-06T01:48:45Z,Modeling Algorithms in SystemC and ACL2,David M. Russinoff,cs.AR,http://arxiv.org/pdf/1406.1565v1
+1406.3568v1,2014-06-13T15:27:05Z,"NaNet: a Low-Latency, Real-Time, Multi-Standard Network Interface Card   with GPUDirect Features",P. Vicini,physics.ins-det,http://arxiv.org/pdf/1406.3568v1
+1406.6037v1,2014-06-23T19:44:03Z,Preemptive Thread Block Scheduling with Online Structural Runtime   Prediction for Concurrent GPGPU Kernels,Matthew J. Thazhuthaveetil,cs.AR,http://arxiv.org/pdf/1406.6037v1
+1409.4043v1,2014-09-14T10:24:04Z,Design of Novel Algorithm and Architecture for Gaussian Based Color   Image Enhancement System for Real Time Applications,D. R. Rameshbabu,cs.AR,http://arxiv.org/pdf/1409.4043v1
+1411.5255v1,2014-11-19T15:36:23Z,Threshold Logic Computing: Memristive-CMOS Circuits for Fast Fourier   Transform and Vedic Multiplication,Arun Ajayan,cs.ET,http://arxiv.org/pdf/1411.5255v1
+1412.5538v1,2014-12-17T19:39:56Z,Kickstarting High-performance Energy-efficient Manycore Architectures   with Epiphany,Zain Ul-Abdin,cs.AR,http://arxiv.org/pdf/1412.5538v1
+1412.6067v1,2014-12-17T16:40:03Z,Very Low Cost Entropy Source Based on Chaotic Dynamics Retrofittable on   Networked Devices to Prevent RNG Attacks,Sergio Callegari,cs.CR,http://arxiv.org/pdf/1412.6067v1
+1502.03057v1,2015-02-05T01:53:17Z,Circuit Level Modeling of Extra Combinational Delays in SRAM FPGAs Due   to Transient Ionizing Radiation,Claude Thibeault,physics.space-ph,http://arxiv.org/pdf/1502.03057v1
+1503.00504v1,2015-03-02T12:55:12Z,FPGA Implementation of the CAR Model of the Cochlea,André van Schaik,cs.NE,http://arxiv.org/pdf/1503.00504v1
+1503.02304v1,2015-03-08T18:06:37Z,Efficient Hardware Design and Implementation of Encrypted MIPS Processor,Dilip Kumar,cs.CR,http://arxiv.org/pdf/1503.02304v1
+1503.08104v1,2015-03-27T15:10:43Z,Evaluating Asymmetric Multicore Systems-on-Chip using Iso-Metrics,Enrique S. Quintana-Orti,cs.DC,http://arxiv.org/pdf/1503.08104v1
+1504.00450v1,2015-04-02T06:29:09Z,Recent Development in Analog Computation - A Brief Overview,Yang Xue,cs.ET,http://arxiv.org/pdf/1504.00450v1
+1504.01718v1,2015-04-07T19:46:04Z,Modular Acquisition and Stimulation System for Timestamp-Driven   Neuroscience Experiments,Jan Frans Willem Slaets,q-bio.QM,http://arxiv.org/pdf/1504.01718v1
+1505.01139v1,2015-05-04T13:23:48Z,An event-based architecture for solving constraint satisfaction problems,Giacomo Indiveri,cs.DC,http://arxiv.org/pdf/1505.01139v1
+1505.02211v2,2015-05-09T00:11:31Z,TPAD: Hardware Trojan Prevention and Detection for Trusted Integrated   Circuits,Subhasish Mitra,cs.AR,http://arxiv.org/pdf/1505.02211v2
+1508.06056v1,2015-08-25T08:02:38Z,A Novel Reconfigurable Hardware Design for Speech Enhancement Based on   Multi-Band Spectral Subtraction Involving Magnitude and Phase Components,Amlan Chakrabarti,cs.SD,http://arxiv.org/pdf/1508.06056v1
+1508.06805v1,2015-08-27T11:22:04Z,Allowing Software Developers to Debug HLS Hardware,Steven J. E. Wilton,cs.SE,http://arxiv.org/pdf/1508.06805v1
+1508.06821v1,2015-08-27T12:03:57Z,ThreadPoolComposer - An Open-Source FPGA Toolchain for Software   Developers,Andreas Koch,cs.DC,http://arxiv.org/pdf/1508.06821v1
+1508.07126v1,2015-08-28T08:41:38Z,Performance monitoring for multicore embedded computing systems on FPGAs,Alexandra Fedorova,cs.AR,http://arxiv.org/pdf/1508.07126v1
+1508.07127v1,2015-08-28T08:45:35Z,Virtualization Architecture for NoC-based Reconfigurable Systems,Pao-Ann Hsiung,cs.AR,http://arxiv.org/pdf/1508.07127v1
+1509.00042v1,2015-08-27T11:50:30Z,Automatic Nested Loop Acceleration on FPGAs Using Soft CGRA Overlay,Hayden Kwok-Hay So,cs.AR,http://arxiv.org/pdf/1509.00042v1
+1509.02308v2,2015-09-08T10:13:02Z,Dissecting GPU Memory Hierarchy through Microbenchmarking,Xiaowen Chu,cs.AR,http://arxiv.org/pdf/1509.02308v2
+1509.04240v1,2015-09-11T15:53:39Z,Feasible methodology for optimization of a novel reversible binary   compressor,Amit Kumar,cs.AR,http://arxiv.org/pdf/1509.04240v1
+1509.08972v2,2015-09-29T23:16:18Z,VLSI Implementation of Deep Neural Network Using Integral Stochastic   Computing,Warren J. Gross,cs.NE,http://arxiv.org/pdf/1509.08972v2
+1511.03639v2,2015-11-11T20:20:03Z,Analysis of Intel's Haswell Microarchitecture Using The ECM Model and   Microbenchmarks,Gerhard Wellein,cs.DC,http://arxiv.org/pdf/1511.03639v2
+1511.09085v2,2015-11-29T20:27:15Z,Energy Efficient and High Performance Current-Mode Neural Network   Circuit using Memristors and Digitally Assisted Analog CMOS Neurons,Mrigank Sharad,cs.ET,http://arxiv.org/pdf/1511.09085v2
+1512.00504v1,2015-12-01T22:32:21Z,Efficient Edge Detection on Low-Cost FPGAs,Andrew Bainbridge-Smith,cs.AR,http://arxiv.org/pdf/1512.00504v1
+1512.01581v1,2015-12-04T22:10:23Z,Threshold Voltage-Defined Switches for Programmable Gates,Swaroop Ghosh,cs.CR,http://arxiv.org/pdf/1512.01581v1
+1601.00894v2,2016-01-05T16:29:17Z,Configurable memory systems for embedded many-core processors,Robert Mullins,cs.AR,http://arxiv.org/pdf/1601.00894v2
+1601.01722v1,2016-01-07T22:43:43Z,Profiling-Assisted Decoupled Access-Execute,Alexandra Jimborean,cs.AR,http://arxiv.org/pdf/1601.01722v1
+1602.01528v2,2016-02-04T01:28:28Z,EIE: Efficient Inference Engine on Compressed Deep Neural Network,William J. Dally,cs.CV,http://arxiv.org/pdf/1602.01528v2
+1602.01616v2,2016-02-04T10:16:13Z,FPGA Based Implementation of Deep Neural Networks Using On-chip Memory   Only,Wonyong Sung,cs.AR,http://arxiv.org/pdf/1602.01616v2
+1602.02517v1,2016-02-08T10:28:44Z,Energy Efficient Video Fusion with Heterogeneous CPU-FPGA Devices,Tom Sun,cs.AR,http://arxiv.org/pdf/1602.02517v1
+1602.03016v1,2016-02-09T15:04:11Z,FPGA Hardware Acceleration of Monte Carlo Simulations for the Ising   Model,Leonardo Franco,cs.AR,http://arxiv.org/pdf/1602.03016v1
+1602.04183v3,2016-02-12T19:48:31Z,Dark Memory and Accelerator-Rich System Optimization in the Dark Silicon   Era,Mark A. Horowitz,cs.AR,http://arxiv.org/pdf/1602.04183v3
+1602.06038v1,2016-02-19T03:49:44Z,Automatic Generation of High-Coverage Tests for RTL Designs using   Software Techniques and Tools,Mengxing Huang,cs.SE,http://arxiv.org/pdf/1602.06038v1
+1603.05154v1,2016-03-16T15:52:13Z,2D Discrete Fourier Transform with Simultaneous Edge Artifact Removal   for Real-Time Applications,Ulf Skoglund,cs.CV,http://arxiv.org/pdf/1603.05154v1
+1604.01789v2,2016-04-06T20:04:56Z,GateKeeper: A New Hardware Architecture for Accelerating Pre-Alignment   in DNA Short Read Mapping,Can Alkan,q-bio.GN,http://arxiv.org/pdf/1604.01789v2
+1606.00251v1,2016-06-01T12:27:54Z,Profile-Driven Automated Mixed Precision,Xiaobai Sun,cs.NA,http://arxiv.org/pdf/1606.00251v1
+1606.01607v1,2016-06-06T03:44:52Z,CG-OoO: Energy-Efficient Coarse-Grain Out-of-Order Execution,William J. Dally,cs.AR,http://arxiv.org/pdf/1606.01607v1
+1606.01980v2,2016-06-07T00:15:16Z,Open-source Hardware: Opportunities and Challenges,Karthikeyan Sankaralingam,cs.AR,http://arxiv.org/pdf/1606.01980v2
+1606.03248v1,2016-06-10T09:47:14Z,MAC: a novel systematically multilevel cache replacement policy for PCM   memory,Dongsheng Wang,cs.AR,http://arxiv.org/pdf/1606.03248v1
+1606.03742v1,2016-06-12T17:08:43Z,NCAM: Near-Data Processing for Nearest Neighbor Search,Ali Farhadi,cs.DC,http://arxiv.org/pdf/1606.03742v1
+1606.05416v1,2016-06-17T04:34:34Z,Taming Weak Memory Models,Muralidaran Vijayaraghavan,cs.PL,http://arxiv.org/pdf/1606.05416v1
+1607.00667v1,2016-07-03T18:43:55Z,Reducing the Energy Cost of Inference via In-sensor Information   Processing,Naresh Shanbhag,cs.AR,http://arxiv.org/pdf/1607.00667v1
+1607.01643v1,2016-07-06T14:40:03Z,A configurable accelerator for manycores: the Explicitly Many-Processor   Approach,János Végh,cs.DC,http://arxiv.org/pdf/1607.01643v1
+1607.06541v1,2016-07-22T02:22:44Z,"Novel Graph Processor Architecture, Prototype System, and Results",Jeremy Kepner,cs.DC,http://arxiv.org/pdf/1607.06541v1
+1607.08086v2,2016-07-27T13:37:30Z,Read-Tuned STT-RAM and eDRAM Cache Hierarchies for Throughput and Energy   Enhancement,Ronald F. DeMara,cs.AR,http://arxiv.org/pdf/1607.08086v2
+1607.08523v1,2016-07-28T16:33:31Z,The Study of Transient Faults Propagation in Multithread Applications,Armin Samiei,cs.AR,http://arxiv.org/pdf/1607.08523v1
+1607.08635v1,2016-07-27T19:20:33Z,A 58.6mW Real-Time Programmable Object Detector with Multi-Scale   Multi-Object Support Using Deformable Parts Model on 1920x1080 Video at 30fps,Vivienne Sze,cs.CV,http://arxiv.org/pdf/1607.08635v1
+1608.07036v1,2016-08-25T07:26:33Z,"System Reliability, Fault Tolerance and Design Metrics Tradeoffs in the   Distributed Minority and Majority Voting Based Redundancy Scheme",N E Mastorakis,cs.AR,http://arxiv.org/pdf/1608.07036v1
+1608.07485v1,2016-08-26T15:04:20Z,When to use 3D Die-Stacked Memory for Bandwidth-Constrained Big Data   Workloads,David A. Wood,cs.AR,http://arxiv.org/pdf/1608.07485v1
+1609.02067v1,2016-09-07T16:53:40Z,Practical Data Compression for Modern Memory Hierarchies,Gennady Pekhimenko,cs.AR,http://arxiv.org/pdf/1609.02067v1
+1609.04569v3,2016-09-15T10:50:45Z,FPGA Implementation of a Novel Image Steganography for Hiding Images,Ali Sadeghi,cs.AR,http://arxiv.org/pdf/1609.04569v3
+1609.08681v1,2016-09-27T21:56:17Z,Multi-Valued Routing Tracks for FPGAs in 28nm FDSOI Technology,Yves Mathieu,cs.AR,http://arxiv.org/pdf/1609.08681v1
+1610.03360v2,2016-10-11T14:24:52Z,Implementing High-Order FIR Filters in FPGAs,Peter Kaever,cs.DC,http://arxiv.org/pdf/1610.03360v2
+1610.05601v3,2016-10-17T13:46:43Z,High-performance K-means Implementation based on a Simplified Map-Reduce   Architecture,Lingli Wang,cs.DC,http://arxiv.org/pdf/1610.05601v3
+1610.06088v1,2015-11-07T16:44:56Z,Design of a Compact Reversible Read-Only-Memory with MOS Transistors,Lafifa Jamal,cs.ET,http://arxiv.org/pdf/1610.06088v1
+1610.06385v5,2016-10-20T12:46:07Z,Accelerating BLAS on Custom Architecture through Algorithm-Architecture   Co-design,Ranjani Narayan,cs.AR,http://arxiv.org/pdf/1610.06385v5
+1611.01571v1,2016-11-04T23:53:32Z,Flat ORAM: A Simplified Write-Only Oblivious RAM Construction for Secure   Processor Architectures,Marten van Dijk,cs.AR,http://arxiv.org/pdf/1611.01571v1
+1611.03099v1,2016-11-09T21:23:16Z,A Brief Survey of Non-Residue Based Computational Error Correction,Thomas M. Conte,cs.OH,http://arxiv.org/pdf/1611.03099v1
+1611.03109v1,2016-10-25T18:45:32Z,Energy-efficient Machine Learning in Silicon: A Communications-inspired   Approach,Naresh R. Shanbhag,cs.LG,http://arxiv.org/pdf/1611.03109v1
+1611.03380v1,2016-11-10T16:21:51Z,In-Storage Embedded Accelerator for Sparse Pattern Processing,Arvind,cs.AR,http://arxiv.org/pdf/1611.03380v1
+1611.05438v1,2016-09-29T21:48:29Z,An Efficient Framework for Floor-plan Prediction of Dynamic Runtime   Reconfigurable Systems,G. Grewal,cs.OH,http://arxiv.org/pdf/1611.05438v1
+1611.06078v1,2016-11-18T13:59:39Z,Fast and reconfigurable packet classification engine in FPGA-based   firewall,Arif Sasongko,cs.AR,http://arxiv.org/pdf/1611.06078v1
+1611.07511v1,2016-11-12T19:14:05Z,Can Broken Multicore Hardware be Mended?,János Végh,cs.DC,http://arxiv.org/pdf/1611.07511v1
+1612.00445v1,2016-12-01T17:45:18Z,Near-Memory Address Translation,Babak Falsafi,cs.AR,http://arxiv.org/pdf/1612.00445v1
+1612.03182v1,2016-12-09T21:02:13Z,Arch2030: A Vision of Computer Architecture Research over the Next 15   Years,Thomas F. Wenisch,cs.AR,http://arxiv.org/pdf/1612.03182v1
+1612.06748v1,2016-12-20T16:49:43Z,NOP - A Simple Experimental Processor for Parallel Deployment,Oskar Schirmer,cs.DC,http://arxiv.org/pdf/1612.06748v1
+1612.09524v1,2016-12-06T19:06:28Z,Memory Efficient Multi-Scale Line Detector Architecture for Retinal   Blood Vessel Segmentation,J. M. Pierre Langlois,cs.CV,http://arxiv.org/pdf/1612.09524v1
+1701.06420v1,2017-01-23T14:44:47Z,Neurostream: Scalable and Energy Efficient Deep Learning with Smart   Memory Cubes,Luca Benini,cs.AR,http://arxiv.org/pdf/1701.06420v1
+1702.01894v1,2017-02-07T06:55:03Z,CAAD: Computer Architecture for Autonomous Driving,Jean-Luc Gaudiot,cs.AR,http://arxiv.org/pdf/1702.01894v1
+cs/0004014v2,2000-04-25T18:55:40Z,Cluster Computing White Paper,Mark Baker,cs.DC,http://arxiv.org/pdf/cs/0004014v2
+cs/0206027v1,2002-06-18T13:05:50Z,Behaviour-based Knowledge Systems: An Epigenetic Path from Behaviour to   Knowledge,Carlos Gershenson,cs.AI,http://arxiv.org/pdf/cs/0206027v1
+cs/0302020v1,2003-02-13T10:13:01Z,Analytical formulations of Peer-to-Peer Connection Efficiency,Aaron Harwood,cs.DC,http://arxiv.org/pdf/cs/0302020v1
+cs/0303016v1,2003-03-19T11:08:44Z,Fast Parallel I/O on Cluster Computers,Walter Tichy,cs.DC,http://arxiv.org/pdf/cs/0303016v1
+cs/0304045v1,2003-04-30T16:11:30Z,On a composition of digraphs,Simone Severini,cs.DM,http://arxiv.org/pdf/cs/0304045v1
+cs/0403007v1,2004-03-06T02:52:17Z,End-User Effects of Microreboots in Three-Tiered Internet Systems,Armando Fox,cs.OS,http://arxiv.org/pdf/cs/0403007v1
+cs/0411019v1,2004-11-08T20:06:09Z,Programmable Ethernet Switches and Their Applications,Tzi-cker Chiueh,cs.NI,http://arxiv.org/pdf/cs/0411019v1
+cs/0508029v1,2005-08-03T18:16:13Z,Selfish vs. Unselfish Optimization of Network Creation,Scott Kirkpatrick,cs.NI,http://arxiv.org/pdf/cs/0508029v1
+cs/0511012v1,2005-11-02T22:22:14Z,Parameters Affecting the Resilience of Scale-Free Networks to Random   Failures,Terran Lane,cs.NI,http://arxiv.org/pdf/cs/0511012v1
+cs/0605034v1,2006-05-08T17:02:28Z,Peer to Peer Networks for Defense Against Internet Worms,R. Srikant,cs.CR,http://arxiv.org/pdf/cs/0605034v1
+cs/0605039v4,2006-05-09T05:45:52Z,Fast and Generalized Polynomial Time Memory Consistency Verification,John C. Huang,cs.AR,http://arxiv.org/pdf/cs/0605039v4
+cs/0608061v5,2006-08-15T01:42:49Z,Concurrent Processing Memory,Chengpu Wang,cs.DC,http://arxiv.org/pdf/cs/0608061v5
+cs/0608077v1,2006-08-18T16:45:33Z,The Effect of Scheduling on Link Capacity in Multi-hopWireless Networks,Nael Abu-Ghazaleh,cs.NI,http://arxiv.org/pdf/cs/0608077v1
+cs/0609074v1,2006-09-13T12:52:45Z,A Non-anchored Unified Naming System for Ad Hoc Computing Environments,Dongman Lee,cs.DC,http://arxiv.org/pdf/cs/0609074v1
+cs/0612121v1,2006-12-22T12:53:15Z,Power Assignment Problems in Wireless Communication,Rouven Naujoks,cs.CG,http://arxiv.org/pdf/cs/0612121v1
+cs/0701130v1,2007-01-20T23:06:57Z,On the Correlation of Geographic and Network Proximity at Internet Edges   and its Implications for Mobile Unicast and Multicast Routing,Ying Zhang,cs.NI,http://arxiv.org/pdf/cs/0701130v1
+q-bio/0505021v1,2005-05-10T19:51:16Z,Characterizing Self-Developing Biological Neural Networks: A First Step   Towards their Application To Computing Systems,Olivier Temam,q-bio.NC,http://arxiv.org/pdf/q-bio/0505021v1
+0704.0967v1,2007-04-07T03:18:46Z,Cross-Layer Optimization of MIMO-Based Mesh Networks with Gaussian   Vector Broadcast Channels,Y. Thomas Hou,cs.IT,http://arxiv.org/pdf/0704.0967v1
+0704.2852v1,2007-04-21T21:26:03Z,Nature-Inspired Interconnects for Self-Assembled Large-Scale   Network-on-Chip Designs,Christof Teuscher,cs.AR,http://arxiv.org/pdf/0704.2852v1
+0706.1130v1,2007-06-08T08:23:14Z,A Communication Model for Adaptive Service Provisioning in Hybrid   Wireless Networks,Steffen Rothkugel,cs.NI,http://arxiv.org/pdf/0706.1130v1
+0706.3009v1,2007-06-20T15:19:01Z,Application of a design space exploration tool to enhance interleaver   generation,Eric Martin,cs.AR,http://arxiv.org/pdf/0706.3009v1
+0708.1964v1,2007-08-14T21:46:32Z,Solving the subset-sum problem with a light-based device,Oana Muntean,cs.AR,http://arxiv.org/pdf/0708.1964v1
+0712.2640v1,2007-12-17T06:37:11Z,Optimal Memoryless Encoding for Low Power Off-Chip Data Buses,Alan C. H. Ling,cs.AR,http://arxiv.org/pdf/0712.2640v1
+0805.2684v1,2008-05-17T16:22:27Z,Assessing Random Dynamical Network Architectures for Nanoelectronics,Thimo Rohlf,cs.AR,http://arxiv.org/pdf/0805.2684v1
+0811.1304v1,2008-11-09T00:41:07Z,NB-FEB: An Easy-to-Use and Scalable Universal Synchronization Primitive   for Parallel Programming,Otto J. Anshus,cs.DC,http://arxiv.org/pdf/0811.1304v1
+0901.4694v1,2009-01-29T14:46:48Z,Limit on the Addressability of Fault-Tolerant Nanowire Decoders,Alan C. H. Ling,cs.AR,http://arxiv.org/pdf/0901.4694v1
+0904.3148v1,2009-04-21T00:34:43Z,CRT-Based High Speed Parallel Architecture for Long BCH Encoding,Hao Chen,cs.AR,http://arxiv.org/pdf/0904.3148v1
+0904.4526v1,2009-04-29T03:11:52Z,Feasibility Conditions for Interference Alignment,Ahmet H. Kayran,cs.IT,http://arxiv.org/pdf/0904.4526v1
+1001.2262v1,2010-01-13T18:47:44Z,Classifying Application Phases in Asymmetric Chip Multiprocessors,M. Analoui,cs.DC,http://arxiv.org/pdf/1001.2262v1
+1002.0939v1,2010-02-04T09:48:53Z,Virtual Machine Support for Many-Core Architectures: Decoupling Abstract   from Concrete Concurrency Models,Wolfgang De Meuter,cs.DC,http://arxiv.org/pdf/1002.0939v1
+1002.3990v1,2010-02-21T18:51:31Z,Static Address Generation Easing: a Design Methodology for Parallel   Interleaver Architectures,Pascal Urard,cs.AR,http://arxiv.org/pdf/1002.3990v1
+1008.4370v1,2010-08-25T20:23:56Z,Fourier Domain Decoding Algorithm of Non-Binary LDPC codes for Parallel   Implementation,Kohichi Sakaniwa,cs.IT,http://arxiv.org/pdf/1008.4370v1
+1008.5133v2,2010-08-22T16:44:23Z,Memristor Crossbar-based Hardware Implementation of IDS Method,Ali Rohani,cs.LG,http://arxiv.org/pdf/1008.5133v2
+1009.0896v1,2010-09-05T07:46:47Z,Memristor Crossbar-based Hardware Implementation of Fuzzy Membership   Functions,Saeed Bagheri Shouraki,cs.NE,http://arxiv.org/pdf/1009.0896v1
+1009.1305v1,2010-09-07T14:26:09Z,Wideband Spectrum Sensing at Sub-Nyquist Rates,Yonina C. Eldar,cs.AR,http://arxiv.org/pdf/1009.1305v1
+1010.4065v1,2010-10-19T22:25:36Z,Model-Based Development of Distributed Embedded Systems by the Example   of the Scicos/SynDEx Framework,Bernhard Fischer,cs.SY,http://arxiv.org/pdf/1010.4065v1
+1011.2919v1,2010-11-12T14:38:52Z,Hardware architectures for Successive Cancellation Decoding of Polar   Codes,Warren J. Gross,cs.AR,http://arxiv.org/pdf/1011.2919v1
+1011.4109v2,2010-11-17T23:56:51Z,Design and simulation of a sigma delta ADC,Moslem Rashidi,cs.IT,http://arxiv.org/pdf/1011.4109v2
+1106.2593v1,2011-06-14T01:26:41Z,A Simple Multi-Processor Computer Based on Subleq,Alex Kolodin,cs.DC,http://arxiv.org/pdf/1106.2593v1
+1109.4609v1,2011-09-21T18:45:03Z,Memristive fuzzy edge detector,Saeed Bagheri Shouraki,cs.NE,http://arxiv.org/pdf/1109.4609v1
+1110.4675v1,2011-10-21T00:45:53Z,Formal Verification of an Iterative Low-Power x86 Floating-Point   Multiplier with Redundant Feedback,Peter-Michael Seidel,cs.LO,http://arxiv.org/pdf/1110.4675v1
+1111.4362v1,2011-11-18T13:40:16Z,Hardware Implementation of Successive Cancellation Decoders for Polar   Codes,Warren J. Gross,cs.AR,http://arxiv.org/pdf/1111.4362v1
+1202.1782v1,2012-02-08T17:50:33Z,Cross-point architecture for spin transfer torque magnetic random access   memory,Pascale Mazoyer,cs.ET,http://arxiv.org/pdf/1202.1782v1
+1208.6428v1,2012-08-31T09:04:05Z,A Hardware Time Manager Implementation for the Xenomai Real-Time Kernel   of Embedded Linux,Jalil Boukhobza,cs.OS,http://arxiv.org/pdf/1208.6428v1
+1209.4818v3,2012-09-21T13:46:26Z,Recursive Descriptions of Polar Codes,Simon Litsyn,cs.IT,http://arxiv.org/pdf/1209.4818v3
+1212.6303v1,2012-12-27T05:16:25Z,A brief experience on journey through hardware developments for image   processing and its applications on Cryptography,Suman Sau,cs.AR,http://arxiv.org/pdf/1212.6303v1
+1303.4949v1,2013-03-20T14:25:14Z,FreeIMU: An Open Hardware Framework for Orientation and Motion Sensing,Fabio Varesano,cs.ET,http://arxiv.org/pdf/1303.4949v1
+1303.7127v3,2013-03-28T14:04:54Z,Hardware Architecture for List SC Decoding of Polar Codes,A. Burg,cs.IT,http://arxiv.org/pdf/1303.7127v3
+1304.7858v1,2013-04-30T04:14:22Z,Abstract Stobjs and Their Application to ISA Modeling,Matt Kaufmann,cs.LO,http://arxiv.org/pdf/1304.7858v1
+1307.7154v2,2013-07-26T20:07:04Z,Fast Polar Decoders: Algorithm and Implementation,Warren J. Gross,cs.AR,http://arxiv.org/pdf/1307.7154v2
+1310.1032v1,2013-10-03T16:49:55Z,Janus II: a new generation application-driven computer for spin-system   simulations,D. Yllanes,cs.AR,http://arxiv.org/pdf/1310.1032v1
+1310.1712v2,2013-10-07T09:29:02Z,Partial Sums Computation In Polar Codes Decoding,Dominique Dallet,cs.AR,http://arxiv.org/pdf/1310.1712v2
+1311.1741v2,2013-11-07T17:00:02Z,Architectural improvements and 28 nm FPGA implementation of the APEnet+   3D Torus network for hybrid HPC systems,Piero Vicini,cs.AR,http://arxiv.org/pdf/1311.1741v2
+1405.0413v1,2014-05-02T14:29:02Z,Multiplierless Approximate 4-point DCT VLSI Architectures for Transform   Block Coding,U. S. Potluri,cs.AR,http://arxiv.org/pdf/1405.0413v1
+1507.08340v1,2015-07-29T22:59:49Z,How Data Volume Affects Spark Based Data Analytics on a Scale-up Server,Eduard Ayguade,cs.DC,http://arxiv.org/pdf/1507.08340v1
+1003.3792v1,2010-03-19T13:41:21Z,"On Complexity, Energy- and Implementation-Efficiency of Channel Decoders",Heinrich Meyr,cs.IT,http://arxiv.org/pdf/1003.3792v1
+1112.1616v1,2011-12-07T16:34:34Z,Multiplexed multiple-τ auto- and cross- correlators on a single   FPGA,György Vámosi,physics.optics,http://arxiv.org/pdf/1112.1616v1
+1305.0185v1,2013-05-01T14:40:30Z,A 2.0 Gb/s Throughput Decoder for QC-LDPC Convolutional Codes,Wai M. Tam,cs.IT,http://arxiv.org/pdf/1305.0185v1
+1306.6133v2,2013-06-26T05:12:46Z,Dynamic Computing Random Access Memory,Massimiliano Di Ventra,cs.ET,http://arxiv.org/pdf/1306.6133v2
+1308.4169v1,2013-08-08T14:29:58Z,"Ultra-low Energy, High Performance and Programmable Magnetic Threshold   Logic",Kaushik Roy,cs.ET,http://arxiv.org/pdf/1308.4169v1
+1308.4672v1,2013-08-08T15:29:45Z,"Ultra-low Energy, High-Performance Dynamic Resistive Threshold Logic",Kaushik Roy,cs.ET,http://arxiv.org/pdf/1308.4672v1
+1312.4587v1,2013-12-16T23:01:46Z,FFTPL: An Analytic Placement Algorithm Using Fast Fourier Transform for   Density Equalization,Chung-Kuan Cheng,cs.CE,http://arxiv.org/pdf/1312.4587v1
+1402.4013v1,2014-02-17T14:23:34Z,The Short-term Memory (D.C. Response) of the Memristor Demonstrates the   Causes of the Memristor Frequency Effect,Andrew Adamatzky,cs.ET,http://arxiv.org/pdf/1402.4013v1
+1402.4036v1,2014-02-17T15:40:49Z,Is Spiking Logic the Route to Memristor-Based Computers?,Andrew Adamatzky,cs.ET,http://arxiv.org/pdf/1402.4036v1
+1402.4914v1,2014-02-20T07:17:03Z,"Building fast Bayesian computing machines out of intentionally   stochastic, digital parts",Eric Jonas,cs.AI,http://arxiv.org/pdf/1402.4914v1
+1403.3759v3,2014-03-15T06:23:28Z,Parallel Interleaver Design for a High Throughput HSPA+/LTE   Multi-Standard Turbo Decoder,Yuanbin Guo,cs.IT,http://arxiv.org/pdf/1403.3759v3
+1408.4423v2,2014-08-18T18:43:54Z,Proceedings of the First International Workshop on FPGAs for Software   Programmers (FSP 2014),Daniel Ziener,cs.AR,http://arxiv.org/pdf/1408.4423v2
+1409.0736v1,2014-09-02T14:53:09Z,On Delay Faults Affecting I/O Blocks of an SRAM-Based FPGA Due to   Ionizing Radiations,Yves Audet,physics.space-ph,http://arxiv.org/pdf/1409.0736v1
+1409.4744v2,2014-09-16T19:39:49Z,An Efficient List Decoder Architecture for Polar Codes,Zhiyuan Yan,cs.AR,http://arxiv.org/pdf/1409.4744v2
+1409.5567v1,2014-09-19T09:30:49Z,Rank-Aware Dynamic Migrations and Adaptive Demotions for DRAM Power   Management,Minyi Guo,cs.PF,http://arxiv.org/pdf/1409.5567v1
+1410.1267v1,2014-10-06T06:52:57Z,Memristive Threshold Logic Circuit Design of Fast Moving Object   Detection,Alex Pappachen James,cs.CV,http://arxiv.org/pdf/1410.1267v1
+1410.4460v2,2014-10-16T15:07:54Z,On Metric Sorting for Successive Cancellation List Decoding of Polar   Codes,Andreas Burg,cs.AR,http://arxiv.org/pdf/1410.4460v2
+1410.8772v1,2014-10-30T08:29:11Z,Programming the Adapteva Epiphany 64-core Network-on-chip Coprocessor,Alistair P. Rendell,cs.AR,http://arxiv.org/pdf/1410.8772v1
+1502.07241v2,2015-02-25T16:52:56Z,Proceedings of the DATE Friday Workshop on Heterogeneous Architectures   and Design Methods for Embedded Image Systems (HIS 2015),Anton Lokhmotov,cs.AR,http://arxiv.org/pdf/1502.07241v2
+1502.07449v1,2015-02-26T06:18:04Z,Concept for a CMOS Image Sensor Suited for Analog Image Pre-Processing,Thomas Ussmueller,cs.ET,http://arxiv.org/pdf/1502.07449v1
+1503.01416v1,2015-03-03T18:38:33Z,Disaggregated and optically interconnected memory: when will it be cost   effective?,Marc A. Taubenblatt,cs.DC,http://arxiv.org/pdf/1503.01416v1
+1503.02986v3,2015-03-10T16:54:39Z,Strategies for High-Throughput FPGA-based QC-LDPC Decoder Architecture,Predrag Spasojevic,cs.AR,http://arxiv.org/pdf/1503.02986v3
+1503.03880v4,2015-03-12T20:23:12Z,Modeling and Energy Optimization of LDPC Decoder Circuits with Timing   Violations,Warren J. Gross,cs.IT,http://arxiv.org/pdf/1503.03880v4
+1503.08659v3,2015-03-30T13:02:53Z,"Binary Adder Circuits of Asymptotically Minimum Depth, Linear Size, and   Fan-Out Two",Sophie Theresa Spirkl,cs.AR,http://arxiv.org/pdf/1503.08659v3
+1503.08819v1,2015-03-30T08:05:30Z,FPGA based High Speed Data Acquisition System for High Energy Physics   Application,Subhasis Chattopadhyay,physics.ins-det,http://arxiv.org/pdf/1503.08819v1
+1504.06357v1,2015-04-23T22:36:46Z,Overview of Swallow --- A Scalable 480-core System for Investigating the   Performance and Energy Efficiency of Many-core Applications and Operating   Systems,Steve Kerrison,cs.DC,http://arxiv.org/pdf/1504.06357v1
+1508.06320v1,2015-08-25T22:17:22Z,Proceedings of the Second International Workshop on FPGAs for Software   Programmers (FSP 2015),Daniel Ziener,cs.AR,http://arxiv.org/pdf/1508.06320v1
+1508.07123v1,2015-08-28T08:33:15Z,Proposal of ROS-compliant FPGA Component for Low-Power Robotic Systems,Takashi Yokota,cs.AR,http://arxiv.org/pdf/1508.07123v1
+1509.00040v1,2015-08-27T12:23:57Z,DSL-based Design Space Exploration for Temporal and Spatial Parallelism   of Custom Stream Computing,Kentaro Sano,cs.AR,http://arxiv.org/pdf/1509.00040v1
+1512.03128v2,2015-12-10T02:34:13Z,Partitioned Successive-Cancellation List Decoding of Polar Codes,Warren J. Gross,cs.AR,http://arxiv.org/pdf/1512.03128v2
+1603.02580v2,2016-03-07T19:22:13Z,On the infeasibility of analysing worst-case dynamic energy,Kerstin Eder,cs.CC,http://arxiv.org/pdf/1603.02580v2
+1603.05273v2,2016-03-16T20:49:30Z,Fast Low-Complexity Decoders for Low-Rate Polar Codes,Warren J. Gross,cs.IT,http://arxiv.org/pdf/1603.05273v2
+1603.07055v1,2016-03-23T02:48:35Z,LLR-based Successive-Cancellation List Decoder for Polar Codes with   Multi-bit Decision,Keshab K. Parhi,cs.IT,http://arxiv.org/pdf/1603.07055v1
+1603.07400v2,2016-03-24T00:52:22Z,A Reconfigurable Low Power High Throughput Architecture for Deep Network   Training,Tarek Taha,cs.LG,http://arxiv.org/pdf/1603.07400v2
+1603.09062v1,2016-03-30T07:44:23Z,FPGA Impementation of Erasure-Only Reed Solomon Decoders for Hybrid-ARQ   Systems,Ertugrul Kolagasioglu,cs.AR,http://arxiv.org/pdf/1603.09062v1
+1604.05897v2,2016-04-20T11:18:06Z,CLAASIC: a Cortex-Inspired Hardware Accelerator,José Ángel Gregorio,cs.ET,http://arxiv.org/pdf/1604.05897v2
+1604.08484v1,2016-04-28T16:00:38Z,Architectural Impact on Performance of In-memory Data Analytics: Apache   Spark Case Study,Eduard Ayguade,cs.DC,http://arxiv.org/pdf/1604.08484v1
+1605.01345v1,2016-05-04T17:04:37Z,A Linearization Technique for Self-Interference Cancellation in   Full-Duplex Radios,Radha Krishna Ganti,cs.NI,http://arxiv.org/pdf/1605.01345v1
+1606.04074v2,2016-06-13T19:16:52Z,ENTRA: Whole-Systems Energy Transparency,Mads Rosendahl,cs.AR,http://arxiv.org/pdf/1606.04074v2
+1606.05487v3,2016-06-17T11:48:29Z,YodaNN: An Architecture for Ultra-Low Power Binary-Weight CNN   Acceleration,Luca Benini,cs.AR,http://arxiv.org/pdf/1606.05487v3
+1607.04549v2,2016-07-15T15:16:03Z,DiaSys: Improving SoC Insight Through On-Chip Diagnosis,Andreas Herkersdorf,cs.DC,http://arxiv.org/pdf/1607.04549v2
+1608.05930v1,2016-08-21T12:45:43Z,FPGA Design for Pseudorandom Number Generator Based on Chaotic Iteration   used in Information Hiding Application,Laurent Larger,cs.CR,http://arxiv.org/pdf/1608.05930v1
+1609.08192v1,2016-09-15T10:30:00Z,FPGA Implementation of High Speed Reconfigurable Filter Bank for   Multi-standard Wireless Communication Receivers,S. J. Darak,cs.IT,http://arxiv.org/pdf/1609.08192v1
+1610.02273v2,2016-10-06T05:28:33Z,Near-Data Processing for Machine Learning,Sungroh Yoon,cs.AR,http://arxiv.org/pdf/1610.02273v2
+1610.06050v1,2016-10-18T11:46:19Z,A 9.96 dB NCG FEC scheme and 164 bits/cycle low-complexity product   decoder architecture,Warren J. Gross,cs.AR,http://arxiv.org/pdf/1610.06050v1
+1610.06920v1,2016-10-20T22:16:05Z,Bit-pragmatic Deep Neural Network Computing,A. Moshovos,cs.LG,http://arxiv.org/pdf/1610.06920v1
+1611.04474v1,2016-11-11T01:38:14Z,Revisiting FPGA Acceleration of Molecular Dynamics Simulation with   Dynamic Data Flow Behavior in High-Level Synthesis,Peng Wei,physics.comp-ph,http://arxiv.org/pdf/1611.04474v1
+1612.02913v2,2016-12-09T04:41:25Z,Field-Programmable Crossbar Array (FPCA) for Reconfigurable Computing,Wei D. Lu,cs.ET,http://arxiv.org/pdf/1612.02913v2
+1612.04197v1,2016-12-12T09:11:13Z,An Artificial Neural Networks based Temperature Prediction Framework for   Network-on-Chip based Multicore Platform,Sandeep Aswath Narayana,cs.DC,http://arxiv.org/pdf/1612.04197v1
+1612.07119v1,2016-12-01T22:19:47Z,"FINN: A Framework for Fast, Scalable Binarized Neural Network Inference",Kees Vissers,cs.CV,http://arxiv.org/pdf/1612.07119v1
+1612.08163v1,2016-12-24T10:55:46Z,Application-aware Retiming of Accelerators: A High-level Data-driven   Approach,Steve Furber,cs.AR,http://arxiv.org/pdf/1612.08163v1
+1701.03534v1,2017-01-13T00:31:15Z,An OpenCL(TM) Deep Learning Accelerator on Arria 10,Gordon R. Chiu,cs.DC,http://arxiv.org/pdf/1701.03534v1
+1701.03709v1,2017-01-13T16:15:53Z,Power and Execution Time Measurement Methodology for SDF Applications on   FPGA-based MPSoCs,Ralf Stemmer,cs.DC,http://arxiv.org/pdf/1701.03709v1
+1702.00208v1,2017-02-01T11:04:34Z,Machines and Algorithms,Peter A Boyle,hep-lat,http://arxiv.org/pdf/1702.00208v1
+1702.03449v1,2017-02-11T19:36:49Z,1-bit Massive MU-MIMO Precoding in VLSI,Christoph Studer,cs.IT,http://arxiv.org/pdf/1702.03449v1
+cs/9903009v1,1999-03-10T19:01:02Z,Space-Efficient Routing Tables for Almost All Networks and the   Incompressibility Method,Paul Vitanyi,cs.DC,http://arxiv.org/pdf/cs/9903009v1
+cs/0605119v1,2006-05-25T04:39:11Z,An Internet-enabled technology to support Evolutionary Design,K. Ueda,cs.CE,http://arxiv.org/pdf/cs/0605119v1
+nlin/0506030v2,2005-06-13T14:05:38Z,Chaos in computer performance,Olivier Temam,nlin.AO,http://arxiv.org/pdf/nlin/0506030v2
+1310.4349v2,2013-10-16T12:31:01Z,An Improved Majority-Logic Decoder Offering Massively Parallel Decoding   for Real-Time Control in Embedded Systems,Michael Huber,cs.IT,http://arxiv.org/pdf/1310.4349v2
+1305.1459v1,2013-05-07T10:22:31Z,EURETILE 2010-2012 summary: first three years of activity of the   European Reference Tiled Experiment,Piero Vicini,cs.DC,http://arxiv.org/pdf/1305.1459v1
+1502.04221v1,2015-02-14T16:14:05Z,A Row-parallel 8$\times$8 2-D DCT Architecture Using Algebraic Integer   Based Exact Computation,A. Edirisuriya,cs.AR,http://arxiv.org/pdf/1502.04221v1
+1606.05562v1,2016-05-27T01:19:46Z,An Orthogonal 16-point Approximate DCT for Image and Video Compression,A. J. Kozakevicius,cs.IT,http://arxiv.org/pdf/1606.05562v1
+cs/0309018v1,2003-09-11T18:37:09Z,Using Propagation for Solving Complex Arithmetic Constraints,B. Moa,cs.NA,http://arxiv.org/pdf/cs/0309018v1
+1702.01805v1,2017-02-06T22:00:34Z,A Digital Hardware Fast Algorithm and FPGA-based Prototype for a Novel   16-point Approximate DCT for Image Compression Applications,A. Madanayake,cs.MM,http://arxiv.org/pdf/1702.01805v1

@@ -1,0 +1,319 @@
+cs/0111035v1,2001-11-10T03:30:11Z,Open Source Real Time Operating Systems Overview,Till Straumann,cs.OS,http://arxiv.org/pdf/cs/0111035v1
+cs/0411080v1,2004-11-23T16:52:26Z,Modeling the input history of programs for improved instruction-memory   performance,V. C. Barbosa,cs.OS,http://arxiv.org/pdf/cs/0411080v1
+cs/0502027v1,2005-02-04T22:48:31Z,"Markets are Dead, Long Live Markets",Kevin Lai,cs.OS,http://arxiv.org/pdf/cs/0502027v1
+cs/0511010v1,2005-11-02T19:52:58Z,A Survey of Virtualization Techniques Focusing on Secure On-Demand   Cluster Computing,Nadir Kiyanclar,cs.OS,http://arxiv.org/pdf/cs/0511010v1
+cs/0611055v1,2006-11-14T10:11:34Z,A Low-Footprint Class Loading Mechanism for Embedded Java Virtual   Machines,Gilles Grimaud,cs.OS,http://arxiv.org/pdf/cs/0611055v1
+cs/0612079v2,2006-12-16T21:37:00Z,Executing the same binary on several operating systems,Steffen Grønneberg,cs.OS,http://arxiv.org/pdf/cs/0612079v2
+0710.4635v1,2007-10-25T08:09:07Z,OS Debugging Method Using a Lightweight Virtual Machine Monitor,Tadashi Takeuchi,cs.OS,http://arxiv.org/pdf/0710.4635v1
+0710.4746v1,2007-10-25T09:47:35Z,RTK-Spec TRON: A Simulation Model of an ITRON Based RTOS Kernel in   SystemC,Masaharu Imai,cs.OS,http://arxiv.org/pdf/0710.4746v1
+0712.2958v2,2007-12-18T13:42:45Z,Power-Aware Real-Time Scheduling upon Identical Multiprocessor Platforms,Dragomir Milojevic,cs.OS,http://arxiv.org/pdf/0712.2958v2
+0801.4292v1,2008-01-28T14:30:34Z,Exact Feasibility Tests for Real-Time Scheduling of Periodic Tasks upon   Multiprocessor Platforms,Joël Goossens,cs.OS,http://arxiv.org/pdf/0801.4292v1
+0803.4308v2,2008-03-30T09:26:38Z,Discrete Frequency Selection of Frame-Based Stochastic Real-Time Tasks,Tei-Wei Kuo,cs.OS,http://arxiv.org/pdf/0803.4308v2
+0805.0200v2,2008-05-02T09:32:03Z,"(m,k)-firm constraints and DBP scheduling: impact of the initial   k-sequence and exact schedulability test",Joël Goossens,cs.OS,http://arxiv.org/pdf/0805.0200v2
+0805.3237v1,2008-05-21T09:38:15Z,Integrating Job Parallelism in Real-Time Scheduling Theory,J. Goossens,cs.OS,http://arxiv.org/pdf/0805.3237v1
+0806.0132v1,2008-06-01T08:30:10Z,Control-theoretic dynamic voltage scaling for embedded controllers,Jinxiang Dong,cs.OS,http://arxiv.org/pdf/0806.0132v1
+0806.1381v1,2008-06-09T07:23:28Z,Feedback Scheduling: An Event-Driven Paradigm,Youxian Sun,cs.OS,http://arxiv.org/pdf/0806.1381v1
+0809.1132v1,2008-09-06T04:38:34Z,Managing Varying Worst Case Execution Times on DVS Platforms,Tei-Wei Kuo,cs.OS,http://arxiv.org/pdf/0809.1132v1
+0809.4082v1,2008-09-24T06:10:39Z,Multiprocessor Global Scheduling on Frame-Based DVFS Systems,Joël Goossens,cs.OS,http://arxiv.org/pdf/0809.4082v1
+0809.5238v1,2008-09-30T15:55:04Z,Mode Change Protocol for Multi-Mode Real-Time Systems upon Identical   Multiprocessors,Joël Goossens,cs.OS,http://arxiv.org/pdf/0809.5238v1
+0906.0268v1,2009-06-01T12:10:10Z,MORA: an Energy-Aware Slack Reclamation Scheme for Scheduling Sporadic   Real-Time Tasks upon Multiprocessor Platforms,Joel Goossens,cs.OS,http://arxiv.org/pdf/0906.0268v1
+0908.3519v1,2009-08-25T12:46:56Z,Predictability of Fixed-Job Priority Schedulers on Heterogeneous   Multiprocessor Real-Time Systems,Joël Goossens,cs.OS,http://arxiv.org/pdf/0908.3519v1
+0912.0606v1,2009-12-03T09:06:59Z,A New Scheduling Algorithms For Real Time Tasks,Dr. R. Ramesh,cs.OS,http://arxiv.org/pdf/0912.0606v1
+0912.0926v2,2009-12-04T20:10:12Z,Deterministic Consistency: A Programming Model for Shared Memory   Parallelism,Bryan Ford,cs.OS,http://arxiv.org/pdf/0912.0926v2
+1001.3727v1,2010-01-21T06:02:41Z,Fault Tolerance in Real Time Multiprocessors - Embedded Systems,T. R. Gopalakrishnan Nair,cs.OS,http://arxiv.org/pdf/1001.3727v1
+1004.3687v1,2010-04-21T12:31:53Z,Scheduling Multi-Mode Real-Time Systems upon Uniform Multiprocessor   Platforms,Joël Goossens,cs.OS,http://arxiv.org/pdf/1004.3687v1
+1004.3715v1,2010-04-21T14:24:13Z,Multi-Criteria Evaluation of Partitioning Schemes for Real-Time Systems,Joël Goossens,cs.OS,http://arxiv.org/pdf/1004.3715v1
+1011.1735v1,2010-11-08T09:07:54Z,Use of Data Mining in Scheduler Optimization,Fulufhelo V. Nelwamondo,cs.OS,http://arxiv.org/pdf/1011.1735v1
+1012.2831v2,2010-12-13T18:47:10Z,Sesame: Self-Constructive System Energy Modeling for Battery-Powered   Mobile Systems,Lin Zhong,cs.OS,http://arxiv.org/pdf/1012.2831v2
+1012.3452v1,2010-12-15T20:38:40Z,Customer Appeasement Scheduling,Anil Maheshwari,cs.OS,http://arxiv.org/pdf/1012.3452v1
+1012.4045v1,2010-12-18T00:51:57Z,Application of Global and One-Dimensional Local Optimization to   Operating System Scheduler Tuning,Fulufhelo Vincent Nelwamondo,cs.OS,http://arxiv.org/pdf/1012.4045v1
+1012.5695v1,2010-12-28T04:35:02Z,Dynamic Scheduling of Skippable Periodic Tasks with Energy Efficiency in   Weakly Hard Real-Time System,P. Thambidurai,cs.OS,http://arxiv.org/pdf/1012.5695v1
+1012.5929v1,2010-12-29T12:41:13Z,Exact Schedulability Test for global-EDF Scheduling of Periodic Hard   Real-Time Tasks on Identical Multiprocessors,Patrick Meumeu Yomsi,cs.OS,http://arxiv.org/pdf/1012.5929v1
+1101.1466v1,2011-01-06T10:28:58Z,Comparison of Loss ratios of different scheduling algorithms,Debasis Sengupta,cs.OS,http://arxiv.org/pdf/1101.1466v1
+1102.2094v1,2011-02-10T12:15:58Z,Global Scheduling of Multi-Mode Real-Time Applications upon   Multiprocessor Platforms,Joël Goossens,cs.OS,http://arxiv.org/pdf/1102.2094v1
+1105.1736v1,2011-05-09T17:29:03Z,Priority Based Dynamic Round Robin (PBDRR) Algorithm with Intelligent   Time Slice for Soft Real Time Systems,M. Lakshmi Prasanna,cs.OS,http://arxiv.org/pdf/1105.1736v1
+1105.5080v1,2011-05-25T16:15:35Z,Scheduling of Hard Real-Time Multi-Thread Periodic Tasks,Joël Goossens,cs.OS,http://arxiv.org/pdf/1105.5080v1
+1107.4786v1,2011-07-24T19:39:02Z,Towards Bridging IoT and Cloud Services: Proposing Smartphones as Mobile   and Autonomic Service Gateways,Julien Ponge,cs.OS,http://arxiv.org/pdf/1107.4786v1
+1109.2638v1,2011-09-12T21:49:38Z,Light-weight Locks,Fabiano C. Botelho,cs.OS,http://arxiv.org/pdf/1109.2638v1
+1109.3075v1,2011-09-14T13:26:07Z,Design and Performance Evaluation of A New Proposed Fittest Job First   Dynamic Round Robin(FJFDRR) Scheduling Algorithm,Sudhashree,cs.OS,http://arxiv.org/pdf/1109.3075v1
+1109.3076v1,2011-09-14T13:32:55Z,Comparative performance analysis of multi dynamic time quantum Round   Robin(MDTQRR) algorithm with arrival time,Sourav Kumar Bhoi,cs.OS,http://arxiv.org/pdf/1109.3076v1
+1110.5793v1,2011-10-26T13:53:41Z,Sufficient FTP Schedulability Test for the Non-Cyclic Generalized   Multiframe Task Model,Joël Goossens,cs.OS,http://arxiv.org/pdf/1110.5793v1
+1111.5348v1,2011-11-22T21:44:25Z,A New Round Robin Based Scheduling Algorithm for Operating Systems:   Dynamic Quantum Using the Mean Average,Seifedine Kadry,cs.OS,http://arxiv.org/pdf/1111.5348v1
+1202.4030v1,2012-02-17T22:33:12Z,AdSplit: Separating smartphone advertising from applications,Dan S. Wallach,cs.OS,http://arxiv.org/pdf/1202.4030v1
+1204.0197v1,2012-04-01T11:05:34Z,Windows And Linux Operating Systems From A Security Perspective,Youssef Bassil,cs.OS,http://arxiv.org/pdf/1204.0197v1
+1205.0124v1,2012-05-01T09:17:43Z,Schedulability Test for Soft Real-Time Systems under Multiprocessor   Environment by using an Earliest Deadline First Scheduling Algorithm,Satyendra Prasad Singh,cs.OS,http://arxiv.org/pdf/1205.0124v1
+1205.1687v1,2012-05-08T13:12:27Z,Age Based User Interface in Mobile Operating System,Aditya Mahajan,cs.OS,http://arxiv.org/pdf/1205.1687v1
+1205.6423v1,2012-05-29T17:10:29Z,Proposed Challenges And Areas of Concern in Operating System Research   and Development,G. N. Anil,cs.OS,http://arxiv.org/pdf/1205.6423v1
+1206.0396v1,2012-06-02T18:22:37Z,Energy-Aware Task Partitioning on Heterogeneous Multiprocessor Platforms,Abdullah Elewi,cs.OS,http://arxiv.org/pdf/1206.0396v1
+1207.1591v1,2012-07-06T11:48:24Z,A Secure Dynamic Job Scheduling on Smart Grid using RSA Algorithm,S. Siva Ramaiah,cs.OS,http://arxiv.org/pdf/1207.1591v1
+1208.6390v1,2012-08-31T06:31:48Z,Performance Evaluation of Flash File Systems,Eric Senn,cs.OS,http://arxiv.org/pdf/1208.6390v1
+1209.4600v1,2012-09-19T03:59:12Z,Classification Of Heterogeneous Operating System,T. V. Prasad,cs.OS,http://arxiv.org/pdf/1209.4600v1
+1210.6447v1,2012-10-24T07:56:48Z,Disk Scheduling: Selection of Algorithm,Om Prakash,cs.OS,http://arxiv.org/pdf/1210.6447v1
+1212.1787v1,2012-12-08T12:56:49Z,A Generic Checkpoint-Restart Mechanism for Virtual Machines,Gene Cooperman,cs.OS,http://arxiv.org/pdf/1212.1787v1
+1212.3502v1,2012-12-14T15:33:45Z,Adaptive Scheduling in Real-Time Systems Through Period Adjustment,Shri Prakash Dwivedi,cs.OS,http://arxiv.org/pdf/1212.3502v1
+1302.1747v1,2013-02-07T13:52:09Z,Energy Minimization for Parallel Real-Time Systems with Malleable Jobs   and Homogeneous Frequencies,Antonio Paolillo,cs.OS,http://arxiv.org/pdf/1302.1747v1
+1302.5109v1,2013-02-20T15:50:29Z,Capturing Information Flows inside Android and Qemu Environments,Francesco Tisato,cs.OS,http://arxiv.org/pdf/1302.5109v1
+1302.5502v1,2013-02-22T07:32:48Z,LFTL: A multi-threaded FTL for a Parallel IO Flash Card under Linux,Giridhar Appaji Nag Yasa,cs.OS,http://arxiv.org/pdf/1302.5502v1
+1304.3557v1,2013-04-12T07:33:42Z,Survey of Server Virtualization,Asmaa Y. Hamo,cs.OS,http://arxiv.org/pdf/1304.3557v1
+1304.3771v1,2013-04-13T04:04:08Z,Making I/O Virtualization Easy with Device Files,Quinn Jacobson,cs.OS,http://arxiv.org/pdf/1304.3771v1
+1304.6067v1,2013-04-22T19:29:05Z,Invasive Computing - Common Terms and Granularity of Invasion,Andreas Herkersdorf,cs.OS,http://arxiv.org/pdf/1304.6067v1
+1304.7001v1,2013-04-25T11:10:38Z,Network Control Systems RTAI framework A Review,Urmila Shrawankar,cs.OS,http://arxiv.org/pdf/1304.7001v1
+1307.4165v1,2013-07-16T05:21:34Z,A Comparative Study of CPU Scheduling Algorithms,R. B. Garg,cs.OS,http://arxiv.org/pdf/1307.4165v1
+1307.4167v1,2013-07-16T05:25:16Z,An Optimum Multilevel Dynamic Round Robin Scheduling Algorithm,R. B. Garg,cs.OS,http://arxiv.org/pdf/1307.4167v1
+1310.6298v1,2013-10-23T17:14:25Z,The Quest-V Separation Kernel for Mixed Criticality Systems,Eric Missimer,cs.OS,http://arxiv.org/pdf/1310.6298v1
+1310.6301v1,2013-10-23T17:29:42Z,Predictable Migration and Communication in the Quest-V Multikernel,Richard West,cs.OS,http://arxiv.org/pdf/1310.6301v1
+1310.6349v1,2013-10-23T17:35:03Z,Quest-V: A Virtualized Multikernel for Safety-Critical Real-Time Systems,Eric Missimer,cs.OS,http://arxiv.org/pdf/1310.6349v1
+1404.0088v1,2014-04-01T00:40:01Z,Toward Parametric Timed Interfaces for Real-Time Components,Laurent Fribourg,cs.OS,http://arxiv.org/pdf/1404.0088v1
+1404.1637v1,2014-04-06T23:53:01Z,An Enhanced Multi-Pager Environment Support for Second Generation   Microkernels,Yauhen Klimiankou,cs.OS,http://arxiv.org/pdf/1404.1637v1
+1404.5869v1,2014-04-23T15:55:50Z,An Effective Round Robin Algorithm using Min-Max Dispersion Measure,Sourav Kumar Bhoi,cs.OS,http://arxiv.org/pdf/1404.5869v1
+1404.6087v1,2014-04-24T11:06:06Z,Enhancing CPU Performance using Subcontrary Mean Dynamic Round Robin   (SMDRR) Scheduling Algorithm,Debashee Tarai,cs.OS,http://arxiv.org/pdf/1404.6087v1
+1405.2912v1,2014-05-12T16:41:23Z,Heterogeneity-aware Fault Tolerance using a Self-Organizing Runtime   System,Wolfgang Karl,cs.OS,http://arxiv.org/pdf/1405.2912v1
+1405.7322v1,2014-05-28T18:28:45Z,Supporting Soft Real-Time Sporadic Task Systems on Heterogeneous   Multiprocessors with No Utilization Loss,Cong Liu,cs.OS,http://arxiv.org/pdf/1405.7322v1
+1003.1336v2,2010-03-05T20:34:44Z,FIFO anomaly is unbounded,Antal Ivanyi,cs.OS,http://arxiv.org/pdf/1003.1336v2
+1003.4088v1,2010-03-22T06:52:12Z,Proficient Pair of Replacement Algorithms on L1 and L2 Cache for Merge   Sort,Sanjiv Tokekar,cs.OS,http://arxiv.org/pdf/1003.4088v1
+1003.5525v1,2010-03-29T12:51:23Z,Searching publications on operating systems,C. A. Middelburg,cs.OS,http://arxiv.org/pdf/1003.5525v1
+1006.0813v1,2010-06-04T09:03:39Z,On the definition of a theoretical concept of an operating system,C. A. Middelburg,cs.OS,http://arxiv.org/pdf/1006.0813v1
+1006.2104v1,2010-06-10T18:13:36Z,Perbandingan Shell Unix,Spits Warnars H. L. H,cs.OS,http://arxiv.org/pdf/1006.2104v1
+1006.2617v1,2010-06-14T07:17:14Z,Gang FTP scheduling of periodic and parallel rigid real-time tasks,Vandy Berten,cs.OS,http://arxiv.org/pdf/1006.2617v1
+1006.2637v1,2010-06-14T08:51:05Z,Semi-Partitioned Hard Real-Time Scheduling with Restricted Migrations   upon Identical Multiprocessor Platforms,Pascal Richard,cs.OS,http://arxiv.org/pdf/1006.2637v1
+1103.1717v1,2011-03-09T07:25:00Z,Efficient and Playful Tools to Teach Unix to New Students,Matthieu Moy,cs.OS,http://arxiv.org/pdf/1103.1717v1
+1103.2336v1,2011-03-11T18:36:38Z,Building XenoBuntu Linux Distribution for Teaching and Prototyping   Real-Time Operating Systems,Slim Ben Saoud,cs.OS,http://arxiv.org/pdf/1103.2336v1
+1103.3831v1,2011-03-20T06:45:16Z,A New Proposed Dynamic Quantum with Re-Adjusted Round Robin Scheduling   Algorithm and Its Performance Analysis,Debashree Nayak,cs.OS,http://arxiv.org/pdf/1103.3831v1
+1103.3832v1,2011-03-20T06:56:27Z,A New Dynamic Round Robin and SRTN Algorithm with Variable Original Time   Slice and Intelligent Time Slice for Soft Real Time Systems,Bijayalakshmi Panda,cs.OS,http://arxiv.org/pdf/1103.3832v1
+1104.3523v1,2011-04-18T15:39:21Z,An Optimal Real-Time Scheduling Approach: From Multiprocessor to   Uniprocessor,Ernesto Massa,cs.OS,http://arxiv.org/pdf/1104.3523v1
+1112.4451v2,2011-12-19T20:07:54Z,What is an OS?,Abhijat Vichare,cs.OS,http://arxiv.org/pdf/1112.4451v2
+1112.5136v1,2011-12-21T19:02:12Z,Quest-V: A Virtualized Multikernel for High-Confidence Systems,Richard West,cs.OS,http://arxiv.org/pdf/1112.5136v1
+1211.4840v1,2012-11-20T19:38:00Z,Multicore Dynamic Kernel Modules Attachment Technique for Kernel   Performance Enhancement,Mohamed Farag,cs.OS,http://arxiv.org/pdf/1211.4840v1
+1305.3345v1,2013-05-15T02:53:19Z,Augmenting Operating Systems With the GPU,Robert Ricci,cs.OS,http://arxiv.org/pdf/1305.3345v1
+1305.3849v1,2013-05-16T15:54:12Z,On the periodic behavior of real-time schedulers on identical   multiprocessor platforms,Liliana Cucu-Grosjean,cs.OS,http://arxiv.org/pdf/1305.3849v1
+1306.1316v1,2013-06-06T06:57:57Z,Partitioned scheduling of multimode multiprocessor real-time systems   with temporal isolation,Pascal Richard,cs.OS,http://arxiv.org/pdf/1306.1316v1
+1308.1199v1,2013-08-06T07:54:19Z,Intensional view of General Single Processor Operating Systems,Abhijat Vichare,cs.OS,http://arxiv.org/pdf/1308.1199v1
+1309.3096v1,2013-09-12T10:26:10Z,Simulation of an Optimum Multilevel Dynamic Round Robin Scheduling   Algorithm,R. B. Garg,cs.OS,http://arxiv.org/pdf/1309.3096v1
+1312.1810v1,2013-12-06T09:18:04Z,File System - A Component of Operating System,Girish Pal Singh,cs.OS,http://arxiv.org/pdf/1312.1810v1
+1312.1822v1,2013-12-06T10:20:38Z,Towards the Framework of the File Systems Performance Evaluation   Techniques and the Taxonomy of Replay Traces,Tejinder Pal Singh,cs.OS,http://arxiv.org/pdf/1312.1822v1
+1312.4509v1,2013-12-16T20:32:52Z,Cache-aware static scheduling for hard real-time multicore systems based   on communication affinities,Maurice Pitel,cs.OS,http://arxiv.org/pdf/1312.4509v1
+1312.4931v1,2013-12-17T20:43:33Z,Rio: A System Solution for Sharing I/O between Mobile Systems,Lin Zhong,cs.OS,http://arxiv.org/pdf/1312.4931v1
+1312.6650v2,2013-12-23T19:19:40Z,Transparent Checkpoint-Restart for Hardware-Accelerated 3D Graphics,Gene Cooperman,cs.OS,http://arxiv.org/pdf/1312.6650v2
+1402.0631v1,2014-02-04T06:26:34Z,LWRP: Low Power Consumption Weighting Replacement Policy using Buffer   Memory,S. S. Parmar,cs.OS,http://arxiv.org/pdf/1402.0631v1
+1402.4929v1,2014-02-20T08:33:02Z,Formal Description of Components in Operating Systems,Asen Petkov Iliev,cs.OS,http://arxiv.org/pdf/1402.4929v1
+1403.0334v1,2014-03-03T08:13:29Z,Design and Performance Evaluation of an Optimized Disk Scheduling   Algorithm (ODSA),Imran Hossain Faruk,cs.OS,http://arxiv.org/pdf/1403.0334v1
+1403.0335v1,2014-03-03T08:27:29Z,A Group based Time Quantum Round Robin Algorithm using Min-Max Spread   Measure,Jitendra Kumar Rout,cs.OS,http://arxiv.org/pdf/1403.0335v1
+1403.5010v1,2014-03-20T00:34:00Z,Task & Resource Self-adaptive Embedded Real-time Operating System   Microkernel for Wireless Sensor Nodes,Hou Kun-Mean,cs.OS,http://arxiv.org/pdf/1403.5010v1
+1403.5976v1,2014-03-21T05:31:33Z,File System Design Approaches,Brijender Kahanwal,cs.OS,http://arxiv.org/pdf/1403.5976v1
+1408.0990v1,2014-08-02T19:56:24Z,Assessment of Response Time for New Multi Level Feedback Queue Scheduler,K. C. Shet,cs.OS,http://arxiv.org/pdf/1408.0990v1
+1411.3777v1,2014-11-14T02:30:08Z,Glider: A GPU Library Driver for Improved System Security,Dan S. Wallach,cs.OS,http://arxiv.org/pdf/1411.3777v1
+1501.07084v3,2015-01-28T12:38:20Z,k2U: A General Framework from k-Point Effective Schedulability Analysis   to Utilization-Based Tests,Cong Liu,cs.OS,http://arxiv.org/pdf/1501.07084v3
+1502.01509v1,2015-02-05T11:36:45Z,OS-level Failure Injection with SystemTap,Nicolas Greneche,cs.OS,http://arxiv.org/pdf/1502.01509v1
+1502.02287v1,2015-02-08T19:09:36Z,Protecting Memory-Performance Critical Sections in Soft Real-Time   Applications,Siddhartha Biswas,cs.OS,http://arxiv.org/pdf/1502.02287v1
+1504.02517v2,2015-04-09T23:17:01Z,Survey of Operating Systems for the IoT Environment,Sugata Sanyal,cs.OS,http://arxiv.org/pdf/1504.02517v2
+1504.04640v2,2015-04-17T21:13:07Z,The Influence of Malloc Placement on TSX Hardware Transactional Memory,Yossi Lev,cs.OS,http://arxiv.org/pdf/1504.04640v2
+1504.07070v2,2015-04-27T13:08:26Z,Deterministically Deterring Timing Attacks in Deterland,Bryan Ford,cs.OS,http://arxiv.org/pdf/1504.07070v2
+1505.05269v1,2015-05-20T07:47:20Z,A Survey Report on Operating Systems for Tiny Networked Sensors,Prasant Misra,cs.OS,http://arxiv.org/pdf/1505.05269v1
+1506.07566v1,2015-06-24T21:14:27Z,Optimize Unsynchronized Garbage Collection in an SSD Array,Alexander S. Szalay,cs.OS,http://arxiv.org/pdf/1506.07566v1
+1508.06356v2,2015-08-26T03:43:38Z,EOS: Automatic In-vivo Evolution of Kernel Policies for Better   Performance,Junfeng Yang,cs.OS,http://arxiv.org/pdf/1508.06356v2
+1508.06367v2,2015-08-26T05:20:50Z,A Software-only Mechanism for Device Passthrough and Sharing,Sorav Bansal,cs.OS,http://arxiv.org/pdf/1508.06367v2
+1509.07694v1,2015-09-25T12:37:09Z,Folding a Tree into a Map,Victor Yodaiken,cs.OS,http://arxiv.org/pdf/1509.07694v1
+1510.02552v1,2015-10-09T02:58:40Z,Multitasking Programming of OBDH Satellite Based On PC-104,Haryono Haryono,cs.OS,http://arxiv.org/pdf/1510.02552v1
+1511.02498v1,2015-11-08T15:44:59Z,Characteristic specific prioritized dynamic average burst round robin   scheduling for uniprocessor and multiprocessor environment,Sradhanjali Sabat,cs.OS,http://arxiv.org/pdf/1511.02498v1
+1512.00727v2,2015-12-02T15:05:46Z,TinyLFU: A Highly Efficient Cache Admission Policy,Ben Manes,cs.OS,http://arxiv.org/pdf/1512.00727v2
+1512.01978v1,2015-12-07T11:05:05Z,Real-Time scheduling: from hard to soft real-time systems,Luigi Palopoli,cs.OS,http://arxiv.org/pdf/1512.01978v1
+1512.01984v2,2015-12-07T11:16:43Z,Parallel and sequential reclaiming in multicore real-time global   scheduling,Youcheng Sun,cs.OS,http://arxiv.org/pdf/1512.01984v2
+1512.06908v1,2015-12-21T23:35:42Z,Research on Scalability of Operating Systems on Multicore Processors,Yan Cui,cs.OS,http://arxiv.org/pdf/1512.06908v1
+1512.07351v1,2015-12-23T04:39:00Z,Energy-aware Fixed-Priority Multi-core Scheduling for Real-time Systems,Junyang Lu,cs.OS,http://arxiv.org/pdf/1512.07351v1
+1512.07654v3,2015-12-23T22:41:04Z,Mixed-Criticality Scheduling with I/O,Richard West,cs.OS,http://arxiv.org/pdf/1512.07654v3
+1603.05636v1,2016-03-17T19:43:36Z,An Implementation and Analysis of a Kernel Network Stack in Go with the   CSP Style,Aashish Welling,cs.OS,http://arxiv.org/pdf/1603.05636v1
+1604.01378v1,2016-04-05T19:33:27Z,On Horizontal Decomposition of the Operating System,Lei Wang,cs.OS,http://arxiv.org/pdf/1604.01378v1
+1604.02171v1,2016-04-07T20:38:51Z,Aware: Controlling App Access to I/O Devices on Mobile Platforms,Trent Jaeger,cs.OS,http://arxiv.org/pdf/1604.02171v1
+1605.00362v1,2016-05-02T06:24:43Z,An optimized round robin cpu scheduling algorithm with dynamic time   quantum,Sanjay Kumar Samantra,cs.OS,http://arxiv.org/pdf/1605.00362v1
+1605.01168v1,2016-05-04T07:36:46Z,A Qualitative Comparison of MPSoC Mobile and Embedded Virtualization   Techniques,Sajjad A. Madani,cs.OS,http://arxiv.org/pdf/1605.01168v1
+1605.05810v1,2016-05-19T05:03:00Z,The Design of the NetBSD I/O Subsystems,SungWon Chung,cs.OS,http://arxiv.org/pdf/1605.05810v1
+1606.00111v2,2016-06-01T04:29:58Z,It's Time: OS Mechanisms for Enforcing Asymmetric Temporal Integrity,Gernot Heiser,cs.OS,http://arxiv.org/pdf/1606.00111v2
+1608.05654v1,2016-08-19T16:23:24Z,POLYPATH: Supporting Multiple Tradeoffs for Interaction Latency,Lin Zhong,cs.OS,http://arxiv.org/pdf/1608.05654v1
+1608.08051v2,2016-08-13T22:14:47Z,Duplication of Windows Services,Xin Wang,cs.OS,http://arxiv.org/pdf/1608.08051v2
+1609.00875v1,2016-09-03T23:09:11Z,Compatible and Usable Mandatory Access Control for Good-enough OS   Security,Zhiyong Shan,cs.OS,http://arxiv.org/pdf/1609.00875v1
+1609.04781v1,2016-09-15T19:18:12Z,Confining Windows Inter-Process Communications for OS-Level Virtual   Machine,Tzi-cker Chiueh,cs.OS,http://arxiv.org/pdf/1609.04781v1
+1609.04785v1,2016-09-15T19:21:22Z,Virtualizing System and Ordinary Services in Windows-based OS-Level   Virtual Machines,Xin Wang,cs.OS,http://arxiv.org/pdf/1609.04785v1
+1609.08154v1,2016-09-26T17:36:18Z,Implementing RBAC model in An Operating System Kernel,Yu-fang Sun,cs.OS,http://arxiv.org/pdf/1609.08154v1
+1609.08372v2,2016-09-27T12:21:02Z,An Evaluation of Coarse-Grained Locking for Multicore Microkernels,Gernot Heiser,cs.OS,http://arxiv.org/pdf/1609.08372v2
+1610.08129v1,2016-10-26T00:37:34Z,Memshare: a Dynamic Multi-tenant Memory Key-value Cache,Ryan Stutsman,cs.OS,http://arxiv.org/pdf/1610.08129v1
+1612.06830v1,2016-12-20T20:14:35Z,CannyFS: Opportunistically Maximizing I/O Throughput Exploiting the   Transactional Nature of Batch-Mode Data Processing,Carl Nettelblad,cs.OS,http://arxiv.org/pdf/1612.06830v1
+1702.02588v1,2017-02-08T19:21:13Z,Flashield: a Key-value Cache that Minimizes Writes to Flash,Sachin Katti,cs.OS,http://arxiv.org/pdf/1702.02588v1
+cs/9809006v1,1998-09-02T17:11:54Z,The Design and Architecture of the Microsoft Cluster Service -- A   Practical Approach to High-Availability and Scalability,Joe Barrera,cs.OS,http://arxiv.org/pdf/cs/9809006v1
+cs/9812011v1,1998-12-10T16:49:04Z,A nested transaction mechanism for LOCUS,Gerald J. Popek,cs.OS,http://arxiv.org/pdf/cs/9812011v1
+cs/9903004v4,1999-03-04T02:13:35Z,A Flit Level Simulator for Wormhole Routing,Denvil Smith,cs.DC,http://arxiv.org/pdf/cs/9903004v4
+cs/9903014v1,1999-03-22T21:24:35Z,Perpetual Adaptation of Software to Hardware: An Extensible Architecture   for Providing Code Optimization as a Central System Service,Michael Franz,cs.OS,http://arxiv.org/pdf/cs/9903014v1
+cs/9904020v1,1999-04-26T21:13:00Z,ODP channel objects that provide services transparently for distributing   processing systems,Walter Eaves,cs.DC,http://arxiv.org/pdf/cs/9904020v1
+cs/0003064v1,2000-03-15T19:20:53Z,"A network file system over HTTP: remote access and modification of files   and ""files""",Oleg Kiselyov,cs.OS,http://arxiv.org/pdf/cs/0003064v1
+cs/0006014v1,2000-06-08T16:50:24Z,Solaris System Resource Manager: All I Ever Wanted Was My Unfair   Advantage (And Why You Can't Have It!),Neil J. Gunther,cs.PF,http://arxiv.org/pdf/cs/0006014v1
+cs/0006015v2,2000-06-08T17:02:51Z,UNIX Resource Managers: Capacity Planning and Resource Issues,Neil J. Gunther,cs.PF,http://arxiv.org/pdf/cs/0006015v2
+cs/0104012v1,2001-04-07T17:17:14Z,System Support for Bandwidth Management and Content Adaptation in   Internet Applications,Hari Balakrishnan,cs.NI,http://arxiv.org/pdf/cs/0104012v1
+cs/0210031v1,2002-10-31T01:51:00Z,The Weaves Reconfigurable Programming Framework,Srinidhi Varadarajan,cs.PL,http://arxiv.org/pdf/cs/0210031v1
+cs/0302033v1,2003-02-24T22:03:30Z,Experimental Software Schedulability Estimation For Varied Processor   Frequencies,Alexander Ran,cs.SE,http://arxiv.org/pdf/cs/0302033v1
+cs/0309044v1,2003-09-23T13:57:01Z,The combinatorics of resource sharing,V. C. Barbosa,cs.OS,http://arxiv.org/pdf/cs/0309044v1
+cs/0403013v1,2004-03-11T04:01:51Z,Predictable Software -- A Shortcut to Dependable Computing ?,George Candea,cs.OS,http://arxiv.org/pdf/cs/0403013v1
+cs/0406005v3,2004-06-02T21:54:50Z,Microreboot -- A Technique for Cheap Recovery,Armando Fox,cs.OS,http://arxiv.org/pdf/cs/0406005v3
+cs/0409034v1,2004-09-17T21:51:24Z,Securing Data in Storage: A Review of Current Research,Paul Stanton,cs.OS,http://arxiv.org/pdf/cs/0409034v1
+cs/0410007v2,2004-10-04T14:49:00Z,A Shared Write-protected Root Filesystem for a Group of Networked   Clients,Ignatios Souvatzis,cs.OS,http://arxiv.org/pdf/cs/0410007v2
+cs/0412038v1,2004-12-09T01:20:39Z,"Tycoon: an Implementation of a Distributed, Market-based Resource   Allocation System",Bernardo A. Huberman,cs.DC,http://arxiv.org/pdf/cs/0412038v1
+cs/0412074v1,2004-12-17T15:38:19Z,Threats of Human Error in a High-Performance Storage System: Problem   Statement and Case Study,Elizabeth Haubert,cs.HC,http://arxiv.org/pdf/cs/0412074v1
+cs/0502012v1,2005-02-02T04:43:33Z,Sequential File Programming Patterns and Performance with .NET,Jim Gray,cs.PF,http://arxiv.org/pdf/cs/0502012v1
+cs/0502090v1,2005-02-24T14:13:56Z,UNICORE - From Project Results to Production Grids,Ph. Wieder,cs.DC,http://arxiv.org/pdf/cs/0502090v1
+cs/0503074v1,2005-03-28T15:32:43Z,A File System Abstraction for Sense and Respond Systems,Nael Abu-Ghazaleh,cs.NI,http://arxiv.org/pdf/cs/0503074v1
+cs/0507073v1,2005-07-29T19:33:13Z,Software Performance Analysis,Makan Pourzandi,cs.PF,http://arxiv.org/pdf/cs/0507073v1
+cs/0508063v1,2005-08-12T16:13:32Z,"Disks, Partitions, Volumes and RAID Performance with the Linux Operating   System",Michel R. Dagenais,cs.PF,http://arxiv.org/pdf/cs/0508063v1
+cs/0601068v1,2006-01-14T23:21:31Z,Checkbochs: Use Hardware to Check Software,Sorav Bansal,cs.OS,http://arxiv.org/pdf/cs/0601068v1
+cs/0603075v1,2006-03-18T17:11:04Z,Unmanaged Internet Protocol: Taming the Edge Network Management Crisis,Bryan Ford,cs.NI,http://arxiv.org/pdf/cs/0603075v1
+cs/0607049v2,2006-07-11T18:54:21Z,Secure Component Deployment in the OSGi(tm) Release 4 Platform,Stéphane Frénot,cs.CR,http://arxiv.org/pdf/cs/0607049v2
+cs/0701021v2,2007-01-04T09:45:28Z,The Unix KISS: A Case Study,Franco Milicchio,cs.OS,http://arxiv.org/pdf/cs/0701021v2
+cs/0701037v3,2007-01-06T11:36:50Z,DMTCP: Transparent Checkpointing for Cluster Computations and the   Desktop,Gene Cooperman,cs.DC,http://arxiv.org/pdf/cs/0701037v3
+0705.2786v1,2007-05-19T00:02:24Z,Virtualization: A double-edged sword,Joachim J. Wlodarz,cs.OS,http://arxiv.org/pdf/0705.2786v1
+0706.2748v2,2007-06-19T09:44:36Z,A Survey of Unix Init Schemes,Stéphane Frénot,cs.OS,http://arxiv.org/pdf/0706.2748v2
+0706.3812v3,2007-06-26T12:36:37Z,Java Components Vulnerabilities - An Experimental Classification   Targeted at the OSGi Platform,Stéphane Frénot,cs.CR,http://arxiv.org/pdf/0706.3812v3
+0709.4558v1,2007-09-28T09:04:27Z,"Practical Multiwriter Lock-Free Queues for ""Hard Real-Time"" Systems   without CAS",Jeremy Lee,cs.OS,http://arxiv.org/pdf/0709.4558v1
+0805.4680v3,2008-05-30T07:01:51Z,Telex: Principled System Support for Write-Sharing in Collaborative   Applications,Georgios Tsoukalas,cs.OS,http://arxiv.org/pdf/0805.4680v3
+0806.1768v1,2008-06-11T00:03:00Z,Local Read-Write Operations in Sensor Networks,Morten Mjelde,cs.OS,http://arxiv.org/pdf/0806.1768v1
+0807.3933v1,2008-07-24T17:51:07Z,Interface Matching and Combining Techniques for Services Integration,Stéphane Frénot,cs.OS,http://arxiv.org/pdf/0807.3933v1
+0808.0920v1,2008-08-06T20:33:56Z,A Distributed and Deterministic TDMA Algorithm for   Write-All-With-Collision Model,Mahesh Arumugam,cs.OS,http://arxiv.org/pdf/0808.0920v1
+0810.0372v1,2008-10-02T09:41:52Z,Optimizing Binary Code Produced by Valgrind (Project Report on Virtual   Execution Environments Course - AVExe),Luis Veiga,cs.PL,http://arxiv.org/pdf/0810.0372v1
+0810.1316v1,2008-10-07T23:03:29Z,The meaning of concurrent programs,Victor Yodaiken,cs.DM,http://arxiv.org/pdf/0810.1316v1
+0902.1610v1,2009-02-10T09:14:59Z,Package upgrades in FOSS distributions: details and challenges,Paulo Trezentos,cs.SE,http://arxiv.org/pdf/0902.1610v1
+0909.1763v1,2009-09-09T18:09:06Z,Remembrance: The Unbearable Sentience of Being Digital,Marianne Winslett,cs.DB,http://arxiv.org/pdf/0909.1763v1
+0909.5064v1,2009-09-28T10:54:48Z,A Conceivable Origin of Machine Consciousness in the IDLE process,Norbert Bátfai,cs.OS,http://arxiv.org/pdf/0909.5064v1
+0912.4062v1,2009-12-20T23:49:25Z,Process Description of COM Object Life Cycle,Emil Vassev,cs.OS,http://arxiv.org/pdf/0912.4062v1
+1001.0196v1,2010-01-01T00:34:59Z,A distributed file system for a wide-area high performance computing   infrastructure,Edward Walker,cs.DC,http://arxiv.org/pdf/1001.0196v1
+1001.4115v3,2010-01-25T08:09:27Z,On the Design of an Optimal Multiprocessor Real-Time Scheduling   Algorithm under Practical Considerations (Extended Version),Geoffrey Nelissen,cs.OS,http://arxiv.org/pdf/1001.4115v3
+1002.0298v1,2010-02-01T18:31:06Z,A Data Capsule Framework For Web Services: Providing Flexible Data   Access Control To Users,Byung-Gon Chun,cs.CR,http://arxiv.org/pdf/1002.0298v1
+1002.3329v1,2010-02-17T17:52:17Z,A new model for virtual machine migration in virtualized cluster server   based on Fuzzy Decision Making,S. Sharifian,cs.OS,http://arxiv.org/pdf/1002.3329v1
+1008.1571v1,2010-08-09T19:23:10Z,Scaling Turbo Boost to a 1000 cores,Alexandra Fedorova,cs.PF,http://arxiv.org/pdf/1008.1571v1
+1009.3088v2,2010-09-16T04:43:46Z,CloneCloud: Boosting Mobile Device Applications Through Cloud Clone   Execution,Mayur Naik,cs.DC,http://arxiv.org/pdf/1009.3088v2
+1010.4411v1,2010-10-21T10:12:59Z,Revisiting deadlock prevention: a probabilistic approach,Valmir C. Barbosa,cs.DC,http://arxiv.org/pdf/1010.4411v1
+1011.3087v1,2010-11-13T02:17:29Z,Leakage-Aware Reallocation for Periodic Real-Time Tasks on Multicore   Processors,Guowei Wu,cs.DC,http://arxiv.org/pdf/1011.3087v1
+1012.3071v1,2010-12-14T16:10:08Z,Seamless Flow Migration on Smartphones without Network Support,Jatinder Singh,cs.NI,http://arxiv.org/pdf/1012.3071v1
+1105.1811v1,2011-05-09T22:26:15Z,User Mode Memory Page Allocation: A Silver Bullet For Memory Allocation?,Niall Douglas,cs.OS,http://arxiv.org/pdf/1105.1811v1
+1105.1815v1,2011-05-09T22:39:46Z,User Mode Memory Page Management: An old idea applied anew to the memory   wall problem,Niall Douglas,cs.OS,http://arxiv.org/pdf/1105.1815v1
+1105.5055v2,2011-05-25T15:02:01Z,A faster exact multiprocessor schedulability test for sporadic tasks,Joël Goossens,cs.OS,http://arxiv.org/pdf/1105.5055v2
+1106.2766v1,2011-06-14T17:26:21Z,Supporting Parallelism in Server-based Multiprocessor Systems,Luís Miguel Pinho,cs.DC,http://arxiv.org/pdf/1106.2766v1
+1107.2003v2,2011-07-11T11:51:06Z,Efficient Deterministic Replay Using Complete Race Detection,Ling Li,cs.PL,http://arxiv.org/pdf/1107.2003v2
+1111.5251v1,2011-11-22T17:00:50Z,Evolution of a Modular Software Network,Simon A. Levin,cs.OS,http://arxiv.org/pdf/1111.5251v1
+1202.5282v2,2012-02-23T20:12:00Z,How to Bypass Verified Boot Security in Chromium OS,Ramalingam Sridhar,cs.CR,http://arxiv.org/pdf/1202.5282v2
+1206.6213v1,2012-06-27T09:33:06Z,The Necessity for Hardware QoS Support for Server Consolidation and   Cloud Computing,José Ángel Gregorio,cs.AR,http://arxiv.org/pdf/1206.6213v1
+1208.6391v1,2012-08-31T06:32:38Z,On Benchmarking Embedded Linux Flash File Systems,Eric Senn,cs.OS,http://arxiv.org/pdf/1208.6391v1
+1208.6406v1,2012-08-31T06:53:14Z,Building Resilient Cloud Over Unreliable Commodity Infrastructure,Sreekanth Iyer,cs.OS,http://arxiv.org/pdf/1208.6406v1
+1209.0687v1,2012-09-04T16:16:20Z,Security Issues in the Android Cross-Layer Architecture,Luca Verderame,cs.CR,http://arxiv.org/pdf/1209.0687v1
+1210.1039v1,2012-10-03T09:15:19Z,JooFlux: Hijacking Java 7 InvokeDynamic To Support Live Code   Modifications,Frédéric Le Mouël,cs.OS,http://arxiv.org/pdf/1210.1039v1
+1210.2882v1,2012-10-10T12:13:30Z,Online Adaptive Fault Tolerant based Feedback Control Scheduling   Algorithm for Multiprocessor Embedded Systems,Rana Atif Ali Khan,cs.SY,http://arxiv.org/pdf/1210.2882v1
+1212.2778v1,2012-12-12T11:37:48Z,Feasibility Tests for Recurrent Real-Time Tasks in the Sporadic DAG   Model,Andreas Wiese,cs.DS,http://arxiv.org/pdf/1212.2778v1
+1212.6354v1,2012-12-27T11:55:43Z,LNOS - Live Network Operating System,Muhammad Imran,cs.NI,http://arxiv.org/pdf/1212.6354v1
+1302.0621v3,2013-02-04T09:09:38Z,RevDedup: A Reverse Deduplication Storage System Optimized for Reads to   Latest Backups,Patrick P. C. Lee,cs.DC,http://arxiv.org/pdf/1302.0621v3
+1302.1306v1,2013-02-06T10:06:39Z,Parametric Schedulability Analysis of Fixed Priority Real-Time   Distributed Systems,Laurent Fribourg,cs.DC,http://arxiv.org/pdf/1302.1306v1
+1310.1588v1,2013-10-06T14:27:59Z,Impacting the bioscience progress by backporting software for Bio-Linux,Sasa Paporovic,cs.OS,http://arxiv.org/pdf/1310.1588v1
+1310.2148v1,2013-10-03T22:49:06Z,C2MS: Dynamic Monitoring and Management of Cloud Infrastructures,Malcolm Atkinson,cs.DC,http://arxiv.org/pdf/1310.2148v1
+1311.3322v1,2013-11-13T22:05:58Z,Impact of Limpware on HDFS: A Probabilistic Estimation,Haryadi S. Gunawi,cs.OS,http://arxiv.org/pdf/1311.3322v1
+1405.2913v1,2014-05-12T16:41:49Z,Resource-Aware Replication on Heterogeneous Multicores: Challenges and   Opportunities,Hermann Härtig,cs.DC,http://arxiv.org/pdf/1405.2913v1
+1405.5651v1,2014-05-22T07:52:45Z,Hello rootKitty: A lightweight invariance-enforcing framework,Wouter Joosen,cs.OS,http://arxiv.org/pdf/1405.5651v1
+1407.0122v1,2014-07-01T07:23:10Z,Effects of Hard Real-Time Constraints in Implementing the Myopic   Scheduling Algorithm,M. A. Hossain,cs.OS,http://arxiv.org/pdf/1407.0122v1
+1407.4346v1,2014-07-16T15:35:47Z,Faults in Linux 2.6,Julia L. Lawall,cs.SE,http://arxiv.org/pdf/1407.4346v1
+0910.4052v1,2009-10-21T11:31:14Z,Virtual-Threading: Advanced General Purpose Processors Architecture,Andrei I. Yafimau,cs.AR,http://arxiv.org/pdf/0910.4052v1
+0910.5046v1,2009-10-27T17:31:02Z,Temporal Debugging using URDB,Gene Cooperman,cs.OS,http://arxiv.org/pdf/0910.5046v1
+0910.5577v1,2009-10-29T08:38:32Z,On the stability of two-chunk file-sharing systems,Timo Eirola,cs.OS,http://arxiv.org/pdf/0910.5577v1
+1003.5303v2,2010-03-27T14:44:01Z,Determinating Timing Channels in Compute Clouds,Ramakrishna Gummadi,cs.OS,http://arxiv.org/pdf/1003.5303v2
+1005.3450v1,2010-05-19T14:17:56Z,Efficient System-Enforced Deterministic Parallelism,Bryan Ford,cs.OS,http://arxiv.org/pdf/1005.3450v1
+1005.5045v1,2010-05-27T12:28:51Z,File Managing and Program Execution in Web Operating Systems,Mario Bravetti,cs.SE,http://arxiv.org/pdf/1005.5045v1
+1005.5241v1,2010-05-28T08:55:12Z,Simulation de traces réelles d'E/S disque de PC,Timsit Claude,cs.PF,http://arxiv.org/pdf/1005.5241v1
+1006.5845v1,2010-06-30T13:01:58Z,Dynamic and Transparent Analysis of Commodity Production Systems,Mattia Monga,cs.OS,http://arxiv.org/pdf/1006.5845v1
+1103.2348v1,2011-03-11T19:12:15Z,Transparent Programming of Heterogeneous Smartphones for Sensing,Lin Zhong,cs.OS,http://arxiv.org/pdf/1103.2348v1
+1104.2110v1,2011-04-12T04:06:34Z,Deterministic Real-time Thread Scheduling,Lui Sha,cs.OS,http://arxiv.org/pdf/1104.2110v1
+1211.4839v1,2012-11-20T19:33:08Z,An Insight View of Kernel Visual Debugger in System Boot up,Mohamed Farag,cs.OS,http://arxiv.org/pdf/1211.4839v1
+1211.6185v1,2012-11-27T02:36:10Z,Automatic Verification of Message-Based Device Drivers,Yanjin Zhu,cs.OS,http://arxiv.org/pdf/1211.6185v1
+1211.6196v1,2012-11-27T02:37:28Z,Chiefly Symmetric: Results on the Scalability of Probabilistic Model   Checking for Operating-System Code,Marcus Völp,cs.LO,http://arxiv.org/pdf/1211.6196v1
+1301.4800v1,2013-01-21T10:00:22Z,Schedulability Analysis of Distributed Real-Time Applications under   Dependence and Several Latency Constraints,Omar Kermia,cs.OS,http://arxiv.org/pdf/1301.4800v1
+1305.2553v1,2013-05-12T02:44:15Z,Practical Fine-grained Privilege Separation in Multithreaded   Applications,Peng Liu,cs.OS,http://arxiv.org/pdf/1305.2553v1
+1306.0846v1,2013-06-04T16:27:30Z,V-BOINC: The Virtualization of BOINC,Malcolm Atkinson,cs.DC,http://arxiv.org/pdf/1306.0846v1
+1308.0698v1,2013-08-03T14:09:23Z,An Improving Method for Loop Unrolling,Peter Luksch,cs.PL,http://arxiv.org/pdf/1308.0698v1
+1308.2881v1,2013-08-13T14:37:51Z,Opacity of Memory Management in Software Transactional Memory,Volker Turau,cs.DC,http://arxiv.org/pdf/1308.2881v1
+1309.1714v1,2013-09-06T18:14:04Z,Flashmon V2: Monitoring Raw NAND Flash Memory I/O Requests on Embedded   Linux,Eric Senn,cs.OS,http://arxiv.org/pdf/1309.1714v1
+1312.3665v2,2013-12-12T22:38:08Z,Managing NymBoxes for Identity and Tracking Protection,Bryan Ford,cs.OS,http://arxiv.org/pdf/1312.3665v2
+1312.3938v3,2013-12-13T20:53:39Z,Transparent Checkpoint-Restart over InfiniBand,Gene Cooperman,cs.OS,http://arxiv.org/pdf/1312.3938v3
+1401.6726v1,2014-01-27T03:01:33Z,Anception: Application Virtualization For Android,Atul Prakash,cs.CR,http://arxiv.org/pdf/1401.6726v1
+1406.1133v1,2014-06-04T18:18:37Z,Timing Analysis for DAG-based and GFP Scheduled Tasks,Stefan M. Petters,cs.DC,http://arxiv.org/pdf/1406.1133v1
+1406.6037v1,2014-06-23T19:44:03Z,Preemptive Thread Block Scheduling with Online Structural Runtime   Prediction for Concurrent GPGPU Kernels,Matthew J. Thazhuthaveetil,cs.AR,http://arxiv.org/pdf/1406.6037v1
+1410.7747v1,2014-10-28T19:20:34Z,Sprobes: Enforcing Kernel Code Integrity on the TrustZone Architecture,Trent Jaeger,cs.CR,http://arxiv.org/pdf/1410.7747v1
+1410.7754v1,2014-10-28T19:23:26Z,A First Look at Firefox OS Security,Jean-Pierre Seifert,cs.CR,http://arxiv.org/pdf/1410.7754v1
+1504.01666v1,2015-04-07T16:58:31Z,Garbage Collection Techniques for Flash-Resident Page-Mapping FTLs,Philippe Bonnet,cs.DB,http://arxiv.org/pdf/1504.01666v1
+1504.06833v1,2015-04-26T14:44:00Z,Evaluating Dynamic File Striping For Lustre,Joshua Lothian,cs.OS,http://arxiv.org/pdf/1504.06833v1
+1504.06836v1,2015-04-26T14:57:05Z,Monitoring Extreme-scale Lustre Toolkit,Joshua K. Lothian,cs.DC,http://arxiv.org/pdf/1504.06836v1
+1504.07481v1,2015-04-28T14:05:59Z,Improving Block-level Efficiency with scsi-mq,Blake Caldwell,cs.OS,http://arxiv.org/pdf/1504.07481v1
+1505.01448v1,2015-05-06T18:14:56Z,Taking back control of HPC file systems with Robinhood Policy Engine,Thomas Leibovici,cs.DC,http://arxiv.org/pdf/1505.01448v1
+1505.01765v1,2015-05-07T16:31:21Z,Development of a Burst Buffer System for Data-Intensive Applications,Weikuan Yu,cs.DC,http://arxiv.org/pdf/1505.01765v1
+1505.02155v3,2015-05-08T19:52:46Z,Evaluate and Compare Two Utilization-Based Schedulability-Test   Frameworks for Real-Time Systems,Cong Liu,cs.DS,http://arxiv.org/pdf/1505.02155v3
+1506.01449v4,2015-06-04T02:11:27Z,Defending against malicious peripherals with Cinch,Michael Walfish,cs.OS,http://arxiv.org/pdf/1506.01449v4
+1508.04753v1,2015-08-18T19:50:17Z,Cold Object Identification in the Java Virtual Machine,Gerhard W. Dueck,cs.PL,http://arxiv.org/pdf/1508.04753v1
+1508.05228v1,2015-08-21T09:59:27Z,A Case Study on Covert Channel Establishment via Software Caches in   High-Assurance Computing Systems,Jörg Keller,cs.CR,http://arxiv.org/pdf/1508.05228v1
+1508.07127v1,2015-08-28T08:45:35Z,Virtualization Architecture for NoC-based Reconfigurable Systems,Pao-Ann Hsiung,cs.AR,http://arxiv.org/pdf/1508.07127v1
+1511.04169v1,2015-11-13T06:27:39Z,Specifying a Realistic File System,Toby Murray,cs.LO,http://arxiv.org/pdf/1511.04169v1
+1511.04170v1,2015-11-13T06:27:48Z,Controlled Owicki-Gries Concurrency: Reasoning about the Preemptible   eChronos Embedded Operating System,Carroll Morgan,cs.LO,http://arxiv.org/pdf/1511.04170v1
+1601.03027v1,2016-01-12T20:46:07Z,Open Mobile API: Accessing the UICC on Android Devices,Michael Hölzl,cs.CR,http://arxiv.org/pdf/1601.03027v1
+1601.05851v1,2016-01-22T01:22:53Z,HyBIS: Windows Guest Protection through Advanced Memory Introspection,Flavio Lombardi,cs.OS,http://arxiv.org/pdf/1601.05851v1
+1604.00320v1,2016-04-01T16:32:47Z,AuDroid: Preventing Attacks on Audio Channels in Mobile Devices,Trent Jaeger,cs.CR,http://arxiv.org/pdf/1604.00320v1
+1606.04386v1,2016-06-14T14:22:25Z,A Note on the Period Enforcer Algorithm for Self-Suspending Tasks,Björn B. Brandenburg,cs.DC,http://arxiv.org/pdf/1606.04386v1
+1607.07995v2,2016-07-27T07:46:13Z,System-level Scalable Checkpoint-Restart for Petascale Computing,Gene Cooperman,cs.DC,http://arxiv.org/pdf/1607.07995v2
+1608.04303v1,2016-08-15T15:26:22Z,SandBlaster: Reversing the Apple Sandbox,Ahmad-Reza Sadeghi,cs.CR,http://arxiv.org/pdf/1608.04303v1
+1609.00100v2,2016-09-01T03:45:39Z,Suspicious-Taint-Based Access Control for Protecting OS from Network   Attacks,Zhiyong Shan,cs.CR,http://arxiv.org/pdf/1609.00100v2
+1609.02067v1,2016-09-07T16:53:40Z,Practical Data Compression for Modern Memory Hierarchies,Gennady Pekhimenko,cs.AR,http://arxiv.org/pdf/1609.02067v1
+1611.07862v1,2016-11-23T16:23:40Z,Browsix: Bridging the Gap Between Unix and the Browser,Emery D. Berger,cs.OS,http://arxiv.org/pdf/1611.07862v1
+1612.00445v1,2016-12-01T17:45:18Z,Near-Memory Address Translation,Babak Falsafi,cs.AR,http://arxiv.org/pdf/1612.00445v1
+cs/9905002v1,1999-05-05T01:43:13Z,DRAFT : Task System and Item Architecture (TSIA),Burkhard D. Burow,cs.PL,http://arxiv.org/pdf/cs/9905002v1
+cs/9908002v1,1999-08-03T14:50:09Z,After Compilers and Operating Systems : The Third Advance in Application   Support,Burkhard D. Burow,cs.PL,http://arxiv.org/pdf/cs/9908002v1
+cs/0403007v1,2004-03-06T02:52:17Z,End-User Effects of Microreboots in Three-Tiered Internet Systems,Armando Fox,cs.OS,http://arxiv.org/pdf/cs/0403007v1
+cs/0508130v1,2005-08-31T01:44:35Z,A Fresh Look at the Reliability of Long-term Digital Storage,Prashanth Bungale,cs.DL,http://arxiv.org/pdf/cs/0508130v1
+cs/0603021v1,2006-03-06T00:46:09Z,Language Support for Optional Functionality,Srinidhi Varadarajan,cs.PL,http://arxiv.org/pdf/cs/0603021v1
+cs/0603076v1,2006-03-18T17:27:22Z,User-Relative Names for Globally Connected Personal Devices,Robert Morris,cs.NI,http://arxiv.org/pdf/cs/0603076v1
+cs/0611116v1,2006-11-22T18:25:43Z,Discovering Network Topology in the Presence of Byzantine Faults,Sébastien Tixeuil,cs.DC,http://arxiv.org/pdf/cs/0611116v1
+cs/0611117v1,2006-11-22T19:28:31Z,2FACE: Bi-Directional Face Traversal for Efficient Geometric Routing,Mikhail Nesterenko,cs.DC,http://arxiv.org/pdf/cs/0611117v1
+0803.3230v2,2008-03-21T21:28:16Z,A Type System for Data-Flow Integrity on Windows Vista,Sriram Rajamani,cs.CR,http://arxiv.org/pdf/0803.3230v2
+0803.3338v1,2008-03-23T19:10:00Z,Performance Evaluation of Multiple TCP connections in iSCSI,K. Gopinath,cs.NI,http://arxiv.org/pdf/0803.3338v1
+0803.3632v1,2008-03-25T20:52:17Z,Void Traversal for Guaranteed Delivery in Geometric Routing,Adnan Vora,cs.OS,http://arxiv.org/pdf/0803.3632v1
+0903.2525v1,2009-03-14T04:28:55Z,CloudSim: A Novel Framework for Modeling and Simulation of Cloud   Computing Infrastructures and Services,Rajkumar Buyya,cs.DC,http://arxiv.org/pdf/0903.2525v1
+0912.3852v1,2009-12-19T01:18:05Z,Sharp utilization thresholds for some real-time scheduling problems,Sathish Gopalakrishnan,cs.PF,http://arxiv.org/pdf/0912.3852v1
+1010.5571v1,2010-10-27T05:04:38Z,An Introduction to Time-Constrained Automata,Guy Vidal-Naquet,cs.LO,http://arxiv.org/pdf/1010.5571v1
+1105.3232v1,2011-05-16T21:45:54Z,Unleashing the Power of Mobile Cloud Computing using ThinkAir,Xinwen Zhang,cs.DC,http://arxiv.org/pdf/1105.3232v1
+1106.2992v1,2011-06-15T15:18:27Z,A Characterization of the SPARC T3-4 System,Michiel W. van Tol,cs.PF,http://arxiv.org/pdf/1106.2992v1
+1110.4623v1,2011-10-20T19:43:58Z,Efficient Synchronization Primitives for GPUs,John D. Owens,cs.OS,http://arxiv.org/pdf/1110.4623v1
+1111.1930v1,2011-11-08T15:03:26Z,The UWB Solution for Multimedia Traffic in Wireless Sensor Networks,Elbrak Said,cs.NI,http://arxiv.org/pdf/1111.1930v1
+1111.5880v1,2011-11-25T02:10:11Z,Robustness Analysis for Battery Supported Cyber-Physical Systems,Shayok Mukhopadhyay,cs.ET,http://arxiv.org/pdf/1111.5880v1
+1208.6428v1,2012-08-31T09:04:05Z,A Hardware Time Manager Implementation for the Xenomai Real-Time Kernel   of Embedded Linux,Jalil Boukhobza,cs.OS,http://arxiv.org/pdf/1208.6428v1
+1302.5521v1,2013-02-22T09:01:24Z,Towards Python-based Domain-specific Languages for Self-reconfigurable   Modular Robotics Research,Ulrik Pagh Schultz,cs.RO,http://arxiv.org/pdf/1302.5521v1
+1304.6007v1,2013-04-22T16:23:24Z,Paging with dynamic memory capacity,Enoch Peserico,cs.DS,http://arxiv.org/pdf/1304.6007v1
+1310.0901v1,2013-10-03T05:51:48Z,Cudagrind: A Valgrind Extension for CUDA,Jose Gracia,cs.SE,http://arxiv.org/pdf/1310.0901v1
+1311.2362v1,2013-11-11T06:21:29Z,Efficient Runtime Monitoring with Metric Temporal Logic: A Case Study in   the Android Operating System,Alwen Tiu,cs.LO,http://arxiv.org/pdf/1311.2362v1
+1311.3686v1,2013-11-13T10:53:02Z,Performance Evaluation of Java File Security System (JFSS),Dr. R. K. Tuteja,cs.OS,http://arxiv.org/pdf/1311.3686v1
+1405.2281v1,2014-05-08T07:09:55Z,Proceedings of the First Workshop on Resource Awareness and Adaptivity   in Multi-Core Computing (Racing 2014),Jürgen Teich,cs.DC,http://arxiv.org/pdf/1405.2281v1
+1407.4245v1,2014-07-16T10:03:51Z,Security of OS-level virtualization technologies: Technical report,N. Asokan,cs.CR,http://arxiv.org/pdf/1407.4245v1
+1211.6187v1,2012-11-27T02:36:24Z,A Formal Model of a Virtual Filesystem Switch,Wolfgang Reif,cs.LO,http://arxiv.org/pdf/1211.6187v1
+1211.6190v1,2012-11-27T02:36:45Z,On the Use of Underspecified Data-Type Semantics for Type Safety in   Low-Level Code,Tjark Weber,cs.LO,http://arxiv.org/pdf/1211.6190v1
+1301.2649v1,2013-01-12T05:31:57Z,Dynamic Transparent General Purpose Process Migration For Linux,Amirreza Zarrabi,cs.DC,http://arxiv.org/pdf/1301.2649v1
+1312.5892v1,2013-12-20T11:11:54Z,Support for Error Tolerance in the Real-Time Transport Protocol,Klaus Wehrle,cs.NI,http://arxiv.org/pdf/1312.5892v1
+1401.6100v1,2014-01-09T00:04:41Z,Performance Impact of Lock-Free Algorithms on Multicore Communication   APIs,Thijmen de Gooijer,cs.DC,http://arxiv.org/pdf/1401.6100v1
+1403.1165v1,2014-03-05T15:43:57Z,A Taxonomy for Attack Patterns on Information Flows in Component-Based   Operating Systems,Jörg Keller,cs.CR,http://arxiv.org/pdf/1403.1165v1
+1406.5569v1,2014-06-21T02:04:56Z,On the Reverse Engineering of the Citadel Botnet,Mourad Debbabi,cs.CR,http://arxiv.org/pdf/1406.5569v1
+1408.4715v1,2014-08-20T16:39:15Z,Making FPGAs Accessible to Scientists and Engineers as Domain Expert   Software Programmers with LabVIEW,Stephan Ahrends,cs.SE,http://arxiv.org/pdf/1408.4715v1
+1409.5567v1,2014-09-19T09:30:49Z,Rank-Aware Dynamic Migrations and Adaptive Demotions for DRAM Power   Management,Minyi Guo,cs.PF,http://arxiv.org/pdf/1409.5567v1
+1410.3226v1,2014-10-13T08:51:40Z,Proceedings 2014 International Workshop on Advanced Intrusion Detection   and Prevention,Gürkan Gür,cs.CR,http://arxiv.org/pdf/1410.3226v1
+1410.3463v1,2014-10-13T14:26:28Z,Mining Block I/O Traces for Cache Preloading with Sparse Temporal   Non-parametric Mixture of Multivariate Poisson,Chiranjib Bhattacharyya,cs.OS,http://arxiv.org/pdf/1410.3463v1
+1501.01370v1,2015-01-07T05:51:19Z,A Case Study: Task Scheduling Methodologies for High Speed Computing   Systems,Arvind Rajawat,cs.OS,http://arxiv.org/pdf/1501.01370v1
+1504.03875v1,2015-04-15T12:05:59Z,RIOT OS Paves the Way for Implementation of High-Performance MAC   Protocols,Olivier Zendra,cs.NI,http://arxiv.org/pdf/1504.03875v1
+1506.02822v2,2015-06-09T08:30:23Z,Reproducible and User-Controlled Software Environments in HPC with Guix,Ricardo Wurmus,cs.DC,http://arxiv.org/pdf/1506.02822v2
+1510.05567v2,2015-10-19T16:26:47Z,Energy-Efficient Scheduling for Homogeneous Multiprocessor Systems,Eric C. Kerrigan,cs.OS,http://arxiv.org/pdf/1510.05567v2
+1511.02528v1,2015-11-08T21:12:17Z,Proceedings Workshop on Models for Formal Analysis of Real Systems,Peter Höfner,cs.LO,http://arxiv.org/pdf/1511.02528v1
+1603.03635v1,2016-03-11T14:10:18Z,Powering the Internet of Things with RIOT: Why? How? What is RIOT?,Kaspar Schleiser,cs.CY,http://arxiv.org/pdf/1603.03635v1
+1606.02635v1,2016-06-08T16:52:03Z,Feedback Scheduling for Energy-Efficient Real-Time Homogeneous   Multiprocessor Systems,Eric C. Kerrigan,cs.OS,http://arxiv.org/pdf/1606.02635v1
+1606.05794v1,2016-06-18T18:55:42Z,Scalability of VM Provisioning Systems,Albert Reuther,cs.DC,http://arxiv.org/pdf/1606.05794v1
+1607.07763v1,2016-07-15T14:52:57Z,Energy-Efficient Real-Time Scheduling for Two-Type Heterogeneous   Multiprocessors,Eric C. Kerrigan,cs.DC,http://arxiv.org/pdf/1607.07763v1
+1608.00571v1,2016-08-01T15:33:14Z,TREES: A CPU/GPU Task-Parallel Runtime with Explicit Epoch   Synchronization,Daniel J. Sorin,cs.DC,http://arxiv.org/pdf/1608.00571v1
+1610.03052v1,2016-10-10T19:59:32Z,Verification of the Tree-Based Hierarchical Read-Copy Update in the   Linux Kernel,Tom Melham,cs.LO,http://arxiv.org/pdf/1610.03052v1
+1701.03709v1,2017-01-13T16:15:53Z,Power and Execution Time Measurement Methodology for SDF Applications on   FPGA-based MPSoCs,Ralf Stemmer,cs.DC,http://arxiv.org/pdf/1701.03709v1
+cs/0504051v1,2005-04-13T16:37:59Z,A Scalable Stream-Oriented Framework for Cluster Applications,David R. Cheriton,cs.DC,http://arxiv.org/pdf/cs/0504051v1
+0803.2365v1,2008-03-16T18:24:13Z,SAFIUS - A secure and accountable filesystem over untrusted storage,K Gopinath,cs.OS,http://arxiv.org/pdf/0803.2365v1
+1305.1459v1,2013-05-07T10:22:31Z,EURETILE 2010-2012 summary: first three years of activity of the   European Reference Tiled Experiment,Piero Vicini,cs.DC,http://arxiv.org/pdf/1305.1459v1
+1604.07371v1,2016-04-25T19:20:18Z,Do the Hard Stuff First: Scheduling Dependent Computations in   Data-Analytics Clusters,Janardhan Kulkarni,cs.DC,http://arxiv.org/pdf/1604.07371v1
+0907.4622v1,2009-07-26T02:19:42Z,Aneka: A Software Platform for .NET-based Cloud Computing,Rajkumar Buyya,cs.DC,http://arxiv.org/pdf/0907.4622v1

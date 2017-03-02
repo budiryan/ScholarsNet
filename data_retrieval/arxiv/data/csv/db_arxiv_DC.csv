@@ -1,0 +1,1000 @@
+cs/9809125v1,1998-09-14T14:42:26Z,"Distributed Computation, the Twisted Isomorphism, and Auto-Poiesis",Michael Manthey,cs.DC,http://arxiv.org/pdf/cs/9809125v1
+cs/9810019v1,1998-10-21T18:43:47Z,Gryphon: An Information Flow Based Approach to Message Brokering,Michael Ward,cs.DC,http://arxiv.org/pdf/cs/9810019v1
+cs/9909013v1,1999-09-21T13:39:03Z,"Self-stabilizing mutual exclusion on a ring, even if K=N",Jaap-Henk Hoepman,cs.DC,http://arxiv.org/pdf/cs/9909013v1
+cs/9909015v1,1999-09-21T20:51:37Z,A decision-theoretic approach to reliable message delivery,Joseph Y. Halpern,cs.DC,http://arxiv.org/pdf/cs/9909015v1
+cs/0002008v1,2000-02-16T02:45:39Z,On Automata with Boundary,R. F. C. Walters,cs.DC,http://arxiv.org/pdf/cs/0002008v1
+cs/0003054v1,2000-03-12T00:19:24Z,"A Problem-Specific Fault-Tolerance Mechanism for Asynchronous,   Distributed Systems",Ian Foster,cs.DC,http://arxiv.org/pdf/cs/0003054v1
+cs/0004013v1,2000-04-23T04:32:18Z,Sorting Integers on the AP1000,Andrew Lynes,cs.DC,http://arxiv.org/pdf/cs/0004013v1
+cs/0006004v1,2000-06-02T03:14:07Z,"A Note on ""Optimal Static Load Balancing in Distributed Computer   Systems""",S. A. Mondal,cs.DC,http://arxiv.org/pdf/cs/0006004v1
+cs/0006008v1,2000-06-02T18:35:55Z,Performing work efficiently in the presence of faults,O. Waarts,cs.DC,http://arxiv.org/pdf/cs/0006008v1
+cs/0007015v1,2000-07-10T15:59:03Z,Phase Clocks for Transient Fault Repair,Ted Herman,cs.DC,http://arxiv.org/pdf/cs/0007015v1
+cs/0009021v1,2000-09-22T10:44:16Z,Nimrod/G: An Architecture of a Resource Management and Scheduling System   in a Global Computational Grid,Jon Giddy,cs.DC,http://arxiv.org/pdf/cs/0009021v1
+cs/0012024v4,2000-12-26T23:05:58Z,Byzantine Agreement with Faulty Majority using Bounded Broadcast,David Metcalf,cs.DC,http://arxiv.org/pdf/cs/0012024v4
+cs/0102016v1,2001-02-20T20:17:22Z,A Scientific Data Management System for Irregular Applications,Alok Choudhary,cs.DC,http://arxiv.org/pdf/cs/0102016v1
+cs/0102017v1,2001-02-21T16:04:21Z,Components and Interfaces of a Process Management System for Parallel   Programs,Ewing Lusk,cs.DC,http://arxiv.org/pdf/cs/0102017v1
+cs/0104002v1,2001-04-02T18:19:06Z,Replica Selection in the Globus Data Grid,Ian Foster,cs.DC,http://arxiv.org/pdf/cs/0104002v1
+cs/0105013v1,2001-05-07T14:29:59Z,Dijkstra's Self-Stabilizing Algorithm in Unsupportive Environments,Ted Herman,cs.DC,http://arxiv.org/pdf/cs/0105013v1
+cs/0105034v1,2001-05-29T21:59:18Z,On the Area of Hypercube Layouts,Lee Guan,cs.DC,http://arxiv.org/pdf/cs/0105034v1
+cs/0106020v1,2001-06-11T07:46:56Z,Economic Models for Management of Resources in Grid Computing,David Abrams,cs.DC,http://arxiv.org/pdf/cs/0106020v1
+cs/0106038v1,2001-06-15T17:09:49Z,Simple and Effective Distributed Computing with a Scheduling Service,David M. Mackie,cs.DC,http://arxiv.org/pdf/cs/0106038v1
+cs/0106056v2,2001-06-28T15:45:35Z,Randomized Two-Process Wait-Free Test-and-Set,Paul Vitanyi,cs.DC,http://arxiv.org/pdf/cs/0106056v2
+cs/0107034v1,2001-07-26T15:19:00Z,NEOS Server 4.0 Administrative Guide,Elizabeth D. Dolan,cs.DC,http://arxiv.org/pdf/cs/0107034v1
+cs/0108001v1,2001-08-01T23:14:34Z,The Cactus Worm: Experiments with Dynamic Resource Discovery and   Allocation in a Grid Environment,John Shalf,cs.DC,http://arxiv.org/pdf/cs/0108001v1
+cs/0108002v1,2001-08-02T17:13:48Z,Bounded Concurrent Timestamp Systems Using Vector Clocks,Paul Vitanyi,cs.DC,http://arxiv.org/pdf/cs/0108002v1
+cs/0108019v1,2001-08-27T15:54:41Z,Scalable Unix Commands for Parallel Processors: A High-Performance   Implementation,W. Gropp,cs.DC,http://arxiv.org/pdf/cs/0108019v1
+cs/0109017v1,2001-09-13T21:14:21Z,Learning from the Success of MPI,William D. Gropp,cs.DC,http://arxiv.org/pdf/cs/0109017v1
+cs/0110058v1,2001-10-29T19:00:15Z,Teaching Parallel Programming Using Both High-Level and Low-Level   Languages,Yi Pan,cs.DC,http://arxiv.org/pdf/cs/0110058v1
+cs/0111028v1,2001-11-09T14:29:16Z,The ESRF TANGO control system status,P. Verdier,cs.DC,http://arxiv.org/pdf/cs/0111028v1
+cs/0111031v1,2001-11-09T16:40:09Z,Large-Scale Corba-Distributed Software Framework for Nif Controls,John P. Woodruff,cs.DC,http://arxiv.org/pdf/cs/0111031v1
+cs/0111033v1,2001-11-09T20:08:18Z,Modernising the ESRF control system with GNU/Linux,W. D. Klotz,cs.DC,http://arxiv.org/pdf/cs/0111033v1
+cs/0111047v1,2001-11-17T07:20:58Z,Virtual Laboratory: Enabling On-Demand Drug Design with the World Wide   Grid,David Abramson,cs.DC,http://arxiv.org/pdf/cs/0111047v1
+cs/0111048v1,2001-11-17T07:32:44Z,A Computational Economy for Grid Computing and its Implementation in the   Nimrod-G Resource Brok,Jonathan Giddy,cs.DC,http://arxiv.org/pdf/cs/0111048v1
+cs/0202003v3,2002-02-04T17:29:15Z,Simple Optimal Wait-free Multireader Registers,Paul Vitanyi,cs.DC,http://arxiv.org/pdf/cs/0202003v3
+cs/0203019v1,2002-03-14T03:44:18Z,GridSim: A Toolkit for the Modeling and Simulation of Distributed   Resource Management and Scheduling for Grid Computing,Manzur Murshed,cs.DC,http://arxiv.org/pdf/cs/0203019v1
+cs/0203020v1,2002-03-14T03:50:19Z,A Deadline and Budget Constrained Cost-Time Optimisation Algorithm for   Scheduling Task Farming Applications on Global Grids,Manzur Murshed,cs.DC,http://arxiv.org/pdf/cs/0203020v1
+cs/0204048v1,2002-04-22T20:06:42Z,Economic-based Distributed Resource Management and Scheduling for Grid   Computing,Rajkumar Buyya,cs.DC,http://arxiv.org/pdf/cs/0204048v1
+cs/0205021v1,2002-05-14T19:22:00Z,An Overview of a Grid Architecture for Scientific Computing,O. Smirnova,cs.DC,http://arxiv.org/pdf/cs/0205021v1
+cs/0205023v2,2002-05-14T19:55:37Z,Performance evaluation of the GridFTP within the NorduGrid project,A. Waananen,cs.DC,http://arxiv.org/pdf/cs/0205023v2
+cs/0206038v1,2002-06-24T18:28:21Z,A Multilevel Approach to Topology-Aware Collective Operations in   Computational Grids,E. Lusk,cs.DC,http://arxiv.org/pdf/cs/0206038v1
+cs/0206040v2,2002-06-25T19:55:45Z,MPICH-G2: A Grid-Enabled Implementation of the Message Passing Interface,I. Foster,cs.DC,http://arxiv.org/pdf/cs/0206040v2
+cs/0207036v1,2002-07-10T00:53:23Z,"System Description for a Scalable, Fault-Tolerant, Distributed Garbage   Collector",T. Terriberry,cs.DC,http://arxiv.org/pdf/cs/0207036v1
+cs/0207096v1,2002-07-29T16:20:25Z,Noncontiguous I/O through PVFS,William Gropp,cs.DC,http://arxiv.org/pdf/cs/0207096v1
+cs/0208021v1,2002-08-14T09:11:20Z,Implicit Simulations using Messaging Protocols,G. A. Kohring,cs.DC,http://arxiv.org/pdf/cs/0208021v1
+cs/0208027v1,2002-08-19T19:09:04Z,A Unified Theory of Shared Memory Consistency,Gary J. Nutt,cs.DC,http://arxiv.org/pdf/cs/0208027v1
+cs/0210002v1,2002-10-01T10:41:52Z,GridBank: A Grid Accounting Services Architecture (GASA) for Distributed   Systems Sharing and Integration,Alexander Barmouta Rajkumar Buyya,cs.DC,http://arxiv.org/pdf/cs/0210002v1
+cs/0301033v1,2003-01-28T20:11:16Z,Computational Grids in Action: The Natinal Fusion Collaboratory,D. McCune,cs.DC,http://arxiv.org/pdf/cs/0301033v1
+cs/0301035v1,2003-01-31T01:21:21Z,On the Complexity of Buffer Allocation in Message Passing Systems,Alan Wagner,cs.DC,http://arxiv.org/pdf/cs/0301035v1
+cs/0302006v1,2003-02-06T03:31:02Z,Grid Market Directory: A Web Services based Grid Service Publication   Directory,Rajkumar Buyya,cs.DC,http://arxiv.org/pdf/cs/0302006v1
+cs/0302007v1,2003-02-06T03:36:29Z,G-Monitor: Gridbus web portal for monitoring and steering application   execution on global grids,Rajkumar Buyya,cs.DC,http://arxiv.org/pdf/cs/0302007v1
+cs/0302008v1,2003-02-06T04:06:02Z,Visual Environment for Rapid Composition of Parameter-Sweep Applications   for Distributed Processing on Global Grids,Rajkumar Buyya,cs.DC,http://arxiv.org/pdf/cs/0302008v1
+cs/0302018v1,2003-02-13T04:49:26Z,Guided Google: A Meta Search Engine and its Implementation using the   Google Distributed Web Services,Rajkumar Buyya,cs.DC,http://arxiv.org/pdf/cs/0302018v1
+cs/0302019v1,2003-02-13T04:53:10Z,Economic and On Demand Brain Activity Analysis on Global Grids,D. Abramson,cs.DC,http://arxiv.org/pdf/cs/0302019v1
+cs/0303005v1,2003-03-08T17:15:00Z,Fair Solution to the Reader-Writer-Problem with Semaphores only,H. Ballhausen,cs.DC,http://arxiv.org/pdf/cs/0303005v1
+cs/0304037v1,2003-04-23T20:36:09Z,Using Regression Techniques to Predict Large Data Transfers,Jennifer M. Schopf,cs.DC,http://arxiv.org/pdf/cs/0304037v1
+cs/0305050v2,2003-05-28T16:25:45Z,Towards automation of computing fabrics using tools from the fabric   management workpackage of the EU DataGrid project,Olof Barring,cs.DC,http://arxiv.org/pdf/cs/0305050v2
+cs/0305058v2,2003-05-30T09:18:55Z,ATLAS and CMS applications on the WorldGrid testbed,L. Vaccarossa,cs.DC,http://arxiv.org/pdf/cs/0305058v2
+cs/0305059v1,2003-05-30T10:07:12Z,EU DataGRID testbed management and support at CERN,M. W. Schulz,cs.DC,http://arxiv.org/pdf/cs/0305059v1
+cs/0305061v1,2003-05-30T11:42:37Z,A Secure Infrastructure For System Console and Reset Access,Markus Schulz,cs.DC,http://arxiv.org/pdf/cs/0305061v1
+cs/0305062v2,2003-05-30T11:48:57Z,DIAMOnDS - DIstributed Agents for MObile & Dynamic Services,Harvey Newman,cs.DC,http://arxiv.org/pdf/cs/0305062v2
+cs/0305063v2,2003-05-30T19:53:14Z,McRunjob: A High Energy Physics Workflow Planner for Grid Production   Processing,Iain Bertram,cs.DC,http://arxiv.org/pdf/cs/0305063v2
+cs/0305065v1,2003-05-30T17:43:03Z,A Generic Multi-node State Monitoring Subsystem,Rainer Bartoldus,cs.DC,http://arxiv.org/pdf/cs/0305065v1
+cs/0305066v2,2003-05-30T19:45:44Z,The CMS Integration Grid Testbed,Todd Tannenbaum,cs.DC,http://arxiv.org/pdf/cs/0305066v2
+cs/0306001v2,2003-05-30T20:25:50Z,Clarens Client and Server Applications,Frank van Lingen,cs.DC,http://arxiv.org/pdf/cs/0306001v2
+cs/0306002v2,2003-05-30T20:34:05Z,The Clarens web services architecture,Frank van Lingen,cs.DC,http://arxiv.org/pdf/cs/0306002v2
+cs/0306003v2,2003-05-30T20:39:27Z,R-GMA: First results after deployment,Xiaomei Zhu,cs.DC,http://arxiv.org/pdf/cs/0306003v2
+cs/0306004v2,2003-05-30T21:04:49Z,Managing Dynamic User Communities in a Grid of Autonomous Resources,K. Lhorentey,cs.DC,http://arxiv.org/pdf/cs/0306004v2
+cs/0306007v1,2003-05-31T19:39:54Z,The first deployment of workload management services on the EU DataGrid   Testbed: feedback on design and implementation,A. Werbrouck,cs.DC,http://arxiv.org/pdf/cs/0306007v1
+cs/0306008v3,2003-05-31T20:48:53Z,The new BaBar Data Reconstruction Control System,T. M. Pulliam,cs.DC,http://arxiv.org/pdf/cs/0306008v3
+cs/0306011v1,2003-06-02T08:50:48Z,Grid Data Management in Action: Experience in Running and Supporting   Data Management Services in the EU DataGrid Project,Paul Millar,cs.DC,http://arxiv.org/pdf/cs/0306011v1
+cs/0306018v1,2003-06-03T17:22:07Z,A monitoring tool for a GRID operation center,G. Tortone,cs.DC,http://arxiv.org/pdf/cs/0306018v1
+cs/0306027v1,2003-06-05T15:35:20Z,HEP Applications Evaluation of the EDG Testbed and Middleware,S. Burke,cs.DC,http://arxiv.org/pdf/cs/0306027v1
+cs/0306029v1,2003-06-06T07:02:25Z,A Software Data Transport Framework for Trigger Applications on Clusters,Heinz Tilsner,cs.DC,http://arxiv.org/pdf/cs/0306029v1
+cs/0306030v1,2003-06-06T10:45:43Z,"Grid-based access control for Unix environments, Filesystems and Web   Sites",A. McNab,cs.DC,http://arxiv.org/pdf/cs/0306030v1
+cs/0306045v1,2003-06-11T16:47:17Z,The WorldGrid transatlantic testbed: a successful example of Grid   interoperability across EU and U.S. domains,Marco Verlato,cs.DC,http://arxiv.org/pdf/cs/0306045v1
+cs/0306048v1,2003-06-11T20:25:52Z,Parallel netCDF: A Scientific High-Performance I/O Interface,Rob Latham,cs.DC,http://arxiv.org/pdf/cs/0306048v1
+cs/0306051v2,2003-06-12T08:48:16Z,A data Grid testbed environment in Gigabit WAN with HPSS,Shigeo Yashiro,cs.DC,http://arxiv.org/pdf/cs/0306051v2
+cs/0306052v1,2003-06-12T12:59:39Z,ATLAS Data Challenge 1,Gilbert Poulard,cs.DC,http://arxiv.org/pdf/cs/0306052v1
+cs/0306055v1,2003-06-12T15:53:17Z,BlueOx: A Java Framework for Distributed Data Analysis,David Bengali,cs.DC,http://arxiv.org/pdf/cs/0306055v1
+cs/0306058v1,2003-06-12T18:45:34Z,"Installing, Running and Maintaining Large Linux Clusters at CERN",Tim Smith,cs.DC,http://arxiv.org/pdf/cs/0306058v1
+cs/0306060v1,2003-06-12T23:54:24Z,DIRAC - Distributed Infrastructure with Remote Agent Control,A. Washbrook,cs.DC,http://arxiv.org/pdf/cs/0306060v1
+cs/0306063v1,2003-06-13T17:01:45Z,A Model for Grid User Management,Tomasz Wlodek,cs.DC,http://arxiv.org/pdf/cs/0306063v1
+cs/0306064v2,2003-06-13T13:38:01Z,Exploiting peer group concept for adaptive and highly available services,Arshad Ali,cs.DC,http://arxiv.org/pdf/cs/0306064v2
+cs/0306067v1,2003-06-13T15:43:15Z,"The AliEn system, status and perspectives",A. J. Peters,cs.DC,http://arxiv.org/pdf/cs/0306067v1
+cs/0306068v1,2003-06-13T16:00:45Z,AliEn Resource Brokers,Andreas J. Peters,cs.DC,http://arxiv.org/pdf/cs/0306068v1
+cs/0306069v1,2003-06-13T16:16:44Z,Distributed Offline Data Reconstruction in BaBar,Alvise Dorigo,cs.DC,http://arxiv.org/pdf/cs/0306069v1
+cs/0306071v1,2003-06-13T18:18:59Z,AliEnFS - a Linux File System for the AliEn Grid Services,P. Buncic,cs.DC,http://arxiv.org/pdf/cs/0306071v1
+cs/0306072v1,2003-06-13T18:57:35Z,The EU DataGrid Workload Management System: towards the second major   release,A. Werbrouck,cs.DC,http://arxiv.org/pdf/cs/0306072v1
+cs/0306074v1,2003-06-13T21:24:05Z,Understanding and Coping with Hardware and Software Failures in a Very   Large Trigger Farm,Jim Kowalkowski,cs.DC,http://arxiv.org/pdf/cs/0306074v1
+cs/0306075v1,2003-06-13T21:24:55Z,"Data Management for Physics Analysis in Phenix (BNL, RHIC)",Qiu Zhiping,cs.DC,http://arxiv.org/pdf/cs/0306075v1
+cs/0306084v1,2003-06-14T02:39:07Z,BaBar Web job submission with Globus authentication and AFS access,T. Adye,cs.DC,http://arxiv.org/pdf/cs/0306084v1
+cs/0306092v1,2003-06-14T16:29:16Z,Building A High Performance Parallel File System Using Grid Datafarm and   ROOT I/O,A. Dell'Acqua,cs.DC,http://arxiv.org/pdf/cs/0306092v1
+cs/0306093v1,2003-06-14T22:33:35Z,Grid-Brick Event Processing Framework in GEPS,Jaime E. Villate,cs.DC,http://arxiv.org/pdf/cs/0306093v1
+cs/0306096v1,2003-06-16T08:33:44Z,MonALISA : A Distributed Monitoring Service Architecture,C. Cirstoiu,cs.DC,http://arxiv.org/pdf/cs/0306096v1
+cs/0306100v1,2003-06-16T16:07:24Z,Site Authorization Service (SAZ),Dane Skow,cs.DC,http://arxiv.org/pdf/cs/0306100v1
+cs/0306110v1,2003-06-18T16:34:11Z,Run Control and Monitor System for the CMS Experiment,L. Zangrando,cs.DC,http://arxiv.org/pdf/cs/0306110v1
+cs/0306111v1,2003-06-18T14:55:40Z,Sharing a conceptual model of grid resources and services,Cristina Vistoli,cs.DC,http://arxiv.org/pdf/cs/0306111v1
+cs/0306112v1,2003-06-18T16:28:02Z,Adapting SAM for CDF,R. St. Denis,cs.DC,http://arxiv.org/pdf/cs/0306112v1
+cs/0306115v1,2003-06-19T19:58:07Z,D0 Regional Analysis Center Concepts,representing the D0 Remote Analysis Task Force,cs.DC,http://arxiv.org/pdf/cs/0306115v1
+cs/0306133v1,2003-06-26T17:09:07Z,GRAPPA: Grid Access Portal for Physics Applications,R. Bramley,cs.DC,http://arxiv.org/pdf/cs/0306133v1
+cs/0307007v2,2003-07-03T20:26:13Z,Management of Grid Jobs and Information within SAMGrid,T. Rockwell,cs.DC,http://arxiv.org/pdf/cs/0307007v2
+cs/0307019v1,2003-07-08T15:36:56Z,Lattice QCD Production on Commodity Clusters at Fermilab,J. Simone,cs.DC,http://arxiv.org/pdf/cs/0307019v1
+cs/0307021v1,2003-07-08T16:58:57Z,Tools and Techniques for Managing Clusters for SciDAC Lattice QCD at   Fermilab,S. Epsteyn,cs.DC,http://arxiv.org/pdf/cs/0307021v1
+cs/0307052v1,2003-07-22T12:27:28Z,Gridscape: A Tool for the Creation of Interactive and Dynamic Grid   Testbed Web Portals,Rajkumar Buyya,cs.DC,http://arxiv.org/pdf/cs/0307052v1
+cs/0307066v1,2003-07-29T14:12:07Z,Augernome & XtremWeb: Monte Carlos computation on a global computing   platform,Franck Cappello,cs.DC,http://arxiv.org/pdf/cs/0307066v1
+cs/0308024v1,2003-08-15T23:53:49Z,Relational Grid Monitoring Architecture (R-GMA),Antony J Wilson,cs.DC,http://arxiv.org/pdf/cs/0308024v1
+cs/0309026v1,2003-09-15T10:43:47Z,A thought experiment on Quantum Mechanics and Distributed Failure   Detection,Mark C. Little,cs.DC,http://arxiv.org/pdf/cs/0309026v1
+cs/0309040v1,2003-09-23T01:14:43Z,A distributed algorithm to find k-dominating sets,V. C. Barbosa,cs.DC,http://arxiv.org/pdf/cs/0309040v1
+cs/0309042v1,2003-09-23T12:57:59Z,On reducing the complexity of matrix clocks,V. C. Barbosa,cs.DC,http://arxiv.org/pdf/cs/0309042v1
+cs/0309049v1,2003-09-26T11:49:10Z,Control and Debugging of Distributed Programs Using Fiddle,Vitor Moreira,cs.DC,http://arxiv.org/pdf/cs/0309049v1
+cs/0310029v1,2003-10-15T19:35:00Z,Optimizing Noncontiguous Accesses in MPI-IO,Ewing Lusk,cs.DC,http://arxiv.org/pdf/cs/0310029v1
+cs/0310030v1,2003-10-15T20:54:14Z,A Particular Bug Trap: Execution Replay Using Virtual Machines,Oliver Oppitz,cs.DC,http://arxiv.org/pdf/cs/0310030v1
+cs/0311009v1,2003-11-10T11:12:26Z,OGSA/Globus Evaluation for Data Intensive Applications,C. Wang,cs.DC,http://arxiv.org/pdf/cs/0311009v1
+cs/0311010v1,2003-11-10T11:39:04Z,Problem of Application Job Monitoring in GRID Systems,A. Kryukov,cs.DC,http://arxiv.org/pdf/cs/0311010v1
+cs/0311021v1,2003-11-17T13:19:31Z,LCG-1 Deployment and usage experience,L. Shamardin,cs.DC,http://arxiv.org/pdf/cs/0311021v1
+cs/0312022v1,2003-12-12T11:42:17Z,GridEmail: A Case for Economically Regulated Internet-based   Interpersonal Communications,Baikunth Nath,cs.DC,http://arxiv.org/pdf/cs/0312022v1
+cs/0312049v1,2003-12-21T14:37:24Z,Using virtual processors for SPMD parallel programs,Gianluca Argentini,cs.DC,http://arxiv.org/pdf/cs/0312049v1
+cs/0401027v1,2004-01-27T03:55:27Z,ClassdescMP: Easy MPI programming in C++,Duraid Madina,cs.DC,http://arxiv.org/pdf/cs/0401027v1
+cs/0402012v1,2004-02-05T17:15:08Z,A Knowledge-Theoretic Analysis of Uniform Distributed Coordination and   Failure Detectors,Aleta Ricciardi,cs.DC,http://arxiv.org/pdf/cs/0402012v1
+cs/0402017v1,2004-02-10T09:18:07Z,Alchemi: A .NET-based Grid Computing Framework and its Integration into   Global Grids,Srikumar Venugopal,cs.DC,http://arxiv.org/pdf/cs/0402017v1
+cs/0402018v1,2004-02-10T14:24:48Z,P2P Networks for Content Sharing,Rajkumar Buyya,cs.DC,http://arxiv.org/pdf/cs/0402018v1
+cs/0403015v2,2004-03-11T09:20:20Z,Belle Computing System,Masahiko Yokoyama,cs.DC,http://arxiv.org/pdf/cs/0403015v2
+cs/0404014v1,2004-04-06T13:35:55Z,A Modular and Fault-Tolerant Data Transport Framework,Timm M. Steinbeck,cs.DC,http://arxiv.org/pdf/cs/0404014v1
+cs/0404015v2,2004-04-07T01:27:32Z,The study of distributed computing algorithms by multithread   applications,Ahmet A. Husainov,cs.DC,http://arxiv.org/pdf/cs/0404015v2
+cs/0404027v1,2004-04-13T09:16:54Z,The Gridbus Toolkit for Service Oriented Grid and Utility Computing: An   Overview and Status Report,Srikumar Venugopal,cs.DC,http://arxiv.org/pdf/cs/0404027v1
+cs/0405023v1,2004-05-06T10:15:26Z,A Grid Service Broker for Scheduling Distributed Data-Oriented   Applications on Global Grids,Lyle Winton,cs.DC,http://arxiv.org/pdf/cs/0405023v1
+cs/0405086v1,2004-05-24T07:29:13Z,A New Dynamical Domain Decomposition Method for Parallel Molecular   Dynamics Simulation on Grid,Shinji Shimojo,cs.DC,http://arxiv.org/pdf/cs/0405086v1
+cs/0407001v1,2004-07-01T11:54:06Z,Global Grids and Software Toolkits: A Study of Four Grid Middleware   Technologies,Srikumar Venugopal,cs.DC,http://arxiv.org/pdf/cs/0407001v1
+cs/0407012v1,2004-07-05T15:48:43Z,A Taxonomy and Survey of Grid Resource Planning and Reservation Systems   for Grid Enabled Analysis Environment,Conrad Steenberg,cs.DC,http://arxiv.org/pdf/cs/0407012v1
+cs/0407013v1,2004-07-05T16:08:36Z,Distributed Analysis and Load Balancing System for Grid Enabled Analysis   on Hand-held devices using Multi-Agents Systems,Ian Willers,cs.DC,http://arxiv.org/pdf/cs/0407013v1
+cs/0407014v2,2004-07-05T19:40:00Z,A Grid-enabled Interface to Condor for Interactive Analysis on Handheld   and Resource-limited Devices,Ian Willers,cs.DC,http://arxiv.org/pdf/cs/0407014v2
+cs/0407017v1,2004-07-07T18:55:20Z,A Low Cost Distributed Computing Approach to Pulsar Searches at a Small   College,Reid Sherman,cs.DC,http://arxiv.org/pdf/cs/0407017v1
+cs/0408032v2,2004-08-14T06:31:10Z,Performance Characterisation of Intra-Cluster Collective Communications,Gregory Mounie,cs.DC,http://arxiv.org/pdf/cs/0408032v2
+cs/0408033v3,2004-08-14T07:39:57Z,Identifying Logical Homogeneous Clusters for Efficient Wide-area   Communications,Gregory Mounie,cs.DC,http://arxiv.org/pdf/cs/0408033v3
+cs/0408034v3,2004-08-14T07:40:33Z,Fast Tuning of Intra-Cluster Collective Communications,Gregory Mounie,cs.DC,http://arxiv.org/pdf/cs/0408034v3
+cs/0410009v1,2004-10-05T08:23:45Z,Diffusive Load Balancing of Loosely-Synchronous Parallel Programs over   Peer-to-Peer Networks,Aaron Harwood,cs.DC,http://arxiv.org/pdf/cs/0410009v1
+cs/0410016v1,2004-10-07T12:42:10Z,HEP@Home - A distributed computing system based on BOINC,Pedro Andrade,cs.DC,http://arxiv.org/pdf/cs/0410016v1
+cs/0410074v2,2004-10-29T02:56:21Z,ReCord: A Distributed Hash Table with Recursive Structure,Wen-Jing Hsu,cs.DC,http://arxiv.org/pdf/cs/0410074v2
+cs/0411045v1,2004-11-12T22:48:00Z,Usage Policy-based CPU Sharing in VOs,Ian Foster,cs.DC,http://arxiv.org/pdf/cs/0411045v1
+cs/0411046v2,2004-11-15T20:05:00Z,Balanced Overlay Networks (BON): Decentralized Load Balancing via   Self-Organized Random Networks,Vwani P. Roychowdhury,cs.DC,http://arxiv.org/pdf/cs/0411046v2
+cs/0412115v1,2004-12-29T19:50:21Z,Reductions in Distributed Computing Part I: Consensus and Atomic   Commitment Tasks,Bernadette Charron-Bost,cs.DC,http://arxiv.org/pdf/cs/0412115v1
+cs/0412116v1,2004-12-29T20:51:58Z,Reductions in Distributed Computing Part II: k-Threshold Agreement Tasks,Bernadette Charron-Bost,cs.DC,http://arxiv.org/pdf/cs/0412116v1
+cs/0412121v1,2004-12-31T19:16:38Z,A Distributed Economics-based Infrastructure for Utility Computing,William Yurcik,cs.DC,http://arxiv.org/pdf/cs/0412121v1
+cs/0501002v1,2005-01-01T03:32:51Z,A Survey of Fault-Tolerance and Fault-Recovery Techniques in Parallel   Systems,Michael Treaster,cs.DC,http://arxiv.org/pdf/cs/0501002v1
+cs/0502018v1,2005-02-03T21:43:50Z,When Database Systems Meet the Grid,James Annis,cs.DC,http://arxiv.org/pdf/cs/0502018v1
+cs/0502051v1,2005-02-09T17:22:21Z,A Semantic Grid-based E-Learning Framework (SELF),Farooq Ahmad,cs.DC,http://arxiv.org/pdf/cs/0502051v1
+cs/0502069v1,2005-02-15T16:35:13Z,Koordinatenfreies Lokationsbewusstsein (Localization without   Coordinates),Dennis Pfisterer,cs.DC,http://arxiv.org/pdf/cs/0502069v1
+cs/0502093v1,2005-02-26T00:07:43Z,Online Permutation Routing in Partitioned Optical Passive Star Networks,Romeo Rizzi,cs.DC,http://arxiv.org/pdf/cs/0502093v1
+cs/0503013v1,2005-03-04T17:09:23Z,Prédiction de Performances pour les Communications Collectives,Grégory Mounié,cs.DC,http://arxiv.org/pdf/cs/0503013v1
+cs/0503025v2,2005-03-11T01:13:07Z,A Taxonomy of Workflow Management Systems for Grid Computing,Rajkumar Buyya,cs.DC,http://arxiv.org/pdf/cs/0503025v2
+cs/0503045v1,2005-03-19T01:28:48Z,Contextual Constraint Modeling in Grid Application Workflows,Peter Love,cs.DC,http://arxiv.org/pdf/cs/0503045v1
+cs/0504033v1,2005-04-10T11:59:25Z,Resource Management Services for a Grid Analysis Environment,Muhammad Adeel Zafar,cs.DC,http://arxiv.org/pdf/cs/0504033v1
+cs/0504034v1,2005-04-10T12:05:03Z,Heterogeneous Relational Databases for a Grid-enabled Analysis   Environment,Ian Willers,cs.DC,http://arxiv.org/pdf/cs/0504034v1
+cs/0504044v1,2005-04-11T21:45:07Z,JClarens: A Java Framework for Developing and Deploying Web Services for   Grid Computing,Jang Uk In,cs.DC,http://arxiv.org/pdf/cs/0504044v1
+cs/0506001v1,2005-05-31T21:05:03Z,SafeMPI - Extending MPI for Byzantine Error Detection on Parallel   Clusters,Sean Keller,cs.DC,http://arxiv.org/pdf/cs/0506001v1
+cs/0506006v1,2005-06-02T13:04:14Z,A batch scheduler with high level components,Olivier Richard,cs.DC,http://arxiv.org/pdf/cs/0506006v1
+cs/0506097v1,2005-06-27T14:32:50Z,A Flexible Thread Scheduler for Hierarchical Multiprocessor Machines,Samuel Thibault,cs.DC,http://arxiv.org/pdf/cs/0506097v1
+cs/0508052v1,2005-08-10T15:54:13Z,Energy Optimal Data Propagation in Wireless Sensor Networks,Jose Rolim,cs.DC,http://arxiv.org/pdf/cs/0508052v1
+cs/0510081v1,2005-10-26T12:26:57Z,Virtual Environments for multiphysics code validation on Computing Grids,Vittorio Selmin,cs.DC,http://arxiv.org/pdf/cs/0510081v1
+cs/0511083v1,2005-11-23T18:13:18Z,Gradient Based Routing in Wireless Sensor Networks: a Mixed Strategy,Jose Rolim,cs.DC,http://arxiv.org/pdf/cs/0511083v1
+cs/0512005v1,2005-12-01T04:52:00Z,"On Ants, Bacteria and Dynamic Environments",Agostinho C. Rosa,cs.DC,http://arxiv.org/pdf/cs/0512005v1
+cs/0601078v1,2006-01-17T13:30:47Z,Exploring high performance distributed file storage using LDPC codes,Nuno Santos,cs.DC,http://arxiv.org/pdf/cs/0601078v1
+cs/0601111v1,2006-01-25T23:48:12Z,Localization in Wireless Sensor Grids,Ted Herman,cs.DC,http://arxiv.org/pdf/cs/0601111v1
+cs/0602013v1,2006-02-05T20:47:23Z,An Optimal Distributed Edge-Biconnectivity Algorithm,David Pritchard,cs.DC,http://arxiv.org/pdf/cs/0602013v1
+cs/0602026v1,2006-02-07T16:47:16Z,Bulk Scheduling with DIANA Scheduler,Ian Willers,cs.DC,http://arxiv.org/pdf/cs/0602026v1
+cs/0603035v2,2006-03-09T13:49:14Z,Final Results from and Exploitation Plans for MammoGrid,Ruth Warren,cs.DC,http://arxiv.org/pdf/cs/0603035v2
+cs/0603036v2,2006-03-09T13:54:15Z,Health-e-Child : An Integrated Biomedical Platform for Grid-Based   Paediatric Applications,ZHOU,cs.DC,http://arxiv.org/pdf/cs/0603036v2
+cs/0603112v1,2006-03-28T22:54:37Z,A General Framework for Scalability and Performance Analysis of DHT   Routing Systems,Vwani P. Roychowdhury,cs.DC,http://arxiv.org/pdf/cs/0603112v1
+cs/0604109v1,2006-04-27T16:14:32Z,CMS Software Distribution on the LCG and OSG Grids,for the CMS Collaboration,cs.DC,http://arxiv.org/pdf/cs/0604109v1
+cs/0605053v1,2006-05-12T09:41:28Z,Gridscape II: A Customisable and Pluggable Grid Monitoring Portal and   its Integration with Google Maps,Rajkumar Buyya,cs.DC,http://arxiv.org/pdf/cs/0605053v1
+cs/0605056v1,2006-05-12T20:36:45Z,Utility Computing and Global Grids,Rajkumar Buyya,cs.DC,http://arxiv.org/pdf/cs/0605056v1
+cs/0605057v1,2006-05-15T13:41:27Z,SLA-Based Coordinated Superscheduling Scheme and Performance for   Computational Grids,Rajkumar Buyya,cs.DC,http://arxiv.org/pdf/cs/0605057v1
+cs/0605060v1,2006-05-15T10:21:22Z,A Case for Cooperative and Incentive-Based Coupling of Distributed   Clusters,Rajkumar Buyya,cs.DC,http://arxiv.org/pdf/cs/0605060v1
+cs/0605141v1,2006-05-30T13:54:26Z,General Compact Labeling Schemes for Dynamic Trees,Amos Korman,cs.DC,http://arxiv.org/pdf/cs/0605141v1
+cs/0606028v1,2006-06-07T12:59:49Z,Affine Transformations of Loop Nests for Parallel Execution and   Distribution of Data over Processors,N. A. Likhoded,cs.DC,http://arxiv.org/pdf/cs/0606028v1
+cs/0606047v1,2006-06-11T09:36:26Z,Asynchronous iterative computations with Web information retrieval   structures: The PageRank case,Daniel B. Szyld,cs.DC,http://arxiv.org/pdf/cs/0606047v1
+cs/0606095v1,2006-06-22T13:23:15Z,A verification algorithm for Declarative Concurrent Programming,Jean Krivine,cs.DC,http://arxiv.org/pdf/cs/0606095v1
+cs/0608046v1,2006-08-08T17:41:26Z,From Grid Middleware to a Grid Operating System,Athar Mohsin,cs.DC,http://arxiv.org/pdf/cs/0608046v1
+cs/0608047v1,2006-08-08T17:49:28Z,Lessons Learned from MammoGrid for Integrated Biomedical Solutions,A. E. Solomonides,cs.DC,http://arxiv.org/pdf/cs/0608047v1
+cs/0608048v1,2006-08-08T17:53:15Z,Bulk Scheduling with the DIANA Scheduler,Ian Willers,cs.DC,http://arxiv.org/pdf/cs/0608048v1
+cs/0608092v2,2006-08-24T16:07:07Z,Self-Stabilizing Byzantine Pulse Synchronization,Danny Dolev,cs.DC,http://arxiv.org/pdf/cs/0608092v2
+cs/0608096v1,2006-08-25T03:11:28Z,Linear-time Self-stabilizing Byzantine Clock Synchronization,Hanna Parnas,cs.DC,http://arxiv.org/pdf/cs/0608096v1
+cs/0608112v1,2006-08-29T11:58:50Z,Entity Based Peer-to-Peer in a Data Grid Environment,M-T. Kechadi,cs.DC,http://arxiv.org/pdf/cs/0608112v1
+cs/0608113v1,2006-08-29T13:11:05Z,A Java Based Architecture of P2P-Grid Middleware,T. Kechadi,cs.DC,http://arxiv.org/pdf/cs/0608113v1
+cs/0608114v1,2006-08-29T13:14:29Z,Reliable multicast fault tolerant MPI in the Grid environment,Serge Petiton,cs.DC,http://arxiv.org/pdf/cs/0608114v1
+cs/0608116v1,2006-08-29T13:29:29Z,Transparent Migration of Multi-Threaded Applications on a Java Based   Grid,T. Kechadi,cs.DC,http://arxiv.org/pdf/cs/0608116v1
+cs/0608118v1,2006-08-29T15:08:42Z,TreeP: A Tree-Based P2P Network Architecture,A. Ottewill,cs.DC,http://arxiv.org/pdf/cs/0608118v1
+cs/0609027v1,2006-09-06T23:41:32Z,A Case for Peering of Content Delivery Networks,Zahir Tari,cs.DC,http://arxiv.org/pdf/cs/0609027v1
+cs/0609163v1,2006-09-29T12:31:35Z,Labeling Schemes with Queries,Shay Kutten,cs.DC,http://arxiv.org/pdf/cs/0609163v1
+cs/0610131v1,2006-10-23T07:45:01Z,Scheduling and data redistribution strategies on star platforms,Frédéric Vivien,cs.DC,http://arxiv.org/pdf/cs/0610131v1
+cs/0611034v1,2006-11-08T08:16:55Z,Strategies for Replica Placement in Tree Networks,Veronika Rehn,cs.DC,http://arxiv.org/pdf/cs/0611034v1
+cs/0611139v1,2006-11-28T07:48:18Z,Static Safety for an Actor Dedicated Process Calculus by Abstract   Interpretation,Xavier Thirioux,cs.DC,http://arxiv.org/pdf/cs/0611139v1
+cs/0611165v1,2006-11-30T13:01:36Z,Partially ordered distributed computations on asynchronous   point-to-point networks,Valmir C. Barbosa,cs.DC,http://arxiv.org/pdf/cs/0611165v1
+cs/0612013v2,2006-12-04T06:29:16Z,Economy-based Content Replication for Peering Content Delivery Networks,Kris Bubendorfer,cs.DC,http://arxiv.org/pdf/cs/0612013v2
+cs/0612025v1,2006-12-05T16:51:25Z,Registers,Paul M. B. Vitanyi,cs.DC,http://arxiv.org/pdf/cs/0612025v1
+cs/0612035v1,2006-12-06T13:57:54Z,Distributed Slicing in Dynamic Systems,Michel Raynal,cs.DC,http://arxiv.org/pdf/cs/0612035v1
+cs/0612125v2,2006-12-22T18:27:25Z,Heterogeneous Strong Computation Migration,Bruno Schulze,cs.DC,http://arxiv.org/pdf/cs/0612125v2
+cs/0701015v2,2007-01-03T12:52:58Z,Asynchronous Implementation of Failure Detectors with partial   connectivity and unknown participants,Fabiola Greve,cs.DC,http://arxiv.org/pdf/cs/0701015v2
+cs/0701064v1,2007-01-09T12:18:14Z,Causing Communication Closure: Safe Program Composition with Reliable   Non-FIFO Channels,Yoram Moses,cs.DC,http://arxiv.org/pdf/cs/0701064v1
+cs/0701134v2,2007-01-21T20:44:52Z,Byzantine Fault Tolerance for Nondeterministic Applications,Wenbing Zhao,cs.DC,http://arxiv.org/pdf/cs/0701134v2
+cs/0701179v1,2007-01-27T06:43:04Z,Scatter of Weak Robots,Franck Petit,cs.DC,http://arxiv.org/pdf/cs/0701179v1
+cs/0702066v1,2007-02-10T17:43:35Z,"Comments on ""Design and performance evaluation of load distribution   strategies for multiple loads on heterogeneous linear daisy chain networks''",Frédéric Vivien,cs.DC,http://arxiv.org/pdf/cs/0702066v1
+cs/0702076v2,2007-02-13T16:35:04Z,A First Step Towards Automatically Building Network Representations,Frédéric Vivien,cs.DC,http://arxiv.org/pdf/cs/0702076v2
+cs/0702114v1,2007-02-20T03:54:12Z,Nearest Neighbor Network Traversal,David Pritchard,cs.DC,http://arxiv.org/pdf/cs/0702114v1
+cs/0703094v1,2007-03-20T12:17:57Z,Geographic Routing Around Obstacles in Wireless Sensor Networks,Sotiris Nikolesteas,cs.DC,http://arxiv.org/pdf/cs/0703094v1
+cs/0703112v1,2007-03-22T19:15:00Z,User-level DSM System for Modern High-Performance Interconnection   Networks,Srinidhi Varadarajan,cs.DC,http://arxiv.org/pdf/cs/0703112v1
+cs/0703117v1,2007-03-23T11:29:10Z,Self-adaptive Gossip Policies for Distributed Population-based   Algorithms,J. J. Merelo,cs.DC,http://arxiv.org/pdf/cs/0703117v1
+cs/0703122v1,2007-03-23T22:38:06Z,Rapid Almost-Complete Broadcasting in Faulty Networks,Richard Královič,cs.DC,http://arxiv.org/pdf/cs/0703122v1
+cs/0703137v1,2007-03-27T23:27:54Z,ReSHAPE: A Framework for Dynamic Resizing and Scheduling of Homogeneous   Applications in a Parallel Environment,Calvin J. Ribbens,cs.DC,http://arxiv.org/pdf/cs/0703137v1
+0704.1827v1,2007-04-06T15:59:27Z,Transaction-Oriented Simulation In Ad Hoc Grids,Gerald Krafft,cs.DC,http://arxiv.org/pdf/0704.1827v1
+0704.2344v1,2007-04-18T13:20:25Z,Parallel computing for the finite element method,Alain Nicolas,cs.DC,http://arxiv.org/pdf/0704.2344v1
+0704.2355v1,2007-04-18T14:39:09Z,A Nice Labelling for Tree-Like Event Structures of Degree 3,Luigi Santocanale,cs.DC,http://arxiv.org/pdf/0704.2355v1
+0704.3890v1,2007-04-30T19:59:14Z,An algorithm for clock synchronization with the gradient property in   sensor networks,Valmir C. Barbosa,cs.DC,http://arxiv.org/pdf/0704.3890v1
+0706.2069v1,2007-06-14T09:35:30Z,Building Portable Thread Schedulers for Hierarchical Multiprocessors:   the BubbleSched Framework,Pierre-André Wacrenier,cs.DC,http://arxiv.org/pdf/0706.2069v1
+0706.2146v1,2007-06-14T15:54:10Z,Efficient Multidimensional Data Redistribution for Resizable Parallel   Computations,Calvin J. Ribbens,cs.DC,http://arxiv.org/pdf/0706.2146v1
+0706.3008v1,2007-06-20T15:17:47Z,A Generic Deployment Framework for Grid Computing and Distributed   Applications,Philippe Merle,cs.DC,http://arxiv.org/pdf/0706.3008v1
+0706.3350v3,2007-06-22T15:01:35Z,Optimal Replica Placement in Tree Networks with QoS and Bandwidth   Constraints and the Closest Allocation Policy,Veronika Rehn-Sonigo,cs.DC,http://arxiv.org/pdf/0706.3350v3
+0706.3546v2,2007-06-25T01:24:46Z,stdchk: A Checkpoint Storage System for Desktop Grid Computing,Abdullah Gharaibeh,cs.DC,http://arxiv.org/pdf/0706.3546v2
+0706.4009v2,2007-06-27T13:43:16Z,Multi-criteria scheduling of pipeline workflows,Yves Robert,cs.DC,http://arxiv.org/pdf/0706.4009v2
+0706.4015v1,2007-06-27T12:53:06Z,Self-Stabilizing Wavelets and r-Hops Coordination,Franck Petit,cs.DC,http://arxiv.org/pdf/0706.4015v1
+0706.4038v2,2007-06-27T14:43:13Z,Scheduling multiple divisible loads on a linear processor network,Frédéric Vivien,cs.DC,http://arxiv.org/pdf/0706.4038v2
+0706.4298v1,2007-06-28T18:51:36Z,Unison as a Self-Stabilizing Wave Stream Algorithm in Asynchronous   Anonymous Networks,Christian Boulinier,cs.DC,http://arxiv.org/pdf/0706.4298v1
+0707.0365v1,2007-07-03T09:02:45Z,Performance Analysis of Publish/Subscribe Systems,Mohamed Jemni,cs.DC,http://arxiv.org/pdf/0707.0365v1
+0707.0740v1,2007-07-05T09:22:45Z,A Multi Interface Grid Discovery System,Ian Willers,cs.DC,http://arxiv.org/pdf/0707.0740v1
+0707.0742v1,2007-07-05T09:32:29Z,Mobile Computing in Physics Analysis - An Indicator for eScience,I. Willers,cs.DC,http://arxiv.org/pdf/0707.0742v1
+0707.0743v1,2007-07-05T09:36:18Z,DIANA Scheduling Hierarchies for Optimizing Bulk Job Scheduling,O. Alvi,cs.DC,http://arxiv.org/pdf/0707.0743v1
+0707.0748v1,2007-07-05T10:06:41Z,Experiences of Engineering Grid-Based Medical Software,T. Solomonides,cs.DC,http://arxiv.org/pdf/0707.0748v1
+0707.0762v1,2007-07-05T11:14:45Z,PhantomOS: A Next Generation Grid Operating System,Peter Bloodsworth,cs.DC,http://arxiv.org/pdf/0707.0762v1
+0707.0862v1,2007-07-05T19:46:51Z,Scheduling in Data Intensive and Network Aware (DIANA) Grid Environments,Michael Thomas,cs.DC,http://arxiv.org/pdf/0707.0862v1
+0707.1607v1,2007-07-11T13:01:50Z,Cactus Framework: Black Holes to Gamma Ray Bursts,John Shalf,cs.DC,http://arxiv.org/pdf/0707.1607v1
+0708.0608v2,2007-08-04T05:15:05Z,Resource Allocation in Public Cluster with Extended Optimization   Algorithm,L. T. Handoko,cs.DC,http://arxiv.org/pdf/0708.0608v2
+0708.3446v2,2007-08-25T19:46:52Z,Multi and Independent Block Approach in Public Cluster,L. T. Handoko,cs.DC,http://arxiv.org/pdf/0708.3446v2
+0708.3734v1,2007-08-28T09:24:13Z,Searching for a dangerous host: randomized vs. deterministic,Rossano Venturini,cs.DC,http://arxiv.org/pdf/0708.3734v1
+0709.2635v1,2007-09-17T13:50:42Z,Non-Blocking Signature of very large SOAP Messages,L. Lo Iacono,cs.DC,http://arxiv.org/pdf/0709.2635v1
+0709.3689v1,2007-09-24T05:33:29Z,Static Deadlock Detection in MPI Synchronization Communication,Fan Zhi-Hua,cs.DC,http://arxiv.org/pdf/0709.3689v1
+0709.3692v2,2007-09-24T06:02:29Z,Deadlock Detection in Basic Models of MPI Synchronization Communication   Programs,Zhi-hua Fan,cs.DC,http://arxiv.org/pdf/0709.3692v2
+0709.3693v1,2007-09-24T06:06:34Z,Algorithm of Static Deadlock Detection in MPI Synchronization   Communication Sequential Model,Fan Zhi-Hua,cs.DC,http://arxiv.org/pdf/0709.3693v1
+0709.3826v1,2007-09-24T19:25:27Z,Research Paper on Transaction-Oriented Simulation In Ad Hoc Grids,Gerald Krafft,cs.DC,http://arxiv.org/pdf/0709.3826v1
+0710.1499v1,2007-10-08T09:46:47Z,Approximating max-min linear programs with local algorithms,Jukka Suomela,cs.DC,http://arxiv.org/pdf/0710.1499v1
+0710.1784v1,2007-10-09T14:38:50Z,Designing a commutative replicated data type,Nuno Preguiça,cs.DC,http://arxiv.org/pdf/0710.1784v1
+0710.5348v1,2007-10-29T10:44:35Z,"Towards Grid Monitoring and deployment in Jade, using ProActive",Virginie Legrand Contes,cs.DC,http://arxiv.org/pdf/0710.5348v1
+0711.0314v1,2007-11-02T14:03:46Z,Resource and Application Models for Advanced Grid Schedulers,Lionel Sacks,cs.DC,http://arxiv.org/pdf/0711.0314v1
+0711.0315v1,2007-11-02T14:12:27Z,Measuring and Monitoring Grid Resource Utilisation,Lionel Sacks,cs.DC,http://arxiv.org/pdf/0711.0315v1
+0711.0316v1,2007-11-02T14:15:45Z,A Study of Grid Applications: Scheduling Perspective,Lionel Sacks,cs.DC,http://arxiv.org/pdf/0711.0316v1
+0711.0325v1,2007-11-02T15:26:48Z,Self-Organising management of Grid environments,Paul McKee,cs.DC,http://arxiv.org/pdf/0711.0325v1
+0711.0326v1,2007-11-02T15:30:53Z,Enabling Adaptive Grid Scheduling and Resource Management,Ognjen Prnjat,cs.DC,http://arxiv.org/pdf/0711.0326v1
+0711.0327v1,2007-11-02T15:36:36Z,Managing Uncertainty: A Case for Probabilistic Grid Scheduling,Ognjen Prnjat,cs.DC,http://arxiv.org/pdf/0711.0327v1
+0711.1231v3,2007-11-08T14:45:12Z,Optimizing Latency and Reliability of Pipeline Workflow Applications,Yves Robert,cs.DC,http://arxiv.org/pdf/0711.1231v3
+0711.1786v1,2007-11-12T14:39:34Z,A Mobile Computing Architecture for Numerical Simulation,Fabrice Mourlin,cs.DC,http://arxiv.org/pdf/0711.1786v1
+0711.2062v1,2007-11-14T00:57:13Z,Autoregressive Time Series Forecasting of Computational Demand,Thomas Sandholm,cs.DC,http://arxiv.org/pdf/0711.2062v1
+0711.3949v1,2007-11-26T06:41:23Z,An Adaptive Checkpointing Scheme for Peer-to-Peer Based Volunteer   Computing Work Flows,Aaron Harwood,cs.DC,http://arxiv.org/pdf/0711.3949v1
+0712.3980v1,2007-12-26T13:55:47Z,Distributed Slicing in Dynamic Systems,Michel Raynal,cs.DC,http://arxiv.org/pdf/0712.3980v1
+0801.1210v1,2008-01-08T11:36:35Z,Increasing GP Computing Power via Volunteer Computing,K. Sharman,cs.DC,http://arxiv.org/pdf/0801.1210v1
+0801.1419v1,2008-01-09T12:41:15Z,Core Persistence in Peer-to-Peer Systems: Relating Size to Lifetime,Bruno Sericola,cs.DC,http://arxiv.org/pdf/0801.1419v1
+0801.1772v1,2008-01-11T14:48:43Z,Bi-criteria Pipeline Mappings for Parallel Image Processing,Yves Robert,cs.DC,http://arxiv.org/pdf/0801.1772v1
+0801.4150v1,2008-01-27T20:22:29Z,e-Science perspectives in Venezuela,M. Uzcategui,cs.DC,http://arxiv.org/pdf/0801.4150v1
+0802.0550v1,2008-02-05T07:03:28Z,Energy Aware Self-Organizing Density Management in Wireless Sensor   Networks,Marin Bertier,cs.DC,http://arxiv.org/pdf/0802.0550v1
+0803.0048v4,2008-03-01T07:21:27Z,A Bit-Compatible Shared Memory Parallelization for ILU(k)   Preconditioning and a Bit-Compatible Generalization to Distributed Memory,Gene Cooperman,cs.DC,http://arxiv.org/pdf/0803.0048v4
+0803.0241v2,2008-03-03T13:46:45Z,Self-Stabilizing Pulse Synchronization Inspired by Biological Pacemaker   Networks,Hanna Parnas,cs.DC,http://arxiv.org/pdf/0803.0241v2
+0803.1520v1,2008-03-11T04:20:06Z,Integrity-Enhancing Replica Coordination for Byzantine Fault Tolerant   Systems,Wenbing Zhao,cs.DC,http://arxiv.org/pdf/0803.1520v1
+0803.1521v1,2008-03-11T04:34:04Z,Proactive Service Migration for Long-Running Byzantine Fault Tolerant   Systems,Wenbing Zhao,cs.DC,http://arxiv.org/pdf/0803.1521v1
+0803.2219v1,2008-03-14T18:01:17Z,Lighweight Target Tracking Using Passive Traces in Sensor Networks,Jose Rolim,cs.DC,http://arxiv.org/pdf/0803.2219v1
+0803.3642v3,2008-03-25T22:04:50Z,Distributed Averaging in the presence of a Sparse Cut,Hariharan Narayanan,cs.DC,http://arxiv.org/pdf/0803.3642v3
+0804.1607v2,2008-04-10T03:47:05Z,Distributed and Recursive Parameter Estimation in Parametrized Linear   State-Space Models,A. Nedic,cs.DC,http://arxiv.org/pdf/0804.1607v2
+0804.4590v1,2008-04-29T11:51:19Z,Étude de performance des systèmes de découverte de ressources,Mohamed Jemni,cs.DC,http://arxiv.org/pdf/0804.4590v1
+0804.4815v1,2008-04-30T12:54:34Z,Tight local approximation results for max-min linear programs,Jukka Suomela,cs.DC,http://arxiv.org/pdf/0804.4815v1
+0805.0444v2,2008-05-04T21:08:50Z,Two-enqueuer queue in Common2,David Eisenstat,cs.DC,http://arxiv.org/pdf/0805.0444v2
+0805.2068v1,2008-05-14T14:23:53Z,Fork Sequential Consistency is Blocking,Alexander Shraer,cs.DC,http://arxiv.org/pdf/0805.2068v1
+0805.3196v1,2008-05-21T05:02:22Z,Coupling Component Systems towards Systems of Systems,Jean-René Ruault,cs.DC,http://arxiv.org/pdf/0805.3196v1
+0806.0282v1,2008-06-02T14:27:46Z,Local approximation algorithms for a class of 0/1 max-min linear   programs,Jukka Suomela,cs.DC,http://arxiv.org/pdf/0806.0282v1
+0806.2395v1,2008-06-14T19:01:50Z,Ad-hoc Limited Scale-Free Models for Unstructured Peer-to-Peer Networks,Murat Yuksel,cs.DC,http://arxiv.org/pdf/0806.2395v1
+0806.3152v2,2008-06-19T08:28:28Z,TRANS-Net: an Efficient Peer-to-Peer Overlay Network Based on a Full   Transposition Graph,Athanasios K. Tsakalidis,cs.DC,http://arxiv.org/pdf/0806.3152v2
+0806.3215v1,2008-06-19T15:13:38Z,MOHCS: Towards Mining Overlapping Highly Connected Subgraphs,David K. Y. Chiu,cs.DC,http://arxiv.org/pdf/0806.3215v1
+0806.4221v1,2008-06-26T02:09:17Z,Localized Spanners for Wireless Networks,Sriram V. Pemmaraju,cs.DC,http://arxiv.org/pdf/0806.4221v1
+0807.1720v1,2008-07-10T19:14:14Z,Resource Allocation Strategies for In-Network Stream Processing,Yves Robert,cs.DC,http://arxiv.org/pdf/0807.1720v1
+0807.4609v1,2008-07-29T09:18:21Z,Analisis Kinerja Sistem Cluster Terhadapa Aplikasi Simulasi Dinamika   Molekular NAMD Memanfaatkan Pustaka CHARM++,A. B. Mutiara,cs.DC,http://arxiv.org/pdf/0807.4609v1
+0808.1505v1,2008-08-11T12:22:12Z,An Almost-Surely Terminating Polynomial Protocol for Asynchronous   Byzantine Agreement with Optimal Resilience,Joseph Y. Halpern,cs.DC,http://arxiv.org/pdf/0808.1505v1
+0808.1802v1,2008-08-13T09:48:37Z,Compute and Storage Clouds Using Wide Area High Performance Networks,Wanzhi Zhang,cs.DC,http://arxiv.org/pdf/0808.1802v1
+0808.3019v1,2008-08-22T01:24:06Z,Data Mining Using High Performance Data Clouds: Experimental Studies   Using Sector and Sphere,Yunhong Gu,cs.DC,http://arxiv.org/pdf/0808.3019v1
+0808.3535v1,2008-08-26T15:19:44Z,Data Diffusion: Dynamic Resource Provision and Data-Aware Scheduling for   Data Intensive Applications,Alex Szalay,cs.DC,http://arxiv.org/pdf/0808.3535v1
+0808.3536v1,2008-08-26T16:59:41Z,Enabling Loosely-Coupled Serial Job Execution on the IBM BlueGene/P   Supercomputer and the SiCortex SC5832,Ian Foster,cs.DC,http://arxiv.org/pdf/0808.3536v1
+0808.3540v2,2008-08-26T16:48:14Z,Towards Loosely-Coupled Programming on Petascale Systems,Ben Clifford,cs.DC,http://arxiv.org/pdf/0808.3540v2
+0808.3546v1,2008-08-26T16:02:50Z,Accelerating Large-scale Data Exploration through Data Diffusion,Alex Szalay,cs.DC,http://arxiv.org/pdf/0808.3546v1
+0808.3558v1,2008-08-26T17:16:11Z,"Market-Oriented Cloud Computing: Vision, Hype, and Reality for   Delivering IT Services as Computing Utilities",Srikumar Venugopal,cs.DC,http://arxiv.org/pdf/0808.3558v1
+0808.3693v1,2008-08-27T12:48:39Z,Providing Virtual Execution Environments: A Twofold Illustration,J. M. Dana,cs.DC,http://arxiv.org/pdf/0808.3693v1
+0809.1181v2,2008-09-06T18:37:51Z,Sector and Sphere: Towards Simplified Storage and Processing of Large   Scale Distributed Data,Robert L Grossman,cs.DC,http://arxiv.org/pdf/0809.1181v2
+0809.1489v1,2008-09-09T06:11:31Z,An optimal local approximation algorithm for max-min linear programs,Jukka Suomela,cs.DC,http://arxiv.org/pdf/0809.1489v1
+0809.4107v1,2008-09-24T07:26:09Z,Modelling interdependencies between the electricity and information   infrastructures,Mohamed Kaaniche,cs.DC,http://arxiv.org/pdf/0809.4107v1
+0810.2175v1,2008-10-13T12:45:15Z,A simple local 3-approximation algorithm for vertex cover,Jukka Suomela,cs.DC,http://arxiv.org/pdf/0810.2175v1
+0810.2226v1,2008-10-13T13:07:18Z,Enabling Lock-Free Concurrent Fine-Grain Access to Massive Distributed   Data: Application to Supernovae Detection,Luc Bougé,cs.DC,http://arxiv.org/pdf/0810.2226v1
+0810.2227v1,2008-10-13T13:08:14Z,Distributed Management of Massive Data: an Efficient Fine-Grain Data   Access Scheme,Luc Bougé,cs.DC,http://arxiv.org/pdf/0810.2227v1
+0810.3715v1,2008-10-21T01:00:26Z,Distributed Estimation over Wireless Sensor Networks with Packet Losses,Alberto Sangiovanni-Vincentelli,cs.DC,http://arxiv.org/pdf/0810.3715v1
+0810.3836v3,2008-10-21T13:58:50Z,Best-effort Group Service in Dynamic Networks,Franck Petit,cs.DC,http://arxiv.org/pdf/0810.3836v3
+0810.4440v1,2008-10-24T12:15:40Z,Randomization Adaptive Self-Stabilization,Nir Tzachar,cs.DC,http://arxiv.org/pdf/0810.4440v1
+0810.5439v1,2008-10-30T08:34:48Z,The Multi-Core Era - Trends and Challenges,Peter Tröger,cs.DC,http://arxiv.org/pdf/0810.5439v1
+0810.5596v1,2008-10-31T00:25:15Z,Programming languages with algorithmically parallelizing problem,R. Nuriyev,cs.DC,http://arxiv.org/pdf/0810.5596v1
+0810.5732v1,2008-10-31T16:42:45Z,Practical language based on systems of definitions,R. Nuriyev,cs.DC,http://arxiv.org/pdf/0810.5732v1
+0810.5758v1,2008-10-31T18:44:38Z,Non procedural language for parallel programs,Renat Nuriyev,cs.DC,http://arxiv.org/pdf/0810.5758v1
+0811.1504v1,2008-11-10T15:52:25Z,Parallel execution of portfolio optimization,R. Nuriyev,cs.DC,http://arxiv.org/pdf/0811.1504v1
+0811.3176v1,2008-11-19T19:11:46Z,Self-stabilizing Numerical Iterative Computation,Danny Dolev,cs.DC,http://arxiv.org/pdf/0811.3176v1
+0812.0736v1,2008-12-03T14:58:19Z,Fully distributed and fault tolerant task management based on diffusions,Cyril Rabat,cs.DC,http://arxiv.org/pdf/0812.0736v1
+0901.0131v1,2008-12-31T19:13:05Z,Cloud Computing and Grid Computing 360-Degree Compared,Shiyong Lu,cs.DC,http://arxiv.org/pdf/0901.0131v1
+0901.0134v1,2008-12-31T19:35:07Z,Design and Evaluation of a Collective IO Model for Loosely Coupled   Petascale Programming,Michael Wilde,cs.DC,http://arxiv.org/pdf/0901.0134v1
+0901.1307v1,2009-01-09T20:15:26Z,Using Graphics Processors for Parallelizing Hash-based Data Carving,David Defour,cs.DC,http://arxiv.org/pdf/0901.1307v1
+0901.3384v1,2009-01-22T00:59:01Z,A Boundary Approximation Algorithm for Distributed Sensor Networks,Marko A. Rodriguez,cs.DC,http://arxiv.org/pdf/0901.3384v1
+0902.2685v2,2009-02-16T13:31:44Z,Ganga: a tool for computational-task management and easy access to Grid   resources,M. Williams,cs.DC,http://arxiv.org/pdf/0902.2685v2
+0902.4730v1,2009-02-27T00:00:55Z,Minimal Economic Distributed Computing,Jim Shank,cs.DC,http://arxiv.org/pdf/0902.4730v1
+0903.0710v1,2009-03-04T08:15:00Z,Resource Allocation for Multiple Concurrent In-Network Stream-Processing   Applications,Yves Robert,cs.DC,http://arxiv.org/pdf/0903.0710v1
+0903.0730v1,2009-03-04T11:08:20Z,Grid Technologies,Delia Sabina Stinga,cs.DC,http://arxiv.org/pdf/0903.0730v1
+0903.1386v1,2009-03-08T04:37:33Z,Multi-Objective Problem Solving With Offspring on Enterprise Clouds,Rajkumar Buyya,cs.DC,http://arxiv.org/pdf/0903.1386v1
+0903.1388v1,2009-03-08T04:50:53Z,Jeeva: Enterprise Grid-enabled Web Portal for Protein Secondary   Structure Prediction,Marimuthu Palaniswami,cs.DC,http://arxiv.org/pdf/0903.1388v1
+0903.3462v1,2009-03-20T07:54:05Z,A Nice Labelling for Tree-Like Event Structures of Degree 3 (Extended   Version),Luigi Santocanale,cs.DC,http://arxiv.org/pdf/0903.3462v1
+0903.4961v2,2009-03-29T10:34:34Z,"Global Clock, Physical Time Order and Pending Period Analysis in   Multiprocessor Systems",Weiwu Hu,cs.DC,http://arxiv.org/pdf/0903.4961v2
+0904.4181v1,2009-04-27T15:16:32Z,Java Technology : a Strategic Solution for Interactive Distributed   Applications,Michel Salomon,cs.DC,http://arxiv.org/pdf/0904.4181v1
+0905.1113v1,2009-05-07T19:37:48Z,BlobSeer: How to Enable Efficient Versioning for Large Object Storage   under Heavy Access Concurrency,Luc Bougé,cs.DC,http://arxiv.org/pdf/0905.1113v1
+0905.1786v1,2009-05-12T08:28:47Z,Une CNS pour l'acheminement de messages instantanément stabilisant,Vincent Villain,cs.DC,http://arxiv.org/pdf/0905.1786v1
+0905.4147v1,2009-05-26T09:51:35Z,Distributed Discovery of Large Near-Cliques,Boaz Patt-Shamir,cs.DC,http://arxiv.org/pdf/0905.4147v1
+0906.0281v1,2009-06-01T13:25:21Z,Microcontroller based distributed and networked control system for   public cluster,L. T. Handoko,cs.DC,http://arxiv.org/pdf/0906.0281v1
+0906.1328v1,2009-06-07T06:03:14Z,Multidimensional Analysis of System Logs in Large-scale Cluster Systems,Dan Meng,cs.DC,http://arxiv.org/pdf/0906.1328v1
+0906.1346v6,2009-06-07T10:15:28Z,Phoenix Cloud: Consolidating Different Computing Loads on Shared Cluster   System for Large Organization,Dan Meng,cs.DC,http://arxiv.org/pdf/0906.1346v6
+0906.1947v1,2009-06-10T14:31:18Z,Ideal Stabilization,Sébastien Tixeuil,cs.DC,http://arxiv.org/pdf/0906.1947v1
+0906.2143v1,2009-06-11T16:04:12Z,Dependable Distributed Computing for the International Telecommunication   Union Regional Radio Conference RRC06,A. Muraru,cs.DC,http://arxiv.org/pdf/0906.2143v1
+0906.2914v2,2009-06-16T12:33:25Z,Efficient Multi-site Data Movement Using Constraint Programming for Data   Hungry Science,Michal Šumbera,cs.DC,http://arxiv.org/pdf/0906.2914v2
+0906.3424v1,2009-06-18T12:16:06Z,Decentralized Traffic Management Strategies for Sensor-Enabled Cars,Kotagiri Ramamohanarao,cs.DC,http://arxiv.org/pdf/0906.3424v1
+0906.4302v1,2009-06-23T16:30:51Z,A Peer to Peer Protocol for Online Dispute Resolution over Storage   Consumption,Carlos Molina-Jimenez,cs.DC,http://arxiv.org/pdf/0906.4302v1
+0906.4680v1,2009-06-25T12:35:57Z,Reconfiguration of Distributed Information Fusion System ? A case study,Olivier Passalacqua,cs.DC,http://arxiv.org/pdf/0906.4680v1
+0907.0929v1,2009-07-06T08:01:05Z,CRDTs: Consistency without concurrency control,Marc Shapiro,cs.DC,http://arxiv.org/pdf/0907.0929v1
+0907.1375v1,2009-07-08T15:11:00Z,PT-Scotch: A tool for efficient parallel graph ordering,François Pellegrini,cs.DC,http://arxiv.org/pdf/0907.1375v1
+0907.2949v2,2009-07-16T22:42:40Z,Distributed anonymous function computation in information fusion and   multiagent systems,John N. Tsitsiklis,cs.DC,http://arxiv.org/pdf/0907.2949v2
+0907.3118v1,2009-07-17T17:22:12Z,On the Convergence of Population Protocols When Population Goes to   Infinity,Xavier Koegler,cs.DC,http://arxiv.org/pdf/0907.3118v1
+0907.4810v1,2009-07-28T00:54:23Z,The Open Cloud Testbed: A Wide Area Testbed for Cloud Computing   Utilizing High Performance Network Services,Joe Mambratti,cs.DC,http://arxiv.org/pdf/0907.4810v1
+0908.0160v1,2009-08-02T21:09:20Z,Self-stabilizing Byzantine Agreement,Danny Dolev,cs.DC,http://arxiv.org/pdf/0908.0160v1
+0908.1797v2,2009-08-12T20:52:52Z,Separation of Circulating Tokens,Ted Herman,cs.DC,http://arxiv.org/pdf/0908.1797v2
+0908.2222v1,2009-08-16T08:30:48Z,Transaction-Oriented Simulation In Ad Hoc Grids: Design and Experience,Vladimir Getov,cs.DC,http://arxiv.org/pdf/0908.2222v1
+0908.2295v1,2009-08-17T07:39:06Z,An Optimal Self-Stabilizing Firing Squad,Yoram Moses,cs.DC,http://arxiv.org/pdf/0908.2295v1
+0908.2958v1,2009-08-20T16:26:21Z,Design and Implementation of a Distributed Middleware for Parallel   Execution of Legacy Enterprise Applications,Que Thu Dung Nguyen,cs.DC,http://arxiv.org/pdf/0908.2958v1
+0909.1146v1,2009-09-07T06:13:40Z,Energy-Efficient Scheduling of HPC Applications in Cloud Computing   Environments,Rajkumar Buyya,cs.DC,http://arxiv.org/pdf/0909.1146v1
+0909.1517v1,2009-09-08T17:02:58Z,Autonomic management of multiple non-functional concerns in behavioural   skeletons,Peter Kilpatrick,cs.DC,http://arxiv.org/pdf/0909.1517v1
+0909.1788v1,2009-09-09T18:10:57Z,Building on Quicksand,David Campbell,cs.DC,http://arxiv.org/pdf/0909.1788v1
+0909.5177v3,2009-09-28T19:57:13Z,Transform-based Distributed Data Gathering,Antonio Ortega,cs.DC,http://arxiv.org/pdf/0909.5177v3
+0911.0910v1,2009-11-04T18:56:03Z,Domain Decomposition Based High Performance Parallel Computing,Siddhartha Khaitan,cs.DC,http://arxiv.org/pdf/0911.0910v1
+0911.3945v1,2009-11-20T01:51:30Z,A Semantic Grid Oriented to E-Tourism,Xiao Ming Zhang,cs.DC,http://arxiv.org/pdf/0911.3945v1
+0911.5438v1,2009-11-28T23:50:28Z,Building and Installing a Hadoop/MapReduce Cluster from Commodity   Components,Gary Berosik,cs.DC,http://arxiv.org/pdf/0911.5438v1
+0911.5593v1,2009-11-30T09:39:15Z,Checkpointing vs. Migration for Post-Petascale Machines,Yves Robert,cs.DC,http://arxiv.org/pdf/0911.5593v1
+0912.1835v1,2009-12-09T18:50:52Z,High Availability Cluster System for Local Disaster Recovery with Markov   Modeling Approach,T. Thein,cs.DC,http://arxiv.org/pdf/0912.1835v1
+1001.0421v1,2010-01-04T00:15:58Z,MapReduce for Integer Factorization,Javier Tordable,cs.DC,http://arxiv.org/pdf/1001.0421v1
+1001.2785v2,2010-01-18T20:12:54Z,Termination Detection of Local Computations,Gerard Tel,cs.DC,http://arxiv.org/pdf/1001.2785v2
+1001.3259v1,2010-01-19T15:53:41Z,Research Agenda in Cloud Technologies,Ali Khajeh-Hosseini,cs.DC,http://arxiv.org/pdf/1001.3259v1
+1001.3718v1,2010-01-21T04:47:58Z,Severity Prediction of Drought in A Large Geographical Area Using   Distributed Wireless Sensor Networks,T. R. Gopalakrsihnan Nair,cs.DC,http://arxiv.org/pdf/1001.3718v1
+1001.3824v1,2010-01-21T15:17:30Z,Performance and Fault Tolerance in the StoreTorrent Parallel Filesystem,Federico D. Sacerdoti,cs.DC,http://arxiv.org/pdf/1001.3824v1
+1001.4197v1,2010-01-23T19:28:13Z,Optimization of Multiple Vehicle Routing Problems using Approximation   Algorithms,P. Parthiban,cs.DC,http://arxiv.org/pdf/1001.4197v1
+1002.0125v1,2010-01-31T13:46:27Z,Local algorithms in (weakly) coloured graphs,Jara Uitto,cs.DC,http://arxiv.org/pdf/1002.0125v1
+1002.3492v1,2010-02-18T11:25:49Z,Cloud Migration: A Case Study of Migrating an Enterprise IT System to   IaaS,Ian Sommerville,cs.DC,http://arxiv.org/pdf/1002.3492v1
+1002.3602v2,2010-02-18T20:38:03Z,Mobile Wireless Localization through Cooperation,Jing Li,cs.DC,http://arxiv.org/pdf/1002.3602v2
+1002.3629v1,2010-02-18T22:28:03Z,Generalized Adaptive Network Coded Cooperation (GANCC): A Unified   Framework for Network Coding and Channel Coding,Jing Li,cs.DC,http://arxiv.org/pdf/1002.3629v1
+1002.3757v1,2010-02-19T15:02:50Z,Fast Flooding over Manhattan,Riccardo Silvestri,cs.DC,http://arxiv.org/pdf/1002.3757v1
+1002.4003v1,2010-02-21T19:39:35Z,A Cluster-based Approach for Outlier Detection in Dynamic Data Streams   (KORM: k-median OutlieR Miner),Priti Bansal,cs.DC,http://arxiv.org/pdf/1002.4003v1
+1002.4561v1,2010-02-24T15:19:55Z,Breaking the O(n^2) Bit Barrier: Scalable Byzantine agreement with an   Adaptive Adversary,Jared Saia,cs.DC,http://arxiv.org/pdf/1002.4561v1
+1002.4738v1,2010-02-25T10:19:37Z,An Approach to Ad hoc Cloud Computing,Alvaro Fernandes,cs.DC,http://arxiv.org/pdf/1002.4738v1
+1004.0728v1,2010-04-05T22:08:46Z,Effects of component-subscription network topology on large-scale data   centre performance scaling,Dave Cliff,cs.DC,http://arxiv.org/pdf/1004.0728v1
+1004.1276v1,2010-04-08T08:07:08Z,"In Cloud, Can Scientific Communities Benefit from the Economies of   Scale?",Yi Liang,cs.DC,http://arxiv.org/pdf/1004.1276v1
+1004.1324v1,2010-04-08T13:03:11Z,Distributed Fault-Tolerant Avionic Systems - A Real-Time Perspective,Neil Audsley,cs.DC,http://arxiv.org/pdf/1004.1324v1
+1004.1746v1,2010-04-10T22:17:18Z,Internet ware cloud computing :Challenges,Mrityunjay Singh,cs.DC,http://arxiv.org/pdf/1004.1746v1
+1004.1864v2,2010-04-12T01:25:49Z,The Low Latency Fault Tolerance System,L. E. Moser,cs.DC,http://arxiv.org/pdf/1004.1864v2
+1004.2308v1,2010-04-14T03:14:49Z,Addressing the P2P Bootstrap Problem for Small Networks,Renato Figueiredo,cs.DC,http://arxiv.org/pdf/1004.2308v1
+1004.2772v2,2010-04-16T07:53:38Z,Boosting Multi-Core Reachability Performance with Shared Hash Tables,Michael Weber,cs.DC,http://arxiv.org/pdf/1004.2772v2
+1004.3395v1,2010-04-20T10:03:01Z,Passively Mobile Communicating Logarithmic Space Machines,Paul G. Spirakis,cs.DC,http://arxiv.org/pdf/1004.3395v1
+1004.3566v1,2010-04-20T20:32:31Z,An Economic-based Resource Management and Scheduling for Grid Computing   Applications,C. Chellappan,cs.DC,http://arxiv.org/pdf/1004.3566v1
+1004.4559v1,2010-04-26T15:51:23Z,The Accuracy of Tree-based Counting in Dynamic Networks,Fetahi Wuhib,cs.DC,http://arxiv.org/pdf/1004.4559v1
+1004.4701v3,2010-04-27T03:29:43Z,Relating L-Resilience and Wait-Freedom via Hitting Sets,Petr Kuznetsov,cs.DC,http://arxiv.org/pdf/1004.4701v3
+1004.5256v1,2010-04-29T12:02:13Z,Construction auto-stabilisante d'arbre couvrant en dépit d'actions   malicieuses,Sébastien Tixeuil,cs.DC,http://arxiv.org/pdf/1004.5256v1
+1007.0050v1,2010-06-30T23:54:01Z,Cloud Scheduler: a resource manager for distributed compute clouds,R. J. Sobie,cs.DC,http://arxiv.org/pdf/1007.0050v1
+1007.0066v2,2010-07-01T04:44:27Z,A Taxonomy and Survey of Energy-Efficient Data Centers and Cloud   Computing Systems,Albert Zomaya,cs.DC,http://arxiv.org/pdf/1007.0066v2
+1007.0107v1,2010-07-01T09:11:42Z,First Smart Spaces,Andy Wilson,cs.DC,http://arxiv.org/pdf/1007.0107v1
+1007.0328v1,2010-07-02T10:08:57Z,Autonomic Management in a Distributed Storage System,Markus Tauber,cs.DC,http://arxiv.org/pdf/1007.0328v1
+1007.1049v3,2010-07-07T04:50:43Z,Simple Gradecast Based Algorithms,Ezra N. Hoch,cs.DC,http://arxiv.org/pdf/1007.1049v3
+1007.1086v1,2010-07-07T09:33:58Z,On the Power of Impersonation Attacks,Michael Okun,cs.DC,http://arxiv.org/pdf/1007.1086v1
+1007.1189v3,2010-07-07T17:25:53Z,A Jamming-Resistant MAC Protocol for Multi-Hop Wireless Networks,Jin Zhang,cs.DC,http://arxiv.org/pdf/1007.1189v3
+1007.1261v1,2010-07-07T23:26:22Z,MalStone: Towards A Benchmark for Analytics on Large Data Clouds,Steve Vejcik,cs.DC,http://arxiv.org/pdf/1007.1261v1
+1007.1709v2,2010-07-10T09:45:11Z,A Fault-Resistant Asynchronous Clock Function,Danny Dolev,cs.DC,http://arxiv.org/pdf/1007.1709v2
+1007.2902v1,2010-07-17T06:25:34Z,LANC: locality-aware network coding for better P2P traffic localization,Guoqing Zhang,cs.DC,http://arxiv.org/pdf/1007.2902v1
+1007.4057v1,2010-07-23T07:37:32Z,"Precise, Scalable and Online Request Tracing for Multi-tier Services of   Black Boxes",Dan Meng,cs.DC,http://arxiv.org/pdf/1007.4057v1
+1007.4438v1,2010-07-26T12:36:31Z,Threads and Or-Parallelism Unified,Ricardo Rocha,cs.DC,http://arxiv.org/pdf/1007.4438v1
+1007.4723v1,2010-07-27T13:58:10Z,Public Infrastructure for Monte Carlo Simulation: publicMC@BATAN,L. T. Handoko,cs.DC,http://arxiv.org/pdf/1007.4723v1
+1007.4890v2,2010-07-28T08:13:24Z,PowerTracer: Tracing requests in multi-tier services to save cluster   power consumption,Haining Wang,cs.DC,http://arxiv.org/pdf/1007.4890v2
+1007.5088v1,2010-07-29T00:12:33Z,Simplified Distributed Programming with Micro Objects,Maarten van Steen,cs.DC,http://arxiv.org/pdf/1007.5088v1
+1008.0011v1,2010-07-30T20:38:38Z,Parallel and distributed Gröbner bases computation in JAS,Heinz Kredel,cs.DC,http://arxiv.org/pdf/1008.0011v1
+1008.0064v1,2010-07-31T07:37:26Z,Self-repairing Homomorphic Codes for Distributed Storage Systems,Anwitaman Datta,cs.DC,http://arxiv.org/pdf/1008.0064v1
+1008.0451v1,2010-08-03T03:46:56Z,On Optimal Deadlock Detection Scheduling,Cho-Yu Jason Chiang,cs.DC,http://arxiv.org/pdf/1008.0451v1
+1008.1900v1,2010-08-11T12:56:32Z,The Cloud Adoption Toolkit: Supporting Cloud Adoption Decisions in the   Enterprise,Ian Sommerville,cs.DC,http://arxiv.org/pdf/1008.1900v1
+1008.2767v1,2010-08-16T20:14:11Z,A Light-Weight Communication Library for Distributed Computing,Simon Portegies Zwart,cs.DC,http://arxiv.org/pdf/1008.2767v1
+1008.4551v1,2010-08-26T17:29:31Z,Deterministic Consensus Algorithm with Linear Per-Bit Complexity,Nitin Vaidya,cs.DC,http://arxiv.org/pdf/1008.4551v1
+1009.0056v1,2010-08-31T23:54:57Z,A Competitive Analysis for Balanced Transactional Memory Workloads,Costas Busch,cs.DC,http://arxiv.org/pdf/1009.0056v1
+1009.2314v1,2010-09-13T07:36:47Z,Mapping Cloud Computing onto Useful e-Governance,Deepak Gour,cs.DC,http://arxiv.org/pdf/1009.2314v1
+1009.4048v1,2010-09-21T10:29:50Z,A Middleware road towards Web (Grid) Services,Zeeshan Ahmed,cs.DC,http://arxiv.org/pdf/1009.4048v1
+1009.4870v1,2010-09-24T15:42:30Z,Hallway Monitoring: Distributed Data Processing with Wireless Sensor   Networks,Max Pagel,cs.DC,http://arxiv.org/pdf/1009.4870v1
+1010.0562v1,2010-10-04T12:25:04Z,The Impact of Data Replicatino on Job Scheduling Performance in   Hierarchical data Grid,Somayeh Mohamadi,cs.DC,http://arxiv.org/pdf/1010.0562v1
+1010.0958v1,2010-10-05T17:54:58Z,Reconstruction of Aggregation Tree in spite of Faulty Nodes in Wireless   Sensor Networks,Partha Sarathi Mandal,cs.DC,http://arxiv.org/pdf/1010.0958v1
+1010.1015v1,2010-10-05T20:35:53Z,Astronomy in the Cloud: Using MapReduce for Image Coaddition,YingYi Bu,cs.DC,http://arxiv.org/pdf/1010.1015v1
+1010.1112v1,2010-10-06T10:18:02Z,Deterministic and Energy-Optimal Wireless Synchronization,Rafail Ostrovsky,cs.DC,http://arxiv.org/pdf/1010.1112v1
+1010.1812v1,2010-10-09T06:00:33Z,Modified Bully Algorithm using Election Commission,Afroza Nahar,cs.DC,http://arxiv.org/pdf/1010.1812v1
+1010.2000v1,2010-10-11T05:34:40Z,A Critical Path Approach to Analyzing Parallelism of Algorithmic   Variants. Application to Cholesky Inversion,Julien Langou,cs.DC,http://arxiv.org/pdf/1010.2000v1
+1010.2454v1,2010-10-12T17:51:01Z,Distributed Deterministic Edge Coloring using Bounded Neighborhood   Independence,Michael Elkin,cs.DC,http://arxiv.org/pdf/1010.2454v1
+1010.2824v1,2010-10-14T05:16:17Z,Behavioural Models for Group Communications,Eric Madelaine,cs.DC,http://arxiv.org/pdf/1010.2824v1
+1010.2828v1,2010-10-14T05:16:43Z,A Reusable Component for Communication and Data Synchronization in   Mobile Distributed Interactive Applications,Antoine Beugnard,cs.DC,http://arxiv.org/pdf/1010.2828v1
+1010.2881v1,2010-10-14T11:33:28Z,Service Level Agreement (SLA) in Utility Computing Systems,Rajkumar Buyya,cs.DC,http://arxiv.org/pdf/1010.2881v1
+1010.3053v1,2010-10-15T00:28:44Z,Parallel Sorted Neighborhood Blocking with MapReduce,Erhard Rahm,cs.DC,http://arxiv.org/pdf/1010.3053v1
+1010.3233v1,2010-10-15T17:51:50Z,A Survey of Virtualization Technologies With Performance Testing,Adam Pilbeam,cs.DC,http://arxiv.org/pdf/1010.3233v1
+1010.4018v1,2010-10-19T19:37:09Z,A Paradigm for Channel Assignment and Data Migration in Distributed   Systems,Chadi Kari,cs.DC,http://arxiv.org/pdf/1010.4018v1
+1010.4639v1,2010-10-22T08:46:04Z,Parallel Sparse Matrix Solver on the GPU Applied to Simulation of   Electrical Machines,Jean-Luc Dekeyser,cs.DC,http://arxiv.org/pdf/1010.4639v1
+1010.4952v1,2010-10-24T12:08:12Z,Towards Constraint-based High Performance Cloud System in the Process of   Cloud Computing Adoption in an Organization,Sangyoon Oh,cs.DC,http://arxiv.org/pdf/1010.4952v1
+1010.5421v1,2010-10-26T15:10:37Z,On the Mesh Array for Matrix Multiplication,Subhash Kak,cs.DC,http://arxiv.org/pdf/1010.5421v1
+1011.0715v1,2010-11-02T19:42:04Z,Flexible Session Management in a Distributed Environment,Igor Sfiligoi,cs.DC,http://arxiv.org/pdf/1011.0715v1
+1011.1173v1,2010-11-04T14:39:26Z,Rank k Cholesky Up/Down-dating on the GPU: gpucholmodV0.2,Christian Walder,cs.DC,http://arxiv.org/pdf/1011.1173v1
+1011.2235v3,2010-11-09T23:50:10Z,Multiscale Gossip for Efficient Decentralized Averaging in Wireless   Packet Networks,Michael G. Rabbat,cs.DC,http://arxiv.org/pdf/1011.2235v3
+1011.2312v1,2010-11-10T08:37:53Z,A framework for proving the self-organization of dynamic systems,Matthieu Roy,cs.DC,http://arxiv.org/pdf/1011.2312v1
+1011.2953v1,2010-11-12T15:35:10Z,A Distributed Clustering Algorithm for Dynamic Networks,Devan Sohier,cs.DC,http://arxiv.org/pdf/1011.2953v1
+1011.3094v1,2010-11-13T03:23:15Z,A High-confidence Cyber-Physical Alarm System: Design and Implementation,Meng Shao,cs.DC,http://arxiv.org/pdf/1011.3094v1
+1011.3170v1,2010-11-14T00:52:14Z,Slightly smaller splitter networks,James Aspnes,cs.DC,http://arxiv.org/pdf/1011.3170v1
+1011.3632v2,2010-11-16T10:04:34Z,Stabilizing data-link over non-FIFO channels with optimal   fault-resilience,Sébastien Tixeuil,cs.DC,http://arxiv.org/pdf/1011.3632v2
+1011.4135v1,2010-11-18T04:47:28Z,Progressive Decoding for Data Availability and Reliability in   Distributed Networked Storage,Rong Zheng,cs.DC,http://arxiv.org/pdf/1011.4135v1
+1011.5064v1,2010-11-23T11:26:48Z,Optimal Placement Algorithms for Virtual Machines,Madhu Kumar SD,cs.DC,http://arxiv.org/pdf/1011.5064v1
+1011.5470v2,2010-11-24T19:56:31Z,Local Computation: Lower and Upper Bounds,Roger Wattenhofer,cs.DC,http://arxiv.org/pdf/1011.5470v2
+1011.5568v1,2010-11-25T08:41:38Z,Correlated Resource Models of Internet End Hosts,Anderson David,cs.DC,http://arxiv.org/pdf/1011.5568v1
+1011.5808v1,2010-11-26T14:45:53Z,Dotted Version Vectors: Logical Clocks for Optimistic Replication,Ricardo Gonçalves,cs.DC,http://arxiv.org/pdf/1011.5808v1
+1011.6596v1,2010-11-30T16:10:49Z,Dependability in Aggregation by Averaging,Paulo Sérgio Almeida,cs.DC,http://arxiv.org/pdf/1011.6596v1
+1012.1131v1,2010-12-06T11:14:22Z,A Log Auditing Approach for Trust Management in Peer-to-Peer   Collaboration,Claudia-Lavinia Ignat,cs.DC,http://arxiv.org/pdf/1012.1131v1
+1012.2270v1,2010-12-10T14:04:33Z,New Row-grouped CSR format for storing the sparse matrices on GPU with   implementation in CUDA,Jan Vacata,cs.DC,http://arxiv.org/pdf/1012.2270v1
+1012.2273v1,2010-12-10T14:17:19Z,Performance Evaluation of Parallel Message Passing and Thread   Programming Model on Multicore Architectures,A. B. Mutiara,cs.DC,http://arxiv.org/pdf/1012.2273v1
+1012.2499v1,2010-12-12T00:15:44Z,openPC : a toolkit for public cluster with full ownership,L. T. Handoko,cs.DC,http://arxiv.org/pdf/1012.2499v1
+1012.2860v4,2010-12-13T20:58:58Z,Towards Refactoring the DMF to Support Jini and JMS DMS in GIPSY,Joey Paquet,cs.DC,http://arxiv.org/pdf/1012.2860v4
+1012.3347v2,2010-12-15T14:31:05Z,An Architectural Design for Brokered Collaborative Content Delivery   System,Sangyoon Oh,cs.DC,http://arxiv.org/pdf/1012.3347v2
+1012.5030v1,2010-12-22T16:43:12Z,Work-stealing for mixed-mode parallelism by deterministic team-building,Jesper Larsson Träff,cs.DC,http://arxiv.org/pdf/1012.5030v1
+1012.5834v5,2010-12-28T20:36:09Z,Maximum Lifetime for Data Regeneration in Wireless Sensor Networks,Rong Zheng,cs.DC,http://arxiv.org/pdf/1012.5834v5
+1101.0093v1,2010-12-30T14:55:02Z,Optimizing ccNUMA locality for task-parallel execution under OpenMP and   TBB on multicore-based systems,Georg Hager,cs.DC,http://arxiv.org/pdf/1101.0093v1
+1101.0357v1,2011-01-01T17:44:04Z,Data Intensive High Energy Physics Analysis in a Distributed Cloud,W. Podaima,cs.DC,http://arxiv.org/pdf/1101.0357v1
+1101.0664v1,2011-01-04T06:58:07Z,Computer Simulation Center in Internet,E. V. Vorozhtsov,cs.DC,http://arxiv.org/pdf/1101.0664v1
+1101.1680v1,2011-01-09T22:24:44Z,Safe Register Token Transfer in a Ring,Ted Herman,cs.DC,http://arxiv.org/pdf/1101.1680v1
+1101.1846v1,2011-01-10T15:27:48Z,Using graphics processing units to generate random numbers,B. Ozell,cs.DC,http://arxiv.org/pdf/1101.1846v1
+1101.1902v1,2011-01-10T17:46:40Z,"Sorting, Searching, and Simulation in the MapReduce Framework",Qin Zhang,cs.DC,http://arxiv.org/pdf/1101.1902v1
+1101.1932v1,2011-01-10T19:34:56Z,Efficient tilings of de Bruijn and Kautz graphs,Lawrence C. Stewart,cs.DC,http://arxiv.org/pdf/1101.1932v1
+1101.2573v1,2011-01-13T14:50:33Z,An Overview of Portable Distributed Techniques,Nirved Pandey,cs.DC,http://arxiv.org/pdf/1101.2573v1
+1101.4116v3,2011-01-21T11:56:07Z,GridCertLib: a Single Sign-on Solution for Grid Web Applications and   Portals,Valery Tschopp,cs.DC,http://arxiv.org/pdf/1101.4116v3
+1101.4193v2,2011-01-21T17:47:24Z,A Model for Coherent Distributed Memory For Race Condition Detection,Camille Coti,cs.DC,http://arxiv.org/pdf/1101.4193v2
+1101.4474v1,2011-01-24T09:32:03Z,Thermal Analysis of Climate Regions using Remote Sensing and Grid   Computing,Carmen Maftei,cs.DC,http://arxiv.org/pdf/1101.4474v1
+1102.0516v1,2011-02-02T17:36:58Z,QOS based user driven scheduler for grid environment,Madhuri Bhavsar,cs.DC,http://arxiv.org/pdf/1102.0516v1
+1102.1754v1,2011-02-09T00:25:31Z,Probability Based Adaptive Invoked Clustering Algorithm in MANETs,K. Indumathi,cs.DC,http://arxiv.org/pdf/1102.1754v1
+1102.2131v2,2011-02-10T14:39:49Z,Analytical Study of Object Components for Distributed and Ubiquitous   Computing Environment,Sachin Bhardwaj,cs.DC,http://arxiv.org/pdf/1102.2131v2
+1102.2608v1,2011-02-13T15:56:29Z,Power Efficient Resource Allocation for Clouds Using Ant Colony   Framework,Madhu Kumar S D,cs.DC,http://arxiv.org/pdf/1102.2608v1
+1102.2616v1,2011-02-13T16:50:30Z,An Improved Multiple Faults Reassignment based Recovery in Cluster   Computing,Sanjeev Sharma,cs.DC,http://arxiv.org/pdf/1102.2616v1
+1102.3114v1,2011-02-15T16:05:04Z,Establishing Applicability of SSDs to LHC Tier-2 Hardware Configuration,Mike Kenyon,cs.DC,http://arxiv.org/pdf/1102.3114v1
+1102.3563v1,2011-02-17T11:28:21Z,Parallel algorithms for SAT in application to inversion problems of some   discrete functions,Mikhail Posypkin,cs.DC,http://arxiv.org/pdf/1102.3563v1
+1102.4423v1,2011-02-22T07:41:38Z,Solving k-Set Agreement with Stable Skeleton Graphs,Ulrich Schmid,cs.DC,http://arxiv.org/pdf/1102.4423v1
+1102.4946v1,2011-02-24T10:24:43Z,An Equivariance Theorem with Applications to Renaming (Preliminary   Version),Sergio Rajsbaum,cs.DC,http://arxiv.org/pdf/1102.4946v1
+1102.5328v1,2011-02-25T20:21:32Z,Fully Empirical Autotuned QR Factorization For Multicore Architectures,Stanimire Tomov,cs.DC,http://arxiv.org/pdf/1102.5328v1
+1105.0149v1,2011-05-01T07:48:42Z,Decision Support Tools for Cloud Migration in the Enterprise,Pradeep Teregowda,cs.DC,http://arxiv.org/pdf/1105.0149v1
+1105.0296v1,2011-05-02T10:44:12Z,A Formal Model of Anonymous Systems,Yang D. Li,cs.DC,http://arxiv.org/pdf/1105.0296v1
+1105.0545v4,2011-05-03T11:02:37Z,On the Degree Distribution of Faulty Peer-to-Peer Overlays,Stefano Ferretti,cs.DC,http://arxiv.org/pdf/1105.0545v4
+1105.0668v2,2011-05-03T19:59:13Z,Secure Position Verification for Wireless Sensor Networks in Noisy   Channels,Anil K. Ghosh,cs.DC,http://arxiv.org/pdf/1105.0668v2
+1105.1074v2,2011-05-05T13:56:48Z,Progressive quantization in distributed average consensus,Pascal Frossard,cs.DC,http://arxiv.org/pdf/1105.1074v2
+1105.1248v1,2011-05-06T09:36:03Z,A Distributed Approximation Algorithm for the Metric Uncapacitated   Facility Location Problem in the Congest Model,Peter Pietrzyk,cs.DC,http://arxiv.org/pdf/1105.1248v1
+1105.1982v1,2011-05-10T15:49:38Z,Secure Data Processing in a Hybrid Cloud,Sharad Mehrotra,cs.DC,http://arxiv.org/pdf/1105.1982v1
+1105.2213v1,2011-05-10T18:02:56Z,A Cloud-based Approach for Context Information Provisioning,Larbi Esmahi,cs.DC,http://arxiv.org/pdf/1105.2213v1
+1105.2301v4,2011-05-11T20:01:11Z,Parallel and Distributed Simulation from Many Cores to the Public Cloud   (Extended Version),Gabriele D'Angelo,cs.DC,http://arxiv.org/pdf/1105.2301v4
+1105.2584v1,2011-05-12T22:00:36Z,Workload Classification & Software Energy Measurement for Efficient   Scheduling on Private Cloud Platforms,Ian Sommerville,cs.DC,http://arxiv.org/pdf/1105.2584v1
+1105.4424v1,2011-05-23T07:54:02Z,A Modeling Approach based on UML/MARTE for GPU Architecture,Jean-Luc Dekeyser,cs.DC,http://arxiv.org/pdf/1105.4424v1
+1105.5817v1,2011-05-29T19:23:54Z,Robot Networks with Homonyms: The Case of Patterns Formation,Anissa Lamani,cs.DC,http://arxiv.org/pdf/1105.5817v1
+1105.6040v1,2011-05-30T16:53:36Z,Parallel Performance of MPI Sorting Algorithms on Dual-Core Processor   Windows-Based Systems,Alaa Ismail Elnashar,cs.DC,http://arxiv.org/pdf/1105.6040v1
+1106.0736v1,2011-06-03T19:50:22Z,Distributed Stochastic Power Control in Ad-hoc Networks: A Nonconvex   Case,Jason H. Li,cs.DC,http://arxiv.org/pdf/1106.0736v1
+1106.0940v1,2011-06-06T00:02:32Z,Hadoop Performance Models,Herodotos Herodotou,cs.DC,http://arxiv.org/pdf/1106.0940v1
+1106.1286v1,2011-06-07T09:09:17Z,Traffic Performance Analysis of Manet Routing Protocol,Y. Venkataramani,cs.DC,http://arxiv.org/pdf/1106.1286v1
+1106.1845v3,2011-06-09T16:07:57Z,Byzantine Broadcast in Point-to-Point Networks using Local Linear Coding,Nitin Vaidya,cs.DC,http://arxiv.org/pdf/1106.1845v3
+1106.1846v1,2011-06-09T16:13:54Z,New Efficient Error-Free Multi-Valued Consensus with Byzantine Failures,Nitin Vaidya,cs.DC,http://arxiv.org/pdf/1106.1846v1
+1106.2065v1,2011-06-10T14:11:33Z,Oblivious Collaboration,Benny Sudakov,cs.DC,http://arxiv.org/pdf/1106.2065v1
+1106.2126v1,2011-06-10T17:28:35Z,MIS on the fly,Ziv Bar-Joseph,cs.DC,http://arxiv.org/pdf/1106.2126v1
+1106.3579v2,2011-06-17T21:16:51Z,Consensus vs Broadcast in Communication Networks with Arbitrary Mobile   Omission Faults,Joseph Peters,cs.DC,http://arxiv.org/pdf/1106.3579v2
+1106.4213v1,2011-06-21T14:24:43Z,A New and Efficient Algorithm-Based Fault Tolerance Scheme for A Million   Way Parallelism,Guangming Tan,cs.DC,http://arxiv.org/pdf/1106.4213v1
+1106.4985v1,2011-06-24T14:54:51Z,Dynamic Fractional Resource Scheduling vs. Batch Scheduling,Frédéric Vivien,cs.DC,http://arxiv.org/pdf/1106.4985v1
+1106.5158v1,2011-06-25T19:40:21Z,MONARC Simulation Framework,Corina Stratan,cs.DC,http://arxiv.org/pdf/1106.5158v1
+1106.5168v1,2011-06-25T20:49:17Z,LISA (Localhost Information Service Agent),Lucian Musat,cs.DC,http://arxiv.org/pdf/1106.5168v1
+1106.5170v2,2011-06-25T20:53:20Z,The Contest Between Simplicity and Efficiency in Asynchronous Byzantine   Agreement,Allison Lewko,cs.DC,http://arxiv.org/pdf/1106.5170v2
+1106.5171v1,2011-06-25T20:54:12Z,A Distributed Agent Based System to Control and Coordinate Large Scale   Data Transfers,Iosif C. Legrand,cs.DC,http://arxiv.org/pdf/1106.5171v1
+1106.5299v1,2011-06-27T05:49:21Z,DistHash: A robust P2P DHT-based system for replicated objects,Valentin Cristea,cs.DC,http://arxiv.org/pdf/1106.5299v1
+1106.5302v1,2011-06-27T06:03:28Z,Towards an IO intensive Grid application instrumentation in MedioGRID,Vladimir Cretu,cs.DC,http://arxiv.org/pdf/1106.5302v1
+1106.5303v1,2011-06-27T06:03:42Z,Intelligent strategies for DAG scheduling optimization in Grid   environments,Valentin Cristea,cs.DC,http://arxiv.org/pdf/1106.5303v1
+1106.5309v1,2011-06-27T06:24:40Z,"Resource CoAllocation for Scheduling Tasks with Dependencies, in Grid",Valentin Cristea,cs.DC,http://arxiv.org/pdf/1106.5309v1
+1106.5310v1,2011-06-27T06:24:50Z,Advance Reservation of Resources for Task Execution in Grid Environments,Valentin Cristea,cs.DC,http://arxiv.org/pdf/1106.5310v1
+1106.5451v1,2011-06-27T17:16:41Z,Hybrid complex network topologies are preferred for   component-subscription in large-scale data-centres,Dave Cliff,cs.DC,http://arxiv.org/pdf/1106.5451v1
+1106.5457v1,2011-06-27T17:31:49Z,Modelling Resilience in Cloud-Scale Data Centres,Ilango Sriram,cs.DC,http://arxiv.org/pdf/1106.5457v1
+1106.5465v1,2011-06-27T18:01:03Z,SPECI-2: An open-source framework for predictive simulation of   cloud-scale data-centres,Dave Cliff,cs.DC,http://arxiv.org/pdf/1106.5465v1
+1106.5570v1,2011-06-28T06:01:49Z,A distributed service for on demand end to end optical circuits,Ciprian Dobre,cs.DC,http://arxiv.org/pdf/1106.5570v1
+1106.5576v1,2011-06-28T06:53:59Z,"Models and Techniques for Ensuring Reliability, Safety, Availability and   Security of Large Scale Distributed Systems",Catalin Leordeanu,cs.DC,http://arxiv.org/pdf/1106.5576v1
+1106.5846v1,2011-06-29T06:03:11Z,An Architectural Model for a Grid based Workflow Management Platform in   Scientific Applications,Valentin Cristea,cs.DC,http://arxiv.org/pdf/1106.5846v1
+1106.5908v1,2011-06-29T11:25:50Z,Hybrid-parallel sparse matrix-vector multiplication with explicit   communication overlap on current multicore-based systems,Gerhard Wellein,cs.DC,http://arxiv.org/pdf/1106.5908v1
+1106.6122v1,2011-06-30T06:37:34Z,Simulation Framework for Modeling Large-Scale Distributed Systems,Iosif C. Legrand,cs.DC,http://arxiv.org/pdf/1106.6122v1
+1106.6304v1,2011-06-30T17:12:14Z,A Dynamic Elimination-Combining Stack Algorithm,Adi Suissa,cs.DC,http://arxiv.org/pdf/1106.6304v1
+1107.0538v1,2011-07-04T06:13:51Z,Automatic Multi-GPU Code Generation applied to Simulation of Electrical   Machines,Yvonnick Le Menach,cs.DC,http://arxiv.org/pdf/1107.0538v1
+1107.1866v4,2011-07-10T15:48:34Z,Priority-based task reassignments in hierarchical 2D mesh-connected   systems using tableaux,Dohan Kim,cs.DC,http://arxiv.org/pdf/1107.1866v4
+1107.2990v2,2011-07-15T04:24:38Z,Solving the At-Most-Once Problem with Nearly Optimal Effectiveness,Aggelos Kiayias,cs.DC,http://arxiv.org/pdf/1107.2990v2
+1107.3129v1,2011-07-15T18:46:33Z,Homomorphic Self-repairing Codes for Agile Maintenance of Distributed   Storage Systems,Anwitaman Datta,cs.DC,http://arxiv.org/pdf/1107.3129v1
+1107.3734v1,2011-07-19T15:13:23Z,Decentralized List Scheduling,Denis Trystram,cs.DC,http://arxiv.org/pdf/1107.3734v1
+1107.6014v1,2011-07-29T16:37:44Z,Snap-Stabilizing Message Forwarding Algorithm on Tree Topologies,Vincent Villain,cs.DC,http://arxiv.org/pdf/1107.6014v1
+1108.0231v1,2011-08-01T03:58:16Z,Predicting global usages of resources endowed with local policies,Gian Luigi Ferrari,cs.DC,http://arxiv.org/pdf/1108.0231v1
+1108.0599v1,2011-08-02T15:45:12Z,Proposal for improvement in the transfer and execution of multiple   instances of a virtual image,Daniel Lombrana Gonzalez,cs.DC,http://arxiv.org/pdf/1108.0599v1
+1108.0972v1,2011-08-04T01:22:53Z,Network Localization on Unit Disk Graphs,Nattakan Puttarak,cs.DC,http://arxiv.org/pdf/1108.0972v1
+1108.1321v1,2011-08-05T12:56:43Z,Accurate location estimation of moving object with energy constraint &   adaptive update algorithms to save data,Meenakshi Sati,cs.DC,http://arxiv.org/pdf/1108.1321v1
+1108.1462v1,2011-08-06T08:03:43Z,On a New Multicomputer Interconnection Topology for Massively Parallel   Systems,Nibedita Adhikari,cs.DC,http://arxiv.org/pdf/1108.1462v1
+1108.1631v1,2011-08-08T08:48:57Z,Load Balancing for MapReduce-based Entity Resolution,Erhard Rahm,cs.DC,http://arxiv.org/pdf/1108.1631v1
+1108.1928v1,2011-08-09T13:57:18Z,HybridNN: Supporting Network Location Service on Generalized Delay   Metrics,Ernst Biersack,cs.DC,http://arxiv.org/pdf/1108.1928v1
+1108.3268v1,2011-08-16T15:26:44Z,On the Performance of MPI-OpenMP on a 12 nodes Multi-core Cluster,Mohiuddin Ahmed,cs.DC,http://arxiv.org/pdf/1108.3268v1
+1108.4471v1,2011-08-23T01:24:08Z,Synchrony vs. Causality in Asynchronous Petri Nets,Ursula Goltz,cs.DC,http://arxiv.org/pdf/1108.4471v1
+1109.0397v2,2011-09-02T10:08:38Z,Auction-Based Resource Allocation in Digital Ecosystems,Gabriele D'Angelo,cs.DC,http://arxiv.org/pdf/1109.0397v2
+1109.0742v1,2011-09-04T19:28:43Z,Problems in Modern High Performance Parallel I/O Systems,Robert Louis Cloud,cs.DC,http://arxiv.org/pdf/1109.0742v1
+1109.1650v1,2011-09-08T08:04:06Z,An Empirical Study and Analysis of the Dynamic Load Balancing Techniques   Used in Parallel Computing Systems,Subhas Chandra Pal,cs.DC,http://arxiv.org/pdf/1109.1650v1
+1109.1706v1,2011-09-08T12:50:38Z,On the Fault Tolerance and Hamiltonicity of the Optical Transpose   Interconnection System of Non-Hamiltonian Base Graphs,C. Pandu Rangan,cs.DC,http://arxiv.org/pdf/1109.1706v1
+1109.3074v1,2011-09-14T13:25:35Z,Design and implementation of self-adaptable parallel algorithms for   scientific computing on highly heterogeneous HPC platforms,David Clarke,cs.DC,http://arxiv.org/pdf/1109.3074v1
+1109.3561v1,2011-09-16T09:38:20Z,Universal adaptive self-stabilizing traversal scheme: random walk and   reloading wave,Devan Sohier,cs.DC,http://arxiv.org/pdf/1109.3561v1
+1109.3997v1,2011-09-19T11:11:57Z,Lowest-ID with Adaptive ID Reassignment: A Novel Mobile Ad-Hoc Networks   Clustering Algorithm,Basilis Mamalis,cs.DC,http://arxiv.org/pdf/1109.3997v1
+1109.4925v1,2011-09-22T19:44:19Z,Couillard: Parallel Programming via Coarse-Grained Data-Flow Compilation,Vítor Santos Costa,cs.DC,http://arxiv.org/pdf/1109.4925v1
+1109.5111v2,2011-09-23T15:27:43Z,Nerio: Leader Election and Edict Ordering,Johannes Gehrke,cs.DC,http://arxiv.org/pdf/1109.5111v2
+1109.5153v1,2011-09-23T18:39:18Z,A Complexity Separation Between the Cache-Coherent and Distributed   Shared Memory Models,Wojciech Golab,cs.DC,http://arxiv.org/pdf/1109.5153v1
+1109.5190v1,2011-09-23T20:14:24Z,Improving the scalability of parallel N-body applications with an event   driven constraint based execution model,Thomas Sterling,cs.DC,http://arxiv.org/pdf/1109.5190v1
+1109.5201v1,2011-09-23T21:00:36Z,An Application Driven Analysis of the ParalleX Execution Model,Thomas Sterling,cs.DC,http://arxiv.org/pdf/1109.5201v1
+1109.5770v1,2011-09-27T04:38:33Z,Cooperative and Distributed Localization for Wireless Sensor Networks in   Multipath Environments,Tony Q. S. Quek,cs.DC,http://arxiv.org/pdf/1109.5770v1
+1110.1131v1,2011-10-06T01:27:28Z,Adaptive Mesh Refinement for Astrophysics Applications with ParalleX,Thomas Sterling,cs.DC,http://arxiv.org/pdf/1110.1131v1
+1110.1553v1,2011-10-07T14:51:08Z,Hierarchical QR factorization algorithms for multi-core cluster systems,and Yves Robert,cs.DC,http://arxiv.org/pdf/1110.1553v1
+1110.1991v1,2011-10-10T10:32:29Z,Cluster-Based Load Balancing Algorithms for Grids,Orhan Dagdeviren,cs.DC,http://arxiv.org/pdf/1110.1991v1
+1110.2561v1,2011-10-12T03:34:51Z,Rigorous Calculation of the Partition Function for the Finite Number of   Ising Spins,Valery I. Belokon,cs.DC,http://arxiv.org/pdf/1110.2561v1
+1110.2677v1,2011-10-12T15:09:45Z,Hybrid static/dynamic scheduling for already optimized dense matrix   factorization,Vivek Kale,cs.DC,http://arxiv.org/pdf/1110.2677v1
+1110.4854v1,2011-10-21T18:02:22Z,On the Practicality of `Practical' Byzantine Fault Tolerance,Mema Roussopoulos,cs.DC,http://arxiv.org/pdf/1110.4854v1
+1110.5969v1,2011-10-27T03:12:07Z,Reliable Provisioning of Spot Instances for Compute-intensive   Applications,Rajkumar Buyya,cs.DC,http://arxiv.org/pdf/1110.5969v1
+1110.5972v1,2011-10-27T03:22:25Z,Provisioning Spot Market Cloud Resources to Create Cost-effective   Virtual Clusters,Rajkumar Buyya,cs.DC,http://arxiv.org/pdf/1110.5972v1
+1110.6231v1,2011-10-28T01:44:45Z,Parallel implematation of flow and matching algorithms,Agnieszka Łupińska,cs.DC,http://arxiv.org/pdf/1110.6231v1
+1110.6288v1,2011-10-28T10:21:23Z,Reliability of Computational Experiments on Virtualised Hardware,Lars Kotthoff,cs.DC,http://arxiv.org/pdf/1110.6288v1
+1111.0875v2,2011-11-03T15:21:25Z,Game Theoretic Iterative Partitioning for Dynamic Load Balancing in   Distributed Network Simulation,George Kesidis,cs.DC,http://arxiv.org/pdf/1111.0875v2
+1111.1129v1,2011-11-04T13:52:36Z,Domain decomposition and locality optimization for large-scale lattice   Boltzmann simulations,Gerhard Wellein,cs.DC,http://arxiv.org/pdf/1111.1129v1
+1111.1170v3,2011-11-04T16:15:14Z,Record-replay debugging for the SCOOP concurrency model,Bertrand Meyer,cs.DC,http://arxiv.org/pdf/1111.1170v3
+1111.2237v1,2011-11-06T20:35:30Z,Choosing the best resource by method of mamdani,Oleg Titov,cs.DC,http://arxiv.org/pdf/1111.2237v1
+1111.2412v1,2011-11-10T08:05:38Z,Secured Data Consistency and Storage Way in Untrusted Cloud using Server   Management Algorithm,C. Dinesh,cs.DC,http://arxiv.org/pdf/1111.2412v1
+1111.2418v1,2011-11-10T08:23:47Z,Data Integrity and Dynamic Storage Way in Cloud Computing,C. Dinesh,cs.DC,http://arxiv.org/pdf/1111.2418v1
+1111.3022v1,2011-11-13T15:20:49Z,Design of a Sliding Window over Asynchronous Event Streams,Jian Lu,cs.DC,http://arxiv.org/pdf/1111.3022v1
+1111.3334v1,2011-11-14T19:43:04Z,Fixing Data Anomalies with Prediction Based Algorithm in Wireless Sensor   Networks,Partha Sarathi Mandal,cs.DC,http://arxiv.org/pdf/1111.3334v1
+1111.4499v1,2011-11-18T21:37:36Z,A Low-Energy Fast Cyber Foraging Mechanism for Mobile Devices,Mohsen Sharifi,cs.DC,http://arxiv.org/pdf/1111.4499v1
+1111.5239v2,2011-11-22T16:15:32Z,Distributed Signal Processing via Chebyshev Polynomial Approximation,Pascal Frossard,cs.DC,http://arxiv.org/pdf/1111.5239v2
+1111.5391v1,2011-11-23T03:05:45Z,Hamiltonian Connectivity of Twisted Hypercube-Like Networks under the   Large Fault Model,Xiaofan Yang,cs.DC,http://arxiv.org/pdf/1111.5391v1
+1111.5775v2,2011-11-24T14:17:05Z,Partial mutual exclusion for infinitely many processes,Wim H. Hesselink,cs.DC,http://arxiv.org/pdf/1111.5775v2
+1111.6324v1,2011-11-28T00:50:25Z,Improving the Load Balancing Performance of Vlasiator,Ilja Honkonen,cs.DC,http://arxiv.org/pdf/1111.6324v1
+1201.0360v1,2012-01-01T16:03:49Z,On the Performance of Exhaustive Search with Cooperating agents,Ljupco Krstevski,cs.DC,http://arxiv.org/pdf/1201.0360v1
+1201.2118v1,2012-01-10T17:20:17Z,A Massive Data Parallel Computational Framework for Petascale/Exascale   Hybrid Computer Systems,Jian Tao,cs.DC,http://arxiv.org/pdf/1201.2118v1
+1201.2125v1,2012-01-10T17:46:16Z,Purging of untrustworthy recommendations from a grid,S. Ramachandram,cs.DC,http://arxiv.org/pdf/1201.2125v1
+1201.2360v2,2012-01-11T17:56:56Z,Adaptive Redundancy Management for Durable P2P Backup,Pasquale Cataldi,cs.DC,http://arxiv.org/pdf/1201.2360v2
+1201.3804v1,2012-01-18T14:43:43Z,Managing Communication Latency-Hiding at Runtime for Parallel   Programming Languages and Libraries,Brian Vinter,cs.DC,http://arxiv.org/pdf/1201.3804v1
+1201.4183v2,2012-01-19T22:05:08Z,Iterative Approximate Byzantine Consensus in Arbitrary Directed Graphs,Guanfeng Liang,cs.DC,http://arxiv.org/pdf/1201.4183v2
+1201.6652v3,2012-01-31T19:02:49Z,"""Tri, Tri again"": Finding Triangles and Small Subgraphs in a Distributed   Setting",Shir Peled,cs.DC,http://arxiv.org/pdf/1201.6652v3
+1202.0616v1,2012-02-03T07:03:49Z,Case Tool: Fast Interconnections with New 3-Disjoint Paths MIN   Simulation Module,Durg Singh Chauhan,cs.DC,http://arxiv.org/pdf/1202.0616v1
+1202.0970v1,2012-02-05T15:25:02Z,π-Control: A Personal Cloud Control Centre,Alexander Schill,cs.DC,http://arxiv.org/pdf/1202.0970v1
+1202.1062v1,2012-02-06T07:39:06Z,On Stability Problems of Omega and 3-Disjoint Paths Omega Multi-stage   Interconnection Networks,Mahesh Chandra Govil,cs.DC,http://arxiv.org/pdf/1202.1062v1
+1202.1186v2,2012-02-06T16:20:06Z,Stone Age Distributed Computing,Roger Wattenhofer,cs.DC,http://arxiv.org/pdf/1202.1186v2
+1202.1983v3,2012-02-09T13:46:11Z,The Locality of Distributed Symmetry Breaking,Johannes Schneider,cs.DC,http://arxiv.org/pdf/1202.1983v3
+1202.2509v1,2012-02-12T09:26:40Z,DEPAS: A Decentralized Probabilistic Algorithm for Auto-Scaling,Dana Petcu,cs.DC,http://arxiv.org/pdf/1202.2509v1
+1202.2551v1,2012-02-12T18:17:10Z,A Simulation Model for Evaluating Distributed Systems Dependability,Valentin Cristea,cs.DC,http://arxiv.org/pdf/1202.2551v1
+1202.2981v1,2012-02-14T10:21:51Z,Theoretical Analysis and Tuning of Decentralized Probabilistic   Auto-Scaling,Dana Petcu,cs.DC,http://arxiv.org/pdf/1202.2981v1
+1202.3084v2,2012-02-14T16:50:12Z,On Dynamic Distributed Computing,Anne-Marie Kermarrec,cs.DC,http://arxiv.org/pdf/1202.3084v2
+1202.3669v2,2012-02-16T19:08:29Z,GPUs as Storage System Accelerators,Matei Ripeanu,cs.DC,http://arxiv.org/pdf/1202.3669v2
+1202.3943v1,2012-02-17T16:01:53Z,Many-Task Computing and Blue Waters,Justin M. Wozniak,cs.DC,http://arxiv.org/pdf/1202.3943v1
+1202.4347v1,2012-02-20T15:16:40Z,GPGPU Processing in CUDA Architecture,Amit Bawaskar,cs.DC,http://arxiv.org/pdf/1202.4347v1
+1202.4508v1,2012-02-21T01:41:49Z,"Processes, Roles and Their Interactions",Johannes Reich,cs.DC,http://arxiv.org/pdf/1202.4508v1
+1202.5261v4,2012-02-23T18:32:59Z,Belief Consensus Algorithms for Fast Distributed Target Tracking in   Wireless Sensor Networks,Santiago Zazo,cs.DC,http://arxiv.org/pdf/1202.5261v4
+1202.5482v2,2012-02-24T15:49:39Z,Risk-Driven Compliant Access Controls for Clouds,Richard McClatchey,cs.DC,http://arxiv.org/pdf/1202.5482v2
+1202.5483v1,2012-02-24T15:52:56Z,An Architecture for Integrated Intelligence in Urban Management using   Cloud Computing,Ashiq Anjum,cs.DC,http://arxiv.org/pdf/1202.5483v1
+1202.5512v1,2012-02-24T17:51:35Z,"A Fault Tolerant, Dynamic and Low Latency BDII Architecture for Grids",Richard McClatchey,cs.DC,http://arxiv.org/pdf/1202.5512v1
+1202.5519v1,2012-02-24T18:21:23Z,Context-Aware Service Utilisation in the Clouds and Energy Conservation,Richard McClatchey,cs.DC,http://arxiv.org/pdf/1202.5519v1
+1202.6094v2,2012-02-28T00:01:48Z,Iterative Approximate Byzantine Consensus in Arbitrary Directed Graphs -   Part II: Synchronous and Asynchronous Systems,Guanfeng Liang,cs.DC,http://arxiv.org/pdf/1202.6094v2
+1202.6134v2,2012-02-28T06:37:31Z,High Volume Computing: Identifying and Characterizing Throughput   Oriented Workloads in Data Centers,Chunjie Luo,cs.DC,http://arxiv.org/pdf/1202.6134v2
+1202.6456v1,2012-02-29T06:28:53Z,Resource-Competitive Communication,Maxwell Young,cs.DC,http://arxiv.org/pdf/1202.6456v1
+1203.0429v1,2012-03-02T11:51:20Z,Securing business operations in an SOA,Pierre de Leusse,cs.DC,http://arxiv.org/pdf/1203.0429v1
+1203.0432v1,2012-03-02T12:03:02Z,Toward Governance of Cross-Cloud Application Deployment,Krzysztof Zielinski,cs.DC,http://arxiv.org/pdf/1203.0432v1
+1203.0435v1,2012-03-02T12:07:57Z,A common interface for multi-rule-engine distributed systems,Krzysztof Zielinski,cs.DC,http://arxiv.org/pdf/1203.0435v1
+1203.0443v1,2012-03-02T12:25:09Z,Secure & Rapid Composition of Infrastructure Services in the Cloud,Andreas Maierhofer,cs.DC,http://arxiv.org/pdf/1203.0443v1
+1203.0651v1,2012-03-03T13:18:51Z,On Modeling Dependency between MapReduce Configuration Parameters and   Total Execution Time,Javid Taheri,cs.DC,http://arxiv.org/pdf/1203.0651v1
+1203.0740v1,2012-03-04T14:11:56Z,Resource Availability-Aware Advance Reservation for Parallel Jobs with   Deadlines,Jundong Yang,cs.DC,http://arxiv.org/pdf/1203.0740v1
+1203.1466v1,2012-03-07T13:45:24Z,Batch-oriented software appliances,Sergio Maffioletti,cs.DC,http://arxiv.org/pdf/1203.1466v1
+1203.1888v1,2012-03-08T19:00:19Z,Matrix Representation of Iterative Approximate Byzantine Consensus in   Directed Graphs,Nitin Vaidya,cs.DC,http://arxiv.org/pdf/1203.1888v1
+1203.2081v2,2012-03-09T13:42:03Z,BSP vs MapReduce,Matthew Felice Pace,cs.DC,http://arxiv.org/pdf/1203.2081v2
+1203.2366v1,2012-03-11T19:22:51Z,Technical support for Life Sciences communities on a production grid   infrastructure,Tristan Glatard,cs.DC,http://arxiv.org/pdf/1203.2366v1
+1203.3013v1,2012-03-14T07:30:11Z,A Protocol for the Atomic Capture of Multiple Molecules at Large Scale,Cédric Tedeschi,cs.DC,http://arxiv.org/pdf/1203.3013v1
+1203.3098v1,2012-03-14T14:37:25Z,Generalized Asynchronous Systems,Ekaterina S. Kudryashova,cs.DC,http://arxiv.org/pdf/1203.3098v1
+1203.3575v1,2012-03-15T21:26:34Z,The Byzantine Brides Problem,Nini Zhu,cs.DC,http://arxiv.org/pdf/1203.3575v1
+1203.3885v1,2012-03-17T18:48:23Z,Decentralized Probabilistic Auto-Scaling for Heterogeneous Systems,Dana Petcu,cs.DC,http://arxiv.org/pdf/1203.3885v1
+1203.4257v1,2012-03-19T20:53:03Z,DiscopFlow: A new Tool for Discovering Organizational Structures and   Interaction Protocols in WorkFlow,Faiez Gargouri,cs.DC,http://arxiv.org/pdf/1203.4257v1
+1203.4367v1,2012-03-20T10:06:24Z,Thesis Report: Resource Utilization Provisioning in MapReduce,Nasrin Jaberi,cs.DC,http://arxiv.org/pdf/1203.4367v1
+1203.4751v8,2012-03-21T14:44:40Z,Optimism for Boosting Concurrency,Srivatsan Ravi,cs.DC,http://arxiv.org/pdf/1203.4751v8
+1203.4938v2,2012-03-22T09:54:58Z,Advanced Programming Platform for efficient use of Data Parallel   Hardware,Luis Cabellos,cs.DC,http://arxiv.org/pdf/1203.4938v2
+1203.5004v2,2012-03-22T14:30:25Z,CUDA implementation of Wagener's 2D convex hull PRAM algorithm,Colm O. Dunlaing,cs.DC,http://arxiv.org/pdf/1203.5004v2
+1203.5160v2,2012-03-23T02:42:38Z,Multiple Frequency Selection in DVFS-Enabled Processors to Minimize   Energy Consumption,Javid Taheri,cs.DC,http://arxiv.org/pdf/1203.5160v2
+1203.5196v1,2012-03-23T08:50:57Z,Market-Oriented Cloud Computing and the Cloudbus Toolkit,Christian Vecchiola,cs.DC,http://arxiv.org/pdf/1203.5196v1
+1203.6096v1,2012-03-27T22:26:02Z,Asynchrony from Synchrony,Eli Gafni,cs.DC,http://arxiv.org/pdf/1203.6096v1
+1204.0414v1,2012-04-02T14:24:18Z,Trace Spaces: an Efficient New Technique for State-Space Reduction,Martin Raussen,cs.DC,http://arxiv.org/pdf/1204.0414v1
+1204.0641v5,2012-04-03T10:00:45Z,Agreement in Directed Dynamic Networks,Ulrich Schmid,cs.DC,http://arxiv.org/pdf/1204.0641v5
+1204.1516v1,2012-04-06T17:09:53Z,Reliable Resource Selection in Grid Environment,Gaurav Sharma,cs.DC,http://arxiv.org/pdf/1204.1516v1
+1204.2204v3,2012-04-10T16:06:46Z,Programming Cloud Resource Orchestration Framework: Operations and   Research Challenges,Boualem Benatallah,cs.DC,http://arxiv.org/pdf/1204.2204v3
+1204.3058v1,2012-04-13T17:25:28Z,Building Fastest Broadcast Trees in Periodically-Varying Graphs,Nicola Santoro,cs.DC,http://arxiv.org/pdf/1204.3058v1
+1204.4044v1,2012-04-18T11:01:42Z,Asynchrony and Collusion in the N-party BAR Transfer Problem,Luís Rodrigues,cs.DC,http://arxiv.org/pdf/1204.4044v1
+1204.4086v1,2012-04-18T14:06:14Z,Hybrid MPI/StarSs - a case study,Colin W. Glass,cs.DC,http://arxiv.org/pdf/1204.4086v1
+1204.4565v1,2012-04-20T08:59:01Z,Mariages et Trahisons,Nini Zhu,cs.DC,http://arxiv.org/pdf/1204.4565v1
+1204.5402v1,2012-04-24T15:17:53Z,FastFlow tutorial,Massimo Torquati,cs.DC,http://arxiv.org/pdf/1204.5402v1
+1204.6170v2,2012-04-27T11:14:54Z,A distributed resource allocation algorithm for many processes,Wim H. Hesselink,cs.DC,http://arxiv.org/pdf/1204.6170v2
+1204.6628v1,2012-04-30T13:32:48Z,The Anatomy of a Grid portal,Federico Calzolari,cs.DC,http://arxiv.org/pdf/1204.6628v1
+1204.6631v1,2012-04-30T13:44:03Z,A new job migration algorithm to improve data center efficiency,Silvia Volpe,cs.DC,http://arxiv.org/pdf/1204.6631v1
+1204.6691v1,2012-04-30T16:28:19Z,Energy Efficient Service Delivery in Clouds in Compliance with the Kyoto   Protocol,Ivona Brandic,cs.DC,http://arxiv.org/pdf/1204.6691v1
+1205.0451v2,2012-05-02T15:04:04Z,Mobile Cloud Computing: A Review on Smartphone Augmentation Approaches,Abdullah Gani,cs.DC,http://arxiv.org/pdf/1205.0451v2
+1205.0652v2,2012-05-03T09:02:44Z,On Exploiting Hotspot and Entropy for Data Forwarding in Delay Tolerant   Networks,Shaojie Tang,cs.DC,http://arxiv.org/pdf/1205.0652v2
+1205.2546v1,2012-05-11T15:00:53Z,CloudMonitor: Profiling Power Usage,Ian Sommerville,cs.DC,http://arxiv.org/pdf/1205.2546v1
+1205.3247v1,2012-05-15T03:29:23Z,Tripod of Requirements in Horizontal Heterogeneous Mobile Cloud   Computing,Rashid Hafeez Khokhar,cs.DC,http://arxiv.org/pdf/1205.3247v1
+1205.3797v1,2012-05-16T20:15:49Z,Toward Sustainable Networking: Storage Area Networks with Network Coding,Emina Soljanin,cs.DC,http://arxiv.org/pdf/1205.3797v1
+1205.3809v1,2012-05-16T20:59:48Z,Graph Coloring Algorithms for Muti-core and Massively Multithreaded   Architectures,Alex Pothen,cs.DC,http://arxiv.org/pdf/1205.3809v1
+1205.3830v2,2012-05-16T23:41:33Z,Parallel implementation of fast randomized algorithms for the   decomposition of low rank matrices,John Feo,cs.DC,http://arxiv.org/pdf/1205.3830v2
+1205.4545v1,2012-05-21T09:52:57Z,Memory Lower Bounds for Randomized Collaborative Search and Applications   to Biology,Amos Korman,cs.DC,http://arxiv.org/pdf/1205.4545v1
+1205.4809v1,2012-05-22T05:43:53Z,Iterative Approximate Byzantine Consensus under a Generalized Fault   Model,Nitin Vaidya,cs.DC,http://arxiv.org/pdf/1205.4809v1
+1205.4883v1,2012-05-22T11:27:10Z,Hybrid Parallel Bidirectional Sieve based on SMP Cluster,Lei Liu,cs.DC,http://arxiv.org/pdf/1205.4883v1
+1205.5055v1,2012-05-22T20:46:11Z,Neutron Star Evolutions using Tabulated Equations of State with a New   Execution Model,Thomas Sterling,cs.DC,http://arxiv.org/pdf/1205.5055v1
+1205.6249v1,2012-05-29T02:27:35Z,Leader Election for Anonymous Asynchronous Agents in Arbitrary Networks,Andrzej Pelc,cs.DC,http://arxiv.org/pdf/1205.6249v1
+1206.0089v1,2012-06-01T06:14:29Z,Reaching Approximate Byzantine Consensus in Partially-Connected Mobile   Networks,Yun Wang,cs.DC,http://arxiv.org/pdf/1206.0089v1
+1206.0115v1,2012-06-01T08:05:39Z,Pipelining the Fast Multipole Method over a Runtime System,Takahashi Toru,cs.DC,http://arxiv.org/pdf/1206.0115v1
+1206.0419v1,2012-06-03T04:42:23Z,Pre-allocation Strategies of Computational Resources in Cloud Computing   using Adaptive Resonance Theory-2,P Jayarekha,cs.DC,http://arxiv.org/pdf/1206.0419v1
+1206.0988v1,2012-04-07T05:19:32Z,Virtualization Implementation Model for Cost Effective & Efficient Data   Centers,Azizah Abdul Rahman,cs.DC,http://arxiv.org/pdf/1206.0988v1
+1206.0992v6,2012-06-05T17:07:34Z,Finite-time Convergent Gossiping,Karl Henrik Johansson,cs.DC,http://arxiv.org/pdf/1206.0992v6
+1206.1118v1,2012-06-06T03:53:39Z,"Research On Mobile Cloud Computing: Review, Trend, And Perspectives",Abdullah Gani,cs.DC,http://arxiv.org/pdf/1206.1118v1
+1206.1290v1,2012-06-06T18:10:34Z,"Causality, Influence, and Computation in Possibly Disconnected Dynamic   Networks",Paul G. Spirakis,cs.DC,http://arxiv.org/pdf/1206.1290v1
+1206.1653v2,2012-06-08T02:44:05Z,PriSM: A Private Social Mesh for Leveraging Social Networking at   Workplace,Anwitaman Datta,cs.DC,http://arxiv.org/pdf/1206.1653v2
+1206.1899v3,2012-06-09T02:06:59Z,TTMA: Traffic-adaptive Time-division Multiple Access Protocol Wireless   Sensor Networks,Rajeev K. Shakya,cs.DC,http://arxiv.org/pdf/1206.1899v3
+1206.1984v1,2012-06-10T00:13:47Z,Energy-Aware Scheduling using Dynamic Voltage-Frequency Scaling,Nasrin Jaberi,cs.DC,http://arxiv.org/pdf/1206.1984v1
+1206.2187v1,2012-06-11T12:55:53Z,An Empirical Study of the Repair Performance of Novel Coding Schemes for   Networked Distributed Storage Systems,Anwitaman Datta,cs.DC,http://arxiv.org/pdf/1206.2187v1
+1206.2772v3,2012-06-13T11:48:48Z,Time Warp on the Go (Updated Version),Moreno Marzolla,cs.DC,http://arxiv.org/pdf/1206.2772v3
+1206.2775v3,2012-06-13T12:12:21Z,Parallel Discrete Event Simulation with Erlang,Moreno Marzolla,cs.DC,http://arxiv.org/pdf/1206.2775v3
+1206.4175v1,2012-06-19T11:01:42Z,Clustered Network Coding for Maintenance in Practical Storage Systems,Alexandre van Kempen,cs.DC,http://arxiv.org/pdf/1206.4175v1
+1206.5938v1,2012-06-26T09:27:57Z,Performance Evaluation of Ant-Based Routing Protocols for Wireless   Sensor Networks,Kah Phooi Seng,cs.DC,http://arxiv.org/pdf/1206.5938v1
+1206.6016v1,2012-05-30T09:45:54Z,Cloud Infrastructure Service Management - A Review,A. Anasuya Threse Innocent,cs.DC,http://arxiv.org/pdf/1206.6016v1
+1206.6207v1,2012-06-27T09:02:05Z,An Optimal Fully Distributed Algorithm to Minimize the Resource   Consumption of Cloud Applications,Jue Hong,cs.DC,http://arxiv.org/pdf/1206.6207v1
+1206.6225v3,2012-06-27T10:23:14Z,Virtual Machine Migration: A Resource Intensive Outsourcing Mechanism   for Mobile Cloud Computing,Abdullah Gani,cs.DC,http://arxiv.org/pdf/1206.6225v3
+1207.0203v1,2012-07-01T13:10:15Z,"Internet of Things (IoT): A Vision, Architectural Elements, and Future   Directions",Marimuthu Palaniswami,cs.DC,http://arxiv.org/pdf/1207.0203v1
+1207.0602v2,2012-07-03T08:10:21Z,Distributed backbone structure for deterministic algorithms in the SINR   model of wireless networks,Dariusz R. Kowalski,cs.DC,http://arxiv.org/pdf/1207.0602v2
+1207.0780v1,2012-07-03T19:01:26Z,Survey on Improved Scheduling in Hadoop MapReduce in Cloud Environments,L. S. S. Reddy,cs.DC,http://arxiv.org/pdf/1207.0780v1
+1207.0894v1,2012-07-04T04:18:03Z,Performance Issues of Heterogeneous Hadoop Clusters in Cloud Computing,L. S. S. Reddy,cs.DC,http://arxiv.org/pdf/1207.0894v1
+1207.1337v1,2012-07-05T19:38:00Z,Optimization in a Self-Stabilizing Service Discovery Framework for Large   Scale Systems,Franck Petit,cs.DC,http://arxiv.org/pdf/1207.1337v1
+1207.1571v1,2012-07-06T10:02:26Z,Complete PISO and SIMPLE solvers on Graphics Processing Units,Łukasz Mirosław,cs.DC,http://arxiv.org/pdf/1207.1571v1
+1207.1852v4,2012-07-08T07:49:22Z,Optimal Deterministic Routing and Sorting on the Congested Clique,Christoph Lenzen,cs.DC,http://arxiv.org/pdf/1207.1852v4
+1207.2704v1,2012-07-11T16:37:51Z,Efficient Resource Allocation in Resource provisioning policies over   Resource Cloud Communication Paradigm,Ankit Nischal,cs.DC,http://arxiv.org/pdf/1207.2704v1
+1207.2706v1,2012-07-11T16:51:01Z,Secure Cloud Communication for Effective Cost Management System through   MSBE,Kamaljit Kaur,cs.DC,http://arxiv.org/pdf/1207.2706v1
+1207.2708v1,2012-07-11T16:57:18Z,Effective Cost Mechanism for Cloudlet Retransmission and Prioritized VM   Scheduling Mechanism over Broker Virtual Machine Communication Framework,Sonika Setia,cs.DC,http://arxiv.org/pdf/1207.2708v1
+1207.2878v1,2012-07-12T08:44:48Z,A Novel Process Mapping Strategy in Clustered Environments,Ghobad Zarrinchian,cs.DC,http://arxiv.org/pdf/1207.2878v1
+1207.3037v1,2012-07-11T15:57:29Z,Implementation of Private Cloud using Eucalyptus and an open source   Operating System,Kumud Singh,cs.DC,http://arxiv.org/pdf/1207.3037v1
+1207.3099v1,2012-07-12T21:02:17Z,Super-Fast 3-Ruling Sets,Sriram Pemmaraju,cs.DC,http://arxiv.org/pdf/1207.3099v1
+1207.3732v2,2012-07-16T17:17:36Z,On the Resilience of Routing Tables,Ankit Singla,cs.DC,http://arxiv.org/pdf/1207.3732v2
+1207.5480v1,2012-07-23T18:39:49Z,Survey and comparison for Open and closed sources in cloud computing,Tianyi Zang,cs.DC,http://arxiv.org/pdf/1207.5480v1
+1207.5839v1,2012-07-24T22:15:10Z,The Impact of Communication Delays on Distributed Consensus Algorithms,Michael G. Rabbat,cs.DC,http://arxiv.org/pdf/1207.5839v1
+1207.5949v1,2012-07-25T10:54:08Z,"Using Open Standards for Interoperability - Issues, Solutions, and   Challenges facing Cloud Computing",Christine Morin,cs.DC,http://arxiv.org/pdf/1207.5949v1
+1207.6011v1,2012-07-25T14:45:55Z,Analysis of cloud storage prices,Maurizio Naldi,cs.DC,http://arxiv.org/pdf/1207.6011v1
+1207.6644v1,2012-07-27T20:08:12Z,P*: A Model of Pilot-Abstractions,Shantenu Jha,cs.DC,http://arxiv.org/pdf/1207.6644v1
+1207.6732v2,2012-07-28T21:21:21Z,Distributed Broadcasting in Wireless Networks under the SINR Model,Grzegorz Stachowiak,cs.DC,http://arxiv.org/pdf/1207.6732v2
+1207.6744v2,2012-07-29T04:27:44Z,RapidRAID: Pipelined Erasure Codes for Fast Data Archival in Distributed   Storage Systems,Frederique Oggier,cs.DC,http://arxiv.org/pdf/1207.6744v2
+1207.7055v1,2012-07-30T19:42:31Z,Optimizing MapReduce for Highly Distributed Environments,Ramesh K. Sitaraman,cs.DC,http://arxiv.org/pdf/1207.7055v1
+1208.0180v1,2012-08-01T12:00:17Z,Naming and Counting in Anonymous Unknown Dynamic Networks,Paul G. Spirakis,cs.DC,http://arxiv.org/pdf/1208.0180v1
+1208.0615v2,2012-08-02T20:56:39Z,Enumerating Subgraph Instances Using Map-Reduce,Jeffrey D. Ullman,cs.DC,http://arxiv.org/pdf/1208.0615v2
+1208.0712v2,2012-08-03T11:17:57Z,Description of the Chord Protocol using ASMs Formalism,Zoran Ognjanović,cs.DC,http://arxiv.org/pdf/1208.0712v2
+1208.1793v2,2012-08-08T22:47:10Z,Real-time Data Collection Scheduling in Multi-hop Wireless Sensor   Networks,Min Song,cs.DC,http://arxiv.org/pdf/1208.1793v2
+1208.1922v1,2012-08-09T14:34:20Z,Heuristic based task scheduling in multiprocessor systems with genetic   algorithm by choosing the eligible processor,Nishita Das,cs.DC,http://arxiv.org/pdf/1208.1922v1
+1208.1942v1,2012-08-09T15:07:43Z,Scheduling Data Intensive Workloads through Virtualization on MapReduce   based Clouds,L. S. S. Reddy,cs.DC,http://arxiv.org/pdf/1208.1942v1
+1208.1975v2,2012-08-09T17:29:16Z,Block-Relaxation Methods for 3D Constant-Coefficient Stencils on GPUs   and Multicore CPUs,Mark Berrill,cs.DC,http://arxiv.org/pdf/1208.1975v2
+1208.2649v1,2012-08-13T18:00:09Z,Survey and Analysis of Production Distributed Computing Infrastructures,Jon Weissman,cs.DC,http://arxiv.org/pdf/1208.2649v1
+1208.2675v1,2012-08-13T19:30:44Z,A GPU implementation of the Simulated Annealing Heuristic for the   Quadratic Assignment Problem,Gerald Paul,cs.DC,http://arxiv.org/pdf/1208.2675v1
+1208.2849v1,2012-08-14T12:53:24Z,Mapping Strategies for the PERCS Architecture,Yogish Sabharwal,cs.DC,http://arxiv.org/pdf/1208.2849v1
+1208.3933v1,2012-08-20T08:06:58Z,A GPU-accelerated Branch-and-Bound Algorithm for the Flow-Shop   Scheduling Problem,Daniel Tuyttens,cs.DC,http://arxiv.org/pdf/1208.3933v1
+1208.4484v1,2012-08-22T12:10:15Z,Leader Election and Gathering for Asynchronous Transparent Fat Robots   without Chirality,Krishnendu Mukhopadhyaya,cs.DC,http://arxiv.org/pdf/1208.4484v1
+1208.4867v1,2012-08-23T21:44:08Z,Parameter-independent Iterative Approximate Byzantine Consensus,Nitin H. Vaidya,cs.DC,http://arxiv.org/pdf/1208.4867v1
+1208.5075v4,2012-08-24T22:17:23Z,Exact Byzantine Consensus in Directed Graphs,Nitin Vaidya,cs.DC,http://arxiv.org/pdf/1208.5075v4
+1208.5620v3,2012-08-28T11:03:07Z,Self-Stabilizing Byzantine Resilient Topology Discovery and Message   Delivery,Elad M. Schiller,cs.DC,http://arxiv.org/pdf/1208.5620v3
+1209.0851v1,2012-09-05T02:53:30Z,A new scheduling algorithm for server farms load balancing,Shafigh Parsazad,cs.DC,http://arxiv.org/pdf/1209.0851v1
+1209.1076v1,2012-09-05T18:45:21Z,Communication/Computation Tradeoffs in Consensus-Based Distributed   Optimization,Michael G. Rabbat,cs.DC,http://arxiv.org/pdf/1209.1076v1
+1209.2614v1,2012-09-12T13:44:48Z,A threshold secure data sharing scheme for federated clouds,M. Padmavathamma,cs.DC,http://arxiv.org/pdf/1209.2614v1
+1209.3356v1,2012-09-15T04:40:46Z,Autonomic Cloud Computing: Open Challenges and Architectural Elements,Xiaorong Li,cs.DC,http://arxiv.org/pdf/1209.3356v1
+1209.3904v1,2012-09-18T10:36:45Z,A Distributed Algorithm for Gathering Many Fat Mobile Robots in the   Plane,Marios Mavronicolas,cs.DC,http://arxiv.org/pdf/1209.3904v1
+1209.4408v1,2012-09-20T02:12:03Z,A performance Analysis of the Game of Life based on parallel algorithm,Zhouxiang Meng,cs.DC,http://arxiv.org/pdf/1209.4408v1
+1209.4485v1,2012-09-20T10:15:52Z,Performance Evaluation of Hierarchical Publish-Subscribe Monitoring   Architecture for Service-Oriented Applications,Ivan Benc,cs.DC,http://arxiv.org/pdf/1209.4485v1
+1209.4620v2,2012-09-20T19:15:50Z,Broadcast Using Certified Propagation Algorithm in Presence of Byzantine   Faults,Vartika Bhandari,cs.DC,http://arxiv.org/pdf/1209.4620v2
+1209.5319v1,2012-09-24T16:12:20Z,Multiprocessor Scheduling Using Parallel Genetic Algorithm,Abdullatif ALAbdullatif,cs.DC,http://arxiv.org/pdf/1209.5319v1
+1210.1026v2,2012-10-03T08:38:53Z,Performance Constraint and Power-Aware Allocation For User Requests In   Virtual Computing Lab,Nguyen Thanh Son,cs.DC,http://arxiv.org/pdf/1210.1026v2
+1210.1804v2,2012-10-05T16:21:03Z,Distributed Deterministic Broadcasting in Wireless Networks of Weak   Devices under the SINR Model,Grzegorz Stachowiak,cs.DC,http://arxiv.org/pdf/1210.1804v2
+1210.2047v2,2012-10-07T12:16:09Z,A Declarative Recommender System for Cloud Infrastructure Services   Selection,Armin Haller,cs.DC,http://arxiv.org/pdf/1210.2047v2
+1210.2401v1,2012-10-05T10:28:24Z,Distributed Formal Concept Analysis Algorithms Based on an Iterative   MapReduce Framework,Mícheál Ó Foghlú,cs.DC,http://arxiv.org/pdf/1210.2401v1
+1210.2580v1,2012-10-09T12:16:36Z,Scheduling tree-shaped task graphs to minimize memory and makespan,Frédéric Vivien,cs.DC,http://arxiv.org/pdf/1210.2580v1
+1210.2857v1,2012-10-10T10:07:59Z,An Introduction on Dependency Between Hardware Life Time Components and   Dynamic Voltage Scaling,Nasrin Jaberi,cs.DC,http://arxiv.org/pdf/1210.2857v1
+1210.3077v1,2012-10-10T22:12:26Z,Investigating Decision Support Techniques for Automating Cloud Service   Selection,Peter Strazdins,cs.DC,http://arxiv.org/pdf/1210.3077v1
+1210.3292v3,2012-10-11T16:40:36Z,Energy Efficient Decentralized Detection Based on Bit-optimal Multi-hop   Transmission in One-dimensional Wireless Sensor Networks,Ashfaq Khokhar,cs.DC,http://arxiv.org/pdf/1210.3292v3
+1210.3876v1,2012-10-15T02:39:12Z,Power-efficient Hierarchical Data Aggregation using Compressive Sensing   in WSN,Ashfaq Khokhar,cs.DC,http://arxiv.org/pdf/1210.3876v1
+1210.4690v2,2012-10-17T10:55:56Z,A Primarily Survey on Energy Efficiency in Cloud and Distributed   Computing Systems,Albert Y. Zomaya,cs.DC,http://arxiv.org/pdf/1210.4690v2
+1210.5774v2,2012-10-21T23:01:59Z,Fast Routing Table Construction Using Small Messages,Boaz Patt-Shamir,cs.DC,http://arxiv.org/pdf/1210.5774v2
+1210.6384v1,2012-10-23T21:21:06Z,A Distributed Transportation Simplex Applied to a Content Distribution   Network Problem,Yuri Frota,cs.DC,http://arxiv.org/pdf/1210.6384v1
+1210.7057v1,2012-10-26T05:59:55Z,Efficient Distributed Locality Sensitive Hashing,Rajendra Shinde,cs.DC,http://arxiv.org/pdf/1210.7057v1
+1210.7624v1,2012-10-29T11:29:52Z,HEP Analysis Facility An Approach to Grid Computing,Sanjeev Singh Sambyal,cs.DC,http://arxiv.org/pdf/1210.7624v1
+1210.7626v1,2012-10-29T11:36:32Z,Hep Cluster First Step Towards Grid Computing,Sanjeev Singh Sambyal,cs.DC,http://arxiv.org/pdf/1210.7626v1
+1210.7935v1,2012-10-30T09:14:40Z,Energy Efficient Algorithms and Power Consumption Techniques in High   Performance Computing,Sanjay Mahajan,cs.DC,http://arxiv.org/pdf/1210.7935v1
+1212.0085v1,2012-12-01T08:51:48Z,VUPIC: Virtual Machine Usage Based Placement in IaaS Cloud,Kapil Phatnani,cs.DC,http://arxiv.org/pdf/1212.0085v1
+1212.0156v1,2012-12-01T20:39:22Z,An Ontology based System for Cloud Infrastructure Services Discovery,Surya Nepal,cs.DC,http://arxiv.org/pdf/1212.0156v1
+1212.0421v1,2012-12-03T15:52:18Z,Network delay-aware load balancing in selfish and cooperative   distributed systems,Krzysztof Rzadca,cs.DC,http://arxiv.org/pdf/1212.0421v1
+1212.0427v2,2012-12-03T16:09:02Z,Exploring heterogeneity of unreliable machines for p2p backup,Krzysztof Rzadca,cs.DC,http://arxiv.org/pdf/1212.0427v2
+1212.1284v1,2012-12-06T10:57:59Z,Integrated Green Cloud Computing Architecture,M. R. Doomun,cs.DC,http://arxiv.org/pdf/1212.1284v1
+1212.3295v2,2012-12-13T20:00:40Z,Measures of Fault Tolerance in Distributed Simulated Annealing,Aaditya Prakash,cs.DC,http://arxiv.org/pdf/1212.3295v2
+1212.4123v4,2012-12-17T20:09:55Z,An Interactive Graph-Based Automation Assistant: A Case Study to Manage   the GIPSY's Distributed Multi-tier Run-Time System,Joey Paquet,cs.DC,http://arxiv.org/pdf/1212.4123v4
+1212.4658v1,2012-12-19T13:31:04Z,Resource management on a VM based computer cluster for scientific   computing,Piero Spinnato,cs.DC,http://arxiv.org/pdf/1212.4658v1
+1212.4692v1,2012-12-19T15:04:12Z,Map / Reduce Deisgn and Implementation of Apriori Alogirthm for handling   voluminous data-sets,Kiran U. Shanbag,cs.DC,http://arxiv.org/pdf/1212.4692v1
+1212.5956v1,2012-12-24T19:24:35Z,Interoperability and Standardization of Intercloud Cloud Computing,Tian Niu,cs.DC,http://arxiv.org/pdf/1212.5956v1
+1302.1939v1,2013-02-08T04:29:16Z,HTC Scientific Computing in a Distributed Cloud Environment,W. Podiama,cs.DC,http://arxiv.org/pdf/1302.1939v1
+1302.2203v1,2013-02-09T06:18:04Z,A Factor Framework for Experimental Design for Performance Evaluation of   Commercial Cloud Services,Rainbow Cai,cs.DC,http://arxiv.org/pdf/1302.2203v1
+1302.2217v1,2013-02-09T11:09:22Z,Introducing Speculation in Self-Stabilization - An Application to Mutual   Exclusion,Rachid Guerraoui,cs.DC,http://arxiv.org/pdf/1302.2217v1
+1302.2227v1,2013-02-09T12:23:21Z,Virtual Machine Consolidation for Datacenter Energy Improvement,Maziar Goudarzi,cs.DC,http://arxiv.org/pdf/1302.2227v1
+1302.2529v2,2013-02-11T16:49:49Z,VM-MAD: a cloud/cluster software for service-oriented academic   environments,Christian Panse,cs.DC,http://arxiv.org/pdf/1302.2529v2
+1302.2543v1,2013-02-11T17:25:24Z,Byzantine Vector Consensus in Complete Graphs,Vijay K. Garg,cs.DC,http://arxiv.org/pdf/1302.2543v1
+1302.2749v2,2013-02-12T10:11:29Z,Practical Size-based Scheduling for MapReduce Workloads,Pietro Michiardi,cs.DC,http://arxiv.org/pdf/1302.2749v2
+1302.3344v2,2013-02-14T09:08:38Z,CORE: Augmenting Regenerating-Coding-Based Recovery for Single and   Concurrent Failures in Distributed Storage Systems,Patrick P. C. Lee,cs.DC,http://arxiv.org/pdf/1302.3344v2
+1302.3752v2,2013-02-15T13:52:50Z,Checkpointing algorithms and fault prediction,Dounia Zaidouni,cs.DC,http://arxiv.org/pdf/1302.3752v2
+1302.4059v1,2013-02-17T11:36:51Z,Distributed Deterministic Broadcasting in Uniform-Power Ad Hoc Wireless   Networks,Grzegorz Stachowiak,cs.DC,http://arxiv.org/pdf/1302.4059v1
+1302.4414v2,2013-02-18T20:33:15Z,Approximation Algorithms for Energy Minimization in Cloud Service   Allocation under Reliability Constraints,Paul Renaud-Goud,cs.DC,http://arxiv.org/pdf/1302.4414v2
+1302.4558v1,2013-02-19T09:50:38Z,Checkpointing strategies with prediction windows,Dounia Zaidouni,cs.DC,http://arxiv.org/pdf/1302.4558v1
+1302.4779v1,2013-02-20T00:21:44Z,Failure Data Analysis of HPC Systems,Charng-Da Lu,cs.DC,http://arxiv.org/pdf/1302.4779v1
+1302.4808v3,2013-02-20T05:22:35Z,Verifying the Consistency of Remote Untrusted Services with Commutative   Operations,Olga Ohrimenko,cs.DC,http://arxiv.org/pdf/1302.4808v3
+1302.5161v3,2013-02-21T02:45:25Z,Verifying PRAM Consistency over Read/Write Traces of Data Replicas,Jian Lu,cs.DC,http://arxiv.org/pdf/1302.5161v3
+1302.5192v4,2013-02-21T06:14:04Z,The CORE Storage Primitive: Cross-Object Redundancy for Efficient Data   Repair & Access in Erasure Coded Storage,Anwitaman Datta,cs.DC,http://arxiv.org/pdf/1302.5192v4
+1302.5481v1,2013-02-22T04:20:36Z,Classification and Characterization of Core Grid Protocols for Global   Grid Computing,Vipul K. Dabhi,cs.DC,http://arxiv.org/pdf/1302.5481v1
+1302.5646v1,2013-02-16T17:51:31Z,"Comments on ""Resource placement in Cartesian product of networks""   [Imani, Sarbazi-Azad and Zomaya, J. Parallel Distrib. Comput., 70 (2010)   481-495]",Pranava K. Jha,cs.DC,http://arxiv.org/pdf/1302.5646v1
+1302.5679v1,2013-02-22T19:17:13Z,Memory Aware Load Balance Strategy on a Parallel Branch-and-Bound   Application,Artur A. Pessoa,cs.DC,http://arxiv.org/pdf/1302.5679v1
+1302.5999v1,2013-02-25T05:55:57Z,Distributed Wear levelling of Flash Memories,K. Gopinath,cs.DC,http://arxiv.org/pdf/1302.5999v1
+1302.6224v5,2013-02-25T20:50:25Z,Distributed Computability in Byzantine Asynchronous Systems,Maurice Herlihy,cs.DC,http://arxiv.org/pdf/1302.6224v5
+1303.1379v1,2013-03-06T16:38:37Z,GPU accelerated maximum cardinality matching algorithms for bipartite   graphs,Umit V. Catalyurek,cs.DC,http://arxiv.org/pdf/1303.1379v1
+1303.2043v1,2013-03-08T16:22:46Z,Orientation and Connectivity Based Criteria for Asymptotic Consensus,Bernadette Charron-Bost,cs.DC,http://arxiv.org/pdf/1303.2043v1
+1303.2171v1,2013-03-09T05:35:31Z,CPU and/or GPU: Revisiting the GPU Vs. CPU Myth,Shubham Gupta,cs.DC,http://arxiv.org/pdf/1303.2171v1
+1303.2619v1,2013-03-11T19:05:37Z,Making Systems More Robust with Flexible RPC Lookup,Russell Power,cs.DC,http://arxiv.org/pdf/1303.2619v1
+1303.3626v1,2013-03-14T22:14:36Z,Non-blocking Patricia Tries with Replace Operations,Niloufar Shafiei,cs.DC,http://arxiv.org/pdf/1303.3626v1
+1303.4191v4,2013-03-18T09:03:56Z,Parallel Search with Extended Fibonacci Primitive,N. Sadagopan,cs.DC,http://arxiv.org/pdf/1303.4191v4
+1303.4312v2,2013-03-18T16:40:58Z,"Perfectly load-balanced, optimal, stable, parallel merge",Jesper Larsson Träff,cs.DC,http://arxiv.org/pdf/1303.4312v2
+1303.5164v1,2013-03-21T04:50:48Z,Kernelet: High-Throughput GPU Kernel Executions with Dynamic Slicing and   Scheduling,Bingsheng He,cs.DC,http://arxiv.org/pdf/1303.5164v1
+1303.5275v1,2013-03-21T14:56:02Z,Achieving Efficient Strong Scaling with PETSc using Hybrid MPI/OpenMP   Optimisation,James Southern,cs.DC,http://arxiv.org/pdf/1303.5275v1
+1303.5837v1,2013-03-23T11:40:50Z,Multilevel communication optimal LU and QR factorizations for   hierarchical platforms,Amal Khabou,cs.DC,http://arxiv.org/pdf/1303.5837v1
+1303.5891v1,2013-03-23T23:03:34Z,Fault Tolerance in Distributed Systems using Fused State Machines,Vijay K. Garg,cs.DC,http://arxiv.org/pdf/1303.5891v1
+1303.7195v1,2013-03-28T18:20:17Z,Parallelization in Scientific Workflow Management Systems,Ulf Leser,cs.DC,http://arxiv.org/pdf/1303.7195v1
+1303.7270v1,2013-03-28T23:15:36Z,Data-Intensive Workload Consolidation on Hadoop Distributed File System,Albert Y. Zomaya,cs.DC,http://arxiv.org/pdf/1303.7270v1
+1303.7300v1,2013-03-29T06:01:08Z,Queuing Methodology Based Power Efficient Routing Protocol for Reliable   Data Communications in Manets,M. K. Kaushik,cs.DC,http://arxiv.org/pdf/1303.7300v1
+1304.0012v1,2013-03-29T20:03:47Z,Using Memory-Protection to Simplify Zero-copy Operations,Russell Power,cs.DC,http://arxiv.org/pdf/1304.0012v1
+1304.0267v1,2013-04-01T00:14:45Z,Improving Lower Bounds for the Quadratic Assignment Problem by applying   a Distributed Dual Ascent Algorithm,Peter Hahn,cs.DC,http://arxiv.org/pdf/1304.0267v1
+1304.2617v1,2013-04-09T14:43:02Z,Resilience of Dynamic Overlays through Local Interactions,Stefano Ferretti,cs.DC,http://arxiv.org/pdf/1304.2617v1
+1304.2840v1,2013-04-10T04:06:30Z,Cross-layer Application-aware Power/Energy Management for Extreme Scale   Science,Manish Parashar,cs.DC,http://arxiv.org/pdf/1304.2840v1
+1304.2981v2,2013-04-10T14:45:47Z,Cloud Computing: a Prologue,Zheng Xuefeng,cs.DC,http://arxiv.org/pdf/1304.2981v2
+1304.3203v1,2013-04-11T06:10:12Z,Cloud Computing Research Challenges,Zheng Xuefeng,cs.DC,http://arxiv.org/pdf/1304.3203v1
+1304.3396v1,2013-04-11T19:09:42Z,Validated Real Time Middle Ware For Distributed Cyber Physical Systems   Using HMM,Vipin Tyagi,cs.DC,http://arxiv.org/pdf/1304.3396v1
+1304.3978v1,2013-04-15T05:02:16Z,Reallocation and Allocation of Virtual Machines in Cloud Computing,Harshad B. Prajapati,cs.DC,http://arxiv.org/pdf/1304.3978v1
+1304.3980v1,2013-04-15T05:04:31Z,Scheduling of Dependent Tasks Application using Random Search Technique,Harshad. B. Prajapati,cs.DC,http://arxiv.org/pdf/1304.3980v1
+1304.4326v3,2013-04-16T03:56:24Z,Distributed Abstraction Algorithm for Online Predicate Detection,Neeraj Mittal,cs.DC,http://arxiv.org/pdf/1304.4326v3
+1304.6994v1,2013-04-25T19:54:00Z,Spéculation et auto-stabilisation,Rachid Guerraoui,cs.DC,http://arxiv.org/pdf/1304.6994v1
+1304.7654v1,2013-04-29T13:22:38Z,Optimised hybrid parallelisation of a CFD code on Many Core   architectures,M. Sergio Campobasso,cs.DC,http://arxiv.org/pdf/1304.7654v1
+1307.1051v1,2013-07-03T15:49:13Z,Byzantine Convex Consensus: Preliminary Version,Nitin Vaidya,cs.DC,http://arxiv.org/pdf/1307.1051v1
+1307.1270v1,2013-07-04T10:55:43Z,"A heterogeneous many-core platform for experiments on scalable custom   interconnects and management of fault and critical events, applied to   many-process applications: Vol. II, 2012 technical report",Piero Vicini,cs.DC,http://arxiv.org/pdf/1307.1270v1
+1307.1332v2,2013-07-04T14:01:57Z,Byzantine Convex Consensus: An Optimal Algorithm,Nitin Vaidya,cs.DC,http://arxiv.org/pdf/1307.1332v2
+1307.1517v1,2013-07-05T04:10:34Z,Perform wordcount Map-Reduce Job in Single Node Apache Hadoop cluster   and compress data using Lempel-Ziv-Oberhumer (LZO) algorithm,Aaradhana Deshmukh,cs.DC,http://arxiv.org/pdf/1307.1517v1
+1307.1955v1,2013-07-08T06:23:12Z,Revisiting Co-Processing for Hash Joins on the Coupled CPU-GPU   Architecture,Bingsheng He,cs.DC,http://arxiv.org/pdf/1307.1955v1
+1307.2380v2,2013-07-09T09:34:25Z,A Taxonomy of Performance Prediction Systems in the Parallel and   Distributed Computing Grids,Rajkumar Buyya,cs.DC,http://arxiv.org/pdf/1307.2380v2
+1307.2483v1,2013-07-09T14:53:05Z,Iterative Byzantine Vector Consensus in Incomplete Graphs,Nitin H. Vaidya,cs.DC,http://arxiv.org/pdf/1307.2483v1
+1307.3207v1,2013-07-11T18:28:06Z,Scalable Eventually Consistent Counters over Unreliable Networks,Carlos Baquero,cs.DC,http://arxiv.org/pdf/1307.3207v1
+1307.3306v1,2013-07-12T02:43:46Z,Energy-aware Application Scaling on a Cloud,Dan C. Marinescu,cs.DC,http://arxiv.org/pdf/1307.3306v1
+1307.4259v1,2013-07-16T12:41:05Z,Ameba-inspired Self-organizing Particle Systems,Christian Scheideler,cs.DC,http://arxiv.org/pdf/1307.4259v1
+1307.4567v1,2013-07-17T10:36:35Z,Benchmarking mixed-mode PETSc performance on high-performance   architectures,James Southern,cs.DC,http://arxiv.org/pdf/1307.4567v1
+1307.4731v1,2013-07-17T19:17:32Z,A Nested Partitioning Scheme for Parallel Heterogeneous Clusters,Hari Sundar,cs.DC,http://arxiv.org/pdf/1307.4731v1
+1307.5435v1,2013-07-20T16:16:11Z,Distributed Computation of the Conditional PCRLB for Quantized   Decentralized Particle Filters,A. B. Premkumar,cs.DC,http://arxiv.org/pdf/1307.5435v1
+1307.5619v1,2013-07-22T08:27:31Z,On the Mailbox Problem,Gal Amram,cs.DC,http://arxiv.org/pdf/1307.5619v1
+1307.6747v1,2013-07-25T14:01:26Z,CONE-DHT: A distributed self-stabilizing algorithm for a heterogeneous   storage system,Christian Scheideler,cs.DC,http://arxiv.org/pdf/1307.6747v1
+1307.7037v1,2013-07-26T13:54:20Z,Take a break: cloud scheduling optimized for real-time electricity   pricing,Ivona Brandić,cs.DC,http://arxiv.org/pdf/1307.7037v1
+1307.7976v2,2013-07-30T13:41:29Z,Node-Initiated Byzantine Consensus Without a Common Clock,Christoph Lenzen,cs.DC,http://arxiv.org/pdf/1307.7976v2
+1307.8228v1,2013-07-31T05:53:00Z,Addressing Security Challenges in Cloud Computing,Sachin Tripathi,cs.DC,http://arxiv.org/pdf/1307.8228v1
+1307.8256v1,2013-07-31T09:17:23Z,Multi-Version Conflict Notion,Sathya Peri,cs.DC,http://arxiv.org/pdf/1307.8256v1
+1310.1553v1,2013-10-06T07:40:58Z,A Workflow-Forecast Approach To The Task Scheduling Problem In   Distributed Computing Systems,Andrey Gritsenko,cs.DC,http://arxiv.org/pdf/1310.1553v1
+1310.1761v3,2013-10-07T12:53:03Z,Simple CHT: A New Derivation of the Weakest Failure Detector for   Consensus,Petr Kuznetsov,cs.DC,http://arxiv.org/pdf/1310.1761v3
+1310.2494v1,2013-10-09T14:27:43Z,Algorithmes auto-stabilisants pour la construction d'arbres couvrants et   la gestion d'entités autonomes,Lélia Blin,cs.DC,http://arxiv.org/pdf/1310.2494v1
+1310.2814v1,2013-10-10T13:40:51Z,IMSuite: A Benchmark Suite for Simulating Distributed Algorithms,V. Krishna Nandivada,cs.DC,http://arxiv.org/pdf/1310.2814v1
+1310.3309v1,2013-10-11T23:09:57Z,Dynamic Resource Management using Operating System-Level Virtualization,Alexander Pokluda,cs.DC,http://arxiv.org/pdf/1310.3309v1
+1310.3322v1,2013-10-12T01:16:32Z,GPU-Framework for Teamwork Action Recognition,Eman Shaaban,cs.DC,http://arxiv.org/pdf/1310.3322v1
+1310.4218v1,2013-10-15T21:47:57Z,Dynamic Load Balancing in GPU-Based Systems - Early Experiments,Eduardo Rocha Rodrigues,cs.DC,http://arxiv.org/pdf/1310.4218v1
+1310.4645v1,2013-10-17T10:12:25Z,A Greedy Algorithm for Optimally Pipelining a Reduction,Julien Langou,cs.DC,http://arxiv.org/pdf/1310.4645v1
+1310.4664v6,2013-10-17T11:52:26Z,SVD Factorization for Tall-and-Fat Matrices on Map/Reduce Architectures,Burak Bayramli,cs.DC,http://arxiv.org/pdf/1310.4664v6
+1310.4702v1,2013-10-02T22:43:12Z,Reliability Models for Highly Fault-tolerant Storage Systems,Ilya Volvovski,cs.DC,http://arxiv.org/pdf/1310.4702v1
+1310.4906v1,2013-10-18T04:10:43Z,Distributed Queuing in Dynamic Networks,Costas Busch,cs.DC,http://arxiv.org/pdf/1310.4906v1
+1310.4919v1,2013-10-18T05:42:43Z,Reducing Failure Probability of cloud storage services using   Multi-Clouds,Veena Rawat,cs.DC,http://arxiv.org/pdf/1310.4919v1
+1310.4935v1,2013-10-18T08:00:06Z,Online Packet Scheduling under Adversarial Jamming,Krzysztof Lorys,cs.DC,http://arxiv.org/pdf/1310.4935v1
+1310.5255v1,2013-10-19T17:32:17Z,Efficient and Robust Allocation Algorithms in Clouds under Memory   Constraints,Paul Renaud-Goud,cs.DC,http://arxiv.org/pdf/1310.5255v1
+1310.5603v1,2013-10-21T15:32:16Z,GRE: A Graph Runtime Engine for Large-Scale Distributed Graph-Parallel   Applications,Ninghui Sun,cs.DC,http://arxiv.org/pdf/1310.5603v1
+1310.6502v1,2013-10-24T07:09:50Z,AxPUE: Application Level Metrics for Power Usage Effectiveness in Data   Centers,Fan Liu,cs.DC,http://arxiv.org/pdf/1310.6502v1
+1310.7376v1,2013-10-28T11:06:25Z,Eccentricity of the nodes of OTIS-cube and Enhanced OTIS-cube,Rajib K Das,cs.DC,http://arxiv.org/pdf/1310.7376v1
+1310.7397v2,2013-10-28T12:18:39Z,Deconstructing Queue-Based Mutual Exclusion,Wojciech Golab,cs.DC,http://arxiv.org/pdf/1310.7397v2
+1310.8211v2,2013-10-30T16:11:20Z,(Re)partitioning for stream-enabled computation,Trédan Gilles,cs.DC,http://arxiv.org/pdf/1310.8211v2
+1310.8232v1,2013-10-30T17:02:56Z,Improving Memory Hierarchy Utilisation for Stencil Computations on   Multicore Machines,André Bulcão,cs.DC,http://arxiv.org/pdf/1310.8232v1
+1310.8456v1,2013-10-31T10:57:39Z,Optimal Checkpointing Period: Time vs. Energy,Jack Dongarra,cs.DC,http://arxiv.org/pdf/1310.8456v1
+1310.8486v1,2013-10-31T13:08:08Z,On the Combination of Silent Error Detection and Checkpointing,Dounia Zaidouni,cs.DC,http://arxiv.org/pdf/1310.8486v1
+1311.0058v1,2013-10-31T22:43:01Z,Dynamic web cache publishing for IaaS clouds using Shoal,Ryan Taylor,cs.DC,http://arxiv.org/pdf/1311.0058v1
+1311.1006v3,2013-11-05T10:31:57Z,Dynamic autotuning of adaptive fast multipole methods on hybrid   multicore CPU & GPU systems,Sverker Holmgren,cs.DC,http://arxiv.org/pdf/1311.1006v3
+1311.1084v1,2013-08-27T08:51:45Z,A Chemistry-Inspired Framework for Achieving Consensus in Wireless   Sensor Networks,Marco Luise,cs.DC,http://arxiv.org/pdf/1311.1084v1
+1311.1884v1,2013-11-08T06:16:43Z,A Parallel Simulated Annealing Approach for the Mirrored Traveling   Tournament Problem,Saurabh Jha,cs.DC,http://arxiv.org/pdf/1311.1884v1
+1311.2019v1,2013-11-08T16:57:34Z,Symmetric Interconnection Networks from Cubic Crystal Lattices,Ramón Beivide,cs.DC,http://arxiv.org/pdf/1311.2019v1
+1311.2426v1,2013-11-11T12:22:07Z,Micro-CernVM: Slashing the Cost of Building and Deploying Virtual   Machines,V. Nicolaou,cs.DC,http://arxiv.org/pdf/1311.2426v1
+1311.3070v1,2013-11-13T10:26:58Z,"The Distributed Computing Paradigms: P2P, Grid, Cluster, Cloud, and   Jungle",Dr. T. P. Singh,cs.DC,http://arxiv.org/pdf/1311.3070v1
+1311.3200v2,2013-11-13T16:39:40Z,Are Lock-Free Concurrent Algorithms Practically Wait-Free?,Nir Shavit,cs.DC,http://arxiv.org/pdf/1311.3200v2
+1311.3425v3,2013-11-14T09:10:15Z,"Breathe before Speaking: Efficient Information Dissemination Despite   Noisy, Limited and Anonymous Communication",Amos Korman,cs.DC,http://arxiv.org/pdf/1311.3425v3
+1311.4112v1,2013-11-17T03:03:36Z,Big Data Analytics in Future Internet of Things,Qihui Wu,cs.DC,http://arxiv.org/pdf/1311.4112v1
+1311.5304v3,2013-11-21T03:49:00Z,Dynamic Partitioning-based JPEG Decompression on Heterogeneous Multicore   Architectures,Bernd Burgstaller,cs.DC,http://arxiv.org/pdf/1311.5304v3
+1311.5904v3,2013-11-22T21:16:58Z,The IceProd Framework: Distributed Data Processing for the IceCube   Neutrino Observatory,M. Zoll,cs.DC,http://arxiv.org/pdf/1311.5904v3
+1311.5949v1,2013-11-23T02:53:58Z,GoFFish: A Sub-Graph Centric Framework for Large-Scale Graph Analytics,Viktor Prasanna,cs.DC,http://arxiv.org/pdf/1311.5949v1
+1311.6183v1,2013-11-24T22:45:59Z,Rethinking State-Machine Replication for Parallelism,Fernando Pedone,cs.DC,http://arxiv.org/pdf/1311.6183v1
+1311.6505v1,2013-11-25T22:19:39Z,Evaluating the Impact of SDC on the GMRES Iterative Solver,Frank Mueller,cs.DC,http://arxiv.org/pdf/1311.6505v1
+1311.6902v1,2013-11-27T09:13:43Z,"Good, Better, Best! - Unbeatable Protocols for Consensus and Set   Consensus",Yoram Moses,cs.DC,http://arxiv.org/pdf/1311.6902v1
+1311.7210v1,2013-11-28T05:16:09Z,QoS Based Framework for Effective Web Services in Cloud Computing,Nagesh N. Jadhav,cs.DC,http://arxiv.org/pdf/1311.7210v1
+1311.7422v1,2013-11-28T20:56:09Z,LiteLab: Efficient Large-scale Network Experiments,Jussi Kangasharju,cs.DC,http://arxiv.org/pdf/1311.7422v1
+1311.7435v1,2013-11-28T22:34:11Z,Experimenting with BitTorrent on a Cluster: A Good or a Bad Idea?,Jussi Kangasharju,cs.DC,http://arxiv.org/pdf/1311.7435v1
+1311.7676v2,2013-11-29T19:52:42Z,Constructing Gazetteers from Volunteered Big Geo-Data Based on Hadoop,Yue Zhang,cs.DC,http://arxiv.org/pdf/1311.7676v2
+1404.0743v2,2014-04-03T01:01:21Z,Pentago is a First Player Win: Strongly Solving a Game Using Parallel   In-Core Retrograde Analysis,Geoffrey Irving,cs.DC,http://arxiv.org/pdf/1404.0743v2
+1404.1124v2,2014-04-04T01:24:25Z,A Task Allocation Schema Based on Response Time Optimization in Cloud   Computing,Meilin Liu,cs.DC,http://arxiv.org/pdf/1404.1124v2
+1404.1328v1,2014-04-04T18:05:45Z,Efficient Task Replication for Fast Response Times in Parallel   Computation,Gregory Wornell,cs.DC,http://arxiv.org/pdf/1404.1328v1
+1404.1814v1,2014-04-07T15:11:38Z,CernVM Online and Cloud Gateway: a uniform interface for CernVM   contextualization and deployment,R. Meusel,cs.DC,http://arxiv.org/pdf/1404.1814v1
+1404.2076v1,2014-04-08T10:21:03Z,Efficient Optimal Algorithm of Task Scheduling in Cloud Computing   Environment,Saloni Jain,cs.DC,http://arxiv.org/pdf/1404.2076v1
+1404.2157v1,2014-04-08T14:41:51Z,Leveraging VMware vCloud Director Virtual Applications (vApps) for   Operational Expense (OpEx) Efficiency,Ramon Alvarez,cs.DC,http://arxiv.org/pdf/1404.2157v1
+1404.2187v1,2014-03-12T22:58:50Z,Coherent Causal Memory,Ernie Cohen,cs.DC,http://arxiv.org/pdf/1404.2187v1
+1404.2340v1,2014-04-09T01:05:38Z,Disaster Recovery Using Virtual Machines,Dr. Timur Mirzoev,cs.DC,http://arxiv.org/pdf/1404.2340v1
+1404.2739v1,2014-04-10T08:53:10Z,Multiprocessor Scheduling of Dependent Tasks to Minimize Makespan and   Reliability Cost Using NSGA-II,A. Anju,cs.DC,http://arxiv.org/pdf/1404.2739v1
+1404.3272v3,2014-04-12T09:59:02Z,Efficient Lock-free Binary Search Trees,Philippas Tsigas,cs.DC,http://arxiv.org/pdf/1404.3272v3
+1404.3321v2,2014-04-12T21:43:39Z,Performance Analysis of Irregular Collective Communication with the   Crystal Router Algorithm,Erwin Laure,cs.DC,http://arxiv.org/pdf/1404.3321v2
+1404.3861v2,2014-04-15T10:26:24Z,Spinner: Scalable Graph Partitioning in the Cloud,Georgos Siganos,cs.DC,http://arxiv.org/pdf/1404.3861v2
+1404.3913v1,2014-04-15T13:56:02Z,Analysis of Dynamic Scheduling Strategies for Matrix Multiplication on   Heterogeneous Platforms,Loris Marchal,cs.DC,http://arxiv.org/pdf/1404.3913v1
+1404.4152v2,2014-04-16T07:02:36Z,SWAPHI: Smith-Waterman Protein Database Search on Xeon Phi Coprocessors,Bertil Schmidt,cs.DC,http://arxiv.org/pdf/1404.4152v2
+1404.4250v3,2014-04-16T14:06:12Z,Witness structures and immediate snapshot complexes,Dmitry N. Kozlov,cs.DC,http://arxiv.org/pdf/1404.4250v3
+1404.4653v1,2014-04-17T21:13:43Z,An Efficient and Balanced Platform for Data-Parallel Subsampling   Workloads,Christopher Stewart,cs.DC,http://arxiv.org/pdf/1404.4653v1
+1404.4910v1,2014-04-19T01:43:52Z,Enumerating Maximal Bicliques from a Large Graph using MapReduce,Srikanta Tirthapura,cs.DC,http://arxiv.org/pdf/1404.4910v1
+1404.5552v1,2014-04-22T16:48:30Z,Tolerating Silent Data Corruption in Opaque Preconditioners,Frank Mueller,cs.DC,http://arxiv.org/pdf/1404.5552v1
+1404.5813v4,2014-04-23T13:05:14Z,Topology of the immediate snapshot complexes,Dmitry N. Kozlov,cs.DC,http://arxiv.org/pdf/1404.5813v4
+1404.6415v1,2014-04-25T13:35:47Z,The Impact Failure Detector,Pierre Sens,cs.DC,http://arxiv.org/pdf/1404.6415v1
+1404.6561v2,2014-04-25T21:28:14Z,Distributed Computing on Core-Periphery Networks: Axiom-based Design,David Peleg,cs.DC,http://arxiv.org/pdf/1404.6561v2
+1404.6681v2,2014-04-26T20:39:09Z,Power Management Techniques for Data Centers: A Survey,Sparsh Mittal,cs.DC,http://arxiv.org/pdf/1404.6681v2
+1404.6719v1,2014-04-27T07:14:47Z,Practical Experience Report: The Performance of Paxos in the Cloud,Ken Birman,cs.DC,http://arxiv.org/pdf/1404.6719v1
+1404.6721v1,2014-04-27T07:34:36Z,Optimistic Parallel State-Machine Replication,Fernando Pedone,cs.DC,http://arxiv.org/pdf/1404.6721v1
+1404.6772v1,2014-04-27T15:33:12Z,Why a Global Time is Needed in a Dependable SoS,Hermann Kopetz,cs.DC,http://arxiv.org/pdf/1404.6772v1
+1404.7494v1,2014-04-29T19:17:32Z,Intelligent Resource Allocation Technique For Desktop-as-a-Service in   Cloud Environment,Dr. Ajay Shanker Singh,cs.DC,http://arxiv.org/pdf/1404.7494v1
+1404.7548v2,2014-04-29T22:16:48Z,Faster Transaction Commit even when Nodes Crash,Paul Ezhilchelvan,cs.DC,http://arxiv.org/pdf/1404.7548v2
+1404.7671v1,2014-04-30T10:29:46Z,Determining Majority in Networks with Local Interactions and very Small   Local Memory,Paul G. Spirakis,cs.DC,http://arxiv.org/pdf/1404.7671v1
+1404.7688v1,2014-04-30T11:24:26Z,On User Availability Prediction and Network Applications,Yves Roudier,cs.DC,http://arxiv.org/pdf/1404.7688v1
+1405.0637v1,2014-05-04T00:35:25Z,Crux: Locality-Preserving Distributed Systems,Bryan Ford,cs.DC,http://arxiv.org/pdf/1405.0637v1
+1405.1382v1,2014-05-06T17:48:03Z,Consensus with an Abstract MAC Layer,Calvin Newport,cs.DC,http://arxiv.org/pdf/1405.1382v1
+1405.1671v1,2014-05-07T17:20:13Z,Multi-Message Broadcast with Abstract MAC Layers and Unreliable Links,Calvin Newport,cs.DC,http://arxiv.org/pdf/1405.1671v1
+1405.1688v1,2014-05-07T18:27:20Z,Trade-offs between Selection Complexity and Performance when Searching   the Plane without Communication,Tsvetomira Radeva,cs.DC,http://arxiv.org/pdf/1405.1688v1
+1405.1932v1,2014-05-08T14:04:43Z,Towards Cloud Computing: A SWOT Analysis on its Adoption in SMEs,Neda Abdolvand,cs.DC,http://arxiv.org/pdf/1405.1932v1
+1405.2011v1,2014-05-08T16:42:29Z,Improved Distributed Steiner Forest Construction,Boaz Patt-Shamir,cs.DC,http://arxiv.org/pdf/1405.2011v1
+1405.2636v1,2014-05-12T06:28:03Z,Taking advantage of hybrid systems for sparse direct solvers via   task-based runtimes,Samuel Thibault,cs.DC,http://arxiv.org/pdf/1405.2636v1
+1405.2833v2,2014-05-12T16:51:53Z,On the Latency and Energy Efficiency of Erasure-Coded Cloud Storage   Systems,T. Charles Clancy,cs.DC,http://arxiv.org/pdf/1405.2833v2
+1405.2910v1,2014-05-12T16:40:42Z,Evaluating the Self-Optimization Process of the Adaptive Memory   Management Architecture Self-aware Memory,Wolfgang Karl,cs.DC,http://arxiv.org/pdf/1405.2910v1
+1405.2914v1,2014-05-12T16:42:09Z,Towards Cross-layer Reliability Analysis of Transient and Permanent   Faults,Mehdi B. Tahoori,cs.DC,http://arxiv.org/pdf/1405.2914v1
+1405.2915v1,2014-05-12T16:42:26Z,"Optimized Composition: Generating Efficient Code for Heterogeneous   Systems from Multi-Variant Components, Skeletons and Containers",Lu Li,cs.DC,http://arxiv.org/pdf/1405.2915v1
+1405.3223v1,2014-05-13T16:43:49Z,A Grammatical Approach to Data-centric Case Management in a Distributed   Collaborative Environment,Christophe Morvan,cs.DC,http://arxiv.org/pdf/1405.3223v1
+1405.3411v1,2014-05-14T08:47:48Z,A Case Study on Job Scheduling Policy for Workload Characterization and   Power Efficiency,Imtiaz Ali Korejo,cs.DC,http://arxiv.org/pdf/1405.3411v1
+1405.4464v3,2014-05-18T06:29:02Z,Seeking the Principles of Sustainable Software Engineering,Justin Shi,cs.DC,http://arxiv.org/pdf/1405.4464v3
+1405.4618v1,2014-05-19T06:52:59Z,A novel energy-efficient resource allocation algorithm based on immune   clonal optimization for green cloud computing,Yunji Wang,cs.DC,http://arxiv.org/pdf/1405.4618v1
+1405.5145v1,2014-05-20T16:22:02Z,Set Consensus: Captured by a Set of Runs with Ramifications,Eli Gafni,cs.DC,http://arxiv.org/pdf/1405.5145v1
+1405.5200v1,2014-01-09T12:46:41Z,Efficient and Reliable Hybrid Cloud Architechture for Big Data,Nova Ahmed,cs.DC,http://arxiv.org/pdf/1405.5200v1
+1405.5689v3,2014-05-22T09:43:07Z,Inherent Limitations of Hybrid Transactional Memory,Nir Shavit,cs.DC,http://arxiv.org/pdf/1405.5689v3
+1405.6178v1,2014-02-10T01:28:22Z,A Novel Self-Recognition Method for Autonomic Grid Networks Case Study:   Advisor Labor Law Software Application,Hamed Barangi,cs.DC,http://arxiv.org/pdf/1405.6178v1
+1405.6362v1,2014-05-25T07:28:33Z,A Performance Model for the Communication in Fast Multipole Methods on   HPC Platforms,David Keyes,cs.DC,http://arxiv.org/pdf/1405.6362v1
+1405.6490v1,2014-05-26T07:50:16Z,Review of Linpack and Cloudsim on VMM,Pawan Luthra,cs.DC,http://arxiv.org/pdf/1405.6490v1
+1405.7487v1,2014-05-29T08:09:35Z,Asynchronous Execution of the Fast Multipole Method Using Charm++,David Keyes,cs.DC,http://arxiv.org/pdf/1405.7487v1
+1405.7958v1,2014-05-30T19:22:46Z,Region Templates: Data Representation and Management for Large-Scale   Image Analysis,Joel Saltz,cs.DC,http://arxiv.org/pdf/1405.7958v1
+1407.0442v1,2014-07-02T02:29:12Z,Technical Report: Dealing with Undependable Workers in Decentralized   Network Supercomputing,Alexander A. Shvartsman,cs.DC,http://arxiv.org/pdf/1407.0442v1
+1407.0696v1,2014-07-02T02:41:00Z,Technical Report: Estimating Reliability of Workers for Cooperative   Distributed Computing,Alexander A. Shvartsman,cs.DC,http://arxiv.org/pdf/1407.0696v1
+1407.1237v1,2014-07-04T13:58:50Z,HT-Paxos: High Throughput State-Machine Replication Protocol for Large   Clustered Data Centers,Ajay Agarwal,cs.DC,http://arxiv.org/pdf/1407.1237v1
+1407.2565v2,2014-07-09T17:13:35Z,Plurality Consensus in the Gossip Model,R. Silvestri,cs.DC,http://arxiv.org/pdf/1407.2565v2
+1407.2636v1,2014-07-09T20:54:42Z,Parallel MATLAB Techniques,Vijay Gadepally,cs.DC,http://arxiv.org/pdf/1407.2636v1
+1407.3286v1,2014-07-11T20:17:12Z,Solvability-Based Comparison of Failure Detectors,Josef Widder,cs.DC,http://arxiv.org/pdf/1407.3286v1
+1407.3487v1,2014-07-13T17:13:17Z,Collective Tuning Initiative,Grigori Fursin,cs.DC,http://arxiv.org/pdf/1407.3487v1
+1407.3879v1,2014-07-15T04:28:09Z,Scheduling in Grid Computing Environment,Vipul A. Shah,cs.DC,http://arxiv.org/pdf/1407.3879v1
+1407.3881v1,2014-07-15T04:53:12Z,Experimental Study of Remote Job Submission and Execution on LRM through   Grid Computing Mechanisms,Vipul A. Shah,cs.DC,http://arxiv.org/pdf/1407.3881v1
+1407.4859v1,2014-07-18T00:09:04Z,ADHA: Automatic Data layout framework for Heterogeneous Architectures,Vivek Sarkar,cs.DC,http://arxiv.org/pdf/1407.4859v1
+1407.4908v1,2014-07-18T08:17:55Z,Integrating R and Hadoop for Big Data Analysis,Raluca Mariana Dragoescu,cs.DC,http://arxiv.org/pdf/1407.4908v1
+1407.5404v1,2014-07-21T07:52:42Z,Model based design of super schedulers managing catastrophic scenario in   hard real time systems,T. R. Gopalakrishnan Nair,cs.DC,http://arxiv.org/pdf/1407.5404v1
+1407.5762v2,2014-07-22T07:14:16Z,A macro-level model for investigating the effect of directional bias on   network coverage,Qin Li,cs.DC,http://arxiv.org/pdf/1407.5762v2
+1407.6153v1,2014-07-23T09:47:57Z,Write-and-f-array: implementation and an application,Robert Obryk,cs.DC,http://arxiv.org/pdf/1407.6153v1
+1407.6317v1,2014-07-23T18:08:25Z,A Fuzzy Differential Evolution Algorithm for Job Scheduling on   Computational Grids,B. Raveendra Babu,cs.DC,http://arxiv.org/pdf/1407.6317v1
+1407.6603v1,2014-07-24T14:47:48Z,Parallelize Bubble Sort Algorithm Using OpenMP,Mazin Nasser,cs.DC,http://arxiv.org/pdf/1407.6603v1
+1407.6745v1,2014-07-24T22:02:53Z,On Distributed Graph Coloring with Iterative Recoloring,Ümit V. Çatalyürek,cs.DC,http://arxiv.org/pdf/1407.6745v1
+1407.6876v2,2014-07-25T12:52:59Z,On Partial Wait-Freedom in Transactional Memory,Srivatsan Ravi,cs.DC,http://arxiv.org/pdf/1407.6876v2
+1407.6878v1,2014-07-25T12:59:26Z,Survey of Parallel Computing with MATLAB,Zaid Abdi Alkareem Alyasseri,cs.DC,http://arxiv.org/pdf/1407.6878v1
+1407.6915v1,2014-07-25T14:25:35Z,Accelerating Fast Fourier Transforms Using Hadoop and CUDA,Bradley S. Rees,cs.DC,http://arxiv.org/pdf/1407.6915v1
+1407.6932v1,2014-07-25T15:14:08Z,OMP2HMPP: HMPP Source Code Generation from Programs with Pragma   Extensions,Jordi Carrabina,cs.DC,http://arxiv.org/pdf/1407.6932v1
+1407.7360v1,2014-07-28T09:14:35Z,A Taxonomy and Survey on eScience as a Service in the Cloud,Shadi Ibrahim,cs.DC,http://arxiv.org/pdf/1407.7360v1
+1407.8433v1,2014-07-31T14:27:10Z,The 1-2-3-Toolkit for Building Your Own Balls-into-Bins Algorithm,Christoph Lenzen,cs.DC,http://arxiv.org/pdf/1407.8433v1
+1507.00073v1,2015-07-01T00:12:35Z,Specifying Concurrent Problems: Beyond Linearizability,Sergio Rajsbaum,cs.DC,http://arxiv.org/pdf/1507.00073v1
+1507.00090v2,2015-07-01T01:55:11Z,Workload Trace Generation for Dynamic Environments in Cloud Computing,Benjamín Barán,cs.DC,http://arxiv.org/pdf/1507.00090v2
+1507.00365v1,2015-07-01T20:34:30Z,Experimental Study of the Cloud Architecture Selection for Effective Big   Data Processing,S. Payain,cs.DC,http://arxiv.org/pdf/1507.00365v1
+1507.00474v1,2015-07-02T08:49:51Z,"Anonymous Obstruction-free $(n,k)$-Set Agreement with $n-k+1$ Atomic   Read/Write Registers",Pierre Sutra,cs.DC,http://arxiv.org/pdf/1507.00474v1
+1507.00772v1,2015-07-02T21:34:58Z,Optimal and Resilient Pheromone Utilization in Ant Foraging,Moshe Sulamy,cs.DC,http://arxiv.org/pdf/1507.00772v1
+1507.00909v1,2015-07-03T13:35:09Z,Node Labels in Local Decision,Jukka Suomela,cs.DC,http://arxiv.org/pdf/1507.00909v1
+1507.00939v1,2015-06-29T17:39:39Z,Evolution of as-a-Service Era in Cloud,Sugam Sharma,cs.DC,http://arxiv.org/pdf/1507.00939v1
+1507.01067v1,2015-07-04T05:20:52Z,On Web-grid Implementation Using Single System Image,Jaderick P. Pabico,cs.DC,http://arxiv.org/pdf/1507.01067v1
+1507.01101v2,2015-07-04T12:29:20Z,Utility Maximizing Thread Assignment and Resource Allocation,Fang Liu,cs.DC,http://arxiv.org/pdf/1507.01101v2
+1507.01181v1,2015-07-05T08:54:59Z,On Fast and Robust Information Spreading in the Vertex-Congest Model,Tariq Toukan,cs.DC,http://arxiv.org/pdf/1507.01181v1
+1507.01265v1,2015-07-05T20:06:43Z,Model-based optimization of MPDATA on Intel Xeon Phi through load   imbalancing,Roman Wyrzykowski,cs.DC,http://arxiv.org/pdf/1507.01265v1
+1507.01456v2,2015-07-06T13:42:56Z,A scalable system for primal-dual optimization,Radu Cristian Ionescu,cs.DC,http://arxiv.org/pdf/1507.01456v2
+1507.01546v2,2015-07-06T17:27:04Z,Autonomic Cloud Computing: Research Perspective,Sukhpal Singh Gill,cs.DC,http://arxiv.org/pdf/1507.01546v2
+1507.01773v1,2015-07-07T12:13:23Z,DART-MPI: An MPI-based Implementation of a PGAS Runtime System,Jie Tao,cs.DC,http://arxiv.org/pdf/1507.01773v1
+1507.01845v1,2015-07-07T15:30:13Z,Byzantine Multi-Agent Optimization: Part II,Nitin Vaidya,cs.DC,http://arxiv.org/pdf/1507.01845v1
+1507.02272v3,2015-07-08T19:59:35Z,Anonymous Processors with Synchronous Shared Memory,Muhammed Talo,cs.DC,http://arxiv.org/pdf/1507.02272v3
+1507.02372v1,2015-07-09T04:43:57Z,Request Prediction in Cloud with a Cyclic Window Learning Algorithm,Zhengyuan Zhu,cs.DC,http://arxiv.org/pdf/1507.02372v1
+1507.02545v2,2015-07-09T15:09:53Z,Maximizing Profit of Cloud Brokers under Quantized Billing Cycles: a   Dynamic Pricing Strategy based on Ski-Rental Problem,Ramkrishna Pasumarthy,cs.DC,http://arxiv.org/pdf/1507.02545v2
+1507.02721v2,2015-07-09T21:44:45Z,On Distributed Computing with Beeps,A. Zemmari,cs.DC,http://arxiv.org/pdf/1507.02721v2
+1507.02722v1,2015-07-09T21:53:23Z,On the Time and Space Complexity of ABA Prevention and Detection,Philipp Woelfel,cs.DC,http://arxiv.org/pdf/1507.02722v1
+1507.02798v1,2015-07-10T08:06:22Z,A horizontally-scalable multiprocessing platform based on Node.js,Achim Streit,cs.DC,http://arxiv.org/pdf/1507.02798v1
+1507.03162v3,2015-07-11T22:14:31Z,Continuous Partial Quorums for Consistency-Latency Tuning in Distributed   NoSQL Storage Systems,Wojciech Golab,cs.DC,http://arxiv.org/pdf/1507.03162v3
+1507.03274v2,2015-07-12T21:28:34Z,Using RDMA for Lock Management,Erfan Zamanian,cs.DC,http://arxiv.org/pdf/1507.03274v2
+1507.03325v2,2015-07-13T04:47:04Z,Scientific Computing Meets Big Data Technology: An Astronomy Use Case,Saul Perlmutter,cs.DC,http://arxiv.org/pdf/1507.03325v2
+1507.03376v1,2015-07-13T09:58:11Z,"A Distributed Enumeration Algorithm and Applications to All Pairs   Shortest Paths, Diameter",A. Zemmari,cs.DC,http://arxiv.org/pdf/1507.03376v1
+1507.03927v5,2015-07-14T17:03:56Z,SkyHash: a Hash Opinion Dynamics Model,Jiwu Shu,cs.DC,http://arxiv.org/pdf/1507.03927v5
+1507.04039v2,2015-07-14T22:27:16Z,Hyper Heterogeneous Cloud-based IMS Software Architecture: A   Proof-of-Concept and Empirical Analysis,Mohamed Cheriet,cs.DC,http://arxiv.org/pdf/1507.04039v2
+1507.04047v4,2015-07-14T23:20:54Z,Parallelization Strategies for Spatial Agent-Based Models,Agostinho C. Rosa,cs.DC,http://arxiv.org/pdf/1507.04047v4
+1507.04086v1,2015-07-15T05:17:50Z,HT-Ring Paxos: Theory of High Throughput State-Machine Replication for   Clustered Data Centers,Ajay Agarwal,cs.DC,http://arxiv.org/pdf/1507.04086v1
+1507.04234v3,2015-07-15T14:34:17Z,On the Maximum Rate of Networked Computation in a Capacitated Network,D. Manjunath,cs.DC,http://arxiv.org/pdf/1507.04234v3
+1507.04330v2,2015-07-15T19:09:35Z,Optimal Dynamic Distributed MIS,Zohar Karnin,cs.DC,http://arxiv.org/pdf/1507.04330v2
+1507.04383v1,2015-07-15T20:28:18Z,Scaling Monte Carlo Tree Search on Intel Xeon Phi,Jos Vermaseren,cs.DC,http://arxiv.org/pdf/1507.04383v1
+1507.04405v1,2015-07-15T22:14:23Z,Thinking Like a Vertex: a Survey of Vertex-Centric Frameworks for   Distributed Graph Processing,Gregory Madey,cs.DC,http://arxiv.org/pdf/1507.04405v1
+1507.04909v1,2015-07-17T10:35:52Z,Election algorithms with random delays in trees,Akka Zemmari,cs.DC,http://arxiv.org/pdf/1507.04909v1
+1507.05129v1,2015-07-17T22:56:12Z,Performance and Energy Optimization of Matrix Multiplication on   Asymmetric big.LITTLE Processors,Rafael Rodríguez-Sánchez,cs.DC,http://arxiv.org/pdf/1507.05129v1
+1507.05169v1,2015-07-18T10:25:18Z,Space Bounds for Reliable Storage: Fundamental Limits of Coding,Idit Keidar,cs.DC,http://arxiv.org/pdf/1507.05169v1
+1507.05467v1,2015-07-20T12:25:54Z,Budget Constrained Execution of Multiple Bag-of-Tasks Applications on   the Cloud,Adam Barker,cs.DC,http://arxiv.org/pdf/1507.05467v1
+1507.05470v1,2015-07-20T12:31:23Z,Task Scheduling on the Cloud with Hard Constraints,Adam Barker,cs.DC,http://arxiv.org/pdf/1507.05470v1
+1507.05472v1,2015-07-20T12:41:32Z,An SLA-based Advisor for Placement of HPC Jobs on Hybrid Clouds,Marco A. S. Netto,cs.DC,http://arxiv.org/pdf/1507.05472v1
+1507.05501v1,2015-07-20T14:04:35Z,A survey of P2P multidimensional indexing structures,Johan Pouwelse,cs.DC,http://arxiv.org/pdf/1507.05501v1
+1507.05796v5,2015-07-21T12:02:36Z,Noisy Rumor Spreading and Plurality Consensus,Emanuele Natale,cs.DC,http://arxiv.org/pdf/1507.05796v5
+1507.06165v3,2015-07-22T12:56:55Z,Asynchronous Byzantine Agreement with Optimal Resilience and Linear   Complexity,Cheng Wang,cs.DC,http://arxiv.org/pdf/1507.06165v3
+1507.06707v1,2015-07-24T00:14:33Z,Probabilistic Self-Stabilization,Francesco Pasquale,cs.DC,http://arxiv.org/pdf/1507.06707v1
+1507.06858v2,2015-07-24T14:28:32Z,Micro Service Cloud Computing Pattern for Next Generation Networks,Mohamed Cheriet,cs.DC,http://arxiv.org/pdf/1507.06858v2
+1507.07086v1,2015-07-25T09:54:16Z,On Liveness of Dynamic Storage,Idit Keidar,cs.DC,http://arxiv.org/pdf/1507.07086v1
+1507.08967v3,2015-07-31T18:12:27Z,Distributed Algorithms for Finding Local Clusters Using Heat Kernel   Pagerank,Olivia Simpson,cs.DC,http://arxiv.org/pdf/1507.08967v3
+0910.0317v1,2009-10-02T03:32:09Z,A New Fuzzy Approach for Dynamic Load Balancing Algorithm,M. Iqbal b. Saripan,cs.DC,http://arxiv.org/pdf/0910.0317v1
+0910.1852v1,2009-10-09T20:24:57Z,DAMQ-Based Schemes for Efficiently Using the Buffer Spaces of a NoC   Router,Ahmad Khademzadeh,cs.DC,http://arxiv.org/pdf/0910.1852v1
+0910.1974v1,2009-10-11T06:26:29Z,Cloudbus Toolkit for Market-Oriented Cloud Computing,Christian Vecchiola,cs.DC,http://arxiv.org/pdf/0910.1974v1
+0910.1979v1,2009-10-11T07:42:44Z,High-Performance Cloud Computing: A View of Scientific Applications,Rajkumar Buyya,cs.DC,http://arxiv.org/pdf/0910.1979v1
+0910.4507v1,2009-10-23T13:02:19Z,ScotGrid: Providing an Effective Distributed Tier-2 in the LHC Era,Graeme Stewart,cs.DC,http://arxiv.org/pdf/0910.4507v1
+0910.4510v1,2009-10-23T13:29:44Z,Optimised access to user analysis data using the gLite DPM,Graeme Stewart,cs.DC,http://arxiv.org/pdf/0910.4510v1
+0910.4568v1,2009-10-23T19:05:29Z,"SPECI, a simulation tool exploring cloud-scale data centres",Ilango Sriram,cs.DC,http://arxiv.org/pdf/0910.4568v1
+1003.0951v2,2010-03-04T02:47:07Z,LogMaster: Mining Event Correlations in Logs of Large scale Cluster   Systems,Wei Zhou,cs.DC,http://arxiv.org/pdf/1003.0951v2
+1003.0952v3,2010-03-04T03:25:41Z,Parallel structurally-symmetric sparse matrix-vector products on   multi-core processors,Fernando L. B. Ribeiro,cs.DC,http://arxiv.org/pdf/1003.0952v3
+1003.1058v2,2010-03-04T14:47:17Z,Algorithms For Extracting Timeliness Graphs,Mikel Larrea,cs.DC,http://arxiv.org/pdf/1003.1058v2
+1003.1291v1,2010-03-05T15:34:09Z,"The Grid[Way] Job Template Manager, a tool for parameter sweeping",Ignacio M. Llorente,cs.DC,http://arxiv.org/pdf/1003.1291v1
+1003.1395v2,2010-03-06T15:47:21Z,Start-phase control of distributed systems written in Erlang/OTP,Antal Tátrai,cs.DC,http://arxiv.org/pdf/1003.1395v2
+1003.1397v1,2010-03-06T16:24:29Z,Using Coloured Petri Nets for design of parallel raytracing environment,Branislav Sobota,cs.DC,http://arxiv.org/pdf/1003.1397v1
+1003.1608v1,2010-03-08T12:00:09Z,Deterministic Distributed Vertex Coloring in Polylogarithmic Time,Michael Elkin,cs.DC,http://arxiv.org/pdf/1003.1608v1
+1003.3305v1,2010-03-17T06:28:40Z,Towards trusted volunteer grid environments,Tunisia),cs.DC,http://arxiv.org/pdf/1003.3305v1
+1003.3684v1,2010-03-18T22:11:14Z,Parallel Generation of Massive Scale-Free Graphs,Keith Henderson,cs.DC,http://arxiv.org/pdf/1003.3684v1
+1003.3866v2,2010-03-19T19:40:41Z,The Cloud Adoption Toolkit: Addressing the Challenges of Cloud Adoption   in Enterprise,Ian Sommerville,cs.DC,http://arxiv.org/pdf/1003.3866v2
+1003.3920v1,2010-03-20T10:54:43Z,InterCloud: Utility-Oriented Federation of Cloud Computing Environments   for Scaling of Application Services,Rodrigo N. Calheiros,cs.DC,http://arxiv.org/pdf/1003.3920v1
+1003.5342v1,2010-03-28T06:34:20Z,Improving Waiting Time of Tasks Scheduled Under Preemptive Round Robin   Using Changeable Time Quantum,Samih Mohemmed Mostafa,cs.DC,http://arxiv.org/pdf/1003.5342v1
+1003.5794v3,2010-03-30T11:22:55Z,Scalable Group Management in Large-Scale Virtualized Clusters,Jianfeng Zhan,cs.DC,http://arxiv.org/pdf/1003.5794v3
+1005.0925v1,2010-05-06T08:30:16Z,Improving Overhead Computation and pre-processing Time for Grid   Scheduling System,Abdul Hanan Abdullah,cs.DC,http://arxiv.org/pdf/1005.0925v1
+1005.1195v1,2010-05-07T12:33:41Z,The Impact of Topology on Byzantine Containment in Stabilization,Sébastien Tixeuil,cs.DC,http://arxiv.org/pdf/1005.1195v1
+1005.1747v1,2010-05-11T08:17:36Z,A Real Time Optimistic Strategy to achieve Concurrency Control in Mobile   Environments Using On-demand Multicasting,Lakshmi Rajamani,cs.DC,http://arxiv.org/pdf/1005.1747v1
+1005.1751v1,2010-05-11T08:30:10Z,An Efficient and Secure Routing Protocol for Mobile Ad-Hoc Networks,Akshay Atrey,cs.DC,http://arxiv.org/pdf/1005.1751v1
+1005.1904v3,2010-05-11T18:23:38Z,Cloud Computing: Exploring the scope,Vijayshree Tiwari,cs.DC,http://arxiv.org/pdf/1005.1904v3
+1005.2027v1,2010-05-12T09:39:18Z,A Multi-agent Framework for Performance Tuning in Distributed   Environment,Nandini Mukherjee,cs.DC,http://arxiv.org/pdf/1005.2027v1
+1005.2037v1,2010-05-12T10:13:59Z,An Integrated Framework for Performance Analysis and Tuning in Grid   Environment,Nandini Mukherjee,cs.DC,http://arxiv.org/pdf/1005.2037v1
+1005.2567v1,2010-05-14T16:32:02Z,Deploying Wireless Networks with Beeps,Fabian Kuhn,cs.DC,http://arxiv.org/pdf/1005.2567v1
+1005.3158v1,2010-05-18T11:17:34Z,Improvement Cache Efficiency of Explicit Finite Element Procedure and   its Application to Parallel Casting Solidification Simulation,Ruhollah Tavakoli,cs.DC,http://arxiv.org/pdf/1005.3158v1
+1005.3367v2,2010-05-19T06:34:03Z,Bounding the Impact of Unbounded Attacks in Stabilization,Sébastien Tixeuil,cs.DC,http://arxiv.org/pdf/1005.3367v2
+1005.5223v1,2010-05-28T06:28:10Z,On Byzantine Containment Properties of the $min+1$ Protocol,Sébastien Tixeuil,cs.DC,http://arxiv.org/pdf/1005.5223v1
+1005.5435v1,2010-05-29T07:57:30Z,Dynamic management of transactions in distributed real-time processing   system,S. C. Mehrotra,cs.DC,http://arxiv.org/pdf/1005.5435v1
+1005.5440v1,2010-05-29T08:29:45Z,A Low Overhead Minimum Process Global Snapshop Collection Algorithm for   Mobile Distributed System,Parveen Kumar,cs.DC,http://arxiv.org/pdf/1005.5440v1
+1005.5606v1,2010-05-31T07:08:34Z,Implementation of a Cloud Data Server (CDS) for Providing Secure Service   in E-Business,D. Sasireka,cs.DC,http://arxiv.org/pdf/1005.5606v1
+1005.5630v1,2010-05-31T09:09:25Z,Reliable Self-Stabilizing Communication for Quasi Rendezvous,Christian Lavault,cs.DC,http://arxiv.org/pdf/1005.5630v1
+1006.0308v1,2010-06-02T06:45:07Z,"Energy-Efficient Management of Data Center Resources for Cloud   Computing: A Vision, Architectural Elements, and Open Challenges",Jemal Abawajy,cs.DC,http://arxiv.org/pdf/1006.0308v1
+1006.1074v1,2010-06-05T22:27:14Z,"Youpi, a Web-based Astronomical Image Processing Pipeline",G. Sémah,cs.DC,http://arxiv.org/pdf/1006.1074v1
+1006.1177v1,2010-06-07T06:22:05Z,Efficient Resource Matching in Heterogeneous Grid Using Resource Vector,George L Barnes,cs.DC,http://arxiv.org/pdf/1006.1177v1
+1006.1191v1,2010-06-07T07:26:00Z,Survey on the Event Orderings Semantics Used for Distributed System,Suhaidi Hassan,cs.DC,http://arxiv.org/pdf/1006.1191v1
+1006.1401v2,2010-06-08T00:42:20Z,PhoenixCloud: Provisioning Resources for Heterogeneous Workloads in   Cloud Computing,Xiutao Zang,cs.DC,http://arxiv.org/pdf/1006.1401v2
+1006.1926v1,2010-06-09T23:12:33Z,Roomy: A System for Space Limited Computations,Daniel Kunkle,cs.DC,http://arxiv.org/pdf/1006.1926v1
+1006.2650v1,2010-06-14T09:39:45Z,A Study on Performance Analysis Tools for Applications Running on Large   Distributed Systems,Nandini Mukherjee,cs.DC,http://arxiv.org/pdf/1006.2650v1
+1006.3432v1,2010-06-17T11:22:27Z,Snap-Stabilizing Linear Message Forwarding,Vincent Villain,cs.DC,http://arxiv.org/pdf/1006.3432v1
+1006.3452v1,2010-06-17T12:46:19Z,Generating a Family of Byzantine Tolerant Protocol Implementations Using   a Meta-Model Architecture,Stuart Norcross,cs.DC,http://arxiv.org/pdf/1006.3452v1
+1006.3465v1,2010-06-17T13:40:59Z,Hosting Byzantine Fault Tolerant Services on a Chord Ring,Stuart Norcross,cs.DC,http://arxiv.org/pdf/1006.3465v1
+1006.3724v1,2010-06-18T15:35:50Z,A Peer-to-Peer Middleware Framework for Resilient Persistent Programming,Andrew McCarthy,cs.DC,http://arxiv.org/pdf/1006.3724v1
+1006.3728v1,2010-06-18T15:39:22Z,RAFDA: A Policy-Aware Middleware Supporting the Flexible Separation of   Application Logic from Distribution,Andrew McCarthy,cs.DC,http://arxiv.org/pdf/1006.3728v1
+1006.3732v1,2010-06-18T15:47:35Z,Towards Adaptable and Adaptive Policy-Free Middleware,Greg Bigwood,cs.DC,http://arxiv.org/pdf/1006.3732v1
+1006.3739v1,2010-06-18T16:12:58Z,Promoting Component Reuse by Separating Transmission Policy from   Implementation,Stuart Norcross,cs.DC,http://arxiv.org/pdf/1006.3739v1
+1006.3742v1,2010-06-18T16:22:10Z,RAFDA: Middleware Supporting the Separation of Application Logic from   Distribution Policy,Andrew McCarthy,cs.DC,http://arxiv.org/pdf/1006.3742v1
+1006.3909v2,2010-06-20T05:37:07Z,Constructing Two Edge-Disjoint Hamiltonian Cycles and Two Equal   Node-Disjoint Cycles in Twisted Cubes,Ruo-Wei Hung,cs.DC,http://arxiv.org/pdf/1006.3909v2
+1006.3919v1,2010-06-20T08:32:16Z,Convergence-Optimal Quantizer Design of Distributed Contraction-based   Iterative Algorithms with Quantized Message Passing,Vincent K. N. Lau,cs.DC,http://arxiv.org/pdf/1006.3919v1
+1006.4504v1,2010-06-23T12:59:19Z,Exposing Application Components as Web Services,Stuart Norcross,cs.DC,http://arxiv.org/pdf/1006.4504v1
+1006.4549v1,2010-06-23T15:07:26Z,A Flexible and Secure Deployment Framework for Distributed Applications,Juan-Carlos Diaz y Carballo,cs.DC,http://arxiv.org/pdf/1006.4549v1
+1006.4572v1,2010-06-23T15:28:42Z,A Framework for Constraint-Based Deployment and Autonomic Management of   Distributed Applications,Andrew McCarthy,cs.DC,http://arxiv.org/pdf/1006.4572v1
+1006.4708v1,2010-06-24T07:56:26Z,A Survey on Peer-to-Peer and DHT,Siamak Sarmady,cs.DC,http://arxiv.org/pdf/1006.4708v1
+1006.4730v1,2010-06-24T09:44:38Z,A Framework for Constraint-Based Deployment and Autonomic Management of   Distributed Applications (Extended Abstract),Andrew McCarthy,cs.DC,http://arxiv.org/pdf/1006.4730v1
+1006.4733v1,2010-06-24T09:53:35Z,A Middleware Framework for Constraint-Based Deployment and Autonomic   Management of Distributed Applications,Andrew McCarthy,cs.DC,http://arxiv.org/pdf/1006.4733v1
+1006.4746v1,2010-06-24T11:03:00Z,Active Architecture for Pervasive Contextual Services,Paddy Nixon,cs.DC,http://arxiv.org/pdf/1006.4746v1
+1006.4827v1,2010-06-24T16:27:03Z,Architectural Support for Global Smart Spaces,Andy Wilson,cs.DC,http://arxiv.org/pdf/1006.4827v1
+1006.4900v2,2010-06-25T02:14:57Z,Optimal Degree Distributions for Uniform Small World Rings,James D. Fix,cs.DC,http://arxiv.org/pdf/1006.4900v2

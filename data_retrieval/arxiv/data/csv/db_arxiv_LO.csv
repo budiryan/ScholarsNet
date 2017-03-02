@@ -1,0 +1,1000 @@
+cs/9301101v1,2000-09-29T00:00:00Z,Verifying the Unification Algorithm in LCF,Lawrence C. Paulson,cs.LO,http://arxiv.org/pdf/cs/9301101v1
+cs/9301102v1,2000-10-31T00:00:00Z,Constructing Recursion Operators in Intuitionistic Type Theory,Lawrence C. Paulson,cs.LO,http://arxiv.org/pdf/cs/9301102v1
+cs/9301103v1,2000-10-02T00:00:00Z,Proving Termination of Normalization Functions for Conditional   Expressions,Lawrence C. Paulson,cs.LO,http://arxiv.org/pdf/cs/9301103v1
+cs/9301104v1,2000-10-31T00:00:00Z,Natural Deduction as Higher-Order Resolution,Lawrence C. Paulson,cs.LO,http://arxiv.org/pdf/cs/9301104v1
+cs/9301105v1,2000-10-31T00:00:00Z,The Foundation of a Generic Theorem Prover,Lawrence C. Paulson,cs.LO,http://arxiv.org/pdf/cs/9301105v1
+cs/9301106v1,2000-10-31T00:00:00Z,Isabelle: The Next 700 Theorem Provers,Lawrence C. Paulson,cs.LO,http://arxiv.org/pdf/cs/9301106v1
+cs/9301107v1,2000-10-31T00:00:00Z,A Formulation of the Simple Theory of Types (for Isabelle),Lawrence C. Paulson,cs.LO,http://arxiv.org/pdf/cs/9301107v1
+cs/9301108v1,2001-03-29T00:00:00Z,A Higher-Order Implementation of Rewriting,Lawrence C. Paulson,cs.LO,http://arxiv.org/pdf/cs/9301108v1
+cs/9301109v1,2001-03-29T00:00:00Z,"Logic Programming, Functional Programming, and Inductive Definitions",Andrew W. Smith,cs.LO,http://arxiv.org/pdf/cs/9301109v1
+cs/9301110v1,2001-03-29T00:00:00Z,Designing a Theorem Prover,Lawrence C. Paulson,cs.LO,http://arxiv.org/pdf/cs/9301110v1
+cs/9311103v1,2000-10-31T00:00:00Z,Set Theory for Verification: I. From Foundations to Functions,Lawrence C. Paulson,cs.LO,http://arxiv.org/pdf/cs/9311103v1
+cs/9511102v1,2000-11-14T00:00:00Z,Set Theory for Verification: II. Induction and Recursion,Lawrence C. Paulson,cs.LO,http://arxiv.org/pdf/cs/9511102v1
+cs/9511103v1,2001-03-29T00:00:00Z,A Concrete Final Coalgebra Theorem for ZF Set Theory,Lawrence C. Paulson,cs.LO,http://arxiv.org/pdf/cs/9511103v1
+cs/9612104v1,2001-03-29T00:00:00Z,Mechanizing Set Theory: Cardinal Arithmetic and the Axiom of Choice.,Krzysztof Grabczewski,cs.LO,http://arxiv.org/pdf/cs/9612104v1
+cs/9711105v1,2000-10-31T00:00:00Z,Mechanizing Coinduction and Corecursion in Higher-order Logic,Lawrence C. Paulson,cs.LO,http://arxiv.org/pdf/cs/9711105v1
+cs/9711106v1,2001-03-29T00:00:00Z,Generic Automatic Proof Tools,Lawrence C. Paulson,cs.LO,http://arxiv.org/pdf/cs/9711106v1
+cs/9809014v1,1998-09-10T15:17:05Z,Uniform Provability in Classical Logic,Gopalan Nadathur,cs.LO,http://arxiv.org/pdf/cs/9809014v1
+cs/9809015v1,1998-09-10T15:39:30Z,"Correspondences between Classical, Intuitionistic and Uniform   Provability",Gopalan Nadathur,cs.LO,http://arxiv.org/pdf/cs/9809015v1
+cs/9809120v1,1998-09-29T11:57:32Z,A Natural Deduction style proof system for propositional $μ$-calculus   and its formalization in inductive type theories,Marino Miculan,cs.LO,http://arxiv.org/pdf/cs/9809120v1
+cs/9810008v1,1998-10-07T22:39:16Z,Axiomatizing Flat Iteration,R. J. van Glabbeek,cs.LO,http://arxiv.org/pdf/cs/9810008v1
+cs/9903006v1,1999-03-05T16:10:41Z,Designing SAT for HCP,Anatoly D. Plotnikov,cs.LO,http://arxiv.org/pdf/cs/9903006v1
+cs/9907022v1,1999-07-16T08:41:25Z,Weak length induction and slow growing depth boolean circuits,Satoru Kuroda,cs.LO,http://arxiv.org/pdf/cs/9907022v1
+cs/9910023v4,1999-10-28T09:17:34Z,A System of Interaction and Structure,Alessio Guglielmi,cs.LO,http://arxiv.org/pdf/cs/9910023v4
+cs/0003026v1,2000-03-08T12:52:32Z,A Comparison of Logic Programming Approaches for Representation and   Solving of Constraint Satisfaction Problems,Maurice Bruynooghe,cs.LO,http://arxiv.org/pdf/cs/0003026v1
+cs/0003045v1,2000-03-09T16:27:22Z,Termination Proofs for Logic Programs with Tabling,Konstantinos Sagonas,cs.LO,http://arxiv.org/pdf/cs/0003045v1
+cs/0003069v1,2000-03-20T09:45:00Z,Proving Failure of Queries for Definite Logic Programs Using XSB-Prolog,Maurice Bruynooghe,cs.LO,http://arxiv.org/pdf/cs/0003069v1
+cs/0003071v1,2000-03-22T00:01:09Z,Axiomatic Synthesis of Computer Programs and Computability Theorems,Charlie Volkstorf,cs.LO,http://arxiv.org/pdf/cs/0003071v1
+cs/0006010v1,2000-06-05T12:06:50Z,"Light Affine Logic (Proof Nets, Programming Notation, P-Time Correctness   and Completeness)",Luca Roversi,cs.LO,http://arxiv.org/pdf/cs/0006010v1
+cs/0007030v2,2000-07-19T14:38:48Z,A theory of normed simulations,F. W. Vaandrager,cs.LO,http://arxiv.org/pdf/cs/0007030v2
+cs/0007037v1,2000-07-26T18:36:37Z,Knowledge Theoretic Properties of Topological Spaces,Konstantinos Georgatos,cs.LO,http://arxiv.org/pdf/cs/0007037v1
+cs/0008001v1,2000-08-01T13:51:56Z,Boolean Satisfiability with Transitivity Constraints,Miroslav N. Velev,cs.LO,http://arxiv.org/pdf/cs/0008001v1
+cs/0010029v2,2000-10-20T08:04:15Z,Using Modes to Ensure Subject Reduction for Typed Logic Programs with   Subtyping,Pierre Deransart,cs.LO,http://arxiv.org/pdf/cs/0010029v2
+cs/0011013v1,2000-11-08T14:32:48Z,Transformation-Based Bottom-Up Computation of the Well-Founded Model,Ulrich Zukowski,cs.LO,http://arxiv.org/pdf/cs/0011013v1
+cs/0011037v2,2000-11-23T10:09:06Z,A syntactical analysis of non-size-increasing polynomial time   computation,Helmut Schwichtenberg,cs.LO,http://arxiv.org/pdf/cs/0011037v2
+cs/0011039v1,2000-11-23T17:40:24Z,A Complete Characterization of Complete Intersection-Type Theories,F. Alessi,cs.LO,http://arxiv.org/pdf/cs/0011039v1
+cs/0012015v2,2000-12-20T15:45:32Z,Well-Typed Logic Programs Are not Wrong,Jan-Georg Smaus,cs.LO,http://arxiv.org/pdf/cs/0012015v2
+cs/0012018v1,2000-12-21T00:24:42Z,Resource-distribution via Boolean constraints,David Pym,cs.LO,http://arxiv.org/pdf/cs/0012018v1
+cs/0101013v1,2001-01-16T20:17:30Z,A Classification of Symbolic Transition Systems,Jean-Francois Raskin,cs.LO,http://arxiv.org/pdf/cs/0101013v1
+cs/0101017v1,2001-01-19T09:35:10Z,Checking Properties within Fairness and Behavior Abstractions,Pierre Wolper,cs.LO,http://arxiv.org/pdf/cs/0101017v1
+cs/0104021v2,2001-04-30T14:23:50Z,Disjunction and modular goal-directed proof search,Matthew Stone,cs.LO,http://arxiv.org/pdf/cs/0104021v2
+cs/0105007v1,2001-05-04T10:33:39Z,Analysis of Polymorphically Typed Logic Programs Using ACI-Unification,Jan-Georg Smaus,cs.LO,http://arxiv.org/pdf/cs/0105007v1
+cs/0108007v1,2001-08-12T21:25:13Z,Abstract versus Concrete Computation on Metric Partial Algebras,J. I. Zucker,cs.LO,http://arxiv.org/pdf/cs/0108007v1
+cs/0109001v1,2001-09-02T18:52:51Z,"Abstract Computability, Algebraic Specification and Initiality",J. I. Zucker,cs.LO,http://arxiv.org/pdf/cs/0109001v1
+cs/0110010v1,2001-10-02T22:47:41Z,Pushdown Timed Automata: a Binary Reachability Characterization and   Safety Verification,Zhe Dang,cs.LO,http://arxiv.org/pdf/cs/0110010v1
+cs/0110028v1,2001-10-11T16:36:18Z,On Equivalence and Canonical Forms in the LF Type Theory,Frank Pfenning,cs.LO,http://arxiv.org/pdf/cs/0110028v1
+cs/0110060v1,2001-10-31T10:35:32Z,Selected Topics in Asynchronous Automata,Serban E. Vlad,cs.LO,http://arxiv.org/pdf/cs/0110060v1
+cs/0110061v1,2001-10-31T10:44:55Z,An Asynchronous Automata Approach to the Semantics of Temporal Logic,Serban E. Vlad,cs.LO,http://arxiv.org/pdf/cs/0110061v1
+cs/0110062v1,2001-10-31T10:53:34Z,"The Delay-Insensitivity, the Hazard-Freedom, the Semi-Modularity and the   Technical Condition of Good Running of the Discrete Time Asynchronous   Automata",Serban E. Vlad,cs.LO,http://arxiv.org/pdf/cs/0110062v1
+cs/0110063v2,2001-10-31T10:56:32Z,The Existence of $ω$-Chains for Transitive Mixed Linear Relations   and Its Applications,Oscar Ibarra,cs.LO,http://arxiv.org/pdf/cs/0110063v2
+cs/0110064v1,2001-10-31T10:59:16Z,Applications of the Differential Calculus in the Study of the Timed   Automata: the Inertial Delay Buffer,Serban E. Vlad,cs.LO,http://arxiv.org/pdf/cs/0110064v1
+cs/0111010v1,2001-11-06T16:33:29Z,Abduction with Penalization in Logic Programming,Francesco Scarcello,cs.LO,http://arxiv.org/pdf/cs/0111010v1
+cs/0111011v1,2001-11-06T17:02:25Z,Sintesi di algoritmi con SKY,Giovambattista Ianni,cs.LO,http://arxiv.org/pdf/cs/0111011v1
+cs/0111059v1,2001-11-27T17:43:20Z,Hypotheses Founded Semantics of Logic Programs for Information   Integration in Multi-Valued Logics,Daniel Stamate,cs.LO,http://arxiv.org/pdf/cs/0111059v1
+cs/0204039v1,2002-04-17T00:35:04Z,Precongruence Formats for Decorated Trace Semantics,R. J. van Glabbeek,cs.LO,http://arxiv.org/pdf/cs/0204039v1
+cs/0204045v1,2002-04-22T06:58:56Z,Some applications of logic to feasibility in higher types,Arun Sharma,cs.LO,http://arxiv.org/pdf/cs/0204045v1
+cs/0205003v1,2002-05-03T22:36:23Z,The prospects for mathematical logic in the twenty-first century,Richard A. Shore,cs.LO,http://arxiv.org/pdf/cs/0205003v1
+cs/0206005v1,2002-06-03T14:48:41Z,Characterization of Strongly Equivalent Logic Programs in Intermediate   Logics,Lex Hendriks,cs.LO,http://arxiv.org/pdf/cs/0206005v1
+cs/0207068v1,2002-07-17T18:34:45Z,Knuth-Bendix constraint solving is NP-complete,Andrei Voronkov,cs.LO,http://arxiv.org/pdf/cs/0207068v1
+cs/0207074v1,2002-07-21T06:19:23Z,Paraconsistency of Interactive Computation,Peter Wegner,cs.LO,http://arxiv.org/pdf/cs/0207074v1
+cs/0207086v1,2002-07-25T15:39:01Z,A Model-Theoretic Semantics for Defeasible Logic,Michael J. Maher,cs.LO,http://arxiv.org/pdf/cs/0207086v1
+cs/0207087v1,2002-07-25T16:19:51Z,Axiomatic Aspects of Default Inference,Guo-Qiang Zhang,cs.LO,http://arxiv.org/pdf/cs/0207087v1
+cs/0207090v1,2002-07-25T17:14:16Z,On a Partial Decision Method for Dynamic Proofs,Diderik Batens,cs.LO,http://arxiv.org/pdf/cs/0207090v1
+cs/0207091v1,2002-07-25T17:40:14Z,An Almost Classical Logic for Logic Programming and Nonmonotonic   Reasoning,François Bry,cs.LO,http://arxiv.org/pdf/cs/0207091v1
+cs/0208032v2,2002-08-20T14:53:37Z,First-order Logic as a Constraint Programming Language,C. F. M. Vermeulen,cs.LO,http://arxiv.org/pdf/cs/0208032v2
+cs/0210022v3,2002-10-25T10:31:39Z,An Elementary Fragment of Second-Order Lambda Calculus,Jan Johannsen,cs.LO,http://arxiv.org/pdf/cs/0210022v3
+cs/0211011v1,2002-11-12T21:33:33Z,Intersection Types and Lambda Theories,S. Lusin,cs.LO,http://arxiv.org/pdf/cs/0211011v1
+cs/0211021v1,2002-11-18T12:08:17Z,Sequent and Hypersequent Calculi for Abelian and Lukasiewicz Logics,D. Gabbay,cs.LO,http://arxiv.org/pdf/cs/0211021v1
+cs/0211022v1,2002-11-19T19:15:51Z,"Arithmetic, First-Order Logic, and Counting Quantifiers",Nicole Schweikardt,cs.LO,http://arxiv.org/pdf/cs/0211022v1
+cs/0212005v1,2002-12-05T17:29:12Z,Retractions of Types with Many Atoms,Pawel Urzyczyn,cs.LO,http://arxiv.org/pdf/cs/0212005v1
+cs/0212026v1,2002-12-11T09:48:39Z,A Generalization of the Lifting Lemma for Logic Programming,Fred Mesnard,cs.LO,http://arxiv.org/pdf/cs/0212026v1
+cs/0301026v1,2003-01-24T20:25:50Z,Double-Negation Elimination in Some Propositional Logics,Larry Wos,cs.LO,http://arxiv.org/pdf/cs/0301026v1
+cs/0303019v1,2003-03-20T17:05:24Z,An Effective Decision Procedure for Linear Arithmetic with Integer and   Real Variables,Pierre Wolper,cs.LO,http://arxiv.org/pdf/cs/0303019v1
+cs/0304017v1,2003-04-10T20:08:18Z,Ground Canonicity,Nachum Dershowitz,cs.LO,http://arxiv.org/pdf/cs/0304017v1
+cs/0304021v1,2003-04-15T19:08:00Z,Model Checking for a Class of Weighted Automata,Peter Kemper,cs.LO,http://arxiv.org/pdf/cs/0304021v1
+cs/0304046v1,2003-04-30T18:54:59Z,Distributed States Temporal Logic,Laura Semini,cs.LO,http://arxiv.org/pdf/cs/0304046v1
+cs/0305007v1,2003-05-13T08:27:45Z,Computing only minimal answers in disjunctive deductive databases,C. A. Johnson,cs.LO,http://arxiv.org/pdf/cs/0305007v1
+cs/0305011v1,2003-05-15T10:46:00Z,Optimizing Optimal Reduction: A Type Inference Algorithm for Elementary   Affine Logic,Simone Martini,cs.LO,http://arxiv.org/pdf/cs/0305011v1
+cs/0305046v1,2003-05-27T16:40:30Z,Applications of Intuitionistic Logic in Answer Set Programming,Jose Arrazola,cs.LO,http://arxiv.org/pdf/cs/0305046v1
+cs/0306041v1,2003-06-10T10:02:03Z,Monodic temporal resolution,Boris Konev,cs.LO,http://arxiv.org/pdf/cs/0306041v1
+cs/0306117v2,2003-06-20T08:26:57Z,Deciding regular grammar logics with converse through first-order logic,Hans de Nivelle,cs.LO,http://arxiv.org/pdf/cs/0306117v2
+cs/0306118v1,2003-06-20T09:43:58Z,On coalgebra based on classes,J. Velebil,cs.LO,http://arxiv.org/pdf/cs/0306118v1
+cs/0307067v1,2003-07-30T13:57:55Z,Sound search in a denotational semantics for first order logic,C. F. M. Vermeulen,cs.LO,http://arxiv.org/pdf/cs/0307067v1
+cs/0308029v1,2003-08-19T12:50:02Z,On Decidability of Expressive Description Logics with Composition of   Roles in Number Restrictions,Fabio Grandi,cs.LO,http://arxiv.org/pdf/cs/0308029v1
+cs/0309004v1,2003-09-02T10:10:51Z,The Structure of Information,Bruce Long,cs.LO,http://arxiv.org/pdf/cs/0309004v1
+cs/0309046v1,2003-09-24T11:50:00Z,The Liar and Related Paradoxes: Fuzzy Truth Value Assignment for   Collections of Self-Referential Sentences,Ath. Kehagias,cs.LO,http://arxiv.org/pdf/cs/0309046v1
+cs/0310054v1,2003-10-28T16:09:48Z,Kleene algebra with domain,G. Struth,cs.LO,http://arxiv.org/pdf/cs/0310054v1
+cs/0310063v1,2003-10-31T16:56:18Z,Logic programs with monotone cardinality atoms,Miroslaw Truszczynski,cs.LO,http://arxiv.org/pdf/cs/0310063v1
+cs/0310064v1,2003-10-31T17:05:58Z,Satisfiability and computing van der Waerden numbers,Miroslaw Truszczynski,cs.LO,http://arxiv.org/pdf/cs/0310064v1
+cs/0311022v1,2003-11-17T14:11:20Z,Temporalized logics and automata for time granularity,A. Montanari,cs.LO,http://arxiv.org/pdf/cs/0311022v1
+cs/0311046v1,2003-11-27T13:03:55Z,Algebras for Agent Norm-Regulation,Magnus Boman,cs.LO,http://arxiv.org/pdf/cs/0311046v1
+cs/0312002v1,2003-12-01T14:33:06Z,On Structuring Proof Search for First Order Linear Logic,Alessio Guglielmi,cs.LO,http://arxiv.org/pdf/cs/0312002v1
+cs/0312013v2,2003-12-06T18:37:06Z,Fuzziness versus probability again,F. Jurkovic,cs.LO,http://arxiv.org/pdf/cs/0312013v2
+cs/0312014v3,2003-12-07T20:31:23Z,Logical Characterizations of Heap Abstractions,R. Wilhelm,cs.LO,http://arxiv.org/pdf/cs/0312014v3
+cs/0312019v1,2003-12-11T14:54:06Z,Verification of recursive parallel systems,Adriano Peron,cs.LO,http://arxiv.org/pdf/cs/0312019v1
+cs/0312032v1,2003-12-16T17:24:18Z,Learning in a Compiler for MINSAT Algorithms,Klaus Truemper,cs.LO,http://arxiv.org/pdf/cs/0312032v1
+cs/0402002v1,2004-02-01T12:42:20Z,Deciding Disjunctive Linear Arithmetic with SAT,Ofer Strichman,cs.LO,http://arxiv.org/pdf/cs/0402002v1
+cs/0402010v1,2004-02-03T19:04:02Z,Encapsulation for Practical Simplification Procedures,William McCune,cs.LO,http://arxiv.org/pdf/cs/0402010v1
+cs/0402038v1,2004-02-17T12:11:56Z,Towards a Mathematical Theory of the Delays of the Asynchronous Circuits,Serban E. Vlad,cs.LO,http://arxiv.org/pdf/cs/0402038v1
+cs/0402039v1,2004-02-17T12:54:00Z,On the Inertia of the Asynchronous Circuits,Serban E. Vlad,cs.LO,http://arxiv.org/pdf/cs/0402039v1
+cs/0402040v1,2004-02-17T13:01:05Z,Defining the Delays of the Asynchronous Circuits,Serban E. Vlad,cs.LO,http://arxiv.org/pdf/cs/0402040v1
+cs/0402041v1,2004-02-17T13:07:24Z,Examples of Models of the Asynchronous Circuits,Serban E. Vlad,cs.LO,http://arxiv.org/pdf/cs/0402041v1
+cs/0402059v2,2004-02-26T15:47:36Z,Light types for polynomial time computation in lambda-calculus,Kazushige Terui,cs.LO,http://arxiv.org/pdf/cs/0402059v2
+cs/0403041v1,2004-03-29T15:20:32Z,A Theory of Computation Based on Quantum Logic (I),Mingsheng Ying,cs.LO,http://arxiv.org/pdf/cs/0403041v1
+cs/0404048v2,2004-04-23T08:49:18Z,Incompleteness of States w.r.t. Traces in Model Checking,Francesco Ranzato,cs.LO,http://arxiv.org/pdf/cs/0404048v2
+cs/0404056v2,2004-04-27T21:33:52Z,A lambda calculus for quantum computation with classical control,Benoit Valiron,cs.LO,http://arxiv.org/pdf/cs/0404056v2
+cs/0405081v1,2004-05-23T19:22:10Z,An Analysis of Lambek's Production Machines,Riccardo Pucella,cs.LO,http://arxiv.org/pdf/cs/0405081v1
+cs/0405103v1,2004-05-27T03:25:52Z,On model checking data-independent systems with arrays without reset,A. W. Roscoe,cs.LO,http://arxiv.org/pdf/cs/0405103v1
+cs/0406013v1,2004-06-07T12:13:58Z,Optimization of Bound Disjunctive Queries with Constraints,E. Zumpano,cs.LO,http://arxiv.org/pdf/cs/0406013v1
+cs/0407006v1,2004-07-02T06:17:13Z,Predicate Abstraction with Indexed Predicates,Randal E. Bryant,cs.LO,http://arxiv.org/pdf/cs/0407006v1
+cs/0407031v1,2004-07-12T22:53:33Z,On Modal Logics of Partial Recursive Functions,Pavel Naumov,cs.LO,http://arxiv.org/pdf/cs/0407031v1
+cs/0409052v1,2004-09-26T21:54:12Z,Better Quasi-Ordered Transition Systems,Aletta Nylen,cs.LO,http://arxiv.org/pdf/cs/0409052v1
+cs/0410029v1,2004-10-14T05:28:06Z,Nondeterministic Linear Logic,Satoshi Matsuoka,cs.LO,http://arxiv.org/pdf/cs/0410029v1
+cs/0410030v12,2004-10-14T07:20:40Z,Weak Typed Boehm Theorem on IMLL,Satoshi Matsuoka,cs.LO,http://arxiv.org/pdf/cs/0410030v12
+cs/0410034v2,2004-10-15T13:43:51Z,P-time Completeness of Light Linear Logic and its Nondeterministic   Extension,Satoshi Matsuoka,cs.LO,http://arxiv.org/pdf/cs/0410034v2
+cs/0410051v1,2004-10-20T12:43:35Z,"Turing Machine with Faults, Failures and Recovery",Alex Vinokur,cs.LO,http://arxiv.org/pdf/cs/0410051v1
+cs/0410056v2,2004-10-21T20:24:28Z,Interval Neutrosophic Logics: Theory and Applications,Rajshekhar Sunderraman,cs.LO,http://arxiv.org/pdf/cs/0410056v2
+cs/0410065v1,2004-10-25T15:01:33Z,A Categorical View on Algebraic Lattices in Formal Concept Analysis,Guo-Qiang Zhang,cs.LO,http://arxiv.org/pdf/cs/0410065v1
+cs/0411029v1,2004-11-10T14:01:34Z,Modules and Logic Programming,Virgile Mogbil,cs.LO,http://arxiv.org/pdf/cs/0411029v1
+cs/0411031v1,2004-11-10T18:53:54Z,Complexity of the Two-Variable Fragment with (Binary-Coded) Counting   Quantifiers,Ian Pratt-Hartmann,cs.LO,http://arxiv.org/pdf/cs/0411031v1
+cs/0411032v1,2004-11-11T19:09:59Z,Logic Column 10: Specifying Confidentiality,Riccardo Pucella,cs.LO,http://arxiv.org/pdf/cs/0411032v1
+cs/0411100v2,2004-11-30T10:42:35Z,A Decidable Probability Logic for Timed Probabilistic Systems,Daniele Beauquier,cs.LO,http://arxiv.org/pdf/cs/0411100v2
+cs/0412028v1,2004-12-08T08:33:08Z,A feasible algorithm for typing in Elementary Affine Logic,Kazushige Terui,cs.LO,http://arxiv.org/pdf/cs/0412028v1
+cs/0412063v5,2004-12-15T14:34:43Z,Labelled transition systems as a Stone space,Michael Huth,cs.LO,http://arxiv.org/pdf/cs/0412063v5
+cs/0412101v1,2004-12-22T14:17:48Z,The Inverse Method Implements the Automata Approach for Modal   Satisfiability,Stephan Tobies,cs.LO,http://arxiv.org/pdf/cs/0412101v1
+cs/0501024v2,2005-01-12T12:16:48Z,Effectively Open Real Functions,Martin Ziegler,cs.LO,http://arxiv.org/pdf/cs/0501024v2
+cs/0501032v1,2005-01-16T20:39:20Z,On Partially Additive Kleene Algebras,Riccardo Pucella,cs.LO,http://arxiv.org/pdf/cs/0501032v1
+cs/0501033v1,2005-01-18T07:39:09Z,"Playful, streamlike computation",Pierre-Louis Curien,cs.LO,http://arxiv.org/pdf/cs/0501033v1
+cs/0501034v1,2005-01-18T07:41:48Z,Symmetry and interactivity in Programming,Pierre-Louis Curien,cs.LO,http://arxiv.org/pdf/cs/0501034v1
+cs/0501035v1,2005-01-18T07:42:33Z,"Introduction to linear logic and ludics, part I",Pierre-Louis Curien,cs.LO,http://arxiv.org/pdf/cs/0501035v1
+cs/0501039v1,2005-01-19T15:00:46Z,"Introduction to linear logic and ludics, part II",Pierre-Louis Curien,cs.LO,http://arxiv.org/pdf/cs/0501039v1
+cs/0501040v4,2005-01-19T17:55:45Z,Split-2 Bisimilarity has a Finite Axiomatization over CCS with<br>   Hennessy&#39;s Merge,Bas Luttik,cs.LO,http://arxiv.org/pdf/cs/0501040v4
+cs/0502031v2,2005-02-05T21:00:13Z,Logic Column 11: The Finite and the Infinite in Temporal Logic,Riccardo Pucella,cs.LO,http://arxiv.org/pdf/cs/0502031v2
+cs/0502046v1,2005-02-09T09:23:30Z,Proof obligations for specification and refinement of liveness   properties under weak fairness,Didier Bert,cs.LO,http://arxiv.org/pdf/cs/0502046v1
+cs/0502047v3,2005-02-09T11:00:12Z,The succinctness of first-order logic on linear orders,Nicole Schweikardt,cs.LO,http://arxiv.org/pdf/cs/0502047v3
+cs/0505014v1,2005-05-06T13:57:13Z,Interval Neutrosophic Sets and Logic: Theory and Applications in   Computing,Rajshekhar Sunderraman,cs.LO,http://arxiv.org/pdf/cs/0505014v1
+cs/0505023v1,2005-05-10T13:30:16Z,State Space Computation and Analysis of Time Petri Nets,Olivier F. Roux,cs.LO,http://arxiv.org/pdf/cs/0505023v1
+cs/0505024v1,2005-05-10T14:49:13Z,Logic Column 12: Logical Verification and Equational Verification,Riccardo Pucella,cs.LO,http://arxiv.org/pdf/cs/0505024v1
+cs/0505025v1,2005-05-10T16:47:11Z,Equivalence-Checking on Infinite-State Systems: Techniques and Results,Petr Jancar,cs.LO,http://arxiv.org/pdf/cs/0505025v1
+cs/0505026v1,2005-05-11T11:33:52Z,Automatic Verification of Timed Concurrent Constraint Programs,Alicia Villanueva,cs.LO,http://arxiv.org/pdf/cs/0505026v1
+cs/0505033v1,2005-05-12T07:52:36Z,Parametric Verification of a Group Membership Algorithm,Agathe Merceron,cs.LO,http://arxiv.org/pdf/cs/0505033v1
+cs/0505034v2,2005-05-12T17:31:25Z,Essential Incompleteness of Arithmetic Verified by Coq,Russell O'Connor,cs.LO,http://arxiv.org/pdf/cs/0505034v2
+cs/0505037v6,2005-05-13T15:22:57Z,General Recursion via Coinductive Types,Venanzio Capretta,cs.LO,http://arxiv.org/pdf/cs/0505037v6
+cs/0505063v4,2005-05-24T14:05:01Z,Approximate reasoning for real-time probabilistic processes,Prakash Panangaden,cs.LO,http://arxiv.org/pdf/cs/0505063v4
+cs/0505087v1,2005-05-31T11:13:59Z,Feasible Proofs of Matrix Properties with Csanky's Algorithm,Michael Soltys,cs.LO,http://arxiv.org/pdf/cs/0505087v1
+cs/0506008v1,2005-06-02T15:11:58Z,Bounds on the Automata Size for Presburger Arithmetic,Felix Klaedtke,cs.LO,http://arxiv.org/pdf/cs/0506008v1
+cs/0506014v1,2005-06-06T07:05:11Z,The Equivalence Problem for Deterministic MSO Tree Transducers is   Decidable,Sebastian Maneth,cs.LO,http://arxiv.org/pdf/cs/0506014v1
+cs/0506060v2,2005-06-14T12:13:22Z,Yet another normalisation proof for Martin-Lof's logical   framework--Terms with correct arities are strongly normalising,Yong Luo,cs.LO,http://arxiv.org/pdf/cs/0506060v2
+cs/0506084v1,2005-06-22T20:54:08Z,The One Page Model Checker,Jason E. Holt,cs.LO,http://arxiv.org/pdf/cs/0506084v1
+cs/0507064v1,2005-07-26T20:18:14Z,Termination of rewriting strategies: a generic approach,Helene Kirchner,cs.LO,http://arxiv.org/pdf/cs/0507064v1
+cs/0508003v5,2005-07-31T18:33:43Z,Model Checking Probabilistic Pushdown Automata,Richard Mayr,cs.LO,http://arxiv.org/pdf/cs/0508003v5
+cs/0508004v1,2005-08-01T05:23:44Z,A three-valued semantics for logic programmers,Lee Naish,cs.LO,http://arxiv.org/pdf/cs/0508004v1
+cs/0508005v1,2005-08-01T14:34:27Z,Logic Column 13: Reasoning Formally about Quantum Systems: An Overview,Nick Papanikolaou,cs.LO,http://arxiv.org/pdf/cs/0508005v1
+cs/0508044v5,2005-08-05T11:09:32Z,Deciding Quantifier-Free Presburger Formulas Using Parameterized   Solution Bounds,Randal E. Bryant,cs.LO,http://arxiv.org/pdf/cs/0508044v5
+cs/0508112v1,2005-08-25T04:10:56Z,A study of set-sharing analysis via cliques,Manuel Hermenegildo,cs.LO,http://arxiv.org/pdf/cs/0508112v1
+cs/0509019v3,2005-09-07T08:32:32Z,Comparing hierarchies of total functionals,Dag Normann,cs.LO,http://arxiv.org/pdf/cs/0509019v3
+cs/0509024v2,2005-09-08T19:54:53Z,Well-founded and Stable Semantics of Logic Programs with Aggregates,Maurice Bruynooghe,cs.LO,http://arxiv.org/pdf/cs/0509024v2
+cs/0510010v2,2005-10-04T08:47:55Z,On the Expressiveness of the Ambient Logic,Davide Sangiorgi,cs.LO,http://arxiv.org/pdf/cs/0510010v2
+cs/0510012v2,2005-10-04T17:29:48Z,On relating CTL to Datalog,Irene Guessarian,cs.LO,http://arxiv.org/pdf/cs/0510012v2
+cs/0510061v1,2005-10-21T11:46:56Z,Nonmonotonic Trust Management for P2P Applications,J. den Hartog,cs.LO,http://arxiv.org/pdf/cs/0510061v1
+cs/0510066v3,2005-10-22T13:09:38Z,The monadic second-order logic of graphs XVI : Canonical graph<br>   decompositions,Bruno Courcelle,cs.LO,http://arxiv.org/pdf/cs/0510066v3
+cs/0510069v1,2005-10-23T16:51:02Z,Comparing Computational Power,Nachum Dershowitz,cs.LO,http://arxiv.org/pdf/cs/0510069v1
+cs/0510073v1,2005-10-24T09:17:30Z,Semantic Embedding of Petri Nets into Event-B,Christian Attiogbe,cs.LO,http://arxiv.org/pdf/cs/0510073v1
+cs/0511006v2,2005-11-02T01:45:56Z,Logical Relations for Monadic Types,David Nowak,cs.LO,http://arxiv.org/pdf/cs/0511006v2
+cs/0511023v3,2005-11-04T17:03:45Z,Verifying nondeterministic probabilistic channel systems against   $ω$-regular linear-time properties,Philippe Schnoebelen,cs.LO,http://arxiv.org/pdf/cs/0511023v3
+cs/0511025v1,2005-11-05T02:47:50Z,Logic Column 14: Nominal Logic and Abstract Syntax,James Cheney,cs.LO,http://arxiv.org/pdf/cs/0511025v1
+cs/0511041v1,2005-11-10T06:29:46Z,"Logic Programming with Default, Weak and Strict Negations",Susumu Yamasaki,cs.LO,http://arxiv.org/pdf/cs/0511041v1
+cs/0511055v1,2005-11-15T10:39:38Z,Embedding Defeasible Logic into Logic Programming,Michael J. Maher,cs.LO,http://arxiv.org/pdf/cs/0511055v1
+cs/0511061v1,2005-11-16T12:56:17Z,Truly On-The-Fly LTL Model Checking,Stephan Merz,cs.LO,http://arxiv.org/pdf/cs/0511061v1
+cs/0511097v3,2005-11-28T19:15:39Z,Modularizing the Elimination of r=0 in Kleene Algebra,Christopher Hardin,cs.LO,http://arxiv.org/pdf/cs/0511097v3
+cs/0512009v3,2005-12-02T11:30:12Z,"Almost periodic functions, constructively",Bas Spitters,cs.LO,http://arxiv.org/pdf/cs/0512009v3
+cs/0512012v3,2005-12-03T01:04:16Z,Extending the theory of Owicki and Gries with a logic of progress,Doug Goldson,cs.LO,http://arxiv.org/pdf/cs/0512012v3
+cs/0512031v2,2005-12-08T08:50:35Z,Alternating Timed Automata,Igor Walukiewicz,cs.LO,http://arxiv.org/pdf/cs/0512031v2
+cs/0512036v2,2005-12-09T16:36:54Z,A System of Interaction and Structure II: The Need for Deep Inference,Alwen Tiu,cs.LO,http://arxiv.org/pdf/cs/0512036v2
+cs/0512082v1,2005-12-21T08:23:05Z,A Fixpoint Semantics of Event Systems with and without Fairness   Assumptions,Didier Bert,cs.LO,http://arxiv.org/pdf/cs/0512082v1
+cs/0512086v3,2005-12-22T17:43:53Z,On the Axiomatisation of Boolean Categories with and without Medial,Lutz Strassburger,cs.LO,http://arxiv.org/pdf/cs/0512086v3
+cs/0601008v2,2006-01-05T18:35:38Z,A Hierarchical Analysis of Propositional Temporal Logic Based on   Intervals,Ben Moszkowski,cs.LO,http://arxiv.org/pdf/cs/0601008v2
+cs/0601018v1,2006-01-06T12:01:55Z,A comparison between two logical formalisms for rewriting,Miguel Palomino,cs.LO,http://arxiv.org/pdf/cs/0601018v1
+cs/0601096v1,2006-01-23T10:45:25Z,On timed automata with input-determined guards,Nicolas Tabareau,cs.LO,http://arxiv.org/pdf/cs/0601096v1
+cs/0601134v4,2006-01-31T14:48:05Z,Combining decision procedures for the reals,Harvey Friedman,cs.LO,http://arxiv.org/pdf/cs/0601134v4
+cs/0602024v4,2006-02-07T10:10:12Z,Algorithmic correspondence and completeness in modal logic. I. The core   algorithm SQEMA,Dimiter Vakarelov,cs.LO,http://arxiv.org/pdf/cs/0602024v4
+cs/0602040v1,2006-02-10T14:48:29Z,PLTL Partitioned Model Checking for Reactive Systems under Fairness   Assumptions,Françoise Bellegarde,cs.LO,http://arxiv.org/pdf/cs/0602040v1
+cs/0602077v1,2006-02-21T17:27:27Z,Bisimulations of enrichments,Krzysztof Worytkiewicz,cs.LO,http://arxiv.org/pdf/cs/0602077v1
+cs/0603006v4,2006-03-01T15:15:46Z,Pivotal and Pivotal-discriminative Consequence Relations,Jonathan Ben-Naim,cs.LO,http://arxiv.org/pdf/cs/0603006v4
+cs/0603104v1,2006-03-27T09:14:01Z,Verification of Ptime reducibility for system F terms via Dual Light   Affine Logic,Kazushige Terui,cs.LO,http://arxiv.org/pdf/cs/0603104v1
+cs/0603117v2,2006-03-29T19:36:03Z,Affine functions and series with co-inductive real numbers,Yves Bertot,cs.LO,http://arxiv.org/pdf/cs/0603117v2
+cs/0603118v3,2006-03-29T19:38:33Z,Coq in a Hurry,Yves Bertot,cs.LO,http://arxiv.org/pdf/cs/0603118v3
+cs/0603119v1,2006-03-29T19:39:37Z,CoInduction in Coq,Yves Bertot,cs.LO,http://arxiv.org/pdf/cs/0603119v1
+cs/0605008v1,2006-05-02T09:31:58Z,The complexity of acyclic conjunctive queries revisited,Etienne Grandjean,cs.LO,http://arxiv.org/pdf/cs/0605008v1
+cs/0605054v3,2006-05-12T12:03:16Z,From Proof Nets to the Free *-Autonomous Category,Lutz Strassburger,cs.LO,http://arxiv.org/pdf/cs/0605054v3
+cs/0605074v1,2006-05-17T12:47:18Z,SAT Solving for Argument Filterings,Jürgen Giesl,cs.LO,http://arxiv.org/pdf/cs/0605074v1
+cs/0605085v2,2006-05-19T08:19:37Z,A Scalable Algorithm for Minimal Unsatisfiable Core Extraction,Alexander Nadel,cs.LO,http://arxiv.org/pdf/cs/0605085v2
+cs/0605107v3,2006-05-24T15:41:00Z,Fuzzy Discrete Event Systems under Fuzzy Observability and a   test-algorithm,Fuchun Liu,cs.LO,http://arxiv.org/pdf/cs/0605107v3
+cs/0605128v1,2006-05-28T19:30:12Z,Logic Column 15: Coalgebras and Their Logics,Alexander Kurz,cs.LO,http://arxiv.org/pdf/cs/0605128v1
+cs/0606053v2,2006-06-12T09:35:18Z,"Context-Sensitive Languages, Rational Graphs and Determinism",Antoine Meyer,cs.LO,http://arxiv.org/pdf/cs/0606053v2
+cs/0606082v1,2006-06-19T09:34:27Z,Lack of Finite Characterizations for the Distance-based Revision,Jonathan Ben-Naim,cs.LO,http://arxiv.org/pdf/cs/0606082v1
+cs/0606086v1,2006-06-20T09:53:41Z,Uniform Random Sampling of Traces in Very Large Models,the RaST Collaboration,cs.LO,http://arxiv.org/pdf/cs/0606086v1
+cs/0607058v1,2006-07-12T17:26:29Z,Craig's Interpolation Theorem formalised and mechanised in Isabelle/HOL,Tom Ridge,cs.LO,http://arxiv.org/pdf/cs/0607058v1
+cs/0607141v1,2006-07-31T14:15:23Z,Logic Column 16: Higher-Order Abstract Syntax: Setting the Record   Straight,Robert Harper,cs.LO,http://arxiv.org/pdf/cs/0607141v1
+cs/0608001v2,2006-08-01T10:45:29Z,A Finite Equational Base for CCS with Left Merge and Communication Merge,Bas Luttik,cs.LO,http://arxiv.org/pdf/cs/0608001v2
+cs/0608039v1,2006-08-07T19:44:02Z,The weak pigeonhole principle for function classes in S^1_2,Chris Pollett,cs.LO,http://arxiv.org/pdf/cs/0608039v1
+cs/0608040v1,2006-08-08T07:13:58Z,An Embedding of the BSS Model of Computation in Light Affine   Lambda-Calculus,Marco Pedicini,cs.LO,http://arxiv.org/pdf/cs/0608040v1
+cs/0608059v5,2006-08-14T18:55:53Z,A Distribution Law for CCS and a New Congruence Result for the   pi-calculus,Damien Pous,cs.LO,http://arxiv.org/pdf/cs/0608059v5
+cs/0608110v1,2006-08-29T05:31:11Z,Calculating modules in contextual logic program refinement,Paul Strooper,cs.LO,http://arxiv.org/pdf/cs/0608110v1
+cs/0609013v2,2006-09-05T14:23:38Z,Combining typing and size constraints for checking the termination of   higher-order conditional rewrite systems,Colin Riba,cs.LO,http://arxiv.org/pdf/cs/0609013v2
+cs/0609021v1,2006-09-06T12:14:25Z,Non uniform (hyper/multi)coherence spaces,Pierre Boudes,cs.LO,http://arxiv.org/pdf/cs/0609021v1
+cs/0609037v1,2006-09-08T07:35:35Z,(HO)RPO Revisited,Frédéric Blanqui,cs.LO,http://arxiv.org/pdf/cs/0609037v1
+cs/0609039v2,2006-09-08T07:48:08Z,Higher-Order Termination: from Kruskal to Computability,Albert Rubio,cs.LO,http://arxiv.org/pdf/cs/0609039v2
+cs/0609048v1,2006-09-11T08:25:10Z,On the logical definability of certain graph and poset languages,Pascal Weil,cs.LO,http://arxiv.org/pdf/cs/0609048v1
+cs/0609080v2,2006-09-14T16:01:52Z,Solution of a Problem of Barendregt on Sensible lambda-Theories,Richard Statman,cs.LO,http://arxiv.org/pdf/cs/0609080v2
+cs/0609095v2,2006-09-17T17:42:41Z,Free Choice Petri Nets without frozen tokens and Bipolar Synchronization   Systems,Joachim Wehler,cs.LO,http://arxiv.org/pdf/cs/0609095v2
+cs/0609102v1,2006-09-18T12:34:47Z,Using groups for investigating rewrite systems,Patrick Dehornoy,cs.LO,http://arxiv.org/pdf/cs/0609102v1
+cs/0609110v1,2006-09-19T15:21:08Z,Algebraic recognizability of languages,Pascal Weil,cs.LO,http://arxiv.org/pdf/cs/0609110v1
+cs/0609124v1,2006-09-22T11:30:34Z,The Three Gap Theorem (Steinhauss Conjecture),Micaela Mayero,cs.LO,http://arxiv.org/pdf/cs/0609124v1
+cs/0609167v1,2006-09-29T17:00:52Z,Updates in Answer Set Programming: An Approach Based on Basic Structural   Properties,Víctor Cuevas,cs.LO,http://arxiv.org/pdf/cs/0609167v1
+cs/0610038v1,2006-10-07T12:53:04Z,Church's thesis is questioned by new calculation paradigm,Hannes Hutzelmeyer,cs.LO,http://arxiv.org/pdf/cs/0610038v1
+cs/0610055v1,2006-10-11T12:50:32Z,Extending the Calculus of Constructions with Tarski's fix-point theorem,Yves Bertot,cs.LO,http://arxiv.org/pdf/cs/0610055v1
+cs/0610063v2,2006-10-11T13:45:46Z,The Calculus of Algebraic Constructions,Mitsuhiro Okada,cs.LO,http://arxiv.org/pdf/cs/0610063v2
+cs/0610064v1,2006-10-11T13:47:47Z,Termination and Confluence of Higher-Order Rewrite Systems,Frédéric Blanqui,cs.LO,http://arxiv.org/pdf/cs/0610064v1
+cs/0610065v1,2006-10-11T13:48:36Z,Definitions by Rewriting in the Calculus of Constructions,Frédéric Blanqui,cs.LO,http://arxiv.org/pdf/cs/0610065v1
+cs/0610066v2,2006-10-11T13:54:42Z,Inductive-data-type Systems,Mitsuhiro Okada,cs.LO,http://arxiv.org/pdf/cs/0610066v2
+cs/0610068v2,2006-10-11T14:09:16Z,Type theory and rewriting,Frédéric Blanqui,cs.LO,http://arxiv.org/pdf/cs/0610068v2
+cs/0610069v1,2006-10-11T14:20:28Z,An Isabelle formalization of protocol-independent secrecy with an   application to e-commerce,Frédéric Blanqui,cs.LO,http://arxiv.org/pdf/cs/0610069v1
+cs/0610070v1,2006-10-11T15:18:13Z,Inductive types in the Calculus of Algebraic Constructions,Frédéric Blanqui,cs.LO,http://arxiv.org/pdf/cs/0610070v1
+cs/0610071v1,2006-10-11T15:21:50Z,Rewriting modulo in Deduction modulo,Frédéric Blanqui,cs.LO,http://arxiv.org/pdf/cs/0610071v1
+cs/0610072v1,2006-10-12T11:47:54Z,Definitions by rewriting in the Calculus of Constructions,Frédéric Blanqui,cs.LO,http://arxiv.org/pdf/cs/0610072v1
+cs/0610073v1,2006-10-12T11:48:39Z,Inductive types in the Calculus of Algebraic Constructions,Frédéric Blanqui,cs.LO,http://arxiv.org/pdf/cs/0610073v1
+cs/0610081v2,2006-10-13T08:21:31Z,Semantics of Separation-Logic Typing and Higher-order Frame Rules   for<br> Algol-like Languages,Hongseok Yang,cs.LO,http://arxiv.org/pdf/cs/0610081v2
+cs/0610117v1,2006-10-19T17:39:49Z,Quantifier elimination for the reals with a predicate for the powers of   two,Yimu Yin,cs.LO,http://arxiv.org/pdf/cs/0610117v1
+cs/0610123v2,2006-10-20T11:35:05Z,Proof Nets and the Identity of Proofs,Lutz Strassburger,cs.LO,http://arxiv.org/pdf/cs/0610123v2
+cs/0610149v3,2006-10-26T06:38:30Z,Canonical decomposition of catenation of factorial languages,A. Frid,cs.LO,http://arxiv.org/pdf/cs/0610149v3
+cs/0611004v3,2006-11-01T08:50:11Z,Linear Abadi and Plotkin Logic,Rasmus Lerchedahl Petersen,cs.LO,http://arxiv.org/pdf/cs/0611004v3
+cs/0611018v1,2006-11-03T21:51:16Z,"Logic Column 17: A Rendezvous of Logic, Complexity, and Algebra",Hubie Chen,cs.LO,http://arxiv.org/pdf/cs/0611018v1
+cs/0611029v3,2006-11-07T00:07:26Z,Linear Encodings of Bounded LTL Model Checking,Viktor Schuppan,cs.LO,http://arxiv.org/pdf/cs/0611029v3
+cs/0611040v10,2006-11-09T11:36:58Z,The Formal System lambda-delta,F. Guidi,cs.LO,http://arxiv.org/pdf/cs/0611040v10
+cs/0611048v2,2006-11-11T00:08:46Z,"Dense-Timed Petri Nets: Checking Zenoness, Token liveness and   Boundedness",Richard Mayr,cs.LO,http://arxiv.org/pdf/cs/0611048v2
+cs/0611051v1,2006-11-13T17:28:24Z,Numerical Simulation guided Lazy Abstraction Refinement for Nonlinear   Hybrid Automata,Sumit Kumar Jha,cs.LO,http://arxiv.org/pdf/cs/0611051v1
+cs/0611057v1,2006-11-14T12:58:27Z,Formalising Sylow's theorems in Coq,Laurent Thery,cs.LO,http://arxiv.org/pdf/cs/0611057v1
+cs/0611100v1,2006-11-21T03:05:30Z,Model Theory of Ultrafinitism I: Fuzzy Initial Segments of Arithmetics,Rose M. Cherubin,cs.LO,http://arxiv.org/pdf/cs/0611100v1
+cs/0611119v2,2006-11-22T21:03:26Z,Expressiveness of Metric modalities for continuous time,Alexander Rabinovich,cs.LO,http://arxiv.org/pdf/cs/0611119v2
+cs/0612069v2,2006-12-13T09:59:56Z,Cores of Countably Categorical Structures,Manuel Bodirsky,cs.LO,http://arxiv.org/pdf/cs/0612069v2
+cs/0612120v2,2006-12-22T19:45:34Z,Generalizing the Paige-Tarjan Algorithm by Abstract Interpretation,Francesco Tapparo,cs.LO,http://arxiv.org/pdf/cs/0612120v2
+cs/0701022v1,2007-01-04T17:50:01Z,Definable functions in the simply typed lambda-calculus,Mateusz Zakrzewski,cs.LO,http://arxiv.org/pdf/cs/0701022v1
+cs/0701029v1,2007-01-05T08:38:14Z,The Inhabitation Problem for Rank Two Intersection Types,Dariusz Kusmierek,cs.LO,http://arxiv.org/pdf/cs/0701029v1
+cs/0701073v1,2007-01-10T19:46:21Z,"A decision procedure for linear ""big O"" equations",Kevin Donnelly,cs.LO,http://arxiv.org/pdf/cs/0701073v1
+cs/0701076v2,2007-01-11T16:22:11Z,Time-complexity semantics for feasible affine recursions (extended   abstract),James S. Royer,cs.LO,http://arxiv.org/pdf/cs/0701076v2
+cs/0701113v1,2007-01-17T16:48:28Z,On factorisation forests,Thomas Colcombet,cs.LO,http://arxiv.org/pdf/cs/0701113v1
+cs/0701138v2,2007-01-22T15:20:20Z,Real-Time Model-Checking: Parameters everywhere,Jean-Francois Raskin,cs.LO,http://arxiv.org/pdf/cs/0701138v2
+cs/0701154v2,2007-01-25T20:46:36Z,Logic Meets Algebra: the Case of Regular Languages,Denis Therien,cs.LO,http://arxiv.org/pdf/cs/0701154v2
+cs/0702036v1,2007-02-06T15:10:51Z,Efficient First-Order Temporal Logic for Infinite-State Systems,Alexei Lisitsa,cs.LO,http://arxiv.org/pdf/cs/0702036v1
+cs/0702041v1,2007-02-07T12:59:22Z,The Fibers and Range of Reduction Graphs in Ciliates,Hendrik Jan Hoogeboom,cs.LO,http://arxiv.org/pdf/cs/0702041v1
+cs/0702069v1,2007-02-11T15:43:26Z,Feasible reactivity in a synchronous pi-calculus,Frederique Dabrowski,cs.LO,http://arxiv.org/pdf/cs/0702069v1
+cs/0702089v2,2007-02-15T23:45:46Z,Mapping the Object-Role Modeling language ORM2 into Description Logic   language DLRifd,C. Maria Keet,cs.LO,http://arxiv.org/pdf/cs/0702089v2
+cs/0702116v2,2007-02-20T10:08:24Z,The Bedwyr system for model checking over syntactic expressions,Alwen Tiu,cs.LO,http://arxiv.org/pdf/cs/0702116v2
+cs/0702152v1,2007-02-26T02:16:57Z,A Simplified Suspension Calculus and its Relationship to Other Explicit   Substitution Calculi,Gopalan Nadathur,cs.LO,http://arxiv.org/pdf/cs/0702152v1
+cs/0702171v1,2007-02-28T15:51:26Z,How Overlap Determines the Macronuclear Genes in Ciliates,Grzegorz Rozenberg,cs.LO,http://arxiv.org/pdf/cs/0702171v1
+cs/0703015v1,2007-03-03T13:12:51Z,Graph representation of context-free grammars,Alex Shkotin,cs.LO,http://arxiv.org/pdf/cs/0703015v1
+cs/0703039v2,2007-03-08T12:52:55Z,Transforming structures by set interpretations,Christof Löding,cs.LO,http://arxiv.org/pdf/cs/0703039v2
+cs/0703051v3,2007-03-12T01:55:23Z,An ExpTime Procedure for Description Logic $\mathcal{ALCQI}$ (Draft),Yu Ding,cs.LO,http://arxiv.org/pdf/cs/0703051v3
+cs/0703079v2,2007-03-15T10:27:05Z,Automata with Nested Pebbles Capture First-Order Logic with Transitive   Closure,Hendrik Jan Hoogeboom,cs.LO,http://arxiv.org/pdf/cs/0703079v2
+cs/0703152v1,2007-03-30T08:59:43Z,Quantum Lambda Calculi with Classical Control: Syntax and Expressive   Power,Margherita Zorzi,cs.LO,http://arxiv.org/pdf/cs/0703152v1
+0704.1707v2,2007-04-13T07:29:31Z,A Cut-free Sequent Calculus for Bi-Intuitionistic Logic: Extended   Version,Rajeev Goré,cs.LO,http://arxiv.org/pdf/0704.1707v2
+0704.2900v2,2007-04-22T18:19:46Z,Higher-order theories,Marco Maggesi,cs.LO,http://arxiv.org/pdf/0704.2900v2
+0704.3238v1,2007-04-24T16:36:13Z,Alternative axiomatics and complexity of deliberative STIT theories,Nicolas Troquard,cs.LO,http://arxiv.org/pdf/0704.3238v1
+0704.3931v2,2007-04-30T13:09:20Z,The Complexity of Model Checking Higher-Order Fixpoint Logic,Rafal Somla,cs.LO,http://arxiv.org/pdf/0704.3931v2
+0705.1367v1,2007-05-09T21:56:15Z,Logic Column 18: Alternative Logics: A Book Review,Riccardo Pucella,cs.LO,http://arxiv.org/pdf/0705.1367v1
+0705.3487v1,2007-05-24T15:29:21Z,Linearly bounded infinite graphs,Antoine Meyer,cs.LO,http://arxiv.org/pdf/0705.3487v1
+0705.3610v1,2007-05-24T16:10:52Z,A Logic of Reachable Patterns in Linked Data-Structures,Ahmed Bouajjani,cs.LO,http://arxiv.org/pdf/0705.3610v1
+0705.3888v1,2007-05-28T16:31:04Z,Symbolic Reachability Analysis of Higher-Order Context-Free Processes,Antoine Meyer,cs.LO,http://arxiv.org/pdf/0705.3888v1
+0705.4064v1,2007-05-28T16:30:27Z,On Term Rewriting Systems Having a Rational Derivation,Antoine Meyer,cs.LO,http://arxiv.org/pdf/0705.4064v1
+0705.4226v1,2007-05-29T14:26:26Z,Second-Order Type Isomorphisms Through Game Semantics,Joachim De Lataillade,cs.LO,http://arxiv.org/pdf/0705.4226v1
+0705.4228v1,2007-05-29T14:31:02Z,Curry-style type Isomorphisms and Game Semantics,Joachim De Lataillade,cs.LO,http://arxiv.org/pdf/0705.4228v1
+0705.4604v1,2007-05-31T13:22:02Z,Temporal Runtime Verification using Monadic Difference Logic,Kaare J. Kristoffersen,cs.LO,http://arxiv.org/pdf/0705.4604v1
+0706.0692v2,2007-06-05T15:46:09Z,Probabilistic Interval Temporal Logic and Duration Calculus with   Infinite Intervals: Complete Proof Systems,Dimitar P. Guelev,cs.LO,http://arxiv.org/pdf/0706.0692v2
+0706.1118v1,2007-06-08T06:56:31Z,Asynchronous games: innocence without alternation,Samuel Mimram,cs.LO,http://arxiv.org/pdf/0706.1118v1
+0706.2076v3,2007-06-14T09:57:27Z,A Finite Semantics of Simply-Typed Lambda Terms for Infinite Runs of<br>   Automata,Klaus Aehlig,cs.LO,http://arxiv.org/pdf/0706.2076v3
+0706.2544v1,2007-06-18T08:01:12Z,Abstract machines for dialogue games,Hugo Herbelin,cs.LO,http://arxiv.org/pdf/0706.2544v1
+0706.3341v1,2007-06-22T14:24:34Z,A Sequent Calculus for Modelling Interferences,Christophe Fouqueré,cs.LO,http://arxiv.org/pdf/0706.3341v1
+0706.3723v2,2007-06-26T12:16:18Z,Order-Invariant MSO is Stronger than Counting MSO in the Finite,Sasha Rubin,cs.LO,http://arxiv.org/pdf/0706.3723v2
+0707.0556v2,2007-07-04T08:12:17Z,Determinacy in a synchronous pi-calculus,Mehdi Dogguy,cs.LO,http://arxiv.org/pdf/0707.0556v2
+0707.0562v2,2007-07-04T09:33:21Z,On a Non-Context-Free Extension of PDL,Dirk Nowotka,cs.LO,http://arxiv.org/pdf/0707.0562v2
+0707.0744v1,2007-07-05T09:39:14Z,A process algebra based framework for promise theory,Mark Burgess,cs.LO,http://arxiv.org/pdf/0707.0744v1
+0707.0890v2,2007-07-06T00:22:59Z,Are there Hilbert-style Pure Type Systems?,W. M. J. Dekkers,cs.LO,http://arxiv.org/pdf/0707.0890v2
+0707.1266v1,2007-07-09T14:35:14Z,Building Decision Procedures in the Calculus of Inductive Constructions,Pierre-Yves Strub,cs.LO,http://arxiv.org/pdf/0707.1266v1
+0707.1372v1,2007-07-10T06:33:52Z,Computability Closure: Ten Years Later,Frédéric Blanqui,cs.LO,http://arxiv.org/pdf/0707.1372v1
+0707.1981v3,2007-07-13T12:02:10Z,A Normalizing Intuitionistic Set Theory with Inaccessible Sets,Wojciech Moczydlowski,cs.LO,http://arxiv.org/pdf/0707.1981v3
+0707.3170v3,2007-07-21T00:29:38Z,Inductive Definition and Domain Theoretic Properties of Fully Abstract,Vladimir Sazonov,cs.LO,http://arxiv.org/pdf/0707.3170v3
+0707.3782v2,2007-07-25T17:04:26Z,Interactive Small-Step Algorithms I: Axiomatization,Benjamin Rossman,cs.LO,http://arxiv.org/pdf/0707.3782v2
+0707.3789v2,2007-07-25T17:35:46Z,Interactive Small-Step Algorithms II: Abstract State Machines and   the<br> Characterization Theorem,Benjamin Rossman,cs.LO,http://arxiv.org/pdf/0707.3789v2
+0708.0200v2,2007-08-01T17:22:48Z,A Note on Shortest Developments,Morten Heine Sørensen,cs.LO,http://arxiv.org/pdf/0708.0200v2
+0708.0713v1,2007-08-06T07:47:34Z,Edit and verify,Michał Moskal,cs.LO,http://arxiv.org/pdf/0708.0713v1
+0708.1480v2,2007-08-10T16:17:00Z,"Valid formulas, games and network protocols",Yves Legrandgérard,cs.LO,http://arxiv.org/pdf/0708.1480v2
+0708.2230v1,2007-08-16T15:45:06Z,Collection analysis for Horn clause programs,Dale Miller,cs.LO,http://arxiv.org/pdf/0708.2230v1
+0708.2252v1,2007-08-16T17:36:28Z,Focusing and Polarization in Intuitionistic Logic,Dale Miller,cs.LO,http://arxiv.org/pdf/0708.2252v1
+0708.3477v2,2007-08-26T12:08:30Z,The Church Synthesis Problem with Parameters,Alexander Rabinovich,cs.LO,http://arxiv.org/pdf/0708.3477v2
+0708.3582v1,2007-08-27T12:23:16Z,HORPO with Computability Closure : A Reconstruction,Albert Rubio,cs.LO,http://arxiv.org/pdf/0708.3582v1
+0709.0446v1,2007-09-04T14:38:10Z,Logic Column 19: Symbolic Model Checking for Temporal-Epistemic Logics,Wojciech Penczek,cs.LO,http://arxiv.org/pdf/0709.0446v1
+0709.4118v2,2007-09-26T09:54:31Z,An efficient simulation algorithm based on abstract interpretation,Francesco Tapparo,cs.LO,http://arxiv.org/pdf/0709.4118v2
+0710.2505v2,2007-10-12T16:28:43Z,Generic Trace Semantics via Coinduction,Ana Sokolova,cs.LO,http://arxiv.org/pdf/0710.2505v2
+0710.3332v4,2007-10-17T16:56:56Z,Model and Program Repair via SAT Solving,Jad Saklawi,cs.LO,http://arxiv.org/pdf/0710.3332v4
+0710.3764v1,2007-10-19T19:32:39Z,Design of a Distributed Reachability Algorithm for Analysis of Linear   Hybrid Automata,Sumit Kumar Jha,cs.LO,http://arxiv.org/pdf/0710.3764v1
+0710.4499v2,2007-10-24T15:40:32Z,Remarks on Jurdzinski and Lorys' proof that palindromes are not a   Church-Rosser language,Natalie Schluter,cs.LO,http://arxiv.org/pdf/0710.4499v2
+0710.4629v1,2007-10-25T08:06:59Z,Space-Efficient Bounded Model Checking,Nachum Dershowitz,cs.LO,http://arxiv.org/pdf/0710.4629v1
+0710.4666v1,2007-10-25T08:44:05Z,Verification of Embedded Memory Systems using Efficient Memory Modeling,Pranav Ashar,cs.LO,http://arxiv.org/pdf/0710.4666v1
+0710.4689v1,2007-10-25T09:09:59Z,Functional Equivalence Checking for Verification of Algebraic   Transformations on Array-Intensive Source Code,Gerda Janssens,cs.LO,http://arxiv.org/pdf/0710.4689v1
+0710.4694v1,2007-10-25T09:14:41Z,Exact Synthesis of 3-Qubit Quantum Circuits from Non-Binary Quantum   Gates Using Multiple-Valued Logic and Group Theory,Marek Perkowski,cs.LO,http://arxiv.org/pdf/0710.4694v1
+0710.4695v1,2007-10-25T09:15:10Z,SAT-Based Complete Don't-Care Computation for Network Optimization,Robert K. Brayton,cs.LO,http://arxiv.org/pdf/0710.4695v1
+0710.4698v1,2007-10-25T09:18:46Z,Automated Synthesis of Assertion Monitors using Visual Specifications,S. Ramesh,cs.LO,http://arxiv.org/pdf/0710.4698v1
+0710.4743v1,2007-10-25T09:45:31Z,Efficient Solution of Language Equations Using Partitioned   Representations,Nina Yevtushenko,cs.LO,http://arxiv.org/pdf/0710.4743v1
+0710.4753v1,2007-10-25T09:52:50Z,Verifying Safety-Critical Timing and Memory-Usage Properties of Embedded   Software by Abstract Interpretation,Christian Ferdinand,cs.LO,http://arxiv.org/pdf/0710.4753v1
+0710.4848v1,2007-10-25T12:24:36Z,A Formal Verification Methodology for Checking Data Integrity,Takeshi Shimizu,cs.LO,http://arxiv.org/pdf/0710.4848v1
+0710.4851v1,2007-10-25T12:25:32Z,Common Reusable Verification Environment for BCA and RTL Models,Nizar Romdhane,cs.LO,http://arxiv.org/pdf/0710.4851v1
+0710.5130v1,2007-10-26T15:59:56Z,A Proof of the Factorization Forest Theorem,Manfred Kufleitner,cs.LO,http://arxiv.org/pdf/0710.5130v1
+0710.5659v2,2007-10-30T14:39:09Z,Model Checking Synchronized Products of Infinite Transition Systems,Wolfgang Thomas,cs.LO,http://arxiv.org/pdf/0710.5659v2
+0711.0194v2,2007-11-01T19:25:13Z,Coinductive Proof Principles for Stochastic Processes,Dexter Kozen,cs.LO,http://arxiv.org/pdf/0711.0194v2
+0711.0834v2,2007-11-06T10:45:02Z,An interface group for process components,C. A. Middelburg,cs.LO,http://arxiv.org/pdf/0711.0834v2
+0711.0840v2,2007-11-06T11:25:20Z,A thread calculus with molecular dynamics,C. A. Middelburg,cs.LO,http://arxiv.org/pdf/0711.0840v2
+0711.1016v2,2007-11-07T06:11:13Z,An On-the-fly Tableau-based Decision Procedure for PDL-Satisfiability,Florian Widmann,cs.LO,http://arxiv.org/pdf/0711.1016v2
+0711.2155v1,2007-11-14T10:49:56Z,Guarded Hybrid Knowledge Bases,Davy Van Nieuwenborgh,cs.LO,http://arxiv.org/pdf/0711.2155v1
+0711.2546v2,2007-11-16T02:44:05Z,Normalization of IZF with Replacement,Wojciech Moczydlowski,cs.LO,http://arxiv.org/pdf/0711.2546v2
+0712.1279v1,2007-12-08T12:05:40Z,"Kleene, Rogers and Rice Theorems Revisited in C and in Bash",Nicola Corriero,cs.LO,http://arxiv.org/pdf/0712.1279v1
+0712.3380v1,2007-12-20T12:08:33Z,Extending the Overlap Graph for Gene Assembly in Ciliates,Hendrik Jan Hoogeboom,cs.LO,http://arxiv.org/pdf/0712.3380v1
+0712.4222v2,2007-12-27T14:35:16Z,"Weak Affine Light Typing: Polytime intensional expressivity, soundness   and completeness",Luca Roversi,cs.LO,http://arxiv.org/pdf/0712.4222v2
+0712.4341v1,2007-12-28T11:48:44Z,Finite Automata Based on Quantum Logic and Their Determinization,Yongming Li,cs.LO,http://arxiv.org/pdf/0712.4341v1
+0801.0649v1,2008-01-04T10:12:59Z,A logical analysis of entanglement and separability in quantum   higher-order functions,C. Zerrari,cs.LO,http://arxiv.org/pdf/0801.0649v1
+0801.0677v1,2008-01-04T13:14:31Z,Finite-state concurrent programs can be expressed pairwise,Paul C. Attie,cs.LO,http://arxiv.org/pdf/0801.0677v1
+0801.0813v1,2008-01-05T15:21:17Z,A linear-non-linear model for a computational call-by-value lambda   calculus (extended abstract),Benoît Valiron,cs.LO,http://arxiv.org/pdf/0801.0813v1
+0801.0949v1,2008-01-07T11:55:03Z,On the Refinement of Liveness Properties of Distributed Systems,Paul C. Attie,cs.LO,http://arxiv.org/pdf/0801.0949v1
+0801.1687v1,2008-01-10T21:27:42Z,Synthesis of Large Dynamic Concurrent Programs from Dynamic   Specifications,Paul C. Attie,cs.LO,http://arxiv.org/pdf/0801.1687v1
+0801.2498v2,2008-01-16T14:39:27Z,An Application of the Feferman-Vaught Theorem to Automata and Logics   for<br> Words over an Infinite Alphabet,Alexis Bès,cs.LO,http://arxiv.org/pdf/0801.2498v2
+0801.3065v1,2008-01-20T08:34:22Z,Cut Elimination for a Logic with Generic Judgments and Induction,Alwen Tiu,cs.LO,http://arxiv.org/pdf/0801.3065v1
+0801.3117v1,2008-01-21T00:42:52Z,A hierarchy of behavioral equivalences in the $π$-calculus with noisy   channels,Yongzhi Cao,cs.LO,http://arxiv.org/pdf/0801.3117v1
+0802.0865v2,2008-02-06T19:18:57Z,Combining generic judgments with recursive definitions,Gopalan Nadathur,cs.LO,http://arxiv.org/pdf/0802.0865v2
+0802.1226v3,2008-02-08T23:13:52Z,Lower Bounds for Complementation of omega-Automata Via the Full Automata   Technique,Qiqi Yan,cs.LO,http://arxiv.org/pdf/0802.1226v3
+0802.2862v1,2008-02-20T14:33:04Z,Compatibility of Shelah and Stupp's and Muchnik's iteration with   fragments of monadic second order logic,Dietrich Kuske,cs.LO,http://arxiv.org/pdf/0802.2862v1
+0802.2866v1,2008-02-20T14:37:32Z,Cardinality and counting quantifiers on omega-automatic structures,Vince Bárány,cs.LO,http://arxiv.org/pdf/0802.2866v1
+0802.3617v1,2008-02-25T13:11:32Z,Towards a formalization of budgets,Mark B. van der Zwaag,cs.LO,http://arxiv.org/pdf/0802.3617v1
+0802.3626v1,2008-02-25T13:54:50Z,Color Graphs: An Efficient Model For Two-Dimensional Cellular Automata   Linear Rules,Sushant Kumar Rout,cs.LO,http://arxiv.org/pdf/0802.3626v1
+0802.3974v2,2008-02-27T08:59:58Z,Syntax diagrams as a formalism for representation of syntactic relations   of formal languages,Vladimir Lapshin,cs.LO,http://arxiv.org/pdf/0802.3974v2
+0802.4057v2,2008-02-27T17:43:23Z,A Qualitative Modal Representation of Quantum Register Transformations,Margherita Zorzi,cs.LO,http://arxiv.org/pdf/0802.4057v2
+0802.4131v1,2008-02-28T06:21:49Z,Language of Boolean functions its Grammar and Machine,Sudhakar Sahoo,cs.LO,http://arxiv.org/pdf/0802.4131v1
+0802.4237v3,2008-02-28T16:54:31Z,Safety alternating automata on data words,Ranko Lazic,cs.LO,http://arxiv.org/pdf/0802.4237v3
+0803.0378v2,2008-03-04T07:18:46Z,Thread algebra for poly-threading,C. A. Middelburg,cs.LO,http://arxiv.org/pdf/0803.0378v2
+0803.1575v2,2008-03-11T12:55:25Z,A Quantifier Elimination Algorithm for Linear Real Arithmetic,David Monniaux,cs.LO,http://arxiv.org/pdf/0803.1575v2
+0803.3187v2,2008-03-21T15:53:56Z,Labeled Natural Deduction Systems for a Family of Tense Logics,Marco Volpe,cs.LO,http://arxiv.org/pdf/0803.3187v2
+0803.3796v3,2008-03-26T19:08:40Z,Approximating a Behavioural Pseudometric without Discount for<br>   Probabilistic Systems,James Worrell,cs.LO,http://arxiv.org/pdf/0803.3796v3
+0804.0660v1,2008-04-04T08:14:22Z,Weak Affine Light Typing is complete with respect to Safe Recursion on   Notation,Luca Roversi,cs.LO,http://arxiv.org/pdf/0804.0660v1
+0804.1667v3,2008-04-10T11:10:26Z,Mechanizing the Metatheory of LF,Stefan Berghofer,cs.LO,http://arxiv.org/pdf/0804.1667v3
+0804.1729v3,2008-04-10T15:16:06Z,On affine usages in signal-based communication,Mehdi Dogguy,cs.LO,http://arxiv.org/pdf/0804.1729v3
+0804.1879v2,2008-04-11T11:32:51Z,Lambda-Free Logical Frameworks,Robin Adams,cs.LO,http://arxiv.org/pdf/0804.1879v2
+0804.2535v1,2008-04-16T07:09:59Z,Short proofs of strong normalization,Aleksander Wojdyga,cs.LO,http://arxiv.org/pdf/0804.2535v1
+0804.3065v2,2008-04-18T16:27:34Z,Visibly Tree Automata with Memory and Constraints,Nicolas Perrin,cs.LO,http://arxiv.org/pdf/0804.3065v2
+0804.3105v2,2008-04-18T21:15:47Z,A lower bound on web services composition,Igor Walukiewicz,cs.LO,http://arxiv.org/pdf/0804.3105v2
+0804.3434v2,2008-04-22T03:16:03Z,Lecture notes on the lambda calculus,Peter Selinger,cs.LO,http://arxiv.org/pdf/0804.3434v2
+0804.3762v1,2008-04-23T16:56:46Z,"From formal proofs to mathematical proofs: a safe, incremental way for   building in first-order decision procedures",Pierre-Yves Strub,cs.LO,http://arxiv.org/pdf/0804.3762v1
+0804.4383v2,2008-04-28T12:04:12Z,Practical Automated Partial Verification of Multi-Paradigm Real-Time   Models,Matteo Rossi,cs.LO,http://arxiv.org/pdf/0804.4383v2
+0804.4565v4,2008-04-29T09:55:33Z,"Data linkage algebra, data linkage dynamics, and priority rewriting",C. A. Middelburg,cs.LO,http://arxiv.org/pdf/0804.4565v4
+0805.0783v2,2008-05-06T19:27:14Z,Relational Parametricity and Separation Logic,Hongseok Yang,cs.LO,http://arxiv.org/pdf/0805.0783v2
+0805.1386v3,2008-05-09T17:16:50Z,A language for mathematical knowledge management,Harvey Friedman,cs.LO,http://arxiv.org/pdf/0805.1386v3
+0805.1391v1,2008-05-09T19:12:30Z,Linear Time Algorithm for Weak Parity Games,Krishnendu Chatterjee,cs.LO,http://arxiv.org/pdf/0805.1391v1
+0805.1974v2,2008-05-14T06:31:48Z,Lower Bound for the Communication Complexity of the Russian Cards   Problem,K. Murali Krishnan,cs.LO,http://arxiv.org/pdf/0805.1974v2
+0805.2063v2,2008-05-14T13:45:16Z,Replication via Invalidating the Applicability of the Fixed Point   Theorem,Genta Ito,cs.LO,http://arxiv.org/pdf/0805.2063v2
+0805.2179v4,2008-05-14T22:01:31Z,Mnesors for databases,Gilles Champenois,cs.LO,http://arxiv.org/pdf/0805.2179v4
+0805.2785v3,2008-05-19T04:33:28Z,Proof Search Specifications of Bisimulation and Modal Logics for the   pi-Calculus,Dale Miller,cs.LO,http://arxiv.org/pdf/0805.2785v3
+0805.3256v2,2008-05-21T11:35:25Z,Model Checking Event-B by Encoding into Alloy,Joao Marques-Silva,cs.LO,http://arxiv.org/pdf/0805.3256v2
+0805.3261v2,2008-05-21T11:54:51Z,k-Hyperarc Consistency for Soft Constraints over Divisible Residuated   Lattices,Simone Bova,cs.LO,http://arxiv.org/pdf/0805.3261v2
+0805.3462v2,2008-05-22T13:29:44Z,Enriched MU-Calculi Module Checking,Mimmo Parente,cs.LO,http://arxiv.org/pdf/0805.3462v2
+0806.0081v4,2008-05-31T15:35:40Z,"Canonical calculi with (n,k)-ary quantifiers",Anna Zamansky,cs.LO,http://arxiv.org/pdf/0806.0081v4
+0806.0103v2,2008-06-02T10:41:48Z,A note on clique-width and tree-width for structures,Isolde Adler,cs.LO,http://arxiv.org/pdf/0806.0103v2
+0806.0936v2,2008-06-05T09:32:07Z,On convergence-sensitive bisimulation and the embedding of CCS in timed   CCS,Roberto Amadio,cs.LO,http://arxiv.org/pdf/0806.0936v2
+0806.1281v2,2008-06-07T13:43:46Z,Extracting Programs from Constructive HOL Proofs via IZF   Set-Theoretic<br> Semantics,Wojciech Moczydlowski,cs.LO,http://arxiv.org/pdf/0806.1281v2
+0806.1827v1,2008-06-11T15:29:47Z,Full Abstraction for a Recursively Typed Lambda Calculus with Parallel   Conditional,Fritz Müller,cs.LO,http://arxiv.org/pdf/0806.1827v1
+0806.2517v1,2008-06-16T11:39:25Z,The computability path ordering: the end of a quest,Albert Rubio,cs.LO,http://arxiv.org/pdf/0806.2517v1
+0806.2802v1,2008-06-17T14:36:43Z,A logic with temporally accessible iteration,Alexei Lisitsa,cs.LO,http://arxiv.org/pdf/0806.2802v1
+0806.2947v8,2008-06-18T10:00:38Z,"The Kleene-Rosser Paradox, The Liar's Paradox & A Fuzzy Logic   Programming Paradox Imply SAT is (NOT) NP-complete",Rafee Ebrahim Kamouna,cs.LO,http://arxiv.org/pdf/0806.2947v8
+0806.3209v1,2008-06-19T18:09:01Z,A Computer Verified Theory of Compact Sets,Russell O'Connor,cs.LO,http://arxiv.org/pdf/0806.3209v1
+0806.4034v2,2008-06-25T07:15:35Z,Data linkage dynamics with shedding,C. A. Middelburg,cs.LO,http://arxiv.org/pdf/0806.4034v2
+0806.4130v1,2008-06-25T15:38:43Z,Complexity of Hybrid Logics over Transitive Frames,Volker Weber,cs.LO,http://arxiv.org/pdf/0806.4130v1
+0806.4631v2,2008-06-27T23:22:38Z,The Heap Lambda Machine,Anton Salikhmetov,cs.LO,http://arxiv.org/pdf/0806.4631v2
+0806.4859v2,2008-06-30T11:29:21Z,Termination of lambda-calculus with the extra Call-By-Value rule known   as assoc,Stéphane Lengrand,cs.LO,http://arxiv.org/pdf/0806.4859v2
+0806.4956v2,2008-06-30T17:55:15Z,Game Refinement Relations and Metrics,Mariëlle Stoelinga,cs.LO,http://arxiv.org/pdf/0806.4956v2
+0807.0704v1,2008-07-04T09:16:13Z,Knowledge bases over algebraic models. Some notes about informational   equivalence,Plotkin Tatjana,cs.LO,http://arxiv.org/pdf/0807.0704v1
+0807.1524v1,2008-07-09T19:16:25Z,Inductive and Coinductive Components of Corecursive Functions in Coq,Ekaterina Komendantskaya,cs.LO,http://arxiv.org/pdf/0807.1524v1
+0807.1669v2,2008-07-10T14:56:05Z,Coinductive Formal Reasoning in Exact Real Arithmetic,Milad Niqui,cs.LO,http://arxiv.org/pdf/0807.1669v2
+0807.2543v4,2008-07-16T10:58:40Z,"Two Fuzzy Logic Programming Paradoxes Imply Continuum Hypothesis=""False""   & Axiom of Choice=""False"" Imply ZFC is Inconsistent",Rafee Ebrahim Kamouna,cs.LO,http://arxiv.org/pdf/0807.2543v4
+0807.2636v1,2008-07-14T16:41:48Z,Topological Observations on Multiplicative Additive Linear Logic,Tom Hirschowitz,cs.LO,http://arxiv.org/pdf/0807.2636v1
+0807.3648v5,2008-07-23T12:31:11Z,Proposition Algebra with Projective Limits,A. Ponse,cs.LO,http://arxiv.org/pdf/0807.3648v5
+0807.4073v2,2008-07-25T11:36:23Z,Rational streams coalgebraically,J. J. M. M. Rutten,cs.LO,http://arxiv.org/pdf/0807.4073v2
+0808.0441v2,2008-08-04T13:41:09Z,Exhaustible sets in higher-type computation,Martin Escardo,cs.LO,http://arxiv.org/pdf/0808.0441v2
+0808.3651v3,2008-08-27T08:35:44Z,Flow Faster: Efficient Decision Algorithms for Probabilistic Simulations,David N. Jansen,cs.LO,http://arxiv.org/pdf/0808.3651v3
+0808.3928v2,2008-08-28T15:31:31Z,On the strength of proof-irrelevant type theories,Benjamin Werner,cs.LO,http://arxiv.org/pdf/0808.3928v2
+0809.0060v3,2008-08-30T13:26:48Z,Model Checking Probabilistic Timed Automata with One or Two Clocks,Jeremy Sproston,cs.LO,http://arxiv.org/pdf/0809.0060v3
+0809.0195v2,2008-09-01T09:46:36Z,Light Logics and the Call-by-Value Lambda Calculus,Simona Ronchi Della Rocca,cs.LO,http://arxiv.org/pdf/0809.0195v2
+0809.0494v1,2008-09-02T18:37:01Z,Interaction Grammars,Guy Perrier,cs.LO,http://arxiv.org/pdf/0809.0494v1
+0809.1236v4,2008-09-07T22:21:33Z,Bounded Underapproximations,Benjamin Monmege,cs.LO,http://arxiv.org/pdf/0809.1236v4
+0809.1644v1,2008-09-09T19:55:03Z,Computing with Classical Real Numbers,Russell O'Connor,cs.LO,http://arxiv.org/pdf/0809.1644v1
+0809.2061v3,2008-09-11T17:25:28Z,Weyl's Predicative Classical Mathematics as a Logic-Enriched Type Theory,Zhaohui Luo,cs.LO,http://arxiv.org/pdf/0809.2061v3
+0809.2214v1,2008-09-12T13:40:37Z,On (Omega-)Regular Model Checking,Pierre Wolper,cs.LO,http://arxiv.org/pdf/0809.2214v1
+0809.2394v1,2008-09-14T12:01:24Z,"Structures de réalisabilité, RAM et ultrafiltre sur N",Jean-Louis Krivine,cs.LO,http://arxiv.org/pdf/0809.2394v1
+0809.3960v2,2008-09-23T16:39:03Z,Formalising the pi-calculus using nominal logic,Joachim Parrow,cs.LO,http://arxiv.org/pdf/0809.3960v2
+0809.4115v2,2008-09-24T09:28:18Z,Bisimilarity and Behaviour-Preserving Reconfigurations of Open Petri   Nets,Barbara König,cs.LO,http://arxiv.org/pdf/0809.4115v2
+0810.2061v1,2008-10-12T18:54:26Z,On characterising strong bisimilarity in a fragment of CCS with   replication,Damien Pous,cs.LO,http://arxiv.org/pdf/0810.2061v1
+0810.2179v2,2008-10-13T09:07:38Z,"Structural abstract interpretation, A formal study using Coq",Yves Bertot,cs.LO,http://arxiv.org/pdf/0810.2179v2
+0810.2877v1,2008-10-16T09:38:51Z,Sheaves and geometric logic and applications to the modular verification   of complex systems,Viorica Sofronie-Stokkermans,cs.LO,http://arxiv.org/pdf/0810.2877v1
+0810.2891v2,2008-10-16T12:37:26Z,Taming Modal Impredicativity: Superlazy Reduction,Luca Vercelli,cs.LO,http://arxiv.org/pdf/0810.2891v2
+0810.3162v1,2008-10-17T17:46:14Z,"Clone Theory: Its Syntax and Semantics, Applications to Universal   Algebra, Lambda Calculus and Algebraic Logic",Zhaohua Luo,cs.LO,http://arxiv.org/pdf/0810.3162v1
+0810.3708v2,2008-10-21T04:48:18Z,Characterising Testing Preorders for Finite Probabilistic Processes,Carroll Morgan,cs.LO,http://arxiv.org/pdf/0810.3708v2
+0810.4904v1,2008-10-27T18:48:18Z,On Finite Bases for Weak Semantics: Failures versus Impossible Futures,Rob van Glabbeek,cs.LO,http://arxiv.org/pdf/0810.4904v1
+0810.5516v1,2008-10-30T15:59:53Z,Symbolic model checking of tense logics on rational Kripke models,Valentin Goranko,cs.LO,http://arxiv.org/pdf/0810.5516v1
+0810.5517v2,2008-10-30T16:04:06Z,Model checking memoryful linear-time logics over one-counter automata,Arnaud Sangnier,cs.LO,http://arxiv.org/pdf/0810.5517v2
+0811.0537v3,2008-11-04T15:30:12Z,First-Order and Temporal Logics for Nested Words,Leonid Libkin,cs.LO,http://arxiv.org/pdf/0811.0537v3
+0811.0964v1,2008-11-06T15:09:43Z,One useful logic that defines its own truth,Yuri Gurevich,cs.LO,http://arxiv.org/pdf/0811.0964v1
+0811.0977v1,2008-11-06T15:58:17Z,Two Forms of One Useful Logic: Existential Fixed Point Logic and Liberal   Datalog,Yuri Gurevich,cs.LO,http://arxiv.org/pdf/0811.0977v1
+0811.1914v1,2008-11-12T15:00:22Z,A TLA+ Proof System,Stephan Merz,cs.LO,http://arxiv.org/pdf/0811.1914v1
+0811.1976v2,2008-11-12T18:53:13Z,Coalgebraic Automata Theory: Basic Results,Y. Venema,cs.LO,http://arxiv.org/pdf/0811.1976v2
+0811.2198v4,2008-11-13T18:47:27Z,The Church Problem for Countable Ordinals,Alexander Rabinovich,cs.LO,http://arxiv.org/pdf/0811.2198v4
+0811.3400v1,2008-11-20T19:39:51Z,A Cloning Pushout Approach to Term-Graph Transformation,Frédéric Prost,cs.LO,http://arxiv.org/pdf/0811.3400v1
+0811.4367v2,2008-11-26T17:04:30Z,Hybrid: A Definitional Two-Level Approach to Reasoning with Higher-Order   Abstract Syntax,Alberto Momigliano,cs.LO,http://arxiv.org/pdf/0811.4367v2
+0811.4497v2,2008-11-27T09:50:22Z,Homomorphism Preservation on Quasi-Wide Classes,Anuj Dawar,cs.LO,http://arxiv.org/pdf/0811.4497v2
+0812.1729v2,2008-12-09T16:14:05Z,The Wadge Hierarchy of Deterministic Tree Languages,Filip Murlak,cs.LO,http://arxiv.org/pdf/0812.1729v2
+0812.1967v1,2008-12-10T17:08:45Z,Decomposition of Decidable First-Order Logics over Integers and Reals,Jérôme Leroux,cs.LO,http://arxiv.org/pdf/0812.1967v1
+0812.2423v2,2008-12-12T16:43:48Z,On the Expressive Power of 2-Stack Visibly Pushdown Automata,Benedikt Bollig,cs.LO,http://arxiv.org/pdf/0812.2423v2
+0812.3068v1,2008-12-16T14:36:43Z,Branching Bisimilarity with Explicit Divergence,Nikola Trcka,cs.LO,http://arxiv.org/pdf/0812.3068v1
+0812.4727v3,2008-12-27T09:29:16Z,Induction and Co-induction in Sequent Calculus,Alberto Momigliano,cs.LO,http://arxiv.org/pdf/0812.4727v3
+0812.4814v1,2008-12-28T12:45:05Z,Nominalistic Logic (Extended Abstract),Jørgen Villadsen,cs.LO,http://arxiv.org/pdf/0812.4814v1
+0812.4848v3,2008-12-28T21:10:06Z,The Complexity of Generalized Satisfiability for Linear Temporal Logic,Heribert Vollmer,cs.LO,http://arxiv.org/pdf/0812.4848v3
+0901.2518v2,2009-01-16T16:14:48Z,A Faithful Semantics for Generalised Symbolic Trajectory Evaluation,Jan-Willem Roorda,cs.LO,http://arxiv.org/pdf/0901.2518v2
+0901.4080v1,2009-01-26T19:49:43Z,A Framework to Handle Linear Temporal Properties in (ω-)Regular   Model Checking,Pierre Wolper,cs.LO,http://arxiv.org/pdf/0901.4080v1
+0901.4430v4,2009-01-28T10:29:44Z,Neighbourhood Structures: Bisimilarity and Basic Model Theory,Eric Pacuit,cs.LO,http://arxiv.org/pdf/0901.4430v4
+0901.4664v1,2009-01-29T12:42:46Z,Square root meadows,I. Bethke,cs.LO,http://arxiv.org/pdf/0901.4664v1
+0902.1587v1,2009-02-10T06:42:24Z,"Forward analysis for WSTS, Part I: Completions",Jean Goubault-Larrecq,cs.LO,http://arxiv.org/pdf/0902.1587v1
+0902.2072v1,2009-02-12T16:03:10Z,Strong Completeness of Coalgebraic Modal Logics,Dirk Pattinson,cs.LO,http://arxiv.org/pdf/0902.2072v1
+0902.3616v1,2009-02-20T16:45:04Z,Algorithmic Meta-Theorems,Stephan Kreutzer,cs.LO,http://arxiv.org/pdf/0902.3616v1
+0902.3858v1,2009-02-23T07:58:03Z,Why Would You Trust B?,Catherine Dubois,cs.LO,http://arxiv.org/pdf/0902.3858v1
+0902.3861v1,2009-02-23T08:19:11Z,A Few Remarks About Formal Development of Secure Systems,Thérèse Hardin,cs.LO,http://arxiv.org/pdf/0902.3861v1
+0902.3865v1,2009-02-23T08:53:36Z,Yet Another Deep Embedding of B:Extending de Bruijn Notations,Thérèse Hardin,cs.LO,http://arxiv.org/pdf/0902.3865v1
+0902.3958v2,2009-02-23T17:17:11Z,Antichains for the Automata-Based Approach to Model-Checking,Jean-Francois Raskin,cs.LO,http://arxiv.org/pdf/0902.3958v2
+0902.4348v2,2009-02-25T11:35:02Z,On ground word problem of term equation systems,Sandor Vagvolgyi,cs.LO,http://arxiv.org/pdf/0902.4348v2
+0903.1196v1,2009-03-06T12:08:55Z,The structure of finite meadows,Arjen Sevenster,cs.LO,http://arxiv.org/pdf/0903.1196v1
+0903.1374v2,2009-03-07T23:20:09Z,The Omega Rule is $\mathbf{Π_{1}^{1}}$-Complete in the   $λβ$-Calculus,Richard Statman,cs.LO,http://arxiv.org/pdf/0903.1374v2
+0903.1822v2,2009-03-10T18:10:52Z,Continuation-Passing Style and Strong Normalisation for Intuitionistic   Sequent Calculi,Luis Pinto,cs.LO,http://arxiv.org/pdf/0903.1822v2
+0903.2177v2,2009-03-12T14:34:47Z,On the (semi)lattices induced by continuous reducibilities,Arno Pauly,cs.LO,http://arxiv.org/pdf/0903.2177v2
+0903.2445v2,2009-03-13T17:52:30Z,Qualitative Logics and Equivalences for Probabilistic Systems,Axel Legay,cs.LO,http://arxiv.org/pdf/0903.2445v2
+0903.3126v2,2009-03-18T10:56:11Z,A Generic Framework for Reasoning about Dynamic Networks of   Infinite-State Processes,Mihaela Sighireanu,cs.LO,http://arxiv.org/pdf/0903.3126v2
+0903.3850v1,2009-03-23T12:35:27Z,Using Structural Recursion for Corecursion,Ekaterina Komendantskaya,cs.LO,http://arxiv.org/pdf/0903.3850v1
+0903.4366v3,2009-03-25T15:14:00Z,Complexity of Fractran and Productivity,Dimitri Hendriks,cs.LO,http://arxiv.org/pdf/0903.4366v3
+0903.4382v4,2009-03-25T17:47:30Z,Ranking Functions for Size-Change Termination II,Chin Soon Lee,cs.LO,http://arxiv.org/pdf/0903.4382v4
+0903.5259v2,2009-03-30T16:49:36Z,A System of Interaction and Structure IV: The Exponentials and   Decomposition,Alessio Guglielmi,cs.LO,http://arxiv.org/pdf/0903.5259v2
+0904.0034v1,2009-04-01T02:07:44Z,CCS-Based Dynamic Logics for Communicating Concurrent Programs,L. Menasché Schechter,cs.LO,http://arxiv.org/pdf/0904.0034v1
+0904.0578v2,2009-04-03T13:52:57Z,Efficient Description Logic Reasoning in Prolog: The DLog system,Péter Szeredi,cs.LO,http://arxiv.org/pdf/0904.0578v2
+0904.0589v1,2009-04-03T14:45:20Z,Fuzzy Linguistic Logic Programming and its Applications,Dinh Khang Tran,cs.LO,http://arxiv.org/pdf/0904.0589v1
+0904.1488v1,2009-04-09T09:40:33Z,Computing Stuttering Simulations,Francesco Tapparo,cs.LO,http://arxiv.org/pdf/0904.1488v1
+0904.2076v2,2009-04-14T09:22:16Z,On stratified regions,Roberto Amadio,cs.LO,http://arxiv.org/pdf/0904.2076v2
+0904.2340v2,2009-04-15T15:55:56Z,Explicit fairness in testing semantics,C. Palamidessi,cs.LO,http://arxiv.org/pdf/0904.2340v2
+0904.2675v5,2009-04-17T10:44:18Z,"Bounded Linear Logic, Revisited",Martin Hofmann,cs.LO,http://arxiv.org/pdf/0904.2675v5
+0904.2894v1,2009-04-19T08:01:34Z,On FO2 quantifier alternation over words,Pascal Weil,cs.LO,http://arxiv.org/pdf/0904.2894v1
+0904.3036v41,2009-04-20T14:07:18Z,Inconsistency Robustness in Logic Programs,Carl Hewitt,cs.LO,http://arxiv.org/pdf/0904.3036v41
+0904.3588v1,2009-04-23T02:52:15Z,Termination of Linear Programs with Nonlinear Constraints,Zhihai Zhang,cs.LO,http://arxiv.org/pdf/0904.3588v1
+0904.4119v2,2009-04-27T09:33:44Z,Two-Way Unary Temporal Logic over Trees,Mikolaj Bojanczyk,cs.LO,http://arxiv.org/pdf/0904.4119v2
+0904.4756v1,2009-04-30T08:27:38Z,Models and theories of lambda calculus,Giulio Manzonetto,cs.LO,http://arxiv.org/pdf/0904.4756v1
+0905.2195v1,2009-05-13T20:27:01Z,Expressiveness and Closure Properties for Quantitative Languages,Thomas A. Henzinger,cs.LO,http://arxiv.org/pdf/0905.2195v1
+0905.3668v2,2009-05-22T12:10:07Z,Lindstrom theorems for fragments of first-order logic,Jouko Vaananen,cs.LO,http://arxiv.org/pdf/0905.3668v2
+0905.4090v1,2009-05-25T22:38:41Z,"Orthomodular lattices, Foulis Semigroups and Dagger Kernel Categories",Bart Jacobs,cs.LO,http://arxiv.org/pdf/0905.4090v1
+0905.4332v1,2009-05-27T13:15:37Z,On expressive power and class invariance,Francien Dechesne,cs.LO,http://arxiv.org/pdf/0905.4332v1
+0905.4567v1,2009-05-28T07:46:18Z,Confluence Results for a Quantum Lambda Calculus with Measurements,Margherita Zorzi,cs.LO,http://arxiv.org/pdf/0905.4567v1
+0905.4612v2,2009-05-28T11:13:58Z,Straight-line instruction sequence completeness for total calculation on   cancellation meadows,Inge Bethke,cs.LO,http://arxiv.org/pdf/0905.4612v2
+0905.4905v1,2009-05-29T15:43:32Z,Aspects Regarding Operations with Fuzzy Processes,Lucian L. Luca,cs.LO,http://arxiv.org/pdf/0905.4905v1
+0905.4906v1,2009-05-29T15:47:17Z,On Some Manipulations with Fuzzy Processes,Lucian L. Luca,cs.LO,http://arxiv.org/pdf/0905.4906v1
+0906.2521v1,2009-06-14T09:20:10Z,On the Complexity of Branching-Time Logics,Volker Weber,cs.LO,http://arxiv.org/pdf/0906.2521v1
+0906.2541v1,2009-06-14T14:35:09Z,On the Hybrid Extension of CTL and CTL+,Volker Weber,cs.LO,http://arxiv.org/pdf/0906.2541v1
+0906.2866v1,2009-06-16T08:33:18Z,"Predicate Transformers, (co)Monads and Resolutions",Pierre Hyvernat,cs.LO,http://arxiv.org/pdf/0906.2866v1
+0906.3257v1,2009-06-17T17:19:05Z,Busy beavers gone wild,Grégory Lafitte,cs.LO,http://arxiv.org/pdf/0906.3257v1
+0906.3994v1,2009-06-22T13:02:27Z,Quantitative testing semantics for non-interleaving,Emmanuel Beffara,cs.LO,http://arxiv.org/pdf/0906.3994v1
+0906.4173v1,2009-06-23T06:28:55Z,On the relation between size-based termination and semantic labelling,Cody Roux,cs.LO,http://arxiv.org/pdf/0906.4173v1
+0906.4315v3,2009-06-23T17:10:42Z,Knowledge-Based Synthesis of Distributed Systems Using Event Structures,Sabina Petride,cs.LO,http://arxiv.org/pdf/0906.4315v3
+0906.4492v1,2009-06-24T14:47:01Z,Efficient Generation of Craig Interpolants in Satisfiability Modulo   Theories,Roberto Sebastiani,cs.LO,http://arxiv.org/pdf/0906.4492v1
+0906.4711v4,2009-06-25T15:04:50Z,On Relaxing Metric Information in Linear Temporal Logic,Paola Spoletini,cs.LO,http://arxiv.org/pdf/0906.4711v4
+0907.0403v1,2009-07-02T15:19:22Z,Common Knowledge in Interaction Structures,Jonathan A. Zvesper,cs.LO,http://arxiv.org/pdf/0907.0403v1
+0907.1357v1,2009-07-08T08:32:57Z,Graph Based Reduction of Program Verification Conditions,Nicolas Stouls,cs.LO,http://arxiv.org/pdf/0907.1357v1
+0907.1540v1,2009-07-09T13:29:25Z,Testing Probabilistic Processes: Can Random Choices Be Unobservable?,Suzana Andova,cs.LO,http://arxiv.org/pdf/0907.1540v1
+0907.3123v1,2009-07-17T17:40:04Z,Verification of Timed Automata Using Rewrite Rules and Strategies,Claude Kirchner,cs.LO,http://arxiv.org/pdf/0907.3123v1
+0907.3226v2,2009-07-18T15:27:45Z,From Causal Semantics To Duration Timed Models,Walid Belkhir,cs.LO,http://arxiv.org/pdf/0907.3226v2
+0907.3230v1,2009-07-20T15:06:12Z,Infinite Oracle Queries in Type-2 Machines (Extended Abstract),Arno Pauly,cs.LO,http://arxiv.org/pdf/0907.3230v1
+0907.3599v1,2009-07-21T09:58:12Z,Gentzen-Prawitz Natural Deduction as a Teaching Tool,Michaël Périn,cs.LO,http://arxiv.org/pdf/0907.3599v1
+0907.4531v1,2009-07-27T17:36:16Z,Clone Theory and Algebraic Logic,Zhaohua Luo,cs.LO,http://arxiv.org/pdf/0907.4531v1
+0907.5074v1,2009-07-29T09:21:45Z,Integrated Modeling and Verification of Real-Time Systems through   Multiple Paradigms,Matteo Rossi,cs.LO,http://arxiv.org/pdf/0907.5074v1
+0907.5125v1,2009-07-29T13:34:50Z,Rewrite based Verification of XML Updates,Michael Rusinowitch,cs.LO,http://arxiv.org/pdf/0907.5125v1
+0908.0494v1,2009-08-04T17:01:24Z,A Formalization of the Semantics of Functional-Logic Programming in   Isabelle,Juan Rodríguez Hortalá,cs.LO,http://arxiv.org/pdf/0908.0494v1
+0908.1390v3,2009-08-10T20:36:43Z,Nominal Abstraction,Gopalan Nadathur,cs.LO,http://arxiv.org/pdf/0908.1390v3
+0908.2793v2,2009-08-19T17:59:03Z,Applications of Metric Coinduction,Nicholas Ruozzi,cs.LO,http://arxiv.org/pdf/0908.2793v2
+0909.0171v2,2009-09-01T12:49:20Z,Canonical extension and canonicity via DCPO presentations,Jacob Vosmaer,cs.LO,http://arxiv.org/pdf/0909.0171v2
+0909.1198v2,2009-09-07T10:16:20Z,A rich hierarchy of functionals of finite types,Dag Normann,cs.LO,http://arxiv.org/pdf/0909.1198v2
+0909.1645v3,2009-09-09T07:47:28Z,Qualitative Analysis of Partially-observable Markov Decision Processes,Thomas A. Henzinger,cs.LO,http://arxiv.org/pdf/0909.1645v3
+0909.1647v1,2009-09-09T08:12:39Z,Probabilistic Weighted Automata,Thomas A. Henzinger,cs.LO,http://arxiv.org/pdf/0909.1647v1
+0909.4637v1,2009-09-25T08:45:19Z,A Better Reduction Theorem for Store Buffers,Norbert Schirmer,cs.LO,http://arxiv.org/pdf/0909.4637v1
+0909.5045v1,2009-09-28T09:26:11Z,Deriving SN from PSN: a general proof technique,Emmanuel Polonowski,cs.LO,http://arxiv.org/pdf/0909.5045v1
+0909.5393v1,2009-09-29T17:37:34Z,Formal Verification of Full-Wave Rectifier: A Case Study,H S Jamadagni,cs.LO,http://arxiv.org/pdf/0909.5393v1
+0911.0105v1,2009-10-31T23:17:49Z,Functions Definable by Numerical Set-Expressions,Ivo Düntsch,cs.LO,http://arxiv.org/pdf/0911.0105v1
+0911.1009v1,2009-11-05T10:59:16Z,Unique Normal Forms in Infinitary Weakly Orthogonal Term Rewriting,Jan Willem Klop,cs.LO,http://arxiv.org/pdf/0911.1009v1
+0911.1862v1,2009-11-10T09:14:55Z,Characteristic Formulae for Fixed-Point Semantics: A General Framework,Joshua Sack,cs.LO,http://arxiv.org/pdf/0911.1862v1
+0911.2035v1,2009-11-11T00:57:55Z,Modal Logic and the Approximation Induction Principle,Wan Fokkink,cs.LO,http://arxiv.org/pdf/0911.2035v1
+0911.2319v1,2009-11-12T08:36:43Z,Orthomodular Lattices Induced by the Concurrency Relation,Stefania Rombolà,cs.LO,http://arxiv.org/pdf/0911.2319v1
+0911.2760v1,2009-11-15T09:26:28Z,Robustness of a bisimulation-type faster-than preorder,Walter Vogler,cs.LO,http://arxiv.org/pdf/0911.2760v1
+0911.2785v1,2009-11-14T17:20:30Z,NP Datalog: a Logic Language for Expressing NP Search and Optimization   Problems,Ester Zumpano,cs.LO,http://arxiv.org/pdf/0911.2785v1
+0911.3189v1,2009-11-17T00:35:52Z,Proceedings 16th International Workshop on Expressiveness in Concurrency,Daniele Gorla,cs.LO,http://arxiv.org/pdf/0911.3189v1
+0911.3299v1,2009-11-17T13:21:31Z,Some Models and Tools for Open Systems,Marco Faella,cs.LO,http://arxiv.org/pdf/0911.3299v1
+0911.3405v1,2009-11-17T23:40:50Z,Dense-choice Counter Machines revisited,Pierluigi San Pietro,cs.LO,http://arxiv.org/pdf/0911.3405v1
+0911.3786v3,2009-11-19T12:54:50Z,Graph rewriting with polarized cloning,Frédéric Prost,cs.LO,http://arxiv.org/pdf/0911.3786v3
+0911.3799v3,2009-11-19T14:29:45Z,Capturing Polynomial Time on Interval Graphs,Bastian Laubner,cs.LO,http://arxiv.org/pdf/0911.3799v3
+0911.4792v1,2009-11-25T10:43:38Z,Covering of ordinals,Laurent Braud,cs.LO,http://arxiv.org/pdf/0911.4792v1
+0911.5246v2,2009-11-27T11:43:04Z,Complex Algebras of Arithmetic,Ian Pratt-Hartmann,cs.LO,http://arxiv.org/pdf/0911.5246v2
+0911.5445v1,2009-11-29T00:22:21Z,Coordination via Interaction Constraints I: Local Logic,José Proença,cs.LO,http://arxiv.org/pdf/0911.5445v1
+0911.5447v1,2009-11-29T00:27:28Z,Integrated Structure and Semantics for Reo Connectors and Petri Nets,Christian Krause,cs.LO,http://arxiv.org/pdf/0911.5447v1
+0911.5525v1,2009-11-29T23:14:32Z,Towards an embedding of Graph Transformation in Intuitionistic Linear   Logic,Reiko Heckel,cs.LO,http://arxiv.org/pdf/0911.5525v1
+0911.5642v2,2009-11-30T13:51:26Z,A Theory of Sampling for Continuous-time Metric Temporal Logic,Matteo Rossi,cs.LO,http://arxiv.org/pdf/0911.5642v2
+0912.0228v3,2009-12-01T18:40:19Z,Cantor's Problem,Charles Sauerbier,cs.LO,http://arxiv.org/pdf/0912.0228v3
+0912.0419v1,2009-12-02T12:55:11Z,An affine-intuitionistic system of types and effects: confluence and   termination,Antoine Madet,cs.LO,http://arxiv.org/pdf/0912.0419v1
+0912.0931v3,2009-12-04T20:36:49Z,"Orthomodular lattices, Foulis Semigroups and Dagger Kernel Categories",Bart Jacobs,cs.LO,http://arxiv.org/pdf/0912.0931v3
+0912.1900v1,2009-12-10T01:51:26Z,Quantitative Safety: Linking Proof-Based Verification with Model   Checking for Probabilistic Systems,Ukachukwu Ndukwu,cs.LO,http://arxiv.org/pdf/0912.1900v1
+0912.2109v2,2009-12-10T21:20:20Z,Computation Tree Logic with Deadlock Detection,Nikola Trcka,cs.LO,http://arxiv.org/pdf/0912.2109v2
+0912.3429v2,2009-12-17T15:22:45Z,Decidability of the interval temporal logic ABBar over the natural   numbers,G. Sciavicco,cs.LO,http://arxiv.org/pdf/0912.3429v2
+0912.4023v1,2009-12-20T15:18:05Z,"Configuration Structures, Event Structures and Petri Nets",G. D. Plotkin,cs.LO,http://arxiv.org/pdf/0912.4023v1
+0912.4184v1,2009-12-21T15:02:41Z,Scope Logic: Extending Hoare Logic for Pointer Program Verification,Xuandong Li,cs.LO,http://arxiv.org/pdf/0912.4184v1
+0912.4947v3,2009-12-30T19:25:59Z,Infinitary Combinatory Reduction Systems: Normalising Reduction   Strategies,Jakob Grue Simonsen,cs.LO,http://arxiv.org/pdf/0912.4947v3
+0912.5014v1,2009-12-26T12:40:29Z,A User's Guide to Zot,Matteo Pradella,cs.LO,http://arxiv.org/pdf/0912.5014v1
+0912.5515v2,2009-12-30T18:58:19Z,LoopW Technical Reference v0.3,Emmanuel Polonowski,cs.LO,http://arxiv.org/pdf/0912.5515v2
+1001.2100v2,2010-01-13T16:21:06Z,What's Decidable About Sequences?,Carlo A. Furia,cs.LO,http://arxiv.org/pdf/1001.2100v2
+1001.2175v2,2010-01-13T14:21:36Z,Weighted Logics for Nested Words and Algebraic Formal Power Series,Christian Mathissen,cs.LO,http://arxiv.org/pdf/1001.2175v2
+1001.2811v2,2010-01-16T08:32:17Z,Synthesis of AMBA AHB from Formal Specification,Thomas A. Henzinger,cs.LO,http://arxiv.org/pdf/1001.2811v2
+1001.3219v1,2010-01-19T08:23:54Z,A finiteness structure on resource terms,Thomas Ehrhard,cs.LO,http://arxiv.org/pdf/1001.3219v1
+1001.3464v1,2010-01-20T17:52:02Z,Formalizing cCSP Synchronous Semantics in PVS,Michael Butler,cs.LO,http://arxiv.org/pdf/1001.3464v1
+1001.4021v1,2010-01-22T16:05:07Z,A Minimal Propositional Type Theory,Gert Smolka,cs.LO,http://arxiv.org/pdf/1001.4021v1
+1001.4429v1,2010-01-25T13:59:29Z,Superdevelopments for Weak Reduction,Pablo Barenbaum,cs.LO,http://arxiv.org/pdf/1001.4429v1
+1001.4437v1,2010-01-25T14:14:03Z,Extending Context-Sensitivity in Term Rewriting,Felix Schernhammer,cs.LO,http://arxiv.org/pdf/1001.4437v1
+1002.0172v2,2010-02-01T02:06:47Z,Optimal and Cut-free Tableaux for Propositional Dynamic Logic with   Converse,Florian Widmann,cs.LO,http://arxiv.org/pdf/1002.0172v2
+1002.1796v1,2010-02-09T08:46:24Z,Refinement and Verification of Real-Time Systems,Dino Mandrioli,cs.LO,http://arxiv.org/pdf/1002.1796v1
+1002.2578v1,2010-02-12T15:49:51Z,Modular Construction of Fixed Point Combinators and Clocked Boehm Trees,Jan Willem Klop,cs.LO,http://arxiv.org/pdf/1002.2578v1
+1002.2864v1,2010-02-15T12:08:08Z,A Bisimulation-based Method for Proving the Validity of Equations in   GSOS Languages,Anna Ingolfsdottir,cs.LO,http://arxiv.org/pdf/1002.2864v1
+1002.2867v1,2010-02-15T12:30:43Z,A Fully Abstract Symbolic Semantics for Psi-Calculi,Joachim Parrow,cs.LO,http://arxiv.org/pdf/1002.2867v1
+1002.2869v1,2010-02-15T12:38:56Z,On Barbs and Labels in Reactive Systems,Giacoma Valentina Monreale,cs.LO,http://arxiv.org/pdf/1002.2869v1
+1002.2871v1,2010-02-15T12:43:41Z,Reverse Bisimulations on Stable Configuration Structures,Irek Ulidowski,cs.LO,http://arxiv.org/pdf/1002.2871v1
+1002.3083v1,2010-02-16T14:09:43Z,L2C2: Logic-based LSC Consistency Checking,Mahadevan Subramaniam,cs.LO,http://arxiv.org/pdf/1002.3083v1
+1002.3131v2,2010-02-16T19:20:03Z,The relational model is injective for Multiplicative Exponential Linear   Logic (without weakenings),Lorenzo Tortora de Falco,cs.LO,http://arxiv.org/pdf/1002.3131v2
+1002.3222v1,2010-02-17T08:15:12Z,Structural Analysis of Boolean Equation Systems,Tim A. C. Willemse,cs.LO,http://arxiv.org/pdf/1002.3222v1
+1002.4334v2,2010-02-23T15:57:36Z,On Semantic Generalizations of the Bernays-Schönfinkel-Ramsey Class   with Finite or Co-finite Spectra,Supratik Chakraborty,cs.LO,http://arxiv.org/pdf/1002.4334v2
+1002.4535v1,2010-02-24T12:27:21Z,Proceedings of the 19th Workshop on Logic-based methods in Programming   Environments (WLPE 2009),John Gallagher,cs.LO,http://arxiv.org/pdf/1002.4535v1
+1002.4616v2,2010-02-24T20:33:57Z,Robust Vacuity for Branching Temporal Logic,Marsha Chechik,cs.LO,http://arxiv.org/pdf/1002.4616v2
+1004.1077v3,2010-04-07T12:58:32Z,Bounded Reachability for Temporal Logic over Constraint Systems,Pierluigi San Pietro,cs.LO,http://arxiv.org/pdf/1004.1077v3
+1004.1947v2,2010-04-12T13:09:24Z,Analytic Tableaux for Simple Type Theory and its First-Order Fragment,Gert Smolka,cs.LO,http://arxiv.org/pdf/1004.1947v2
+1004.2367v1,2010-04-14T10:40:01Z,GIST: A Solver for Probabilistic Games,Arjun Radhakrishna,cs.LO,http://arxiv.org/pdf/1004.2367v1
+1004.2436v1,2010-04-13T18:43:00Z,Some Mathematicians Are Not Turing Machines,Evgeny Chutchev,cs.LO,http://arxiv.org/pdf/1004.2436v1
+1004.2717v2,2010-04-15T21:16:32Z,Completeness of Flat Coalgebraic Fixpoint Logics,Yde Venema,cs.LO,http://arxiv.org/pdf/1004.2717v2
+1004.2780v1,2010-04-16T08:21:27Z,A Geometric Approach to the Problem of Unique Decomposition of Processes,Emmanuel Haucourt,cs.LO,http://arxiv.org/pdf/1004.2780v1
+1004.2802v4,2010-04-16T09:39:33Z,Forward Analysis and Model Checking for Trace Bounded WSTS,Sylvain Schmitz,cs.LO,http://arxiv.org/pdf/1004.2802v4
+1004.4998v1,2010-04-28T11:04:47Z,Computing in Coq with Infinite Algebraic Data Structures,Julio Rubio,cs.LO,http://arxiv.org/pdf/1004.4998v1
+1004.5382v1,2010-04-29T20:01:33Z,Interface Building for Software by Modular Three-Valued Abstraction   Refinement,Pritam Roy,cs.LO,http://arxiv.org/pdf/1004.5382v1
+1007.0134v1,2010-07-01T11:41:21Z,Detecting Inconsistencies in Large Biological Networks with Answer Set   Programming,Philippe Veber,cs.LO,http://arxiv.org/pdf/1007.0134v1
+1007.0523v1,2010-07-04T02:35:47Z,Simulation-Checking of Real-Time Systems with Fairness Assumptions,Farn Wang,cs.LO,http://arxiv.org/pdf/1007.0523v1
+1007.0779v1,2010-07-05T22:19:31Z,Redundancies in Dependently Typed Lambda Calculi and Their Relevance to   Proof Search,Gopalan Nadathur,cs.LO,http://arxiv.org/pdf/1007.0779v1
+1007.0788v1,2010-07-06T00:35:35Z,A Geometric Presentation of Probabilistic Satisfiability,Guillermo Morales-Luna,cs.LO,http://arxiv.org/pdf/1007.0788v1
+1007.1020v1,2010-07-07T00:12:50Z,Handling software upgradeability problems with MILP solvers,Michel Rueher,cs.LO,http://arxiv.org/pdf/1007.1020v1
+1007.1021v1,2010-07-07T00:12:57Z,Solving Linux Upgradeability Problems Using Boolean Optimization,Pascal Rapicault,cs.LO,http://arxiv.org/pdf/1007.1021v1
+1007.1785v2,2010-07-11T16:31:48Z,Interactive Learning-Based Realizability for Heyting Arithmetic with EM1,Stefano Berardi,cs.LO,http://arxiv.org/pdf/1007.1785v2
+1007.2816v2,2010-07-16T17:07:25Z,Trichotomy and Dichotomy Results on the Complexity of Reasoning with   Disjunctive Logic Programs,Miroslaw Truszczynski,cs.LO,http://arxiv.org/pdf/1007.2816v2
+1007.3350v1,2010-07-20T06:39:28Z,Formal study of plane Delaunay triangulation,Yves Bertot,cs.LO,http://arxiv.org/pdf/1007.3350v1
+1007.3569v1,2010-07-21T07:11:17Z,Making Abstraction Refinement Efficient in Model Checking,Zhenhua Duan,cs.LO,http://arxiv.org/pdf/1007.3569v1
+1007.3712v1,2010-07-21T18:39:57Z,Formal Verification of Self-Assembling Systems,Aaron Sterling,cs.LO,http://arxiv.org/pdf/1007.3712v1
+1007.3769v3,2010-07-21T21:57:36Z,Non-Deterministic Kleene Coalgebras,Jan Rutten,cs.LO,http://arxiv.org/pdf/1007.3769v3
+1007.3819v1,2010-07-22T08:05:56Z,FO(FD): Extending classical logic with rule-based fixpoint definitions,Marc Denecker,cs.LO,http://arxiv.org/pdf/1007.3819v1
+1007.3829v1,2010-07-22T08:41:47Z,A Complete and Terminating Execution Model for Constraint Handling Rules,Thom Frühwirth,cs.LO,http://arxiv.org/pdf/1007.3829v1
+1007.4018v2,2010-07-22T22:13:12Z,Expressiveness and Closure Properties for Quantitative Languages,Thomas A Henzinger,cs.LO,http://arxiv.org/pdf/1007.4018v2
+1007.4028v1,2010-07-22T23:54:51Z,Disjunctive ASP with Functions: Decidable Queries and Effective   Computation,Nicola Leone,cs.LO,http://arxiv.org/pdf/1007.4028v1
+1007.4114v1,2010-07-23T12:37:00Z,A Translational Approach to Constraint Answer Set Solving,Toby Walsh,cs.LO,http://arxiv.org/pdf/1007.4114v1
+1007.4172v1,2010-07-23T16:45:45Z,Breaking Symmetries,Uwe Nestmann,cs.LO,http://arxiv.org/pdf/1007.4172v1
+1007.4266v2,2010-07-24T11:12:56Z,Initial Algebra Semantics for Cyclic Sharing Tree Structures,Makoto Hamana,cs.LO,http://arxiv.org/pdf/1007.4266v2
+1007.4476v1,2010-07-26T14:50:36Z,Decidability properties for fragments of CHR,Jon Sneyers,cs.LO,http://arxiv.org/pdf/1007.4476v1
+1007.4764v3,2010-07-27T16:11:01Z,Propositional Dynamic Logic for Message-Passing Systems,Ingmar Meinecke,cs.LO,http://arxiv.org/pdf/1007.4764v3
+1007.4971v1,2010-07-28T13:43:10Z,The System Kato: Detecting Cases of Plagiarism for Answer-Set Programs,Hans Tompits,cs.LO,http://arxiv.org/pdf/1007.4971v1
+1007.5188v1,2010-07-29T11:37:15Z,Characterising Probabilistic Processes Logically,Rob van Glabbeek,cs.LO,http://arxiv.org/pdf/1007.5188v1
+1007.5488v1,2010-07-30T16:19:23Z,On CSP and the Algebraic Theory of Effects,Gordon Plotkin,cs.LO,http://arxiv.org/pdf/1007.5488v1
+1007.5491v1,2010-07-30T16:34:46Z,The Coarsest Precongruences Respecting Safety and Liveness Properties,Rob van Glabbeek,cs.LO,http://arxiv.org/pdf/1007.5491v1
+1008.1213v2,2010-08-03T15:42:42Z,Classical Mathematics for a Constructive World,Russell O'Connor,cs.LO,http://arxiv.org/pdf/1008.1213v2
+1008.1809v1,2010-08-10T21:29:13Z,Symmetry-breaking Answer Set Solving,Toby Walsh,cs.LO,http://arxiv.org/pdf/1008.1809v1
+1008.2021v1,2010-08-11T22:10:46Z,A Single-Instance Incremental SAT Formulation of Proof- and   Counterexample-Based Abstraction,Nina Amla,cs.LO,http://arxiv.org/pdf/1008.2021v1
+1008.2109v1,2010-08-12T13:42:26Z,Congruence from the Operator's Point of View: Compositionality   Requirements on Process Semantics,Wan Fokkink,cs.LO,http://arxiv.org/pdf/1008.2109v1
+1008.2111v1,2010-08-12T13:42:44Z,Structural Decomposition of Reactions of Graph-Like Objects,Tobias Heindel,cs.LO,http://arxiv.org/pdf/1008.2111v1
+1008.5029v1,2010-08-30T09:21:53Z,Reformulation of Global Constraints in Answer Set Programming,Toby Walsh,cs.LO,http://arxiv.org/pdf/1008.5029v1
+1008.5033v1,2010-08-30T09:45:14Z,Symmetry Breaking for Answer Set Programming,Christian Drescher,cs.LO,http://arxiv.org/pdf/1008.5033v1
+1009.1076v2,2010-09-06T15:08:07Z,The General Vector Addition System Reachability Problem by Presburger   Inductive Invariants,leroux jerome,cs.LO,http://arxiv.org/pdf/1009.1076v2
+1009.2259v1,2010-09-12T19:11:05Z,Theory of processes,Andrew M. Mironov,cs.LO,http://arxiv.org/pdf/1009.2259v1
+1009.2790v1,2010-09-14T21:33:30Z,Generating Bijections between HOAS and the Natural Numbers,John Tang Boyland,cs.LO,http://arxiv.org/pdf/1009.2790v1
+1009.2792v1,2010-09-14T21:33:39Z,Pure Type Systems without Explicit Contexts,Freek Wiedijk,cs.LO,http://arxiv.org/pdf/1009.2792v1
+1009.2794v1,2010-09-14T21:33:49Z,Representing Isabelle in LF,Florian Rabe,cs.LO,http://arxiv.org/pdf/1009.2794v1
+1009.2795v1,2010-09-14T21:33:54Z,Pattern Unification for the Lambda Calculus with Linear and Affine Types,Carsten Schürmann,cs.LO,http://arxiv.org/pdf/1009.2795v1
+1009.2893v2,2010-09-15T10:30:50Z,On Second-Order Monadic Monoidal and Groupoidal Quantifiers,Heribert Vollmer,cs.LO,http://arxiv.org/pdf/1009.2893v2
+1009.3391v3,2010-09-17T10:30:14Z,Fuzzy Ontology Representation using OWL 2,Umberto Straccia,cs.LO,http://arxiv.org/pdf/1009.3391v3
+1009.3429v3,2010-09-17T14:09:12Z,Semantics of Typed Lambda-Calculus with Constructors,Barbara Petit,cs.LO,http://arxiv.org/pdf/1009.3429v3
+1009.3765v1,2010-09-20T10:43:19Z,A Test Automation Framework for Mercury,Wim Vanhoof,cs.LO,http://arxiv.org/pdf/1009.3765v1
+1009.3798v2,2010-09-20T12:45:09Z,DNF Sampling for ProbLog Inference,Gerda Janssens,cs.LO,http://arxiv.org/pdf/1009.3798v2
+1009.3982v1,2010-09-21T02:19:53Z,Proceedings First International Workshop on Rewriting Techniques for   Real-Time Systems,Peter Csaba Ölveczky,cs.LO,http://arxiv.org/pdf/1009.3982v1
+1009.4264v1,2010-09-22T04:02:44Z,Model Checking Classes of Metric LTL Properties of Object-Oriented   Real-Time Maude Specifications,Erika Ábrahám,cs.LO,http://arxiv.org/pdf/1009.4264v1
+1009.4265v1,2010-09-22T04:02:51Z,Specification and Verification of Distributed Embedded Systems: A   Traffic Intersection Product Family,José Meseguer,cs.LO,http://arxiv.org/pdf/1009.4265v1
+1009.4400v2,2010-09-22T15:59:53Z,Game semantics for first-order logic,Olivier Laurent,cs.LO,http://arxiv.org/pdf/1009.4400v2
+1009.4601v1,2010-09-22T04:02:38Z,Using the PALS Architecture to Verify a Distributed Topology Control   Protocol for Wireless Multi-Hop Networks in the Presence of Node Failures,José Meseguer,cs.LO,http://arxiv.org/pdf/1009.4601v1
+1009.5206v2,2010-09-27T09:58:46Z,The complexity of linear-time temporal logic over the class of ordinals,Alexander Rabinovich,cs.LO,http://arxiv.org/pdf/1009.5206v2
+1009.6171v1,2010-09-30T15:41:34Z,Cut Elimination for a Logic with Induction and Co-induction,Alberto Momigliano,cs.LO,http://arxiv.org/pdf/1009.6171v1
+1010.0201v2,2010-10-01T16:34:32Z,The complexity of global cardinality constraints,Daniel Marx,cs.LO,http://arxiv.org/pdf/1010.0201v2
+1010.0225v2,2010-10-01T18:02:05Z,Characterizing perfect recall using next-step temporal operators in S5   and sub-S5 Epistemic Temporal Logic,Andreas Witzel,cs.LO,http://arxiv.org/pdf/1010.0225v2
+1010.1066v2,2010-10-06T05:33:18Z,An Explicit Framework for Interaction Nets,Marc de Falco,cs.LO,http://arxiv.org/pdf/1010.1066v2
+1010.1139v1,2010-10-06T12:46:33Z,Temporal Logics on Words with Multiple Data Values,Thomas Zeume,cs.LO,http://arxiv.org/pdf/1010.1139v1
+1010.1872v2,2010-10-09T21:04:26Z,Backward Reachability of Array-based Systems by SMT solving: Termination   and Invariant Synthesis,Silvio Ranise,cs.LO,http://arxiv.org/pdf/1010.1872v2
+1010.4422v3,2010-10-21T10:54:34Z,Efficient Interpolant Generation in Satisfiability Modulo Linear Integer   Arithmetic,Roberto Sebastiani,cs.LO,http://arxiv.org/pdf/1010.4422v3
+1010.4529v1,2010-10-21T17:30:06Z,The Last Paper on the Halpern-Shoham Interval Temporal Logic,Jakub Michaliszyn,cs.LO,http://arxiv.org/pdf/1010.4529v1
+1010.5565v1,2010-10-27T05:04:07Z,Port Protocols for Deadlock-Freedom of Component Systems,Mila Majster-Cederbaum,cs.LO,http://arxiv.org/pdf/1010.5565v1
+1010.5572v1,2010-10-27T05:04:44Z,A theory of desynchronisable closed loop system,Pieter Cuijpers,cs.LO,http://arxiv.org/pdf/1010.5572v1
+1010.5665v1,2010-10-27T12:12:12Z,Safety-Guarantee Controller Synthesis for Cyber-Physical Systems,Rupak Majumdar,cs.LO,http://arxiv.org/pdf/1010.5665v1
+1011.0399v1,2010-11-01T18:06:29Z,Functional Dependence of Secrets in a Collaboration Network,Pavel Naumov,cs.LO,http://arxiv.org/pdf/1011.0399v1
+1011.0447v2,2010-11-01T20:50:14Z,Finite Model Finding for Parameterized Verification,Alexei Lisitsa,cs.LO,http://arxiv.org/pdf/1011.0447v2
+1011.0688v2,2010-11-02T18:01:15Z,Timed Parity Games: Complexity and Robustness,Vinayak S. Prabhu,cs.LO,http://arxiv.org/pdf/1011.0688v2
+1011.1036v1,2010-11-03T23:49:15Z,Beyond Quantifier-Free Interpolation in Extensions of Presburger   Arithmetic (Extended Technical Report),Thomas Wahl,cs.LO,http://arxiv.org/pdf/1011.1036v1
+1011.1172v1,2010-11-04T14:31:46Z,Logics and Games for True Concurrency,Julian Gutierrez,cs.LO,http://arxiv.org/pdf/1011.1172v1
+1011.1321v1,2010-11-05T04:28:32Z,Probabilistic Model Checking for Propositional Projection Temporal Logic,Xiaoxiao Yang,cs.LO,http://arxiv.org/pdf/1011.1321v1
+1011.1335v1,2010-11-05T07:54:47Z,A short proof that adding some permutation rules to $β$ preserves   $SN$,Rene David,cs.LO,http://arxiv.org/pdf/1011.1335v1
+1011.1625v2,2010-11-07T09:01:17Z,On the meaning of logical completeness,Kazushige Terui,cs.LO,http://arxiv.org/pdf/1011.1625v2
+1011.2307v1,2010-11-10T08:28:06Z,What is a categorical model of the differential and the resource   lambda-calculi?,Manzonetto Giulio,cs.LO,http://arxiv.org/pdf/1011.2307v1
+1011.2560v1,2010-11-11T05:45:44Z,Verifying Safety Properties With the TLA+ Proof System,Stephan Merz,cs.LO,http://arxiv.org/pdf/1011.2560v1
+1011.2896v2,2010-11-12T12:41:28Z,Reducing Higher Order Pi-Calculus to Spatial Logics,Zining Cao,cs.LO,http://arxiv.org/pdf/1011.2896v2
+1011.2973v1,2010-11-12T16:18:41Z,The Hamiltonian Syllogistic,Ian Pratt-Hartmann,cs.LO,http://arxiv.org/pdf/1011.2973v1
+1011.3362v1,2010-11-15T12:39:26Z,Bisimulations for Nondeterministic Labeled Markov Processes,Nicolás Wolovick,cs.LO,http://arxiv.org/pdf/1011.3362v1
+1011.3479v2,2010-11-15T19:22:18Z,Generic Modal Cut Elimination Applied to Conditional Logics,Lutz Schröder,cs.LO,http://arxiv.org/pdf/1011.3479v2
+1011.3542v3,2010-11-15T22:44:05Z,Linearity in the non-deterministic call-by-value setting,Barbara Petit,cs.LO,http://arxiv.org/pdf/1011.3542v3
+1011.3668v4,2010-11-16T12:13:16Z,Linear lambda Calculus with Explicit Substitutions as Proof-Search in   Deep Inference,Luca Roversi,cs.LO,http://arxiv.org/pdf/1011.3668v4
+1011.3964v1,2010-11-17T14:11:53Z,Decision Problems for Petri Nets with Names,David de Frutos-Escrig,cs.LO,http://arxiv.org/pdf/1011.3964v1
+1011.4377v1,2010-11-19T10:01:17Z,Dynamic Magic Sets for Super-Consistent Answer Set Programs,Wolfgang Faber,cs.LO,http://arxiv.org/pdf/1011.4377v1
+1011.4384v2,2010-11-19T10:26:36Z,On Constructive Connectives and Systems,Ori Lahav,cs.LO,http://arxiv.org/pdf/1011.4384v2
+1011.5894v1,2010-11-25T22:04:45Z,An Optimization for Reasoning with Forest Logic Programs,Stijn Heymans,cs.LO,http://arxiv.org/pdf/1011.5894v1
+1011.6012v1,2010-11-28T03:07:57Z,Proceedings 17th International Workshop on Expressiveness in Concurrency,Frank D. Valencia,cs.LO,http://arxiv.org/pdf/1011.6012v1
+1011.6433v1,2010-11-30T01:37:56Z,A Process Calculus for Expressing Finite Place/Transition Petri Nets,Cristian Versari,cs.LO,http://arxiv.org/pdf/1011.6433v1
+1011.6434v1,2010-11-30T01:37:59Z,Models for CSP with availability information,Gavin Lowe,cs.LO,http://arxiv.org/pdf/1011.6434v1
+1011.6435v1,2010-11-30T01:38:03Z,Robustness of Equations Under Operational Extensions,Michel A. Reniers,cs.LO,http://arxiv.org/pdf/1011.6435v1
+1011.6437v1,2010-11-30T01:38:14Z,Breaking Symmetries,Uwe Nestmann,cs.LO,http://arxiv.org/pdf/1011.6437v1
+1011.6438v1,2010-11-30T01:39:19Z,Process Behaviour: Formulae vs. Tests (Extended Abstract),Matthew Hennessy,cs.LO,http://arxiv.org/pdf/1011.6438v1
+1011.6496v1,2010-11-30T09:34:28Z,A Calculus of Consistent Component-based Software Updates,Junqing Chen,cs.LO,http://arxiv.org/pdf/1011.6496v1
+1012.0746v3,2010-12-03T14:19:17Z,Terminating Tableaux for Graded Hybrid Logic with Global Modalities and   Role Hierarchies,Gert Smolka,cs.LO,http://arxiv.org/pdf/1012.0746v3
+1012.1174v2,2010-12-06T14:10:29Z,Functional Interpretations of Intuitionistic Linear Logic,Paulo Oliva,cs.LO,http://arxiv.org/pdf/1012.1174v2
+1012.2553v1,2010-12-12T16:12:57Z,Scope Logic with Local Reasoning and Pre/Post-State Properties,Xuandong Li,cs.LO,http://arxiv.org/pdf/1012.2553v1
+1012.2995v1,2010-12-14T11:12:36Z,A Proof Carrying Code Framework for Inlined Reference Monitors in Java   Bytecode,Andreas Lundblad,cs.LO,http://arxiv.org/pdf/1012.2995v1
+1012.3040v1,2010-12-13T05:43:51Z,Numerically Representing A Stochastic Process Algebra,Jane Hillston,cs.LO,http://arxiv.org/pdf/1012.3040v1
+1012.3372v2,2010-12-15T16:04:02Z,A Focused Sequent Calculus Framework for Proof Search in Pure Type   Systems,James McKinna,cs.LO,http://arxiv.org/pdf/1012.3372v2
+1012.3704v1,2010-12-16T18:10:26Z,A Decidable Timeout based Extension of Propositional Linear Temporal   Logic,Suman Roy,cs.LO,http://arxiv.org/pdf/1012.3704v1
+1012.4032v4,2010-12-17T23:09:28Z,A Type System for the Vectorial Aspect of the Linear-Algebraic   Lambda-Calculus,Benoît Valiron,cs.LO,http://arxiv.org/pdf/1012.4032v4
+1012.4555v1,2010-12-21T07:10:03Z,Proceedings Workshop on Partiality and Recursion in Interactive Theorem   Provers,Milad Niqui,cs.LO,http://arxiv.org/pdf/1012.4555v1
+1012.4892v1,2010-12-22T07:07:52Z,A Machine Checked Model of Idempotent MGU Axioms For Lists of Equational   Constraints,James Caldwell,cs.LO,http://arxiv.org/pdf/1012.4892v1
+1012.4895v1,2010-12-22T07:09:04Z,Recursive Definitions of Monadic Functions,Alexander Krauss,cs.LO,http://arxiv.org/pdf/1012.4895v1
+1012.4897v1,2010-12-22T07:09:25Z,Rewriting and Well-Definedness within a Proof System,Michael Butler,cs.LO,http://arxiv.org/pdf/1012.4897v1
+1012.4899v1,2010-12-22T07:09:32Z,General Recursion and Formal Topology,Silvio Valentini,cs.LO,http://arxiv.org/pdf/1012.4899v1
+1012.5337v1,2010-12-24T03:28:30Z,"Proceedings International Workshop on Strategies in Rewriting, Proving,   and Programming",César Muñoz,cs.LO,http://arxiv.org/pdf/1012.5337v1
+1012.5439v2,2010-12-24T22:33:10Z,Extending Büchi Automata with Constraints on Data Values,Tony Tan,cs.LO,http://arxiv.org/pdf/1012.5439v2
+1012.5562v1,2010-12-27T06:30:17Z,Termination of Rewriting with and Automated Synthesis of Forbidden   Patterns,Felix Schernhammer,cs.LO,http://arxiv.org/pdf/1012.5562v1
+1012.5803v3,2010-12-28T17:33:09Z,Algebraic Notions of Termination,Struth Georg,cs.LO,http://arxiv.org/pdf/1012.5803v3
+1101.0082v1,2010-12-30T13:15:15Z,Probabilistic Dynamic Logic of Phenomena and Cognition,Stanislav Smerdov,cs.LO,http://arxiv.org/pdf/1101.0082v1
+1101.0112v4,2010-12-30T16:47:56Z,The degree structure of Weihrauch-reducibility,Arno Pauly,cs.LO,http://arxiv.org/pdf/1101.0112v4
+1101.0968v2,2011-01-05T13:45:07Z,Refinement Types as Higher Order Dependency Pairs,Cody Roux,cs.LO,http://arxiv.org/pdf/1101.0968v2
+1101.1379v1,2011-01-07T08:43:36Z,A Probabilistic Variant of Projection Temporal Logic,Xiaoxiao Yang,cs.LO,http://arxiv.org/pdf/1101.1379v1
+1101.1449v4,2011-01-07T15:19:10Z,Formal Theories for Linear Algebra,Lila A Fontes,cs.LO,http://arxiv.org/pdf/1101.1449v4
+1101.2162v3,2011-01-11T16:54:22Z,From coinductive proofs to exact real arithmetic: theory and   applications,Ulrich Berger,cs.LO,http://arxiv.org/pdf/1101.2162v3
+1101.2777v2,2011-01-14T11:54:31Z,Powermonads and Tensors of Unranked Effects,Lutz Schröder,cs.LO,http://arxiv.org/pdf/1101.2777v2
+1101.2798v1,2011-01-11T17:42:08Z,On Logical Extension of Algebraic Division,Mohammed Abubakr,cs.LO,http://arxiv.org/pdf/1101.2798v1
+1101.2999v1,2011-01-15T16:09:06Z,Generalizing Topology via Chu Spaces,Apostolos Syropoulos,cs.LO,http://arxiv.org/pdf/1101.2999v1
+1101.3132v1,2011-01-17T07:21:04Z,Reactive Valuations,Chris Regenboog,cs.LO,http://arxiv.org/pdf/1101.3132v1
+1101.3262v3,2011-01-17T16:47:54Z,Psi-calculi: a framework for mobile processes with nominal data and   logic,BjÃ¶rn Victor,cs.LO,http://arxiv.org/pdf/1101.3262v3
+1101.3417v3,2011-01-18T10:37:37Z,Categorical Abstract Rewriting Systems and Functoriality of Graph   Transformation,Frédéric Prost,cs.LO,http://arxiv.org/pdf/1101.3417v3
+1101.3694v2,2011-01-19T14:19:57Z,Model Checking of Continuous-Time Markov Chains Against Timed Automata   Specifications,Alexandru Mereacre,cs.LO,http://arxiv.org/pdf/1101.3694v2
+1101.4223v4,2011-01-21T20:10:30Z,Relating coalgebraic notions of bisimulation,Sam Staton,cs.LO,http://arxiv.org/pdf/1101.4223v4
+1101.4364v2,2011-01-23T12:21:44Z,Existential witness extraction in classical realizability and via a   negative translation,Alexandre Miquel,cs.LO,http://arxiv.org/pdf/1101.4364v2
+1101.4425v1,2011-01-24T01:39:31Z,Sound and Complete Typing for lambda-mu,Steffen van Bakel,cs.LO,http://arxiv.org/pdf/1101.4425v1
+1101.4465v1,2011-01-24T08:48:43Z,Extensional Collapse Situations I: non-termination and unrecoverable   errors,Antonio Bucciarelli,cs.LO,http://arxiv.org/pdf/1101.4465v1
+1101.4554v1,2011-01-24T14:50:57Z,Team-building with Answer Set Programming in the Gioia-Tauro Seaport,Nicola Leone,cs.LO,http://arxiv.org/pdf/1101.4554v1
+1101.4734v1,2011-01-25T06:57:56Z,A Few Considerations on Structural and Logical Composition in   Specification Theories,Andrzej Wąsowski,cs.LO,http://arxiv.org/pdf/1101.4734v1
+1101.5200v1,2011-01-27T03:03:07Z,Proceedings Third International Workshop on Classical Logic and   Computation,Ulrich Berger,cs.LO,http://arxiv.org/pdf/1101.5200v1
+1101.5441v1,2011-01-28T04:25:25Z,Interactive Learning Based Realizability and 1-Backtracking Games,Federico Aschieri,cs.LO,http://arxiv.org/pdf/1101.5441v1
+1101.5442v1,2011-01-28T04:25:33Z,On Various Negative Translations,Paulo Oliva,cs.LO,http://arxiv.org/pdf/1101.5442v1
+1101.5443v1,2011-01-28T04:25:40Z,Superdeduction in Lambda-Bar-Mu-Mu-Tilde,Clément Houtmann,cs.LO,http://arxiv.org/pdf/1101.5443v1
+1101.5445v1,2011-01-28T04:25:55Z,Relating Sequent Calculi for Bi-intuitionistic Propositional Logic,Tarmo Uustalu,cs.LO,http://arxiv.org/pdf/1101.5445v1
+1101.5446v1,2011-01-28T04:26:02Z,Dialectica Interpretation with Marked Counterexamples,Trifon Trifonov,cs.LO,http://arxiv.org/pdf/1101.5446v1
+1102.0749v3,2011-02-03T18:54:30Z,Confluence via strong normalisation in an algebraic λ-calculus   with rewriting,Mauro Jaskelioff,cs.LO,http://arxiv.org/pdf/1102.0749v3
+1102.1323v1,2011-02-07T14:37:14Z,Type Classes for Mathematics in Type Theory,Eelis van der Weegen,cs.LO,http://arxiv.org/pdf/1102.1323v1
+1102.1935v1,2011-02-09T18:42:32Z,On Paraconsistent Weakening of Intuitionistic Negation,Zoran Majkic,cs.LO,http://arxiv.org/pdf/1102.1935v1
+1102.2079v1,2011-02-10T11:05:29Z,Erratum to: Model-checking continuous-time Markov chains by Aziz et al,David N. Jansen,cs.LO,http://arxiv.org/pdf/1102.2079v1
+1102.2366v1,2011-02-11T15:24:56Z,Stuttering Equivalence for Parity Games,Tim A. C. Willemse,cs.LO,http://arxiv.org/pdf/1102.2366v1
+1102.2405v3,2011-02-11T18:06:53Z,A Modular Type-checking algorithm for Type Theory with Singleton Types   and Proof Irrelevance,Miguel Pagano,cs.LO,http://arxiv.org/pdf/1102.2405v3
+1102.2489v1,2011-02-12T09:44:56Z,Co-ordering and Type 2 co-ordering,Farzad Didehvar,cs.LO,http://arxiv.org/pdf/1102.2489v1
+1102.2651v1,2011-02-14T01:09:17Z,Term Graph Rewriting and Parallel Term Rewriting,Frank Drewes,cs.LO,http://arxiv.org/pdf/1102.2651v1
+1102.2655v1,2011-02-14T01:09:45Z,A new graphical calculus of proofs,Ian Mackie,cs.LO,http://arxiv.org/pdf/1102.2655v1
+1102.3733v1,2011-02-18T01:44:38Z,Uncurrying for Innermost Termination and Derivational Complexity,Aart Middeldorp,cs.LO,http://arxiv.org/pdf/1102.3733v1
+1102.4117v1,2011-02-21T02:30:25Z,Experimental Aspects of Synthesis,Rüdiger Ehlers,cs.LO,http://arxiv.org/pdf/1102.4117v1
+1102.4118v1,2011-02-21T02:30:32Z,Synthesizing Systems with Optimal Average-Case Behavior for Ratio   Objectives,Barbara Jobstmann,cs.LO,http://arxiv.org/pdf/1102.4118v1
+1102.4119v1,2011-02-21T02:30:38Z,A LTL Fragment for GR(1)-Synthesis,Klaus Schneider,cs.LO,http://arxiv.org/pdf/1102.4119v1
+1102.4496v5,2011-02-22T13:25:32Z,A system of relational syllogistic incorporating full Boolean reasoning,Dimiter Vakarelov,cs.LO,http://arxiv.org/pdf/1102.4496v5
+1102.4636v1,2011-02-22T22:36:05Z,Modal Calculus of Illocutionary Logic,Andrew Schumann,cs.LO,http://arxiv.org/pdf/1102.4636v1
+1102.5638v2,2011-02-28T11:10:58Z,"On Expressive Powers of Timed Logics: Comparing Boundedness,   Non-punctuality and Deterministic Freezing",Simoni S. Shah,cs.LO,http://arxiv.org/pdf/1102.5638v2
+1105.0548v1,2011-05-03T11:05:34Z,A Scalable Module System,Michael Kohlhase,cs.LO,http://arxiv.org/pdf/1105.0548v1
+1105.0653v1,2011-05-03T18:49:18Z,Model Checking of Boolean Process Models,Joachim Wehler,cs.LO,http://arxiv.org/pdf/1105.0653v1
+1105.1369v1,2011-05-06T10:16:36Z,Evaluating the Efficiency of Asynchronous Systems with FASE,Walter Vogler,cs.LO,http://arxiv.org/pdf/1105.1369v1
+1105.1376v1,2011-05-06T20:01:26Z,Finitary Deduction Systems,Yannick Chevalier,cs.LO,http://arxiv.org/pdf/1105.1376v1
+1105.2665v2,2011-05-13T09:12:20Z,Dynamic Backward Slicing of Rewriting Logic Computations,Daniel Romero,cs.LO,http://arxiv.org/pdf/1105.2665v2
+1105.2725v1,2011-05-13T13:38:08Z,A Foundational View on Integration Problems,Claudio Sacerdoti Coen,cs.LO,http://arxiv.org/pdf/1105.2725v1
+1105.2751v1,2011-05-13T15:13:57Z,Computer certified efficient exact reals in Coq,Bas Spitters,cs.LO,http://arxiv.org/pdf/1105.2751v1
+1105.3324v1,2011-05-17T09:51:16Z,Hierarchies in Dependence Logic,Juha Kontinen,cs.LO,http://arxiv.org/pdf/1105.3324v1
+1105.3583v4,2011-05-18T10:17:11Z,First-order query evaluation on structures of bounded degree,Luc Segoufin,cs.LO,http://arxiv.org/pdf/1105.3583v4
+1105.4060v1,2011-05-20T11:18:13Z,Logical Modelling of Physarum Polycephalum,Andrew Adamatzky,cs.LO,http://arxiv.org/pdf/1105.4060v1
+1105.6210v1,2011-05-31T09:12:29Z,"Generic Traces and Constraints, GenTra4CP revisited",Pierre Deransart,cs.LO,http://arxiv.org/pdf/1105.6210v1
+1105.6317v2,2011-05-31T15:42:03Z,Monotonicity Constraints for Termination in the Integer Domain,Amir M. Ben-Amram,cs.LO,http://arxiv.org/pdf/1105.6317v2
+1106.0399v1,2011-06-02T10:51:47Z,Focalization and phase models for classical extensions of   non-associative Lambek calculus,Arno Bastenhof,cs.LO,http://arxiv.org/pdf/1106.0399v1
+1106.0814v1,2011-06-04T11:51:36Z,"Proceedings of Second International Symposium on Games, Automata, Logics   and Formal Verification",Salvatore La Torre,cs.LO,http://arxiv.org/pdf/1106.0814v1
+1106.1229v1,2011-06-07T01:05:45Z,Improving BDD Based Symbolic Model Checking with Isomorphism Exploiting   Transition Relations,Christian Appold,cs.LO,http://arxiv.org/pdf/1106.1229v1
+1106.1230v1,2011-06-07T01:05:53Z,Computing the Reveals Relation in Occurrence Nets,Stefan Schwoon,cs.LO,http://arxiv.org/pdf/1106.1230v1
+1106.1231v1,2011-06-07T01:05:57Z,Automated Analysis of MUTEX Algorithms with FASE,Walter Vogler,cs.LO,http://arxiv.org/pdf/1106.1231v1
+1106.1239v1,2011-06-07T01:06:54Z,New results on pushdown module checking with imperfect information,Laura Bozzelli,cs.LO,http://arxiv.org/pdf/1106.1239v1
+1106.1242v1,2011-06-07T01:07:17Z,Separation of Test-Free Propositional Dynamic Logics over Context-Free   Languages,Markus Latte,cs.LO,http://arxiv.org/pdf/1106.1242v1
+1106.1243v1,2011-06-07T01:07:24Z,On P-transitive graphs and applications,Giacomo Lenzi,cs.LO,http://arxiv.org/pdf/1106.1243v1
+1106.1245v1,2011-06-07T01:07:39Z,Deciding Reachability for 3-Dimensional Multi-Linear Systems,Daniel Funke,cs.LO,http://arxiv.org/pdf/1106.1245v1
+1106.1246v1,2011-06-07T01:07:47Z,Towards Efficient Exact Synthesis for Linear Hybrid Systems,Stefano Minopoli,cs.LO,http://arxiv.org/pdf/1106.1246v1
+1106.1850v3,2011-06-09T16:33:24Z,Coarse abstractions make Zeno behaviours difficult to detect,B Srivathsan,cs.LO,http://arxiv.org/pdf/1106.1850v3
+1106.1875v6,2011-06-09T18:43:01Z,Ticket Entailment is decidable,Vincent Padovani,cs.LO,http://arxiv.org/pdf/1106.1875v6
+1106.2181v5,2011-06-10T22:03:53Z,Bisimulations Meet PCTL Equivalences for Probabilistic Automata,Flemming Nielson,cs.LO,http://arxiv.org/pdf/1106.2181v5
+1106.2272v1,2011-06-12T02:20:53Z,Soundness and completeness of the cirquent calculus system CL6 for   computability logic,Sanyang Liu,cs.LO,http://arxiv.org/pdf/1106.2272v1
+1106.2305v2,2011-06-12T12:07:18Z,Cut-Free ExpTime Tableaux for Checking Satisfiability of a Knowledge   Base in the Description Logic SHI,Linh Anh Nguyen,cs.LO,http://arxiv.org/pdf/1106.2305v2
+1106.2320v1,2011-06-12T15:54:28Z,Verifying Embedded C Software with Timing Constraints using an Untimed   Model Checker,Bernd Fischer,cs.LO,http://arxiv.org/pdf/1106.2320v1
+1106.4093v1,2011-06-21T05:24:40Z,Refinement by interpretation in π-institutions,Luis S. Barbosa,cs.LO,http://arxiv.org/pdf/1106.4093v1
+1106.4094v1,2011-06-21T05:24:48Z,Refinement-based verification of sequential implementations of Stateflow   charts,Ana Cavalcanti,cs.LO,http://arxiv.org/pdf/1106.4094v1
+1106.4102v1,2011-06-21T05:36:42Z,Decidability of Existence and Construction of a Complement of a given   Function,Ka. Shrinivaasan,cs.LO,http://arxiv.org/pdf/1106.4102v1
+1106.5128v3,2011-06-25T13:41:16Z,Permission-Based Separation Logic for Message-Passing Concurrency,Vladimiro Sassone,cs.LO,http://arxiv.org/pdf/1106.5128v3
+1106.5470v9,2011-06-27T18:36:14Z,Connection and Dispersion of Computation,Koji Kobayashi,cs.LO,http://arxiv.org/pdf/1106.5470v9
+1106.5622v1,2011-06-28T10:39:42Z,Typing a Core Binary Field Arithmetic in a Light Logic,Luca Roversi,cs.LO,http://arxiv.org/pdf/1106.5622v1
+1106.6267v1,2011-06-29T10:22:20Z,A Dynamic Algebraic Specification for Social Networks,Petros Stefaneas,cs.LO,http://arxiv.org/pdf/1106.6267v1
+1107.0065v1,2011-06-30T21:44:46Z,Typed lambda-terms in categorical attributed graph transformation,Sergei Soloviev,cs.LO,http://arxiv.org/pdf/1107.0065v1
+1107.0278v1,2011-07-01T17:20:32Z,Completeness of Epistemic Coalition Logic with Group Knowledge,Natasha Alechina,cs.LO,http://arxiv.org/pdf/1107.0278v1
+1107.0349v1,2011-07-02T00:45:24Z,First-order finite satisfiability vs tree automata in safety   verification,Alexei Lisitsa,cs.LO,http://arxiv.org/pdf/1107.0349v1
+1107.1201v1,2011-07-06T17:54:51Z,Real-Reward Testing for Probabilistic Processes (Extended Abstract),Carroll Morgan,cs.LO,http://arxiv.org/pdf/1107.1201v1
+1107.1204v1,2011-07-06T17:55:11Z,Analysis of Non-Linear Probabilistic Hybrid Systems,Josée Desharnais,cs.LO,http://arxiv.org/pdf/1107.1204v1
+1107.1205v1,2011-07-06T17:55:25Z,Distances for Weighted Transition Systems: Games and Properties,Kim G. Larsen,cs.LO,http://arxiv.org/pdf/1107.1205v1
+1107.1233v1,2011-07-06T17:55:18Z,HYPE with stochastic events,Jane Hillston,cs.LO,http://arxiv.org/pdf/1107.1233v1
+1107.1351v3,2011-07-07T11:34:51Z,"Conway games, algebraically and coalgebraically",Marina Lenisa,cs.LO,http://arxiv.org/pdf/1107.1351v3
+1107.1901v3,2011-07-10T21:28:26Z,"Propositional equality, identity types, and direct computational paths",Anjolina G. de Oliveira,cs.LO,http://arxiv.org/pdf/1107.1901v3
+1107.2284v1,2011-07-12T13:34:50Z,The parallel versus branching recurrences in computability logic,Sanyang Liu,cs.LO,http://arxiv.org/pdf/1107.2284v1
+1107.2513v1,2011-07-13T10:25:14Z,Fuzzy Topological Systems,Valeria de Paiva,cs.LO,http://arxiv.org/pdf/1107.2513v1
+1107.3430v2,2011-07-18T13:26:45Z,Randomisation and Derandomisation in Descriptive Complexity Theory,Martin Grohe,cs.LO,http://arxiv.org/pdf/1107.3430v2
+1107.3706v1,2011-07-19T13:01:16Z,The countable versus uncountable branching recurrences in computability   logic,Sanyang Liu,cs.LO,http://arxiv.org/pdf/1107.3706v1
+1107.4138v2,2011-07-20T23:09:47Z,Event-Clock Automata: From Theory to Practice,Nathalie Sznajder,cs.LO,http://arxiv.org/pdf/1107.4138v2
+1107.4160v1,2011-07-21T05:06:48Z,Functions as proofs as processes,Emmanuel Beffara,cs.LO,http://arxiv.org/pdf/1107.4160v1
+1107.4939v2,2011-07-25T13:15:07Z,Paraconsistency and Topological Semantics,Can Baskent,cs.LO,http://arxiv.org/pdf/1107.4939v2
+1107.5030v2,2011-07-25T19:44:27Z,On Combining Linear-Based Strategies for Tabled Evaluation of Logic   Programs,Ricardo Rocha,cs.LO,http://arxiv.org/pdf/1107.5030v2
+1107.5142v1,2011-07-26T09:25:35Z,Finite countermodels for safety verification of parameterized tree   systems,Alexei Lisitsa,cs.LO,http://arxiv.org/pdf/1107.5142v1
+1107.5152v1,2011-07-26T09:58:08Z,The Magic of Logical Inference in Probabilistic Programming,Luc De Raedt,cs.LO,http://arxiv.org/pdf/1107.5152v1
+1107.5722v3,2011-07-28T14:03:05Z,Termination in a Pi-calculus with Subtyping,Daniel Hirschkoff,cs.LO,http://arxiv.org/pdf/1107.5722v3
+1107.5897v1,2011-07-29T08:48:14Z,An Algebraic Specification of the Semantic Web,Panayiotis Frangos,cs.LO,http://arxiv.org/pdf/1107.5897v1
+1107.5980v1,2011-07-29T14:19:14Z,SAT-Based Termination Analysis Using Monotonicity Constraints over the   Integers,Jürgen Giesl,cs.LO,http://arxiv.org/pdf/1107.5980v1
+1108.0144v1,2011-07-31T06:14:37Z,Proceedings Fourth Interaction and Concurrency Experience,Marco Carbone,cs.LO,http://arxiv.org/pdf/1108.0144v1
+1108.0463v1,2011-08-02T02:27:04Z,Innocent strategies as presheaves and interactive equivalences for CCS,Damien Pous,cs.LO,http://arxiv.org/pdf/1108.0463v1
+1108.0556v3,2011-08-02T12:12:11Z,On Berry's conjectures about the stable order in PCF,Fritz Müller,cs.LO,http://arxiv.org/pdf/1108.0556v3
+1108.1482v1,2011-08-06T13:54:17Z,Applying Algebraic Specifications on Digital Right Management Systems,Panayiotis Frangos,cs.LO,http://arxiv.org/pdf/1108.1482v1
+1108.1861v1,2011-08-09T06:38:19Z,Towards reduction of Paradigm coordination models,Erik de Vink,cs.LO,http://arxiv.org/pdf/1108.1861v1
+1108.1864v1,2011-08-09T06:38:39Z,Parameterized Verification of Safety Properties in Ad Hoc Network   Protocols,Gianluigi Zavattaro,cs.LO,http://arxiv.org/pdf/1108.1864v1
+1108.3033v6,2011-08-15T16:59:07Z,Equilibria und weiteres Heiteres II,Karl Schlechta,cs.LO,http://arxiv.org/pdf/1108.3033v6
+1108.3124v1,2011-08-16T00:23:36Z,Axiomatizing GSOS with Predicates,Anna Ingolfsdottir,cs.LO,http://arxiv.org/pdf/1108.3124v1
+1108.3125v1,2011-08-16T00:23:42Z,Formal Component-Based Semantics,Marko van Eekelen,cs.LO,http://arxiv.org/pdf/1108.3125v1
+1108.3126v1,2011-08-16T00:23:47Z,Regular Expression Matching and Operational Semantics,Hayo Thielecke,cs.LO,http://arxiv.org/pdf/1108.3126v1
+1108.3127v1,2011-08-16T00:23:54Z,On the Unification of Process Semantics: Logical Semantics,David de Frutos-Escrig,cs.LO,http://arxiv.org/pdf/1108.3127v1
+1108.3675v1,2011-08-18T08:10:37Z,AIG Rewriting Using 5-Input Cuts,Elena Dubrova,cs.LO,http://arxiv.org/pdf/1108.3675v1
+1108.3736v2,2011-08-18T12:21:27Z,Computational Models of Certain Hyperspaces of Quasi-metric Spaces,Mahdi Ali-Akbari,cs.LO,http://arxiv.org/pdf/1108.3736v2
+1108.4253v1,2011-08-22T08:14:38Z,Coquet: a Coq library for verifying hardware,Thomas Braibant,cs.LO,http://arxiv.org/pdf/1108.4253v1
+1108.4368v2,2011-08-22T16:15:00Z,Formalization of Abstract State Transition Systems for SAT,Predrag Janicic,cs.LO,http://arxiv.org/pdf/1108.4368v2
+1108.4464v1,2011-08-23T01:23:02Z,Graphical representation of covariant-contravariant modal formulae,Miguel Palomino,cs.LO,http://arxiv.org/pdf/1108.4464v1
+1108.4468v1,2011-08-23T01:23:36Z,Linearization of CIF Through SOS,Michel Reniers,cs.LO,http://arxiv.org/pdf/1108.4468v1
+1108.4469v1,2011-08-23T01:23:43Z,Synchrony vs Causality in the Asynchronous Pi-Calculus,Uwe Nestmann,cs.LO,http://arxiv.org/pdf/1108.4469v1
+1108.4470v1,2011-08-23T01:23:54Z,A Logic with Reverse Modalities for History-preserving Bisimulations,Irek Ulidowski,cs.LO,http://arxiv.org/pdf/1108.4470v1
+1108.5281v1,2011-08-26T11:01:31Z,Transfer of semantics from argumentation frameworks to logic programming   A preliminary report,Jan Sefranek,cs.LO,http://arxiv.org/pdf/1108.5281v1
+1108.5766v1,2011-08-29T21:46:07Z,Each normal logic program has a 2-valued Minimal Hypotheses semantics,Luś Moniz Pereira,cs.LO,http://arxiv.org/pdf/1108.5766v1
+1109.0115v1,2011-09-01T07:34:23Z,"Introducing LoCo, a Logic for Configuration Problems",Georg Gottlob,cs.LO,http://arxiv.org/pdf/1109.0115v1
+1109.0375v1,2011-09-02T07:36:57Z,Warranted Derivations of Preferred Answer,Alexander Simko,cs.LO,http://arxiv.org/pdf/1109.0375v1
+1109.0583v1,2011-09-03T01:40:20Z,Solving Modular Model Expansion Tasks,Eugenia Ternovska,cs.LO,http://arxiv.org/pdf/1109.0583v1
+1109.0915v1,2011-09-05T14:37:27Z,Drawing Sound Conclusions from Unsound Premises,Claudia Picardi,cs.LO,http://arxiv.org/pdf/1109.0915v1
+1109.1248v1,2011-09-06T18:00:08Z,Optimal Placement of Valves in a Water Distribution Network with CLP(FD),Marco Franchini,cs.LO,http://arxiv.org/pdf/1109.1248v1
+1109.2399v1,2011-09-12T08:28:07Z,Proceedings Fifth Workshop on Formal Languages and Analysis of   Contract-Oriented Software,Valentín Valero,cs.LO,http://arxiv.org/pdf/1109.2399v1
+1109.2656v1,2011-09-13T01:25:36Z,Handling Conflicts in Depth-First Search for LTL Tableau to Debug   Compliance Based Languages,Mohand-Said Hacid,cs.LO,http://arxiv.org/pdf/1109.2656v1
+1109.3031v2,2011-09-14T09:24:06Z,Nested Hoare Triples and Frame Rules for Higher-order Store,Hongseok Yang,cs.LO,http://arxiv.org/pdf/1109.3031v2
+1109.3322v2,2011-09-15T11:52:55Z,Common Knowledge in Email Exchanges,Krzysztof R. Apt,cs.LO,http://arxiv.org/pdf/1109.3322v2
+1109.3370v1,2011-09-15T14:54:07Z,Effectively Nonblocking Consensus Procedures Can Execute Forever - a   Constructive Version of FLP,Robert Constable,cs.LO,http://arxiv.org/pdf/1109.3370v1
+1109.3685v1,2011-09-16T18:19:36Z,Towards a Coalgebraic Interpretation of Propositional Dynamic Logic,Ernst-Erich Doberkat,cs.LO,http://arxiv.org/pdf/1109.3685v1
+1109.4353v1,2011-09-20T16:56:52Z,On the confluence of lambda-calculus with conditional rewriting,Colin Riba,cs.LO,http://arxiv.org/pdf/1109.4353v1
+1109.4356v2,2011-09-20T16:59:41Z,Innocent strategies as presheaves and interactive equivalences for CCS   (expanded version),Damien Pous,cs.LO,http://arxiv.org/pdf/1109.4356v2
+1109.4357v1,2011-09-20T16:59:48Z,Argument filterings and usable rules in higher-order rewrite systems,Frédéric Blanqui,cs.LO,http://arxiv.org/pdf/1109.4357v1
+1109.4570v1,2011-09-21T16:15:53Z,Reduction in X does not agree with Intersection and Union Types   (Extended abstract),Steffen van Bakel,cs.LO,http://arxiv.org/pdf/1109.4570v1
+1109.4618v1,2011-09-21T19:26:52Z,Semantic Predicate Types and Approximation for Class-based Object   Oriented Programming,Reuben N. S. Rowe,cs.LO,http://arxiv.org/pdf/1109.4618v1
+1109.4817v1,2011-09-22T14:05:38Z,From X to Pi; Representing the Classical Sequent Calculus in the   Pi-calculus,Maria Grazia Vigliotti,cs.LO,http://arxiv.org/pdf/1109.4817v1
+1109.4843v1,2011-09-22T15:06:15Z,Note on a simple type system for non-interference,Maria Grazia Vigliotti,cs.LO,http://arxiv.org/pdf/1109.4843v1
+1109.5468v1,2011-09-26T07:50:07Z,Static Dependency Pair Method based on Strong Computability for   Higher-Order Rewrite Systems,Frédéric Blanqui,cs.LO,http://arxiv.org/pdf/1109.5468v1
+1109.5506v1,2011-09-26T09:49:05Z,Detecting Spurious Counterexamples Efficiently in Abstract Model   Checking,Zhenhua Duan,cs.LO,http://arxiv.org/pdf/1109.5506v1
+1109.5522v1,2011-09-26T11:23:04Z,Shared Memory Concurrent System Verification using Kronecker Algebra,Johann Blieberger,cs.LO,http://arxiv.org/pdf/1109.5522v1
+1109.6273v7,2011-09-28T17:01:11Z,Structural focalization,Robert J. Simmons,cs.LO,http://arxiv.org/pdf/1109.6273v7
+1110.1439v3,2011-10-07T06:38:33Z,Two-Variable Logic with Two Order Relations,Thomas Zeume,cs.LO,http://arxiv.org/pdf/1110.1439v3
+1110.1614v3,2011-10-07T19:23:03Z,Intuitionistic Completeness of First-Order Logic,Mark Bickford,cs.LO,http://arxiv.org/pdf/1110.1614v3
+1110.2773v1,2011-10-12T10:43:05Z,Reasoning with Forest Logic Programs and f-hybrid Knowledge Bases,Stijn Heymans,cs.LO,http://arxiv.org/pdf/1110.2773v1
+1110.4094v2,2011-10-18T19:30:26Z,A Logic for True Concurrency,Silvia Crafa,cs.LO,http://arxiv.org/pdf/1110.4094v2
+1110.4672v1,2011-10-21T00:45:30Z,Toward the Verification of a Simple Hypervisor,William Young,cs.LO,http://arxiv.org/pdf/1110.4672v1
+1110.4676v1,2011-10-21T00:45:59Z,Bit-Blasting ACL2 Theorems,Jared Davis,cs.LO,http://arxiv.org/pdf/1110.4676v1
+1110.4677v1,2011-10-21T00:46:07Z,Formal verification of a deadlock detection algorithm,Julien Schmaltz,cs.LO,http://arxiv.org/pdf/1110.4677v1
+1110.5867v1,2011-10-26T18:23:56Z,From Total Assignment Enumeration to Modern SAT Solver,Alexander Nadel,cs.LO,http://arxiv.org/pdf/1110.5867v1
+1110.6738v2,2011-10-31T10:16:24Z,An Incremental Knowledge Compilation in First Order Logic,Manoj K. Raut,cs.LO,http://arxiv.org/pdf/1110.6738v2
+1111.0086v1,2011-11-01T00:18:04Z,A Bigraph Relational Model,Carsten Schürmann,cs.LO,http://arxiv.org/pdf/1111.0086v1
+1111.0088v1,2011-11-01T00:18:17Z,Nominal Logic with Equations Only,Ranald Clouston,cs.LO,http://arxiv.org/pdf/1111.0088v1
+1111.0123v2,2011-11-01T05:51:19Z,Proof-irrelevant model of CC with predicative induction and judgmental   equality,Benjamin Werner,cs.LO,http://arxiv.org/pdf/1111.0123v2
+1111.0369v1,2011-11-02T03:04:15Z,Variations on Multi-Core Nested Depth-First Search,Jaco van de Pol,cs.LO,http://arxiv.org/pdf/1111.0369v1
+1111.1011v3,2011-11-03T23:37:53Z,Context-Bounded Analysis For Concurrent Programs With Dynamic Creation   of Threads,Shaz Qadeer,cs.LO,http://arxiv.org/pdf/1111.1011v3
+1111.2824v1,2011-11-11T19:14:05Z,Towards Automated Verification of Web Services,C. Ferreira,cs.LO,http://arxiv.org/pdf/1111.2824v1
+1111.3107v1,2011-11-14T06:35:15Z,Trees over Infinite Structures and Path Logics with Synchronization,Sarah Winter,cs.LO,http://arxiv.org/pdf/1111.3107v1
+1111.3109v1,2011-11-14T06:35:31Z,A coinductive semantics of the Unlimited Register Machine,Alberto Ciaffaglione,cs.LO,http://arxiv.org/pdf/1111.3109v1
+1111.3111v1,2011-11-14T06:35:46Z,A Probabilistic Temporal Logic with Frequency Operators and Its Model   Checking,Naoki Yonezaki,cs.LO,http://arxiv.org/pdf/1111.3111v1
+1111.4611v1,2011-11-20T06:12:35Z,From nominal sets binding to functions and lambda-abstraction:   connecting the logic of permutation models with the logic of functions,Murdoch Gabbay,cs.LO,http://arxiv.org/pdf/1111.4611v1
+1111.5652v2,2011-11-23T23:57:19Z,Ground interpolation for the theory of equality,Cesare Tinelli,cs.LO,http://arxiv.org/pdf/1111.5652v2
+1111.5885v2,2011-11-25T03:18:18Z,Type inference in mathematics,Jeremy Avigad,cs.LO,http://arxiv.org/pdf/1111.5885v2
+1111.5901v2,2011-11-25T06:53:56Z,A note on the expressive power of linear orders,Nicole Schweikardt,cs.LO,http://arxiv.org/pdf/1111.5901v2
+1201.0557v3,2012-01-03T01:27:02Z,"Absorbing Subalgebras, Cyclic Terms, and the Constraint Satisfaction   Problem",Marcin Kozik,cs.LO,http://arxiv.org/pdf/1201.0557v3
+1201.1121v1,2012-01-05T11:06:51Z,Provably Total Functions of Arithmetic with Basic Terms,Evgeny Makarov,cs.LO,http://arxiv.org/pdf/1201.1121v1
+1201.1410v1,2012-01-06T13:15:11Z,"Is it a ""Good"" Encoding of Mixed Choice? (Technical Report)",Uwe Nestmann,cs.LO,http://arxiv.org/pdf/1201.1410v1
+1201.1705v2,2012-01-09T08:12:29Z,On completeness of reducibility candidates as a semantics of strong   normalization,Denis Cousineau,cs.LO,http://arxiv.org/pdf/1201.1705v2
+1201.1716v2,2012-01-09T09:29:12Z,A type reduction theory for systems with replicated components,Gavin Lowe,cs.LO,http://arxiv.org/pdf/1201.1716v2
+1201.2258v1,2012-01-11T08:22:46Z,Characterisations of Testing Preorders for a Finite Probabilistic   pi-Calculus,Alwen Tiu,cs.LO,http://arxiv.org/pdf/1201.2258v1
+1201.2956v5,2012-01-13T21:21:45Z,On paths-based criteria for polynomial time complexity in proof-nets,Matthieu Perrinel,cs.LO,http://arxiv.org/pdf/1201.2956v5
+1201.3251v2,2012-01-16T13:29:28Z,Automatic Sequences and Zip-Specifications,Lawrence S. Moss,cs.LO,http://arxiv.org/pdf/1201.3251v2
+1201.3601v2,2012-01-17T19:44:55Z,A Synthesis of the Procedural and Declarative Styles of Interactive   Theorem Proving,Freek Wiedijk,cs.LO,http://arxiv.org/pdf/1201.3601v2
+1201.3731v2,2012-01-18T09:30:01Z,Formal proofs in real algebraic geometry: from ordered fields to   quantifier elimination,Cyril Cohen,cs.LO,http://arxiv.org/pdf/1201.3731v2
+1201.4307v2,2012-01-20T14:35:09Z,Quantitative classical realizability,Aloïs Brunel,cs.LO,http://arxiv.org/pdf/1201.4307v2
+1201.4449v2,2012-01-21T08:30:11Z,Faster Algorithms for Alternating Refinement Relations,Pritish Kamath,cs.LO,http://arxiv.org/pdf/1201.4449v2
+1201.4462v1,2012-01-21T11:27:10Z,A System-Level Semantics,Nikos Tzevelekos,cs.LO,http://arxiv.org/pdf/1201.4462v1
+1201.5070v1,2012-01-24T18:03:50Z,Word Automaticity of Tree Automatic Scattered Linear Orderings Is   Decidable,Martin Huschenbett,cs.LO,http://arxiv.org/pdf/1201.5070v1
+1201.5653v4,2012-01-26T21:18:29Z,Quantifier Elimination by Dependency Sequents,Panagiotis Manolios,cs.LO,http://arxiv.org/pdf/1201.5653v4
+1201.5719v2,2012-01-27T08:32:38Z,Deciding Entailment of Implications with Support and Confidence in   Polynomial Space,Daniel Borchmann,cs.LO,http://arxiv.org/pdf/1201.5719v2
+1201.5954v1,2012-01-28T12:35:04Z,A Calculus for Generating Ground Explanations (Technical Report),Nicolas Peltier,cs.LO,http://arxiv.org/pdf/1201.5954v1
+1201.6028v1,2012-01-29T11:14:58Z,Turing Impossibility Properties for Stack Machine Programming,C. A. Middelburg,cs.LO,http://arxiv.org/pdf/1201.6028v1
+1202.3484v2,2012-02-16T01:11:36Z,Symbolic bisimulation for quantum processes,Mingsheng Ying,cs.LO,http://arxiv.org/pdf/1202.3484v2
+1202.3497v1,2012-02-16T02:41:15Z,Characteristic Formulae for Relations with Nested Fixed Points,Anna Ingólfsdóttir,cs.LO,http://arxiv.org/pdf/1202.3497v1
+1202.3498v1,2012-02-16T02:41:23Z,IO vs OI in Higher-Order Recursion Schemes,Axel Haddad,cs.LO,http://arxiv.org/pdf/1202.3498v1
+1202.3501v1,2012-02-16T02:41:43Z,Cut-elimination for the mu-calculus with one variable,Thomas Studer,cs.LO,http://arxiv.org/pdf/1202.3501v1
+1202.4175v4,2012-02-19T18:22:02Z,Average Case Analysis of the Classical Algorithm for Markov Decision   Processes with Büchi Objectives,Nisarg Shah,cs.LO,http://arxiv.org/pdf/1202.4175v4
+1202.4193v4,2012-02-19T22:28:54Z,Exponential Lower Bounds and Separation for Query Rewriting,Michael Zakharyaschev,cs.LO,http://arxiv.org/pdf/1202.4193v4
+1202.4678v2,2012-02-21T15:48:06Z,A Categorical Model for the Lambda Calculus with Constructors,Barbara Petit,cs.LO,http://arxiv.org/pdf/1202.4678v2
+1202.4824v1,2012-02-22T06:05:06Z,A General Form of Attribute Exploration,Daniel Borchmann,cs.LO,http://arxiv.org/pdf/1202.4824v1
+1202.5850v1,2012-02-27T08:28:11Z,The Cost of Parameterized Reachability in Mobile Ad Hoc Networks,Gianluigi Zavattaro,cs.LO,http://arxiv.org/pdf/1202.5850v1
+1202.6148v1,2012-02-28T08:36:27Z,Instance Based Methods --- A Brief Overview,Evgenij Thorstensen,cs.LO,http://arxiv.org/pdf/1202.6148v1
+1202.6352v2,2012-02-28T20:38:20Z,Theorem proving for prenex Gödel logic with Delta: checking validity   and unsatisfiability,Christian G Fermüller,cs.LO,http://arxiv.org/pdf/1202.6352v2
+1202.6473v1,2012-02-29T07:52:05Z,CoLoR: a Coq library on well-founded rewrite relations and its   application to the automated verification of termination certificates,Adam Koprowski,cs.LO,http://arxiv.org/pdf/1202.6473v1
+1203.0587v1,2012-03-02T23:25:07Z,Expressing Preferences using Preference Set Constraint Atoms,Jeffrey B. Remmel,cs.LO,http://arxiv.org/pdf/1203.0587v1
+1203.0670v2,2012-03-03T17:47:21Z,Preservation of Strong Normalisation modulo permutations for the   structural lambda-calculus,Delia Kesner,cs.LO,http://arxiv.org/pdf/1203.0670v2
+1203.2241v2,2012-03-10T08:26:34Z,Model-Checking of Linear-Time Properties Based on Possibility Measure,Lijun Li,cs.LO,http://arxiv.org/pdf/1203.2241v2
+1203.2809v1,2012-03-11T19:36:46Z,Automated Synthesis of a Finite Complexity Ordering for Saturation,Mounira Kourjieh,cs.LO,http://arxiv.org/pdf/1203.2809v1
+1203.3167v2,2012-03-14T18:23:05Z,On the Parameterized Intractability of Monadic Second-Order Logic,Stephan Kreutzer,cs.LO,http://arxiv.org/pdf/1203.3167v2
+1203.3568v1,2012-03-15T21:16:55Z,Investigations on a Pedagogical Calculus of Constructions,Vincent Demange,cs.LO,http://arxiv.org/pdf/1203.3568v1
+1203.3706v2,2012-03-16T13:53:33Z,On the Complexity of Computing Minimal Unsatisfiable LTL formulas,Mohand-Saïd Hacid,cs.LO,http://arxiv.org/pdf/1203.3706v2
+1203.3730v2,2012-03-16T15:10:52Z,From Strong Amalgamability to Modularity of Quantifier-Free   Interpolation,Silvio Ranise,cs.LO,http://arxiv.org/pdf/1203.3730v2
+1203.3814v2,2012-03-16T20:33:28Z,Tree-width for first order formulae,Mark Weyer,cs.LO,http://arxiv.org/pdf/1203.3814v2
+1203.4912v1,2012-03-22T08:40:29Z,A survey of proof nets and matrices for substructural logics,Sean A. Fulop,cs.LO,http://arxiv.org/pdf/1203.4912v1
+1203.5121v2,2012-03-22T20:41:24Z,A Reduction-Preserving Completion for Proving Confluence of   Non-Terminating Term Rewriting Systems,Yoshihito Toyama,cs.LO,http://arxiv.org/pdf/1203.5121v2
+1203.5754v1,2012-03-26T18:30:28Z,Polynomial Interpretations for Higher-Order Rewriting,Cynthia Kop,cs.LO,http://arxiv.org/pdf/1203.5754v1
+1203.6157v1,2012-03-28T05:05:59Z,A Logical Framework for Set Theories,Arnon Avron,cs.LO,http://arxiv.org/pdf/1203.6157v1
+1203.6159v1,2012-03-28T05:06:25Z,On Graph Refutation for Relational Inclusions,Sheila R. M. Veloso,cs.LO,http://arxiv.org/pdf/1203.6159v1
+1203.6160v1,2012-03-28T05:06:30Z,A Formalization of the Theorem of Existence of First-Order Most General   Unifiers,Mauricio Ayala-Rincón,cs.LO,http://arxiv.org/pdf/1203.6160v1
+1203.6278v1,2012-03-28T14:20:19Z,Fuzzy Time in LTL,Paola Spoletini,cs.LO,http://arxiv.org/pdf/1203.6278v1
+1203.6412v2,2012-03-29T01:58:29Z,Barriers in Concurrent Separation Logic: Now With Tool Support!,Cristian Gherghina,cs.LO,http://arxiv.org/pdf/1203.6412v2
+1204.0131v1,2012-03-31T20:37:50Z,Ordered Counter-Abstraction,Ahmed Rezine,cs.LO,http://arxiv.org/pdf/1204.0131v1
+1204.0347v1,2012-04-02T08:59:13Z,The lambda-mu-T-calculus,James McKinna,cs.LO,http://arxiv.org/pdf/1204.0347v1
+1204.1372v1,2012-04-05T22:48:18Z,Characteristics of Minimal Effective Programming Systems,Samuel E. Moelius III,cs.LO,http://arxiv.org/pdf/1204.1372v1
+1204.1848v2,2012-04-09T10:18:28Z,Bisimulations and Logical Characterizations on Continuous-time Markov   Decision Processes,Jens Chr. Godskesen,cs.LO,http://arxiv.org/pdf/1204.1848v2
+1204.2087v4,2012-04-10T09:13:01Z,Model-checking an Epistemic μ-calculus with Synchronous and Perfect   Recall Semantics,Constantin Enea,cs.LO,http://arxiv.org/pdf/1204.2087v4
+1204.2386v5,2012-04-11T09:38:47Z,Quantifier-Free Interpolation of a Theory of Arrays,Silvio Ranise,cs.LO,http://arxiv.org/pdf/1204.2386v5
+1204.2413v1,2012-04-11T11:11:43Z,Grammar Logics in Nested Sequent Calculus: Proof Theory and Decision   Procedures,Rajeev Gore,cs.LO,http://arxiv.org/pdf/1204.2413v1
+1204.2495v3,2012-04-11T16:50:39Z,Satisfiability for two-variable logic with two successor relations on   finite linear orders,Diego Figueira,cs.LO,http://arxiv.org/pdf/1204.2495v3
+1204.2768v1,2012-04-12T16:35:36Z,Layered Fixed Point Logic,Hanne Riis Nielson,cs.LO,http://arxiv.org/pdf/1204.2768v1
+1204.2932v1,2012-04-13T09:41:08Z,Proving Termination of Probabilistic Programs Using Patterns,Stefan Kiefer,cs.LO,http://arxiv.org/pdf/1204.2932v1
+1204.2983v1,2012-04-13T13:17:56Z,Parameterized Resolution with bounded conjunction,Barnaby Martin,cs.LO,http://arxiv.org/pdf/1204.2983v1
+1204.2990v1,2012-04-12T15:06:00Z,Reasoning on Schemata of Formulae,Nicolas Peltier,cs.LO,http://arxiv.org/pdf/1204.2990v1
+1204.3158v2,2012-04-14T10:02:20Z,A recursive normalizing one-step reduction strategy for the distributive   lambda calculus,Anton Salikhmetov,cs.LO,http://arxiv.org/pdf/1204.3158v2
+1204.3249v1,2012-04-15T10:12:50Z,Process algebra with conditionals in the presence of epsilon,C. A. Middelburg,cs.LO,http://arxiv.org/pdf/1204.3249v1
+1204.4736v1,2012-04-20T20:12:36Z,Model Checking with Probabilistic Tabled Logic Programming,Scott A. Smolka,cs.LO,http://arxiv.org/pdf/1204.4736v1
+1204.5093v1,2012-04-23T16:05:43Z,The Distributed Ontology Language (DOL): Ontology Integration and   Interoperability Applied to Mathematical Formalization,Michael Grüninger,cs.LO,http://arxiv.org/pdf/1204.5093v1
+1204.5156v1,2012-04-23T19:34:34Z,A sequent calculus with procedure calls,Stéphane Lengrand,cs.LO,http://arxiv.org/pdf/1204.5156v1
+1204.5159v1,2012-04-23T19:40:10Z,Two simulations about DPLL(T),Assia Mahboubi,cs.LO,http://arxiv.org/pdf/1204.5159v1
+1204.5639v1,2012-04-25T12:49:11Z,SMT-based Induction Methods for Timed Systems,Ilkka Niemelä,cs.LO,http://arxiv.org/pdf/1204.5639v1
+1204.6179v2,2012-04-27T11:56:41Z,"Non-definability of languages by generalized first-order formulas over   (N,+)",A. V. Sreejith,cs.LO,http://arxiv.org/pdf/1204.6179v2
+1204.6236v1,2012-04-27T15:05:10Z,Combining Deduction Modulo and Logics of Fixed-Point Definitions,Gopalan Nadathur,cs.LO,http://arxiv.org/pdf/1204.6236v1
+1204.6615v2,2012-04-30T12:53:21Z,Escape to Mizar for ATPs,Jesse Alama,cs.LO,http://arxiv.org/pdf/1204.6615v2
+1204.6671v1,2012-04-30T15:35:10Z,Delta-Decidability over the Reals,Edmund Clarke,cs.LO,http://arxiv.org/pdf/1204.6671v1
+1205.0126v2,2012-05-01T10:34:40Z,On the equivalence of game and denotational semantics for the   probabilistic mu-calculus,Matteo Mio,cs.LO,http://arxiv.org/pdf/1205.0126v2
+1205.0913v2,2012-05-04T10:48:06Z,Pebble games with algebraic rules,Bjarki Holm,cs.LO,http://arxiv.org/pdf/1205.0913v2
+1205.0946v2,2012-05-04T12:57:00Z,Constraint LTL Satisfiability Checking without Automata,Pierluigi San Pietro,cs.LO,http://arxiv.org/pdf/1205.0946v2
+1205.2117v3,2012-05-09T22:42:02Z,Unique Parallel Decomposition in Branching and Weak Bisimulation   Semantics,Bas Luttik,cs.LO,http://arxiv.org/pdf/1205.2117v3
+1205.2519v2,2012-05-11T13:35:00Z,Dynamic Dependency Pairs for Algebraic Functional Systems,Femke van Raamsdonk,cs.LO,http://arxiv.org/pdf/1205.2519v2
+1205.3612v2,2012-05-16T09:38:31Z,Untyping Typed Algebras and Colouring Cyclic Linear Logic,Damien Pous,cs.LO,http://arxiv.org/pdf/1205.3612v2
+1205.3803v2,2012-05-16T20:37:34Z,Necessity as justified truth,Steffen Lewitzka,cs.LO,http://arxiv.org/pdf/1205.3803v2
+1205.4802v1,2012-05-22T05:16:30Z,An effective characterization of the alternation hierarchy in   two-variable logic,Howard Straubing,cs.LO,http://arxiv.org/pdf/1205.4802v1
+1205.5571v1,2012-05-23T09:52:40Z,Applications of Quantified Constraint Solving over the Reals -   Bibliography,Stefan Ratschan,cs.LO,http://arxiv.org/pdf/1205.5571v1
+1205.5838v4,2012-05-25T23:58:40Z,ExpTime Tableaux for the Description Logic SHIQ Based on Global State   Caching and Integer Linear Feasibility Checking,Linh Anh Nguyen,cs.LO,http://arxiv.org/pdf/1205.5838v4
+1205.6584v2,2012-05-30T08:45:34Z,Taming Past LTL and Flat Counter Systems,Arnaud sangnier,cs.LO,http://arxiv.org/pdf/1205.6584v2
+1206.0136v2,2012-06-01T10:00:31Z,General Bindings and Alpha-Equivalence in Nominal Isabelle,Cezary Kaliszyk,cs.LO,http://arxiv.org/pdf/1206.0136v2
+1206.0232v1,2012-05-31T11:28:23Z,Non-Termination Sets of Simple Linear Loops,Bican Xia,cs.LO,http://arxiv.org/pdf/1206.0232v1
+1206.0911v1,2012-06-05T12:48:13Z,Non-null Infinitesimal Micro-steps: a Metric Temporal Logic Approach,Matteo Rossi,cs.LO,http://arxiv.org/pdf/1206.0911v1
+1206.1936v1,2012-06-09T12:58:28Z,Completeness for Two Left-Sequential Logics,D. J. C. Staudt,cs.LO,http://arxiv.org/pdf/1206.1936v1
+1206.2037v5,2012-06-10T15:54:39Z,Programming in logic without Prolog,M. H. van Emden,cs.LO,http://arxiv.org/pdf/1206.2037v5
+1206.3136v1,2012-06-14T15:20:38Z,The Glory of the Past and Geometrical Concurrency,Cristian Prisacariu,cs.LO,http://arxiv.org/pdf/1206.3136v1
+1206.3180v1,2012-06-14T17:02:05Z,Automated Analysis of Scenario-based Specifications of Distributed   Access Control Policies with Non-Mechanizable Activities (Extended Version),Luca Viganò,cs.LO,http://arxiv.org/pdf/1206.3180v1
+1206.3883v1,2012-06-18T10:57:13Z,Compiling Finite Domain Constraints to SAT with BEE,Michael Codish,cs.LO,http://arxiv.org/pdf/1206.3883v1
+1206.4444v2,2012-06-20T10:20:14Z,Generalized Craig Interpolation for Stochastic Boolean Satisfiability   Problems with Applications to Probabilistic State Reachability and Region   Stability,Martin Fränzle,cs.LO,http://arxiv.org/pdf/1206.4444v2
+1206.4458v1,2012-06-20T11:07:47Z,Terminating Calculi for Propositional Dummett Logic with Subformula   Property,Guido Fiorino,cs.LO,http://arxiv.org/pdf/1206.4458v1
+1206.4547v1,2012-06-20T16:30:06Z,Initiality for Typed Syntax and Semantics,Benedikt Ahrens,cs.LO,http://arxiv.org/pdf/1206.4547v1
+1206.4556v1,2012-06-20T16:57:25Z,Initiality for Typed Syntax and Semantics,Benedikt Ahrens,cs.LO,http://arxiv.org/pdf/1206.4556v1
+1206.4860v5,2012-06-21T13:02:07Z,Asynchronous Multi-Tape Automata Intersection: Undecidability and   Approximation,Carlo A. Furia,cs.LO,http://arxiv.org/pdf/1206.4860v5
+1206.5694v2,2012-06-25T14:20:07Z,Soundness of Unravelings for Conditional Term Rewriting Systems via   Ultra-Properties Related to Linearity,Toshiki Sakabe,cs.LO,http://arxiv.org/pdf/1206.5694v2
+1206.6295v1,2012-06-24T15:09:09Z,Pareto Curves for Probabilistic Model Checking,David Parker,cs.LO,http://arxiv.org/pdf/1206.6295v1
+1206.6504v2,2012-06-27T20:00:58Z,An Abstract Approach to Stratification in Linear Logic,Lorenzo Tortora de Falco,cs.LO,http://arxiv.org/pdf/1206.6504v2
+1207.0051v1,2012-06-30T06:20:39Z,Computation Environments (2) Persistently Evolutionary Semantics,Rasoul Ramezanian,cs.LO,http://arxiv.org/pdf/1207.0051v1
+1207.0874v1,2012-07-04T01:25:10Z,Weak Markovian Bisimulation Congruences and Exact CTMC-Level   Aggregations for Concurrent Processes,Marco Bernardo,cs.LO,http://arxiv.org/pdf/1207.0874v1
+1207.0988v2,2012-07-04T14:10:20Z,Extending Clause Learning SAT Solvers with Complete Parity Reasoning   (extended version),Ilkka Niemelä,cs.LO,http://arxiv.org/pdf/1207.0988v2
+1207.1188v1,2012-07-05T08:28:41Z,On the toggling-branching recurrence of Computability Logic,Daming Zhu,cs.LO,http://arxiv.org/pdf/1207.1188v1
+1207.1264v1,2012-07-04T01:24:23Z,Efficient computation of exact solutions for quantitative model checking,Sergio Giro,cs.LO,http://arxiv.org/pdf/1207.1264v1
+1207.2461v1,2012-07-10T01:08:51Z,Reasoning with Data-Centric Business Processes,Michael Norrish,cs.LO,http://arxiv.org/pdf/1207.2461v1
+1207.3208v1,2012-07-13T11:53:44Z,Formal Verification of Monad Transformers,Brian Huffman,cs.LO,http://arxiv.org/pdf/1207.3208v1
+1207.3223v2,2012-07-13T12:56:32Z,Isomorphisms of types in the presence of higher-order references   (extended version),Pierre Clairambault,cs.LO,http://arxiv.org/pdf/1207.3223v2
+1207.3262v2,2012-07-13T14:38:18Z,Canonized Rewriting and Ground AC Completion Modulo Shostak Theories :   Design and Implementation,Mohamed Iguernelala,cs.LO,http://arxiv.org/pdf/1207.3262v2
+1207.3597v1,2012-07-16T08:18:17Z,On Distributability of Petri Nets,Jens-Wolfhard Schicke-Uffmann,cs.LO,http://arxiv.org/pdf/1207.3597v1
+1207.3816v2,2012-07-16T20:25:50Z,A Complete Axiom System for Propositional Interval Temporal Logic with   Infinite Time,Ben Moszkowski,cs.LO,http://arxiv.org/pdf/1207.3816v2
+1207.4270v1,2012-07-18T05:04:57Z,Refinement for Transition Systems with Responses,Andrzej Wąsowski,cs.LO,http://arxiv.org/pdf/1207.4270v1
+1207.4286v3,2012-07-18T07:29:29Z,Transfer Function Synthesis without Quantifier Elimination,Andy King,cs.LO,http://arxiv.org/pdf/1207.4286v3
+1207.5384v1,2012-07-23T13:15:24Z,Lattice based Least Fixed Point Logic,Hanne Riis Nielson,cs.LO,http://arxiv.org/pdf/1207.5384v1
+1208.1366v1,2012-08-07T08:45:28Z,A Locale for Minimal Bad Sequences,Christian Sternagel,cs.LO,http://arxiv.org/pdf/1208.1366v1
+1208.1368v2,2012-08-07T08:52:26Z,Getting Started with Isabelle/jEdit,Christian Sternagel,cs.LO,http://arxiv.org/pdf/1208.1368v2
+1208.1476v2,2012-08-07T17:41:37Z,Using Tableau to Decide Description Logics with Full Role Negation and   Identity,Dmitry Tishkovsky,cs.LO,http://arxiv.org/pdf/1208.1476v2
+1208.1591v1,2012-08-08T06:16:18Z,CeTA - A Tool for Certified Termination Analysis,Harald Zankl,cs.LO,http://arxiv.org/pdf/1208.1591v1
+1208.1594v1,2012-08-08T06:27:58Z,Certification extends Termination Techniques,René Thiemann,cs.LO,http://arxiv.org/pdf/1208.1594v1
+1208.1595v1,2012-08-08T06:39:33Z,A Relative Dependency Pair Framework,René Thiemann,cs.LO,http://arxiv.org/pdf/1208.1595v1
+1208.1597v1,2012-08-08T06:47:28Z,Recording Completion for Finding and Certifying Proofs in Equational   Logic,Christian Sternagel,cs.LO,http://arxiv.org/pdf/1208.1597v1
+1208.1609v1,2012-08-08T08:22:20Z,Towards the Certification of Complexity Proofs,René Thiemann,cs.LO,http://arxiv.org/pdf/1208.1609v1
+1208.2457v1,2012-08-12T19:47:09Z,On Generalized Fuzzy Multisets and their Use in Computation,Apostolos Syropoulos,cs.LO,http://arxiv.org/pdf/1208.2457v1
+1208.2748v1,2012-08-14T01:51:51Z,Expressiveness and Completeness in Abstraction,Tim A. C. Willemse,cs.LO,http://arxiv.org/pdf/1208.2748v1
+1208.2750v1,2012-08-14T01:52:04Z,Musings on Encodings and Expressiveness,Rob van Glabbeek,cs.LO,http://arxiv.org/pdf/1208.2750v1
+1208.2753v1,2012-08-14T01:52:31Z,An Operational Petri Net Semantics for the Join-Calculus,Stephan Mennicke,cs.LO,http://arxiv.org/pdf/1208.2753v1
+1208.2921v2,2012-08-14T16:50:21Z,Quantified preference logic,Scott Weinstein,cs.LO,http://arxiv.org/pdf/1208.2921v2
+1208.3596v2,2012-08-17T13:40:49Z,First steps in synthetic guarded domain theory: step-indexing in the   topos of trees,Kristian Støvring,cs.LO,http://arxiv.org/pdf/1208.3596v2
+1208.4301v1,2012-08-21T16:57:54Z,Proceedings Seventh ACCAT Workshop on Applied and Computational Category   Theory,Thomas Soboll,cs.LO,http://arxiv.org/pdf/1208.4301v1
+1208.4321v1,2012-08-21T18:00:36Z,Formal Verification of Safety Properties for Ownership Authentication   Transfer Protocol,Sanjay Singh,cs.LO,http://arxiv.org/pdf/1208.4321v1
+1208.4549v2,2012-08-22T16:33:16Z,"Forward Analysis for WSTS, Part II: Complete WSTS",Jean Goubault-Larrecq,cs.LO,http://arxiv.org/pdf/1208.4549v2
+1208.4993v4,2012-08-24T14:52:57Z,Expressive Completeness of Metric Temporal Logic,James Worrell,cs.LO,http://arxiv.org/pdf/1208.4993v4
+1208.5909v2,2012-08-29T13:22:29Z,Weak Alternating Timed Automata,Igor Walukiewicz,cs.LO,http://arxiv.org/pdf/1208.5909v2
+1208.6483v3,2012-08-31T13:01:05Z,Parameterised Multiparty Session Types,Raymond Hu,cs.LO,http://arxiv.org/pdf/1208.6483v3
+1209.0516v2,2012-09-04T02:30:35Z,When is Metric Temporal Logic Expressively Complete?,James Worrell,cs.LO,http://arxiv.org/pdf/1209.0516v2
+1209.0518v1,2012-09-04T02:44:26Z,The expressiveness of MTL with counting,Paul Hunter,cs.LO,http://arxiv.org/pdf/1209.0518v1
+1209.0571v2,2012-09-04T09:08:52Z,Reachability of Communicating Timed Processes,Grégoire Sutre,cs.LO,http://arxiv.org/pdf/1209.0571v2
+1209.1248v1,2012-09-06T10:27:25Z,Correctness of an Incremental and Worst-Case Optimal Decision Procedure   for Modal Logic with Eventualities,Gert Smolka,cs.LO,http://arxiv.org/pdf/1209.1248v1
+1209.1432v1,2012-09-07T01:15:56Z,Bisimulation of Labeled State-to-Function Transition Systems of   Stochastic Process Languages,E. P. de Vink,cs.LO,http://arxiv.org/pdf/1209.1432v1
+1209.1436v1,2012-09-07T01:45:54Z,"Satisfaction, Restriction and Amalgamation of Constraints in the   Framework of M-Adhesive Categories",Frank Hermann,cs.LO,http://arxiv.org/pdf/1209.1436v1
+1209.1738v2,2012-09-08T18:22:30Z,Model Checking the Quantitative mu-Calculus on Linear Hybrid Systems,Lukasz Kaiser,cs.LO,http://arxiv.org/pdf/1209.1738v2
+1209.1943v1,2012-09-10T11:05:55Z,On the satisfiability problem for a 4-level quantified syllogistic and   some applications to modal logic (extended version),Marianna Nicolosi Asmundo,cs.LO,http://arxiv.org/pdf/1209.1943v1
+1209.2238v1,2012-09-11T06:32:08Z,Contracts for Interacting Two-Party Systems,Fernando Schapachnik,cs.LO,http://arxiv.org/pdf/1209.2238v1
+1209.2890v2,2012-09-13T13:45:55Z,"Full Abstraction for the Resource Lambda Calculus with Tests, through   Taylor Expansion",Giulio Manzonetto,cs.LO,http://arxiv.org/pdf/1209.2890v2
+1209.4268v2,2012-09-19T14:52:23Z,Linear-use CPS translations in the Enriched Effect Calculus,Alex Simpson,cs.LO,http://arxiv.org/pdf/1209.4268v2
+1209.4499v2,2012-09-20T11:45:50Z,Controllable-choice Message Sequence Graphs,Vojtěch Řehák,cs.LO,http://arxiv.org/pdf/1209.4499v2
+1209.5036v5,2012-09-23T07:26:53Z,Proof of Church's Thesis,Ramón Casares,cs.LO,http://arxiv.org/pdf/1209.5036v5
+1209.6336v1,2012-09-27T19:22:06Z,Parametricity in an Impredicative Sort,Marc Lasson,cs.LO,http://arxiv.org/pdf/1209.6336v1
+1210.0368v1,2012-10-01T12:24:54Z,GEM: a Distributed Goal Evaluation Algorithm for Trust Management,Sandro Etalle,cs.LO,http://arxiv.org/pdf/1210.0368v1
+1210.0574v2,2012-10-01T20:54:57Z,Efficient Parallel Path Checking for Linear-Time Temporal Logic With   Past and Bounds,Bernd Finkbeiner,cs.LO,http://arxiv.org/pdf/1210.0574v2
+1210.1100v2,2012-10-01T18:35:30Z,Confluence by Decreasing Diagrams -- Formalized,Harald Zankl,cs.LO,http://arxiv.org/pdf/1210.1100v2
+1210.1200v2,2012-10-03T19:49:31Z,On streams that are finitely red,Tarmo Uustalu,cs.LO,http://arxiv.org/pdf/1210.1200v2
+1210.2039v4,2012-10-07T10:34:31Z,Partiality and Recursion in Higher-order Logic,Łukasz Czajka,cs.LO,http://arxiv.org/pdf/1210.2039v4
+1210.2287v1,2012-10-05T08:01:37Z,ASP modulo CSP: The clingcon system,Torsten Schaub,cs.LO,http://arxiv.org/pdf/1210.2287v1
+1210.2451v1,2012-10-09T00:53:17Z,Model-Checking Process Equivalences,Manuel Vargas Guzmán,cs.LO,http://arxiv.org/pdf/1210.2451v1
+1210.2461v1,2012-10-09T00:55:17Z,A decidable quantified fragment of set theory with ordered pairs and   some undecidable extensions,Cristiano Longo,cs.LO,http://arxiv.org/pdf/1210.2461v1
+1210.2479v1,2012-10-09T03:43:57Z,Interval Temporal Logics over Strongly Discrete Linear Orders: the   Complete Picture,Guido Sciavicco,cs.LO,http://arxiv.org/pdf/1210.2479v1
+1210.2620v3,2012-10-09T14:51:25Z,Complete Axiomatizations of Fragments of Monadic Second-Order Logic on   Finite Trees,Balder ten Cate,cs.LO,http://arxiv.org/pdf/1210.2620v3
+1210.2890v1,2012-10-09T09:23:22Z,Proceedings Fourth Workshop on Classical Logic and Computation,Ugo de'Liguoro,cs.LO,http://arxiv.org/pdf/1210.2890v1
+1210.2972v2,2012-10-10T16:30:08Z,Petri Net Reachability Graphs: Decidability Status of First Order   Properties,Christophe Morvan,cs.LO,http://arxiv.org/pdf/1210.2972v2
+1210.3114v1,2012-10-11T03:52:09Z,Interactive Realizability and the elimination of Skolem functions in   Peano Arithmetic,Margherita Zorzi,cs.LO,http://arxiv.org/pdf/1210.3114v1
+1210.3115v1,2012-10-11T03:52:15Z,A call-by-value lambda-calculus with lists and control,Robbert Krebbers,cs.LO,http://arxiv.org/pdf/1210.3115v1
+1210.3116v1,2012-10-11T03:52:22Z,Extensional Models of Untyped Lambda-mu Calculus,Shin-ya Katsumata,cs.LO,http://arxiv.org/pdf/1210.3116v1
+1210.3599v1,2012-10-12T18:51:27Z,Decidability of All Minimal Models (Revised Version - 2012),Vincent Padovani,cs.LO,http://arxiv.org/pdf/1210.3599v1
+1210.3761v2,2012-10-14T05:15:20Z,ILP Modulo Theories,Vasilis Papavasileiou,cs.LO,http://arxiv.org/pdf/1210.3761v2
+1210.4661v1,2012-10-17T08:07:46Z,"Functions as types or the ""Hoare logic"" of functional dependencies",Jose N. Oliveira,cs.LO,http://arxiv.org/pdf/1210.4661v1
+1210.5659v1,2012-10-20T21:57:52Z,Weighted Modal Transition Systems,Claus Thrane,cs.LO,http://arxiv.org/pdf/1210.5659v1
+1210.5946v1,2012-10-22T16:11:55Z,Bipolar Proof Nets for MALL,Roberto Maieli,cs.LO,http://arxiv.org/pdf/1210.5946v1
+1210.6413v1,2012-10-24T00:33:15Z,Graph Subsumption in Abstract State Space Exploration,Arend Rensink,cs.LO,http://arxiv.org/pdf/1210.6413v1
+1212.0253v1,2012-12-02T22:28:14Z,DBGen User Manual,Emmanuel Polonowski,cs.LO,http://arxiv.org/pdf/1212.0253v1
+1212.0401v2,2012-12-03T14:32:15Z,Discriminating Lambda-Terms Using Clocked Boehm Trees,Andrew Polonsky,cs.LO,http://arxiv.org/pdf/1212.0401v2
+1212.1548v1,2012-12-07T07:28:30Z,Partition Refinement for Bisimilarity in CCP,Frank D. Valencia,cs.LO,http://arxiv.org/pdf/1212.1548v1
+1212.1734v1,2012-12-07T22:47:24Z,Systematic Construction of Temporal Logics for Dynamical Systems via   Coalgebra,Baltasar Trancón y Widemann,cs.LO,http://arxiv.org/pdf/1212.1734v1
+1212.2257v1,2012-12-11T00:21:51Z,A Process Calculus with Logical Operators,Yong Zhou,cs.LO,http://arxiv.org/pdf/1212.2257v1
+1212.2747v4,2012-12-12T09:43:17Z,Bounds for the quantifier depth in finite-variable logics: Alternation   hierarchy,Oleg Verbitsky,cs.LO,http://arxiv.org/pdf/1212.2747v4
+1212.2789v1,2012-12-12T12:26:25Z,Formal Design and Verification of N-M Switching Control System,Kukhwan Kim,cs.LO,http://arxiv.org/pdf/1212.2789v1
+1212.3251v2,2012-12-13T18:18:54Z,Automata for two-variable logic over trees with ordered data values,Tony Tan,cs.LO,http://arxiv.org/pdf/1212.3251v2
+1212.3838v1,2012-12-16T22:08:44Z,Towards Approximate Model Checking DC and PDC Specifications,Song Han,cs.LO,http://arxiv.org/pdf/1212.3838v1
+1212.3870v1,2012-12-17T03:40:35Z,Interactive verification of Markov chains: Two distributed protocol case   studies,Tobias Nipkow,cs.LO,http://arxiv.org/pdf/1212.3870v1
+1212.3872v1,2012-12-17T03:40:40Z,Parameterized Metatheory for Continuous Markovian Logic,Claus Thrane,cs.LO,http://arxiv.org/pdf/1212.3872v1
+1212.3884v2,2012-12-17T04:47:46Z,Extracting Unsatisfiable Cores for LTL via Temporal Resolution,Viktor Schuppan,cs.LO,http://arxiv.org/pdf/1212.3884v2

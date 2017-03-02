@@ -1,0 +1,1000 @@
+cs/0103014v1,2001-03-12T18:23:57Z,"Faster-than-light effects and negative group delays in optics and   electronics, and their applications",Daniel Solli,cs.PF,http://arxiv.org/pdf/cs/0103014v1
+cs/0111034v1,2001-11-09T22:33:58Z,Experiences with advanced CORBA services,M. Sekoranja,cs.PF,http://arxiv.org/pdf/cs/0111034v1
+cs/0205062v1,2002-05-24T00:56:47Z,Minimizing Cache Misses in Scientific Computing Using Isoperimetric   Bodies,Rob F. Van der Wijngaart,cs.PF,http://arxiv.org/pdf/cs/0205062v1
+cs/0301005v1,2003-01-09T05:46:32Z,Modelling Delay Jitter in Voice over IP,R. Sadhu,cs.PF,http://arxiv.org/pdf/cs/0301005v1
+cs/0304015v1,2003-04-10T14:01:26Z,A Performance Study of Monitoring and Information Services for   Distributed Systems,Jennifer M. Schopf,cs.PF,http://arxiv.org/pdf/cs/0304015v1
+cs/0305054v1,2003-05-29T13:29:27Z,A Monitoring System for the BaBar INFN Computing Cluster,V. Melloni,cs.PF,http://arxiv.org/pdf/cs/0305054v1
+cs/0305060v1,2003-05-30T10:14:02Z,Performance comparison between iSCSI and other hardware and software   solutions,Mathias Gug,cs.PF,http://arxiv.org/pdf/cs/0305060v1
+cs/0404035v3,2004-04-16T16:03:05Z,Elements for Response Time Statistics in ERP Transaction Systems,Andreas Mielke,cs.PF,http://arxiv.org/pdf/cs/0404035v3
+cs/0608102v1,2006-08-25T18:12:08Z,Analysis of a Reputation System for Mobile Ad-Hoc Networks with Liars,Jean-Yves Le Boudec,cs.PF,http://arxiv.org/pdf/cs/0608102v1
+cs/0610173v1,2006-10-31T10:09:51Z,On Degree-Based Decentralized Search in Complex Networks,Gaoxi Xiao,cs.PF,http://arxiv.org/pdf/cs/0610173v1
+cs/0611087v1,2006-11-17T23:43:40Z,A Combined LIFO-Priority Scheme for Overload Control of E-commerce Web   Servers,D. Manjunath,cs.PF,http://arxiv.org/pdf/cs/0611087v1
+cs/0612141v1,2006-12-28T19:35:56Z,Exact Failure Frequency Calculations for Extended Systems,Christian Tanguy,cs.PF,http://arxiv.org/pdf/cs/0612141v1
+cs/0612143v1,2006-12-28T19:43:26Z,Exact solutions for the two- and all-terminal reliabilities of a simple   ladder network,Christian Tanguy,cs.PF,http://arxiv.org/pdf/cs/0612143v1
+cs/0701005v1,2006-12-30T17:26:42Z,Exact solutions for the two- and all-terminal reliabilities of the   Brecht-Colbourn ladder and the generalized fan,Christian Tanguy,cs.PF,http://arxiv.org/pdf/cs/0701005v1
+cs/0702135v1,2007-02-23T09:44:17Z,High Performance Direct Gravitational N-body Simulations on Graphics   Processing Units,Peter Geldof,cs.PF,http://arxiv.org/pdf/cs/0702135v1
+cs/0703086v2,2007-03-15T21:06:06Z,A Technical Report On Grid Benchmarking using SEE V.O,Fotis Georgatos,cs.PF,http://arxiv.org/pdf/cs/0703086v2
+0704.0860v1,2007-04-06T08:24:47Z,Availability assessment of SunOS/Solaris Unix Systems based on Syslogd   and wtmpx logfiles : a case study,Mohamed Kaaniche,cs.PF,http://arxiv.org/pdf/0704.0860v1
+0704.0879v1,2007-04-06T11:46:49Z,A Hierarchical Approach for Dependability Analysis of a Commercial   Cache-Based RAID Storage Architecture,Rick Karcich,cs.PF,http://arxiv.org/pdf/0704.0879v1
+0705.1915v3,2007-05-14T11:39:52Z,A Technical Report On Grid Benchmarking using ATLAS V.O,Fotis Georgatos,cs.PF,http://arxiv.org/pdf/0705.1915v3
+0710.4633v1,2007-10-25T08:07:46Z,Nano-Sim: A Step Wise Equivalent Conductance based Statistical Simulator   for Nanotechnology Circuit Design,Janet M. Wang,cs.PF,http://arxiv.org/pdf/0710.4633v1
+0710.4701v1,2007-10-25T09:27:03Z,A Prediction Packetizing Scheme for Reducing Channel Traffic in   Transaction-Level Hardware/Software Co-Emulation,Chong-Min Kyung,cs.PF,http://arxiv.org/pdf/0710.4701v1
+0710.4723v1,2007-10-25T09:37:18Z,Simulation Methodology for Analysis of Substrate Noise Impact on Analog   / RF Circuits Including Interconnect Resistance,S. Donnay,cs.PF,http://arxiv.org/pdf/0710.4723v1
+0805.3897v1,2008-05-26T08:58:16Z,SPARK00: A Benchmark Package for the Compiler Evaluation of   Irregular/Sparse Codes,H. A. G. Wijshoff,cs.PF,http://arxiv.org/pdf/0805.3897v1
+0807.0626v1,2008-07-03T19:44:36Z,"Asymptotic Mean Time To Failure and Higher Moments for Large, Recursive   Networks",Christian Tanguy,cs.PF,http://arxiv.org/pdf/0807.0626v1
+0807.0629v1,2008-07-03T19:47:11Z,Exact two-terminal reliability of some directed networks,Christian Tanguy,cs.PF,http://arxiv.org/pdf/0807.0629v1
+0807.0993v1,2008-07-07T11:20:39Z,WCET analysis of multi-level set-associative instruction caches,Isabelle Puaut,cs.PF,http://arxiv.org/pdf/0807.0993v1
+0808.3100v1,2008-08-22T15:27:34Z,Optimizing Compiler for Engineering Problems,Petr R. Ivankov,cs.PF,http://arxiv.org/pdf/0808.3100v1
+0811.1151v1,2008-11-07T14:33:10Z,A Model for Probabilistic Reasoning on Assume/Guarantee Contracts,Benoît Caillaud,cs.PF,http://arxiv.org/pdf/0811.1151v1
+0812.0904v1,2008-12-04T11:45:48Z,An Approximation of the Outage Probability for Multi-hop AF Fixed Gain   Relay,Dong Ku Kim,cs.PF,http://arxiv.org/pdf/0812.0904v1
+0901.0148v1,2008-12-31T21:25:32Z,Using constraint programming to resolve the multi-source/multi-site data   movement paradigm on the Grid,Michal Sumbera,cs.PF,http://arxiv.org/pdf/0901.0148v1
+0902.1035v8,2009-02-06T09:30:53Z,Towards a Statistical Methodology to Evaluate Program Speedups and their   Optimisation Techniques,Sid Touati,cs.PF,http://arxiv.org/pdf/0902.1035v8
+0902.3065v1,2009-02-18T07:48:34Z,The Multi-Branched Method of Moments for Queueing Networks,Giuliano Casale,cs.PF,http://arxiv.org/pdf/0902.3065v1
+0906.1680v1,2009-06-09T09:54:49Z,Methodology for assessing system performance loss within a proactive   maintenance framework,Benoît Iung,cs.PF,http://arxiv.org/pdf/0906.1680v1
+0907.3047v1,2009-07-17T11:35:46Z,Performance of Network and Service Monitoring Frameworks,Olivier Festor,cs.PF,http://arxiv.org/pdf/0907.3047v1
+0908.1057v1,2009-08-07T13:57:15Z,Transmission Performance Analysis of Digital Wire and Wireless Optical   Links in Local and Wide Areas Optical Networks,Amina E. M. El Nabawy,cs.PF,http://arxiv.org/pdf/0908.1057v1
+0908.4256v1,2009-08-28T18:32:22Z,Experimental Performances Analysis of Load Balancing Algorithms in IEEE   802.11,Tourki Rached,cs.PF,http://arxiv.org/pdf/0908.4256v1
+0909.1780v1,2009-09-09T18:10:26Z,uFLIP: Understanding Flash IO Patterns,Philippe Bonnet,cs.PF,http://arxiv.org/pdf/0909.1780v1
+1001.1860v2,2010-01-12T12:08:53Z,"OMI4papps: Optimisation, Modelling and Implementation for Highly   Parallel Applications",Iris Christadler,cs.PF,http://arxiv.org/pdf/1001.1860v2
+1001.3756v1,2010-01-21T10:18:43Z,Fault Tolerant Real Time Systems,T. R. Gopalakrishnan Nair,cs.PF,http://arxiv.org/pdf/1001.3756v1
+1002.1149v1,2010-02-05T08:39:11Z,A Performance Study of GA and LSH in Multiprocessor Job Scheduling,G. Padmavathi,cs.PF,http://arxiv.org/pdf/1002.1149v1
+1002.1154v1,2010-02-05T08:51:44Z,Performance Analysis of Software to Hardware Task Migration in Codesign,Imed Bennour,cs.PF,http://arxiv.org/pdf/1002.1154v1
+1004.2637v1,2010-04-15T14:31:32Z,Performance Evaluation of Components Using a Granularity-based Interface   Between Real-Time Calculus and Timed Automata,Matthieu Moy,cs.PF,http://arxiv.org/pdf/1004.2637v1
+1004.3109v1,2010-04-19T07:13:00Z,Applying Stochastic Network Calculus to 802.11 Backlog and Delay   Analysis,Yue Wang,cs.PF,http://arxiv.org/pdf/1004.3109v1
+1004.3254v1,2010-04-19T17:42:16Z,Automatic Mapping Tasks to Cores - Evaluating AMTHA Algorithm in   Multicore Architectures,Emilio Luque,cs.PF,http://arxiv.org/pdf/1004.3254v1
+1004.3560v1,2010-04-20T20:21:18Z,Comparison of the Performance of Two Service Disciplines for a Shared   Bus Multiprocessor with Private Caches,Lerato Lerato,cs.PF,http://arxiv.org/pdf/1004.3560v1
+1004.4286v2,2010-04-24T15:17:56Z,Space-efficient scheduling of stochastically generated tasks,Michael Luttenberger,cs.PF,http://arxiv.org/pdf/1004.4286v2
+1009.1708v1,2010-09-09T08:37:34Z,On the Performance Evaluation and Analysis of the Hybridised Bittorrent   Protocol with Partial Mobility Characteristics,Constandinos X. Mavromoustakis,cs.PF,http://arxiv.org/pdf/1009.1708v1
+1009.4733v3,2010-09-23T22:05:58Z,Forever Young: Aging Control For Smartphones In Hybrid Networks,Yuedong Xu,cs.PF,http://arxiv.org/pdf/1009.4733v3
+1009.5878v1,2010-09-29T13:28:13Z,Performance analysis of Xen virtual machines in real-world scenarios,Adrian Heissler,cs.PF,http://arxiv.org/pdf/1009.5878v1
+1009.6218v1,2010-09-30T18:57:10Z,Low Power Reversible Parallel Binary Adder/Subtractor,K B Raja,cs.PF,http://arxiv.org/pdf/1009.6218v1
+1011.6031v1,2010-11-28T11:13:40Z,A framework to experiment optimizations for real-time and embedded   software,Olivier Zendra,cs.PF,http://arxiv.org/pdf/1011.6031v1
+1101.0091v1,2010-12-30T14:21:25Z,Parallel sparse matrix-vector multiplication as a test case for hybrid   MPI+OpenMP programming,Gerhard Wellein,cs.PF,http://arxiv.org/pdf/1101.0091v1
+1101.5335v1,2011-01-10T06:26:56Z,Accurate Performance Analysis of Opportunistic Decode-and-Forward   Relaying,Mohamed-Slim Alouni,cs.PF,http://arxiv.org/pdf/1101.5335v1
+1101.5794v1,2011-01-30T17:59:58Z,Scheduling in a random environment: stability and asymptotic optimality,I. M. Verloop,cs.PF,http://arxiv.org/pdf/1101.5794v1
+1106.0880v2,2011-06-05T06:37:32Z,Performance Analysis of Sequential Method for HandOver in Cognitive   Radio Networks,Masoumeh Nasiri-Kenari,cs.PF,http://arxiv.org/pdf/1106.0880v2
+1106.2380v2,2011-06-13T03:51:59Z,Mathematical Model for the Optimal Utilization Percentile in M/M/1   Systems: A Contribution about Knees in Performance Curves,Eldamira Buenfil-Alpuche,cs.PF,http://arxiv.org/pdf/1106.2380v2
+1107.1202v1,2011-07-06T17:54:58Z,A Stochastic Broadcast Pi-Calculus,Bo Friis Nielsen,cs.PF,http://arxiv.org/pdf/1107.1202v1
+1107.4922v1,2011-07-25T12:33:25Z,On the Performance of Space Shift Keying (SSK) Modulation with Imperfect   Channel Knowledge,Harald Haas,cs.PF,http://arxiv.org/pdf/1107.4922v1
+1110.4245v1,2011-10-19T11:33:43Z,An Improved Analytical Expression for Write Amplification in NAND Flash,Brian Kurkoski,cs.PF,http://arxiv.org/pdf/1110.4245v1
+1110.4535v1,2011-10-20T14:09:02Z,"A Survey on Delay-Aware Resource Control for Wireless Systems --- Large   Deviation Theory, Stochastic Lyapunov Drift and Distributed Stochastic   Learning",Shunqing Zhang,cs.PF,http://arxiv.org/pdf/1110.4535v1
+1110.6544v2,2011-10-29T18:22:36Z,A Generalized Loss Network Model with Overflow for Capacity Planning of   a Perinatal Network,Thierry J Chaussalet,cs.PF,http://arxiv.org/pdf/1110.6544v2
+1201.2034v1,2012-01-10T11:59:37Z,Early Performance Prediction of Web Services,K. Rajani Kanth,cs.PF,http://arxiv.org/pdf/1201.2034v1
+1201.3496v1,2012-01-17T12:39:04Z,Optimizing the Performance of Streaming Numerical Kernels on the IBM   Blue Gene/P PowerPC 450 Processor,David E. Keyes,cs.PF,http://arxiv.org/pdf/1201.3496v1
+1203.5040v1,2012-03-22T16:51:55Z,Minimizing Slowdown in Heterogeneous Size-Aware Dispatching Systems   (full version),Aleksi Penttinen,cs.PF,http://arxiv.org/pdf/1203.5040v1
+1204.6304v1,2012-04-27T19:21:30Z,Model for Predicting End User Web Page Response Time,Srijith Ravikumar,cs.PF,http://arxiv.org/pdf/1204.6304v1
+1206.1204v1,2012-06-06T12:48:25Z,Uncertainty Analysis of the Adequacy Assessment Model of a Distributed   Generation System,Enrico Zio,cs.PF,http://arxiv.org/pdf/1206.1204v1
+1207.5217v3,2012-07-22T12:04:53Z,Hierarchical Performance Modeling for Ranking Dense Linear Algebra   Algorithms,Elmar Peise,cs.PF,http://arxiv.org/pdf/1207.5217v3
+1207.6295v2,2012-07-26T15:17:06Z,Characterizing the Impact of the Workload on the Value of Dynamic   Resizing in Data Centers,Chuang Lin,cs.PF,http://arxiv.org/pdf/1207.6295v2
+1208.0525v2,2012-08-02T16:00:45Z,An Upper Bound on the Convergence Time for Distributed Binary Consensus,Pan Hui,cs.PF,http://arxiv.org/pdf/1208.0525v2
+1209.3315v1,2012-09-14T20:22:23Z,Storage Workload Modelling by Hidden Markov Models: Application to FLASH   Memory,S. Zertal,cs.PF,http://arxiv.org/pdf/1209.3315v1
+1210.5975v1,2012-10-10T18:02:33Z,Solid State Disk Object-Based Storage with Trim Commands,Ken Kreutz-Delgado,cs.PF,http://arxiv.org/pdf/1210.5975v1
+1210.6122v1,2012-10-23T04:09:30Z,Performance Evaluation: Ball-Tree and KD-Tree in the Context of MST,Venkata Jarugumalli,cs.PF,http://arxiv.org/pdf/1210.6122v1
+1212.1896v2,2012-12-09T16:00:33Z,Power Consumption Analysis of a Modern Smartphone,Muhammad Yasir Malik,cs.PF,http://arxiv.org/pdf/1212.1896v2
+1302.5514v1,2013-02-22T08:16:37Z,Blind Estimation of Primary User Traffic Parameters Under Sensing Errors,Danijela Cabric,cs.PF,http://arxiv.org/pdf/1302.5514v1
+1303.4114v2,2013-03-17T22:14:36Z,Sharp Bounds in Stochastic Network Calculus,Jens Schmitt,cs.PF,http://arxiv.org/pdf/1303.4114v2
+1303.4816v2,2013-03-20T02:46:43Z,"Stochastic Modeling of Large-Scale Solid-State Storage Systems:   Analysis, Design Tradeoffs and Optimization",John C. S. Lui,cs.PF,http://arxiv.org/pdf/1303.4816v2
+1303.6485v2,2013-03-26T13:31:34Z,Identifying Compiler Options to Minimise Energy Consumption for Embedded   Platforms,Jeremy Bennett,cs.PF,http://arxiv.org/pdf/1303.6485v2
+1304.3767v1,2013-04-13T03:48:53Z,A Taxonomy of Performance Assurance Methodologies and its Application in   High Performance Computer Architectures,Hemant Rotithor,cs.PF,http://arxiv.org/pdf/1304.3767v1
+1307.1217v1,2013-07-04T06:23:19Z,Toward a Unified Performance and Power Consumption NAND Flash Memory   Model of Embedded and Solid State Secondary Storage Systems,Eric Senn,cs.PF,http://arxiv.org/pdf/1307.1217v1
+1307.7271v1,2013-07-27T15:27:18Z,On the Catalyzing Effect of Randomness on the Per-Flow Throughput in   Wireless Networks,Jens Schmitt,cs.PF,http://arxiv.org/pdf/1307.7271v1
+1307.7943v1,2013-07-30T12:34:49Z,The Implications of Diverse Applications and Scalable Data Sets in   Benchmarking Big Data Systems,Lixin Zhang,cs.PF,http://arxiv.org/pdf/1307.7943v1
+1307.8013v1,2013-07-30T15:23:25Z,Characterizing Data Analysis Workloads in Data Centers,Chunjie Luo,cs.PF,http://arxiv.org/pdf/1307.8013v1
+1404.4865v2,2014-04-18T19:34:24Z,On Time-Sensitive Revenue Management and Energy Scheduling in Green Data   Centers,Fei Li,cs.PF,http://arxiv.org/pdf/1404.4865v2
+1405.1916v1,2014-05-08T13:17:09Z,Asymptotic and Numerical Analysis of Multiserver Retrial Queue with   Guard Channel for Cellular Networks,Tuan Phung-Duc,cs.PF,http://arxiv.org/pdf/1405.1916v1
+1407.4777v4,2014-07-17T19:10:57Z,Optimizing Performance of Continuous-Time Stochastic Systems using   Timeout Synthesis,Vojtěch Řehák,cs.PF,http://arxiv.org/pdf/1407.4777v4
+1407.4879v1,2014-07-18T03:09:59Z,Synthetic Generation of Solar States for Smart Grid: A Multiple Segment   Markov Chain Apptoach,David B. Smith,cs.PF,http://arxiv.org/pdf/1407.4879v1
+0910.0819v1,2009-10-05T18:30:05Z,Performance Evaluation of Wimax Physical Layer under Adaptive Modulation   Techniques and Communication Channels,Md. Zahid Hasan,cs.PF,http://arxiv.org/pdf/0910.0819v1
+0910.4836v1,2009-10-26T09:31:38Z,Performance limitations for sparse matrix-vector multiplications on   current multicore environments,Holger Fehske,cs.PF,http://arxiv.org/pdf/0910.4836v1
+1003.4062v1,2010-03-22T05:13:11Z,A Rank Based Replacement Policy for Multimedia Server Cache Using   Zipf-Like Law,P Jayarekha,cs.PF,http://arxiv.org/pdf/1003.4062v1
+1003.4064v1,2010-03-22T05:17:46Z,Measuring Bandwidth for Super Computer Workloads,R. S. D. Wahida Banu,cs.PF,http://arxiv.org/pdf/1003.4064v1
+1005.0806v1,2010-05-05T18:33:28Z,A New Benchmark For Evaluation Of Graph-Theoretic Algorithms,Stephen Poole,cs.PF,http://arxiv.org/pdf/1005.0806v1
+1005.1992v1,2010-05-12T05:29:40Z,Analyzing the Performance of Active Queue Management Algorithms,Reshma Banu,cs.PF,http://arxiv.org/pdf/1005.1992v1
+1006.1674v2,2010-06-08T23:45:56Z,Seeing Through Black Boxes : Tracking Transactions through Queues under   Monitoring Resource Constraints,Dakshi Agrawal,cs.PF,http://arxiv.org/pdf/1006.1674v2
+1006.4824v1,2010-06-24T16:19:05Z,Decentralized Fair Scheduling in Two-Hop Relay-Assisted Cognitive OFDMA   Systems,Ying Cui,cs.PF,http://arxiv.org/pdf/1006.4824v1
+1103.3225v1,2011-03-16T16:37:49Z,Measuring NUMA effects with the STREAM benchmark,Lars Bergstrom,cs.PF,http://arxiv.org/pdf/1103.3225v1
+1112.0442v2,2011-12-02T12:17:22Z,Simple and Effective Dynamic Provisioning for Power-Proportional Data   Centers,Minghua Chen,cs.PF,http://arxiv.org/pdf/1112.0442v2
+1112.0850v1,2011-12-05T07:06:49Z,Performance engineering for the Lattice Boltzmann method on GPGPUs:   Architectural requirements and performance results,Gerhard Wellein,cs.PF,http://arxiv.org/pdf/1112.0850v1
+1112.1041v1,2011-12-05T19:57:44Z,Stabilization of Branching Queueing Networks,Stefan Kiefer,cs.PF,http://arxiv.org/pdf/1112.1041v1
+1112.2822v1,2011-12-13T08:50:47Z,A Temporal Approach to Stochastic Network Calculus,Min Xie,cs.PF,http://arxiv.org/pdf/1112.2822v1
+1211.5736v1,2012-11-25T07:53:55Z,Critical Utility Infrastructural Resilience,Paulo Verissimo,cs.PF,http://arxiv.org/pdf/1211.5736v1
+1211.5738v1,2012-11-25T07:56:54Z,Modeling the resilience of large and evolving systems,Karama Kanoun,cs.PF,http://arxiv.org/pdf/1211.5738v1
+1305.3490v1,2013-05-15T14:18:11Z,Stationary analysis of the Shortest Queue First service policy,Alain Simonian,cs.PF,http://arxiv.org/pdf/1305.3490v1
+1305.3496v1,2013-05-15T14:39:03Z,"Stationary analysis of the ""Shortest Queue First"" service policy: the   asymmetric case",Alain Simonian,cs.PF,http://arxiv.org/pdf/1305.3496v1
+1305.3536v1,2013-05-15T16:32:59Z,Analysis of a non-work conserving Generalized Processor Sharing queue,Fabrice Guillemin,cs.PF,http://arxiv.org/pdf/1305.3536v1
+1306.4773v1,2013-06-20T07:28:39Z,Performance Bounds for Multiclass FIFO in Communication Networks: A   Deterministic Case,Yuming Jiang,cs.PF,http://arxiv.org/pdf/1306.4773v1
+1308.5174v2,2013-08-23T16:29:27Z,BEEBS: Open Benchmarks for Energy Measurements on Embedded Platforms,Jeremy Bennett,cs.PF,http://arxiv.org/pdf/1308.5174v2
+1308.6469v1,2013-08-29T13:54:39Z,Using Chip Multithreading to Speed Up Scenario-Based Design Space   Exploration,P. van Stralen,cs.PF,http://arxiv.org/pdf/1308.6469v1
+1309.1365v1,2013-09-05T14:50:33Z,Mixed Polling with Rerouting and Applications,Richard Combes,cs.PF,http://arxiv.org/pdf/1309.1365v1
+1309.1613v1,2013-09-06T11:48:02Z,An Aggregation Technique For Large-Scale PEPA Models With Non-Uniform   Populations,Jane Hillston,cs.PF,http://arxiv.org/pdf/1309.1613v1
+1309.1894v1,2013-09-07T18:49:59Z,Software Autotuning for Sustainable Performance Portability,Boyana Norris,cs.PF,http://arxiv.org/pdf/1309.1894v1
+1312.2949v1,2013-12-10T05:15:32Z,A Survey of Embedded Software Profiling Methodologies,Arvind Rajwat,cs.PF,http://arxiv.org/pdf/1312.2949v1
+1401.3824v1,2014-01-16T04:18:47Z,Power Aware Wireless File Downloading: A Constrained Restless Bandit   Approach,Michael J. Neely,cs.PF,http://arxiv.org/pdf/1401.3824v1
+1403.2486v1,2014-03-11T06:55:04Z,Theoretical Evaluation of Offloading through Wireless LANs,Ryoichi Kawahara,cs.PF,http://arxiv.org/pdf/1403.2486v1
+1406.0184v1,2014-06-01T17:44:59Z,Parallelism Via Concurrency at Multiple Levels,Kamran Latif,cs.PF,http://arxiv.org/pdf/1406.0184v1
+1406.0285v1,2014-06-02T08:14:14Z,Block-Structured Supermarket Models,John C. S. Lui,cs.PF,http://arxiv.org/pdf/1406.0285v1
+1406.2069v1,2014-06-09T03:48:15Z,Patch-based Hybrid Modelling of Spatially Distributed Systems by Using   Stochastic HYPE - ZebraNet as an Example,Cheng Feng,cs.PF,http://arxiv.org/pdf/1406.2069v1
+1406.3084v4,2014-06-12T00:01:54Z,Exact Solutions for M/M/c/Setup Queues,Tuan Phung-Duc,cs.PF,http://arxiv.org/pdf/1406.3084v4
+1406.7527v1,2014-06-29T17:23:26Z,Dealing with Zero Density Using Piecewise Phase-type Approximation,Vojtěch Řehák,cs.PF,http://arxiv.org/pdf/1406.7527v1
+1408.5715v1,2014-08-25T10:40:43Z,Accelerating unstructured finite volume computations on   field-programmable gate arrays,Peter Szolgay,cs.PF,http://arxiv.org/pdf/1408.5715v1
+1409.0093v2,2014-08-30T09:05:04Z,"Proceedings of the 1st OMNeT++ Community Summit, Hamburg, Germany,   September 2, 2014",Matthias Wählisch,cs.PF,http://arxiv.org/pdf/1409.0093v2
+1409.0792v1,2014-09-01T10:57:16Z,Characterizing and Subsetting Big Data Workloads,Jingwei Li,cs.PF,http://arxiv.org/pdf/1409.0792v1
+1409.4297v2,2014-09-15T15:37:11Z,Performance analysis of a 240 thread tournament level MCTS Go program on   the Intel Xeon Phi,Jaap van den Herik,cs.PF,http://arxiv.org/pdf/1409.4297v2
+1409.8602v1,2014-09-30T15:41:41Z,Cache-aware Performance Modeling and Prediction for Dense Linear Algebra,Paolo Bientinesi,cs.PF,http://arxiv.org/pdf/1409.8602v1
+1410.5561v1,2014-10-21T07:35:32Z,Towards energy efficiency and maximum computational intensity for   stencil algorithms using wavefront diamond temporal blocking,David Keyes,cs.PF,http://arxiv.org/pdf/1410.5561v1
+1411.2867v1,2014-11-11T16:13:32Z,Buffer occupancy asymptotics in rate proportional sharing networks with   heterogeneous long-tailed inputs,Nikolay B. Likhanov,cs.PF,http://arxiv.org/pdf/1411.2867v1
+1411.4759v4,2014-11-18T08:20:39Z,Modeling LRU caches with Shot Noise request processes,Giovanni Luca Torrisi,cs.PF,http://arxiv.org/pdf/1411.4759v4
+1411.7224v1,2014-11-26T13:42:41Z,Efficient analysis of caching strategies under dynamic content   popularity,Stefano Traverso,cs.PF,http://arxiv.org/pdf/1411.7224v1
+1412.2347v1,2014-12-07T12:21:58Z,Proceedings of the 5th International Workshop on Adaptive Self-tuning   Computing Systems 2015 (ADAPT'15),Grigori Fursin,cs.PF,http://arxiv.org/pdf/1412.2347v1
+1412.7682v1,2014-12-24T15:10:03Z,Accelerating Correlation Power Analysis Using Graphics Processing Units,Darshana Jayasinghe,cs.PF,http://arxiv.org/pdf/1412.7682v1
+1501.06223v1,2015-01-26T00:14:20Z,A Roofline Visualization Framework,Boyana Norris,cs.PF,http://arxiv.org/pdf/1501.06223v1
+1503.06301v1,2015-03-21T13:51:48Z,Effective Handling of Urgent Jobs - Speed Up Scheduling for Computing   Applications,Kamalakar Karlapalem,cs.PF,http://arxiv.org/pdf/1503.06301v1
+1503.06382v1,2015-03-22T04:00:45Z,"On the tradeoff of average delay, average service cost, and average   utility for single server queues with monotone policies",Vineeth Bala Sukumaran,cs.PF,http://arxiv.org/pdf/1503.06382v1
+1503.07693v2,2015-03-26T11:38:29Z,Communication Patterns in Mean Field Models for Wireless Sensor Networks,Jean-Paul Linnartz,cs.PF,http://arxiv.org/pdf/1503.07693v2
+1503.07931v1,2015-03-27T00:08:13Z,Are Markov Models Effective for Storage Reliability Modelling?,K. Gopinath,cs.PF,http://arxiv.org/pdf/1503.07931v1
+1504.00591v2,2015-04-02T15:47:19Z,Run Time Approximation of Non-blocking Service Rates for Streaming   Systems,Roger D. Chamberlain,cs.PF,http://arxiv.org/pdf/1504.00591v2
+1504.00825v2,2015-04-03T11:57:11Z,ALEA: Fine-grain Energy Profiling with Basic Block Sampling,Bronis R. de Supinski,cs.PF,http://arxiv.org/pdf/1504.00825v2
+1504.04074v1,2015-04-16T00:43:27Z,Power Aware Wireless File Downloading: A Lyapunov Indexing Approach to A   Constrained Restless Bandit Problem,Michael J. Neely,cs.PF,http://arxiv.org/pdf/1504.04074v1
+1504.07908v1,2015-04-29T16:03:40Z,Inhomogeneous CTMC Model of a Call Center with Balking and Abandonment,Maciej Rafal Burak,cs.PF,http://arxiv.org/pdf/1504.07908v1
+1505.03374v2,2015-05-13T13:21:25Z,Data dependent energy modelling for worst case energy consumption   analysis,Kerstin Eder,cs.PF,http://arxiv.org/pdf/1505.03374v2
+1505.05135v1,2015-04-27T18:29:58Z,Network Simulator - Visão Geral da Ferramenta de Simulação de   Redes,Rafael Gonçalves Bezerra de Araújo,cs.PF,http://arxiv.org/pdf/1505.05135v1
+1506.01494v1,2015-06-04T07:48:37Z,Benchmarking Big Data Systems: State-of-the-Art and Future Directions,Lei Wang,cs.PF,http://arxiv.org/pdf/1506.01494v1
+1506.03997v1,2015-06-12T12:09:03Z,"Short Note on Costs of Floating Point Operations on current x86-64   Architectures: Denormals, Overflow, Underflow, and Division by Zero",Gerhard Wellein,cs.PF,http://arxiv.org/pdf/1506.03997v1
+1508.02055v1,2015-03-26T10:02:39Z,Scalable Reliability Modelling of RAID Storage Subsystems,K. Gopinath,cs.PF,http://arxiv.org/pdf/1508.02055v1
+1509.03778v2,2015-09-12T20:47:29Z,Automatic Loop Kernel Analysis and Performance Modeling With Kerncraft,Gerhard Wellein,cs.PF,http://arxiv.org/pdf/1509.03778v2
+1509.06506v1,2015-09-22T08:40:00Z,Latency Analysis of an Aerial Video Tracking System Using Fiacre and   Tina,Didier Le Botlan,cs.PF,http://arxiv.org/pdf/1509.06506v1
+1511.02494v3,2015-11-08T15:06:10Z,A lightweight optimization selection method for Sparse Matrix-Vector   Multiplication,Nectarios Koziris,cs.PF,http://arxiv.org/pdf/1511.02494v3
+1511.05585v1,2015-11-17T21:14:50Z,Model-Driven Automatic Tiling with Cache Associativity Lattices,Adrian Tate,cs.PF,http://arxiv.org/pdf/1511.05585v1
+1511.08635v1,2015-11-27T11:59:41Z,HPA: An Opportunistic Approach to Embedded Energy Efficiency,Alberto Dassatti,cs.PF,http://arxiv.org/pdf/1511.08635v1
+1512.05882v1,2015-12-18T09:28:16Z,Tandem Queueing Systems Maximum Throughput Problem,Daniela Andone,cs.PF,http://arxiv.org/pdf/1512.05882v1
+1602.07978v1,2016-02-25T16:13:23Z,Contrasting Effects of Replication in Parallel Systems: From Overload to   Underload and Back,Florin Ciucu,cs.PF,http://arxiv.org/pdf/1602.07978v1
+1603.01313v1,2016-03-03T23:21:04Z,FastCap: An Efficient and Fair Algorithm for Power Capping in Many-Core   Systems,Ricardo Bianchini,cs.PF,http://arxiv.org/pdf/1603.01313v1
+1603.01316v2,2016-03-04T00:05:18Z,Performance Assessment of WhatsApp and IMO on Android Operating System   (Lollipop and KitKat) during VoIP calls using 3G or WiFi,L. P. S. Viana,cs.PF,http://arxiv.org/pdf/1603.01316v2
+1604.06763v1,2016-04-22T18:10:10Z,Networks of multi-server queues with parallel processing,Céline Comte,cs.PF,http://arxiv.org/pdf/1604.06763v1
+1605.00559v1,2016-05-02T16:45:39Z,Age-of-Information in the Presence of Error,Longbo Huang,cs.PF,http://arxiv.org/pdf/1605.00559v1
+1605.02996v1,2016-05-10T13:21:29Z,Asymptotics of Insensitive Load Balancing and Blocking Phases,Balakrishna Prabhu,cs.PF,http://arxiv.org/pdf/1605.02996v1
+1605.03068v1,2016-05-10T15:44:54Z,On Stability and Sojourn Time of Peer-to-Peer Queuing Systems,Xing Li,cs.PF,http://arxiv.org/pdf/1605.03068v1
+1605.05753v1,2016-05-18T20:35:11Z,Delay Bounds for Multiclass FIFO,Vishal Misra,cs.PF,http://arxiv.org/pdf/1605.05753v1
+1605.08146v1,2016-05-26T05:19:26Z,On Pollaczek-Khinchine Formula for Peer-to-Peer Networks,Weisheng Hu,cs.PF,http://arxiv.org/pdf/1605.08146v1
+1606.02900v2,2016-06-09T10:45:45Z,On Continuous-space Embedding of Discrete-parameter Queuing Systems,Madhav P. Desai,cs.PF,http://arxiv.org/pdf/1606.02900v2
+1607.00714v2,2016-07-04T01:10:11Z,Stochastic Modeling of Hybrid Cache Systems,John C. S. Lui,cs.PF,http://arxiv.org/pdf/1607.00714v2
+1607.04298v4,2016-07-14T20:09:47Z,"Optimal Placement of Cores, Caches and Memory Controllers in Network   On-Chip",Farshid Farhat,cs.PF,http://arxiv.org/pdf/1607.04298v4
+1608.03676v1,2016-08-12T04:58:16Z,Coz: Finding Code that Counts with Causal Profiling,Emery D. Berger,cs.PF,http://arxiv.org/pdf/1608.03676v1
+1608.03984v1,2016-08-13T13:57:14Z,Performance prediction of finite-difference solvers for different   computer architectures,Gerard Gorman,cs.PF,http://arxiv.org/pdf/1608.03984v1
+1608.04295v1,2016-08-15T15:02:13Z,Robust benchmarking in noisy environments,Jarrett Revels,cs.PF,http://arxiv.org/pdf/1608.04295v1
+1609.03347v1,2016-09-12T11:18:58Z,An ECM-based energy-efficiency optimization approach for   bandwidth-limited streaming kernels on recent Intel Xeon processors,Dietmar Fey,cs.PF,http://arxiv.org/pdf/1609.03347v1
+1610.00560v1,2016-10-03T14:05:04Z,Poly-Symmetry in Processor-Sharing Networks,Gustavo de Veciana,cs.PF,http://arxiv.org/pdf/1610.00560v1
+1610.01267v1,2016-10-05T03:55:02Z,10-millisecond Computing,Lei Wang,cs.PF,http://arxiv.org/pdf/1610.01267v1
+1610.06307v1,2016-10-20T07:23:33Z,Breakdown of a Benchmark Score Without Internal Analysis of Benchmarking   Program,Kazuyuki Shudo,cs.PF,http://arxiv.org/pdf/1610.06307v1
+1611.07409v1,2016-11-22T16:50:42Z,A Metric for Performance Portability,V. W. Lee,cs.PF,http://arxiv.org/pdf/1611.07409v1
+1612.03709v1,2016-12-12T14:37:34Z,Geographical Load Balancing across Green Datacenters,Giuseppe Bianchi,cs.PF,http://arxiv.org/pdf/1612.03709v1
+1612.05486v3,2016-12-16T14:37:19Z,Optimizing Stochastic Scheduling in Fork-Join Queueing Models: Bounds   and Applications,Heinz Koeppl,cs.PF,http://arxiv.org/pdf/1612.05486v3
+1612.05543v1,2016-12-16T16:33:34Z,A Generalized Performance Evaluation Framework for Parallel Systems with   Output Synchronization,Heinz Koeppl,cs.PF,http://arxiv.org/pdf/1612.05543v1
+1612.09532v1,2016-12-04T00:03:23Z,M/g/c/c state dependent queueing model for road traffic simulation,Nadir Farhi,cs.PF,http://arxiv.org/pdf/1612.09532v1
+1701.05308v1,2017-01-19T06:23:00Z,GPGPU Performance Estimation with Core and Memory Frequency Scaling,Xiaowen Chu,cs.PF,http://arxiv.org/pdf/1701.05308v1
+1701.06004v1,2017-01-21T10:00:27Z,Light traffic behavior under the power-of-two load balancing strategy:   The case of heterogeneous servers,Armand M. Makowski,cs.PF,http://arxiv.org/pdf/1701.06004v1
+1701.06415v1,2017-01-20T16:21:41Z,Steady state availability general equations of decision and sequential   processes in Continuous Time Markov Chain models,Eduardo M. Vasconcelos,cs.PF,http://arxiv.org/pdf/1701.06415v1
+1702.04653v1,2017-01-13T21:20:06Z,Kerncraft: A Tool for Analytic Performance Modeling of Loop Kernels,Gerhard Wellein,cs.PF,http://arxiv.org/pdf/1702.04653v1
+1702.04942v1,2017-02-16T12:21:11Z,Benchmarking the computing resources at the Instituto de Astrofísica   de Canarias,Juan Carlos Trelles Arjona,cs.PF,http://arxiv.org/pdf/1702.04942v1
+cs/9808004v1,1998-08-25T12:59:21Z,Differentiated End-to-End Internet Services using a Weighted   Proportional Fair Sharing TCP,Philippe Oechslin,cs.NI,http://arxiv.org/pdf/cs/9808004v1
+cs/9809004v1,1998-09-02T00:49:25Z,Performance / Price Sort,Chris Nyberg,cs.DB,http://arxiv.org/pdf/cs/9809004v1
+cs/9810010v2,1998-10-09T20:29:43Z,C++ Templates as Partial Evaluation,Todd L. Veldhuizen,cs.PL,http://arxiv.org/pdf/cs/9810010v2
+cs/9902024v1,1999-02-11T13:13:04Z,Algorithms of Two-Level Parallelization for DSMC of Unsteady Flows in   Molecular Gasdynamics,Vladimir V. Zakharov,cs.CE,http://arxiv.org/pdf/cs/9902024v1
+cs/0006014v1,2000-06-08T16:50:24Z,Solaris System Resource Manager: All I Ever Wanted Was My Unfair   Advantage (And Why You Can't Have It!),Neil J. Gunther,cs.PF,http://arxiv.org/pdf/cs/0006014v1
+cs/0006015v2,2000-06-08T17:02:51Z,UNIX Resource Managers: Capacity Planning and Resource Issues,Neil J. Gunther,cs.PF,http://arxiv.org/pdf/cs/0006015v2
+cs/0006016v1,2000-06-08T18:08:19Z,The X-Files: Investigating Alien Performance in a Thin-client World,Neil J. Gunther,cs.PF,http://arxiv.org/pdf/cs/0006016v1
+cs/0006022v1,2000-06-10T23:53:12Z,Multicast-based Architecture for IP Mobility: Simulation Analysis and   Comparison with Basic Mobile IP,Ahmed Helmy,cs.NI,http://arxiv.org/pdf/cs/0006022v1
+cs/0007027v1,2000-07-14T17:44:41Z,Efficient cache use for stencil operations on structured discretization   grids,Rob F. Van der Wijngaart,cs.PF,http://arxiv.org/pdf/cs/0007027v1
+cs/0012010v1,2000-12-15T14:04:28Z,The Role of Commutativity in Constraint Propagation Algorithms,Krzysztof R. Apt,cs.PF,http://arxiv.org/pdf/cs/0012010v1
+cs/0107001v2,2001-07-02T08:21:15Z,Analysis of Network Traffic in Switched Ethernet Systems,Peter Harrison,cs.PF,http://arxiv.org/pdf/cs/0107001v2
+cs/0205004v1,2002-05-04T02:17:09Z,Weaves: A Novel Direct Code Execution Interface for Parallel High   Performance Scientific Codes,Naren Ramakrishnan,cs.DC,http://arxiv.org/pdf/cs/0205004v1
+cs/0209029v1,2002-09-25T08:50:18Z,A generalization of Amdahl's law and relative conditions of parallelism,Gianluca Argentini,cs.DC,http://arxiv.org/pdf/cs/0209029v1
+cs/0210017v1,2002-10-17T18:20:08Z,A New Interpretation of Amdahl's Law and Geometric Scalability,Neil J. Gunther,cs.DC,http://arxiv.org/pdf/cs/0210017v1
+cs/0211024v1,2002-11-20T22:32:56Z,Narses: A Scalable Flow-Based Network Simulator,Mary Baker,cs.PF,http://arxiv.org/pdf/cs/0211024v1
+cs/0306073v1,2003-06-13T20:16:30Z,GridMonitor: Integration of Large Scale Facility Fabric Monitoring with   Meta Data Service in Grid Environment,Patrick McGuigan,cs.DC,http://arxiv.org/pdf/cs/0306073v1
+cs/0306090v1,2003-06-14T10:46:34Z,Worldwide Fast File Replication on Grid Datafarm,Noriyuki Soda,cs.PF,http://arxiv.org/pdf/cs/0306090v1
+cs/0307058v1,2003-07-25T21:45:15Z,Efficient Instrumentation for Performance Profiling,Raimondas Lencevicius,cs.PF,http://arxiv.org/pdf/cs/0307058v1
+cs/0310001v1,2003-10-03T21:01:49Z,A Performance Analysis Tool for Nokia Mobile Phone Software,Raimondas Lencevicius,cs.SE,http://arxiv.org/pdf/cs/0310001v1
+cs/0311035v1,2003-11-24T04:49:23Z,Improving TCP/IP Performance over Wireless IEEE 802.11 Link,Mokhtar Aboelaze,cs.NI,http://arxiv.org/pdf/cs/0311035v1
+cs/0311049v1,2003-11-27T23:02:48Z,Performance of TCP/UDP under Ad Hoc IEEE802.11,Mokhtar Aboelaze,cs.NI,http://arxiv.org/pdf/cs/0311049v1
+cs/0312006v1,2003-12-02T15:47:19Z,Benchmarking and Implementation of Probability-Based Simulations on   Programmable Graphics Cards,J. Spiletic,cs.GR,http://arxiv.org/pdf/cs/0312006v1
+cs/0312035v1,2003-12-17T13:01:18Z,Analysis of Implementation Hierocrypt-3 algorithm (and its comparison to   Camellia algorithm) using ALTERA devices,Marcin Rogawski,cs.CR,http://arxiv.org/pdf/cs/0312035v1
+cs/0403021v1,2004-03-12T10:42:25Z,A Quick Look at SATA Disk Performance,Jim Gray,cs.DB,http://arxiv.org/pdf/cs/0403021v1
+cs/0403029v1,2004-03-17T22:42:52Z,Characterization of the Burst Stabilization Protocol for the RR/RR CICQ   Switch,Kenji Yoshigoe,cs.NI,http://arxiv.org/pdf/cs/0403029v1
+cs/0403030v1,2004-03-17T23:02:55Z,Performance Evaluation of Packet-to-Cell Segmentation Schemes in Input   Buffered Packet Switches,N. J. Gunther,cs.NI,http://arxiv.org/pdf/cs/0403030v1
+cs/0404001v1,2004-04-01T16:54:42Z,On the Practicality of Intrinsic Reconfiguration As a Fault Recovery   Method in Analog Systems,Garrison W. Greenwood,cs.PF,http://arxiv.org/pdf/cs/0404001v1
+cs/0404043v1,2004-04-21T20:07:07Z,Benchmarking Blunders and Things That Go Bump in the Night,Neil J. Gunther,cs.PF,http://arxiv.org/pdf/cs/0404043v1
+cs/0406042v1,2004-06-22T12:19:54Z,Business Process Measures,Valdis Vitolins,cs.CE,http://arxiv.org/pdf/cs/0406042v1
+cs/0407062v1,2004-07-28T14:07:58Z,"Performance Analysis of the Globus Toolkit Monitoring and Discovery   Service, MDS2",Jennifer M. Schopf,cs.DC,http://arxiv.org/pdf/cs/0407062v1
+cs/0408002v1,2004-07-31T14:43:23Z,Roaming Real-Time Applications - Mobility Services in IPv6 Networks,Matthias Wählisch,cs.NI,http://arxiv.org/pdf/cs/0408002v1
+cs/0408009v1,2004-08-03T10:18:54Z,Performance Analysis of Multicast Mobility in a Hierarchical Mobile IP   Proxy Environment,Matthias Wählisch,cs.NI,http://arxiv.org/pdf/cs/0408009v1
+cs/0410012v1,2004-10-05T22:38:14Z,DiPerF: an automated DIstributed PERformance testing Framework,Ian Foster,cs.PF,http://arxiv.org/pdf/cs/0410012v1
+cs/0410066v2,2004-10-25T22:23:17Z,Fast Query Processing by Distributing an Index over CPU Caches,Gene Cooperman,cs.DC,http://arxiv.org/pdf/cs/0410066v2
+cs/0411042v1,2004-11-12T22:31:03Z,An Empirical Analysis of Internet Protocol Version 6 (IPv6),Ioan Raicu,cs.NI,http://arxiv.org/pdf/cs/0411042v1
+cs/0412027v1,2004-12-07T15:27:47Z,Correlated dynamics in human printing behavior,Maya Paczuski,cs.PF,http://arxiv.org/pdf/cs/0412027v1
+cs/0502003v1,2005-02-01T12:23:26Z,Shawn: A new approach to simulating wireless sensor networks,Stefan Fischer,cs.DC,http://arxiv.org/pdf/cs/0502003v1
+cs/0502009v1,2005-02-02T03:26:40Z,Performance Considerations for Gigabyte per Second Transcontinental   Disk-to-Disk File Transfers,Jim Gray,cs.DB,http://arxiv.org/pdf/cs/0502009v1
+cs/0502012v1,2005-02-02T04:43:33Z,Sequential File Programming Patterns and Performance with .NET,Jim Gray,cs.PF,http://arxiv.org/pdf/cs/0502012v1
+cs/0505085v1,2005-05-31T08:23:32Z,Improving PARMA Trailing,Peter J. Stuckey,cs.PL,http://arxiv.org/pdf/cs/0505085v1
+cs/0507073v1,2005-07-29T19:33:13Z,Software Performance Analysis,Makan Pourzandi,cs.PF,http://arxiv.org/pdf/cs/0507073v1
+cs/0508063v1,2005-08-12T16:13:32Z,"Disks, Partitions, Volumes and RAID Performance with the Linux Operating   System",Michel R. Dagenais,cs.PF,http://arxiv.org/pdf/cs/0508063v1
+cs/0512043v1,2005-12-10T08:04:32Z,Random Walks with Anti-Correlated Steps,John Noga,cs.DM,http://arxiv.org/pdf/cs/0512043v1
+cs/0601097v2,2006-01-23T11:47:06Z,Compression Scheme for Faster and Secure Data Transmission Over Internet,Dr. V. K. Govindan,cs.PF,http://arxiv.org/pdf/cs/0601097v2
+cs/0602061v1,2006-02-16T22:33:04Z,The Computational and Storage Potential of Volunteer Computing,Gilles Fedak,cs.DC,http://arxiv.org/pdf/cs/0602061v1
+cs/0603099v1,2006-03-26T20:19:59Z,Benchmark Problems for Constraint Solving,Tudor Muresan,cs.PF,http://arxiv.org/pdf/cs/0603099v1
+cs/0605030v1,2006-05-08T08:04:20Z,A Delay Analysis of Maximal Matching Switching with Speedup,Sanjay Lall,cs.NI,http://arxiv.org/pdf/cs/0605030v1
+cs/0606120v1,2006-06-29T09:53:05Z,On symmetric sandpiles,Theophilos Pisokas,cs.CC,http://arxiv.org/pdf/cs/0606120v1
+cs/0607041v1,2006-07-10T19:46:47Z,Methods for Partitioning Data to Improve Parallel Execution Time for   Sorting on Heterogeneous Clusters,the SafeScale Collaboration,cs.DC,http://arxiv.org/pdf/cs/0607041v1
+cs/0608063v1,2006-08-15T19:24:02Z,A Generic Lazy Evaluation Scheme for Exact Geometric Computations,Andreas Fabri,cs.CG,http://arxiv.org/pdf/cs/0608063v1
+cs/0610028v1,2006-10-05T17:58:36Z,Memory and compiler optimizations for low-power and -energy,Olivier Zendra,cs.PL,http://arxiv.org/pdf/cs/0610028v1
+cs/0611064v1,2006-11-14T22:58:32Z,Distributed Link Scheduling with Constant Overhead,R. Srikant,cs.NI,http://arxiv.org/pdf/cs/0611064v1
+cs/0611093v2,2006-11-20T09:08:40Z,Effectiveness of Garbage Collection in MIT/GNU Scheme,Uday Khedker,cs.PL,http://arxiv.org/pdf/cs/0611093v2
+cs/0612048v1,2006-12-08T00:44:26Z,Queue Model of Leaf Degree Keeping Process in Gnutella Network,changjia chen,cs.NI,http://arxiv.org/pdf/cs/0612048v1
+cs/0612105v2,2006-12-21T06:38:21Z,"Towards Parallel Computing on the Internet: Applications, Architectures,   Models and Programming Tools",Aaron Harwood,cs.DC,http://arxiv.org/pdf/cs/0612105v2
+cs/0701001v1,2007-01-02T14:14:11Z,On High Spatial Reuse Link Scheduling in STDMA Wireless Ad Hoc Networks,Abhay Karandikar,cs.PF,http://arxiv.org/pdf/cs/0701001v1
+cs/0701161v1,2007-01-25T23:51:22Z,Thousands of DebitCredit Transactions-Per-Second: Easy and Inexpensive,Charles Levine,cs.DB,http://arxiv.org/pdf/cs/0701161v1
+cs/0701162v1,2007-01-25T23:57:15Z,A Measure of Transaction Processing 20 Years Later,Jim Gray,cs.DB,http://arxiv.org/pdf/cs/0701162v1
+cs/0701191v1,2007-01-30T15:20:07Z,The parallel implementation of the Astrée static analyzer,David Monniaux,cs.PL,http://arxiv.org/pdf/cs/0701191v1
+cs/0701193v1,2007-01-30T16:57:14Z,A Static Analyzer for Large Safety-Critical Software,Xavier Rival,cs.PL,http://arxiv.org/pdf/cs/0701193v1
+cs/0701195v1,2007-01-30T17:14:52Z,An Abstract Monte-Carlo Method for the Analysis of Probabilistic   Programs,David Monniaux,cs.PL,http://arxiv.org/pdf/cs/0701195v1
+cs/0702062v1,2007-02-11T09:52:12Z,Noise Limited Computational Speed,Luca Gammaitoni,cs.AR,http://arxiv.org/pdf/cs/0702062v1
+cs/0703056v3,2007-03-12T21:42:59Z,Unasssuming View-Size Estimation Techniques in OLAP,Daniel Lemire,cs.DB,http://arxiv.org/pdf/cs/0703056v3
+cs/0703058v3,2007-03-13T17:46:11Z,A Comparison of Five Probabilistic View-Size Estimation Techniques in   OLAP,Daniel Lemire,cs.DB,http://arxiv.org/pdf/cs/0703058v3
+0704.0730v1,2007-04-05T14:47:25Z,Revisiting the Issues On Netflow Sample and Export Performance,Saleem Bhatti,cs.PF,http://arxiv.org/pdf/0704.0730v1
+0704.0788v1,2007-04-05T19:47:54Z,Optimal Synthesis of Multiple Algorithms,Kerry M. Soileau,cs.DS,http://arxiv.org/pdf/0704.0788v1
+0704.0861v1,2007-04-06T08:50:34Z,Empirical analysis and statistical modeling of attack processes based on   honeypots,Vincent Nicomette,cs.PF,http://arxiv.org/pdf/0704.0861v1
+0704.0865v1,2007-04-06T09:33:06Z,An architecture-based dependability modeling framework using AADL,Mohamed Kaaniche,cs.PF,http://arxiv.org/pdf/0704.0865v1
+0705.1939v1,2007-05-14T13:14:33Z,Towards Informative Statistical Flow Inversion,Miguel Rio,cs.NI,http://arxiv.org/pdf/0705.1939v1
+0705.2065v1,2007-05-15T01:42:44Z,Mean Field Models of Message Throughput in Dynamic Peer-to-Peer Systems,Olga Ohrimenko,cs.DC,http://arxiv.org/pdf/0705.2065v1
+0705.2819v1,2007-05-19T13:54:25Z,An Autonomous Distributed Admission Control Scheme for IEEE 802.11 DCF,Varsha Apte,cs.NI,http://arxiv.org/pdf/0705.2819v1
+0705.3015v1,2007-05-21T19:00:25Z,An Extensible Timing Infrastructure for Adaptive Large-scale   Applications,Erik Schnetter,cs.PF,http://arxiv.org/pdf/0705.3015v1
+0706.2839v2,2007-06-19T17:12:47Z,Cache Analysis of Non-uniform Distribution Sorting Algorithms,Rajeev Raman,cs.DS,http://arxiv.org/pdf/0706.2839v2
+0706.3984v2,2007-06-27T09:14:40Z,A Comparison of Push and Pull Techniques for Ajax,Arie van Deursen,cs.SE,http://arxiv.org/pdf/0706.3984v2
+0707.1644v1,2007-07-11T15:13:39Z,Fast and Simple Relational Processing of Uncertain Data,Dan Olteanu,cs.DB,http://arxiv.org/pdf/0707.1644v1
+0708.3722v1,2007-08-28T07:15:08Z,Formally Verified Argument Reduction with a Fused-Multiply-Add,Ren Cang Li,cs.MS,http://arxiv.org/pdf/0708.3722v1
+0709.1024v1,2007-09-07T08:52:32Z,Computational performance of a parallelized high-order spectral and   mortar element toolbox,Michel O. Deville,cs.DC,http://arxiv.org/pdf/0709.1024v1
+0710.0789v1,2007-10-03T13:46:01Z,Wireless Local Area Networks with Multiple-Packet Reception Capability,Soung Chang Liew,cs.PF,http://arxiv.org/pdf/0710.0789v1
+0710.1455v1,2007-10-08T01:56:20Z,Superrecursive Features of Interactive Computation,Mark Burgin,cs.DC,http://arxiv.org/pdf/0710.1455v1
+0710.3916v1,2007-10-21T09:40:38Z,Optimized Design of Survivable MPLS over Optical Transport Networks.   Optical Switching and Networking,Hisao Nakajima,cs.NI,http://arxiv.org/pdf/0710.3916v1
+0710.3955v1,2007-10-21T22:59:27Z,On the Behavior of the Distributed Coordination Function of IEEE 802.11   with Multirate Capability under General Transmission Conditions,M. Mondin,cs.NI,http://arxiv.org/pdf/0710.3955v1
+0710.4261v1,2007-10-23T11:25:44Z,Survivable MPLS Over Optical Transport Networks: Cost and Resource Usage   Analysis,Hisao Nakajima,cs.NI,http://arxiv.org/pdf/0710.4261v1
+0710.4643v1,2007-10-25T08:14:40Z,Generic Pipelined Processor Modeling and High Performance Cycle-Accurate   Simulator Generation,Nikil Dutt,cs.AR,http://arxiv.org/pdf/0710.4643v1
+0712.0811v2,2007-12-05T19:55:16Z,The Fast Fibonacci Decompression Algorithm,E. El-Qawasmeh,cs.PF,http://arxiv.org/pdf/0712.0811v2
+0712.1854v1,2007-12-12T01:41:54Z,Back-of-the-Envelope Computation of Throughput Distributions in CSMA   Wireless Networks,B. Wong,cs.NI,http://arxiv.org/pdf/0712.1854v1
+0712.2302v2,2007-12-14T08:14:20Z,Data access optimizations for highly threaded multi-core CPUs with   multiple memory controllers,Gerhard Wellein,cs.DC,http://arxiv.org/pdf/0712.2302v2
+0712.3389v1,2007-12-20T12:15:26Z,RZBENCH: Performance evaluation of current HPC architectures using   low-level and application benchmarks,Gerhard Wellein,cs.DC,http://arxiv.org/pdf/0712.3389v1
+0712.3870v3,2007-12-22T16:52:39Z,Substitute Valuations: Generation and Structure,Bruce Hajek,cs.GT,http://arxiv.org/pdf/0712.3870v3
+0801.0455v1,2008-01-03T00:11:26Z,A System Theoretic Approach to Bandwidth Estimation,Shahrokh Valaee,cs.NI,http://arxiv.org/pdf/0801.0455v1
+0801.4592v2,2008-01-30T02:51:11Z,Understanding the Paradoxical Effects of Power Control on the Capacity   of Wireless Networks,Dah-Ming Chiu,cs.NI,http://arxiv.org/pdf/0801.4592v2
+0802.1176v2,2008-02-08T16:40:26Z,Note sur les temps de service résiduels dans les systèmes type M/G/c,Alexandre Brandwajn,cs.NI,http://arxiv.org/pdf/0802.1176v2
+0802.2543v2,2008-02-18T21:18:17Z,Self-* overload control for distributed web systems,Simone Silvestri,cs.NI,http://arxiv.org/pdf/0802.2543v2
+0802.3554v3,2008-02-25T03:23:33Z,Data Traffic Dynamics and Saturation on a Single Link,Reginald D. Smith,cs.NI,http://arxiv.org/pdf/0802.3554v3
+0803.1723v2,2008-03-12T08:57:50Z,Estimation of available bandwidth and measurement infrastructure for   Russian segment of Internet,A. M. Sukhov,cs.NI,http://arxiv.org/pdf/0803.1723v2
+0804.3814v1,2008-04-24T18:54:11Z,Link Enhancer for Vehicular Wireless ATM Communications,Amrendra Kumar,cs.NI,http://arxiv.org/pdf/0804.3814v1
+0805.1968v1,2008-05-14T05:00:12Z,Heavy-Tailed Limits for Medium Size Jobs and Comparison Scheduling,Jian Tan,cs.PF,http://arxiv.org/pdf/0805.1968v1
+0806.1139v1,2008-06-06T13:09:49Z,Significant Diagnostic Counterexamples in Probabilistic Model Checking,Peter van Rossum,cs.LO,http://arxiv.org/pdf/0806.1139v1
+0806.4627v2,2008-06-30T15:31:26Z,SP2Bench: A SPARQL Performance Benchmark,Christoph Pinkel,cs.DB,http://arxiv.org/pdf/0806.4627v2
+0807.1160v1,2008-07-08T03:23:41Z,Session Initiation Protocol (SIP) Server Overload Control: Design and   Evaluation,Erich Nahum,cs.NI,http://arxiv.org/pdf/0807.1160v1
+0807.1162v1,2008-07-08T03:51:17Z,Measurement and Evaluation of ENUM Server Performance,Henning Schulzrinne,cs.PF,http://arxiv.org/pdf/0807.1162v1
+0807.1228v1,2008-07-08T13:04:05Z,Restricted Mobility Improves Delay-Throughput Trade-offs in Mobile   Ad-Hoc Networks,Emilio Leonardi,cs.PF,http://arxiv.org/pdf/0807.1228v1
+0808.1062v1,2008-08-07T16:32:51Z,Optimization of Location Management for PCS Networks with CTRW Mobility   Model,Soung C. Liew,cs.NI,http://arxiv.org/pdf/0808.1062v1
+0808.1431v2,2008-08-11T00:06:16Z,A General Theory of Computational Scalability Based on Rational   Functions,Neil J. Gunther,cs.PF,http://arxiv.org/pdf/0808.1431v2
+0808.3747v3,2008-08-27T17:33:40Z,Forward Correction and Fountain codes in Delay Tolerant Networks,Francesco De Pellegrini,cs.NI,http://arxiv.org/pdf/0808.3747v3
+0808.3937v1,2008-08-28T15:35:10Z,Understanding Fairness and its Impact on Quality of Service in IEEE   802.11,Markus Fidler,cs.NI,http://arxiv.org/pdf/0808.3937v1
+0809.2532v1,2008-09-15T14:11:34Z,Multidimensional Visualization of Oracle Performance Using Barry007,Neil J. Gunther,cs.PF,http://arxiv.org/pdf/0809.2532v1
+0809.2541v1,2008-09-15T14:51:04Z,Getting in the Zone for Successful Scalability,Neil J. Gunther,cs.PF,http://arxiv.org/pdf/0809.2541v1
+0810.0135v1,2008-10-01T15:02:16Z,Occupancy distributions of homogeneous queueing systems under   opportunistic scheduling,Maxim Dashouk,cs.PF,http://arxiv.org/pdf/0810.0135v1
+0810.0394v1,2008-10-02T11:44:47Z,Mobility Management Framework,Sandor Imre,cs.PF,http://arxiv.org/pdf/0810.0394v1
+0811.2596v2,2008-11-16T19:10:43Z,An Enhanced Mathematical Model for Performance Evaluation of Optical   Burst Switched Networks,Hossam M. H. Shalaby,cs.NI,http://arxiv.org/pdf/0811.2596v2
+0811.3387v2,2008-11-20T17:56:17Z,Broadcasting in Prefix Space: P2P Data Dissemination with Predictable   Performance,Georg Wittenburg,cs.NI,http://arxiv.org/pdf/0811.3387v2
+0811.3712v1,2008-11-22T21:29:47Z,Performance Modeling and Evaluation for Information-Driven Networks,Guoqiang Hu,cs.PF,http://arxiv.org/pdf/0811.3712v1
+0812.0192v2,2008-12-01T00:55:14Z,A Simple Performance Analysis of a Core Node in an Optical Burst   Switched Network,Hossam M. H. Shalaby,cs.NI,http://arxiv.org/pdf/0812.0192v2
+0901.1782v1,2009-01-13T13:12:05Z,A Holistic Approach to Information Distribution in Ad Hoc Networks,Pietro Michiardi,cs.NI,http://arxiv.org/pdf/0901.1782v1
+0902.0558v1,2009-02-03T17:23:55Z,Analysis of bandwidth measurement methodologies over WLAN systems,Jordi Domingo-Pascual,cs.NI,http://arxiv.org/pdf/0902.0558v1
+0902.0782v2,2009-02-04T19:48:42Z,A Multiobjective Optimization Framework for Routing in Wireless Ad Hoc   Networks,Jean-Marie Gorce,cs.NI,http://arxiv.org/pdf/0902.0782v2
+0902.1169v1,2009-02-06T20:34:09Z,Node Weighted Scheduling,Ness B. Shroff,cs.NI,http://arxiv.org/pdf/0902.1169v1
+0902.1394v2,2009-02-09T10:05:48Z,Fundamental delay bounds in peer-to-peer chunk-based real-time streaming   systems,Stefano Salsano,cs.PF,http://arxiv.org/pdf/0902.1394v2
+0902.1884v1,2009-02-11T13:51:27Z,A Proof of Concept for Optimizing Task Parallelism by Locality Queues,Georg Hager,cs.PF,http://arxiv.org/pdf/0902.1884v1
+0902.2736v1,2009-02-16T14:26:36Z,Random Fruits on the Zielonka Tree,Florian Horn,cs.GT,http://arxiv.org/pdf/0902.2736v1
+0902.4527v1,2009-02-26T08:03:30Z,EXtensible Animator for Mobile Simulations: EXAMS,Nikolaos S. Livathinos,cs.NI,http://arxiv.org/pdf/0902.4527v1
+0902.4822v1,2009-02-27T12:47:22Z,Lightweight Task Analysis for Cache-Aware Scheduling on Heterogeneous   Clusters,Sverre Jarp,cs.DC,http://arxiv.org/pdf/0902.4822v1
+0903.0035v1,2009-02-28T04:11:39Z,ScALPEL: A Scalable Adaptive Lightweight Performance Evaluation Library   for application performance monitoring,Srinidhi Varadarajan,cs.DC,http://arxiv.org/pdf/0903.0035v1
+0903.0096v2,2009-03-01T02:29:37Z,Modeling Multi-Cell IEEE 802.11 WLANs with Application to Channel   Assignment,Anurag Kumar,cs.NI,http://arxiv.org/pdf/0903.0096v2
+0903.0520v1,2009-03-03T12:50:27Z,MANETS: High mobility can make up for low transmission power,Riccardo Silvestri,cs.DM,http://arxiv.org/pdf/0903.0520v1
+0903.2119v1,2009-03-12T10:16:13Z,Adaptive Mesh Approach for Predicting Algorithm Behavior with   Application to Visibility Culling in Computer Graphics,Martin Ziegler,cs.PF,http://arxiv.org/pdf/0903.2119v1
+0903.3900v1,2009-03-23T16:43:01Z,Optimized Implementation of Elliptic Curve Based Additive Homomorphic   Encryption for Wireless Sensor Networks,Sorin A. Huss,cs.CR,http://arxiv.org/pdf/0903.3900v1
+0903.4898v1,2009-03-27T20:05:17Z,Asymptotic Optimality of the Static Frequency Caching in the Presence of   Correlated Requests,Ana Radovanovic,cs.PF,http://arxiv.org/pdf/0903.4898v1
+0904.0771v1,2009-04-05T13:38:07Z,Effect of cell residence time variance on the performance of an advanced   paging algorithm,Michael E. Theologou,cs.PF,http://arxiv.org/pdf/0904.0771v1
+0904.2018v2,2009-04-14T11:47:31Z,Stochastic Service Guarantee Analysis Based on Time-Domain Models,Y. Jiang,cs.NI,http://arxiv.org/pdf/0904.2018v2
+0904.4155v5,2009-04-27T13:33:06Z,Fundamentals of the Backoff Process in 802.11: Dichotomy of the   Aggregation,Yuming Jiang,cs.NI,http://arxiv.org/pdf/0904.4155v5
+0905.0792v1,2009-05-06T10:55:04Z,Introducing a Performance Model for Bandwidth-Limited Loop Kernels,Georg Hager,cs.PF,http://arxiv.org/pdf/0905.0792v1
+0905.1738v3,2009-05-11T23:57:58Z,Information Ranking and Power Laws on Trees,Mariana Olvera-Cravioto,math.PR,http://arxiv.org/pdf/0905.1738v3
+0906.0557v4,2009-06-02T18:52:24Z,An Axiomatic Theory of Fairness in Network Resource Allocation,Ashutosh Sabharwal,cs.NI,http://arxiv.org/pdf/0906.0557v4
+0906.1326v1,2009-06-07T05:45:57Z,Similarity Analysis in Automatic Performance Debugging of SPMD Parallel   Programs,Dan Meng,cs.DC,http://arxiv.org/pdf/0906.1326v1
+0906.2311v2,2009-06-12T12:20:37Z,A note on uniform power connectivity in the SINR model,Yvonne-Anne Pignolet,cs.DM,http://arxiv.org/pdf/0906.2311v2
+0906.3966v1,2009-06-22T09:33:17Z,Application of non-uniform laxity to EDF for aperiodic tasks to improve   task utilisation on multicore platforms,A P Shanthi,cs.PF,http://arxiv.org/pdf/0906.3966v1
+0906.4217v1,2009-06-23T14:43:07Z,A Performance Analysis of HICCUPS - a Steganographic System for WLAN,Krzysztof Szczypiorski,cs.CR,http://arxiv.org/pdf/0906.4217v1
+0906.4834v1,2009-06-26T03:24:12Z,Global Stability Analysis for an Internet Congestion Control Model with   a Time-Varying Link Capacity,S. Khorsandi,cs.NI,http://arxiv.org/pdf/0906.4834v1
+0906.4936v1,2009-06-26T13:40:38Z,A New Approach to Manage QoS in Distributed Multimedia Systems,Bruno Sadeg,cs.MM,http://arxiv.org/pdf/0906.4936v1
+0907.2139v1,2009-07-13T11:21:23Z,Adaptive Point-to-Multipoint Transmission for Multimedia Broadcast   Multicast Services in LTE,Jörg Huschke,cs.NI,http://arxiv.org/pdf/0907.2139v1
+0907.2563v1,2009-07-15T12:05:27Z,Gossip-based Search in Multipeer Communication Networks,Piet Van Mieghem,cs.NI,http://arxiv.org/pdf/0907.2563v1
+0907.3710v1,2009-07-21T17:35:44Z,Throughput metrics and packet delay in TCP/IP networks,A. P. Platonov,cs.NI,http://arxiv.org/pdf/0907.3710v1
+0907.4881v1,2009-07-28T10:29:31Z,Approximate mechanism for measuring stability of Internet link in   aggregated Internet pipe,Mohamed Imran K R,cs.NI,http://arxiv.org/pdf/0907.4881v1
+0907.5443v1,2009-07-30T22:53:48Z,Dynamic Bandwidth Management in Distributed VoD based on the User Class   Using Agents,H D Maheshappa,cs.NI,http://arxiv.org/pdf/0907.5443v1
+0908.0126v1,2009-08-02T11:57:15Z,Applicability of a Novel Integer Programming Model for Wireless Sensor   Networks,Andre L. V. Coelho,cs.NI,http://arxiv.org/pdf/0908.0126v1
+0908.0222v1,2009-08-03T10:47:42Z,Performance Evaluation of Mesh based Multicast Reactive Routing Protocol   under Black Hole Attack,V. Vasudevan,cs.CR,http://arxiv.org/pdf/0908.0222v1
+0908.0893v1,2009-08-06T15:31:12Z,Nuzzer: A Large-Scale Device-Free Passive Localization System for   Wireless Environments,Moustafa Youssef,cs.NI,http://arxiv.org/pdf/0908.0893v1
+0909.0633v1,2009-09-03T12:32:46Z,Statistical End-to-end Performance Bounds for Networks under Long Memory   FBM Cross Traffic,Markus Fidler,cs.NI,http://arxiv.org/pdf/0909.0633v1
+0909.1772v1,2009-09-09T18:09:52Z,Visualizing the robustness of query execution,Janet Wiener,cs.DB,http://arxiv.org/pdf/0909.1772v1
+0909.1784v1,2009-09-09T18:10:39Z,Energy Efficiency: The New Holy Grail of Data Management Systems   Research,Parthasarathy Ranganathan,cs.DB,http://arxiv.org/pdf/0909.1784v1
+0909.2024v1,2009-09-10T19:43:30Z,A Lightweight Distributed Solution to Content Replication in Mobile   Networks,Marco Fiore,cs.NI,http://arxiv.org/pdf/0909.2024v1
+0909.2297v1,2009-09-13T12:36:22Z,Simulation of Resource Usage in Parallel Evolutionary Peptide   Optimization using JavaSpaces Technology,Andias Wira-Alam,cs.DC,http://arxiv.org/pdf/0909.2297v1
+0909.3356v4,2009-09-18T05:22:30Z,Capacity of Large-scale CSMA Wireless Networks,Soung Chang Liew,cs.NI,http://arxiv.org/pdf/0909.3356v4
+0909.3717v4,2009-09-21T09:32:27Z,Analytical Models for Energy Consumption in Infrastructure WLAN STAs   Carrying TCP Traffic,Venkata N. Padmanabhan,cs.NI,http://arxiv.org/pdf/0909.3717v4
+0909.4934v1,2009-09-27T14:20:46Z,Characteristics of multithreading models for high-performance IO driven   network applications,Mario Zagar,cs.NI,http://arxiv.org/pdf/0909.4934v1
+0911.0482v2,2009-11-03T03:41:32Z,AES Implementation and Performance Evaluation on 8-bit Microcontrollers,Yongtae Shin,cs.CR,http://arxiv.org/pdf/0911.0482v2
+0911.0484v1,2009-11-03T03:55:01Z,GoS Proposal to Improve Trust and Delay of MPLS Flows for MCN Services,Alfonso Gazo Cervero,cs.NI,http://arxiv.org/pdf/0911.0484v1
+0911.0488v1,2009-11-03T04:28:27Z,"SOAP Serialization Performance Enhancement, Design And Implementation Of   A Middleware",Parinaz Saadat,cs.SE,http://arxiv.org/pdf/0911.0488v1
+0911.1504v1,2009-11-08T09:59:15Z,Throughput Limits of IEEE 802.11 and IEEE 802.15.3,Kyung Sup Kwak,cs.NI,http://arxiv.org/pdf/0911.1504v1
+0911.1691v3,2009-11-09T15:03:31Z,Vertical partitioning of relational OLTP databases using integer   programming,Rasmus Resen Amossen,cs.DB,http://arxiv.org/pdf/0911.1691v3
+0911.3856v1,2009-11-19T19:27:50Z,Delay Bounds for Networks with Heavy-Tailed and Self-Similar Traffic,Florin Ciucu,cs.NI,http://arxiv.org/pdf/0911.3856v1
+0911.4047v1,2009-11-20T13:44:59Z,Efficient Local Unfolding with Ancestor Stacks,M. Hermenegildo,cs.PL,http://arxiv.org/pdf/0911.4047v1
+0912.1899v1,2009-12-10T01:51:14Z,Markovian Testing Equivalence and Exponentially Timed Internal Actions,Marco Bernardo,cs.LO,http://arxiv.org/pdf/0912.1899v1
+0912.1902v1,2009-12-10T01:52:07Z,"Strong, Weak and Branching Bisimulation for Transition Systems and   Markov Reward Chains: A Unifying Matrix Approach",Nikola Trčka,cs.LO,http://arxiv.org/pdf/0912.1902v1
+0912.2128v1,2009-12-10T23:40:35Z,Proceedings First Workshop on Quantitative Formal Methods: Theory and   Applications,Manuel Núñez,cs.LO,http://arxiv.org/pdf/0912.2128v1
+0912.4506v1,2009-12-22T20:44:59Z,Multicore-aware parallel temporal blocking of stencil codes for shared   and distributed memory,Gerhard Wellein,cs.PF,http://arxiv.org/pdf/0912.4506v1
+1001.1718v1,2010-01-11T17:52:13Z,Tiling for Performance Tuning on Different Models of GPUs,Samantha Jenkins,cs.DC,http://arxiv.org/pdf/1001.1718v1
+1001.1902v2,2010-01-12T18:11:23Z,RapidMind: Portability across Architectures and its Limitations,Volker Weinberg,cs.PF,http://arxiv.org/pdf/1001.1902v2
+1001.2604v1,2010-01-15T03:12:55Z,On the Model Transform in Stochastic Network Calculus,Jie Li,cs.PF,http://arxiv.org/pdf/1001.2604v1
+1001.2931v3,2010-01-17T22:14:42Z,Towards Transactional Load over XtreemFS,Jan Stender,cs.DC,http://arxiv.org/pdf/1001.2931v3
+1001.4108v2,2010-01-23T00:22:33Z,A Multi-Stage CUDA Kernel for Floyd-Warshall,Justin W Smith,cs.DC,http://arxiv.org/pdf/1001.4108v2
+1002.0134v1,2010-01-31T15:36:36Z,Constraint solvers: An empirical evaluation of design decisions,Lars Kotthoff,cs.AI,http://arxiv.org/pdf/1002.0134v1
+1002.1691v1,2010-02-08T19:12:53Z,Performance Evaluation of Unicast and Broadcast Mobile Ad hoc Network   Routing Protocols,Nayeema Islam,cs.NI,http://arxiv.org/pdf/1002.1691v1
+1002.1953v1,2010-02-09T19:47:34Z,Ahb Compatible DDR Sdram Controller Ip Core for Arm Based Soc,C. S. Hemanthkumar,cs.AR,http://arxiv.org/pdf/1002.1953v1
+1002.2450v1,2010-02-11T23:20:40Z,Modeling the Probability of Failure on LDAP Binding Operations in   Iplanet Web Proxy 3.6 Server,Alejandro Chinea Manrique de Lara,cs.PF,http://arxiv.org/pdf/1002.2450v1
+1002.4264v1,2010-02-23T08:17:43Z,Automatic Performance Debugging of SPMD Parallel Programs,Dan Meng,cs.DC,http://arxiv.org/pdf/1002.4264v1
+1004.0263v1,2010-04-02T00:31:28Z,On Memory Accelerated Signal Processing within Software Defined Radios,Mario Di Dio,cs.NI,http://arxiv.org/pdf/1004.0263v1
+1004.0395v3,2010-04-02T21:55:11Z,Estimating Self-Sustainability in Peer-to-Peer Swarming Systems,Arun Venkataramani,cs.NI,http://arxiv.org/pdf/1004.0395v3
+1004.1741v1,2010-04-10T20:56:21Z,Efficient multicore-aware parallelization strategies for iterative   stencil computations,Georg Hager,cs.PF,http://arxiv.org/pdf/1004.1741v1
+1004.4431v3,2010-04-26T08:33:25Z,LIKWID: A lightweight performance-oriented tool suite for x86 multicore   environments,Gerhard Wellein,cs.DC,http://arxiv.org/pdf/1004.4431v3
+1007.0542v1,2010-07-04T11:46:22Z,Limits of responsiveness concerning human-readable knowledge bases: an   operational analysis,G. C. Pentzaropoulos,cs.DL,http://arxiv.org/pdf/1007.0542v1
+1007.1388v1,2010-07-08T14:27:05Z,A Flexible Patch-Based Lattice Boltzmann Parallelization Approach for   Heterogeneous GPU-CPU Clusters,Gerhard Wellein,cs.DC,http://arxiv.org/pdf/1007.1388v1
+1007.5094v1,2010-07-29T00:13:09Z,A Compositional Semantics for Stochastic Reo Connectors,Farhad Arbab,cs.SE,http://arxiv.org/pdf/1007.5094v1
+1008.0050v1,2010-07-31T05:21:12Z,A Foundation for Stochastic Bandwidth Estimation of Networks with Random   Service,Jörg Liebeherr,cs.NI,http://arxiv.org/pdf/1008.0050v1
+1008.0227v1,2010-08-02T05:28:27Z,Fast Mixing of Parallel Glauber Dynamics and Low-Delay CSMA Scheduling,Jean Walrand,cs.NI,http://arxiv.org/pdf/1008.0227v1
+1008.1571v1,2010-08-09T19:23:10Z,Scaling Turbo Boost to a 1000 cores,Alexandra Fedorova,cs.PF,http://arxiv.org/pdf/1008.1571v1
+1008.1628v4,2010-08-10T04:15:04Z,Performance Analysis of Markov Modulated 1-Persistent CSMA/CA Protocols   with Exponential Backoff Scheduling,Tony T. Lee,cs.NI,http://arxiv.org/pdf/1008.1628v4
+1008.2849v2,2010-08-17T08:39:59Z,Faster Radix Sort via Virtual Memory and Write-Combining,Peter Sanders,cs.DS,http://arxiv.org/pdf/1008.2849v2
+1008.3681v1,2010-08-22T07:55:24Z,EVM as generic QoS trigger for heterogeneous wieless overlay network,Brahmjit Singh,cs.NI,http://arxiv.org/pdf/1008.3681v1
+1008.3932v2,2010-08-23T22:35:47Z,Multiple Timescale Dispatch and Scheduling for Stochastic Reliability in   Smart Grids with Wind Generation Integration,Junshan Zhang,cs.SY,http://arxiv.org/pdf/1008.3932v2
+1009.0386v1,2010-09-02T10:51:33Z,Analyzing the performance of probabilistic algorithm in noisy manets,Khalid Kaabneh,cs.NI,http://arxiv.org/pdf/1009.0386v1
+1009.0389v1,2010-09-02T10:58:42Z,Performance Evaluation of an OMPR Algorithm for Route Discovery in Noisy   MANETs,Rami Jaradat,cs.NI,http://arxiv.org/pdf/1009.0389v1
+1009.4597v2,2010-09-23T12:53:25Z,On Polynomial Multiplication in Chebyshev Basis,Pascal Giorgi,cs.CC,http://arxiv.org/pdf/1009.4597v2
+1010.0630v1,2010-10-04T15:44:44Z,Performance of wireless network coding: motivating small encoding   numbers,Lazaros Gkatzikis,cs.NI,http://arxiv.org/pdf/1010.0630v1
+1010.4475v1,2010-10-21T14:03:18Z,State Dependent Attempt Rate Modeling of Single Cell IEEE~802.11 WLANs   with Homogeneous Nodes and Poisson Packet Arrivals,Anurag Kumar,cs.NI,http://arxiv.org/pdf/1010.4475v1
+1011.0235v1,2010-11-01T01:26:11Z,Fast Histograms using Adaptive CUDA Streams,Babu Narayanan,cs.DC,http://arxiv.org/pdf/1011.0235v1
+1011.3595v1,2010-11-16T07:17:53Z,Optimizing real-time RDF data streams,Joshua Shinavier,cs.AI,http://arxiv.org/pdf/1011.3595v1
+1011.5317v2,2010-11-24T08:42:07Z,Performance of CSMA in Multi-Channel Wireless Networks,Mathieu Feuillet,cs.NI,http://arxiv.org/pdf/1011.5317v2
+1011.5674v3,2010-11-25T19:25:41Z,Delay-Based Back-Pressure Scheduling in Multihop Wireless Networks,Ness B. Shroff,cs.NI,http://arxiv.org/pdf/1011.5674v3
+1011.6223v3,2010-11-29T13:24:11Z,Just-In-Time compilation of OCaml byte-code,Benedikt Meurer,cs.PL,http://arxiv.org/pdf/1011.6223v3
+1101.1237v1,2011-01-06T15:47:59Z,Statistical Analysis of Link Scheduling on Long Paths,Almut Burchard,cs.NI,http://arxiv.org/pdf/1101.1237v1
+1102.3058v1,2011-02-15T12:56:25Z,Maximizing Cloud Providers Revenues via Energy Aware Allocation Policies,Ralph Deters,cs.DC,http://arxiv.org/pdf/1102.3058v1
+1102.3059v1,2011-02-15T13:07:53Z,Profit-Aware Server Allocation for Green Internet Services,Marios Dikaiakos,cs.PF,http://arxiv.org/pdf/1102.3059v1
+1102.3232v2,2011-02-16T04:01:19Z,Modelling on the Guaranteed QoS for Wireless Sensor Networks: A Network   Calculus Approach,Xiaoheng Deng,cs.NI,http://arxiv.org/pdf/1102.3232v2
+1102.3272v1,2011-02-16T09:25:26Z,On Allocation Policies for Power and Performance,Michele Mazzucco,cs.DC,http://arxiv.org/pdf/1102.3272v1
+1102.3699v1,2011-02-17T21:07:38Z,Towards Autonomic Service Provisioning Systems,Michele Mazzucco,cs.DC,http://arxiv.org/pdf/1102.3699v1
+1102.3703v1,2011-02-17T21:20:06Z,Allocation and Admission Policies for Service Streams,Paul McKee,cs.PF,http://arxiv.org/pdf/1102.3703v1
+1105.1811v1,2011-05-09T22:26:15Z,User Mode Memory Page Allocation: A Silver Bullet For Memory Allocation?,Niall Douglas,cs.OS,http://arxiv.org/pdf/1105.1811v1
+1105.1815v1,2011-05-09T22:39:46Z,User Mode Memory Page Management: An old idea applied anew to the memory   wall problem,Niall Douglas,cs.OS,http://arxiv.org/pdf/1105.1815v1
+1105.2264v1,2011-05-11T17:46:15Z,Distributed Semantic Web Data Management in HBase and MySQL Cluster,Pearl Brazier,cs.DB,http://arxiv.org/pdf/1105.2264v1
+1105.4301v1,2011-05-22T01:12:11Z,A Methodology for Optimizing Multithreaded System Scalability on   Multi-cores,Stefan Parvu,cs.DC,http://arxiv.org/pdf/1105.4301v1
+1105.5062v1,2011-05-25T15:22:00Z,Reserved or On-Demand Instances? A Revenue Maximization Model for Cloud   Providers,Marlon Dumas,cs.DC,http://arxiv.org/pdf/1105.5062v1
+1105.5881v2,2011-05-30T07:07:59Z,On the random access performance of Cell Broadband Engine with graph   analysis application,David A. Bader,cs.CE,http://arxiv.org/pdf/1105.5881v2
+1106.2568v1,2011-06-13T22:29:08Z,HMTT: A Hybrid Hardware/Software Tracing System for Bridging Memory   Trace's Semantic Gap,Jianping Fan,cs.AR,http://arxiv.org/pdf/1106.2568v1
+1106.4964v1,2011-06-24T13:10:54Z,Efficient implementation of the overlap operator on multi-GPUs,Frank X. Lee,hep-lat,http://arxiv.org/pdf/1106.4964v1
+1107.1536v1,2011-07-07T23:42:26Z,The M/M/Infinity Service System with Ranked Servers in Heavy Traffic,Nicholas Pippenger,math.PR,http://arxiv.org/pdf/1107.1536v1
+1107.2446v1,2011-07-13T01:34:59Z,An EM Algorithm for Continuous-time Bivariate Markov Chains,Yariv Ephraim,stat.ME,http://arxiv.org/pdf/1107.2446v1
+1107.4851v1,2011-07-25T06:43:39Z,AWRP: Adaptive Weight Ranking Policy for Improving Cache Performance,Debabrata Swain,cs.PF,http://arxiv.org/pdf/1107.4851v1
+1108.1378v1,2011-08-05T18:26:33Z,An Efficient Architecture for Information Retrieval in P2P Context Using   Hypergraph,Mohammad Hajjar,cs.DB,http://arxiv.org/pdf/1108.1378v1
+1108.1554v1,2011-08-07T16:52:18Z,A Stochastic Calculus for Network Systems with Renewable Energy Sources,Dimitri Marinakis,cs.PF,http://arxiv.org/pdf/1108.1554v1
+1108.5356v1,2011-08-26T17:24:38Z,Analysis of an M/M/1 Queue Using Fixed Order of Search for Arrivals and   Service,Nicholas Pippenger,math.PR,http://arxiv.org/pdf/1108.5356v1
+1109.0931v2,2011-09-05T15:17:12Z,An Empirical Study on variants of TCP over AODV routing protocol in   MANET,Md. Rafiqul Islam,cs.NI,http://arxiv.org/pdf/1109.0931v2
+1109.4974v2,2011-09-22T23:52:18Z,Cost of Virtual Machine Live Migration in Clouds: A Performance   Evaluation,Rajkumar Buyya,cs.DC,http://arxiv.org/pdf/1109.4974v2
+1109.5679v1,2011-09-26T19:27:21Z,Queries mining for efficient routing in P2P communities,Mohammad Hajjar,cs.PF,http://arxiv.org/pdf/1109.5679v1
+1109.6502v1,2011-09-29T12:15:23Z,An Empirical Study of UDP (CBR) Packet Performance over AODV Single &   Multi-Channel Parallel Transmission in MANET,Md. Rafiqul Islam,cs.NI,http://arxiv.org/pdf/1109.6502v1
+1110.1029v2,2011-10-05T16:05:41Z,Towards a native toplevel for the OCaml language,Benedikt Meurer,cs.PL,http://arxiv.org/pdf/1110.1029v2
+1110.1277v1,2011-10-05T07:25:37Z,Performance improvement of the software development project using the   Value Management approach,Bahia Bejar Ghadhab,cs.SE,http://arxiv.org/pdf/1110.1277v1
+1110.2753v2,2011-10-12T18:47:23Z,Stability of a Peer-to-Peer Communication System,Bruce Hajek,cs.PF,http://arxiv.org/pdf/1110.2753v2
+1110.3711v3,2011-10-17T15:54:48Z,Optimization strategies for parallel CPU and GPU implementations of a   meshfree particle method,Moncho Gómez-Gesteira,cs.PF,http://arxiv.org/pdf/1110.3711v3
+1110.6265v3,2011-10-28T07:03:15Z,Understanding BitTorrent Through Real Measurements,Pawel Kopiczko,cs.NI,http://arxiv.org/pdf/1110.6265v3
+1111.1628v1,2011-11-07T16:12:31Z,Updatable Queue Protocol Based On TCP For Virtual Reality Environment,Ayad M. Salhieh,cs.NI,http://arxiv.org/pdf/1111.1628v1
+1111.2996v1,2011-11-13T08:18:14Z,Performance Evaluation of Different Scheduling Algorithms in WiMAX,Yaser M. Khamayseh,cs.NI,http://arxiv.org/pdf/1111.2996v1
+1111.4287v1,2011-11-18T05:29:44Z,Parametric Estimation of the Ultimate Size of Hypercomputers,Dmitry Zinoviev,cs.PF,http://arxiv.org/pdf/1111.4287v1
+1111.4511v1,2011-11-18T22:48:05Z,Greening File Distribution: Centralized or Distributed?,Arturo Azcorra,cs.NI,http://arxiv.org/pdf/1111.4511v1
+1111.4624v3,2011-11-20T11:26:29Z,Sensing Matrix Setting Schemes for Cognitive Networks and Their   Performance Analysis,Masoumeh Nasiri-Kenari,cs.PF,http://arxiv.org/pdf/1111.4624v3
+1201.1695v1,2012-01-09T06:31:03Z,Some Observations on Optimal Frequency Selection in DVFS-based Energy   Consumption Minimization,Albert Y. Zomaya,cs.DC,http://arxiv.org/pdf/1201.1695v1
+1201.4655v1,2012-01-23T09:51:15Z,Reengineering multi tiered enterprise business applications for   performance enhancement and reciprocal or rectangular hyperbolic relation of   variation of data transportation time with row pre-fetch size of relational   database drivers,Sridhar Sowmiyanarayanan,cs.PF,http://arxiv.org/pdf/1201.4655v1
+1202.0414v1,2012-02-02T11:42:16Z,Generating a Performance Stochastic Model from UML Specifications,Mohamed Dbouk,cs.SE,http://arxiv.org/pdf/1202.0414v1
+1202.1877v2,2012-02-09T02:47:14Z,Effect of Packet Delay Variation on Video-Voice over DiffServ-MPLS in   IPv4-IPv6 Networks,Adrian Popescu,cs.NI,http://arxiv.org/pdf/1202.1877v2
+1202.3856v3,2012-02-17T09:28:24Z,Technical Report on Hypergraph-Partitioning-Based Models and Methods for   Exploiting Cache Locality in Sparse-Matrix Vector Multiplication,Cevdet Aykanat,cs.NA,http://arxiv.org/pdf/1202.3856v3
+1202.4423v1,2012-02-16T03:54:13Z,On the Reliability of RAID Systems: An Argument for More Check Drives,Marek Rychlik,cs.PF,http://arxiv.org/pdf/1202.4423v1
+1202.4880v1,2012-02-22T11:08:33Z,Performance Evaluation of the Random Replacement Policy for Networks of   Caches,Christian Tanguy,cs.PF,http://arxiv.org/pdf/1202.4880v1
+1202.5755v2,2012-02-26T12:53:15Z,Balancing Work and Size with Bounded Buffers,Michael Segal,cs.NI,http://arxiv.org/pdf/1202.5755v2
+1203.0920v2,2012-03-05T14:00:02Z,Fluid Model Checking,Jane Hillston,cs.LO,http://arxiv.org/pdf/1203.0920v2
+1203.1757v1,2012-03-08T11:34:52Z,Performance Analysis for Bandwidth Allocation in IEEE 802.16 Broadband   Wireless Networks using BMAP Queueing,Abdelkrim Haqiq,cs.NI,http://arxiv.org/pdf/1203.1757v1
+1203.1778v1,2012-03-08T12:51:47Z,A Comprehensive Study and Performance Comparison of M-ary Modulation   Schemes for an Efficient Wireless Mobile Communication System,M. Hasnat Kabir,cs.NI,http://arxiv.org/pdf/1203.1778v1
+1203.2195v1,2012-03-09T22:10:32Z,Performance Evaluation of Realistic Vanet Using Traffic Light Scenario,D. K. Lobiyal,cs.NI,http://arxiv.org/pdf/1203.2195v1
+1203.4054v2,2012-03-19T09:03:37Z,On Modelling and Prediction of Total CPU Usage for Applications in   MapReduce Environments,Albert Y. Zomaya,cs.DC,http://arxiv.org/pdf/1203.4054v2
+1204.1598v1,2012-04-07T06:24:53Z,Improving Seek Time for Column Store Using MMH Algorithm,Dr. A. K. Goyal,cs.DB,http://arxiv.org/pdf/1204.1598v1
+1204.1832v2,2012-04-09T08:47:58Z,Mathematical Modeling of Competitive Group Recommendation Systems with   Application to Peer Review Systems,John C. S. Lui,cs.IR,http://arxiv.org/pdf/1204.1832v2
+1204.2772v1,2012-04-12T17:07:58Z,Effect of Thread Level Parallelism on the Performance of Optimum   Architecture for Embedded Applications,Hojjat Taghdisi,cs.AR,http://arxiv.org/pdf/1204.2772v1
+1204.6255v1,2012-04-27T15:48:38Z,Revisiting the D-iteration method: runtime comparison,Philippe Raoult,cs.NA,http://arxiv.org/pdf/1204.6255v1
+1205.2005v2,2012-05-09T14:54:55Z,Mixed-mode implementation of PETSc for scalable linear algebra on   multi-core processors,James Southern,cs.DC,http://arxiv.org/pdf/1205.2005v2
+1205.2678v1,2012-02-08T15:00:32Z,"Evaluation of Proactive, Reactive and Hybrid Ad hoc Routing Protocol for   various Battery models in VANET using Qualnet",Gurpadam Singh,cs.PF,http://arxiv.org/pdf/1205.2678v1
+1205.2889v1,2012-05-13T17:54:51Z,A Comparative Study on the Performance of the Top DBMS Systems,Youssef Bassil,cs.DB,http://arxiv.org/pdf/1205.2889v1
+1205.3846v1,2012-05-17T04:27:30Z,A Method for the Characterisation of Observer Effects and its   Application to OML,Thierry Rakotoarivelo,cs.PF,http://arxiv.org/pdf/1205.3846v1
+1205.5871v3,2012-05-26T10:37:27Z,Squeezing out the Cloud via Profit-Maximizing Resource Allocation   Policies,Marlon Dumas,cs.DC,http://arxiv.org/pdf/1205.5871v3
+1206.0951v1,2012-06-05T16:22:37Z,A Cross-Layer Design Based on Geographic Information for Cooperative   Wireless Networks,Chin-Liang Wang,cs.NI,http://arxiv.org/pdf/1206.0951v1
+1206.1264v1,2012-06-06T16:07:58Z,Heavy Traffic Optimal Resource Allocation Algorithms for Cloud Computing   Clusters,Lei Ying,cs.PF,http://arxiv.org/pdf/1206.1264v1
+1206.2016v2,2012-06-10T10:39:04Z,Network Load Analysis and Provisioning of MapReduce Applications,Albert Y. Zomaya,cs.DC,http://arxiv.org/pdf/1206.2016v2
+1206.2129v1,2012-06-11T08:41:47Z,To Compress or Not To Compress: Processing vs Transmission Tradeoffs for   Energy Constrained Sensor Networking,Michele Rossi,cs.NI,http://arxiv.org/pdf/1206.2129v1
+1206.3738v1,2012-06-17T09:53:53Z,Best practices for HPM-assisted performance engineering on modern   multicore processors,Gerhard Wellein,cs.PF,http://arxiv.org/pdf/1206.3738v1
+1207.3876v1,2012-07-17T04:17:19Z,Cluster Based Hierarchical Routing Protocol for Wireless Sensor Network,Shaikh Enayet Ullah,cs.NI,http://arxiv.org/pdf/1207.3876v1
+1208.0505v1,2012-08-02T14:38:24Z,Criticality of Large Delay Tolerant Networks via Directed Continuum   Percolation in Space-Time,Jörg Ott,cs.PF,http://arxiv.org/pdf/1208.0505v1
+1208.2543v1,2012-08-13T10:48:39Z,Doing More for Less -- Cache-Aware Parallel Contraction Hierarchies   Preprocessing,Dennis Schieferdecker,cs.DS,http://arxiv.org/pdf/1208.2543v1
+1208.2908v4,2012-08-14T15:51:43Z,Exploring performance and power properties of modern multicore chips via   simple machine models,Gerhard Wellein,cs.PF,http://arxiv.org/pdf/1208.2908v4
+1208.6391v1,2012-08-31T06:32:38Z,On Benchmarking Embedded Linux Flash File Systems,Eric Senn,cs.OS,http://arxiv.org/pdf/1208.6391v1
+1209.1811v2,2012-09-09T16:39:23Z,Evaluating the SiteStory Transactional Web Archive With the ApacheBench   Tool,Michael L. Nelson,cs.PF,http://arxiv.org/pdf/1209.1811v2
+1209.1983v1,2012-09-10T13:27:23Z,Toward a New Protocol to Evaluate Recommender Systems,Eric Gaussier,cs.IR,http://arxiv.org/pdf/1209.1983v1
+1209.2508v1,2012-09-12T07:25:19Z,Acquisition probability of multi-user UWB systems in the presence of a   novel synchronization approach,Ridha Bouallegue,cs.NI,http://arxiv.org/pdf/1209.2508v1
+1209.3253v1,2012-09-14T16:36:49Z,A framework for the analytical performance assessment of matrix and   tensor-based ESPRIT-type algorithms,Martin Haardt,cs.PF,http://arxiv.org/pdf/1209.3253v1
+1209.3638v2,2012-09-17T12:42:23Z,Congestion Control of TCP Flows in Internet Routers by Means of Index   Policy,Peter Jacko,cs.NI,http://arxiv.org/pdf/1209.3638v2
+1209.3721v1,2012-09-17T16:59:51Z,A Resource Intensive Traffic-Aware Scheme for Cluster-based Energy   Conservation in Wireless Devices,Muneer Bani Yassein,cs.DC,http://arxiv.org/pdf/1209.3721v1
+1209.4527v1,2012-09-20T13:38:48Z,Delay-Optimal Data Forwarding in Vehicular Sensor Networks,Song Chong,cs.NI,http://arxiv.org/pdf/1209.4527v1
+1209.5074v1,2012-09-23T15:13:38Z,Locating Disruptions on Internet Paths through End-to-End Measurements,Yuming Jiang,cs.NI,http://arxiv.org/pdf/1209.5074v1
+1210.8421v2,2012-10-31T18:04:47Z,Distribution of the Number of Retransmissions of Bounded Documents,Evangelia D. Skiani,cs.PF,http://arxiv.org/pdf/1210.8421v2
+1212.0075v2,2012-12-01T07:01:57Z,Optimal Power Allocation for Outage Minimization in Fading Channels with   Energy Harvesting Constraints,Shuguang Cui,cs.NI,http://arxiv.org/pdf/1212.0075v2
+1212.4247v1,2012-12-18T07:10:26Z,Information model for model driven safety requirements management of   complex systems,Nabil Sadou,cs.SE,http://arxiv.org/pdf/1212.4247v1
+1212.4489v1,2012-12-18T05:23:49Z,Opportunistic Relaying in Wireless Body Area Networks: Coexistence   Performance,David Smith,cs.NI,http://arxiv.org/pdf/1212.4489v1
+1212.4846v1,2012-12-19T21:00:28Z,Operational semantics for product-form solution,Maria Grazia Vigliotti,cs.PF,http://arxiv.org/pdf/1212.4846v1
+1302.1078v1,2013-02-05T16:06:15Z,Performance Evaluation of Sparse Matrix Multiplication Kernels on Intel   Xeon Phi,Umit V. Catalyurek,cs.PF,http://arxiv.org/pdf/1302.1078v1
+1302.1954v1,2013-02-08T07:10:19Z,On a Catalogue of Metrics for Evaluating Commercial Cloud Services,Rainbow Cai,cs.DC,http://arxiv.org/pdf/1302.1954v1
+1302.1957v1,2013-02-08T07:20:30Z,Towards a Taxonomy of Performance Evaluation of Commercial Cloud   Services,He Zhang,cs.DC,http://arxiv.org/pdf/1302.1957v1
+1302.3250v4,2013-02-13T21:39:34Z,Exploiting the Past to Reduce Delay in CSMA Scheduling: A High-order   Markov Chain Approach,Do Young Eun,cs.NI,http://arxiv.org/pdf/1302.3250v4
+1302.4085v1,2013-02-17T16:40:10Z,Comprehensive Resource Measurement and Analysis for HPC Systems with   TACC_Stats,Charng-Da Lu,cs.DC,http://arxiv.org/pdf/1302.4085v1
+1302.4280v1,2013-02-18T14:17:37Z,Asynchronous MPI for the Masses,Gerhard Wellein,cs.DC,http://arxiv.org/pdf/1302.4280v1
+1302.4760v2,2013-02-19T21:39:16Z,Predicting Intermediate Storage Performance for Workflow Applications,Matei Ripeanu,cs.DC,http://arxiv.org/pdf/1302.4760v2
+1302.5171v1,2013-02-21T03:59:28Z,Software model refactoring based on performance analysis: better working   on software or performance side?,Vittorio Cortellessa,cs.PF,http://arxiv.org/pdf/1302.5171v1
+1303.0038v3,2013-02-28T22:54:52Z,Approximately Optimal Scheduling of an M/G/1 Queue with Heavy Tails,Jean Walrand,math.PR,http://arxiv.org/pdf/1303.0038v3
+1303.1561v1,2013-03-06T22:24:37Z,Queuing Theoretic Analysis of Power-performance Tradeoff in   Power-efficient Computing,Nam Sung Kim,cs.PF,http://arxiv.org/pdf/1303.1561v1
+1303.1651v2,2013-03-07T11:40:27Z,Model-guided Performance Analysis of the Sparse Matrix-Matrix   Multiplication,Ulrich Ruede,cs.PF,http://arxiv.org/pdf/1303.1651v2
+1303.3026v1,2013-03-12T20:59:46Z,Stochastic Service Curve and Delay Bound Analysis: A Single Node Case,Yuming Jiang,cs.PF,http://arxiv.org/pdf/1303.3026v1
+1303.4538v1,2013-03-19T10:18:40Z,Optimization of FASTEST-3D for Modern Multicore Systems,Gerhard Wellein,cs.PF,http://arxiv.org/pdf/1303.4538v1
+1304.1863v1,2013-04-06T07:48:02Z,Stochastic Analysis on RAID Reliability for Solid-State Drives,John C. S. Lui,cs.PF,http://arxiv.org/pdf/1304.1863v1
+1304.2554v3,2013-04-09T12:37:41Z,Throughput Optimal Scheduling Policies in Networks of Interacting Queues,Emilio Leonardi,cs.PF,http://arxiv.org/pdf/1304.2554v3
+1304.3804v1,2013-04-13T12:39:34Z,Multithreaded Input-Sensitive Profiling,Romolo Marotta,cs.PF,http://arxiv.org/pdf/1304.3804v1
+1304.4524v1,2013-04-16T17:23:20Z,Investigating Randomly Generated Adjacency Matrices For Their Use In   Modeling Wireless Topologies,Sanjit Kaul,cs.NI,http://arxiv.org/pdf/1304.4524v1
+1304.5197v1,2013-04-18T17:34:38Z,Ball-Larus Path Profiling Across Multiple Loop iterations,Irene Finocchi,cs.PL,http://arxiv.org/pdf/1304.5197v1
+1304.5302v1,2013-04-19T03:29:36Z,"""Superluminal"" FITS File Processing on Multiprocessors: Zero Time Endian   Conversion Technique",Satoshi Eguchi,astro-ph.IM,http://arxiv.org/pdf/1304.5302v1
+1304.7664v3,2013-04-29T13:59:21Z,Chip-level and multi-node analysis of energy-optimized lattice-Boltzmann   CFD simulations,Gerhard Wellein,cs.PF,http://arxiv.org/pdf/1304.7664v3
+1307.1743v1,2013-07-06T02:02:57Z,"""The tail wags the dog"": A study of anomaly detection in commercial   application performance",Pradeep Ray,cs.PF,http://arxiv.org/pdf/1307.1743v1
+1307.2915v1,2013-07-10T20:39:24Z,Measuring the Optimality of Hadoop Optimization,Dongwon Lee,cs.DC,http://arxiv.org/pdf/1307.2915v1
+1307.4581v4,2013-07-17T11:23:09Z,Smart Streaming for Online Video Services,Dah Ming Chiu,cs.MM,http://arxiv.org/pdf/1307.4581v4
+1307.6702v6,2013-07-25T11:31:17Z,A unified approach to the performance analysis of caching systems,Emilio Leonardi,cs.NI,http://arxiv.org/pdf/1307.6702v6
+1307.6976v1,2013-07-26T09:45:54Z,Performance study and simulation of an anycast protocol for wireless   mobile ad hoc networks,Reza Azizi,cs.NI,http://arxiv.org/pdf/1307.6976v1
+1307.7584v2,2013-07-29T13:54:57Z,Towards a System Theoretic Approach to Wireless Network Capacity in   Finite Time and Space,Yong Cui,cs.PF,http://arxiv.org/pdf/1307.7584v2
+1310.5842v2,2013-10-22T08:53:15Z,An Empirical Study of Intel Xeon Phi,Chuanfu Xu,cs.DC,http://arxiv.org/pdf/1310.5842v2
+1310.6546v1,2013-10-24T10:12:07Z,The Implications from Benchmarking Three Big Data Systems,Wei Yang,cs.DC,http://arxiv.org/pdf/1310.6546v1
+1310.7717v2,2013-10-29T09:14:59Z,Staying Alive: System Design for Self-Sufficient Sensor Networks,Michele Rossi,cs.NI,http://arxiv.org/pdf/1310.7717v2
+1311.0378v1,2013-11-02T14:00:40Z,"Comparative Performance Analysis of Intel Xeon Phi, GPU, and CPU",Joel Saltz,cs.DC,http://arxiv.org/pdf/1311.0378v1
+1311.0960v2,2013-11-05T03:42:19Z,"The abstract Cauchy problem for the non-stationary bulk queue M(t)|M[k,   B]|1",Yong Chol Chon,math.GM,http://arxiv.org/pdf/1311.0960v2
+1311.1195v1,2013-11-05T20:57:26Z,Performance Modeling of BitTorrent Peer-to-Peer File Sharing Networks,Kunjie Xu,cs.NI,http://arxiv.org/pdf/1311.1195v1
+1311.1338v1,2013-11-06T10:20:56Z,Significance Relations for the Benchmarking of Meta-Heuristic Algorithms,Kei Ohnishi,cs.DS,http://arxiv.org/pdf/1311.1338v1
+1311.1907v1,2013-11-08T09:17:36Z,Proactive bottleneck performance analysis in parallel computing using   openMP,Alok Katiyar,cs.DC,http://arxiv.org/pdf/1311.1907v1
+1404.0851v1,2014-04-03T10:44:30Z,A model-driven approach to broaden the detection of software performance   antipatterns at runtime,Catia Trubiani,cs.SE,http://arxiv.org/pdf/1404.0851v1
+1404.0975v1,2014-04-03T15:34:24Z,Analysis of Petri Net Models through Stochastic Differential Equations,Gianfranco Balbo,cs.PF,http://arxiv.org/pdf/1404.0975v1
+1404.2228v3,2014-04-07T00:57:26Z,Batch Arrival Multiserver Queue with Setup Time,Tuan Phung-Duc,cs.PF,http://arxiv.org/pdf/1404.2228v3
+1404.3891v4,2014-04-15T12:39:10Z,Joint Channel Assignment and Opportunistic Routing for Maximizing   Throughput in Cognitive Radio Networks,Li Li,cs.NI,http://arxiv.org/pdf/1404.3891v4
+1404.5121v1,2014-04-21T06:12:22Z,SleepScale: Runtime Joint Speed Scaling and Sleep States Management for   Power Efficient Data Centers,Nam Sung Kim,cs.PF,http://arxiv.org/pdf/1404.5121v1
+1404.6924v1,2014-04-28T10:45:03Z,Separation of timescales in a two-layered network,Bert Zwart,math.PR,http://arxiv.org/pdf/1404.6924v1
+1407.3267v2,2014-07-10T06:49:42Z,Analysis and Approximation of Dual Tandem Queues with Finite Buffer   Capacity,Ning Zhao,cs.PF,http://arxiv.org/pdf/1407.3267v2
+1407.5393v1,2014-07-21T07:28:08Z,Program Synthesis and Linear Operator Semantics,Herbert Wiklicky,cs.PL,http://arxiv.org/pdf/1407.5393v1
+1407.7448v1,2014-07-25T08:43:36Z,Parallelism-Aware Memory Interference Delay Analysis for COTS Multicore   Systems,Heechul Yun,cs.DC,http://arxiv.org/pdf/1407.7448v1
+1407.8309v2,2014-07-31T08:30:08Z,An Alternating Direction Method Approach to Cloud Traffic Management,Baochun Li,cs.NI,http://arxiv.org/pdf/1407.8309v2
+1507.04631v1,2015-07-16T16:06:18Z,Window Flow Control Systems with Random Service,Almut Burchard,cs.PF,http://arxiv.org/pdf/1507.04631v1
+1507.08187v2,2015-07-29T15:36:21Z,Dependability Analysis of Control Systems using SystemC and Statistical   Model Checking,Axel Legay,cs.SE,http://arxiv.org/pdf/1507.08187v2
+0910.0144v1,2009-10-01T11:46:24Z,Criticisms of modelling packet traffic using long-range dependence,Miguel Rio,cs.NI,http://arxiv.org/pdf/0910.0144v1
+0910.0316v1,2009-10-02T03:28:20Z,An Analysis of Energy Consumption on ACK plus Rate Packet in Rate Based   Transport Protocol,K. Thyagarajah,cs.NI,http://arxiv.org/pdf/0910.0316v1
+0910.1719v1,2009-10-09T12:04:13Z,High availability using virtualization,Federico Calzolari,cs.DC,http://arxiv.org/pdf/0910.1719v1
+0910.4865v1,2009-10-26T12:48:02Z,Multi-core architectures: Complexities of performance prediction and the   impact of cache topology,Gerhard Wellein,cs.PF,http://arxiv.org/pdf/0910.4865v1
+0910.5819v2,2009-10-30T09:25:43Z,Undecidability of performance equivalence of Petri nets,Marcin Poturalski,cs.CC,http://arxiv.org/pdf/0910.5819v2
+1003.0955v1,2010-03-04T06:51:51Z,Precise Request Tracing and Performance Debugging for Multi-tier   Services of Black Boxes,Bo Sang,cs.DC,http://arxiv.org/pdf/1003.0955v1
+1003.0958v4,2010-03-04T03:26:26Z,PhoenixCloud: Provisioning Resources for Heterogeneous Cloud Workloads,Xiutao Zang,cs.DC,http://arxiv.org/pdf/1003.0958v4
+1003.0959v1,2010-03-04T06:54:26Z,Decreasing log data of multi-tier services for effective request tracing,Guanhua Tian,cs.DC,http://arxiv.org/pdf/1003.0959v1
+1003.1168v3,2010-03-05T00:10:19Z,"In Cloud, Do MTC or HTC Service Providers Benefit from the Economies of   Scale?",Lin Yuan,cs.DC,http://arxiv.org/pdf/1003.1168v3
+1005.0178v2,2010-05-03T03:07:59Z,Analysis of Non-Persistent CSMA Protocols with Exponential Backoff   Scheduling,Tony T. Lee,cs.NI,http://arxiv.org/pdf/1005.0178v2
+1005.5241v1,2010-05-28T08:55:12Z,Simulation de traces réelles d'E/S disque de PC,Timsit Claude,cs.PF,http://arxiv.org/pdf/1005.5241v1
+1006.3148v1,2010-06-16T07:35:38Z,Leveraging shared caches for parallel temporal blocking of stencil codes   on multicore processors and clusters,Gerhard Wellein,cs.DC,http://arxiv.org/pdf/1006.3148v1
+1006.4228v1,2010-06-22T08:40:24Z,Sustainable Throughput of Wireless LANs with Multi-Packet Reception   Capability under Bounded Delay-Moment Requirements,Darui Chen,cs.NI,http://arxiv.org/pdf/1006.4228v1
+1006.4946v1,2010-06-25T09:47:27Z,A Virtual Queue Approach for Online Estimation of Loss Probability Based   on MVA Theory,Anne Nevin,cs.NI,http://arxiv.org/pdf/1006.4946v1
+1006.5095v1,2010-06-26T03:03:05Z,Performance Evaluation of Components Using a Granularity-based Interface   Between Real-Time Calculus and Timed Automata,Matthieu Moy,cs.PF,http://arxiv.org/pdf/1006.5095v1
+1006.5691v4,2010-06-29T17:55:51Z,A Fluid Limit for an Overloaded X Model Via a Stochastic Averaging   Principle,Ward Whitt,math.PR,http://arxiv.org/pdf/1006.5691v4
+1103.0463v3,2011-03-02T15:55:10Z,Fitting Square Pegs Through Round Pipes: Unordered Delivery   Wire-Compatible with TCP and TLS,Bryan Ford,cs.NI,http://arxiv.org/pdf/1103.0463v3
+1104.1729v1,2011-04-09T17:50:30Z,Expression Templates Revisited: A Performance Analysis of the Current ET   Methodology,Ulrich Ruede,cs.PF,http://arxiv.org/pdf/1104.1729v1
+1104.4078v1,2011-04-20T17:22:34Z,A Note on Parallel Algorithmic Speedup Bounds,Neil J. Gunther,cs.DC,http://arxiv.org/pdf/1104.4078v1
+1104.4690v1,2011-04-25T07:06:05Z,Secured Message Transmission in Mobile AD HOC Networks through   Identification and Removal of Byzantine Failures,Dr. J. Akilandeswari,cs.NI,http://arxiv.org/pdf/1104.4690v1
+1104.4874v2,2011-04-26T09:43:46Z,LIKWID: Lightweight Performance Tools,Gerhard Wellein,cs.DC,http://arxiv.org/pdf/1104.4874v2
+1104.5243v2,2011-04-27T20:31:11Z,Pushing the limits for medical image reconstruction on recent standard   multicore processors,Gerhard Wellein,cs.PF,http://arxiv.org/pdf/1104.5243v2
+1104.5392v1,2011-04-28T13:55:30Z,A Framework for QoS-aware Execution of Workflows over the Cloud,Raffaela Mirandola,cs.DC,http://arxiv.org/pdf/1104.5392v1
+1112.2046v1,2011-12-09T08:36:34Z,Improving TCP Performance over Wireless Network with Frequent   Disconnections,K. S. Dasgupta,cs.NI,http://arxiv.org/pdf/1112.2046v1
+1211.0313v1,2012-11-01T21:30:52Z,Multiple Antenna Cyclostationary Spectrum Sensing Based on the Cyclic   Correlation Significance Test,Danijela Cabric,cs.PF,http://arxiv.org/pdf/1211.0313v1
+1211.0557v1,2012-11-02T20:23:23Z,Stochastic Superoptimization,Alex Aiken,cs.PF,http://arxiv.org/pdf/1211.0557v1
+1211.0820v1,2012-11-05T10:39:40Z,Performance of SSE and AVX Instruction Sets,Seok-Ho Myung,hep-lat,http://arxiv.org/pdf/1211.0820v1
+1211.1581v1,2012-11-07T16:00:28Z,Data-parallel programming with Intel Array Building Blocks (ArBB),Volker Weinberg,cs.PF,http://arxiv.org/pdf/1211.1581v1
+1211.3250v1,2012-11-14T09:38:24Z,Deriving Pareto-optimal performance bounds for 1 and 2-relay wireless   networks,Jean-Marie Gorce,cs.NI,http://arxiv.org/pdf/1211.3250v1
+1301.1215v1,2013-01-07T14:50:24Z,A Multi-GPU Programming Library for Real-Time Applications,Martin Uecker,cs.DC,http://arxiv.org/pdf/1301.1215v1
+1301.3599v1,2013-01-16T06:41:47Z,Technical Report: Beaconless Geo-Routing Under The Spotlight: Practical   Link Models and Application Scenarios,Mohamed-Slim Alouini,cs.NI,http://arxiv.org/pdf/1301.3599v1
+1301.5793v1,2013-01-24T14:31:10Z,Video Tester -- A multiple-metric framework for video quality assessment   over IP networks,Juan M. Lopez-Soler,cs.MM,http://arxiv.org/pdf/1301.5793v1
+1305.3578v2,2013-05-15T18:31:22Z,Search in Random Media with Lévy Flights,Omer H. Abdelrahman,cond-mat.stat-mech,http://arxiv.org/pdf/1305.3578v2
+1305.4924v2,2013-05-21T19:27:05Z,On the importance of nonlinear modeling in computer performance   prediction,Elizabeth Bradley,nlin.CD,http://arxiv.org/pdf/1305.4924v2
+1305.6249v2,2013-05-27T15:07:54Z,A class of equivalent idle-time-order-based routing policies for   heterogeneous multi-server systems,Ragavendran Gopalakrishnan,cs.PF,http://arxiv.org/pdf/1305.6249v2
+1306.2413v2,2013-06-11T03:36:49Z,Proceedings 11th International Workshop on Quantitative Aspects of   Programming Languages and Systems,Herbert Wiklicky,cs.LO,http://arxiv.org/pdf/1306.2413v2
+1306.2425v1,2013-06-11T05:40:23Z,Ber Performance Analysis of WiMAX PHY Layer under different channel   conditions,Ranjani S,cs.NI,http://arxiv.org/pdf/1306.2425v1
+1306.3302v1,2013-06-14T06:20:44Z,The Effect of Communication and Synchronization on Amdahl Law in   Multicore Systems,Ran Ginosar,cs.AR,http://arxiv.org/pdf/1306.3302v1
+1306.3513v2,2013-06-14T20:55:54Z,A Simple Policy for Multiple Queues with Size-Independent Service Times,Zizhuo Wang,math.OC,http://arxiv.org/pdf/1306.3513v2
+1308.0678v1,2013-08-03T10:17:12Z,Performance comparison of IEEE 802.11g and IEEE 802.11n in the presence   of interference from 802.15.4 networks,Syed Haani Masood,cs.NI,http://arxiv.org/pdf/1308.0678v1
+1308.3123v1,2013-08-14T13:46:37Z,First experiences with the Intel MIC architecture at LRZ,Momme Allalen,cs.PF,http://arxiv.org/pdf/1308.3123v1
+1308.3855v1,2013-08-18T12:52:38Z,Measurement and Prediction of Centrical/Peripheral Network Properties   based on Regression Analysis - A Parametric Foundation for Performance   Self-Management in WSNs,Jens B. Schmitt,cs.PF,http://arxiv.org/pdf/1308.3855v1
+1309.0534v1,2013-09-02T20:34:09Z,"Machines are benchmarked by code, not algorithms",Raphael 'kena' Poss,cs.SE,http://arxiv.org/pdf/1309.0534v1
+1309.0718v1,2013-09-03T15:14:44Z,"A General, Tractable and Accurate Model for a Cascade of Caches",A. Detti,cs.NI,http://arxiv.org/pdf/1309.0718v1
+1309.1714v1,2013-09-06T18:14:04Z,Flashmon V2: Monitoring Raw NAND Flash Memory I/O Requests on Embedded   Linux,Eric Senn,cs.OS,http://arxiv.org/pdf/1309.1714v1
+1309.1983v1,2013-09-08T17:37:32Z,Memory transfer optimization for a lattice Boltzmann solver on Kepler   architecture nVidia GPUs,Alistair Revell,cs.DC,http://arxiv.org/pdf/1309.1983v1
+1309.7173v2,2013-09-27T09:27:01Z,Analysis of Optimization Techniques to Improve User Response Time of Web   Applications and Their Implementation for MOODLE,Priyanka Manchanda,cs.AI,http://arxiv.org/pdf/1309.7173v2
+1312.1003v1,2013-12-04T01:53:33Z,High Throughput Virtual Screening with Data Level Parallelism in   Multi-core Processors,Roshan Ragel,cs.AI,http://arxiv.org/pdf/1312.1003v1
+1312.2306v1,2013-12-09T05:17:45Z,Dominant block guided optimal cache size estimation to maximize IPC of   embedded software,Arvind Rajawat,cs.PF,http://arxiv.org/pdf/1312.2306v1
+1312.2884v1,2013-12-10T17:19:28Z,Advanced Antenna Techniques and High Order Sectorization with Novel   Network Tessellation for Enhancing Macro Cell Capacity in DC-HSDPA Network,Jukka Lempiainen,cs.NI,http://arxiv.org/pdf/1312.2884v1
+1312.3504v1,2013-12-12T14:47:50Z,Building An Information System for a Distributed Testbed,Shava Smallen,cs.DC,http://arxiv.org/pdf/1312.3504v1
+1401.3041v1,2014-01-14T00:25:38Z,Removing Dynamic Type Tests with Context-Driven Basic Block Versioning,Marc Feeley,cs.PL,http://arxiv.org/pdf/1401.3041v1
+1401.3541v1,2014-01-15T10:57:42Z,Self-Optimizing Mechanisms for EMF Reduction in Heterogeneous Networks,Abdoulaye Tall,cs.NI,http://arxiv.org/pdf/1401.3541v1
+1401.4691v1,2014-01-19T16:25:38Z,An algorithm for calculating steady state probabilities of $M|E_r|c|K$   queueing systems,Georg Pflug,cs.SY,http://arxiv.org/pdf/1401.4691v1
+1401.6020v1,2014-01-23T15:51:32Z,A Brief Review on Models for Performance Evaluation in DSS Architecture,Anastasios N. Venetsanopoulos,cs.PF,http://arxiv.org/pdf/1401.6020v1
+1401.7494v1,2014-01-29T12:41:44Z,Comparing the Performance of Different x86 SIMD Instruction Sets for a   Medical Imaging Application on Modern Multi- and Manycore Chips,Gerhard Wellein,cs.DC,http://arxiv.org/pdf/1401.7494v1
+1402.0454v1,2014-02-03T18:21:11Z,Modelling Load Balancing and Carrier Aggregation in Mobile Networks,A. Simonian,cs.NI,http://arxiv.org/pdf/1402.0454v1
+1402.0804v1,2014-02-04T17:40:38Z,A Measurement-based Analysis of the Energy Consumption of Data Center   Servers,Vincenzo Mancuso,cs.DC,http://arxiv.org/pdf/1402.0804v1
+1402.3549v1,2014-02-14T18:51:38Z,Characterizing Workload of Web Applications on Virtualized Servers,Krishna Kavi,cs.PF,http://arxiv.org/pdf/1402.3549v1
+1402.5194v1,2014-02-21T03:03:16Z,On Big Data Benchmarking,Xiaoyi Lu,cs.PF,http://arxiv.org/pdf/1402.5194v1
+1402.5391v1,2014-02-21T19:40:38Z,Exact Simulation for Assemble-To-Order Systems,Emilie Coupechoux,math.PR,http://arxiv.org/pdf/1402.5391v1
+1402.5987v1,2014-02-24T21:19:39Z,Exact Analysis of TTL Cache Networks: The Case of Caching Policies   driven by Stopping Times,Florin Ciucu,cs.PF,http://arxiv.org/pdf/1402.5987v1
+1402.7248v3,2014-02-28T14:01:46Z,Perfect Simulation of $M/G/c$ Queues,Wilfrid S. Kendall,math.PR,http://arxiv.org/pdf/1402.7248v3
+1403.3480v1,2014-03-14T03:06:34Z,Performance Benefits of DataMPI: A Case Study with BigDataBench,Zhiwei Xu,cs.PF,http://arxiv.org/pdf/1403.3480v1
+1403.5828v1,2014-03-24T01:34:35Z,A Survey on Network Tomography with Network Coding,Kui Wu,cs.NI,http://arxiv.org/pdf/1403.5828v1
+1403.7209v1,2014-03-27T20:14:24Z,Acceleration of a Full-scale Industrial CFD Application with OP2,David Radford,cs.CE,http://arxiv.org/pdf/1403.7209v1
+1403.8006v1,2014-03-31T14:13:13Z,Cache-aware Parallel Programming for Manycore Processors,Wim Vanderbauwhede,cs.DC,http://arxiv.org/pdf/1403.8006v1
+1403.8020v1,2014-03-31T14:40:02Z,An Efficient Thread Mapping Strategy for Multiprogramming on Manycore   Processors,Wim Vanderbauwhede,cs.DC,http://arxiv.org/pdf/1403.8020v1
+1406.2071v1,2014-06-09T03:50:36Z,Formal and Informal Methods for Multi-Core Design Space Exploration,Oded Maler,cs.SE,http://arxiv.org/pdf/1406.2071v1
+1406.7539v1,2014-06-29T19:23:49Z,Exploring Task Mappings on Heterogeneous MPSoCs using a Bias-Elitist   Genetic Algorithm,Andy D. Pimentel,cs.PF,http://arxiv.org/pdf/1406.7539v1
+1408.0110v1,2014-08-01T09:31:44Z,A Two-Queue Polling Model with Two Priority Levels in the First Queue,Onno Boxma,math.PR,http://arxiv.org/pdf/1408.0110v1
+1408.0124v1,2014-08-01T10:42:45Z,Mixed Gated/Exhaustive Service in a Polling Model with Priorities,Ivo Adan,math.PR,http://arxiv.org/pdf/1408.0124v1
+1408.0131v1,2014-08-01T11:16:27Z,A Polling Model with Reneging at Polling Instants,Marko Boon,math.PR,http://arxiv.org/pdf/1408.0131v1
+1408.0134v1,2014-08-01T11:24:42Z,Closed-Form Waiting Time Approximations for Polling Systems,Sandra van Wijk,math.PR,http://arxiv.org/pdf/1408.0134v1
+1408.0136v1,2014-08-01T11:35:14Z,Applications of polling systems,Erik Winands,math.PR,http://arxiv.org/pdf/1408.0136v1
+1408.0137v1,2014-08-01T11:48:04Z,Delays at signalised intersections with exhaustive traffic control,Doug Down,math.PR,http://arxiv.org/pdf/1408.0137v1
+1408.0142v1,2014-08-01T12:00:03Z,On open problems in polling systems,Erik Winands,math.PR,http://arxiv.org/pdf/1408.0142v1
+1408.0146v1,2014-08-01T12:08:55Z,Waiting times in queueing networks with a single shared server,Erik Winands,math.PR,http://arxiv.org/pdf/1408.0146v1
+1408.0151v1,2014-08-01T12:29:30Z,Queueing networks with a single shared server: light and heavy traffic,Erik Winands,math.PR,http://arxiv.org/pdf/1408.0151v1
+1408.0282v1,2014-08-01T09:43:15Z,A Polling Model with Multiple Priority Levels,Onno Boxma,math.PR,http://arxiv.org/pdf/1408.0282v1
+1408.4964v1,2014-08-21T11:23:54Z,High Level Programming for Heterogeneous Architectures,Mitch Wright,cs.PF,http://arxiv.org/pdf/1408.4964v1
+1408.6721v2,2014-08-26T15:20:55Z,Performance Analysis of Linear-Equality-Constrained Least-Squares   Estimation,Kutluyıl Doğançay,cs.PF,http://arxiv.org/pdf/1408.6721v2
+1409.0820v2,2014-09-02T18:44:48Z,Network calculus for parallel processing,J. Liebeherr,cs.PF,http://arxiv.org/pdf/1409.0820v2
+1409.0966v1,2014-09-03T06:52:29Z,Primary User Traffic Classification in Dynamic Spectrum Access Networks,Danijela Cabric,cs.PF,http://arxiv.org/pdf/1409.0966v1
+1409.3767v1,2014-09-11T08:26:23Z,DW&C:Dollops Wise Curtail IPv4/IPv6 Transition Mechanism using NS2,H. Annaiah,cs.NI,http://arxiv.org/pdf/1409.3767v1
+1409.5622v1,2014-09-19T12:26:05Z,Instability of Sharing Systems in the Presence of Retransmissions,Evangelia D. Skiani,cs.PF,http://arxiv.org/pdf/1409.5622v1
+1409.6775v2,2014-09-23T23:52:36Z,A Queueing Network Approach to the Analysis and Control of   Mobility-On-Demand Systems,Marco Pavone,cs.PF,http://arxiv.org/pdf/1409.6775v2
+1409.7195v3,2014-09-25T09:38:29Z,Tolls and Welfare Optimization for Multiclass Traffic in Multiqueue   Systems,D. Manjunath,cs.GT,http://arxiv.org/pdf/1409.7195v3
+1409.8608v1,2014-09-30T15:54:13Z,On the Performance Prediction of BLAS-based Tensor Contractions,Paolo Bientinesi,cs.MS,http://arxiv.org/pdf/1409.8608v1
+1410.0804v3,2014-10-03T10:13:03Z,Multi-step Uniformization with Steady-State Detection in Nonstationary   M/M/s Queuing Systems,Maciej Burak,cs.PF,http://arxiv.org/pdf/1410.0804v3
+1410.4168v1,2014-10-15T18:57:12Z,Efficient HTTP based I/O on very large datasets for high performance   computing with the libdavix library,Fabrizio Furano,cs.PF,http://arxiv.org/pdf/1410.4168v1
+1410.5010v2,2014-10-18T21:49:45Z,Quantifying performance bottlenecks of stencil computations using the   Execution-Cache-Memory model,Gerhard Wellein,cs.PF,http://arxiv.org/pdf/1410.5010v2
+1410.5102v1,2014-10-19T18:32:37Z,On Bootstrapping Machine Learning Performance Predictors via Analytical   Models,Paolo Romano,cs.PF,http://arxiv.org/pdf/1410.5102v1
+1410.6952v1,2014-10-25T19:13:49Z,"QoE Modelling, Measurement and Prediction: A Review",Christer Åhlund,cs.NI,http://arxiv.org/pdf/1410.6952v1
+1411.0143v1,2014-11-01T17:55:45Z,Estimating the Spatial Reuse with Configuration Models,Pascal Moyal,cs.NI,http://arxiv.org/pdf/1411.0143v1
+1411.0912v1,2014-11-04T13:57:24Z,Cloud Benchmarking for Performance,Adam Barker,cs.DC,http://arxiv.org/pdf/1411.0912v1
+1411.1460v1,2014-11-06T00:36:24Z,Branch-Avoiding Graph Algorithms,Richard Vuduc,cs.DC,http://arxiv.org/pdf/1411.1460v1
+1411.1998v1,2014-10-24T21:00:25Z,Dimensioning of PA for massive MIMO system with load adaptive number of   antennas,Cicek Cavdar,cs.NI,http://arxiv.org/pdf/1411.1998v1
+1411.2047v1,2014-11-07T22:05:16Z,Investigation of the relationship between code change set n-grams and   change in energy consumption,Stephen Romansky,cs.PF,http://arxiv.org/pdf/1411.2047v1
+1411.2222v2,2014-11-09T12:21:23Z,Optimization of Discrete-parameter Multiprocessor Systems using a Novel   Ergodic Interpolation Technique,Madhav P. Desai,cs.DC,http://arxiv.org/pdf/1411.2222v2
+1411.3656v1,2014-11-12T18:33:21Z,The Implementation of a Real-Time Polyphase Filter,Wes Armour,cs.DC,http://arxiv.org/pdf/1411.3656v1
+1411.4733v1,2014-11-18T04:40:20Z,On The Modeling of OpenFlow-based SDNs: The Single Node Case,Michael Jarschel,cs.PF,http://arxiv.org/pdf/1411.4733v1
+1411.6521v2,2014-11-24T16:43:26Z,Energy-Efficient Strategies for Cooperative Multi-Channel MAC Protocols,Vikram Srinivasan,cs.NI,http://arxiv.org/pdf/1411.6521v2
+1411.6749v1,2014-11-25T06:58:51Z,Analyzing DISH for Multi-Channel MAC Protocols in Wireless Networks,Vikram Srinivasan,cs.NI,http://arxiv.org/pdf/1411.6749v1
+1411.6791v1,2014-11-25T10:22:06Z,"A Metric for DISH Networks: Analysis, Implications, and Applications",Mehul Motani,cs.NI,http://arxiv.org/pdf/1411.6791v1
+1411.7910v1,2014-11-28T15:38:23Z,A Flexible Framework for Accurate Simulation of Cloud In-Memory Data   Stores,Sebastiano Peluso,cs.PF,http://arxiv.org/pdf/1411.7910v1
+1412.2321v1,2014-12-07T06:04:53Z,On Transitory Queueing,Amy R. Ward,math.PR,http://arxiv.org/pdf/1412.2321v1
+1412.3624v1,2014-12-11T12:15:12Z,Dynamic Channel Allocation for Class-Based QoS Provisioning and Call   Admission in Visible Light Communication,Yeong Min Jang,cs.NI,http://arxiv.org/pdf/1412.3624v1
+1412.3687v1,2014-12-09T18:06:33Z,Modelling common cause failures of large digital I&C systems with   coloured Petri nets,Nicolas Villaume,cs.SE,http://arxiv.org/pdf/1412.3687v1
+1412.3906v1,2014-12-12T07:44:52Z,Easy-to-Use On-the-Fly Binary Program Acceleration on Many-Cores,Christian Plessl,cs.DC,http://arxiv.org/pdf/1412.3906v1
+1412.7789v1,2014-12-25T05:27:49Z,To Use or Not to Use: Graphics Processing Units for Pattern Matching   Algorithms,Dhammika Elkaduwe,cs.DC,http://arxiv.org/pdf/1412.7789v1
+1412.8467v1,2014-12-25T11:44:51Z,A Structured Hardware Software Architecture for Peptide Based Diagnosis   - Sub-string Matching Problem with Limited Tolerance (ICIAfS14),M. Niranjan,cs.CE,http://arxiv.org/pdf/1412.8467v1
+1502.01482v2,2015-02-05T10:00:35Z,Effective RAT Selection Approach for 5G Dense Wireless Networks,Antonio Iera,cs.NI,http://arxiv.org/pdf/1502.01482v2
+1502.03455v3,2015-02-11T21:12:11Z,Dynamic Bandwidth-Efficient BCube Topologies for Virtualized Data Center   Networks,Mohamed Cheriet,cs.NI,http://arxiv.org/pdf/1502.03455v3
+1503.02603v2,2015-03-09T18:26:55Z,An asymptotically optimal policy and state-space collapse for the   multi-class shared queue,Mark Shifrin,cs.PF,http://arxiv.org/pdf/1503.02603v2
+1503.03465v8,2015-03-11T19:47:09Z,Faster 64-bit universal hashing using carry-less multiplications,Owen Kaser,cs.DS,http://arxiv.org/pdf/1503.03465v8
+1503.05872v3,2015-03-19T18:34:13Z,Queue Length Behavior in a Switch under the MaxWeight Algorithm,R. Srikant,math.PR,http://arxiv.org/pdf/1503.05872v3
+1503.06532v1,2015-03-23T05:15:00Z,The Feasibility of Using OpenCL Instead of OpenMP for Parallel CPU   Programming,Kamran Karimi,cs.DC,http://arxiv.org/pdf/1503.06532v1
+1503.08548v1,2015-03-30T06:21:38Z,Hitting with Restart: A Reason for Sisyphus Labour,Yi Zhang,cs.PF,http://arxiv.org/pdf/1503.08548v1
+1504.01191v1,2015-04-06T02:48:16Z,"On the BMAP_1, BMAP_2/PH/g, c retrial queueing system",Zaiming Liu,math.PR,http://arxiv.org/pdf/1504.01191v1
+1504.02324v1,2015-04-09T14:26:12Z,Designing Installations for Verification of the Model of Active Queue   Management Discipline RED in the GNS3,D. S. Kulyabov,cs.NI,http://arxiv.org/pdf/1504.02324v1
+1504.04974v1,2015-04-20T08:55:06Z,Understanding Big Data Analytic Workloads on Modern Processors,Ninghui Sun,cs.DC,http://arxiv.org/pdf/1504.04974v1
+1504.05103v1,2015-04-20T16:13:58Z,Optimizing Age-of-Information in a Multi-class Queueing System,Eytan Modiano,math.OC,http://arxiv.org/pdf/1504.05103v1
+1504.07967v1,2015-04-29T19:01:30Z,Improved repeatability measures for evaluating performance of feature   detectors,Klaus D. McDonald-Maier,cs.CV,http://arxiv.org/pdf/1504.07967v1
+1504.08150v2,2015-04-30T10:01:34Z,Reward Processes and Performance Simulation in Supermarket Models with   Different Servers,Na Li,cs.PF,http://arxiv.org/pdf/1504.08150v2
+1505.00558v2,2015-05-04T08:45:38Z,"Triple State QuickSort, A replacement for the C/C++ library qsort",Ammar Muqaddas,cs.DS,http://arxiv.org/pdf/1505.00558v2
+1505.02586v1,2015-05-11T12:34:54Z,Performance analysis of the Kahan-enhanced scalar product on current   multicore processors,Gerhard Wellein,cs.PF,http://arxiv.org/pdf/1505.02586v1
+1505.03774v1,2015-05-14T16:02:12Z,Dynamic Allocation Problems in Loss Network Systems with Advanced   Reservation,Cong Shi,math.PR,http://arxiv.org/pdf/1505.03774v1
+1505.04996v2,2015-05-19T13:52:43Z,Critically loaded k-limited polling systems,Erik Winands,math.PR,http://arxiv.org/pdf/1505.04996v2
+1505.06630v1,2015-05-25T13:52:19Z,Supercharge me: Boost Router Convergence with SDN,Laurent Vanbever,cs.NI,http://arxiv.org/pdf/1505.06630v1
+1506.03551v1,2015-06-11T06:02:06Z,On the Feasibility of Wireless Interconnects for High-throughput Data   Centers,Hossein Shafiei,cs.NI,http://arxiv.org/pdf/1506.03551v1
+1506.04657v1,2015-06-15T16:33:41Z,A Non-stationary Service Curve Model for Performance Analysis of   Transient Phases,Markus Fidler,cs.NI,http://arxiv.org/pdf/1506.04657v1
+1506.05157v2,2015-06-16T21:46:19Z,A Decentralized Parallelization-in-Time Approach with Parareal,Beth Wingate,cs.DC,http://arxiv.org/pdf/1506.05157v2
+1506.06011v1,2015-06-19T14:12:00Z,A Markovian Analysis of IEEE 802.11 Broadcast Transmission Networks with   Buffering,Paul Muhlethaler,cs.PF,http://arxiv.org/pdf/1506.06011v1
+1506.07742v1,2015-06-25T13:23:54Z,Performance Characterization of In-Memory Data Analytics on a Modern   Cloud Server,Eduard Ayguade,cs.DC,http://arxiv.org/pdf/1506.07742v1
+1508.04537v1,2015-08-19T06:32:54Z,Personalized QoS Prediction of Cloud Services via Learning   Neighborhood-based Model,Yijian Pei,cs.DC,http://arxiv.org/pdf/1508.04537v1
+1508.04752v1,2015-08-18T12:39:05Z,Performance-oriented DevOps: A Research Agenda,Alexander Wert,cs.SE,http://arxiv.org/pdf/1508.04752v1
+1508.06830v1,2015-08-27T12:35:00Z,Coarse-Grain Performance Estimator for Heterogeneous Parallel Computing   Architectures like Zynq All-Programmable SoC,Kees Vissers,cs.DC,http://arxiv.org/pdf/1508.06830v1
+1508.07126v1,2015-08-28T08:41:38Z,Performance monitoring for multicore embedded computing systems on FPGAs,Alexandra Fedorova,cs.AR,http://arxiv.org/pdf/1508.07126v1
+1508.07740v1,2015-08-31T09:41:46Z,Parameter Sensitivity Analysis of the Energy/Frequency Convexity Rule   for Nanometer-scale Application Processors,Pierre Jouvelot,cs.DC,http://arxiv.org/pdf/1508.07740v1
+1509.02640v7,2015-09-09T05:44:42Z,On the energy efficiency of client-centric data consistency management   under random read/write access to Big Data with Apache HBase,Álvaro García-Recuero,cs.DC,http://arxiv.org/pdf/1509.02640v7
+1509.02822v1,2015-09-09T15:59:03Z,Exposing Provenance Metadata Using Different RDF Models,Michel Dumontier,cs.DB,http://arxiv.org/pdf/1509.02822v1
+1509.03069v1,2015-09-10T09:37:03Z,Federating OMNeT++ Simulations with Testbed Environments,Carmelita Görg,cs.NI,http://arxiv.org/pdf/1509.03069v1
+1509.03101v1,2015-09-10T11:21:23Z,uIP Support for the Network Simulation Cradle,Roman Kremmer,cs.NI,http://arxiv.org/pdf/1509.03101v1
+1509.03103v1,2015-09-10T11:24:21Z,Dynamic Index NAT as a Mobility Solution in OMNeT++,Jochen Seitz,cs.NI,http://arxiv.org/pdf/1509.03103v1
+1509.03111v1,2015-09-10T11:46:12Z,Integration of RTMFP in the OMNeT++ Simulation Environment,Erwin P. Rathgeb,cs.NI,http://arxiv.org/pdf/1509.03111v1
+1509.03118v1,2015-09-10T12:02:51Z,Execution-Cache-Memory Performance Model: Introduction and Validation,Dietmar Fey,cs.DC,http://arxiv.org/pdf/1509.03118v1
+1509.03127v1,2015-09-10T12:45:46Z,Integration of the Packetdrill Testing Tool in INET,Michael Tüxen,cs.NI,http://arxiv.org/pdf/1509.03127v1
+1509.03140v1,2015-09-10T13:29:09Z,"Realistic, Extensible DNS and mDNS Models for INET/OMNeT++",Marcel Waldvogel,cs.NI,http://arxiv.org/pdf/1509.03140v1
+1509.03169v1,2015-09-10T14:21:35Z,ptp++: A Precision Time Protocol Simulation Model for OMNeT++ / INET,David Tipper,cs.NI,http://arxiv.org/pdf/1509.03169v1
+1509.03176v1,2015-09-10T14:38:46Z,High Frequency Radio Network Simulation Using OMNeT++,Eric Koski,cs.NI,http://arxiv.org/pdf/1509.03176v1
+1509.03284v2,2015-09-03T22:09:10Z,"Proceedings of the 2nd OMNeT++ Community Summit, IBM Research - Zurich,   Switzerland, September 3-4, 2015",Michael Kirsche,cs.PF,http://arxiv.org/pdf/1509.03284v2
+1509.03548v1,2015-09-11T15:17:34Z,"MiXiM, PAWiS, and STEAM-Sim Integration - Combining Channel Models,   Energy Awareness, and Real-life Application Code",Andreas Springer,cs.NI,http://arxiv.org/pdf/1509.03548v1
+1509.03550v1,2015-09-11T15:22:41Z,Skip This Paper - RINASim: Your Recursive InterNetwork Architecture   Simulator,Ondrej Rysavy,cs.NI,http://arxiv.org/pdf/1509.03550v1
+1509.03553v1,2015-09-11T15:26:37Z,Implementation of a Wake-up Radio Cross-Layer Protocol in OMNeT++ /   MiXiM,Nour Murad,cs.NI,http://arxiv.org/pdf/1509.03553v1
+1509.03558v1,2015-09-11T15:32:26Z,Looking into Hardware-in-the-Loop Coupling of OMNeT++ and RoSeNet,Michael Kirsche,cs.NI,http://arxiv.org/pdf/1509.03558v1
+1509.03559v1,2015-09-11T15:36:00Z,Implementation of PFC and RCM for RoCEv2 Simulation in OMNeT++,Benjamin Jamroz,cs.NI,http://arxiv.org/pdf/1509.03559v1
+1509.03573v1,2015-09-11T16:03:55Z,Invited Abstract: A Simulation Package for Energy Consumption of Content   Delivery Networks (CDNs),Saeed Bastani,cs.PF,http://arxiv.org/pdf/1509.03573v1
+1509.06333v1,2015-09-21T18:44:53Z,Network Capability in Localizing Node Failures via End-to-end Path   Measurements,Kin K. Leung,cs.NI,http://arxiv.org/pdf/1509.06333v1
+1510.00041v2,2015-09-30T21:31:42Z,iotools: High-Performance I/O Tools for R,Simon Urbanek,stat.CO,http://arxiv.org/pdf/1510.00041v2
+1510.02238v1,2015-10-08T08:48:28Z,On the Maximal Shortest Path in a Connected Component in V2V,Hossam Afifi,cs.PF,http://arxiv.org/pdf/1510.02238v1
+1510.04488v3,2015-10-15T12:08:10Z,Performance Analysis of a Heterogeneous Traffic Scheduler using Large   Deviation Principle,Victor C. M. Leung,cs.NI,http://arxiv.org/pdf/1510.04488v3
+1510.04995v1,2015-10-16T19:43:00Z,Multi-dimensional intra-tile parallelization for memory-starved stencil   computations,David Keyes,cs.DC,http://arxiv.org/pdf/1510.04995v1
+1510.07986v3,2015-10-27T17:01:32Z,A Novel Offloading Partitioning Algorithm in Mobile Cloud Computing,Katinka Wolter,cs.DC,http://arxiv.org/pdf/1510.07986v3
+1510.09185v2,2015-10-30T18:32:52Z,Analysis of the Energy-Performance Tradeoff for Delayed Mobile   Offloading,Katinka Wolter,cs.PF,http://arxiv.org/pdf/1510.09185v2
+1511.01088v1,2015-11-03T20:34:24Z,There is no fast lunch: an examination of the running speed of   evolutionary algorithms in several languages,Israel Blancas,cs.NE,http://arxiv.org/pdf/1511.01088v1
+1511.01232v1,2015-11-04T07:49:47Z,Power Consumption of Virtualization Technologies: an Empirical   Investigation,Roberto Morabito,cs.DC,http://arxiv.org/pdf/1511.01232v1
+1511.03742v2,2015-11-12T01:02:58Z,GEMMbench: a framework for reproducible and collaborative benchmarking   of matrix multiplication,Anton Lokhmotov,cs.MS,http://arxiv.org/pdf/1511.03742v2
+1511.05771v2,2015-11-18T13:37:18Z,Toward Transparent Heterogeneous Systems,Alberto Dassatti,cs.PF,http://arxiv.org/pdf/1511.05771v2
+1511.07392v1,2015-11-23T20:13:18Z,Cache Miss Estimation for Non-Stationary Request Processes,Alain Simonian,math.PR,http://arxiv.org/pdf/1511.07392v1
+1511.07423v1,2015-11-21T04:53:42Z,Minimizing Total Busy Time for Energy-Aware Virtual Machine Allocation   Problems,Nam Thoai,cs.DC,http://arxiv.org/pdf/1511.07423v1
+1511.07658v1,2015-11-24T11:33:53Z,Efficient Resource Sharing Through GPU Virtualization on Accelerated   High Performance Computing Systems,Tarek El-Ghazawi,cs.DC,http://arxiv.org/pdf/1511.07658v1
+1511.08167v1,2015-11-24T17:53:05Z,Deseeding Energy Consumption of Network Stacks,Arturo Azcorra,cs.NI,http://arxiv.org/pdf/1511.08167v1
+1512.07004v1,2015-12-22T09:54:54Z,Evaluation of Time-Critical Communications for IEC 61850-Substation   Network Architecture,Jean-Marc Thiriet,cs.NI,http://arxiv.org/pdf/1512.07004v1
+1512.08354v1,2015-12-28T09:27:32Z,"Non-Asymptotic Delay Bounds for (k,l) Fork-Join Systems and Multi-Stage   Fork-Join Networks",Yuming Jiang,cs.PF,http://arxiv.org/pdf/1512.08354v1
+1512.08609v1,2015-12-29T07:02:05Z,Performance Analysis of an Unreliable $M/G/1$ Retrial Queue with Coupled   Switching,Kiseon Kim,cs.NI,http://arxiv.org/pdf/1512.08609v1
+1601.04749v1,2016-01-18T22:55:41Z,Constrained Multi-user Multi-server Max-Min Fair Queuing,Yiqiang Zhao,cs.NI,http://arxiv.org/pdf/1601.04749v1
+1601.05098v4,2016-01-19T21:02:02Z,M2M Massive Access in LTE: RACH Performance Evaluation in a Smart City   Scenario,Michele Zorzi,cs.NI,http://arxiv.org/pdf/1601.05098v4
+1601.07815v1,2016-01-28T16:19:39Z,Convex Optimization of Real Time SoC,U. Weiser,cs.DC,http://arxiv.org/pdf/1601.07815v1
+1602.00586v1,2016-02-01T16:36:58Z,A Gain Function for Architectural Decision-Making in Scientific   Computing,Bruno Schulze,cs.DC,http://arxiv.org/pdf/1602.00586v1
+1602.02517v1,2016-02-08T10:28:44Z,Energy Efficient Video Fusion with Heterogeneous CPU-FPGA Devices,Tom Sun,cs.AR,http://arxiv.org/pdf/1602.02517v1
+1602.04183v3,2016-02-12T19:48:31Z,Dark Memory and Accelerator-Rich System Optimization in the Dark Silicon   Era,Mark A. Horowitz,cs.AR,http://arxiv.org/pdf/1602.04183v3
+1602.04873v1,2016-02-16T00:39:33Z,A Stochastic Performance Model for Pipelined Krylov Methods,L. Ridgway Scott,cs.DC,http://arxiv.org/pdf/1602.04873v1
+1602.06763v1,2016-02-22T13:21:05Z,Recursive Algorithms for Dense Linear Algebra: The ReLAPACK Collection,Paolo Bientinesi,cs.MS,http://arxiv.org/pdf/1602.06763v1
+1602.07623v1,2016-02-24T18:08:43Z,Spatial multi-LRU Caching for Wireless Networks with Coverage Overlaps,Apostolos Avranas,cs.PF,http://arxiv.org/pdf/1602.07623v1
+1603.00491v1,2016-03-01T21:12:09Z,Wanted: Floating-Point Add Round-off Error instruction,Jason Riedy,cs.NA,http://arxiv.org/pdf/1603.00491v1
+1603.01404v1,2016-03-04T10:03:09Z,Design Heuristic for Parallel Many Server Systems under FCFS-ALIS,Gideon Weiss,math.PR,http://arxiv.org/pdf/1603.01404v1
+1603.02094v1,2016-03-07T14:53:33Z,Delay Bounds in Feed-Forward Networks - A Fast and Accurate Network   Calculus Solution,Jens B. Schmitt,cs.NI,http://arxiv.org/pdf/1603.02094v1
+1603.02293v1,2016-03-07T21:08:53Z,What slows you down? Your network or your device?,Ruomei Gao,cs.NI,http://arxiv.org/pdf/1603.02293v1
+1603.02655v1,2016-03-08T20:07:31Z,Study and evaluation of an Irregular Graph Algorithm on Multicore and   GPU Processor Architectures,Varun Nagpal,cs.DC,http://arxiv.org/pdf/1603.02655v1
+1603.02955v1,2016-03-09T16:40:39Z,A Performance Evaluation of Container Technologies on Internet of Things   Devices,Roberto Morabito,cs.DC,http://arxiv.org/pdf/1603.02955v1
+1603.03252v1,2016-03-10T13:20:05Z,Extension of PRISM by Synthesis of Optimal Timeouts in Fixed-Delay CTMC,Adrian Farmadin,cs.LO,http://arxiv.org/pdf/1603.03252v1
+1603.03820v1,2016-03-11T23:27:37Z,Faster and Cheaper: Parallelizing Large-Scale Matrix Factorization on   GPUs,Liana Fong,cs.DC,http://arxiv.org/pdf/1603.03820v1
+1603.07899v2,2016-03-25T13:14:23Z,Helenos: A Realistic Benchmark for Distributed Transactional Memory,Paweł T. Wojciechowski,cs.DC,http://arxiv.org/pdf/1603.07899v2
+1604.00103v2,2016-04-01T02:15:02Z,Priority Mechanism of Bitcoin and Its Effect on Transaction-Confirmation   Process,Jun Kawahara,cs.CR,http://arxiv.org/pdf/1604.00103v2
+1604.01303v2,2016-04-05T15:38:51Z,C3PO: Computation Congestion Control (PrOactive) - an algorithm for   dynamic diffusion of ephemeral in-network services,Jon Crowcroft,cs.NI,http://arxiv.org/pdf/1604.01303v2
+1604.01890v1,2016-04-07T07:04:19Z,Performance analysis of the Kahan-enhanced scalar product on current   multi- and manycore processors,Gerhard Wellein,cs.PF,http://arxiv.org/pdf/1604.01890v1
+1604.02097v2,2016-04-06T00:35:18Z,On the Duration and Intensity of Competitions in Nonlinear Pólya Urn   Processes with Fitness,Don Towsley,cs.PF,http://arxiv.org/pdf/1604.02097v2
+1604.02727v1,2016-04-10T19:48:59Z,IPA in the Loop: Control Design for Throughput Regulation in Computer   Processors,Sudhakar Yalamanchili,math.OC,http://arxiv.org/pdf/1604.02727v1
+1604.02907v1,2016-04-11T12:07:20Z,Modeling and predicting measured response time of cloud-based web   services using long-memory time series,Mohammad Kalantari,cs.NI,http://arxiv.org/pdf/1604.02907v1
+1604.03470v1,2016-04-12T16:23:15Z,Ready for Rain? A View from SPEC Research on the Future of Cloud Metrics,Samuel Kounev,cs.DC,http://arxiv.org/pdf/1604.03470v1
+1604.03823v1,2016-04-13T15:14:08Z,Analysis of a trunk reservation policy in the framework of fog computing,Guilherme Thompson,cs.NI,http://arxiv.org/pdf/1604.03823v1
+1604.04951v1,2016-04-18T01:24:48Z,A Hybrid Performance Analysis Technique for Distributed Real-Time   Embedded Systems,Soonhoi Ha,cs.PF,http://arxiv.org/pdf/1604.04951v1
+1604.04997v1,2016-04-18T05:49:56Z,"A Unified, Hardware-Fitted, Cross-GPU Performance Model",Andreas Klöckner,cs.PF,http://arxiv.org/pdf/1604.04997v1
+1604.08004v1,2016-04-27T10:08:53Z,An Analytical Solution for Probabilistic Guarantees of Reservation Based   Soft Real-Time Systems,Bernardo Villalba Frías,cs.PF,http://arxiv.org/pdf/1604.08004v1
+1605.02393v1,2016-05-09T00:41:20Z,Energy Efficiency in Wireless Sensor Networks,Najmeh Kamyab Pour,cs.NI,http://arxiv.org/pdf/1605.02393v1
+1605.07083v2,2016-05-23T16:37:54Z,D-SPACE4Cloud: A Design Tool for Big Data Applications,Danilo Ardagna,cs.DC,http://arxiv.org/pdf/1605.07083v2
+1605.07353v2,2016-05-24T09:55:06Z,Enhanced Worst-case Timing Analysis of Ring-based Networks with Cyclic   Dependencies using Network Calculus,Jerome Lacan,cs.PF,http://arxiv.org/pdf/1605.07353v2
+1605.07888v1,2016-05-25T13:59:55Z,A Tighter Real-Time Communication Analysis for Wormhole-Switched   Priority-Preemptive NoCs,Stefan M. Petters,cs.DC,http://arxiv.org/pdf/1605.07888v1
+1605.08353v1,2016-05-26T16:23:45Z,User Performance in Small Cells Networks with Inter-Cell Mobility,Alain Simonian,cs.NI,http://arxiv.org/pdf/1605.08353v1
+1606.00202v2,2016-06-01T10:03:13Z,OWL: a Reliable Online Watcher for LTE Control Channel Measurements,Joerg Widmer,cs.NI,http://arxiv.org/pdf/1606.00202v2
+1606.00396v1,2016-06-01T18:52:53Z,DINAMITE: A modern approach to memory performance profiling,Alexandra Fedorova,cs.PF,http://arxiv.org/pdf/1606.00396v1
+1606.01607v1,2016-06-06T03:44:52Z,CG-OoO: Energy-Efficient Coarse-Grain Out-of-Order Execution,William J. Dally,cs.AR,http://arxiv.org/pdf/1606.01607v1
+1606.02686v3,2016-06-08T18:55:10Z,A figure of merit for describing the performance of scaling of   parallelization,József Vásárhelyi,cs.PF,http://arxiv.org/pdf/1606.02686v3
+1606.03571v1,2016-06-11T08:51:52Z,Universal Routing in Multi-hop Radio Networks,Dariusz R. Kowalski,cs.NI,http://arxiv.org/pdf/1606.03571v1
+1606.05777v3,2016-06-18T16:37:13Z,A Distributed Algorithm for Training Augmented Complex Adaptive IIR   Filters,Wael M. Bazzi,cs.DC,http://arxiv.org/pdf/1606.05777v3
+1606.09530v1,2016-06-30T15:07:31Z,Modeling and Predicting DNS Server Load,Zheng Wang,cs.PF,http://arxiv.org/pdf/1606.09530v1
+1607.00372v1,2016-07-01T19:56:19Z,Efficient Timeout Synthesis in Fixed-Delay CTMC Using Policy Iteration,Vojtěch Řehák,cs.PF,http://arxiv.org/pdf/1607.00372v1
+1607.01249v1,2016-07-05T13:53:57Z,TTC: A Tensor Transposition Compiler for Multiple Architectures,Paolo Bientinesi,cs.MS,http://arxiv.org/pdf/1607.01249v1
+1607.04077v1,2016-07-14T10:41:52Z,Designing a High Performance Parallel Personal Cluster,J. M. Sellier,cs.DC,http://arxiv.org/pdf/1607.04077v1
+1607.05356v2,2016-07-18T23:57:15Z,How to Emulate Web Traffic Using Standard Load Testing Tools,Neil J. Gunther,cs.PF,http://arxiv.org/pdf/1607.05356v2
+1607.05840v1,2016-07-20T07:34:17Z,Evaluating the Strength of Genomic Privacy Metrics,Isabel Wagner,cs.CR,http://arxiv.org/pdf/1607.05840v1
+1607.08102v1,2016-07-27T14:15:26Z,Statistical Delay Bound for WirelessHART Networks,James Gross,cs.PF,http://arxiv.org/pdf/1607.08102v1
+1607.08344v1,2016-07-28T08:02:29Z,AUGURY: A time-series based application for the analysis and forecasting   of system and network performance metrics,Manuela Wiesinger-Widi,cs.DC,http://arxiv.org/pdf/1607.08344v1
+1608.00120v3,2016-07-30T13:38:35Z,Delay and Backlog Analysis for 60 GHz Wireless Networks,Yongming Huang,cs.PF,http://arxiv.org/pdf/1608.00120v3
+1608.00669v1,2016-08-02T01:33:23Z,Improving Zero-Day Malware Testing Methodology Using Statistically   Significant Time-Lagged Test Samples,Joshua Saxe,cs.CR,http://arxiv.org/pdf/1608.00669v1
+1608.00855v1,2016-08-02T15:00:01Z,An Enhanced Buffer Management Scheme for Multimedia Traffic in HSDPA,Khalid Al-Begain,cs.NI,http://arxiv.org/pdf/1608.00855v1
+1608.01021v1,2016-08-02T22:43:40Z,"Analysis of M2/M2/1/R,N Queuing Model for Multimedia over 3.5G Wireless   Network Downlink",Khalid Al-Begain,cs.NI,http://arxiv.org/pdf/1608.01021v1
+1608.01023v1,2016-08-02T22:53:13Z,End-to-End QoS Improvement of HSDPA End-User Multi-flow Traffic Using   RAN Buffer Management,Khalid Al-Begain,cs.PF,http://arxiv.org/pdf/1608.01023v1
+1608.02191v2,2016-08-07T07:56:22Z,Power-Minimization under Statistical Delay Constraints for Multi-Hop   Wireless Industrial Networks,James Gross,cs.PF,http://arxiv.org/pdf/1608.02191v2
+1608.02800v1,2016-08-09T13:40:59Z,LITMUS: An Open Extensible Framework for Benchmarking RDF Data   Management Solutions,Maria-Esther Vidal,cs.PF,http://arxiv.org/pdf/1608.02800v1
+1608.03070v1,2016-08-10T07:56:36Z,Optimal routing in two-queue polling systems,A. A. J Lefeber,math.PR,http://arxiv.org/pdf/1608.03070v1
+1608.04024v1,2016-08-13T20:27:59Z,A Non-stationary Service Curve Model for Estimation of Cellular Sleep   Scheduling,Markus Fidler,cs.NI,http://arxiv.org/pdf/1608.04024v1
+1608.04116v2,2016-08-14T17:10:07Z,"An Efficient, Secure and Trusted Channel Protocol for Avionics Wireless   Networks",Serge Chaumette,cs.CR,http://arxiv.org/pdf/1608.04116v2
+1608.08658v2,2016-08-30T21:05:21Z,Devito: automated fast finite difference computation,Gerard Gorman,cs.MS,http://arxiv.org/pdf/1608.08658v2
+1609.03361v1,2016-09-12T12:15:36Z,Devito: Towards a generic Finite Difference DSL using Symbolic Python,Gerard Gorman,cs.MS,http://arxiv.org/pdf/1609.03361v1
+1609.04603v1,2016-09-15T12:41:41Z,Automating Large-Scale Simulation and Data Analysis with OMNeT++:   Lession Learned and Future Perspectives,Giovanni Nardini,cs.PF,http://arxiv.org/pdf/1609.04603v1
+1609.05198v1,2016-09-16T19:52:29Z,Stacked-VLAN-Based Modeling of Hybrid ISP Traffic Control Schemes and   Service Plans Exploiting Excess Bandwidth in Shared Access Networks,Kyeong Soo Kim,cs.NI,http://arxiv.org/pdf/1609.05198v1
+1609.05750v1,2016-09-16T06:09:55Z,Infinite Server Queueing Networks with Deadline Based Routing,Nicholas Bambos,cs.PF,http://arxiv.org/pdf/1609.05750v1
+1609.06109v1,2016-09-20T11:27:16Z,FPGA implementation of the procedures for video quality assessment,Kazimierz Wiatr,cs.MM,http://arxiv.org/pdf/1609.06109v1
+1609.07629v1,2016-09-24T14:47:00Z,"Proceedings of the 3rd OMNeT++ Community Summit, Brno University of   Technology - Czech Republic, September 15-16, 2016",Michael Kirsche,cs.NI,http://arxiv.org/pdf/1609.07629v1
+1609.07996v1,2016-09-26T14:49:07Z,An Infinite Dimensional Model for A Single Server Priority Queue,Nicholas Bambos,math.PR,http://arxiv.org/pdf/1609.07996v1
+1609.09294v1,2016-09-29T10:41:26Z,DynIMS: A Dynamic Memory Controller for In-memory Storage on HPC Systems,Pradip K Srimani,cs.PF,http://arxiv.org/pdf/1609.09294v1
+1609.09682v1,2016-09-30T11:52:42Z,Soft Cache Hits and the Impact of Alternative Content Recommendations on   Mobile Edge Caching,Pavlos Sermpezis,cs.NI,http://arxiv.org/pdf/1609.09682v1
+1609.09726v1,2016-09-30T13:39:54Z,Revisiting 802.11 Rate Adaptation from Energy Consumption's Perspective,Albert Banchs,cs.NI,http://arxiv.org/pdf/1609.09726v1
+1610.00149v1,2016-10-01T15:29:52Z,Data-Unit-Size Distribution Model with Retransmitted Packet Size   Preservation Property and Its Application to Goodput Analysis for   Stop-and-Wait Protocol: Case of Independent Packet Losses,Takashi Ikegawa,cs.PF,http://arxiv.org/pdf/1610.00149v1
+1610.04260v1,2016-09-15T11:30:42Z,Cost minimization of network services with buffer and end-to-end   deadline constraints,Johan Eker,cs.NI,http://arxiv.org/pdf/1610.04260v1
+1610.04429v1,2016-10-14T12:26:18Z,Tuning Crowdsourced Human Computation,H. V. Jagadish,cs.HC,http://arxiv.org/pdf/1610.04429v1
+1610.04919v1,2016-10-16T21:33:57Z,Power Control for Packet Streaming with Head-of-Line Deadlines,Nicholas Bambos,cs.NI,http://arxiv.org/pdf/1610.04919v1
+1610.04982v1,2016-10-17T06:32:03Z,D2D-U: Device-to-Device Communications in Unlicensed Bands,Lingyang Song,cs.NI,http://arxiv.org/pdf/1610.04982v1
+1610.06309v1,2016-10-20T07:39:23Z,Non-Asymptotic Delay Bounds for Multi-Server Systems with   Synchronization Constraints,Yuming Jiang,cs.PF,http://arxiv.org/pdf/1610.06309v1
+1610.08168v1,2016-10-26T05:00:16Z,Location Aggregation of Spatial Population CTMC Models,Cheng Feng,cs.MA,http://arxiv.org/pdf/1610.08168v1
+1610.08172v1,2016-10-26T05:00:54Z,Evaluating load balancing policies for performance and energy-efficiency,Boudewijn R. Haverkort,cs.PF,http://arxiv.org/pdf/1610.08172v1
+1611.00745v1,2016-11-02T19:44:13Z,Optimal Heavy-Traffic Queue Length Scaling in an Incompletely Saturated   Switch,R. Srikant,math.PR,http://arxiv.org/pdf/1611.00745v1
+1611.02445v1,2016-11-08T09:33:18Z,Memory layout in GPU implementation of lattice Boltzmann method for   sparse 3D geometries,Roman G. Szafran,cs.DC,http://arxiv.org/pdf/1611.02445v1
+1611.03725v1,2016-11-10T07:23:43Z,Practical Interpolation for Spectrum Cartography through Local Path Loss   Modeling,Wade Trappe,cs.CE,http://arxiv.org/pdf/1611.03725v1
+1611.07556v1,2016-11-22T22:19:54Z,Cultivating Software Performance in Cloud Computing,Kingsum Chow,cs.PF,http://arxiv.org/pdf/1611.07556v1
+1611.09170v1,2016-11-28T15:16:42Z,DESP-C++: A Discrete-Event Simulation Package for C++,Jérôme Darmont,cs.DB,http://arxiv.org/pdf/1611.09170v1
+1611.09774v1,2016-11-29T18:39:04Z,Serving the Grid: an Experimental Study of Server Clusters as Real-Time   Demand Response Resources,Raghuraman Mudumbai,cs.DC,http://arxiv.org/pdf/1611.09774v1
+1612.00309v1,2016-12-01T15:24:23Z,Comparison Between IPv4 to IPv6 Transition Techniques,Wagner L Zucchi,cs.NI,http://arxiv.org/pdf/1612.00309v1
+1612.00456v1,2016-12-01T21:00:05Z,Characterising radio telescope software with the Workload   Characterisation Framework,G. Mariani,astro-ph.IM,http://arxiv.org/pdf/1612.00456v1
+1612.01868v1,2016-12-06T15:33:55Z,Broadcast Strategies and Performance Evaluation of IEEE 802.15.4 in   Wireless Body Area Networks WBAN,Maria Potop-Butucaru,cs.PF,http://arxiv.org/pdf/1612.01868v1
+1612.02557v1,2016-12-08T08:20:48Z,Sorting Data on Ultra-Large Scale with RADULS. New Incarnation of Radix   Sort,Agnieszka Debudaj-Grabysz,cs.DS,http://arxiv.org/pdf/1612.02557v1
+1612.04470v1,2016-12-14T03:22:44Z,Efficient Realization of Householder Transform through   Algorithm-Architecture Co-design for Acceleration of QR Factorization,Ranjani Narayan,cs.PF,http://arxiv.org/pdf/1612.04470v1
+1612.04721v1,2016-12-12T14:51:03Z,Dissecting demand response mechanisms: the role of consumption forecasts   and personalized offers,Giovanni Neglia,math.OC,http://arxiv.org/pdf/1612.04721v1
+1701.01328v1,2016-12-07T22:14:56Z,An Infinite Dimensional Model for a Many Server Priority Queue,Nicholas Bambos,cs.PF,http://arxiv.org/pdf/1701.01328v1
+1701.03831v1,2017-01-13T21:10:05Z,Delay-Optimal Scheduling for Queueing Systems with Switching Overhead,Xi Liu,cs.PF,http://arxiv.org/pdf/1701.03831v1
+1701.03836v1,2017-01-12T17:07:36Z,Formal Analysis of SEU Mitigation for Early Dependability and   Performability Analysis of FPGA-based Space Applications,Yvon Savaria,cs.PF,http://arxiv.org/pdf/1701.03836v1
+1701.08547v1,2017-01-30T11:23:42Z,Autotuning GPU Kernels via Static and Predictive Analysis,Allen D. Malony,cs.DC,http://arxiv.org/pdf/1701.08547v1
+1702.00629v1,2017-02-02T11:41:32Z,gearshifft - The FFT Benchmark Suite for Heterogeneous Platforms,Matthias Werner,cs.PF,http://arxiv.org/pdf/1702.00629v1
+1702.02968v1,2017-02-09T20:11:26Z,Comparative benchmarking of cloud computing vendors with High   Performance Linpack,Timur Bazhirov,cs.PF,http://arxiv.org/pdf/1702.02968v1
+1702.03444v1,2017-02-11T17:37:57Z,Steady-state analysis of single exponential vacation in a   $PH/MSP/1/\infty$ queue using roots,Florin Avram,math.PR,http://arxiv.org/pdf/1702.03444v1
+cond-mat/0002469v1,2000-02-29T23:54:04Z,Non-equilibrium Surface Growth and Scalability of Parallel Algorithms   for Large Asynchronous Systems,P. A. Rikvold,cond-mat.stat-mech,http://arxiv.org/pdf/cond-mat/0002469v1
+cs/9904016v1,1999-04-22T15:47:22Z,Brittle System Analysis,Kirby Vosburgh,cs.NI,http://arxiv.org/pdf/cs/9904016v1
+cs/0012022v1,2000-12-26T22:42:39Z,Performance and Scalability Models for a Hypergrowth e-Commerce Web Site,Neil J. Gunther,cs.PF,http://arxiv.org/pdf/cs/0012022v1
+cs/0103016v1,2001-03-20T23:46:53Z,Search in Power-Law Networks,B. A. Huberman,cs.NI,http://arxiv.org/pdf/cs/0103016v1
+cs/0202019v1,2002-02-16T21:46:14Z,Hypernets -- Good (G)news for Gnutella,N. J. Gunther,cs.PF,http://arxiv.org/pdf/cs/0202019v1
+cs/0402054v3,2004-02-24T08:28:21Z,On the Security of the Yi-Tan-Siew Chaos-Based Cipher,Xuanqin Mou,cs.CR,http://arxiv.org/pdf/cs/0402054v3
+cs/0409035v1,2004-09-18T17:09:26Z,Parallel Computing Environments and Methods for Power Distribution   System Simulation,R. Scott Studham,cs.DC,http://arxiv.org/pdf/cs/0409035v1
+cs/0411019v1,2004-11-08T20:06:09Z,Programmable Ethernet Switches and Their Applications,Tzi-cker Chiueh,cs.NI,http://arxiv.org/pdf/cs/0411019v1
+cs/0501073v1,2005-01-25T13:28:38Z,Optimal Union-Find in Constraint Handling Rules,Thom Fruehwirth,cs.PL,http://arxiv.org/pdf/cs/0501073v1
+cs/0502039v1,2005-02-08T00:32:33Z,Efficient Parallel Simulations of Asynchronous Cellular Arrays,Boris D. Lubachevsky,cs.DC,http://arxiv.org/pdf/cs/0502039v1
+cs/0507004v2,2005-07-03T20:02:01Z,An End-to-End Probabilistic Network Calculus with Moment Generating   Functions,Markus Fidler,cs.IT,http://arxiv.org/pdf/cs/0507004v2
+cs/0511008v1,2005-11-02T14:23:48Z,Analysis of Stochastic Service Guarantees in Communication Networks: A   Basic Calculus,Yuming Jiang,cs.PF,http://arxiv.org/pdf/cs/0511008v1
+cs/0604016v2,2006-04-06T00:54:44Z,On Conditional Branches in Optimal Search Trees,Michael B. Baer,cs.PF,http://arxiv.org/pdf/cs/0604016v2
+cs/0605039v4,2006-05-09T05:45:52Z,Fast and Generalized Polynomial Time Memory Consistency Verification,John C. Huang,cs.AR,http://arxiv.org/pdf/cs/0605039v4
+cs/0608061v5,2006-08-15T01:42:49Z,Concurrent Processing Memory,Chengpu Wang,cs.DC,http://arxiv.org/pdf/cs/0608061v5
+cs/0608069v1,2006-08-16T17:21:40Z,JiTS: Just-in-Time Scheduling for Real-Time Sensor Data Dissemination,Kyoung-Don Kang,cs.NI,http://arxiv.org/pdf/cs/0608069v1
+cs/0608077v1,2006-08-18T16:45:33Z,The Effect of Scheduling on Link Capacity in Multi-hopWireless Networks,Nael Abu-Ghazaleh,cs.NI,http://arxiv.org/pdf/cs/0608077v1
+cs/0610134v1,2006-10-23T13:54:18Z,A Markov Chain based method for generating long-range dependence,Maurice Dodson,cs.NI,http://arxiv.org/pdf/cs/0610134v1
+cs/0611037v2,2006-11-09T03:57:33Z,On Conditional Branches in Optimal Decision Trees,Michael B. Baer,cs.PF,http://arxiv.org/pdf/cs/0611037v2
+cs/0611075v2,2006-11-16T03:08:36Z,Proportional Fairness in Multi-channel Multi-rate Wireless Networks-Part   I: The Case of Deterministic Channels,Ying Jun Zhang,cs.NI,http://arxiv.org/pdf/cs/0611075v2
+cs/0611076v2,2006-11-16T03:14:40Z,Proportional Fairness in Multi-channel Multi-rate Wireless Networks-Part   II: The Case of Time-Varying Channels,Ying Jun Zhang,cs.PF,http://arxiv.org/pdf/cs/0611076v2
+cs/0611080v1,2006-11-16T12:33:51Z,A Multi-server Scheduling Framework for Resource Allocation in Wireless   Multi-carrier Networks,Ying Jun Zhang,cs.NA,http://arxiv.org/pdf/cs/0611080v1
+cs/0611091v2,2006-11-20T00:20:44Z,Lossy Bulk Synchronous Parallel Processing Model for Very Large Scale   Grids,Kotagiri Ramamohanarao,cs.DC,http://arxiv.org/pdf/cs/0611091v2
+cs/0701130v1,2007-01-20T23:06:57Z,On the Correlation of Geographic and Network Proximity at Internet Edges   and its Implications for Mobile Unicast and Multicast Routing,Ying Zhang,cs.NI,http://arxiv.org/pdf/cs/0701130v1
+cs/0702157v1,2007-02-27T19:42:40Z,In Search of Simplicity: A Self-Organizing Multi-Source Multicast   Overlay,Anne Rogers,cs.DC,http://arxiv.org/pdf/cs/0702157v1
+physics/0405154v1,2004-05-29T10:05:51Z,The ATLAS Tile Calorimeter Test Beam Monitoring Program,Chiara Roda,physics.ins-det,http://arxiv.org/pdf/physics/0405154v1
+0704.1070v1,2007-04-09T07:16:39Z,Differential Diversity Reception of MDPSK over Independent Rayleigh   Channels with Nonidentical Branch Statistics and Asymmetric Fading Spectrum,Pooi Yuen Kam,cs.IT,http://arxiv.org/pdf/0704.1070v1
+0710.2887v1,2007-10-15T17:53:49Z,"Implementation, Compilation, Optimization of Object-Oriented Languages,   Programs and Systems - Report on the Workshop ICOOOLPS'2006 at ECOOP'06",Olivier Zendra,cs.PF,http://arxiv.org/pdf/0710.2887v1
+0710.3283v2,2007-10-17T12:32:29Z,Effects of Non-Identical Rayleigh Fading on Differential Unitary   Space-Time Modulation,Meixia Tao,cs.PF,http://arxiv.org/pdf/0710.3283v2
+0712.2773v2,2007-12-17T18:42:15Z,Middleware-based Database Replication: The Gaps between Theory and   Practice,Anastasia Ailamaki,cs.DB,http://arxiv.org/pdf/0712.2773v2
+0802.1123v2,2008-02-08T10:51:24Z,Snap-Stabilization in Message-Passing Systems,Sébastien Tixeuil,cs.DC,http://arxiv.org/pdf/0802.1123v2
+0802.3448v1,2008-02-23T15:25:04Z,Sketch-Based Estimation of Subpopulation-Weight,Haim Kaplan,cs.DB,http://arxiv.org/pdf/0802.3448v1
+0803.0189v2,2008-03-03T09:14:21Z,Quiescence of Self-stabilizing Gossiping among Mobile Agents in Graphs,Sébastien Tixeuil,cs.DC,http://arxiv.org/pdf/0803.0189v2
+0803.3338v1,2008-03-23T19:10:00Z,Performance Evaluation of Multiple TCP connections in iSCSI,K. Gopinath,cs.NI,http://arxiv.org/pdf/0803.3338v1
+0804.4039v2,2008-04-25T03:16:21Z,Energy and Time Efficient Scheduling of Tasks with Dependencies on   Asymmetric Multiprocessors,Paul G. Spirakis,cs.DC,http://arxiv.org/pdf/0804.4039v2
+0805.2949v1,2008-05-19T19:45:31Z,Performability Aspects of the Atlas Vo; Using Lmbench Suite,John Kouretis,cs.PF,http://arxiv.org/pdf/0805.2949v1
+0809.1177v1,2008-09-06T15:06:53Z,Amdahl's and Gustafson-Barsis laws revisited,Andrzej Karbowski,cs.DC,http://arxiv.org/pdf/0809.1177v1
+0810.3468v1,2008-10-20T08:29:21Z,A Call-Graph Profiler for GNU Octave,Leela Velusamy,cs.PF,http://arxiv.org/pdf/0810.3468v1
+0811.3272v3,2008-11-20T07:35:39Z,Characterizing the Robustness of Complex Networks,Phillip Schumm,cs.NI,http://arxiv.org/pdf/0811.3272v3
+0902.4481v2,2009-02-25T22:59:58Z,Stability of Finite Population ALOHA with Variable Packets,Jian Tan,cs.PF,http://arxiv.org/pdf/0902.4481v2
+0903.0034v1,2009-03-01T01:29:54Z,Measuring Independence of Datasets,Rafail Ostrovsky,cs.DS,http://arxiv.org/pdf/0903.0034v1
+0903.2352v3,2009-03-13T10:42:34Z,A Mean Field Approach for Optimization in Particles Systems and   Applications,Bruno Gaujal,math.PR,http://arxiv.org/pdf/0903.2352v3
+0904.4512v1,2009-04-29T01:39:57Z,Bounds on series-parallel slowdown,Vashti Galpin,cs.DC,http://arxiv.org/pdf/0904.4512v1
+0906.1147v1,2009-06-05T15:26:14Z,Enabling and Optimizing Pilot Jobs using Xen based Virtual Machines for   the HPC Grid Applications,Kevin Parrott,cs.DC,http://arxiv.org/pdf/0906.1147v1
+0906.3461v1,2009-06-18T15:31:29Z,AIS for Misbehavior Detection in Wireless Sensor Networks: Performance   and Design Principles,Helena Szczerbicka,cs.NI,http://arxiv.org/pdf/0906.3461v1
+0908.1116v1,2009-08-07T20:27:49Z,Enhanced Algorithm for Link to System level Interface Mapping,Rasool Sadeghi,cs.IT,http://arxiv.org/pdf/0908.1116v1
+0908.1407v1,2009-08-10T21:21:00Z,Generalized Analysis of a Distributed Energy Efficient Algorithm for   Change Detection,Vinod Sharma,cs.IT,http://arxiv.org/pdf/0908.1407v1
+0908.2681v1,2009-08-19T07:00:12Z,Effects of Diversity and Procrastination in Priority Queuing Theory: the   Different Power Law Regimes,D. Sornette,physics.soc-ph,http://arxiv.org/pdf/0908.2681v1
+0909.1758v1,2009-09-09T18:00:21Z,Teaching an Old Elephant New Tricks,Nicolas Bruno,cs.DB,http://arxiv.org/pdf/0909.1758v1
+0911.0480v2,2009-11-03T03:29:51Z,Routing Technique Based on Clustering for Data Duplication Prevention in   Wireless Sensor Network,Yongtae Shin,cs.NI,http://arxiv.org/pdf/0911.0480v2
+0911.2889v1,2009-11-15T17:10:31Z,Global communications in multiprocessor simulations of flames,V. Karlin,cs.DC,http://arxiv.org/pdf/0911.2889v1
+0911.4033v1,2009-11-20T12:56:49Z,"Extending Firewall Session Table to Accelerate NAT, QoS Classification   and Routing",Christian Fraboul,cs.CR,http://arxiv.org/pdf/0911.4033v1
+0911.4034v2,2009-11-20T12:59:13Z,Q-ESP: a QoS-compliant Security Protocol to enrich IPSec Framework,Christian Fraboul,cs.CR,http://arxiv.org/pdf/0911.4034v2
+0912.1897v1,2009-12-10T12:01:37Z,Adaptive Scheduling of Data Paths using Uppaal Tiga,Frits Vaandrager,cs.FL,http://arxiv.org/pdf/0912.1897v1
+0912.3852v1,2009-12-19T01:18:05Z,Sharp utilization thresholds for some real-time scheduling problems,Sathish Gopalakrishnan,cs.PF,http://arxiv.org/pdf/0912.3852v1
+1001.2262v1,2010-01-13T18:47:44Z,Classifying Application Phases in Asymmetric Chip Multiprocessors,M. Analoui,cs.DC,http://arxiv.org/pdf/1001.2262v1
+1002.3493v2,2010-02-18T17:30:54Z,The Missing Piece Syndrome in Peer-to-Peer Communication,Ji Zhu,cs.PF,http://arxiv.org/pdf/1002.3493v2
+1002.4182v1,2010-02-22T20:02:24Z,Window-Based Greedy Contention Management for Transactional Memory,Costas Busch,cs.DC,http://arxiv.org/pdf/1002.4182v1
+1004.0023v1,2010-03-31T22:38:24Z,High-Performance Physics Simulations Using Multi-Core CPUs and GPGPUs in   a Volunteer Computing Context,Firas Hamze,cs.DC,http://arxiv.org/pdf/1004.0023v1
+1004.0024v1,2010-03-31T22:38:48Z,Importance of Explicit Vectorization for CPU and GPU Software   Performance,Firas Hamze,cs.DC,http://arxiv.org/pdf/1004.0024v1
+1004.0534v6,2010-04-04T21:09:37Z,Impact of Connection Admission Process on the Direct Retry Load   Balancing Algorithm in Cellular Network,Danijela Čabrić,cs.NI,http://arxiv.org/pdf/1004.0534v6
+1004.1680v1,2010-04-10T04:14:15Z,Magnetohydrodynamics on Heterogeneous architectures: a performance   comparison,Michael Perrone,cs.PF,http://arxiv.org/pdf/1004.1680v1
+1004.4709v4,2010-04-27T04:26:40Z,Optimal Content Placement for Peer-to-Peer Video-on-Demand Systems,Laurent Massoulie,cs.NI,http://arxiv.org/pdf/1004.4709v4
+1007.4853v2,2010-07-27T23:47:58Z,"Performance bounds in wormhole routing, a network calculus approach",Bruno Gaujal,cs.PF,http://arxiv.org/pdf/1007.4853v2
+1007.5080v3,2010-07-28T22:25:55Z,Analysis Framework for Opportunistic Spectrum OFDMA and its Application   to the IEEE 802.22 Standard,Danijela Čabrić,cs.NI,http://arxiv.org/pdf/1007.5080v3
+1008.1289v1,2010-08-06T23:05:24Z,An ODE for an Overloaded X Model Involving a Stochastic Averaging   Principle,Ward Whitt,math.PR,http://arxiv.org/pdf/1008.1289v1
+1009.0193v1,2010-09-01T14:48:02Z,An analytical model for evaluating outage and handover probability of   cellular wireless networks,Than-Tung Vu,math.PR,http://arxiv.org/pdf/1009.0193v1
+1009.0870v6,2010-09-04T20:54:58Z,"Online Advertisement, Optimization and Stochastic Networks",R. Srikant,cs.DS,http://arxiv.org/pdf/1009.0870v6
+1009.4330v2,2010-09-22T11:34:20Z,General-purpose molecular dynamics simulations on GPU-based clusters,Paul S. Crozier,cond-mat.mtrl-sci,http://arxiv.org/pdf/1009.4330v2
+1009.4841v1,2010-09-24T13:57:02Z,Dynamic scheduling of virtual machines running hpc workloads in   scientific grids,Markus Schulz,cs.DC,http://arxiv.org/pdf/1009.4841v1
+1009.4847v1,2010-09-24T14:14:39Z,Deadline aware virtual machine scheduler for scientific grids and cloud   computing,Markus Schulz,cs.DC,http://arxiv.org/pdf/1009.4847v1
+1010.0019v1,2010-09-30T21:02:04Z,Mantis: Predicting System Performance through Program Analysis and   Modeling,Mayur Naik,cs.PF,http://arxiv.org/pdf/1010.0019v1
+1010.0041v4,2010-10-01T00:45:03Z,Throughput and Collision Analysis of Multi-Channel Multi-Stage Spectrum   Sensing Algorithms,Danijela Čabrić,cs.PF,http://arxiv.org/pdf/1010.0041v4
+1010.4920v4,2010-10-24T00:30:15Z,Jointly Optimal Channel Pairing and Power Allocation for Multichannel   Multihop Relaying,Ben Liang,cs.IT,http://arxiv.org/pdf/1010.4920v4
+1010.5608v2,2010-10-27T08:56:31Z,A Generalized Coupon Collector Problem,Ao Kevin Tang,cs.IT,http://arxiv.org/pdf/1010.5608v2
+1011.2313v3,2010-11-10T08:38:46Z,Weighted Centroid Algorithm for Estimating Primary User Location:   Theoretical Analysis and Distributed Implementation,Danijela Čabrić,cs.PF,http://arxiv.org/pdf/1011.2313v3
+1011.3583v1,2010-11-16T04:38:53Z,Fast GPGPU Data Rearrangement Kernels using CUDA,Babu Narayanan,cs.DC,http://arxiv.org/pdf/1011.3583v1
+1012.1813v1,2010-12-08T17:33:04Z,Enhancing neural-network performance via assortativity,Joaquín J. Torres,cond-mat.dis-nn,http://arxiv.org/pdf/1012.1813v1
+1012.5327v3,2010-12-24T00:22:12Z,Computationally Efficient Modulation Level Classification Based on   Probability Distribution Distance Functions,Danijela Čabrić,cs.IT,http://arxiv.org/pdf/1012.5327v3
+1101.4211v4,2011-01-21T19:32:49Z,Throughput-optimal Scheduling in Multi-hop Wireless Networks without   Per-flow Information,Ness B. Shroff,cs.NI,http://arxiv.org/pdf/1101.4211v4
+1101.4523v2,2011-01-24T13:32:25Z,Bandwidth sharing networks with priority scaling,Balakrishna J. Prabhu,cs.PF,http://arxiv.org/pdf/1101.4523v2
+1101.4733v1,2011-01-25T06:57:48Z,An Algebra of Synchronous Scheduling Interfaces,Michael Mendler,cs.LO,http://arxiv.org/pdf/1101.4733v1
+1101.5317v1,2011-01-26T17:47:41Z,A Novel Unified Expression for the Capacity and Bit Error Probability of   Wireless Communication Systems over Generalized Fading Channels,Mohamed-Slim Alouini,cs.IT,http://arxiv.org/pdf/1101.5317v1
+1102.5314v4,2011-02-25T19:13:22Z,Jointly Optimal Channel and Power Assignment for Dual-Hop Multi-channel   Multi-user Relaying,Ben Liang,cs.IT,http://arxiv.org/pdf/1102.5314v4
+1105.4341v2,2011-05-22T14:51:29Z,The Chaos of Propagation in a Retrial Supermarket Model,Yang Wang,cs.NI,http://arxiv.org/pdf/1105.4341v2
+1105.5481v1,2011-05-27T05:53:46Z,Performance Acceleration of Kernel Polynomial Method Applying Graphics   Processing Units,Seiji Yunoki,physics.comp-ph,http://arxiv.org/pdf/1105.5481v1
+1106.0787v1,2011-06-04T04:24:26Z,Super-Exponential Solution in Markovian Supermarket Models: Framework   and Challenge,Quan-Lin Li,cs.NI,http://arxiv.org/pdf/1106.0787v1
+1106.1424v2,2011-06-07T19:50:59Z,Fixed-delay Events in Generalized Semi-Markov Processes Revisited,Vojtěch Řehák,cs.SY,http://arxiv.org/pdf/1106.1424v2
+1106.2992v1,2011-06-15T15:18:27Z,A Characterization of the SPARC T3-4 System,Michiel W. van Tol,cs.PF,http://arxiv.org/pdf/1106.2992v1
+1106.4582v2,2011-06-22T21:11:49Z,Decay of tails at equilibrium for FIFO join the shortest queue networks,Balaji Prabhakar,math.PR,http://arxiv.org/pdf/1106.4582v2
+1106.5694v2,2011-06-28T14:53:58Z,GPU-Based Heuristic Solver for Linear Sum Assignment Problems Under   Real-time Constraints,Sameh El-Ansary,cs.DC,http://arxiv.org/pdf/1106.5694v2
+1106.6328v3,2011-06-30T18:29:54Z,On the Asymptotic Validity of the Decoupling Assumption for Analyzing   802.11 MAC Protocol,Yuming Jiang,cs.NI,http://arxiv.org/pdf/1106.6328v3
+1107.0746v1,2011-07-04T21:44:01Z,Proceedings Ninth Workshop on Quantitative Aspects of Programming   Languages,Gethin Norman,cs.PL,http://arxiv.org/pdf/1107.0746v1
+1107.1525v1,2011-06-21T22:55:02Z,Accelerating Lossless Data Compression with GPUs,P. Bangalore,cs.IT,http://arxiv.org/pdf/1107.1525v1
+1107.3087v1,2011-07-15T15:22:45Z,Non-equilibrium Information Envelopes and the   Capacity-Delay-Error-Tradeoff of Source Coding,Markus Fidler,cs.PF,http://arxiv.org/pdf/1107.3087v1
+1108.0187v5,2011-07-31T16:10:57Z,Analysis of Buffer Starvation with Application to Objective QoE   Optimization of Streaming Services,Tania Jimenez,cs.PF,http://arxiv.org/pdf/1108.0187v5
+1108.4466v1,2011-08-23T01:23:16Z,Read Operators and their Expressiveness in Process Algebras,Walter Vogler,cs.LO,http://arxiv.org/pdf/1108.4466v1
+1109.1421v1,2011-09-07T11:20:46Z,Profiling parallel Mercury programs with ThreadScope,Zoltan Somogyi,cs.PL,http://arxiv.org/pdf/1109.1421v1
+1109.3739v2,2011-09-16T23:25:28Z,Parallel Sparse Matrix-Matrix Multiplication and Indexing:   Implementation and Experiments,John Gilbert,cs.DC,http://arxiv.org/pdf/1109.3739v2
+1111.0594v1,2011-11-02T18:20:36Z,Exploring Oracle RDBMS latches using Solaris DTrace,Andrey Nikolaev,cs.DB,http://arxiv.org/pdf/1111.0594v1
+1111.1926v2,2011-11-08T14:54:57Z,Performance Analysis of Sequential Method for Handover in Cognitive   Radio Systems,Masoumeh Nasiri-Kenari,cs.PF,http://arxiv.org/pdf/1111.1926v2
+1111.3110v1,2011-11-14T06:35:42Z,Model Checking Probabilistic Real-Time Properties for Service-Oriented   Systems with Service Level Agreements,Holger Giese,cs.SE,http://arxiv.org/pdf/1111.3110v1
+1111.5710v1,2011-11-24T10:13:13Z,On Mean Field Convergence and Stationary Regime,Jean-Yves Le Boudec,math.DS,http://arxiv.org/pdf/1111.5710v1
+1111.6374v2,2011-11-28T08:52:04Z,Solving Dense Generalized Eigenproblems on Multi-threaded Architectures,Enrique S. Quintana-Ortí,cs.PF,http://arxiv.org/pdf/1111.6374v2
+1111.6756v1,2011-11-29T10:40:44Z,"The Potential of Synergistic Static, Dynamic and Speculative Loop Nest   Optimizations for Automatic Parallelization",Lawrence Rauchwerger,cs.DC,http://arxiv.org/pdf/1111.6756v1
+1201.0662v1,2012-01-03T15:21:48Z,Transmission capacity of wireless networks,Jeffrey G. Andrews,cs.IT,http://arxiv.org/pdf/1201.0662v1
+1201.1090v2,2012-01-05T09:26:40Z,Distributed Multiuser Sequential Channel Sensing Schemes in Multichannel   Cognitive Radio Networks,Masoumeh Nasiri-Kenari,cs.NI,http://arxiv.org/pdf/1201.1090v2
+1201.5229v1,2012-01-25T10:22:58Z,Cross-entropy optimisation of importance sampling parameters for   statistical model checking,Sean Sedwards,cs.PF,http://arxiv.org/pdf/1201.5229v1
+1201.6402v1,2012-01-30T23:03:45Z,A Note on Disk Drag Dynamics,Neil J. Gunther,cs.PF,http://arxiv.org/pdf/1201.6402v1
+1202.4661v1,2012-02-20T19:05:12Z,Delay Asymptotics with Retransmissions and Incremental Redundancy Codes   over Erasure Channels,Hesham El-Gamal,cs.IT,http://arxiv.org/pdf/1202.4661v1
+1202.5202v1,2012-02-22T11:12:32Z,Secure Compressed Reading in Smart Grids,Sidharth Jaggi,cs.IT,http://arxiv.org/pdf/1202.5202v1
+1202.6522v5,2012-02-29T12:05:12Z,Efficient Spherical Harmonic Transforms aimed at pseudo-spectral   numerical simulations,Nathanaël Schaeffer,physics.comp-ph,http://arxiv.org/pdf/1202.6522v5
+1203.0160v2,2012-03-01T11:43:43Z,Scaling Datalog for Machine Learning on Big Data,Raghu Ramakrishnan,cs.DB,http://arxiv.org/pdf/1203.0160v2
+1203.1535v2,2012-03-07T16:43:45Z,Performance Analysis of l_0 Norm Constraint Least Mean Square Algorithm,Jian Wang,cs.IT,http://arxiv.org/pdf/1203.1535v2
+1203.1538v2,2012-03-07T16:58:20Z,Proof of Convergence and Performance Analysis for Sparse Recovery via   Zero-point Attracting Projection,Laming Chen,cs.IT,http://arxiv.org/pdf/1203.1538v2
+1203.5026v1,2012-03-22T16:05:33Z,On the Power of Centralization in Distributed Processing,Kuang Xu,cs.DC,http://arxiv.org/pdf/1203.5026v1
+1203.5675v1,2012-03-26T14:12:48Z,Memory Hierarchy Sensitive Graph Layout,Amitabha Roy,cs.DS,http://arxiv.org/pdf/1203.5675v1
+1204.0958v1,2012-04-04T14:26:08Z,Robust methods for LTE and WiMAX dimensioning,Thanh-Tung Vu,cs.RO,http://arxiv.org/pdf/1204.0958v1
+1204.5281v1,2012-04-24T06:59:37Z,Stochastic Analysis of Mean Interference for RTS/CTS Mechanism,Wenyi Zhang,cs.NI,http://arxiv.org/pdf/1204.5281v1
+1205.1098v1,2012-05-05T04:30:14Z,Reliable Generation of High-Performance Matrix Algebra,Jeremy G. Siek,cs.MS,http://arxiv.org/pdf/1205.1098v1
+1205.1622v1,2012-05-08T08:05:34Z,Performance Measurement of Cloud Computing Services,Roberd Saragih,cs.NI,http://arxiv.org/pdf/1205.1622v1
+1206.0919v2,2012-06-05T13:16:36Z,Relativistic Hydrodynamics on Graphic Cards,Marcus Bleicher,hep-ph,http://arxiv.org/pdf/1206.0919v2
+1206.1099v1,2012-06-06T00:39:46Z,Power Grid Vulnerability to Geographically Correlated Failures -   Analysis and Control Implications,Gil Zussman,cs.SY,http://arxiv.org/pdf/1206.1099v1
+1206.1199v1,2012-06-06T12:23:54Z,Astrophysical Particle Simulations on Heterogeneous CPU-GPU Systems,Ken'ichi Nomoto,astro-ph.IM,http://arxiv.org/pdf/1206.1199v1
+1206.1390v1,2012-06-07T03:18:42Z,Fault-tolerant linear solvers via selective reliability,Mark Hoemmen,math.NA,http://arxiv.org/pdf/1206.1390v1
+1206.3768v3,2012-06-17T17:03:24Z,Block Iterative Eigensolvers for Sequences of Correlated Eigenvalue   Problems,Mario Berljafa,cs.DS,http://arxiv.org/pdf/1206.3768v3
+1206.6808v1,2012-06-28T19:50:53Z,A Multi-State Power Model for Adequacy Assessment of Distributed   Generation via Universal Generating Function,Enrico Zio,cs.OH,http://arxiv.org/pdf/1206.6808v1
+1207.0559v1,2012-07-03T01:24:57Z,Proceedings 10th Workshop on Quantitative Aspects of Programming   Languages and Systems,Mieke Massink,cs.PL,http://arxiv.org/pdf/1207.0559v1
+1207.0873v1,2012-07-04T01:25:04Z,Hybrid performance modelling of opportunistic networks,Jane Hillston,cs.SY,http://arxiv.org/pdf/1207.0873v1
+1207.1469v1,2012-07-05T21:47:33Z,Cramer-Rao Bounds for Joint RSS/DoA-Based Primary-User Localization in   Cognitive Radio Networks,Danijela Cabric,cs.PF,http://arxiv.org/pdf/1207.1469v1
+1207.1746v1,2012-07-06T23:30:06Z,A Generic Library for Stencil Computations,Ugo Varetto,cs.MS,http://arxiv.org/pdf/1207.1746v1
+1207.3868v1,2012-07-17T03:46:43Z,Impact of Different Spreading Codes Using FEC on DWT Based MC-CDMA   System,Shaikh Enayet Ullah,cs.IT,http://arxiv.org/pdf/1207.3868v1
+1207.3869v1,2012-07-17T03:51:57Z,Automated Inference System for End-To-End Diagnosis of Network   Performance Issues in Client-Terminal Devices,Jonathan C. Li,cs.NI,http://arxiv.org/pdf/1207.3869v1
+1207.3871v1,2012-07-17T03:57:58Z,Performance Analysis of Wavelet Based MC-CDMA System with Implementation   of Various Antenna Diversity Schemes,Sk. Enayet Ullah,cs.IT,http://arxiv.org/pdf/1207.3871v1
+1207.3875v1,2012-07-17T04:12:31Z,Transmission of Voice Signal: BER Performance Analysis of Different FEC   Schemes Based OFDM System over Various Channels,Sheikh Enayet Ullah,cs.IT,http://arxiv.org/pdf/1207.3875v1
+1207.3882v1,2012-07-17T05:25:56Z,WEP: An Energy Efficient Protocol for Cluster Based Heterogeneous   Wireless Sensor Network,Shaikh Enayet Ullah,cs.IT,http://arxiv.org/pdf/1207.3882v1
+1207.3884v1,2012-07-17T05:34:09Z,Effect of Interleaved FEC Code on Wavelet Based MC-CDMA System with   Alamouti STBC in Different Modulation Schemes,Sheikh Enayet Ullah,cs.IT,http://arxiv.org/pdf/1207.3884v1
+1208.0788v2,2012-08-03T16:16:13Z,An Upper Bound on the Convergence Time for Quantized Consensus,Sanjeev R. Kulkarni,stat.AP,http://arxiv.org/pdf/1208.0788v2
+1208.3943v1,2012-08-20T08:48:40Z,Performance Tuning Of J48 Algorithm For Prediction Of Soil Fertility,Jay Gholap,cs.LG,http://arxiv.org/pdf/1208.3943v1
+1208.6428v1,2012-08-31T09:04:05Z,A Hardware Time Manager Implementation for the Xenomai Real-Time Kernel   of Embedded Linux,Jalil Boukhobza,cs.OS,http://arxiv.org/pdf/1208.6428v1
+1209.0676v1,2012-09-04T15:47:27Z,Channel Assignment in Dense MC-MR Wireless Networks: Scaling Laws and   Algorithms,William N. Tetteh,cs.NI,http://arxiv.org/pdf/1209.0676v1
+1209.2364v2,2012-09-11T16:37:20Z,Performance Modeling for Dense Linear Algebra,Paolo Bientinesi,cs.MS,http://arxiv.org/pdf/1209.2364v2
+1209.4560v1,2012-09-20T15:18:54Z,Distributing an Exact Algorithm for Maximum Clique: maximising the   costup,Patrick Prosser,cs.DS,http://arxiv.org/pdf/1209.4560v1
+1209.6449v1,2012-09-28T08:28:43Z,Fast Packed String Matching for Short Patterns,M. Oguzhan Külekci,cs.IR,http://arxiv.org/pdf/1209.6449v1
+1209.6615v3,2012-09-28T19:07:50Z,Scalable Analysis for Large Social Networks: the data-aware mean-field   approach,Peter Groenewegen,cs.SI,http://arxiv.org/pdf/1209.6615v3
+1209.6630v2,2012-09-28T19:58:58Z,Quantum Monte Carlo for large chemical systems: Implementing efficient   strategies for petascale platforms and beyond,William Jalby,cs.PF,http://arxiv.org/pdf/1209.6630v2
+1210.0510v1,2012-10-01T19:15:19Z,PCNM: A New Platform for Cellular Networks Measurements and Optimization,Frédéric Cespedes,cs.NI,http://arxiv.org/pdf/1210.0510v1
+1210.1326v1,2012-10-04T08:16:31Z,Wireless Network Coding via Modified 802.11 MAC/PHY: Design and   Implementation on SDR,Hui Liu,cs.IT,http://arxiv.org/pdf/1210.1326v1
+1210.3835v1,2012-10-14T20:27:11Z,Exploiting Network Cooperation in Green Wireless Communication,Rui Zhang,cs.IT,http://arxiv.org/pdf/1210.3835v1
+1210.8176v1,2012-10-30T21:23:57Z,Eigenvalue-based Cyclostationary Spectrum Sensing Using Multiple   Antennas,Danijela Cabric,cs.PF,http://arxiv.org/pdf/1210.8176v1
+1210.8191v2,2012-10-30T22:45:46Z,Performance Indicator for MIMO MMSE Receivers in the Presence of Channel   Estimation Error,Chung-Yu Lou,cs.PF,http://arxiv.org/pdf/1210.8191v2
+1212.0703v2,2012-12-04T12:55:21Z,The Cost of Address Translation,Kurt Mehlhorn,cs.DS,http://arxiv.org/pdf/1212.0703v2
+1212.1638v4,2012-12-07T16:05:42Z,Achieving Optimal Throughput and Near-Optimal Asymptotic Delay   Performance in Multi-Channel Wireless Networks with Low Complexity: A   Practical Greedy Scheduling Policy,Ness B. Shroff,cs.NI,http://arxiv.org/pdf/1212.1638v4
+1212.5374v1,2012-12-21T09:52:43Z,A Blind Time-Reversal Detector in the Presence of Channel Correlation,Olav Tirkkonen,cs.IT,http://arxiv.org/pdf/1212.5374v1
+1212.6640v1,2012-12-29T15:29:26Z,"Exploring mutexes, the Oracle RDBMS retrial spinlocks",Andrey Nikolaev,cs.DB,http://arxiv.org/pdf/1212.6640v1
+1302.4225v1,2013-02-18T11:11:38Z,Impact of Pointing Errors on the Performance of Mixed RF/FSO Dual-Hop   Transmission Systems,Mohamed-Slim Alouini,cs.IT,http://arxiv.org/pdf/1302.4225v1
+1302.4773v1,2013-02-19T22:59:44Z,Optimal Discriminant Functions Based On Sampled Distribution Distance   for Modulation Classification,Danijela Cabric,stat.ML,http://arxiv.org/pdf/1302.4773v1
+1303.3632v1,2013-03-14T22:40:32Z,Statistical Regression to Predict Total Cumulative CPU Usage of   MapReduce Jobs,Albert Y. Zomaya,cs.DC,http://arxiv.org/pdf/1303.3632v1
+1304.1838v3,2013-04-06T00:26:41Z,Towards a Workload for Evolutionary Analytics,Neoklis Polyzotis,cs.DB,http://arxiv.org/pdf/1304.1838v3
+1304.1966v1,2013-04-07T08:08:51Z,A Performance Comparison of Different Graphics Processing Units Running   Direct N-Body Simulations,Mario Spera,astro-ph.IM,http://arxiv.org/pdf/1304.1966v1
+1304.6007v1,2013-04-22T16:23:24Z,Paging with dynamic memory capacity,Enoch Peserico,cs.DS,http://arxiv.org/pdf/1304.6007v1
+1304.7966v1,2013-04-30T11:57:20Z,Performance of a Multiple-Access DCSK-CC System over Nakagami-$m$ Fading   Channels,Guanrong Chen,cs.IT,http://arxiv.org/pdf/1304.7966v1
+1307.0044v3,2013-06-28T22:40:11Z,Movers and Shakers: Kinetic Energy Harvesting for the Internet of Things,Gil Zussman,cs.ET,http://arxiv.org/pdf/1307.0044v3
+1307.2320v1,2013-07-09T01:57:39Z,Dynamic Partial Cooperative MIMO System for Delay-Sensitive Applications   with Limited Backhaul Capacity,Huang Huang,cs.IT,http://arxiv.org/pdf/1307.2320v1
+1307.4129v1,2013-07-15T23:09:06Z,A Performance Comparison of Network Simulators for Wireless Networks,Mazliza Othmana,cs.NI,http://arxiv.org/pdf/1307.4129v1
+1307.4566v2,2013-07-17T10:31:05Z,Spatial Fluid Limits for Stochastic Mobile Networks,Mirco Tribastone,cs.NI,http://arxiv.org/pdf/1307.4566v2
+1307.6373v2,2013-07-24T10:39:58Z,Effect of Spatial Interference Correlation on the Performance of Maximum   Ratio Combining,Friedrich K. Jondral,cs.IT,http://arxiv.org/pdf/1307.6373v2
+1307.7451v2,2013-07-29T03:10:01Z,RepFlow: Minimizing Flow Completion Times with Replicated Flows in Data   Centers,Baochun Li,cs.NI,http://arxiv.org/pdf/1307.7451v2
+1307.8083v1,2013-07-30T18:49:33Z,TOFEC: Achieving Optimal Throughput-Delay Trade-off of Cloud Storage   Using Erasure Codes,Ulas C. Kozat,cs.NI,http://arxiv.org/pdf/1307.8083v1
+1307.8199v2,2013-07-31T03:02:40Z,Technical Report: An MGF-based Unified Framework to Determine the Joint   Statistics of Partial Sums of Ordered i.n.d. Random Variables,Dong In Kim,cs.IT,http://arxiv.org/pdf/1307.8199v2
+1310.2954v1,2013-10-09T18:10:49Z,Improved Spectrum Mobility using Virtual Reservation in Collaborative   Cognitive Radio Networks,Tamer ElBatt,cs.NI,http://arxiv.org/pdf/1310.2954v1
+1310.3809v1,2013-10-10T11:02:13Z,Efficient Modular Arithmetic for SIMD Devices,Wilke Trei,cs.CR,http://arxiv.org/pdf/1310.3809v1
+1310.5839v1,2013-10-22T08:48:03Z,Extreme Scaling of Lattice Quantum Chromodynamics,Volker Weinberg,cs.DC,http://arxiv.org/pdf/1310.5839v1
+1310.6173v1,2013-10-23T10:27:49Z,Self-Organizing Mobility Robustness Optimization in LTE Networks with   eICIC,Pantelis Monogioudis,cs.NI,http://arxiv.org/pdf/1310.6173v1
+1310.7801v3,2013-10-29T13:42:01Z,EPOBF: Energy Efficient Allocation of Virtual Machines in High   Performance Computing Cloud,Nguyen Thanh Son,cs.DC,http://arxiv.org/pdf/1310.7801v3
+1311.0486v1,2013-11-03T16:07:43Z,"On the optimal tradeoff of average service cost rate, average utility   rate, and average delay for the state dependent M/M/1 queue",Utpal Mukherji,cs.PF,http://arxiv.org/pdf/1311.0486v1
+1311.2851v1,2013-11-07T02:43:11Z,When Do Redundant Requests Reduce Latency ?,Kannan Ramchandran,cs.NI,http://arxiv.org/pdf/1311.2851v1
+1311.3686v1,2013-11-13T10:53:02Z,Performance Evaluation of Java File Security System (JFSS),Dr. R. K. Tuteja,cs.OS,http://arxiv.org/pdf/1311.3686v1
+1311.3928v1,2013-11-15T17:17:21Z,HS06 Benchmark for an ARM Server,Stefan Kluth,physics.comp-ph,http://arxiv.org/pdf/1311.3928v1
+1311.5740v1,2013-11-22T13:02:15Z,"Distributed Multiscale Computing with MUSCLE 2, the Multiscale Coupling   Library and Environment",Alfons G. Hoekstra,cs.DC,http://arxiv.org/pdf/1311.5740v1
+1311.5806v2,2013-11-22T16:44:35Z,Analysis of Load Balancing in Large Heterogeneous Processor Sharing   Systems,Ravi R. Mazumdar,cs.DC,http://arxiv.org/pdf/1311.5806v2
+1404.2266v1,2014-04-08T09:44:11Z,Enhanced Cluster Computing Performance Through Proportional Fairness,James Roberts,cs.PF,http://arxiv.org/pdf/1404.2266v1
+1404.4547v3,2014-04-17T14:56:53Z,Control of parallel non-observable queues: asymptotic equivalence and   optimality of periodic policies,Tommaso Nesti,cs.PF,http://arxiv.org/pdf/1404.4547v3
+1404.5406v1,2014-04-22T07:40:51Z,Degradation Analysis of Probabilistic Parallel Choice Systems,Shrisha Rao,cs.PF,http://arxiv.org/pdf/1404.5406v1
+1404.6218v3,2014-04-24T18:39:30Z,A Parallel Task-based Approach to Linear Algebra,Wim Vanderbauwhede,cs.DC,http://arxiv.org/pdf/1404.6218v3
+1405.2523v1,2014-05-11T11:40:36Z,Performance Provisioning and Energy Efficiency in Cloud and Distributed   Computing Systems,Nikzad Babaii Rizvandi,cs.DC,http://arxiv.org/pdf/1405.2523v1
+1405.2735v1,2014-05-12T13:00:54Z,Signalling Storms in 3G Mobile Networks,Erol Gelenbe,cs.NI,http://arxiv.org/pdf/1405.2735v1
+1405.2916v1,2014-05-12T16:42:48Z,Automatic Detection of Performance Anomalies in Task-Parallel Programs,Nathalie Drach,cs.DC,http://arxiv.org/pdf/1405.2916v1
+1405.4200v1,2014-05-16T15:11:24Z,Mean-Field approximation and Quasi-Equilibrium reduction of Markov   Population Models,Rytis Paškauskas,cs.SY,http://arxiv.org/pdf/1405.4200v1
+1407.0904v2,2014-07-03T13:01:45Z,COFFEE: an Optimizing Compiler for Finite Element Local Assembly,Paul H. J. Kelly,cs.MS,http://arxiv.org/pdf/1407.0904v2
+1407.8168v1,2014-07-30T19:37:10Z,Quantifying the Effect of Matrix Structure on Multithreaded Performance   of the SpMV Kernel,Michael M. Wolf,cs.DC,http://arxiv.org/pdf/1407.8168v1
+1507.03648v1,2015-07-13T22:54:20Z,Deadline-aware Power Management in Data Centers,Zygmunt J. Haas,cs.DS,http://arxiv.org/pdf/1507.03648v1
+1507.06702v1,2015-07-23T23:42:34Z,The Anatomy of Large-Scale Distributed Graph Algorithms,Andrew Lumsdaine,cs.DC,http://arxiv.org/pdf/1507.06702v1
+1507.06881v1,2015-07-24T15:24:15Z,Coordinated Dynamic Spectrum Management of LTE-U and Wi-Fi Networks,Dipankar Raychaudhuri,cs.IT,http://arxiv.org/pdf/1507.06881v1
+1507.08340v1,2015-07-29T22:59:49Z,How Data Volume Affects Spark Based Data Analytics on a Scale-up Server,Eduard Ayguade,cs.DC,http://arxiv.org/pdf/1507.08340v1
+1507.08499v1,2015-07-30T13:42:56Z,Low Delay Random Linear Coding and Scheduling Over Multiple Interfaces,Douglas J. Leith,cs.NI,http://arxiv.org/pdf/1507.08499v1
+0910.0983v1,2009-10-06T12:09:52Z,On Metric Skyline Processing by PM-tree,Jakub Lokoc,cs.DB,http://arxiv.org/pdf/0910.0983v1
+0910.2582v1,2009-10-14T12:18:28Z,Scalable Distributed-Memory External Sorting,Johannes Singler,cs.DS,http://arxiv.org/pdf/0910.2582v1
+1003.2084v3,2010-03-10T11:39:08Z,Asynchronous Bounded Expected Delay Networks,Jun Pang,cs.DC,http://arxiv.org/pdf/1003.2084v3
+1003.5068v1,2010-03-26T08:06:37Z,On the stability of flow-aware CSMA,M. Feuillet,cs.PF,http://arxiv.org/pdf/1003.5068v1
+1005.2581v3,2010-05-14T17:41:53Z,A Performance Comparison of CUDA and OpenCL,Firas Hamze,cs.PF,http://arxiv.org/pdf/1005.2581v3
+1005.2898v1,2010-05-17T12:08:14Z,Saturation Throughput - Delay Analysis of IEEE 802.11 DCF in Fading   Channel,Boris Spasenovski,cs.NI,http://arxiv.org/pdf/1005.2898v1
+1006.2183v1,2010-06-11T02:10:58Z,Highly Parallel Sparse Matrix-Matrix Multiplication,John R. Gilbert,cs.DC,http://arxiv.org/pdf/1006.2183v1
+1006.2313v2,2010-06-11T13:50:21Z,On the flow-level stability of data networks without congestion control:   the case of linear networks and upstream trees,Mathieu Feuillet,math.PR,http://arxiv.org/pdf/1006.2313v2
+1006.3295v5,2010-06-16T18:37:30Z,Implicit Renewal Theory and Power Tails on Trees,Mariana Olvera-Cravioto,math.PR,http://arxiv.org/pdf/1006.3295v5
+1006.5104v1,2010-06-26T03:03:55Z,A new tool for the performance analysis of massively parallel computer   systems,Jeremy Bradley,cs.PF,http://arxiv.org/pdf/1006.5104v1
+1006.5107v1,2010-06-26T03:34:52Z,Proceedings Eighth Workshop on Quantitative Aspects of Programming   Languages,Gethin Norman,cs.PL,http://arxiv.org/pdf/1006.5107v1
+1103.1305v1,2011-03-07T15:46:05Z,Generic Approach for Hierarchical Modulation Performance Analysis:   Application to DVB-SH,Marie-Laure Boucheret,cs.IT,http://arxiv.org/pdf/1103.1305v1
+1103.1742v1,2011-03-09T09:31:58Z,Generic Approach for Hierarchical Modulation Performance Analysis:   Application to DVB-SH and DVB-S2,Marie-Laure Boucheret,cs.IT,http://arxiv.org/pdf/1103.1742v1
+1103.3099v2,2011-03-16T05:37:18Z,Optimal Power Cost Management Using Stored Energy in Data Centers,Anand Sivasubramaniam,cs.PF,http://arxiv.org/pdf/1103.3099v2
+1104.0118v1,2011-04-01T09:37:13Z,A Comparative Study of Relaying Schemes with Decode-and-Forward over   Nakagami-m Fading Channels,Paschalis C. Sofotasios,cs.IT,http://arxiv.org/pdf/1104.0118v1
+1104.2156v2,2011-04-12T09:57:05Z,Structural Analysis of Network Traffic Matrix via Relaxed Principal   Component Pursuit,Xiaowen Dong,cs.NI,http://arxiv.org/pdf/1104.2156v2
+1104.2499v2,2011-04-13T14:12:15Z,OpenCL/OpenGL approach for studying active Brownian motion,Michał Żabicki,physics.comp-ph,http://arxiv.org/pdf/1104.2499v2
+1104.4518v2,2011-04-22T23:42:40Z,Parallel Breadth-First Search on Distributed Memory Systems,Kamesh Madduri,cs.DC,http://arxiv.org/pdf/1104.4518v2
+1104.4927v1,2011-04-26T14:05:51Z,"Serial Concatenation of RS Codes with Kite Codes: Performance Analysis,   Iterative Decoding and Design",Xiaoyi Zhang,cs.IT,http://arxiv.org/pdf/1104.4927v1
+1112.4539v1,2011-12-20T00:59:41Z,Implementation of a Parallel Tree Method on a GPU,Naohito Nakasato,astro-ph.IM,http://arxiv.org/pdf/1112.4539v1
+1112.5505v5,2011-12-23T02:38:42Z,A Study on Using Uncertain Time Series Matching Algorithms in MapReduce   Applications,Reza Moraveji,cs.DC,http://arxiv.org/pdf/1112.5505v5
+1112.5588v2,2011-12-23T14:03:56Z,Sparse matrix-vector multiplication on GPGPU clusters: A new storage   format and a scalable implementation,Alan R. Bishop,cs.DC,http://arxiv.org/pdf/1112.5588v2
+1211.0618v3,2012-11-03T15:44:07Z,Queuing with future information,Kuang Xu,math.PR,http://arxiv.org/pdf/1211.0618v3
+1211.0906v2,2012-11-05T16:15:16Z,Algorithm Runtime Prediction: Methods & Evaluation,Kevin Leyton-Brown,cs.AI,http://arxiv.org/pdf/1211.0906v2
+1211.1643v2,2012-11-07T19:30:47Z,Hybrid Behaviour of Markov Population Models,Luca Bortolussi,cs.SY,http://arxiv.org/pdf/1211.1643v2
+1211.2292v1,2012-11-10T05:51:06Z,Hybrid MPI-OpenMP Paradigm on SMP Clusters: MPEG-2 Encoder and N-Body   Simulation,Shigeru Oyanagi,cs.DC,http://arxiv.org/pdf/1211.2292v1
+1211.2293v1,2012-11-10T06:08:36Z,Performance Evaluation of Treecode Algorithm for N-Body Simulation Using   GridRPC System,Shigeru Oyanagi,cs.DC,http://arxiv.org/pdf/1211.2293v1

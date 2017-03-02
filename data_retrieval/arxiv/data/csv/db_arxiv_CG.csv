@@ -1,0 +1,1000 @@
+cs/9808008v1,1998-08-31T19:04:14Z,Computational Geometry Column 34,Joseph O'Rourke,cs.CG,http://arxiv.org/pdf/cs/9808008v1
+cs/9809038v2,1998-09-21T23:31:16Z,Incremental and Decremental Maintenance of Planar Width,David Eppstein,cs.CG,http://arxiv.org/pdf/cs/9809038v2
+cs/9809081v1,1998-09-24T21:02:45Z,Optimal Point Placement for Mesh Smoothing,David Eppstein,cs.CG,http://arxiv.org/pdf/cs/9809081v1
+cs/9809109v1,1998-09-26T23:44:27Z,Linear Complexity Hexahedral Mesh Generation,David Eppstein,cs.CG,http://arxiv.org/pdf/cs/9809109v1
+cs/9810007v2,1998-10-07T08:03:32Z,Randomization yields simple O(n log star n) algorithms for difficult   Omega(n) problems,Olivier Devillers,cs.CG,http://arxiv.org/pdf/cs/9810007v2
+cs/9901013v1,1999-01-26T21:23:37Z,Analysis of approximate nearest neighbor searching with clustered point   sets,David M. Mount,cs.CG,http://arxiv.org/pdf/cs/9901013v1
+cs/9906023v1,1999-06-22T20:40:51Z,Computational Geometry Column 35,Joseph O'Rourke,cs.CG,http://arxiv.org/pdf/cs/9906023v1
+cs/9907023v1,1999-07-16T13:25:04Z,On Deletion in Delaunay Triangulation,Olivier Devillers,cs.CG,http://arxiv.org/pdf/cs/9907023v1
+cs/9907024v1,1999-07-16T12:44:07Z,Improved Incremental Randomized Delaunay Triangulation,Olivier Devillers,cs.CG,http://arxiv.org/pdf/cs/9907024v1
+cs/9907025v1,1999-07-16T15:20:14Z,"The union of unit balls has quadratic complexity, even if they all   contain the origin",Olivier Devillers,cs.CG,http://arxiv.org/pdf/cs/9907025v1
+cs/9907028v1,1999-07-19T15:09:50Z,Further Results on Arithmetic Filters for Geometric Predicates,Franco P. Preparata,cs.CG,http://arxiv.org/pdf/cs/9907028v1
+cs/9907029v2,1999-07-19T15:22:19Z,A Probabilistic Analysis of the Power of Arithmetic Filters,Franco P. Preparata,cs.CG,http://arxiv.org/pdf/cs/9907029v2
+cs/9907030v1,1999-07-19T20:55:39Z,Algorithms for Coloring Quadtrees,Brad Hutchings,cs.CG,http://arxiv.org/pdf/cs/9907030v1
+cs/9908006v2,1999-08-11T17:14:00Z,Computational Geometry Column 36,Joseph O'Rourke,cs.CG,http://arxiv.org/pdf/cs/9908006v2
+cs/9908007v1,1999-08-11T17:19:00Z,Computational Geometry Column 37,Joseph O'Rourke,cs.CG,http://arxiv.org/pdf/cs/9908007v1
+cs/9908016v1,1999-08-19T20:40:36Z,Quadrilateral Meshing by Circle Packing,David Eppstein,cs.CG,http://arxiv.org/pdf/cs/9908016v1
+cs/9909004v1,1999-09-03T15:09:50Z,Convex Tours of Bounded Curvature,Mariette Yvinec,cs.CG,http://arxiv.org/pdf/cs/9909004v1
+cs/9909005v1,1999-09-03T15:29:28Z,Computing largest circles separating two sets of segments,Mariette Yvinec,cs.CG,http://arxiv.org/pdf/cs/9909005v1
+cs/9909006v1,1999-09-03T16:18:49Z,Motion Planning of Legged Robots,Sylvain Lazard,cs.CG,http://arxiv.org/pdf/cs/9909006v1
+cs/9909007v1,1999-09-03T16:51:23Z,Circular Separability of Polygons,Mariette Yvinec,cs.CG,http://arxiv.org/pdf/cs/9909007v1
+cs/9909017v1,1999-09-27T11:55:29Z,Finding an ordinary conic and an ordinary hyperplane,Asish Mukhopadhyay,cs.CG,http://arxiv.org/pdf/cs/9909017v1
+cs/0009013v2,2000-09-19T20:09:39Z,Pattern Matching for sets of segments,Suresh Venkatasubramanian,cs.CG,http://arxiv.org/pdf/cs/0009013v2
+cs/0009024v1,2000-09-25T19:28:49Z,Computing the Depth of a Flat,David Eppstein,cs.CG,http://arxiv.org/pdf/cs/0009024v1
+cs/0010039v1,2000-10-31T17:37:33Z,Computational Geometry Column 40,Joseph O'Rourke,cs.CG,http://arxiv.org/pdf/cs/0010039v1
+cs/0101006v2,2001-01-11T21:55:53Z,Optimal Moebius Transformations for Information Visualization and   Meshing,David Eppstein,cs.CG,http://arxiv.org/pdf/cs/0101006v2
+cs/0103017v1,2001-03-23T00:23:11Z,Nice point sets can have nasty Delaunay triangulations,Jeff Erickson,cs.CG,http://arxiv.org/pdf/cs/0103017v1
+cs/0108020v3,2001-08-27T20:24:51Z,Flipping Cubical Meshes,Jeff Erickson,cs.CG,http://arxiv.org/pdf/cs/0108020v3
+cs/0202011v1,2002-02-12T14:11:25Z,Small Strictly Convex Quadrilateral Meshes of Point Sets,Vera Sacristan,cs.CG,http://arxiv.org/pdf/cs/0202011v1
+cs/0203025v1,2002-03-20T15:14:24Z,Sufficiently Fat Polyhedra are not 2-castable,Alexander Golynski,cs.CG,http://arxiv.org/pdf/cs/0203025v1
+cs/0204042v1,2002-04-19T21:03:35Z,Preprocessing Chains for Fast Dihedral Rotations Is Hard or Even   Impossible,Mark Overmars,cs.CG,http://arxiv.org/pdf/cs/0204042v1
+cs/0204050v1,2002-04-25T20:41:10Z,Computing Homotopic Shortest Paths Efficiently,Anna Lubiw,cs.CG,http://arxiv.org/pdf/cs/0204050v1
+cs/0206002v1,2002-06-01T23:20:51Z,Building Space-Time Meshes over Arbitrary Spatial Domains,Alper Üngör,cs.CG,http://arxiv.org/pdf/cs/0206002v1
+cs/0206018v3,2002-06-11T23:53:35Z,On Simultaneous Graph Embedding,J. S. B. Mitchell,cs.CG,http://arxiv.org/pdf/cs/0206018v3
+cs/0206019v1,2002-06-12T02:02:48Z,Simultaneous Embedding of a Planar Graph and Its Dual on the Grid,S. G. Kobourov,cs.CG,http://arxiv.org/pdf/cs/0206019v1
+cs/0207063v1,2002-07-15T20:20:34Z,Parallel Delaunay Refinement: Algorithms and Analyses,Alper Ungor,cs.CG,http://arxiv.org/pdf/cs/0207063v1
+cs/0207081v1,2002-07-24T19:00:19Z,Moebius-Invariant Natural Neighbor Interpolation,David Eppstein,cs.CG,http://arxiv.org/pdf/cs/0207081v1
+cs/0209007v2,2002-09-04T01:33:58Z,A Survey and a New Competitive Method for the Planar min-# Problem,Lilian Buzer,cs.CG,http://arxiv.org/pdf/cs/0209007v2
+cs/0209027v1,2002-09-23T21:53:22Z,Remarks on d-Dimensional TSP Optimal Tour Length Behaviour,A. G. Yaneff,cs.CG,http://arxiv.org/pdf/cs/0209027v1
+cs/0209034v1,2002-09-30T19:42:57Z,An Algorithmic Study of Manufacturing Paperclips and Other Folded   Structures,Joseph S. B. Mitchell,cs.CG,http://arxiv.org/pdf/cs/0209034v1
+cs/0302031v1,2003-02-20T22:20:50Z,Relaxed Scheduling in Dynamic Skin Triangulation,Alper Ungor,cs.CG,http://arxiv.org/pdf/cs/0302031v1
+cs/0303001v1,2003-03-01T22:09:20Z,When Crossings Count - Approximating the Minimum Spanning Tree,Piotr Indyk,cs.CG,http://arxiv.org/pdf/cs/0303001v1
+cs/0304023v1,2003-04-17T12:29:29Z,Partitioning Regular Polygons into Circular Pieces I: Convex Partitions,Joseph O'Rourke,cs.CG,http://arxiv.org/pdf/cs/0304023v1
+cs/0304025v1,2003-04-18T21:12:35Z,Computational Geometry Column 44,Joseph O'Rourke,cs.CG,http://arxiv.org/pdf/cs/0304025v1
+cs/0307023v2,2003-07-09T21:29:49Z,Testing Bipartiteness of Geometric Intersection Graphs,David Eppstein,cs.CG,http://arxiv.org/pdf/cs/0307023v2
+cs/0307027v1,2003-07-11T00:43:00Z,Deterministic Sampling and Range Counting in Geometric Data Streams,Michael T. Goodrich,cs.CG,http://arxiv.org/pdf/cs/0307027v1
+cs/0310031v1,2003-10-16T00:14:55Z,A weak definition of Delaunay triangulation,Vin de Silva,cs.CG,http://arxiv.org/pdf/cs/0310031v1
+cs/0405089v1,2004-05-24T13:19:59Z,Convex Hull of Planar H-Polyhedra,Andy King,cs.CG,http://arxiv.org/pdf/cs/0405089v1
+cs/0407020v1,2004-07-08T19:03:32Z,Minimum Enclosing Polytope in High Dimensions,Rina Panigrahy,cs.CG,http://arxiv.org/pdf/cs/0407020v1
+cs/0412025v3,2004-12-07T01:39:36Z,Minimum Dilation Stars,Kevin A. Wortman,cs.CG,http://arxiv.org/pdf/cs/0412025v3
+cs/0412046v1,2004-12-10T22:50:50Z,Quasiconvex Programming,David Eppstein,cs.CG,http://arxiv.org/pdf/cs/0412046v1
+cs/0501007v1,2005-01-04T22:30:04Z,A Time-Optimal Delaunay Refinement Algorithm in Two Dimensions,Alper Ungor,cs.CG,http://arxiv.org/pdf/cs/0501007v1
+cs/0505017v1,2005-05-08T16:36:42Z,Point set stratification and Delaunay depth,Ferran Hurtado,cs.CG,http://arxiv.org/pdf/cs/0505017v1
+cs/0505047v1,2005-05-18T11:27:59Z,A Simple Proof of the F{á}ry-Wagner Theorem,David R. Wood,cs.CG,http://arxiv.org/pdf/cs/0505047v1
+cs/0507038v1,2005-07-14T18:45:36Z,"Upper Bound on the Number of Vertices of Polyhedra with $0,1$-Constraint   Matrices",Raimund Seidel,cs.CG,http://arxiv.org/pdf/cs/0507038v1
+cs/0507049v1,2005-07-19T20:17:12Z,The Skip Quadtree: A Simple Dynamic Data Structure for Multidimensional   Data,Jonathan Z. Sun,cs.CG,http://arxiv.org/pdf/cs/0507049v1
+cs/0510004v1,2005-10-03T02:09:14Z,The Hunting of the Bump: On Maximizing Statistical Discrepancy,Suresh Venkatasubramanian,cs.CG,http://arxiv.org/pdf/cs/0510004v1
+cs/0510024v1,2005-10-11T00:47:37Z,Delta-confluent Drawings,Jeremy Yu Meng,cs.CG,http://arxiv.org/pdf/cs/0510024v1
+cs/0510053v2,2005-10-18T18:26:00Z,A pair of trees without a simultaneous geometric embedding in the plane,Martin Kutz,cs.CG,http://arxiv.org/pdf/cs/0510053v2
+cs/0510088v2,2005-10-29T15:05:52Z,Lower bounds on Locality Sensitive Hashing,Rina Panigrahy,cs.CG,http://arxiv.org/pdf/cs/0510088v2
+cs/0510090v1,2005-10-31T02:41:33Z,A simple effective method for curvatures estimation on triangular meshes,Mei-Hsiu Chi,cs.CG,http://arxiv.org/pdf/cs/0510090v1
+cs/0512001v1,2005-11-30T23:30:19Z,Which n-Venn diagrams can be drawn with convex k-gons?,Mark Weston,cs.CG,http://arxiv.org/pdf/cs/0512001v1
+cs/0512064v1,2005-12-15T17:02:53Z,Computing shortest non-trivial cycles on orientable surfaces of bounded   genus in almost linear time,Martin Kutz,cs.CG,http://arxiv.org/pdf/cs/0512064v1
+cs/0601033v1,2006-01-10T01:13:27Z,The density of iterated crossing points and a gap result for   triangulations of finite point sets,Martin Kutz,cs.CG,http://arxiv.org/pdf/cs/0601033v1
+cs/0601128v2,2006-01-30T20:58:48Z,On the 3-distortion of a path,Pierre Dehornoy,cs.CG,http://arxiv.org/pdf/cs/0601128v2
+cs/0602080v1,2006-02-22T19:08:48Z,Pants Decomposition of the Punctured Plane,Shripad Thite,cs.CG,http://arxiv.org/pdf/cs/0602080v1
+cs/0602095v2,2006-02-27T17:03:19Z,Epsilon-Unfolding Orthogonal Polyhedra,Joseph O'Rourke,cs.CG,http://arxiv.org/pdf/cs/0602095v2
+cs/0603002v1,2006-02-28T22:35:37Z,On comparing sums of square roots of small integers,Qi Cheng,cs.CG,http://arxiv.org/pdf/cs/0603002v1
+cs/0603057v1,2006-03-14T20:19:36Z,Guard Placement For Wireless Localization,Nodari Sitchinava,cs.CG,http://arxiv.org/pdf/cs/0603057v1
+cs/0604022v4,2006-04-06T14:46:27Z,Locked and Unlocked Chains of Planar Shapes,Guenter Rote,cs.CG,http://arxiv.org/pdf/cs/0604022v4
+cs/0604034v2,2006-04-09T01:18:29Z,Squarepants in a Tree: Sum of Subtree Clustering and Hyperbolic Pants   Decomposition,David Eppstein,cs.CG,http://arxiv.org/pdf/cs/0604034v2
+cs/0604059v1,2006-04-13T14:33:15Z,Inner and Outer Rounding of Boolean Operations on Lattice Polygonal   Regions,Philippe Guigue,cs.CG,http://arxiv.org/pdf/cs/0604059v1
+cs/0605029v1,2006-05-07T23:38:00Z,Spanners for Geometric Intersection Graphs,Shiva Prasad Kasiviswanathan,cs.CG,http://arxiv.org/pdf/cs/0605029v1
+cs/0606013v1,2006-06-02T11:24:27Z,Good Illumination of Minimum Range,B. Palop,cs.CG,http://arxiv.org/pdf/cs/0606013v1
+cs/0606036v1,2006-06-08T15:43:09Z,Computational Euclid,B. Moa,cs.CG,http://arxiv.org/pdf/cs/0606036v1
+cs/0606041v1,2006-06-09T14:13:15Z,Characterization of Pentagons Determined by Two X-rays,Ming-Zhe Chen,cs.CG,http://arxiv.org/pdf/cs/0606041v1
+cs/0607094v1,2006-07-20T04:52:14Z,Upright-Quad Drawing of st-Planar Learning Spaces,David Eppstein,cs.CG,http://arxiv.org/pdf/cs/0607094v1
+cs/0607113v1,2006-07-26T00:44:20Z,Trees with Convex Faces and Optimal Angles,David Eppstein,cs.CG,http://arxiv.org/pdf/cs/0607113v1
+cs/0607145v3,2006-07-31T18:17:30Z,Geometric definition of a new skeletonization concept,Doxaras Ioannis,cs.CG,http://arxiv.org/pdf/cs/0607145v3
+cs/0609033v1,2006-09-07T20:39:19Z,Choosing Colors for Geometric Graphs via Color Space Embeddings,Michael T. Goodrich,cs.CG,http://arxiv.org/pdf/cs/0609033v1
+cs/0609078v2,2006-09-14T00:07:39Z,A Continuum Theory for Unstructured Mesh Generation in Two Dimensions,Guy Bunin,cs.CG,http://arxiv.org/pdf/cs/0609078v2
+cs/0612026v1,2006-12-05T15:36:21Z,A disk-covering problem with application in optical interferometry,Christian Knauer,cs.CG,http://arxiv.org/pdf/cs/0612026v1
+cs/0701007v1,2006-12-31T04:48:59Z,On the Complexity of the Circular Chromatic Number,Ruzbeh Tusserkani,cs.CG,http://arxiv.org/pdf/cs/0701007v1
+cs/0701096v2,2007-01-16T18:19:22Z,"About the domino problem in the hyperbolic plane, a new solution",Margenstern Maurice,cs.CG,http://arxiv.org/pdf/cs/0701096v2
+cs/0702039v1,2007-02-07T08:29:03Z,Hadwiger and Helly-type theorems for disjoint unit spheres,Sylvain Petitjean,cs.CG,http://arxiv.org/pdf/cs/0702039v1
+cs/0702080v2,2007-02-14T03:46:54Z,Sparse geometric graphs with small dilation,Antoine Vigneron,cs.CG,http://arxiv.org/pdf/cs/0702080v2
+cs/0702087v1,2007-02-14T13:52:35Z,An Upper Bound on the Average Size of Silhouettes,Sylvain Lazard,cs.CG,http://arxiv.org/pdf/cs/0702087v1
+cs/0702117v3,2007-02-20T20:54:16Z,On a family of strong geometric spanners that admit local routing   strategies,Daming Xu,cs.CG,http://arxiv.org/pdf/cs/0702117v3
+cs/0703023v1,2007-03-06T01:53:36Z,Computing a Minimum-Dilation Spanning Tree is NP-hard,Mira Lee,cs.CG,http://arxiv.org/pdf/cs/0703023v1
+cs/0703030v1,2007-03-07T07:33:02Z,An Efficient Local Approach to Convexity Testing of Piecewise-Linear   Hypersurfaces,Konstantin Rybnikov,cs.CG,http://arxiv.org/pdf/cs/0703030v1
+cs/0703037v1,2007-03-08T17:22:21Z,Constructing Optimal Highways,Alexander Wolff,cs.CG,http://arxiv.org/pdf/cs/0703037v1
+0705.0635v2,2007-05-04T14:52:06Z,"Moving Walkways, Escalators, and Elevators",B. Palop,cs.CG,http://arxiv.org/pdf/0705.0635v2
+0705.1956v1,2007-05-14T15:31:22Z,A Branch and Cut Algorithm for the Halfspace Depth Problem,Dan Chen,cs.CG,http://arxiv.org/pdf/0705.1956v1
+0705.3343v1,2007-05-23T11:29:52Z,Optimal Separable Algorithms to Compute the Reverse Euclidean Distance   Transformation and Discrete Medial Axis in Arbitrary Dimension,Annick Montanvert,cs.CG,http://arxiv.org/pdf/0705.3343v1
+0705.4085v1,2007-05-28T18:36:19Z,The Distance Geometry of Music,David R. Wood,cs.CG,http://arxiv.org/pdf/0705.4085v1
+0707.0610v4,2007-07-04T15:04:33Z,Unfolding Orthogonal Terrains,Joseph O'Rourke,cs.CG,http://arxiv.org/pdf/0707.0610v4
+0708.0964v1,2007-08-07T14:32:38Z,Nodally 3-connected planar graphs and convex combination mappings,Colm O Dunlaing,cs.CG,http://arxiv.org/pdf/0708.0964v1
+0709.1647v1,2007-09-11T15:01:31Z,Unfolding Restricted Convex Caps,Joseph O'Rourke,cs.CG,http://arxiv.org/pdf/0709.1647v1
+0709.1941v3,2007-09-12T18:27:53Z,Speeding up Simplification of Polygonal Curves using Nested   Approximations,Gildas G. Ménier,cs.CG,http://arxiv.org/pdf/0709.1941v3
+0709.2196v1,2007-09-14T01:31:17Z,"Bregman Voronoi Diagrams: Properties, Algorithms and Applications",Richard Nock,cs.CG,http://arxiv.org/pdf/0709.2196v1
+0709.2831v2,2007-09-18T15:36:38Z,Triangulating the Real Projective Plane,Monique Teillaud,cs.CG,http://arxiv.org/pdf/0709.2831v2
+0710.0811v2,2007-10-03T15:18:35Z,Band Unfoldings and Prismatoids: A Counterexample,Joseph O'Rourke,cs.CG,http://arxiv.org/pdf/0710.0811v2
+0710.0925v1,2007-10-04T05:05:06Z,Degeneracy of Angular Voronoi Diagram,Kimikazu Kato,cs.CG,http://arxiv.org/pdf/0710.0925v1
+0711.0114v1,2007-11-01T13:46:14Z,Geometric Spanners With Small Chromatic Number,Norbert Zeh,cs.CG,http://arxiv.org/pdf/0711.0114v1
+0711.2605v2,2007-11-16T20:58:57Z,Generalized D-Forms Have No Spurious Creases,Erik D. Demaine,cs.CG,http://arxiv.org/pdf/0711.2605v2
+0711.2835v2,2007-11-19T18:54:32Z,Faster Algorithms for Rigidity in the Plane,Sergey Bereg,cs.CG,http://arxiv.org/pdf/0711.2835v2
+0711.3242v1,2007-11-21T01:15:19Z,On the Centroids of Symmetrized Bregman Divergences,Richard Nock,cs.CG,http://arxiv.org/pdf/0711.3242v1
+0712.0554v1,2007-12-04T16:14:07Z,Spanners of Complete $k$-Partite Geometric Graphs,Michiel Smid,cs.CG,http://arxiv.org/pdf/0712.0554v1
+0712.2094v1,2007-12-13T04:43:10Z,Hinged Dissections Exist,Scott D. Kominers,cs.CG,http://arxiv.org/pdf/0712.2094v1
+0801.0258v2,2008-01-01T04:17:20Z,On the Maximum Span of Fixed-Angle Chains,Joseph O'Rourke,cs.CG,http://arxiv.org/pdf/0801.0258v2
+0801.2793v2,2008-01-18T01:19:44Z,Algorithms for eps-approximations of Terrains,Jeff M. Phillips,cs.CG,http://arxiv.org/pdf/0801.2793v2
+0801.4013v1,2008-01-25T19:43:09Z,Spanners of Additively Weighted Point Sets,Mathieu Couture,cs.CG,http://arxiv.org/pdf/0801.4013v1
+0801.4019v1,2008-01-25T20:22:04Z,A Class of Convex Polyhedra with Few Edge Unfoldings,Joseph O'Rourke,cs.CG,http://arxiv.org/pdf/0801.4019v1
+0801.4405v1,2008-01-29T00:39:37Z,A Locked Orthogonal Tree,Yaa-Lirng Tu,cs.CG,http://arxiv.org/pdf/0801.4405v1
+0802.1361v2,2008-02-11T00:40:37Z,Guarding curvilinear art galleries with edge or mobile guards via   2-dominance of triangulation graphs,Menelaos I. Karavelas,cs.CG,http://arxiv.org/pdf/0802.1361v2
+0802.2594v1,2008-02-19T06:10:17Z,Guarding curvilinear art galleries with vertex or point guards,Elias P. Tsigaridas,cs.CG,http://arxiv.org/pdf/0802.2594v1
+0802.2861v1,2008-02-20T14:32:26Z,Geometric Set Cover and Hitting Sets for Polytopes in $R^3$,Sören Laue,cs.CG,http://arxiv.org/pdf/0802.2861v1
+0803.0316v1,2008-03-03T20:20:52Z,Staged Self-Assembly:Nanomanufacture of Arbitrary Shapes with O(1) Glues,Diane Souvaine,cs.CG,http://arxiv.org/pdf/0803.0316v1
+0803.1296v1,2008-03-09T13:47:43Z,On the Topology of the Restricted Delaunay Triangulation and Witness   Complex in Higher Dimensions,Steve Y. Oudot,cs.CG,http://arxiv.org/pdf/0803.1296v1
+0804.0942v1,2008-04-07T00:44:42Z,Spacetime Meshing for Discontinuous Galerkin Methods,Shripad Thite,cs.CG,http://arxiv.org/pdf/0804.0942v1
+0804.0946v1,2008-04-07T01:26:39Z,Efficient Spacetime Meshing with Nonlocal Cone Constraints,Shripad Thite,cs.CG,http://arxiv.org/pdf/0804.0946v1
+0804.0986v1,2008-04-07T08:49:47Z,Cauchy's Arm Lemma on a Growing Sphere,Godfried Toussaint,cs.CG,http://arxiv.org/pdf/0804.0986v1
+0804.1041v1,2008-04-07T14:33:04Z,On the Stretch Factor of Convex Delaunay Graphs,Michiel Smid,cs.CG,http://arxiv.org/pdf/0804.1041v1
+0804.4415v2,2008-04-28T14:09:41Z,Eppstein's bound on intersecting triangles revisited,Micha Sharir,cs.CG,http://arxiv.org/pdf/0804.4415v2
+0805.0022v1,2008-04-30T22:52:34Z,Straight Skeletons of Three-Dimensional Polyhedra,Amir Vaxman,cs.CG,http://arxiv.org/pdf/0805.0022v1
+0805.0648v1,2008-05-06T06:34:31Z,3D Building Model Fitting Using A New Kinetic Framework,Henri Maître,cs.CG,http://arxiv.org/pdf/0805.0648v1
+0806.0341v1,2008-06-02T17:35:58Z,Succinct Greedy Graph Drawing in the Hyperbolic Plane,Michael T. Goodrich,cs.CG,http://arxiv.org/pdf/0806.0341v1
+0806.1416v3,2008-06-09T10:22:38Z,Highway Hull Revisited,Belen Palop,cs.CG,http://arxiv.org/pdf/0806.1416v3
+0806.1724v1,2008-06-10T18:50:53Z,Self-overlapping Curves Revisited,Elena Mumford,cs.CG,http://arxiv.org/pdf/0806.1724v1
+0806.2090v2,2008-06-12T14:42:48Z,Finding the theta-Guarded Region,Ralf Osbild,cs.CG,http://arxiv.org/pdf/0806.2090v2
+0806.2360v3,2008-06-14T06:57:50Z,Existence of a polyhedron which does not have a non-overlapping   pseudo-edge unfolding,Alexey S Tarasov,cs.CG,http://arxiv.org/pdf/0806.2360v3
+0806.3456v1,2008-06-20T20:56:19Z,On Computing the Vertex Centroid of a Polyhedron,Hans Raj Tiwary,cs.CG,http://arxiv.org/pdf/0806.3456v1
+0806.4326v2,2008-06-26T15:10:28Z,An Efficient Algorithm for 2D Euclidean 2-Center with Outliers,Jeff M. Phillips,cs.CG,http://arxiv.org/pdf/0806.4326v2
+0806.4858v1,2008-06-30T19:46:43Z,On stars and Steiner stars. II,Guangwu Xu,cs.CG,http://arxiv.org/pdf/0806.4858v1
+0807.0552v1,2008-07-03T13:03:47Z,Decomposition of Multiple Coverings into More Parts,P. Ramos,cs.CG,http://arxiv.org/pdf/0807.0552v1
+0807.1221v1,2008-07-08T11:55:45Z,Line Transversals of Convex Polyhedra in $\reals^3$,Micha Sharir,cs.CG,http://arxiv.org/pdf/0807.1221v1
+0807.2218v1,2008-07-14T18:01:19Z,Isometric Diamond Subgraphs,David Eppstein,cs.CG,http://arxiv.org/pdf/0807.2218v1
+0808.3694v2,2008-08-27T19:00:29Z,Studying Geometric Graph Properties of Road Networks Through an   Algorithmic Lens,Michael T. Goodrich,cs.CG,http://arxiv.org/pdf/0808.3694v2
+0809.0159v1,2008-09-01T16:13:30Z,Improved Approximations for Guarding 1.5-Dimensional Terrains,D. Severdija,cs.CG,http://arxiv.org/pdf/0809.0159v1
+0809.2651v1,2008-09-16T15:00:50Z,Largest Empty Circle Centered on a Query Line,Sasanka Roy,cs.CG,http://arxiv.org/pdf/0809.2651v1
+0809.2956v1,2008-09-17T16:28:06Z,Communication-Efficient Construction of the Plane Localized Delaunay   Graph,Daming Xu,cs.CG,http://arxiv.org/pdf/0809.2956v1
+0809.3935v6,2008-09-23T15:44:54Z,Characterizing graphs with convex and connected configuration spaces,Heping Gao,cs.CG,http://arxiv.org/pdf/0809.3935v6
+0811.1365v1,2008-11-10T14:24:02Z,Configuration spaces of convex and embedded polygons in the plane,Mary Wootters,cs.CG,http://arxiv.org/pdf/0811.1365v1
+0812.0197v1,2008-12-01T02:08:08Z,Zigzag Persistence,Vin de Silva,cs.CG,http://arxiv.org/pdf/0812.0197v1
+0812.0607v2,2008-12-02T22:09:31Z,"Dilation, smoothed distance, and minimization diagrams of convex   functions",Kevin A. Wortman,cs.CG,http://arxiv.org/pdf/0812.0607v2
+0812.2257v1,2008-12-12T15:05:25Z,Unfolding Convex Polyhedra via Quasigeodesic Star Unfoldings,Costin Vîlcu,cs.CG,http://arxiv.org/pdf/0812.2257v1
+0812.2967v1,2008-12-16T04:09:38Z,Shape Fitting on Point Sets with Probability Distributions,Jeff M. Phillips,cs.CG,http://arxiv.org/pdf/0812.2967v1
+0812.3249v1,2008-12-17T11:03:31Z,Chain-Based Representations for Solid and Physical Modeling,Vadim Shapiro,cs.CG,http://arxiv.org/pdf/0812.3249v1
+0812.3893v3,2008-12-19T20:42:33Z,Succinct Greedy Geometric Routing in the Euclidean Plane,Darren Strash,cs.CG,http://arxiv.org/pdf/0812.3893v3
+0812.5030v3,2008-12-30T08:41:29Z,A Pseudopolynomial Algorithm for Alexandrov's Theorem,Erik D. Demaine,cs.CG,http://arxiv.org/pdf/0812.5030v3
+0901.3924v1,2009-01-25T22:07:47Z,Area-Universal Rectangular Layouts,Kevin Verbeek,cs.CG,http://arxiv.org/pdf/0901.3924v1
+0902.3282v1,2009-02-19T02:00:34Z,Computing k-Centers On a Line,Antoine Vigneron,cs.CG,http://arxiv.org/pdf/0902.3282v1
+0902.4337v1,2009-02-25T14:51:45Z,Probabilistic Matching of Planar Regions,Daria Schymura,cs.CG,http://arxiv.org/pdf/0902.4337v1
+0903.0308v1,2009-03-02T14:38:09Z,Algorithms for Marketing-Mix Optimization,Michiel Smid,cs.CG,http://arxiv.org/pdf/0903.0308v1
+0903.1817v1,2009-03-10T17:31:34Z,Reconstructing Curves from Points and Tangents,Chris Stucchio,cs.CG,http://arxiv.org/pdf/0903.1817v1
+0903.3287v1,2009-03-19T08:45:09Z,Hyperbolic Voronoi diagrams made easy,Richard Nock,cs.CG,http://arxiv.org/pdf/0903.3287v1
+0904.1783v3,2009-04-11T07:48:47Z,Exact Join Detection for Convex Polyhedra and Other Numerical   Abstractions,Enea Zaffanella,cs.CG,http://arxiv.org/pdf/0904.1783v3
+0904.2115v2,2009-04-14T13:00:41Z,Colorful Strips,P. Taslakian,cs.CG,http://arxiv.org/pdf/0904.2115v2
+0904.2550v1,2009-04-16T17:42:44Z,Geodesic Paths On 3D Surfaces: Survey and Open Problems,Stefanie Wuhrer,cs.CG,http://arxiv.org/pdf/0904.2550v1
+0904.4312v1,2009-04-28T06:01:53Z,Orientation-Constrained Rectangular Layouts,Elena Mumford,cs.CG,http://arxiv.org/pdf/0904.4312v1
+0905.1093v1,2009-05-07T19:03:57Z,Decomposing Coverings and the Planar Sensor Cover Problem,Kasturi Varadarajan,cs.CG,http://arxiv.org/pdf/0905.1093v1
+0905.1583v1,2009-05-11T16:39:03Z,"On Lines, Joints, and Incidences in Three Dimensions",Micha Sharir,cs.CG,http://arxiv.org/pdf/0905.1583v1
+0905.4241v1,2009-05-26T16:53:08Z,The Convergence of Bird Flocking,Bernard Chazelle,cs.CG,http://arxiv.org/pdf/0905.4241v1
+0905.4487v1,2009-05-27T18:23:11Z,Bounding the Sum of Square Roots via Lattice Reduction,Jiazhe Chen,cs.CG,http://arxiv.org/pdf/0905.4487v1
+0906.0558v1,2009-06-02T18:56:35Z,On lines and Joints,Eugenii Shustin,cs.CG,http://arxiv.org/pdf/0906.0558v1
+0906.1437v2,2009-06-08T08:39:14Z,Algebraic methods for counting Euclidean embeddings of rigid graphs,Antonios Varvitsiotis,cs.CG,http://arxiv.org/pdf/0906.1437v2
+0906.2760v1,2009-06-15T19:36:14Z,Constructing Two-Dimensional Voronoi Diagrams via Divide-and-Conquer of   Envelopes in Space,Ophir Setter,cs.CG,http://arxiv.org/pdf/0906.2760v1
+0906.2924v1,2009-06-16T13:09:14Z,Lower Bounds for Pinning Lines by Balls,Andreas Holmsen,cs.CG,http://arxiv.org/pdf/0906.2924v1
+0906.3896v1,2009-06-21T20:50:58Z,Fixed-parameter tractability and lower bounds for stabbing problems,Daniel Werner,cs.CG,http://arxiv.org/pdf/0906.3896v1
+0906.4706v2,2009-06-25T14:54:45Z,Clarksons Algorithm for Violator Spaces,Bernd Gärtner,cs.CG,http://arxiv.org/pdf/0906.4706v2
+0906.4747v1,2009-06-25T17:03:21Z,(Non)existence of Pleated Folds: How Paper Folds Between Creases,Tomohiro Tachi,cs.CG,http://arxiv.org/pdf/0906.4747v1
+0907.0907v2,2009-07-06T03:03:42Z,Randomized Incremental Construction of Compressed Quadtrees,Sariel Har-Peled,cs.CG,http://arxiv.org/pdf/0907.0907v2
+0907.1080v1,2009-07-06T19:55:38Z,Quasi-Polynomial Time Approximation Schemes for Target Tracking,Kasturi Varadarajan,cs.CG,http://arxiv.org/pdf/0907.1080v1
+0907.1131v1,2009-07-07T02:27:52Z,Approximating Spanning Trees with Low Crossing Number,Sariel Har-Peled,cs.CG,http://arxiv.org/pdf/0907.1131v1
+0907.1280v1,2009-07-07T19:07:51Z,The Complexity of Guarding Terrains,Erik Krohn,cs.CG,http://arxiv.org/pdf/0907.1280v1
+0907.1817v1,2009-07-10T13:28:13Z,A new intrinsic numerical method for PDE on surfaces,Jyh-Yang Wu,cs.CG,http://arxiv.org/pdf/0907.1817v1
+0907.2585v1,2009-07-15T13:41:32Z,GMap: Drawing Graphs as Maps,Stephen G. Kobourov,cs.CG,http://arxiv.org/pdf/0907.2585v1
+0908.0488v2,2009-08-04T16:35:20Z,Small grid embeddings of 3-polytopes,André Schulz,cs.CG,http://arxiv.org/pdf/0908.0488v2
+0908.2369v1,2009-08-17T15:29:21Z,Being Fat and Friendly is Not Enough,Sariel Har-Peled,cs.CG,http://arxiv.org/pdf/0908.2369v1
+0908.2442v1,2009-08-17T21:01:45Z,Detecting all regular polygons in a point set,Stefan Langerman,cs.CG,http://arxiv.org/pdf/0908.2442v1
+0908.2493v1,2009-08-18T06:10:19Z,Minimum feature size preserving decompositions,John Iacono,cs.CG,http://arxiv.org/pdf/0908.2493v1
+0908.3716v1,2009-08-26T01:44:49Z,"Carnival of Samplings: Nets, Approximations, Relative and Sensitive",Sariel Har-Peled,cs.CG,http://arxiv.org/pdf/0908.3716v1
+0908.3916v1,2009-08-26T23:28:23Z,Graph-Theoretic Solutions to Computational Geometry Problems,David Eppstein,cs.CG,http://arxiv.org/pdf/0908.3916v1
+0908.4061v2,2009-08-27T18:44:56Z,Semi-algebraic Range Reporting and Emptiness Searching with Applications,Hayim Shaul,cs.CG,http://arxiv.org/pdf/0908.4061v2
+0909.0537v1,2009-09-02T22:03:11Z,On the Set Multi-Cover Problem in Geometric Settings,Sariel Har-Peled,cs.CG,http://arxiv.org/pdf/0909.0537v1
+0909.0717v2,2009-09-03T17:16:30Z,"Relative $(p,ε)$-Approximations in Geometry",Micha Sharir,cs.CG,http://arxiv.org/pdf/0909.0717v2
+0909.2157v1,2009-09-11T12:39:22Z,Navigation in tilings of the hyperbolic plane and possible applications,Maurice Margenstern,cs.CG,http://arxiv.org/pdf/0909.2157v1
+0909.2891v1,2009-09-15T22:09:19Z,Going Off-road: Transversal Complexity in Road Networks,Lowell Trott,cs.CG,http://arxiv.org/pdf/0909.2891v1
+0909.3127v2,2009-09-16T23:37:56Z,On the largest empty axis-parallel box amidst $n$ points,Minghui Jiang,cs.CG,http://arxiv.org/pdf/0909.3127v2
+0909.4094v3,2009-09-22T21:07:10Z,Long non-crossing configurations in the plane,Csaba D. Tóth,cs.CG,http://arxiv.org/pdf/0909.4094v3
+0909.4642v1,2009-09-25T15:25:25Z,The directed Hausdorff distance between imprecise point sets,Thomas Wolle,cs.CG,http://arxiv.org/pdf/0909.4642v1
+0909.5388v1,2009-09-29T19:32:57Z,A Universal Crease Pattern for Folding Orthogonal Shapes,Aviv Ovadya,cs.CG,http://arxiv.org/pdf/0909.5388v1
+0911.2484v1,2009-11-12T21:53:08Z,Memoryless Routing in Convex Subdivisions: Random Walks are Optimal,Pat Morin,cs.CG,http://arxiv.org/pdf/0911.2484v1
+0911.4040v2,2009-11-20T14:58:51Z,"About a new splitting for the algorithmic study of the tilings $\{p,q\}$   of the hyperbolic plane when $q$ is odd",Margenstern Maurice,cs.CG,http://arxiv.org/pdf/0911.4040v2
+0911.4146v1,2009-11-21T00:08:31Z,On convexification of polygons by pops,Evan Hilscher,cs.CG,http://arxiv.org/pdf/0911.4146v1
+0911.5017v1,2009-11-26T07:11:59Z,Querying Two Boundary Points for Shortest Paths in a Polygonal Domain,Yoshio Okamoto,cs.CG,http://arxiv.org/pdf/0911.5017v1
+0912.3974v1,2009-12-20T03:53:20Z,Spherical Layout Implementation using Centroidal Voronoi Tessellations,Silvia Castro,cs.CG,http://arxiv.org/pdf/0912.3974v1
+1001.0555v1,2010-01-04T18:35:32Z,On a Tree and a Path with no Geometric Simultaneous Embedding,Daniel Neuwirth,cs.CG,http://arxiv.org/pdf/1001.0555v1
+1001.0695v2,2010-01-05T13:00:56Z,The Geodesic Diameter of Polygonal Domains,Yoshio Okamoto,cs.CG,http://arxiv.org/pdf/1001.0695v2
+1001.1624v2,2010-01-11T11:19:52Z,On the boundedness of an iteration involving points on the hypersphere,Thomas Martinetz,cs.CG,http://arxiv.org/pdf/1001.1624v2
+1001.2763v1,2010-01-15T20:41:20Z,Point Location in Disconnected Planar Subdivisions,Pat Morin,cs.CG,http://arxiv.org/pdf/1001.2763v1
+1001.3593v2,2010-01-20T14:09:41Z,Farthest-Polygon Voronoi Diagrams,Hyeon-Suk Na,cs.CG,http://arxiv.org/pdf/1001.3593v2
+1001.4231v1,2010-01-24T08:56:01Z,Improved Approximation for Guarding Simple Galleries from the Perimeter,David Kirkpatrick,cs.CG,http://arxiv.org/pdf/1001.4231v1
+1001.4764v1,2010-01-26T18:27:36Z,An Improved Bound on the Number of Unit Area Triangles,Micha Sharir,cs.CG,http://arxiv.org/pdf/1001.4764v1
+1002.0155v1,2010-01-31T20:23:16Z,Maximal f-vectors of Minkowski sums of large numbers of polytopes,Christophe Weibel,cs.CG,http://arxiv.org/pdf/1002.0155v1
+1002.1843v1,2010-02-09T13:16:23Z,Recursive tilings and space-filling curves with little fragmentation,Herman Haverkort,cs.CG,http://arxiv.org/pdf/1002.1843v1
+1002.1937v1,2010-02-09T18:37:22Z,Persistence Diagrams and the Heat Equation Homotopy,Brittany Terese Fasy,cs.CG,http://arxiv.org/pdf/1002.1937v1
+1002.4364v1,2010-02-23T16:55:32Z,On the Number of Higher Order Delaunay Triangulations,Rodrigo I. Silveira,cs.CG,http://arxiv.org/pdf/1002.4364v1
+1004.1588v1,2010-04-09T16:19:45Z,Approximate Point-to-Face Shortest Paths in R^3,Ovidiu Daescu,cs.CG,http://arxiv.org/pdf/1004.1588v1
+1004.4901v1,2010-04-27T20:09:33Z,Fréchet Distance Problems in Weighted Regions,Ovidiu Daescu,cs.CG,http://arxiv.org/pdf/1004.4901v1
+1004.5517v2,2010-04-30T12:59:12Z,Minimum Manhattan network problem in normed planes with polygonal balls:   a factor 2.5 approximation algorithm,Yann Vaxès,cs.CG,http://arxiv.org/pdf/1004.5517v2
+1007.1222v1,2010-07-07T18:57:34Z,Minimum Sum Dipolar Spanning Tree in R^3,Ovidiu Daescu,cs.CG,http://arxiv.org/pdf/1007.1222v1
+1007.3244v1,2010-07-19T19:06:22Z,Improved Bounds for Geometric Permutations,Micha Sharir,cs.CG,http://arxiv.org/pdf/1007.3244v1
+1008.1051v1,2010-08-05T19:42:48Z,Witness Gabriel Graphs,Ferran Hurtado,cs.CG,http://arxiv.org/pdf/1008.1051v1
+1008.1053v1,2010-08-05T19:55:58Z,Witness (Delaunay) Graphs,Ferran Hurtado,cs.CG,http://arxiv.org/pdf/1008.1053v1
+1008.1902v4,2010-08-11T12:59:30Z,Optimization over Geodesics for Exact Principal Geodesic Analysis,Mads Nielsen,cs.CG,http://arxiv.org/pdf/1008.1902v4
+1008.3889v1,2010-08-23T19:11:08Z,Connectivity of Graphs Induced by Directional Antennas,Robin Flatland,cs.CG,http://arxiv.org/pdf/1008.3889v1
+1008.4244v1,2010-08-25T10:11:04Z,Reachability by Paths of Bounded Curvature in a Convex Polygon,Antoine Vigneron,cs.CG,http://arxiv.org/pdf/1008.4244v1
+1009.0045v1,2010-08-31T22:50:32Z,Optimal 3D Angular Resolution for Low-Degree Graphs,Martin Nöllenburg,cs.CG,http://arxiv.org/pdf/1009.0045v1
+1009.0088v1,2010-09-01T04:43:43Z,Drawing Graphs in the Plane with a Prescribed Outer Face and Polynomial   Area,Maarten Löffler,cs.CG,http://arxiv.org/pdf/1009.0088v1
+1009.0579v1,2010-09-03T03:36:03Z,Lombardi Drawings of Graphs,Martin Nöllenburg,cs.CG,http://arxiv.org/pdf/1009.0579v1
+1009.0581v2,2010-09-03T04:17:19Z,Drawing Trees with Perfect Angular Resolution and Polynomial Area,Martin Nöllenburg,cs.CG,http://arxiv.org/pdf/1009.0581v2
+1009.0794v1,2010-09-04T01:17:54Z,Layered Depth-Normal Images: a Sparse Implicit Representation of Solid   Models,Yong Chen,cs.CG,http://arxiv.org/pdf/1009.0794v1
+1009.1866v2,2010-09-09T19:31:27Z,Fat Polygonal Partitions with Applications to Visualization and   Embeddings,Anastasios Sidiropoulos,cs.CG,http://arxiv.org/pdf/1009.1866v2
+1009.2216v3,2010-09-12T05:43:33Z,On Unit Distances in a Convex Polygon,Amol Aggarwal,cs.CG,http://arxiv.org/pdf/1009.2216v3
+1009.3006v2,2010-09-15T19:45:35Z,Minimum-Area Enclosing Triangle with a Fixed Angle,Jean-Lou De Carufel,cs.CG,http://arxiv.org/pdf/1009.3006v2
+1009.3469v4,2010-09-17T17:11:06Z,Connectivity graphs of uncertainty regions,Sue Whitesides,cs.CG,http://arxiv.org/pdf/1009.3469v4
+1009.3527v1,2010-09-18T01:00:33Z,Priority Range Trees,Darren Strash,cs.CG,http://arxiv.org/pdf/1009.3527v1
+1010.0852v2,2010-10-05T12:05:21Z,Shortest path problem in rectangular complexes of global nonpositive   curvature,Daniela Maftuleac,cs.CG,http://arxiv.org/pdf/1010.0852v2
+1010.2958v1,2010-10-14T15:53:41Z,Simplification of cross-field topology,Enrico Puppo,cs.CG,http://arxiv.org/pdf/1010.2958v1
+1010.4052v8,2010-10-19T21:10:13Z,Maxwell-independence: a new rank estimate for 3D rigidity matroids,Meera Sitharam,cs.CG,http://arxiv.org/pdf/1010.4052v8
+1010.4229v2,2010-10-20T15:24:42Z,No dimension independent Core-Sets for Containment under Homothetics,Stefan Koenig,cs.CG,http://arxiv.org/pdf/1010.4229v2
+1010.5908v3,2010-10-28T09:52:34Z,An Optimized Divide-and-Conquer Algorithm for the Closest-Pair Problem   in the Planar Case,Fernando G. Lobo,cs.CG,http://arxiv.org/pdf/1010.5908v3
+1011.1917v2,2010-11-08T21:11:38Z,Normal art galleries: wall in - all in,Zoran Sunic,cs.CG,http://arxiv.org/pdf/1011.1917v2
+1011.2269v1,2010-11-10T03:35:00Z,Forward Kinematics Analysis and Tension Distribution of a Cable-Driven   Sinking Winches Mechanism,Bin Zi,cs.CG,http://arxiv.org/pdf/1011.2269v1
+1011.5553v3,2010-11-25T05:11:34Z,On affine rigidity,Dylan P. Thurston,cs.CG,http://arxiv.org/pdf/1011.5553v3
+1011.5920v1,2010-11-26T21:41:48Z,On Short Cuts - or - Fencing in Rectangular Strips,Alfred Bruckstein,cs.CG,http://arxiv.org/pdf/1011.5920v1
+1011.6481v1,2010-11-30T08:42:45Z,A near optimal algorithm for finding Euclidean shortest path in   polygonal domain,S. N. Maheshwari,cs.CG,http://arxiv.org/pdf/1011.6481v1
+1011.6498v1,2010-11-30T09:38:47Z,Approximate Shortest Path through a Weighted Planar Subdivision,Sanjiv Kapoor,cs.CG,http://arxiv.org/pdf/1011.6498v1
+1012.0230v1,2010-12-01T15:50:02Z,Improved Algorithms for the Point-Set Embeddability problem for Plane   3-Trees,M. Sohel Rahman,cs.CG,http://arxiv.org/pdf/1012.0230v1
+1012.0548v2,2010-12-02T19:36:51Z,A Center Transversal Theorem for Hyperplanes and Applications to Graph   Drawing,Stefan Langerman,cs.CG,http://arxiv.org/pdf/1012.0548v2
+1012.0634v3,2010-12-03T04:03:46Z,Quickest Path Queries on Transportation Network,Christos Levcopoulos,cs.CG,http://arxiv.org/pdf/1012.0634v3
+1012.1502v1,2010-12-07T13:37:15Z,An Approximation Algorithm for the Euclidean Bottleneck Steiner Tree   Problem,A. Karim Abu-Affash,cs.CG,http://arxiv.org/pdf/1012.1502v1
+1012.1749v2,2010-12-08T12:34:48Z,Treemaps with Bounded Aspect Ratio,Vincent van der Weele,cs.CG,http://arxiv.org/pdf/1012.1749v2
+1012.2694v1,2010-12-13T11:17:35Z,The 2-Center Problem in Three Dimensions,Micha Sharir,cs.CG,http://arxiv.org/pdf/1012.2694v1
+1012.5259v1,2010-12-23T17:37:27Z,Optimal competitive online ray search with an error-prone robot,Elmar Langetepe,cs.CG,http://arxiv.org/pdf/1012.5259v1
+1101.0565v8,2011-01-03T17:06:52Z,Coloring Planar Homothets and Three-Dimensional Hypergraphs,Matias Korman,cs.CG,http://arxiv.org/pdf/1101.0565v8
+1101.1071v1,2011-01-05T20:33:24Z,On the Non-Termination of Ruppert's Algorithm,Alexander Rand,cs.CG,http://arxiv.org/pdf/1101.1071v1
+1101.1346v1,2011-01-07T03:23:58Z,Fast Approximation Algorithms for Art Gallery Problems in Simple   Polygons,Sun-Il Kwon,cs.CG,http://arxiv.org/pdf/1101.1346v1
+1101.3297v2,2011-01-17T19:56:58Z,Fast Vertex Guarding for Polygons,James King,cs.CG,http://arxiv.org/pdf/1101.3297v2
+1101.4667v1,2011-01-24T21:33:39Z,Sweeping an oval to a vanishing point,Minghui Jiang,cs.CG,http://arxiv.org/pdf/1101.4667v1
+1101.4718v3,2011-01-25T04:35:23Z,On Approximating the Riemannian 1-Center,Frank Nielsen,cs.CG,http://arxiv.org/pdf/1101.4718v3
+1102.2008v3,2011-02-09T23:38:26Z,Convex Hull of Points Lying on Lines in o(n log n) Time after   Preprocessing,Wolfgang Mulzer,cs.CG,http://arxiv.org/pdf/1102.2008v3
+1102.3670v1,2011-02-17T19:44:23Z,Orphan-Free Anisotropic Voronoi Diagrams,Steven J. Gortler,cs.CG,http://arxiv.org/pdf/1102.3670v1
+1102.3673v2,2011-02-17T19:53:40Z,Duals of Orphan-Free Anisotropic Voronoi Diagrams are Triangulations,Steven J. Gortler,cs.CG,http://arxiv.org/pdf/1102.3673v2
+1102.4972v1,2011-02-24T12:29:50Z,Witnessed k-Distance,Dmitriy Morozov,cs.CG,http://arxiv.org/pdf/1102.4972v1
+1105.0103v6,2011-04-30T17:47:56Z,A Simple Proof of the Existence of a Planar Separator,Sariel Har-Peled,cs.CG,http://arxiv.org/pdf/1105.0103v6
+1105.0392v1,2011-05-02T18:14:27Z,Tracking Moving Objects with Few Handovers,Maarten Löffler,cs.CG,http://arxiv.org/pdf/1105.0392v1
+1105.0398v1,2011-05-02T18:18:22Z,Adjacency-Preserving Spatial Treemaps,Rodrigo I. Silveira,cs.CG,http://arxiv.org/pdf/1105.0398v1
+1105.4130v1,2011-05-20T16:53:41Z,On 2-Site Voronoi Diagrams under Geometric Distance Functions,Kira Vyatkina,cs.CG,http://arxiv.org/pdf/1105.4130v1
+1105.4246v1,2011-05-21T10:18:50Z,Voronoi Diagram: The Generator Recognition Problem,M. Montserrat Alonso Ferrero,cs.CG,http://arxiv.org/pdf/1105.4246v1
+1106.0216v2,2011-06-01T16:03:04Z,Algorithms for Low-Dimensional Topology,Alexander Gamkrelidze,cs.CG,http://arxiv.org/pdf/1106.0216v2
+1106.0855v2,2011-06-04T20:24:50Z,Ice-Creams and Wedge Graphs,Rom Pinchasi,cs.CG,http://arxiv.org/pdf/1106.0855v2
+1106.3739v8,2011-06-19T13:00:56Z,Reducing Interpolation on Multi-Dimensional Grid to Quantizing Grid's   Data-Base as a Recursion,Roman Gitlin,cs.CG,http://arxiv.org/pdf/1106.3739v8
+1106.6214v3,2011-06-30T12:58:49Z,The Cost of Bounded Curvature,Otfried Cheong,cs.CG,http://arxiv.org/pdf/1106.6214v3
+1107.0511v2,2011-07-04T01:36:49Z,Homological Coordinatization,Gunnar Carlsson,cs.CG,http://arxiv.org/pdf/1107.0511v2
+1107.1359v1,2011-07-07T12:00:51Z,Bidirected minimum Manhattan network problem,Yann Vaxes,cs.CG,http://arxiv.org/pdf/1107.1359v1
+1107.1720v4,2011-07-08T20:02:04Z,Jaywalking your Dog - Computing the Fréchet Distance with Shortcuts,Sariel Har-Peled,cs.CG,http://arxiv.org/pdf/1107.1720v4
+1107.2949v2,2011-07-14T20:59:28Z,Geometric Packing under Non-uniform Constraints,Benjamin Raichel,cs.CG,http://arxiv.org/pdf/1107.2949v2
+1107.5204v1,2011-07-26T13:04:40Z,Analysis of the Incircle predicate for the Euclidean Voronoi diagram of   axes-aligned line segments,Menelaos I. Karavelas,cs.CG,http://arxiv.org/pdf/1107.5204v1
+1108.0492v1,2011-08-02T06:47:55Z,Symmetric Connectivity with Directional Antennas,Gila Morgenstern,cs.CG,http://arxiv.org/pdf/1108.0492v1
+1108.0835v7,2011-08-03T12:50:09Z,Approximate Bregman near neighbors in sublinear time: Beyond the   triangle inequality,Suresh Venkatasubramanian,cs.CG,http://arxiv.org/pdf/1108.0835v7
+1108.2058v1,2011-08-09T22:04:20Z,Witness Rectangle Graphs,Ferran Hurtado,cs.CG,http://arxiv.org/pdf/1108.2058v1
+1108.3545v1,2011-08-17T18:44:38Z,Applications of Zigzag Persistence to Topological Data Analysis,Gunnar Carlsson,cs.CG,http://arxiv.org/pdf/1108.3545v1
+1108.4572v1,2011-08-23T12:52:55Z,Automatically Creating Design Models from 3D Anthropometry Data,Prosenjit Bose,cs.CG,http://arxiv.org/pdf/1108.4572v1
+1108.4705v3,2011-08-23T21:37:28Z,Inapproximability of Orthogonal Compaction,Joseph A. Simons,cs.CG,http://arxiv.org/pdf/1108.4705v3
+1108.4972v1,2011-08-25T00:44:13Z,Algorithms for the Problems of Length-Constrained Heaviest Segments,Asish Mukhopadhyay,cs.CG,http://arxiv.org/pdf/1108.4972v1
+1108.5499v1,2011-08-28T14:36:39Z,A Note on Separable Nonlinear Least Squares Problem,Omar Saeed Al-Mushayt,cs.CG,http://arxiv.org/pdf/1108.5499v1
+1109.0389v1,2011-09-02T09:16:09Z,A Space-Optimal Hidden Surface Removal Algorithm for Iso-Oriented   Rectangles,Kostas Tsichlas,cs.CG,http://arxiv.org/pdf/1109.0389v1
+1109.1705v1,2011-09-08T12:50:24Z,Pinning Balloons with Perfect Angles and Optimal Area,Andre Schulz,cs.CG,http://arxiv.org/pdf/1109.1705v1
+1109.2323v2,2011-09-11T15:56:33Z,An inventory of three-dimensional Hilbert space-filling curves,Herman Haverkort,cs.CG,http://arxiv.org/pdf/1109.2323v2
+1109.6535v1,2011-09-29T14:16:49Z,Failure Filtrations for Fenced Sensor Networks,John Harer,cs.CG,http://arxiv.org/pdf/1109.6535v1
+1110.6473v2,2011-10-28T21:48:49Z,Making triangulations 4-connected using flips,Sander Verdonschot,cs.CG,http://arxiv.org/pdf/1110.6473v2
+1111.1651v2,2011-11-07T17:23:14Z,Flow Computations on Imprecise Terrains,Rodrigo Silveira,cs.CG,http://arxiv.org/pdf/1111.1651v2
+1111.2422v1,2011-11-10T08:49:05Z,Optimum Partition Parameter of Divide-and-Conquer Algorithm for Solving   Closest-Pair Problem,Nargis Akter,cs.CG,http://arxiv.org/pdf/1111.2422v1
+1111.2918v2,2011-11-12T11:28:47Z,Localized Geometric Query Problems,Swami Sarvattomananda,cs.CG,http://arxiv.org/pdf/1111.2918v2
+1111.5340v1,2011-11-22T21:17:34Z,On the Expected Complexity of Random Convex Hulls,Sariel Har-Peled,cs.CG,http://arxiv.org/pdf/1111.5340v1
+1201.1198v1,2012-01-05T15:44:51Z,Covering and Piercing Disks with Two Centers,Antoine Vigneron,cs.CG,http://arxiv.org/pdf/1201.1198v1
+1201.2097v4,2012-01-10T16:12:35Z,Partial Searchlight Scheduling is Strongly PSPACE-Complete,Giovanni Viglietta,cs.CG,http://arxiv.org/pdf/1201.2097v4
+1201.3217v2,2012-01-16T11:26:55Z,Comparison of Persistent Homologies for Vector Functions: from   continuous to discrete and back,Claudia Landi,cs.CG,http://arxiv.org/pdf/1201.3217v2
+1202.0867v2,2012-02-04T04:28:02Z,Practical Conditions for Well-behaved-ness of Anisotropic Voronoi   Diagrams,Guillermo D. Canas,cs.CG,http://arxiv.org/pdf/1202.0867v2
+1202.4146v1,2012-02-19T11:30:53Z,Bottleneck Non-Crossing Matching in the Plane,Yohai Trabelsi,cs.CG,http://arxiv.org/pdf/1202.4146v1
+1202.4821v3,2012-02-22T05:26:51Z,A Note on Minimum-Sum Coverage by Aligned Disks,Chan-Su Shin,cs.CG,http://arxiv.org/pdf/1202.4821v3
+1202.5127v2,2012-02-23T09:19:35Z,The Stretch Factor of $L_1$- and $L_\infty$-Delaunay Triangulations,Ljubomir Perkovic,cs.CG,http://arxiv.org/pdf/1202.5127v2
+1202.5610v1,2012-02-25T05:24:47Z,Fréchet Distance Revisited and Extended,Benjamin Raichel,cs.CG,http://arxiv.org/pdf/1202.5610v1
+1203.0912v1,2012-03-05T13:38:07Z,Modeling the geographical studies with GeoGebra-software,Carmen Antohe,cs.CG,http://arxiv.org/pdf/1203.0912v1
+1203.3256v2,2012-03-15T02:47:12Z,Conflict-free graph orientations with parity constraints,Csaba Tóth,cs.CG,http://arxiv.org/pdf/1203.3256v2
+1203.3601v1,2012-03-16T01:54:15Z,Distributed Position Localization and Tracking (DPLT) of Malicious Nodes   in Cluster Based Mobile Ad hoc Networks (MANET),Dhadesugoor R. Vaman,cs.CG,http://arxiv.org/pdf/1203.3601v1
+1203.3811v1,2012-03-16T20:27:51Z,"EASAL: Efficient Atlasing, Analysis and Search of Molecular Assembly   Landscapes",Jorg Peters,cs.CG,http://arxiv.org/pdf/1203.3811v1
+1203.6266v1,2012-03-28T13:37:56Z,Circle separability queries in logarithmic time,Stefan Langerman,cs.CG,http://arxiv.org/pdf/1203.6266v1
+1203.6464v1,2012-03-29T08:19:30Z,General Analysis Tool Box for Controlled Perturbation,Ralf Osbild,cs.CG,http://arxiv.org/pdf/1203.6464v1
+1204.0905v1,2012-04-04T09:54:59Z,Certified Rational Parametric Approximation of Real Algebraic Space   Curves with Local Generic Position Method,Daniel Lazard,cs.CG,http://arxiv.org/pdf/1204.0905v1
+1204.1873v4,2012-04-09T13:44:44Z,A Characterization Theorem and An Algorithm for A Convex Hull Problem,Bahman Kalantari,cs.CG,http://arxiv.org/pdf/1204.1873v4
+1204.2634v1,2012-04-12T07:07:33Z,Space-efficient Algorithms for Visibility Problems in Simple Polygon,Subhas C. Nandy,cs.CG,http://arxiv.org/pdf/1204.2634v1
+1204.3850v1,2012-02-16T11:17:25Z,Simple Agents Learn to Find Their Way: An Introduction on Mapping   Polygons,Peter Widmayer,cs.CG,http://arxiv.org/pdf/1204.3850v1
+1204.4374v1,2012-04-19T15:20:38Z,Higher Order City Voronoi Diagrams,Dorothea Wagner,cs.CG,http://arxiv.org/pdf/1204.4374v1
+1204.5333v1,2012-04-24T11:05:07Z,Computing the Discrete Fréchet Distance in Subquadratic Time,Micha Sharir,cs.CG,http://arxiv.org/pdf/1204.5333v1
+1204.6527v2,2012-04-29T23:04:49Z,An upper bound on Euclidean embeddings of rigid graphs with 8 vertices,Ioannis Z. Emiris,cs.CG,http://arxiv.org/pdf/1204.6527v2
+1204.6699v2,2012-04-30T16:45:20Z,Chromatic Clustering in High Dimensional Space,Jinhui Xu,cs.CG,http://arxiv.org/pdf/1204.6699v2
+1204.6717v2,2012-04-30T18:06:53Z,Linear Time Algorithm for Projective Clustering,Jinhui Xu,cs.CG,http://arxiv.org/pdf/1204.6717v2
+1205.0273v1,2012-05-01T22:32:59Z,Geometric Computations on Indecisive and Uncertain Points,Jeff M. Phillips,cs.CG,http://arxiv.org/pdf/1205.0273v1
+1205.0963v1,2012-05-04T14:25:20Z,Source Unfoldings of Convex Polyhedra via Certain Closed Curves,Costin Vilcu,cs.CG,http://arxiv.org/pdf/1205.0963v1
+1205.1524v3,2012-05-07T20:05:01Z,Approximating Majority Depth,Pat Morin,cs.CG,http://arxiv.org/pdf/1205.1524v3
+1205.1556v1,2012-05-07T22:38:16Z,Locating a single facility and a high-speed line,Inmaculada Ventura,cs.CG,http://arxiv.org/pdf/1205.1556v1
+1205.1882v1,2012-05-09T06:53:08Z,The 1-Center and 1-Highway problem,Inmaculada Ventura,cs.CG,http://arxiv.org/pdf/1205.1882v1
+1205.2048v1,2012-05-09T17:52:51Z,Unfolding Prismatoids as Convex Patches: Counterexamples and Positive   Results,Joseph O'Rourke,cs.CG,http://arxiv.org/pdf/1205.2048v1
+1205.2425v1,2012-05-11T03:50:31Z,Flip Distance Between Two Triangulations of a Point-Set is NP-complete,Vinayak Pathak,cs.CG,http://arxiv.org/pdf/1205.2425v1
+1205.4738v1,2012-05-21T20:22:52Z,Triangulating the Square and Squaring the Triangle: Quadtrees and   Delaunay Triangulations are Equivalent,Wolfgang Mulzer,cs.CG,http://arxiv.org/pdf/1205.4738v1
+1205.5162v2,2012-05-23T12:04:01Z,Coloring and Guarding Arrangements,Perouz Taslakian,cs.CG,http://arxiv.org/pdf/1205.5162v2
+1205.6717v1,2012-05-30T15:10:58Z,Robust Non-Parametric Data Approximation of Pointsets via Data Reduction,Matthew Skala,cs.CG,http://arxiv.org/pdf/1205.6717v1
+1206.0303v2,2012-06-01T20:27:36Z,A History of Flips in Combinatorial Triangulations,Sander Verdonschot,cs.CG,http://arxiv.org/pdf/1206.0303v2
+1206.1312v1,2012-06-06T19:38:53Z,From Pop-Up Cards to Coffee-Cup Caustics: The Knight's Visor,Joseph O'Rourke,cs.CG,http://arxiv.org/pdf/1206.1312v1
+1206.1803v1,2012-06-08T16:21:52Z,Hidden Mobile Guards in Simple Polygons,Andrew Winslow,cs.CG,http://arxiv.org/pdf/1206.1803v1
+1206.1982v1,2012-06-09T23:43:04Z,Visibility-Monotonic Polygon Deflation,Pat Morin,cs.CG,http://arxiv.org/pdf/1206.1982v1
+1206.2254v2,2012-06-11T15:26:16Z,Near-Linear-Time Deterministic Plane Steiner Spanners and TSP   Approximation for Well-Spaced Point Sets,David Eppstein,cs.CG,http://arxiv.org/pdf/1206.2254v2
+1206.3179v3,2012-06-14T17:01:42Z,Flip Distance Between Triangulations of a Planar Point Set is APX-Hard,Alexander Pilz,cs.CG,http://arxiv.org/pdf/1206.3179v3
+1206.4581v2,2012-06-20T19:09:17Z,"Robust statistics, hypothesis testing, and confidence intervals for   persistent homology on metric measure spaces",Matthew Pancia,cs.CG,http://arxiv.org/pdf/1206.4581v2
+1206.5689v1,2012-06-25T14:12:52Z,A New Upper Bound for the VC-Dimension of Visibility Regions,Rolf Klein,cs.CG,http://arxiv.org/pdf/1206.5689v1
+1206.6142v1,2012-06-26T23:48:00Z,Planar Lombardi Drawings for Subcubic Graphs,David Eppstein,cs.CG,http://arxiv.org/pdf/1206.6142v1
+1206.6257v1,2012-06-27T13:16:11Z,Locally Correct Frechet Matchings,Bettina Speckmann,cs.CG,http://arxiv.org/pdf/1206.6257v1
+1206.6943v1,2012-06-29T05:31:22Z,Single-Source Dilation-Bounded Minimum Spanning Trees,Changryeol Lee,cs.CG,http://arxiv.org/pdf/1206.6943v1
+1206.7067v3,2012-06-29T16:24:28Z,Faster Geometric Algorithms via Dynamic Determinant Computation,Luis Peñaranda,cs.CG,http://arxiv.org/pdf/1206.7067v3
+1207.2375v3,2012-07-10T14:39:41Z,Bichromatic compatible matchings,Diane L. Souvaine,cs.CG,http://arxiv.org/pdf/1207.2375v3
+1207.2511v1,2012-07-10T23:30:56Z,An XML-Format for Conjectures in Geometry (Work-in-Progress),Pedro Quaresma,cs.CG,http://arxiv.org/pdf/1207.2511v1
+1207.3202v2,2012-07-13T11:19:35Z,Embedding the dual complex of hyper-rectangular partitions,Michael Kerber,cs.CG,http://arxiv.org/pdf/1207.3202v2
+1207.3502v1,2012-07-15T13:06:26Z,A correct even-odd algorithm for the point-in-polygon (PIP) problem for   complex polygons,Patrick O. Glauner,cs.CG,http://arxiv.org/pdf/1207.3502v1
+1207.5082v2,2012-07-21T00:40:21Z,Diamond-Kite Adaptive Quadrilateral Meshing,David Eppstein,cs.CG,http://arxiv.org/pdf/1207.5082v2
+1208.0395v2,2012-08-02T04:15:47Z,Linear Time Algorithm for Optimal Feed-link Placement,Miloš Stojaković,cs.CG,http://arxiv.org/pdf/1208.0395v2
+1208.2245v2,2012-08-08T21:34:33Z,Point-Separable Classes of Simple Computable Planar Curves,Robert Rettinger,cs.CG,http://arxiv.org/pdf/1208.2245v2
+1208.3324v1,2012-08-16T09:37:39Z,Analytical Solution for the Generalized Fermat-Torricelli Problem,Alexei Yu. Uteshev,cs.CG,http://arxiv.org/pdf/1208.3324v1
+1208.6188v1,2012-08-14T21:00:07Z,G2 Matrix Manifold: A Software Construct,Dara O. Shayda,cs.CG,http://arxiv.org/pdf/1208.6188v1
+1209.0579v4,2012-09-04T09:48:48Z,Flip Distance Between Triangulations of a Simple Polygon is NP-Complete,Alexander Pilz,cs.CG,http://arxiv.org/pdf/1209.0579v4
+1209.0679v1,2012-09-04T15:54:01Z,Minimum Weight Euclidean t-spanner is NP-Hard,Lilach Chaitman-Yerushalmi,cs.CG,http://arxiv.org/pdf/1209.0679v1
+1209.0830v1,2012-09-04T23:21:52Z,Progress on Partial Edge Drawings,Alexander Wolff,cs.CG,http://arxiv.org/pdf/1209.0830v1
+1209.2171v1,2012-09-10T22:39:05Z,A Generalization of the Convex Kakeya Problem,Antoine Vigneron,cs.CG,http://arxiv.org/pdf/1209.2171v1
+1209.2951v1,2012-09-13T16:28:15Z,Unit Disk Cover Problem,Gautam K. Das,cs.CG,http://arxiv.org/pdf/1209.2951v1
+1209.3594v5,2012-09-17T08:54:44Z,On Universal Point Sets for Planar Graphs,Vincent Kusters,cs.CG,http://arxiv.org/pdf/1209.3594v5
+1209.5199v1,2012-09-24T09:00:24Z,Approximation Schemes for Covering and Packing,Yelena Yuditsky,cs.CG,http://arxiv.org/pdf/1209.5199v1
+1209.5307v1,2012-09-24T15:43:11Z,Packing identical simple polygons is NP-hard,John Iacono,cs.CG,http://arxiv.org/pdf/1209.5307v1
+1209.5434v1,2012-09-24T21:36:00Z,The Medusa of Spatial Sorting: 3D Kinetic Alpha Complexes and   Implementation,Herbert Edelsbrunner,cs.CG,http://arxiv.org/pdf/1209.5434v1
+1210.0607v1,2012-10-02T00:19:41Z,Planar shape manipulation using approximate geometric primitives,Steven Trac,cs.CG,http://arxiv.org/pdf/1210.0607v1
+1210.3595v1,2012-10-12T18:28:14Z,Plane-Sweep Incremental Algorithm: Computing Delaunay Tessellations of   Large Datasets,István Csabai,cs.CG,http://arxiv.org/pdf/1210.3595v1
+1210.3877v1,2012-10-15T02:40:48Z,Inapproximability of the Smallest Superpolyomino Problem,Andrew Winslow,cs.CG,http://arxiv.org/pdf/1210.3877v1
+1210.5484v1,2012-10-19T17:44:12Z,Hamiltonian Tetrahedralizations with Steiner Points,Jorge Urrutia,cs.CG,http://arxiv.org/pdf/1210.5484v1
+1210.7123v1,2012-10-26T12:44:14Z,Index notation of grid graphs,Arie Bos,cs.CG,http://arxiv.org/pdf/1210.7123v1
+1210.7788v1,2012-10-29T19:27:59Z,An interactive programme for Steiner trees,Wendhel Raffa Coimbra,cs.CG,http://arxiv.org/pdf/1210.7788v1
+1210.8139v1,2012-10-30T19:52:37Z,Minimum Opaque Covers for Polygonal Regions,Jia F. Weng,cs.CG,http://arxiv.org/pdf/1210.8139v1
+1210.8234v2,2012-10-31T05:42:53Z,The hyperbolic Voronoi diagram in arbitrary dimension,Richard Nock,cs.CG,http://arxiv.org/pdf/1210.8234v2
+1212.0570v2,2012-12-03T21:48:35Z,The $θ_5$-graph is a spanner,Sander Verdonschot,cs.CG,http://arxiv.org/pdf/1212.0570v2
+1212.2303v1,2012-12-11T05:18:14Z,"Small-Size Relative (p,Epsilon)-Approximations for Well-Behaved Range   Spaces",Esther Ezra,cs.CG,http://arxiv.org/pdf/1212.2303v1
+1212.2346v1,2012-12-11T09:19:35Z,Making Triangles Colorful,Torsten Ueckerdt,cs.CG,http://arxiv.org/pdf/1212.2346v1
+1212.6036v1,2012-12-25T12:34:34Z,T-Base: A Triangle-Based Iterative Algorithm for Smoothing Quadrilateral   Meshes,Nengxiong Xu,cs.CG,http://arxiv.org/pdf/1212.6036v1
+1212.6038v1,2012-12-25T12:47:51Z,Ear-clipping Based Algorithms of Generating High-quality Polygon   Triangulation,Nengxiong Xu,cs.CG,http://arxiv.org/pdf/1212.6038v1
+1212.6043v1,2012-12-25T13:08:26Z,An Algorithm for Finding Convex Hulls of Planar Point Sets,Nengxiong Xu,cs.CG,http://arxiv.org/pdf/1212.6043v1
+1212.6045v1,2012-12-25T13:14:30Z,A Hybrid Approach for Optimizing Planar Triangular Meshes,Nengxiong Xu,cs.CG,http://arxiv.org/pdf/1212.6045v1
+1302.1089v1,2013-02-05T16:11:52Z,Local Redesigning of Airspace Sectors,Joseph Mitchell,cs.CG,http://arxiv.org/pdf/1302.1089v1
+1302.2271v2,2013-02-09T21:13:22Z,Diffuse Reflection Diameter in Simple Polygons,Andrew Winslow,cs.CG,http://arxiv.org/pdf/1302.2271v2
+1302.3091v1,2013-02-13T13:54:19Z,Minimum-Link Paths Revisited,Mikko Sysikaski,cs.CG,http://arxiv.org/pdf/1302.3091v1
+1302.3982v1,2013-02-16T17:56:15Z,Distributed boundary tracking using alpha and Delaunay-Cech shapes,Hamid Krim,cs.CG,http://arxiv.org/pdf/1302.3982v1
+1302.4400v1,2013-02-18T19:47:40Z,Quasi-Parallel Segments and Characterization of Unique Bichromatic   Matchings,Günter Rote,cs.CG,http://arxiv.org/pdf/1302.4400v1
+1302.5328v2,2013-02-21T16:30:15Z,Unions of Onions: Preprocessing Imprecise Points for Fast Onion   Decomposition,Wolfgang Mulzer,cs.CG,http://arxiv.org/pdf/1302.5328v2
+1302.5635v2,2013-02-22T16:32:55Z,Greedy is as Good as Delaunay (Almost),Paul Seiferth,cs.CG,http://arxiv.org/pdf/1302.5635v2
+1303.1585v1,2013-03-07T01:37:22Z,Computing Similarity between a Pair of Trajectories,Arnold P. Boedihardjo,cs.CG,http://arxiv.org/pdf/1303.1585v1
+1303.2162v1,2013-03-09T04:22:21Z,New Hardness Results for Guarding Orthogonal Polygons with Sliding   Cameras,Saeed Mehrabi,cs.CG,http://arxiv.org/pdf/1303.2162v1
+1303.2779v1,2013-03-12T04:45:37Z,Point Set Isolation Using Unit Disks is NP-complete,Ivo Vigan,cs.CG,http://arxiv.org/pdf/1303.2779v1
+1303.3578v1,2013-03-14T01:59:58Z,A 3D Curve Offset Approach for Ruled Surface Generation in Engineering   Design,Qiang Niu,cs.CG,http://arxiv.org/pdf/1303.3578v1
+1303.5259v1,2013-03-21T14:01:14Z,Efficient Sparseness-Enforcing Projections,Günther Palm,cs.CG,http://arxiv.org/pdf/1303.5259v1
+1303.5388v1,2013-03-21T19:57:34Z,Lower bounds for k-distance approximation,Quentin Mérigot,cs.CG,http://arxiv.org/pdf/1303.5388v1
+1303.5473v1,2013-03-21T21:53:16Z,On the stretch factor of the Theta-4 graph,Sander Verdonschot,cs.CG,http://arxiv.org/pdf/1303.5473v1
+1303.5958v1,2013-03-24T15:12:27Z,A Faster Algorithm for Computing Motorcycle Graphs,Lie Yan,cs.CG,http://arxiv.org/pdf/1303.5958v1
+1303.6127v1,2013-03-25T13:35:18Z,Trajectory Grouping Structures,Frank Staals,cs.CG,http://arxiv.org/pdf/1303.6127v1
+1303.6493v1,2013-03-26T14:02:48Z,Constructing Intrinsic Delaunay Triangulations of Submanifolds,Arijit Ghosh,cs.CG,http://arxiv.org/pdf/1303.6493v1
+1303.7427v1,2013-03-29T15:48:10Z,Measuring Similarity Between Curves on 2-Manifolds via Homotopy Area,Yusu Wang,cs.CG,http://arxiv.org/pdf/1303.7427v1
+1304.0247v1,2013-03-31T19:29:09Z,Finding a largest empty convex subset in space is W[1]-hard,Christian Knauer,cs.CG,http://arxiv.org/pdf/1304.0247v1
+1304.0393v2,2013-04-01T16:54:56Z,Approximating Minimization Diagrams and Generalized Proximity Search,Nirman Kumar,cs.CG,http://arxiv.org/pdf/1304.0393v2
+1304.0524v1,2013-04-02T03:53:46Z,A Fast Algorithm for Well-Spaced Points and Approximate Delaunay Graphs,Ameya Velingker,cs.CG,http://arxiv.org/pdf/1304.0524v1
+1304.1909v1,2013-04-06T16:18:08Z,Network Farthest-Point Diagrams,Michiel Smid,cs.CG,http://arxiv.org/pdf/1304.1909v1
+1304.2604v1,2013-04-09T14:17:12Z,On the predictability of the number of convex vertices,Jean Souviron,cs.CG,http://arxiv.org/pdf/1304.2604v1
+1304.2676v1,2013-04-09T17:41:27Z,"Convex hull: Incremental variations on the Akl-Toussaint heuristics   Simple, optimal and space-saving convex hull algorithms",Jean Souviron,cs.CG,http://arxiv.org/pdf/1304.2676v1
+1304.2947v2,2013-04-10T13:21:39Z,The Stability of Delaunay Triangulations,Arijit Ghosh,cs.CG,http://arxiv.org/pdf/1304.2947v2
+1304.3671v1,2013-04-12T16:22:08Z,On topological changes in the Delaunay triangulation of moving points,Natan Rubin,cs.CG,http://arxiv.org/pdf/1304.3671v1
+1304.4320v2,2013-04-16T03:31:05Z,An Algorithm for Computing Constrained Reflection Paths in Simple   Polygon,Swami Sarvattomananda,cs.CG,http://arxiv.org/pdf/1304.4320v2
+1304.4677v1,2013-04-17T03:50:57Z,Developing a General algorithm for Ball Curve with GC2,M. A,cs.CG,http://arxiv.org/pdf/1304.4677v1
+1304.6296v1,2013-04-23T14:20:40Z,Hilbert curves in 2 dimensions generated by L-systems,Arie Bos,cs.CG,http://arxiv.org/pdf/1304.6296v1
+1304.6813v1,2013-04-25T06:18:41Z,The Compressed Annotation Matrix: an Efficient Data Structure for   Computing Persistent Cohomology,Clément Maria,cs.CG,http://arxiv.org/pdf/1304.6813v1
+1304.7318v1,2013-04-27T02:36:20Z,"Fast Clustering with Lower Bounds: No Customer too Far, No Shop too   Small",Benjamin Raichel,cs.CG,http://arxiv.org/pdf/1304.7318v1
+1304.7833v1,2013-04-30T02:11:30Z,Optimal Time-Convex Hull under the Lp Metrics,D. T. Lee,cs.CG,http://arxiv.org/pdf/1304.7833v1
+1307.2043v1,2013-07-08T11:33:35Z,"Distance domination, guarding and vertex cover for maximal outerplanar   graph",Inês Matos,cs.CG,http://arxiv.org/pdf/1307.2043v1
+1307.2097v2,2013-07-08T14:02:31Z,Computing the Fréchet distance with shortcuts is NP-hard,Bettina Speckmann,cs.CG,http://arxiv.org/pdf/1307.2097v2
+1307.2700v4,2013-07-10T07:13:38Z,Kinetic Data Structures for the Semi-Yao Graph and All Nearest Neighbors   in R^d,Sue Whitesides,cs.CG,http://arxiv.org/pdf/1307.2700v4
+1307.5030v2,2013-07-18T18:18:10Z,The Yao Graph $Y_5$ is a Spanner,Ge Xia,cs.CG,http://arxiv.org/pdf/1307.5030v2
+1307.5612v2,2013-07-22T07:49:57Z,Efficient Range Reporting of Convex Hull,Kannan Srinathan,cs.CG,http://arxiv.org/pdf/1307.5612v2
+1307.5829v2,2013-07-22T19:33:21Z,New and Improved Spanning Ratios for Yao Graphs,Ge Xia,cs.CG,http://arxiv.org/pdf/1307.5829v2
+1307.7760v3,2013-07-29T22:36:40Z,Geometric Inference on Kernel Density Estimates,Yan Zheng,cs.CG,http://arxiv.org/pdf/1307.7760v3
+1307.8268v2,2013-07-31T10:19:10Z,Helly-Type Theorems in Property Testing,Shubhangi Saraf,cs.CG,http://arxiv.org/pdf/1307.8268v2
+1310.1166v2,2013-10-04T04:56:03Z,Flipping Edge-Labelled Triangulations,Sander Verdonschot,cs.CG,http://arxiv.org/pdf/1310.1166v2
+1310.2586v1,2013-10-09T19:05:02Z,Practical Reduction of Edge Flip Sequences in Two-Dimensional   Triangulations,Pierre-Marie Gandoin,cs.CG,http://arxiv.org/pdf/1310.2586v1
+1310.3388v1,2013-10-12T15:15:07Z,Finding the Largest Disk Containing a Query Point in Logarithmic Time   with Linear Storage,Micha Sharir,cs.CG,http://arxiv.org/pdf/1310.3388v1
+1310.4561v1,2013-10-17T02:01:57Z,Unfolding Orthogrids with Constant Refinement,Robin Flatland,cs.CG,http://arxiv.org/pdf/1310.4561v1
+1310.5245v3,2013-10-19T16:35:57Z,The Discrete and Semi-continuous Fréchet Distance with Shortcuts via   Approximate Distance Counting and Selection Techniques,Micha Sharir,cs.CG,http://arxiv.org/pdf/1310.5245v3
+1310.5647v1,2013-10-21T17:08:03Z,Union of Random Minkowski Sums and Network Vulnerability Analysis,Micha Sharir,cs.CG,http://arxiv.org/pdf/1310.5647v1
+1310.6413v2,2013-10-23T22:13:58Z,How To Place a Point to Maximize Angles,Mark V. Yagnatinsky,cs.CG,http://arxiv.org/pdf/1310.6413v2
+1310.6894v1,2013-10-25T12:26:22Z,Domain Mapping for Volumetric Parameterization using Harmonic Functions,Bhaskar Dasgupta,cs.CG,http://arxiv.org/pdf/1310.6894v1
+1310.7197v1,2013-10-27T14:10:05Z,Weak Visibility Queries of Line Segments in Simple Polygons and   Polygonal Domains,Mohammad Ghodsi,cs.CG,http://arxiv.org/pdf/1310.7197v1
+1310.7696v2,2013-10-29T06:53:17Z,Delaunay stability via perturbations,Arijit Ghosh,cs.CG,http://arxiv.org/pdf/1310.7696v2
+1310.8089v2,2013-10-30T10:06:35Z,Reducing complexes in multidimensional persistent homology theory,Claudia Landi,cs.CG,http://arxiv.org/pdf/1310.8089v2
+1311.0117v2,2013-11-01T08:40:50Z,Delaunay triangulation of manifolds,Arijit Ghosh,cs.CG,http://arxiv.org/pdf/1311.0117v2
+1311.0928v1,2013-11-04T23:41:51Z,The Complexity of Order Type Isomorphism,Özgür Özkan,cs.CG,http://arxiv.org/pdf/1311.0928v1
+1311.2032v2,2013-11-08T18:00:40Z,"A Simple, Faster Method for Kinetic Proximity Problems",Alireza Zarei,cs.CG,http://arxiv.org/pdf/1311.2032v2
+1311.2187v1,2013-11-09T16:55:28Z,Spectral Generalized Multi-Dimensional Scaling,Ron Kimmel,cs.CG,http://arxiv.org/pdf/1311.2187v1
+1311.4778v1,2013-11-19T15:21:29Z,Semantic Word Cloud Representations: Hardness and Approximation   Algorithms,Alexander Wolff,cs.CG,http://arxiv.org/pdf/1311.4778v1
+1311.4854v2,2013-11-19T19:46:24Z,Computing the Coverage of an Opaque Forest,Michiel Smid,cs.CG,http://arxiv.org/pdf/1311.4854v2
+1311.4860v1,2013-11-19T20:06:51Z,Computing Covers of Plane Forests,Michiel H. M. Smid,cs.CG,http://arxiv.org/pdf/1311.4860v1
+1311.5197v3,2013-11-20T20:05:48Z,Approximating the Bottleneck Plane Perfect Matching of a Point Set,Michiel Smid,cs.CG,http://arxiv.org/pdf/1311.5197v3
+1311.5447v1,2013-11-21T15:29:30Z,Reducing Linear Programs into Min-max Problems,Carmi Grushko,cs.CG,http://arxiv.org/pdf/1311.5447v1
+1311.6033v1,2013-11-23T18:21:01Z,Packing and Covering a Polygon with Geodesic Disks,Ivo Vigan,cs.CG,http://arxiv.org/pdf/1311.6033v1
+1404.1448v2,2014-04-05T09:09:41Z,Why walking the dog takes time: Frechet distance has no strongly   subquadratic algorithms unless SETH fails,Karl Bringmann,cs.CG,http://arxiv.org/pdf/1404.1448v2
+1404.1646v1,2014-04-07T02:27:46Z,Proximal Navigation Graphs and t-spanners,Edgar Chávez,cs.CG,http://arxiv.org/pdf/1404.1646v1
+1404.1775v2,2014-04-07T13:03:52Z,Fun with Fonts: Algorithmic Typography,Martin L. Demaine,cs.CG,http://arxiv.org/pdf/1404.1775v2
+1404.3403v3,2014-04-13T17:30:50Z,From Proximity to Utility: A Voronoi Partition of Pareto Optima,Benjamin Raichel,cs.CG,http://arxiv.org/pdf/1404.3403v3
+1404.3776v1,2014-04-14T23:10:03Z,Approximation Schemes for Partitioning: Convex Decomposition and Surface   Approximation,Kasturi Varadarajan,cs.CG,http://arxiv.org/pdf/1404.3776v1
+1404.4312v2,2014-04-16T16:59:32Z,On Level persistence (Relevant level persistence numbers),Dong Du,cs.CG,http://arxiv.org/pdf/1404.4312v2
+1404.4731v1,2014-04-18T09:39:49Z,Three-monotone interpolation,Pavel Paták,cs.CG,http://arxiv.org/pdf/1404.4731v1
+1404.6233v1,2014-04-24T19:24:30Z,Towards Tight Bounds on Theta-Graphs,Sander Verdonschot,cs.CG,http://arxiv.org/pdf/1404.6233v1
+1404.6583v1,2014-04-25T23:08:04Z,ILATO Project: Fusion of Optical Surface Models and Volumetric CT Data,Susanne Krömker,cs.CG,http://arxiv.org/pdf/1404.6583v1
+1404.7186v1,2014-04-28T22:13:33Z,Theta-3 is connected,Sander Verdonschot,cs.CG,http://arxiv.org/pdf/1404.7186v1
+1405.0900v2,2014-05-05T13:50:45Z,Bottleneck Partial-Matching Voronoi Diagrams and Applications,Rafel Jaume,cs.CG,http://arxiv.org/pdf/1405.0900v2
+1405.1223v2,2014-05-06T10:51:09Z,Finding Largest Rectangles in Convex Polygons,Lena Schlipf,cs.CG,http://arxiv.org/pdf/1405.1223v2
+1405.1894v1,2014-05-08T11:47:51Z,Halving Balls in Deterministic Linear Time,Tillmann Miltzow,cs.CG,http://arxiv.org/pdf/1405.1894v1
+1405.2378v1,2014-05-10T02:22:26Z,Covering Folded Shapes,Andrew Winslow,cs.CG,http://arxiv.org/pdf/1405.2378v1
+1405.3454v2,2014-05-14T11:16:36Z,A Straightforward Preprocessing Approach for Accelerating Convex Hull   Computations on the GPU,Gang Mei,cs.CG,http://arxiv.org/pdf/1405.3454v2
+1405.3806v1,2014-05-15T11:42:31Z,The Higher-Order Voronoi Diagram of Line Segments,Maksym Zavershynskyi,cs.CG,http://arxiv.org/pdf/1405.3806v1
+1405.4691v2,2014-05-19T12:14:43Z,A Faster Algorithm for Computing Straight Skeletons,Antoine Vigneron,cs.CG,http://arxiv.org/pdf/1405.4691v2
+1405.6260v4,2014-05-24T03:02:10Z,Faster Reductions for Straight Skeletons to Motorcycle Graphs,John C. Bowers,cs.CG,http://arxiv.org/pdf/1405.6260v4
+1405.6564v3,2014-05-26T13:13:37Z,A PTAS for the continuous 1.5D Terrain Guarding Problem,Christiane Schmidt,cs.CG,http://arxiv.org/pdf/1405.6564v3
+1407.0614v4,2014-07-02T15:32:58Z,Covering the Boundary of a Simple Polygon with Geodesic Unit Disks,Ivo Vigan,cs.CG,http://arxiv.org/pdf/1407.0614v4
+1407.2063v2,2014-07-08T12:34:11Z,Approximation and Streaming Algorithms for Projective Clustering via   Random Projections,Sharath Raghvendra,cs.CG,http://arxiv.org/pdf/1407.2063v2
+1407.3340v1,2014-07-12T04:09:18Z,Detecting Weakly Simple Polygons,Chao Xu,cs.CG,http://arxiv.org/pdf/1407.3340v1
+1407.3507v2,2014-07-13T22:17:06Z,Spanning Properties of Theta-Theta Graphs,Dumitru V. Voicu,cs.CG,http://arxiv.org/pdf/1407.3507v2
+1407.5674v1,2014-07-21T21:54:27Z,A Constant-Factor Approximation for Multi-Covering with Disks,Shi-Ke Xue,cs.CG,http://arxiv.org/pdf/1407.5674v1
+1407.6132v2,2014-07-23T08:30:02Z,The Offset Filtration of Convex Objects,Doron Shaharabani,cs.CG,http://arxiv.org/pdf/1407.6132v2
+1507.01158v1,2015-07-05T02:05:17Z,Optimal Decomposition and Recombination of Isostatic Geometric   Constraint Systems for Designing Layered Materials,Joel Willoughby,cs.CG,http://arxiv.org/pdf/1507.01158v1
+1507.01555v1,2015-07-06T18:27:55Z,Approximate Greedy Clustering and Distance Selection for Graph Metrics,Anastasios Sidiropoulos,cs.CG,http://arxiv.org/pdf/1507.01555v1
+1507.01631v2,2015-07-06T22:06:35Z,A generalised isodiametric problem,Christos Pelekis,cs.CG,http://arxiv.org/pdf/1507.01631v2
+1507.02574v1,2015-07-09T16:02:54Z,Sparse Approximation via Generating Point Sets,Benjamin Raichel,cs.CG,http://arxiv.org/pdf/1507.02574v1
+1507.02762v2,2015-07-10T01:24:13Z,A Quasilinear-Time Algorithm for Tiling the Plane Isohedrally with a   Polyomino,Andrew Winslow,cs.CG,http://arxiv.org/pdf/1507.02762v2
+1507.02931v2,2015-07-10T15:08:22Z,Space Filling Curves for 3D Sensor Networks with Complex Topology,Jie Gao,cs.CG,http://arxiv.org/pdf/1507.02931v2
+1507.03509v1,2015-07-13T16:20:32Z,A Combinatorial Bound for Beacon-based Routing in Orthogonal Polygons,Thomas C. Shermer,cs.CG,http://arxiv.org/pdf/1507.03509v1
+1507.03699v1,2015-07-14T02:04:43Z,A New Method for Triangular Mesh Generation,Dion Fleitas,cs.CG,http://arxiv.org/pdf/1507.03699v1
+1507.03715v1,2015-07-14T04:00:46Z,New Variational Method of Grid Generation with Prescribed Jacobian   Determinant and Prescribed Curl,Guojun Liao,cs.CG,http://arxiv.org/pdf/1507.03715v1
+1507.03819v1,2015-07-14T11:41:04Z,Computing the Similarity Between Moving Curves,Bettina Speckmann,cs.CG,http://arxiv.org/pdf/1507.03819v1
+1507.06856v3,2015-07-24T14:26:08Z,On the Stretch Factor of Convex Polyhedra whose Vertices are (Almost) on   a Sphere,Michiel Smid,cs.CG,http://arxiv.org/pdf/1507.06856v3
+1507.08374v1,2015-07-30T04:21:13Z,Characterization and Construction of a Family of Highly Symmetric   Spherical Polyhedra with Application in Modeling Self-Assembling Structures,Chandrajit Bajaj,cs.CG,http://arxiv.org/pdf/1507.08374v1
+1507.08879v2,2015-07-31T13:49:56Z,L-Visibility Drawings of IC-planar Graphs,Fabrizio Montecchiani,cs.CG,http://arxiv.org/pdf/1507.08879v2
+1003.0460v3,2010-03-01T21:20:13Z,Approximating the Fréchet Distance for Realistic Curves in Near Linear   Time,Carola Wenk,cs.CG,http://arxiv.org/pdf/1003.0460v3
+1003.1426v1,2010-03-07T03:02:33Z,Randomly removing g handles at once,Anastasios Sidiropoulos,cs.CG,http://arxiv.org/pdf/1003.1426v1
+1003.3499v1,2010-03-18T00:34:34Z,Geometric reconstruction from point-normal data,Jim Vaughan,cs.CG,http://arxiv.org/pdf/1003.3499v1
+1003.3713v2,2010-03-19T04:36:52Z,The Yao Graph Y_6 is a Spanner,Joseph O'Rourke,cs.CG,http://arxiv.org/pdf/1003.3713v2
+1003.4610v1,2010-03-24T10:47:47Z,Stability of Reeb graphs under function perturbations: the case of   closed curves,Claudia Landi,cs.CG,http://arxiv.org/pdf/1003.4610v1
+1003.4963v1,2010-03-25T17:54:32Z,Bounded Degree Planar Geometric Spanners,Lilach Chaitman,cs.CG,http://arxiv.org/pdf/1003.4963v1
+1003.5874v1,2010-03-30T17:37:32Z,Stability of epsilon-Kernels,Hai Yu,cs.CG,http://arxiv.org/pdf/1003.5874v1
+1005.0085v1,2010-05-01T15:25:45Z,Using Smith Normal Forms and mu-Bases to Compute all the Singularities   of Rational Planar Curves,Ron Goldman,cs.CG,http://arxiv.org/pdf/1005.0085v1
+1005.0982v1,2010-05-06T11:39:09Z,Incidences in Three Dimensions and Distinct Distances in the Plane,Micha Sharir,cs.CG,http://arxiv.org/pdf/1005.0982v1
+1005.2822v2,2010-05-17T07:25:49Z,Surface Parametrization of Nonsimply Connected Planar Bézier Regions,John C. Bowman,cs.CG,http://arxiv.org/pdf/1005.2822v2
+1005.5413v1,2010-05-28T22:39:23Z,Simple Wriggling is Hard unless You Are a Fat Hippo,Valentin Polishchuk,cs.CG,http://arxiv.org/pdf/1005.5413v1
+1006.0291v1,2010-06-02T04:06:30Z,The dilation of the Delaunay triangulation is greater than π/2,Vishal Verma,cs.CG,http://arxiv.org/pdf/1006.0291v1
+1006.1126v1,2010-06-06T17:59:09Z,Body-and-cad Geometric Constraint Systems,Neil White,cs.CG,http://arxiv.org/pdf/1006.1126v1
+1103.1431v1,2011-03-08T04:10:02Z,Approximation Algorithms for Maximum Independent Set of Pseudo-Disks,Sariel Har-Peled,cs.CG,http://arxiv.org/pdf/1103.1431v1
+1103.2865v1,2011-03-15T09:52:03Z,Computing the Fréchet Distance Between Folded Polygons,Carola Wenk,cs.CG,http://arxiv.org/pdf/1103.2865v1
+1103.3903v1,2011-03-20T23:46:42Z,Improved Examples of Non-Termination for Ruppert's Algorithm,Alexander Rand,cs.CG,http://arxiv.org/pdf/1103.3903v1
+1103.4343v1,2011-03-22T18:39:00Z,Undirected Connectivity of Sparse Yao Graphs,Abhaykumar Kumbhar,cs.CG,http://arxiv.org/pdf/1103.4343v1
+1103.4361v2,2011-03-22T19:52:15Z,The Stretch Factor of the Delaunay Triangulation Is Less Than 1.998,Ge Xia,cs.CG,http://arxiv.org/pdf/1103.4361v2
+1103.4503v1,2011-03-23T12:48:20Z,Hardness of discrepancy computation and epsilon-net verification in high   dimension,Daniel Werner,cs.CG,http://arxiv.org/pdf/1103.4503v1
+1104.0122v1,2011-04-01T09:49:15Z,A Doubly Exponentially Crumbled Cake,Takeaki Uno,cs.CG,http://arxiv.org/pdf/1104.0122v1
+1104.0622v1,2011-04-04T16:43:45Z,Kinetic Stable Delaunay Graphs,Micha Sharir,cs.CG,http://arxiv.org/pdf/1104.0622v1
+1104.0753v3,2011-04-05T07:43:46Z,Locating a service facility and a rapid transit line,I. Ventura,cs.CG,http://arxiv.org/pdf/1104.0753v3
+1104.3076v1,2011-04-15T14:51:45Z,Inplace Algorithm for Priority Search Tree and its use in Computing   Largest Empty Axis-Parallel Rectangle,Subhas C. Nandy,cs.CG,http://arxiv.org/pdf/1104.3076v1
+1104.4137v5,2011-04-20T22:26:26Z,Searching Polyhedra by Rotating Half-Planes,Giovanni Viglietta,cs.CG,http://arxiv.org/pdf/1104.4137v5
+1104.5043v2,2011-04-26T22:37:45Z,On Isolating Points Using Disks,Kasturi Varadarajan,cs.CG,http://arxiv.org/pdf/1104.5043v2
+1104.5634v1,2011-04-29T14:24:26Z,Consistent Labeling of Rotating Maps,Ignaz Rutter,cs.CG,http://arxiv.org/pdf/1104.5634v1
+1112.0695v1,2011-12-03T21:52:44Z,On the Expected Complexity of Voronoi Diagrams on Terrains,Benjamin Raichel,cs.CG,http://arxiv.org/pdf/1112.0695v1
+1112.1124v4,2011-12-05T23:44:08Z,Minimum Convex Partitions and Maximum Empty Polytopes,Csaba D. Tóth,cs.CG,http://arxiv.org/pdf/1112.1124v4
+1112.1144v2,2011-12-06T01:58:03Z,The Dimension of Spline Spaces with Highest Order Smoothness over   Hierarchical T-meshes,Falai Chen,cs.CG,http://arxiv.org/pdf/1112.1144v2
+1112.4626v2,2011-12-20T09:47:17Z,Circular-Arc Cartograms,Martin Nöllenburg,cs.CG,http://arxiv.org/pdf/1112.4626v2
+1112.4632v4,2011-12-20T09:57:00Z,The Price of Matching Selfish Vertices,Roger Wattenhofer,cs.CG,http://arxiv.org/pdf/1112.4632v4
+1112.5904v2,2011-12-27T00:44:55Z,Memory-Constrained Algorithms for Simple Polygons,André Schulz,cs.CG,http://arxiv.org/pdf/1112.5904v2
+1112.6008v7,2011-12-27T19:38:01Z,"Cayley configuration spaces of 2D mechanisms, Part I: extreme points,   continuous motion paths and minimal representations",Heping Gao,cs.CG,http://arxiv.org/pdf/1112.6008v7
+1112.6009v4,2011-12-27T19:38:42Z,"Cayley Configuration Spaces of 1-dof Tree-decomposable Linkages, Part   II: Combinatorial Characterization of Complexity",Heping Gao,cs.CG,http://arxiv.org/pdf/1112.6009v4
+1211.0059v1,2012-11-01T00:06:59Z,Improving the Numerical Robustness of Sphere Swept Collision Detection,Jeff Linahan,cs.CG,http://arxiv.org/pdf/1211.0059v1
+1211.0175v1,2012-11-01T13:40:52Z,Harmonious Hilbert curves and other extradimensional space-filling   curves,Herman Haverkort,cs.CG,http://arxiv.org/pdf/1211.0175v1
+1211.2030v1,2012-11-09T02:39:00Z,Hardness Results on Curve/Point Set Matching with Fréchet Distance,Alper Üngör,cs.CG,http://arxiv.org/pdf/1211.2030v1
+1211.2118v1,2012-11-09T13:01:54Z,Trees in simple Polygons,Tillmann Miltzow,cs.CG,http://arxiv.org/pdf/1211.2118v1
+1211.3376v2,2012-11-12T22:21:03Z,Clipping of Arbitrary Polygons with Degeneracies,James R Overfelt,cs.CG,http://arxiv.org/pdf/1211.3376v2
+1211.4559v1,2012-11-19T20:38:48Z,Visiting All Sites with Your Dog,Kaveh Shahbaz,cs.CG,http://arxiv.org/pdf/1211.4559v1
+1211.4927v2,2012-11-21T03:50:35Z,Angle Optimization of Graphs Embedded in the Plane,Timothy Rozario,cs.CG,http://arxiv.org/pdf/1211.4927v2
+1211.5107v1,2012-11-21T18:22:25Z,Notes on Convex Transversals,Lena Schlipf,cs.CG,http://arxiv.org/pdf/1211.5107v1
+1211.5595v1,2012-11-22T04:13:26Z,Hardware-Accelerated Raycasting: Towards an Effective Brain MRI   Visualization,Siti Z. Z. Abidin,cs.CG,http://arxiv.org/pdf/1211.5595v1
+1211.6254v2,2012-11-27T09:59:25Z,Recognition of collapsible complexes is NP-complete,Martin Tancer,cs.CG,http://arxiv.org/pdf/1211.6254v2
+1301.4809v1,2013-01-21T10:51:57Z,A Rank-based Convex Hull method for Dense Data Sets,J. Cadenas,cs.CG,http://arxiv.org/pdf/1301.4809v1
+1301.7154v2,2013-01-30T07:57:27Z,Bringing Order to Special Cases of Klee's Measure Problem,Karl Bringmann,cs.CG,http://arxiv.org/pdf/1301.7154v2
+1305.0172v1,2013-05-01T13:55:25Z,An Optimal Algorithm for the Euclidean Bottleneck Full Steiner Tree   Problem,Michiel Smid,cs.CG,http://arxiv.org/pdf/1305.0172v1
+1305.0750v4,2013-05-03T15:33:56Z,Multi-Sided Boundary Labeling,Alexander Wolff,cs.CG,http://arxiv.org/pdf/1305.0750v4
+1305.1596v1,2013-05-04T00:20:12Z,A Clifford Algebra approach to the Discretizable Molecular Distance   Geometry Problem,Alessandro Andrioni,cs.CG,http://arxiv.org/pdf/1305.1596v1
+1305.4573v2,2013-05-20T16:38:15Z,Correcting self-intersecting polygons using minimal memory A simple and   efficient algorithm and thoughts on line-segment intersection algorithms,Jean Souviron,cs.CG,http://arxiv.org/pdf/1305.4573v2
+1305.5209v1,2013-05-22T17:53:29Z,A Note on the Unsolvability of the Weighted Region Shortest Path Problem,Michiel Smid,cs.CG,http://arxiv.org/pdf/1305.5209v1
+1305.7351v1,2013-05-31T10:45:32Z,Local and Global Analysis of Parametric Solid Sweeps,Milind Sohoni,cs.CG,http://arxiv.org/pdf/1305.7351v1
+1306.0039v2,2013-05-31T21:54:40Z,Efficient and Robust Persistent Homology for Measures,Donald R. Sheehy,cs.CG,http://arxiv.org/pdf/1306.0039v2
+1306.0706v1,2013-06-04T08:58:55Z,Tracing cross-free polylines oriented by a N-symmetry direction field on   triangulated surfaces,Dmitry Sokolov,cs.CG,http://arxiv.org/pdf/1306.0706v1
+1306.2104v1,2013-06-10T05:32:05Z,On the zone of the boundary of a convex body,Orit Esther Raz,cs.CG,http://arxiv.org/pdf/1306.2104v1
+1306.2827v1,2013-06-12T13:59:01Z,Map Matching with Simplicity Constraints,Wouter Meulemans,cs.CG,http://arxiv.org/pdf/1306.2827v1
+1306.3452v3,2013-06-14T16:47:36Z,Algorithms for Tolerant Tverberg Partitions,Yannik Stein,cs.CG,http://arxiv.org/pdf/1306.3452v3
+1306.4359v1,2013-06-18T21:28:08Z,Some Results on Open Edge and Open Mobile Guarding of Polygons and   Triangulations,Inês Matos,cs.CG,http://arxiv.org/pdf/1306.4359v1
+1306.5224v1,2013-06-21T19:48:07Z,Euclidean Greedy Drawings of Trees,Roman Prutkin,cs.CG,http://arxiv.org/pdf/1306.5224v1
+1306.5460v1,2013-06-23T19:14:51Z,Self-Approaching Graphs,Vinayak Pathak,cs.CG,http://arxiv.org/pdf/1306.5460v1
+1306.5527v2,2013-06-24T07:33:40Z,Computing the Fréchet Distance with a Retractable Leash,Wolfgang Mulzer,cs.CG,http://arxiv.org/pdf/1306.5527v2
+1306.5796v2,2013-06-24T22:24:04Z,Algorithms for distance problems in planar complexes of global   nonpositive curvature,Daniela Maftuleac,cs.CG,http://arxiv.org/pdf/1306.5796v2
+1306.5838v2,2013-06-25T03:12:56Z,Randomized incremental construction of the Hausdorff Voronoi diagram of   non-crossing clusters,Evanthia Papadopoulou,cs.CG,http://arxiv.org/pdf/1306.5838v2
+1308.0066v1,2013-07-31T23:39:56Z,"Drawing Arrangement Graphs In Small Grids, Or How To Play Planarity",David Eppstein,cs.CG,http://arxiv.org/pdf/1308.0066v1
+1308.0256v1,2013-08-01T16:14:29Z,Applications of continuous functions in topological CAD data,Norbert Paul,cs.CG,http://arxiv.org/pdf/1308.0256v1
+1308.1986v1,2013-08-08T21:44:36Z,A deterministic pseudorandom perturbation scheme for arbitrary   polynomial predicates,Forrest Green,cs.CG,http://arxiv.org/pdf/1308.1986v1
+1308.2757v3,2013-08-13T05:16:18Z,A (7/2)-Approximation Algorithm for Guarding Orthogonal Art Galleries   with Sliding Cameras,Saeed Mehrabi,cs.CG,http://arxiv.org/pdf/1308.2757v3
+1308.3872v1,2013-08-18T16:40:31Z,A Variational Principle for Improving 2D Triangle Meshes based on   Hyperbolic Volume,Feng Luo,cs.CG,http://arxiv.org/pdf/1308.3872v1
+1308.4186v1,2013-08-19T22:36:04Z,A 2-chain can interlock with an open 10-chain,Jianyuan K. Zhong,cs.CG,http://arxiv.org/pdf/1308.4186v1
+1308.4434v2,2013-08-20T21:14:23Z,Simple and Robust Boolean Operations for Triangulated Surfaces,John C. Tipper,cs.CG,http://arxiv.org/pdf/1308.4434v2
+1308.4996v1,2013-08-22T21:34:33Z,"On the Impossibility of Dimension Reduction for Doubling Subsets of   $\ell_p$, $p>2$",Ofer Neiman,cs.CG,http://arxiv.org/pdf/1308.4996v1
+1308.5550v1,2013-08-26T12:00:54Z,Fitting Voronoi Diagrams to Planar Tesselations,Dannier Trinchet,cs.CG,http://arxiv.org/pdf/1308.5550v1
+1308.6693v1,2013-08-30T09:37:36Z,Transforming planar graph drawings while maintaining height,Therese Biedl,cs.CG,http://arxiv.org/pdf/1308.6693v1
+1308.6706v2,2013-08-30T10:48:25Z,Algorithms and Bounds for Drawing Non-planar Graphs with Crossing-free   Subgraphs,Ioannis G. Tollis,cs.CG,http://arxiv.org/pdf/1308.6706v2
+1308.6824v1,2013-08-30T19:32:07Z,Strict Confluent Drawing,Kevin Verbeek,cs.CG,http://arxiv.org/pdf/1308.6824v1
+1309.3696v2,2013-09-14T19:46:35Z,Matching colored points with rectangles,J. Rojas-Ledesma,cs.CG,http://arxiv.org/pdf/1309.3696v2
+1309.3858v1,2013-09-16T08:50:17Z,Geodesic-Preserving Polygon Simplification,Birgit Vogtenhuber,cs.CG,http://arxiv.org/pdf/1309.3858v1
+1309.3963v1,2013-09-16T13:59:51Z,Trajectory-Based Dynamic Map Labeling,Martin Nöllenburg,cs.CG,http://arxiv.org/pdf/1309.3963v1
+1309.4323v3,2013-09-17T14:26:26Z,Terrain visibility with multiple viewpoints,Frank Staals,cs.CG,http://arxiv.org/pdf/1309.4323v3
+1309.6131v4,2013-09-24T12:42:15Z,Path-Based Distance for Street Map Comparison,Carola Wenk,cs.CG,http://arxiv.org/pdf/1309.6131v4
+1309.6628v1,2013-09-25T19:59:50Z,Quantitative Homotopy Theory in Topological Data Analysis,Michael A. Mandell,cs.CG,http://arxiv.org/pdf/1309.6628v1
+1309.6659v2,2013-09-25T20:39:43Z,Independent and Hitting Sets of Rectangles Intersecting a Diagonal Line   : Algorithms and Complexity,José A. Soto,cs.CG,http://arxiv.org/pdf/1309.6659v2
+1309.7803v1,2013-09-30T11:44:53Z,Near Optimal Line Segment Weak Visibility Queries in Simple Polygons,Mohammad Ghodsi,cs.CG,http://arxiv.org/pdf/1309.7803v1
+1309.7829v2,2013-09-30T13:04:44Z,"Alpha-Concave Hull, a Generalization of Convex Hull",Ali Mohades,cs.CG,http://arxiv.org/pdf/1309.7829v2
+1312.0233v2,2013-12-01T15:18:17Z,On Optimal Disc Covers and a New Characterization of the Steiner Center,Alfred M. Bruckstein,cs.CG,http://arxiv.org/pdf/1312.0233v2
+1312.0378v2,2013-12-02T09:06:32Z,The guillotine approach for TSP with neighborhoods revisited,Sophie Spirkl,cs.CG,http://arxiv.org/pdf/1312.0378v2
+1312.0387v2,2013-12-02T09:32:36Z,On Strong Centerpoints,Sathish Govindarajan,cs.CG,http://arxiv.org/pdf/1312.0387v2
+1312.0389v1,2013-12-02T09:46:22Z,Output sensitive algorithm for covering many points,Mohammadreza Razzazi,cs.CG,http://arxiv.org/pdf/1312.0389v1
+1312.0803v3,2013-12-03T12:56:46Z,Nonlinear Dimensionality Reduction via Path-Based Isometric Mapping,Emad Fatemizadeh,cs.CG,http://arxiv.org/pdf/1312.0803v3
+1312.0884v1,2013-12-03T17:32:10Z,Linear transformation distance for bichromatic matchings,Birgit Vogtenhuber,cs.CG,http://arxiv.org/pdf/1312.0884v1
+1312.1001v3,2013-12-04T01:42:40Z,Optimal detection of intersections between convex polyhedra,Stefan Langerman,cs.CG,http://arxiv.org/pdf/1312.1001v3
+1312.1181v1,2013-12-04T14:36:14Z,Study on Delaunay tessellations of 1-irregular cuboids for 3D mixed   element meshes,Nancy Hitschfeld-Kahler,cs.CG,http://arxiv.org/pdf/1312.1181v1
+1312.1369v1,2013-12-04T22:14:06Z,Quasi-Polynomial Time Approximation Scheme for Sparse Subsets of   Polygons,Sariel Har-Peled,cs.CG,http://arxiv.org/pdf/1312.1369v1
+1312.2185v1,2013-12-08T09:31:24Z,Geometric graphs on convex point sets,Sathish Govindrajan,cs.CG,http://arxiv.org/pdf/1312.2185v1
+1312.2549v1,2013-12-09T19:14:05Z,On the approximability of covering points by lines and related problems,Minghui Jiang,cs.CG,http://arxiv.org/pdf/1312.2549v1
+1312.3538v1,2013-12-12T16:34:10Z,Smooth Orthogonal Drawings of Planar Graphs,Alexander Wolff,cs.CG,http://arxiv.org/pdf/1312.3538v1
+1312.3604v1,2013-12-12T19:51:48Z,A closed-form solution for the flat-state geometry of cylindrical   surface intersections bounded on all sides by orthogonal planes,Michael P. May,cs.CG,http://arxiv.org/pdf/1312.3604v1
+1312.3711v2,2013-12-13T05:57:03Z,Computing the $L_1$ Geodesic Diameter and Center of a Simple Polygon in   Linear Time,Haitao Wang,cs.CG,http://arxiv.org/pdf/1312.3711v2
+1312.3904v3,2013-12-13T18:57:58Z,A Randomized Incremental Algorithm for the Hausdorff Voronoi Diagram of   Non-crossing Clusters,Evanthia Papadopoulou,cs.CG,http://arxiv.org/pdf/1312.3904v3
+1312.6305v1,2013-12-21T21:25:05Z,Output-Sensitive Tools for Range Searching in Higher Dimensions,Shai Zaban,cs.CG,http://arxiv.org/pdf/1312.6305v1
+1312.6824v1,2013-12-24T14:30:00Z,Dihedral angles and orthogonal polyhedra,Hamide Vosoughpour,cs.CG,http://arxiv.org/pdf/1312.6824v1
+1312.7363v1,2013-12-27T22:30:13Z,How beta-skeletons lose their edges,Andrew Adamatzky,cs.CG,http://arxiv.org/pdf/1312.7363v1
+1401.0108v4,2013-12-31T07:54:16Z,On Packing Almost Half of a Square with Anchored Rectangles: A   Constructive Approach,Soumyottam Chatterjee,cs.CG,http://arxiv.org/pdf/1401.0108v4
+1401.0120v1,2013-12-31T09:54:14Z,A Fast and Practical Method to Estimate Volumes of Convex Polytopes,Jian Zhang,cs.CG,http://arxiv.org/pdf/1401.0120v1
+1401.0174v2,2013-12-31T16:43:21Z,Separating a Voronoi Diagram via Local Search,Sariel Har-Peled,cs.CG,http://arxiv.org/pdf/1401.0174v2
+1401.0443v1,2014-01-02T14:06:04Z,Selection Lemmas for various geometric objects,Sathish Govindarajan,cs.CG,http://arxiv.org/pdf/1401.0443v1
+1401.0468v1,2014-01-02T16:36:24Z,Sphere Packing with Limited Overlap,Caroline Uhler,cs.CG,http://arxiv.org/pdf/1401.0468v1
+1401.1472v2,2014-01-07T18:40:49Z,Robust Proximity Search for Balls using Sublinear Space,Nirman Kumar,cs.CG,http://arxiv.org/pdf/1401.1472v2
+1401.1477v2,2014-01-07T19:00:02Z,On the Complexity of Randomly Weighted Voronoi Diagrams,Benjamin Raichel,cs.CG,http://arxiv.org/pdf/1401.1477v2
+1401.2127v1,2014-01-09T19:28:09Z,Upper Bounds on the Spanning Ratio of Constrained Theta-Graphs,André van Renssen,cs.CG,http://arxiv.org/pdf/1401.2127v1
+1401.2960v2,2014-01-13T19:34:19Z,A Leapfrog Strategy for Pursuit-Evasion in a Polygonal Environment,Maxray Savage,cs.CG,http://arxiv.org/pdf/1401.2960v2
+1401.5583v1,2014-01-22T07:52:52Z,Improved Online Square-into-Square Packing,Brian Brubach,cs.CG,http://arxiv.org/pdf/1401.5583v1
+1401.7042v2,2014-01-27T22:47:15Z,How to Walk Your Dog in the Mountains with No Magic Leash,Anastasios Sidiropoulos,cs.CG,http://arxiv.org/pdf/1401.7042v2
+1401.7100v1,2014-01-28T07:18:33Z,Large Deformation Diffeomorphic Metric Mapping And Fast-Multipole   Boundary Element Method Provide New Insights For Binaural Acoustics,Anthony Tew,cs.CG,http://arxiv.org/pdf/1401.7100v1
+1402.1807v11,2014-02-08T01:01:46Z,Recurrence for Pandimensional Space-Filling Functions,Aubrey Jaffer,cs.CG,http://arxiv.org/pdf/1402.1807v11
+1402.3236v1,2014-02-13T17:58:51Z,A graph-theoretical approach for the computation of connected   iso-surfaces based on volumetric data,Dieter Bothe,cs.CG,http://arxiv.org/pdf/1402.3236v1
+1402.5010v1,2014-02-20T14:30:41Z,On the reconstruction of convex sets from random normal measurements,Quentin Mérigot,cs.CG,http://arxiv.org/pdf/1402.5010v1
+1402.5138v2,2014-02-19T21:50:39Z,A Comparison and Evaluation of Map Construction Algorithms,Carola Wenk,cs.CG,http://arxiv.org/pdf/1402.5138v2
+1402.5303v3,2014-02-21T14:33:25Z,Diffuse Reflection Radius in a Simple Polygon,Andrew Winslow,cs.CG,http://arxiv.org/pdf/1402.5303v3
+1402.5681v2,2014-02-23T21:35:00Z,Region-based approximation of probability distributions (for visibility   between imprecise points among obstacles),Rodrigo I. Silveira,cs.CG,http://arxiv.org/pdf/1402.5681v2
+1402.7347v1,2014-02-28T19:00:24Z,Cayley Analysis of Mechanism Configuration Spaces using CayMos: Software   Functionalities and Architecture,Meera Sitharam,cs.CG,http://arxiv.org/pdf/1402.7347v1
+1403.0835v2,2014-03-04T16:38:13Z,QPTAS for Geometric Set-Cover Problems via Optimal Separators,Saurabh Ray,cs.CG,http://arxiv.org/pdf/1403.0835v2
+1403.2972v1,2014-03-12T15:27:53Z,Complexity of the General Chromatic Art Gallery Problem,Michael Hemmer,cs.CG,http://arxiv.org/pdf/1403.2972v1
+1403.3894v2,2014-03-16T09:44:41Z,A lower bound on opaque sets,János Pach,cs.CG,http://arxiv.org/pdf/1403.3894v2
+1403.3905v1,2014-03-16T11:07:49Z,Efficient Computation of Visibility Polygons,Alexander Kröller,cs.CG,http://arxiv.org/pdf/1403.3905v1
+1403.5350v1,2014-03-21T02:50:05Z,There are Plane Spanners of Maximum Degree 4,Ge Xia,cs.CG,http://arxiv.org/pdf/1403.5350v1
+1403.6637v2,2014-03-26T11:53:07Z,Probably Approximately Symmetric: Fast rigid Symmetry Detection with   Global Guarantees,Alex Bronstein,cs.CG,http://arxiv.org/pdf/1403.6637v2
+1403.8086v1,2014-03-31T16:57:36Z,Covering nearly surface-embedded graphs with a fixed number of balls,Erin Wolf Chambers,cs.CG,http://arxiv.org/pdf/1403.8086v1
+1406.3512v1,2014-06-13T11:48:09Z,On largest volume simplices and sub-determinants,Carsten Moldenhauer,cs.CG,http://arxiv.org/pdf/1406.3512v1
+1406.3838v1,2014-06-15T18:32:43Z,A fast 25/6-approximation for the minimum unit disk cover problem,Daniel Lu,cs.CG,http://arxiv.org/pdf/1406.3838v1
+1406.4005v2,2014-06-16T13:19:22Z,Maintaining Contour Trees of Dynamic Terrains,Jungwoo Yang,cs.CG,http://arxiv.org/pdf/1406.4005v2
+1406.4197v1,2014-06-17T00:34:42Z,Scaled pier fractals do not strictly self-assemble,Scott M. Summers,cs.CG,http://arxiv.org/pdf/1406.4197v1
+1406.5299v1,2014-06-20T07:55:07Z,Properties and Complexity of Fan-Planarity,Ioannis G. Tollis,cs.CG,http://arxiv.org/pdf/1406.5299v1
+1406.5554v2,2014-06-20T22:59:17Z,Kinetic Reverse $k$-Nearest Neighbor Problem,Sue Whitesides,cs.CG,http://arxiv.org/pdf/1406.5554v2
+1406.5778v1,2014-06-22T22:32:14Z,Approximating the Maximum Overlap of Polygons under Translation,Subhro Roy,cs.CG,http://arxiv.org/pdf/1406.5778v1
+1406.6599v1,2014-06-25T14:56:14Z,Convex Hulls under Uncertainty,Wuzhou Zhang,cs.CG,http://arxiv.org/pdf/1406.6599v1
+1406.7753v1,2014-06-30T14:24:10Z,Interference Minimization in Asymmetric Sensor Networks,Wolfgang Mulzer,cs.CG,http://arxiv.org/pdf/1406.7753v1
+1408.0314v1,2014-08-01T22:10:56Z,Normal variation for adaptive feature size,Tamal K. Dey,cs.CG,http://arxiv.org/pdf/1408.0314v1
+1408.1422v1,2014-08-06T21:10:09Z,"The Galois Complexity of Graph Drawing: Why Numerical Solutions are   Ubiquitous for Force-Directed, Spectral, and Circle Packing Drawings",Michael T. Goodrich,cs.CG,http://arxiv.org/pdf/1408.1422v1
+1408.1789v3,2014-08-08T09:08:48Z,"Dimension reduction techniques for $\ell_p$, $1 \le p \le 2$, with   applications",Lee-Ad Gottlieb,cs.CG,http://arxiv.org/pdf/1408.1789v3
+1408.2436v1,2014-08-11T15:24:32Z,Compatible Connectivity-Augmentation of Planar Disconnected Graphs,Pat Morin,cs.CG,http://arxiv.org/pdf/1408.2436v1
+1408.4099v1,2014-08-18T19:08:25Z,Continuous Yao Graphs,Sander Verdonschot,cs.CG,http://arxiv.org/pdf/1408.4099v1
+1408.4902v1,2014-08-21T07:08:16Z,Balanced Circle Packings for Planar Graphs,Sergey Pupyrev,cs.CG,http://arxiv.org/pdf/1408.4902v1
+1408.4933v1,2014-08-21T10:02:55Z,Embedding Four-directional Paths on Convex Point Sets,Birgit Vogtenhuber,cs.CG,http://arxiv.org/pdf/1408.4933v1
+1408.5622v1,2014-08-24T17:48:01Z,"Gradient of the Objective Function for an Anisotropic Centroidal Voronoi   Tessellation (CVT) - A revised, detailed derivation",Marco Piastra,cs.CG,http://arxiv.org/pdf/1408.5622v1
+1408.6019v1,2014-08-26T05:57:45Z,Simultaneous Embeddability of Two Partitions,Martin Nöllenburg,cs.CG,http://arxiv.org/pdf/1408.6019v1
+1408.6210v2,2014-08-26T19:07:10Z,Robust Geometry Estimation using the Generalized Voronoi Covariance   Measure,Boris Thibert,cs.CG,http://arxiv.org/pdf/1408.6210v2
+1409.0315v2,2014-09-01T08:02:25Z,On Self-Approaching and Increasing-Chord Drawings of 3-Connected Planar   Graphs,Ignaz Rutter,cs.CG,http://arxiv.org/pdf/1409.0315v2
+1409.2456v2,2014-09-08T18:36:39Z,Intermittent Map Matching with the Discrete Fréchet Distance,Binhai Zhu,cs.CG,http://arxiv.org/pdf/1409.2456v2
+1409.2457v2,2014-09-08T18:37:29Z,On the Chain Pair Simplification Problem,Binhai Zhu,cs.CG,http://arxiv.org/pdf/1409.2457v2
+1409.4545v2,2014-09-16T09:19:23Z,A Note on Rectangle Covering with Congruent Disks,Emanuele Tron,cs.CG,http://arxiv.org/pdf/1409.4545v2
+1409.4613v1,2014-09-16T12:46:46Z,Similarity of closed polygonal curves in Frechet metric,V. M. Yakovenko,cs.CG,http://arxiv.org/pdf/1409.4613v1
+1409.4621v5,2014-09-16T13:13:44Z,Approximability of Guarding Weak Visibility Polygons,Bodhayan Roy,cs.CG,http://arxiv.org/pdf/1409.4621v5
+1409.5466v1,2014-09-18T21:17:17Z,Higher-Order Triangular-Distance Delaunay Graphs: Graph-Theoretical   Properties,Michiel Smid,cs.CG,http://arxiv.org/pdf/1409.5466v1
+1409.6397v1,2014-09-23T02:50:23Z,Optimal local routing on Delaunay triangulations defined by empty   equilateral triangles,Sander Verdonschot,cs.CG,http://arxiv.org/pdf/1409.6397v1
+1409.7425v1,2014-09-25T21:29:14Z,Net and Prune: A Linear Time Algorithm for Euclidean Distance Problems,Banjamin Raichel,cs.CG,http://arxiv.org/pdf/1409.7425v1
+1410.0309v4,2014-10-01T17:58:13Z,10-Gabriel graphs are Hamiltonian,Nico Van Cleemput,cs.CG,http://arxiv.org/pdf/1410.0309v4
+1410.0540v1,2014-10-02T13:08:52Z,Matching in Gabriel Graphs,Michiel Smid,cs.CG,http://arxiv.org/pdf/1410.0540v1
+1410.1036v1,2014-10-04T10:31:39Z,Further results on the hyperbolic Voronoi diagrams,Richard Nock,cs.CG,http://arxiv.org/pdf/1410.1036v1
+1410.2195v1,2014-10-08T17:41:19Z,Fast Approximation and Randomized Algorithms for Diameter,Hamid Homapour,cs.CG,http://arxiv.org/pdf/1410.2195v1
+1410.3154v1,2014-10-12T21:11:48Z,Epsilon-Nets for Halfspaces Revisited,Shakhar Smorodinsky,cs.CG,http://arxiv.org/pdf/1410.3154v1
+1410.3564v1,2014-10-14T03:54:09Z,Randomized Triangle Algorithms for Convex Hull Membership,Bahman Kalantari,cs.CG,http://arxiv.org/pdf/1410.3564v1
+1410.4099v1,2014-10-15T15:20:59Z,An upper bound on the k-modem illumination problem,Carlos Hidalgo-Toscano,cs.CG,http://arxiv.org/pdf/1410.4099v1
+1410.5602v1,2014-10-21T10:10:14Z,Optimal randomized incremental construction for guaranteed logarithmic   planar point location,Dan Halperin,cs.CG,http://arxiv.org/pdf/1410.5602v1
+1410.5952v5,2014-10-22T08:59:34Z,Algorithms for Art Gallery Illumination,Christiane Schmidt,cs.CG,http://arxiv.org/pdf/1410.5952v5
+1410.6520v1,2014-10-23T22:52:59Z,Filling a Hole in a Crease Pattern: Isometric Mapping from Prescribed   Boundary Folding,Jason S. Ku,cs.CG,http://arxiv.org/pdf/1410.6520v1
+1410.7012v1,2014-10-26T10:46:30Z,Only distances are required to reconstruct submanifolds,Steve Y. Oudot,cs.CG,http://arxiv.org/pdf/1410.7012v1
+1410.8720v3,2014-10-31T12:15:35Z,Engineering Art Galleries,Davi C. Tozoni,cs.CG,http://arxiv.org/pdf/1410.8720v3
+1410.8802v1,2014-10-31T16:46:36Z,Low Rank Matrix Approximation in Linear Time,Sariel Har-Peled,cs.CG,http://arxiv.org/pdf/1410.8802v1
+1411.0544v3,2014-11-03T16:14:13Z,A QPTAS for the Base of the Number of Triangulations of a Planar Point   Set,Dzmitry Sledneu,cs.CG,http://arxiv.org/pdf/1411.0544v3
+1411.1544v1,2014-11-06T09:49:07Z,The edit distance for Reeb graphs of surfaces,Claudia Landi,cs.CG,http://arxiv.org/pdf/1411.1544v1
+1411.2689v4,2014-11-11T03:16:17Z,Avoiding the Global Sort: A Faster Contour Tree Algorithm,C. Seshadhri,cs.CG,http://arxiv.org/pdf/1411.2689v4
+1411.2699v2,2014-11-11T04:52:32Z,Tiling rectangles with holey polyominoes,Tristrom Cooke,cs.CG,http://arxiv.org/pdf/1411.2699v2
+1411.2816v2,2014-11-11T14:10:50Z,Linear-Time Algorithms for the Farthest-Segment Voronoi Diagram and   Related Tree Structures,Evanthia Papadopoulou,cs.CG,http://arxiv.org/pdf/1411.2816v2
+1411.3044v1,2014-11-12T01:55:48Z,Scaled tree fractals do not strictly self-assemble,Paul Totzke,cs.CG,http://arxiv.org/pdf/1411.3044v1
+1411.4022v3,2014-11-14T19:39:34Z,Numeric Invariants from Multidimensional Persistence,Gunnar Carlsson,cs.CG,http://arxiv.org/pdf/1411.4022v3
+1411.5442v1,2014-11-20T05:22:01Z,Adaptive tracking of representative cycles in regular and zigzag   persistent homology,Hamid Krim,cs.CG,http://arxiv.org/pdf/1411.5442v1
+1411.5455v1,2014-11-20T06:50:41Z,Generalized $β$-skeletons,Gabriela Majewska,cs.CG,http://arxiv.org/pdf/1411.5455v1
+1411.5457v2,2014-11-20T06:52:44Z,$β$-skeletons for a set of line segments in $R^2$,Gabriela Majewska,cs.CG,http://arxiv.org/pdf/1411.5457v2
+1411.5459v1,2014-11-20T07:14:50Z,Planar $β$-skeletons via point location in monotone subdivisions of   subset of lunes,Mirosław Kowaluk,cs.CG,http://arxiv.org/pdf/1411.5459v1
+1411.5472v1,2014-11-20T08:46:25Z,Multidimensional $β$-skeletons in $L_1$ and $L_{\infty}$ metric,Gabriela Majewska,cs.CG,http://arxiv.org/pdf/1411.5472v1
+1411.6185v1,2014-11-23T03:12:26Z,Morphing Planar Graph Drawings with Unidirectional Moves,Anna Lubiw,cs.CG,http://arxiv.org/pdf/1411.6185v1
+1411.6672v1,2014-11-24T22:29:06Z,Pattern overlap implies runaway growth in hierarchical tile systems,Ladislav Stacho,cs.CG,http://arxiv.org/pdf/1411.6672v1
+1411.7337v1,2014-11-26T19:19:24Z,Coordinate-Free Quantification of Coverage in Dynamic Sensor Networks,Hamid Krim,cs.CG,http://arxiv.org/pdf/1411.7337v1
+1411.7753v1,2014-11-28T05:08:42Z,On Low Discrepancy Samplings in Product Spaces of Motion Groups,David Zuckerman,cs.CG,http://arxiv.org/pdf/1411.7753v1
+1411.7819v2,2014-11-28T11:23:59Z,Uniformity of point samples in metric spaces using gap ratio,Subhabrata Paul,cs.CG,http://arxiv.org/pdf/1411.7819v2
+1412.0760v2,2014-12-02T02:40:17Z,Competitive Local Routing with Constraints,Sander Verdonschot,cs.CG,http://arxiv.org/pdf/1412.0760v2
+1412.0779v2,2014-12-02T04:12:05Z,Shortest Path in a Polygon using Sublinear Space,Sariel Har-Peled,cs.CG,http://arxiv.org/pdf/1412.0779v2
+1412.0962v2,2014-12-02T16:20:18Z,Batched Point Location in SINR Diagrams via Algebraic Tools,Matthew J. Katz,cs.CG,http://arxiv.org/pdf/1412.0962v2
+1412.1039v2,2014-12-02T19:52:37Z,Convex Hull for Probabilistic Points,Dianna Xu,cs.CG,http://arxiv.org/pdf/1412.1039v2
+1412.1398v1,2014-12-03T16:51:03Z,Space Exploration via Proximity Search,Benjamin Raichel,cs.CG,http://arxiv.org/pdf/1412.1398v1
+1412.1680v3,2014-12-04T14:41:56Z,Topological analysis of scalar fields with outliers,Yusu Wang,cs.CG,http://arxiv.org/pdf/1412.1680v3
+1412.1683v2,2014-12-04T14:46:29Z,"Randomized embeddings with slack, and high-dimensional Approximate   Nearest Neighbor",Ioannis Psarros,cs.CG,http://arxiv.org/pdf/1412.1683v2
+1412.3347v1,2014-12-10T15:57:52Z,Computational Aspects of the Colorful Caratheodory Theorem,Yannik Stein,cs.CG,http://arxiv.org/pdf/1412.3347v1
+1412.3374v1,2014-12-10T17:19:30Z,The rank invariant stability via interleavings,Claudia Landi,cs.CG,http://arxiv.org/pdf/1412.3374v1
+1412.3984v1,2014-12-12T13:18:47Z,Almost Tight Bounds for Conflict-Free Chromatic Guarding of Orthogonal   Galleries,Max Willert,cs.CG,http://arxiv.org/pdf/1412.3984v1
+1412.5034v4,2014-12-16T15:17:15Z,Spiral Toolpaths for High-Speed Machining of 2D Pockets with or without   Islands,Mikkel Abrahamsen,cs.CG,http://arxiv.org/pdf/1412.5034v4
+1412.5153v3,2014-12-16T20:25:55Z,Area and Perimeter of the Convex Hull of Stochastic Points,Pablo Pérez-Lantero,cs.CG,http://arxiv.org/pdf/1412.5153v3
+1412.5697v1,2014-12-18T01:34:32Z,Kinetic $k$-Semi-Yao Graph and its Applications,Sue Whitesides,cs.CG,http://arxiv.org/pdf/1412.5697v1
+1412.6065v2,2014-12-02T10:46:13Z,A Fire Fighter's Problem,Christos Levcopoulos,cs.CG,http://arxiv.org/pdf/1412.6065v2
+1412.6619v3,2014-12-20T07:10:38Z,Planar lower envelope of monotone polygonal chains,Daniel Lu,cs.CG,http://arxiv.org/pdf/1412.6619v3
+1501.00340v3,2015-01-02T02:28:49Z,A Polynomial Time Algorithm to Compute an Approximate Weighted Shortest   Path,Sanjiv Kapoor,cs.CG,http://arxiv.org/pdf/1501.00340v3
+1501.00561v1,2015-01-03T13:08:23Z,A linear-time algorithm for the geodesic center of a simple polygon,Eunjin Oh,cs.CG,http://arxiv.org/pdf/1501.00561v1
+1501.00721v2,2015-01-04T21:04:08Z,Approximation Algorithms for Polynomial-Expansion and Low-Density Graphs,Kent Quanrud,cs.CG,http://arxiv.org/pdf/1501.00721v2
+1501.00933v2,2015-01-05T17:39:34Z,Two-Level Rectilinear Steiner Trees,Nicolas Kämmerling,cs.CG,http://arxiv.org/pdf/1501.00933v2
+1501.01822v1,2015-01-08T12:57:57Z,Central Trajectories,Frank Staals,cs.CG,http://arxiv.org/pdf/1501.01822v1
+1501.03246v1,2015-01-14T04:56:50Z,Tighter Estimates for epsilon-nets for Disks,Saurabh Ray,cs.CG,http://arxiv.org/pdf/1501.03246v1
+1501.03724v1,2015-01-15T16:00:50Z,A faster algorithm for the discrete Fréchet distance under translation,Micha Sharir,cs.CG,http://arxiv.org/pdf/1501.03724v1
+1501.04147v1,2015-01-17T02:56:21Z,Categorified Reeb Graphs,Amit Patel,cs.CG,http://arxiv.org/pdf/1501.04147v1
+1501.04843v1,2015-01-20T15:16:12Z,"Discrete Voronoi Games and $ε$-Nets, in Two and Three Dimensions",Michiel Smid,cs.CG,http://arxiv.org/pdf/1501.04843v1
+1501.06813v1,2015-01-27T16:40:19Z,Mixed Map Labeling,Frank Staals,cs.CG,http://arxiv.org/pdf/1501.06813v1
+1502.01779v1,2015-02-06T02:33:11Z,The Number of Holes in the Union of Translates of a Convex Set in Three   Dimensions,Xavier Goaoc,cs.CG,http://arxiv.org/pdf/1502.01779v1
+1502.02753v4,2015-02-10T01:29:52Z,Ideal Tree-drawings of Approximately Optimal Width (And Small Height),Therese Biedl,cs.CG,http://arxiv.org/pdf/1502.02753v4
+1502.04328v1,2015-02-15T16:18:40Z,Geometric Spanning Cycles in Bichromatic Point Sets,Jorge Urrutia,cs.CG,http://arxiv.org/pdf/1502.04328v1
+1502.04533v1,2015-02-16T13:47:05Z,On the Minimum Cost Range Assignment Problem,Lilach Chaitman-Yerushalmi,cs.CG,http://arxiv.org/pdf/1502.04533v1
+1502.04918v3,2015-02-17T15:18:40Z,A PTAS for the Weighted Unit Disk Cover Problem,Yifei Jin,cs.CG,http://arxiv.org/pdf/1502.04918v3
+1502.05332v1,2015-02-18T18:33:18Z,The number of non-crossing perfect plane matchings is minimized (almost)   only by point sets in convex position,Andrei Asinowski,cs.CG,http://arxiv.org/pdf/1502.05332v1
+1502.06176v1,2015-02-22T04:17:54Z,New separation theorems and sub-exponential time algorithms for packing   and piercing of fat objects,Farhad Shahrokhi,cs.CG,http://arxiv.org/pdf/1502.06176v1
+1502.06195v3,2015-02-22T09:03:07Z,Exact Minkowski Sums of Polygons With Holes,Sebastian Morr,cs.CG,http://arxiv.org/pdf/1502.06195v3
+1502.08048v1,2015-02-27T20:43:08Z,Approximating Nearest Neighbor Distances,Ameya Velingker,cs.CG,http://arxiv.org/pdf/1502.08048v1
+1503.00327v2,2015-03-01T18:47:24Z,Computing in continuous space with self-assembling polygonal tiles,Trent A. Rogers,cs.CG,http://arxiv.org/pdf/1503.00327v2
+1503.01489v2,2015-03-04T22:41:05Z,On Flattenability of Graphs,Joel Willoughby,cs.CG,http://arxiv.org/pdf/1503.01489v2
+1503.01837v1,2015-03-06T03:03:08Z,Combinatorial rigidity and independence of generalized pinned   subspace-incidence constraint systems,Meera Sitharam,cs.CG,http://arxiv.org/pdf/1503.01837v1
+1503.02970v1,2015-03-10T16:16:13Z,Ham-Sandwich Cuts for Abstract Order Types,Alexander Pilz,cs.CG,http://arxiv.org/pdf/1503.02970v1
+1503.03170v2,2015-03-11T04:21:20Z,Min Morse: Approximability & Applications,Abhishek Rathore,cs.CG,http://arxiv.org/pdf/1503.03170v2
+1503.03462v6,2015-03-11T19:36:59Z,On the zone of a circle in an arrangement of lines,Gabriel Nivasch,cs.CG,http://arxiv.org/pdf/1503.03462v6
+1503.05062v1,2015-03-17T14:14:21Z,Modem Illumination of Monotone Polygons,Birgit Vogtenhuber,cs.CG,http://arxiv.org/pdf/1503.05062v1
+1503.05681v1,2015-03-19T09:15:10Z,Combinatorics and complexity of guarding polygons with edge and point   2-transmitters,Christiane Schmidt,cs.CG,http://arxiv.org/pdf/1503.05681v1
+1503.07414v3,2015-03-25T15:11:37Z,Comparing Graphs via Persistence Distortion,Yusu Wang,cs.CG,http://arxiv.org/pdf/1503.07414v3
+1503.07901v3,2015-03-26T21:08:34Z,A Robust and Efficient Method for Solving Point Distance Problems by   Homotopy,Pascal Schreck,cs.CG,http://arxiv.org/pdf/1503.07901v3
+1503.08518v2,2015-03-30T01:36:22Z,The Dual Diameter of Triangulations,Birgit Vogtenhuber,cs.CG,http://arxiv.org/pdf/1503.08518v2
+1504.04938v1,2015-04-20T04:57:15Z,A new separation theorem with geometric applications,Farhad Shahrokhi,cs.CG,http://arxiv.org/pdf/1504.04938v1
+1504.06350v1,2015-04-23T21:43:48Z,A Characterization of Visibility Graphs for Pseudo-Polygons,Qing Wang,cs.CG,http://arxiv.org/pdf/1504.06350v1
+1504.06540v2,2015-04-24T15:26:02Z,Straight-line Drawability of a Planar Graph Plus an Edge,Sheung-Hung Poon,cs.CG,http://arxiv.org/pdf/1504.06540v2
+1504.06582v2,2015-04-24T17:52:30Z,Approximate Fitting of Circular Arcs when Two Points are Known,Alexander Gribov,cs.CG,http://arxiv.org/pdf/1504.06582v2
+1504.06584v1,2015-04-24T18:02:51Z,Searching for a Compressed Polyline with a Minimum Number of Vertices,Alexander Gribov,cs.CG,http://arxiv.org/pdf/1504.06584v1
+1504.07661v2,2015-04-28T21:12:12Z,A Characterization of Consistent Digital Line Segments in Two Dimensions,Matt Gibson,cs.CG,http://arxiv.org/pdf/1504.07661v2
+1504.07685v1,2015-04-28T23:38:35Z,"Fréchet Distance for Curves, Revisited",Carola Wenk,cs.CG,http://arxiv.org/pdf/1504.07685v1
+1504.07883v2,2015-04-29T15:12:18Z,An Optimal Algorithm for Tiling the Plane with a Translated Polyomino,Andrew Winslow,cs.CG,http://arxiv.org/pdf/1504.07883v2
+1505.00874v1,2015-05-05T03:53:52Z,On the Complexity of an Unregulated Traffic Crossing,David M. Mount,cs.CG,http://arxiv.org/pdf/1505.00874v1
+1505.00914v1,2015-05-05T08:31:48Z,An Empirical Evaluation of Preconditioning Data for Accelerating Convex   Hull Computations,Graham Megson,cs.CG,http://arxiv.org/pdf/1505.00914v1
+1505.01410v2,2015-05-06T15:54:32Z,On Monotone Drawings of Trees,Alexander Wolff,cs.CG,http://arxiv.org/pdf/1505.01410v2
+1505.02230v1,2015-05-09T04:49:58Z,"Optimal Morse functions and $H(\mathcal{M}^2,\mathbb{A})$ in   $\tilde{O}(N)$ time",Abhishek Rathore,cs.CG,http://arxiv.org/pdf/1505.02230v1
+1505.02591v1,2015-05-11T12:50:13Z,Linear Time Approximation Schemes for Geometric Maximum Coverage,Ningye Zhang,cs.CG,http://arxiv.org/pdf/1505.02591v1
+1505.03402v1,2015-05-13T14:29:51Z,Relaxed Disk Packing,Vitaliy Kurlin,cs.CG,http://arxiv.org/pdf/1505.03402v1
+1505.03564v1,2015-05-13T22:03:49Z,Some Analytics for Steiner Minimal Tree Problem for Four Terminals,Alexei Yu. Uteshev,cs.CG,http://arxiv.org/pdf/1505.03564v1
+1505.03681v1,2015-05-14T10:59:07Z,A light metric spanner,Lee-Ad Gottlieb,cs.CG,http://arxiv.org/pdf/1505.03681v1
+1505.04093v1,2015-05-15T15:21:52Z,Frechet similarity of closed polygonal curves,V. Yakovenko,cs.CG,http://arxiv.org/pdf/1505.04093v1
+1505.04388v1,2015-05-17T12:20:55Z,Simultaneous Visibility Representations of Plane st-graphs Using   L-shapes,Fabrizio Montecchiani,cs.CG,http://arxiv.org/pdf/1505.04388v1
+1505.05055v3,2015-03-24T22:25:50Z,Morton curve segments produce no more than two distinct face-connected   subdomains,Tobin Isaac,cs.CG,http://arxiv.org/pdf/1505.05055v3
+1505.05106v1,2015-05-19T18:15:07Z,Improved Bounds for Beacon-Based Coverage and Routing in Simple   Rectilinear Polygons,Antoine Vigneron,cs.CG,http://arxiv.org/pdf/1505.05106v1
+1505.05454v1,2015-05-20T17:11:41Z,A probabilistic approach to reducing the algebraic complexity of   computing Delaunay triangulations,Arijit Ghosh,cs.CG,http://arxiv.org/pdf/1505.05454v1
+1505.07873v1,2015-05-28T22:00:34Z,A Geometric Interpretation of the Boolean Gilbert-Johnson-Keerthi   Algorithm,Jeff Linahan,cs.CG,http://arxiv.org/pdf/1505.07873v1
+1506.01769v1,2015-06-05T03:19:57Z,Coresets of obstacles in approximating Euclidean shortest path amid   convex obstacles,Sanjiv Kapoor,cs.CG,http://arxiv.org/pdf/1506.01769v1
+1506.02096v2,2015-06-06T01:10:35Z,Optimum-width upward drawings of trees,Therese Biedl,cs.CG,http://arxiv.org/pdf/1506.02096v2
+1506.02572v3,2015-06-08T16:22:42Z,Probing Convex Polygons with a Wedge,Michiel Smid,cs.CG,http://arxiv.org/pdf/1506.02572v3
+1506.03797v1,2015-06-11T19:42:52Z,A Geometric Perspective on Sparse Filtrations,Donald R. Sheehy,cs.CG,http://arxiv.org/pdf/1506.03797v1
+1506.03865v1,2015-06-11T22:55:07Z,Counterexample for the 2-approximation of finding partitions of   rectilinear polygons with minimum stabbing number,Cid C. de Souza,cs.CG,http://arxiv.org/pdf/1506.03865v1
+1506.04861v1,2015-06-16T07:19:26Z,The Discrete Fréchet Gap,Matthew J. Katz,cs.CG,http://arxiv.org/pdf/1506.04861v1
+1506.05505v1,2015-06-17T21:55:16Z,Drawing the Horton Set in an Integer Grid of Minimum Size,Carlos Hidalgo-Toscano,cs.CG,http://arxiv.org/pdf/1506.05505v1
+1506.06265v1,2015-06-20T16:38:30Z,Certified Computation of planar Morse-Smale Complexes,Chee K. Yap,cs.CG,http://arxiv.org/pdf/1506.06265v1
+1506.07903v4,2015-06-25T21:37:03Z,Constant-Factor Approximation for TSP with Disks,Csaba D. Tóth,cs.CG,http://arxiv.org/pdf/1506.07903v4
+1506.09061v2,2015-06-30T12:35:02Z,Improved Spanning Ratio for Low Degree Plane Spanners,Michiel Smid,cs.CG,http://arxiv.org/pdf/1506.09061v2
+1508.01076v1,2015-08-05T13:58:59Z,Representing Directed Trees as Straight Skeletons,Birgit Vogtenhuber,cs.CG,http://arxiv.org/pdf/1508.01076v1
+1508.01097v2,2015-08-05T15:06:24Z,Finding Points in General Position,Rolf Niedermeier,cs.CG,http://arxiv.org/pdf/1508.01097v2
+1508.02517v1,2015-08-11T08:33:54Z,Hyperorthogonal well-folded Hilbert curves,Herman Haverkort,cs.CG,http://arxiv.org/pdf/1508.02517v1
+1508.03381v1,2015-08-13T23:01:02Z,An Algorithm for Comparing Similarity Between Two Trees,Hangjun Xu,cs.CG,http://arxiv.org/pdf/1508.03381v1
+1508.05488v1,2015-08-22T09:32:11Z,CudaChain: A Practical GPU-accelerated 2D Convex Hull Algorithm,Gang Mei,cs.CG,http://arxiv.org/pdf/1508.05488v1
+1508.05784v1,2015-08-24T12:36:48Z,A Universal Point Set for 2-Outerplanar Graphs,Tamara Mchedlidze,cs.CG,http://arxiv.org/pdf/1508.05784v1
+1508.05931v1,2015-08-22T09:37:52Z,gScan: Accelerating Graham Scan on the GPU,Gang Mei,cs.CG,http://arxiv.org/pdf/1508.05931v1
+1508.06760v1,2015-08-27T09:14:44Z,On Embeddability of Buses in Point Sets,Sergey Pupyrev,cs.CG,http://arxiv.org/pdf/1508.06760v1
+1508.07603v1,2015-08-30T17:25:45Z,Line-of-Sight Pursuit in Strictly Sweepable Polygons,Junyi Wang,cs.CG,http://arxiv.org/pdf/1508.07603v1
+1509.00379v1,2015-09-01T16:24:26Z,On the Readability of Boundary Labeling,Martin Nöllenburg,cs.CG,http://arxiv.org/pdf/1509.00379v1
+1509.00388v2,2015-09-01T16:54:16Z,Recognizing and Drawing IC-planar Graphs,Fabrizio Montecchiani,cs.CG,http://arxiv.org/pdf/1509.00388v2
+1509.00720v1,2015-09-02T14:30:18Z,Recognizing Weighted Disk Contact Graphs,Roman Prutkin,cs.CG,http://arxiv.org/pdf/1509.00720v1
+1509.00835v1,2015-09-02T19:49:36Z,Combinatorial Properties of Triangle-Free Rectangle Arrangements and the   Squarability Problem,Torsten Ueckerdt,cs.CG,http://arxiv.org/pdf/1509.00835v1
+1509.00916v1,2015-09-03T01:57:18Z,Improved and Simplified Inapproximability for k-means,John Wright,cs.CG,http://arxiv.org/pdf/1509.00916v1
+1509.02563v1,2015-09-08T21:32:42Z,Flips and Spanners,Sander Verdonschot,cs.CG,http://arxiv.org/pdf/1509.02563v1
+1509.02576v2,2015-09-08T22:59:44Z,Complexity and Algorithms for the Discrete Fréchet Distance Upper   Bound with Imprecise Input,Binhai Zhu,cs.CG,http://arxiv.org/pdf/1509.02576v2
+1509.02601v1,2015-09-09T01:53:22Z,On the $O_β$-hull of a planar point set,Jorge Urrutia,cs.CG,http://arxiv.org/pdf/1509.02601v1
+1509.02627v1,2015-09-09T03:53:34Z,Rectilinear convex hull with minimum area,Jorge Urrutia,cs.CG,http://arxiv.org/pdf/1509.02627v1
+1509.03447v1,2015-09-11T10:03:35Z,On 4-Map Graphs and 1-Planar Graphs and their Recognition Problem,Franz J. Brandenburg,cs.CG,http://arxiv.org/pdf/1509.03447v1
+1509.03846v1,2015-09-13T13:34:26Z,Improving Lower Bound on Opaque Set for Equilateral Triangle,Taisuke Izumi,cs.CG,http://arxiv.org/pdf/1509.03846v1
+1509.04020v2,2015-09-14T10:28:58Z,A Note on the Size-Sensitive Packing Lemma,Nabil H. Mustafa,cs.CG,http://arxiv.org/pdf/1509.04020v2
+1509.04465v1,2015-09-15T09:42:59Z,Multivariate Topology Simplification,Osamu Saeki,cs.CG,http://arxiv.org/pdf/1509.04465v1
+1509.05265v1,2015-09-17T14:07:47Z,Sync-and-Burst: Force-Directed Graph Drawing with Uniform Force   Magnitudes,Nikola S. Nikolov,cs.CG,http://arxiv.org/pdf/1509.05265v1
+1509.05635v1,2015-09-18T14:10:26Z,Partitioning Graph Drawings and Triangulated Simple Polygons into   Greedily Routable Regions,Ignaz Rutter,cs.CG,http://arxiv.org/pdf/1509.05635v1
+1509.05681v2,2015-09-18T16:03:54Z,Colored Non-Crossing Euclidean Steiner Forest,Alexander Wolff,cs.CG,http://arxiv.org/pdf/1509.05681v2
+1509.05751v1,2015-09-18T19:04:04Z,Computing the Gromov-Hausdorff Distance for Metric Trees,Yusu Wang,cs.CG,http://arxiv.org/pdf/1509.05751v1
+1509.07214v1,2015-09-24T02:47:42Z,Computing the Geodesic Centers of a Polygonal Domain,Yoshio Okamoto,cs.CG,http://arxiv.org/pdf/1509.07214v1
+1509.07669v2,2015-09-25T10:45:49Z,Time-Space Trade-offs for Triangulating a Simple Polygon,Marcel Roeloffzen,cs.CG,http://arxiv.org/pdf/1509.07669v2
+1509.08285v3,2015-09-28T11:59:48Z,"The Continuous 1.5D Terrain Guarding Problem: Discretization, Optimal   Solutions, and PTAS",Christiane Schmidt,cs.CG,http://arxiv.org/pdf/1509.08285v3
+1509.08742v5,2015-09-29T13:30:20Z,A non iterative method of separation of points by planes in n dimensions   and its application,K. Eswaran,cs.CG,http://arxiv.org/pdf/1509.08742v5
+1510.01819v2,2015-10-07T04:14:36Z,Balanced Islands in Two Colored Point Sets in the Plane,Jorge Urrutia,cs.CG,http://arxiv.org/pdf/1510.01819v2
+1510.02484v1,2015-10-08T20:06:34Z,On Contact Graphs with Cubes and Proportional Boxes,Stephen G. Kobourov,cs.CG,http://arxiv.org/pdf/1510.02484v1
+1510.02659v2,2015-10-09T13:00:42Z,Windrose Planarity: Embedding Graphs with Direction-Constrained Edges,Ignaz Rutter,cs.CG,http://arxiv.org/pdf/1510.02659v2
+1510.04608v1,2015-10-15T16:26:40Z,Delaunay Triangulations of Degenerate Point Sets,Micha Sharir,cs.CG,http://arxiv.org/pdf/1510.04608v1
+1510.05891v1,2015-10-20T13:40:33Z,On the Book Thickness of 1-Planar Graphs,Stephen G. Kobourov,cs.CG,http://arxiv.org/pdf/1510.05891v1
+1510.08917v1,2015-10-29T21:41:26Z,A Fast Hyperplane-Based Minimum-Volume Enclosing Simplex Algorithm for   Blind Hyperspectral Unmixing,Tsung-Han Chan,cs.CG,http://arxiv.org/pdf/1510.08917v1
+1511.01612v1,2015-11-05T05:25:15Z,Geodesic Spanners for Points on a Polyhedral Terrain,Mohammad Javad Rezaei Seraji,cs.CG,http://arxiv.org/pdf/1511.01612v1
+1511.04036v1,2015-11-12T19:59:53Z,An Optimal Algorithm for the Separating Common Tangents of two Polygons,Mikkel Abrahamsen,cs.CG,http://arxiv.org/pdf/1511.04036v1
+1511.04123v2,2015-11-12T23:25:04Z,Weight Balancing on Boundaries and Skeletons,Tianhao Wang,cs.CG,http://arxiv.org/pdf/1511.04123v2
+1511.05427v2,2015-11-17T14:57:00Z,A New Matching Algorithm for Multidimensional Persistence,Filippo Masoni,cs.CG,http://arxiv.org/pdf/1511.05427v2
+1511.05479v1,2015-11-17T17:29:56Z,Declutter and Resample: Towards parameter free denoising,Yusu Wang,cs.CG,http://arxiv.org/pdf/1511.05479v1
+1511.07357v1,2015-11-23T18:45:12Z,Proximity in the Age of Distraction: Robust Approximate Nearest Neighbor   Search,Sepideh Mahabadi,cs.CG,http://arxiv.org/pdf/1511.07357v1
+1511.08592v1,2015-11-27T09:44:17Z,On Visibility Representations of Non-planar Graphs,Fabrizio Montecchiani,cs.CG,http://arxiv.org/pdf/1511.08592v1
+1511.08941v2,2015-10-20T07:35:00Z,On the storage and retrieval of primes and other random numbers using   n-dimensional geometry,K. Eswaran,cs.CG,http://arxiv.org/pdf/1511.08941v2
+1512.00174v2,2015-12-01T08:22:50Z,The Partial Visibility Representation Extension Problem,Giuseppe Liotta,cs.CG,http://arxiv.org/pdf/1512.00174v2
+1512.00358v2,2015-12-01T17:43:00Z,Almost Tight Bounds for Eliminating Depth Cycles in Three Dimensions,Micha Sharir,cs.CG,http://arxiv.org/pdf/1512.00358v2
+1512.01485v1,2015-12-04T17:23:37Z,Flips in Edge-Labelled Pseudo-Triangulations,Sander Verdonschot,cs.CG,http://arxiv.org/pdf/1512.01485v1
+1512.01594v2,2015-12-04T23:44:24Z,Pruning Algorithms for Pretropisms of Newton Polytopes,Jan Verschelde,cs.CG,http://arxiv.org/pdf/1512.01594v2
+1512.01699v1,2015-12-05T20:36:01Z,A Note on Approximating 2-Transmitters,Abbas Mehrabi,cs.CG,http://arxiv.org/pdf/1512.01699v1
+1512.02086v2,2015-12-07T15:20:45Z,Hypercube Unfoldings that Tile R^3 and R^2,Joseph O'Rourke,cs.CG,http://arxiv.org/pdf/1512.02086v2
+1512.02257v1,2015-12-07T21:44:54Z,Minimizing the Continuous Diameter when Augmenting Paths and Cycles with   Shortcuts,Michiel Smid,cs.CG,http://arxiv.org/pdf/1512.02257v1
+1512.02356v1,2015-12-08T07:15:56Z,Approximation algorithms for the two-center problem of convex polygon,Subhas C. Nandy,cs.CG,http://arxiv.org/pdf/1512.02356v1
+1512.02730v1,2015-12-09T02:51:42Z,Plane Bichromatic Trees of Low Degree,Michiel Smid,cs.CG,http://arxiv.org/pdf/1512.02730v1
+1512.02794v2,2015-12-09T09:18:19Z,On Computing the Minkowski Difference of Zonotopes,Matthias Althoff,cs.CG,http://arxiv.org/pdf/1512.02794v2
+1512.03359v1,2015-12-10T18:31:14Z,Approximating the Integral Fréchet Distance,Christian Scheffer,cs.CG,http://arxiv.org/pdf/1512.03359v1
+1512.03589v2,2015-12-11T10:46:23Z,"On the Embeddability of Delaunay Triangulations in Anisotropic, Normed,   and Bregman Spaces",Steven J. Gortler,cs.CG,http://arxiv.org/pdf/1512.03589v2
+1512.03897v3,2015-12-12T09:31:22Z,Maximal Parallelograms in Convex Polygons - A Novel Geometric Structure,Kai Jin,cs.CG,http://arxiv.org/pdf/1512.03897v3
+1512.04226v2,2015-12-14T09:28:45Z,Random Sampling with Removal,May Szedlak,cs.CG,http://arxiv.org/pdf/1512.04226v2
+1512.04349v1,2015-12-14T14:56:37Z,Clustering time series under the Fréchet distance,Christian Sohler,cs.CG,http://arxiv.org/pdf/1512.04349v1
+1512.04388v1,2015-12-14T16:20:56Z,Sampling and Reconstruction of Shapes with Algebraic Boundaries,Martin Vetterli,cs.CG,http://arxiv.org/pdf/1512.04388v1
+1512.04856v2,2015-12-15T17:00:49Z,Approximating the Simplicial Depth,Yannik Stein,cs.CG,http://arxiv.org/pdf/1512.04856v2
+1512.06706v1,2015-12-21T17:06:29Z,"Dissection with the Fewest Pieces is Hard, Even to Approximate",Anak Yodpinyanee,cs.CG,http://arxiv.org/pdf/1512.06706v1
+1512.07533v2,2015-12-23T16:33:11Z,Geometric k-Center Problems with Centers Constrained to Two Lines,Naoki Katoh,cs.CG,http://arxiv.org/pdf/1512.07533v2
+1512.07537v2,2015-12-23T16:42:28Z,Linear-Time Fitting of a $k$-Step Function,Tsunehiko Kameda,cs.CG,http://arxiv.org/pdf/1512.07537v2
+1512.08292v1,2015-12-28T00:01:52Z,Guarding the Vertices of an Orthogonal Terrain using Vertex Guards,Saeed Mehrabi,cs.CG,http://arxiv.org/pdf/1512.08292v1
+1512.08846v1,2015-12-30T04:24:58Z,Apollonius Solutions in Rd,Raymond P. Scaringe,cs.CG,http://arxiv.org/pdf/1512.08846v1
+1601.00617v2,2016-01-04T19:38:18Z,Coresets and Sketches,Jeff M. Phillips,cs.CG,http://arxiv.org/pdf/1601.00617v2
+1601.01298v1,2016-01-06T20:26:31Z,"Visibility Graphs, Dismantlability, and the Cops and Robbers Game",Hamideh Vosoughpour,cs.CG,http://arxiv.org/pdf/1601.01298v1
+1601.01598v1,2016-01-07T16:57:56Z,Strongly Monotone Drawings of Planar Graphs,Manfred Scheucher,cs.CG,http://arxiv.org/pdf/1601.01598v1
+1601.01816v2,2016-01-08T10:17:45Z,Outer common tangents and nesting of convex hulls in linear time and   constant workspace,Bartosz Walczak,cs.CG,http://arxiv.org/pdf/1601.01816v2
+1601.04585v1,2016-01-18T15:58:25Z,Approximating Smallest Containers for Packing Three-dimensional Convex   Objects,Nadja Scharf,cs.CG,http://arxiv.org/pdf/1601.04585v1
+1601.04755v2,2016-01-18T23:15:22Z,Approximating the $k$-Level in Three-Dimensional Plane Arrangements,Micha Sharir,cs.CG,http://arxiv.org/pdf/1601.04755v2
+1601.05706v1,2016-01-21T16:52:27Z,Pachinko,Jayson Lynch,cs.CG,http://arxiv.org/pdf/1601.05706v1
+1601.05747v1,2016-01-21T18:44:49Z,Folding Flat Crease Patterns with Thick Materials,Erik D. Demaine,cs.CG,http://arxiv.org/pdf/1601.05747v1
+1601.06865v1,2016-01-26T02:05:10Z,Convex-Arc Drawings of Pseudolines,Torsten Ueckerdt,cs.CG,http://arxiv.org/pdf/1601.06865v1
+1601.07797v1,2016-01-28T15:15:30Z,Reachability Oracles for Directed Transmission Graphs,Paul Seiferth,cs.CG,http://arxiv.org/pdf/1601.07797v1
+1601.07798v1,2016-01-28T15:17:26Z,Spanners for Directed Transmission Graphs,Paul Seiferth,cs.CG,http://arxiv.org/pdf/1601.07798v1
+1602.00399v1,2016-02-01T06:19:18Z,The Price of Order,André van Renssen,cs.CG,http://arxiv.org/pdf/1602.00399v1
+1602.00767v1,2016-02-02T02:23:55Z,Distance-Sensitive Planar Point Location,Bettina Speckmann,cs.CG,http://arxiv.org/pdf/1602.00767v1
+1602.01346v4,2016-02-03T15:50:21Z,C-planarity of Embedded Cyclic c-Graphs,Radoslav Fulek,cs.CG,http://arxiv.org/pdf/1602.01346v4
+1602.03407v1,2016-01-21T22:05:17Z,Random Distances Associated with Arbitrary Polygons: An Algorithmic   Approach between Two Random Points,Jianping Pan,cs.CG,http://arxiv.org/pdf/1602.03407v1
+1602.04152v3,2016-02-12T18:34:57Z,On Metric Multi-Covering Problems,Kasturi Varadarajan,cs.CG,http://arxiv.org/pdf/1602.04152v3
+1602.04707v1,2016-02-11T14:11:54Z,A 3D Sweep Hull Algorithm for computing Convex Hulls and Delaunay   Triangulation,David Sinclair,cs.CG,http://arxiv.org/pdf/1602.04707v1
+1602.04922v1,2016-02-16T06:44:13Z,Faster Bottleneck Non-crossing Matchings of Points in Convex Position,Miloš Stojaković,cs.CG,http://arxiv.org/pdf/1602.04922v1
+1602.05481v1,2016-02-17T16:46:14Z,Improved Bounds on the Stretch Factor of $Y_4$,Naresh Nelavalli,cs.CG,http://arxiv.org/pdf/1602.05481v1
+1602.06245v2,2016-02-19T18:19:05Z,"Scaffoldings and Spines: Organizing High-Dimensional Data Using Cover   Trees, Local Principal Component Analysis, and Persistent Homology",John Harer,cs.CG,http://arxiv.org/pdf/1602.06245v2
+1602.06407v2,2016-02-20T13:38:28Z,A Reduction System for Optimal 1-Planar Graphs,Franz J. Brandenburg,cs.CG,http://arxiv.org/pdf/1602.06407v2
+1602.07348v1,2016-02-23T23:03:39Z,Computing Pretropisms for the Cyclic n-Roots Problem,Jan Verschelde,cs.CG,http://arxiv.org/pdf/1602.07348v1
+1602.07365v1,2016-02-24T01:29:19Z,Constrained Generalized Delaunay Graphs Are Plane Spanners,André van Renssen,cs.CG,http://arxiv.org/pdf/1602.07365v1
+1602.07816v2,2016-02-25T06:14:19Z,Relating Graph Thickness to Planar Layers and Bend Complexity,Debajyoti Mondal,cs.CG,http://arxiv.org/pdf/1602.07816v2
+1603.00580v2,2016-03-02T05:13:13Z,Colored Spanning Graphs for Set Visualization,Takeshi Tokuyama,cs.CG,http://arxiv.org/pdf/1603.00580v2
+1603.02080v1,2016-03-07T14:18:53Z,Finding the Maximum Subset with Bounded Convex Curvature,Mikkel Thorup,cs.CG,http://arxiv.org/pdf/1603.02080v1
+1603.02853v1,2016-03-09T11:33:45Z,Time-Space Trade-off for Finding the k-Visibility Region of a Point in a   Polygon,Wolfgang Mulzer,cs.CG,http://arxiv.org/pdf/1603.02853v1
+1603.03098v1,2016-03-09T23:40:28Z,Notes on Approximation Algorithms for Polynomial-Expansion and   Low-Density Graphs,Kent Quanrud,cs.CG,http://arxiv.org/pdf/1603.03098v1
+1603.03463v1,2016-03-10T21:56:56Z,Generalizing The Morley Trisector and Various Theorems with   Realizability Computations,Eric J. Braude,cs.CG,http://arxiv.org/pdf/1603.03463v1
+1603.03818v1,2016-03-11T23:08:15Z,Degree Four Plane Spanners: Simpler and Better,Duru Türkoǧlu,cs.CG,http://arxiv.org/pdf/1603.03818v1
+1603.04109v1,2016-03-14T01:40:40Z,Combinatorial rigidity of Incidence systems and Application to   Dictionary learning,Menghan Wang,cs.CG,http://arxiv.org/pdf/1603.04109v1
+1603.05944v1,2016-03-18T18:01:16Z,Lower Bounds for Graph Exploration Using Local Policies,James McLurkin,cs.CG,http://arxiv.org/pdf/1603.05944v1
+1603.06077v2,2016-03-19T10:21:30Z,Geometric Hitting Set for Segments of Few Orientations,Cynthia A. Phillips,cs.CG,http://arxiv.org/pdf/1603.06077v2
+1603.06252v1,2016-03-20T18:42:12Z,Grouping Time-varying Data for Interactive Exploration,Frank Staals,cs.CG,http://arxiv.org/pdf/1603.06252v1
+1603.06972v1,2016-03-22T20:41:16Z,On the complexity of minimum-link path problems,Frank Staals,cs.CG,http://arxiv.org/pdf/1603.06972v1
+1603.07021v2,2016-03-22T22:51:55Z,"On the Separability of Stochastic Geometric Objects, with Applications",Ravi Janardan,cs.CG,http://arxiv.org/pdf/1603.07021v2
+1603.07269v1,2016-03-23T16:59:21Z,Congruence Testing of Point Sets in 4 Dimensions,Günter Rote,cs.CG,http://arxiv.org/pdf/1603.07269v1
+1603.07282v1,2016-03-23T17:35:54Z,Applications of incidence bounds in point covering problems,Jesper Sindahl Nielsen,cs.CG,http://arxiv.org/pdf/1603.07282v1
+1603.07401v1,2016-03-24T00:53:05Z,Recognizing Weakly Simple Polygons,Csaba D. Tóth,cs.CG,http://arxiv.org/pdf/1603.07401v1
+1603.07737v1,2016-03-24T20:08:38Z,The Planar Tree Packing Theorem,Csaba D. Tóth,cs.CG,http://arxiv.org/pdf/1603.07737v1
+1603.08116v1,2016-03-26T15:13:17Z,The Parameterized Hardness of the Art Gallery Problem,Tillmann Miltzow,cs.CG,http://arxiv.org/pdf/1603.08116v1
+1603.09596v1,2016-03-31T14:04:30Z,High-dimensional approximate nearest neighbor: k-d Generalized   Randomized Forests,Georgios Samaras,cs.CG,http://arxiv.org/pdf/1603.09596v1
+1604.01183v1,2016-04-05T09:03:03Z,Approximate Polytope Membership Queries,David M. Mount,cs.CG,http://arxiv.org/pdf/1604.01183v1
+1604.01428v1,2016-03-18T10:25:29Z,S-hull: a fast radial sweep-hull routine for Delaunay triangulation,David Sinclair,cs.CG,http://arxiv.org/pdf/1604.01428v1
+1604.03302v2,2016-04-12T08:45:43Z,Homotopy equivalence between Voronoi medusa and Delaunay medusa,Michael Kerber,cs.CG,http://arxiv.org/pdf/1604.03302v2
+1604.03362v1,2016-04-12T12:13:56Z,Straight Skeletons with Additive and Multiplicative Weights and Their   Application to the Algorithmic Generation of Roofs and Terrains,Peter Palfrader,cs.CG,http://arxiv.org/pdf/1604.03362v1
+1604.04707v2,2016-04-16T07:32:54Z,Approximation Algorithms for Max-Morse Matching,Vijay Natarajan,cs.CG,http://arxiv.org/pdf/1604.04707v2
+1604.05350v1,2016-04-18T21:03:31Z,Counting and Enumerating Crossing-free Geometric Graphs,Manuel Wettstein,cs.CG,http://arxiv.org/pdf/1604.05350v1
+1604.07099v1,2016-04-25T00:16:25Z,On Guarding Orthogonal Polygons with Sliding Cameras,Hamideh Vosoughpour,cs.CG,http://arxiv.org/pdf/1604.07099v1
+1604.07100v1,2016-04-25T00:21:59Z,On $r$-Guarding Thin Orthogonal Polygons,Saeed Mehrabi,cs.CG,http://arxiv.org/pdf/1604.07100v1
+1604.07476v4,2016-04-25T23:30:48Z,Optimal Compression of a Polyline with Segments and Arcs,Alexander Gribov,cs.CG,http://arxiv.org/pdf/1604.07476v4
+1604.08698v1,2016-04-29T06:12:59Z,Relative Convex Hull Determination from Convex Hulls in the Plane,H. Reyes,cs.CG,http://arxiv.org/pdf/1604.08698v1
+1604.08797v2,2016-04-29T12:35:54Z,Ortho-polygon Visibility Representations of Embedded Graphs,Stephen K. Wismath,cs.CG,http://arxiv.org/pdf/1604.08797v2
+1605.00967v1,2016-05-03T16:15:57Z,Hierarchical Modeling of Multidimensional Data in Regularly Decomposed   Spaces: Implementation on Computer,Olivier Guye,cs.CG,http://arxiv.org/pdf/1605.00967v1
+1605.02499v1,2016-05-09T09:55:33Z,Geometric Dominating Set and Set Cover via Local Search,Abhiruk Lahiri,cs.CG,http://arxiv.org/pdf/1605.02499v1
+1605.03271v2,2016-05-11T03:35:00Z,A Fast 2-Approximation Algorithm for Guarding Orthogonal Terrains,Alper Üngör,cs.CG,http://arxiv.org/pdf/1605.03271v2
+1605.03542v1,2016-05-11T18:40:58Z,An improved Constant-Factor Approximation Algorithm for Planar   Visibility Counting Problem,Amir Jafari,cs.CG,http://arxiv.org/pdf/1605.03542v1
+1605.03753v3,2016-05-12T10:47:50Z,"A new system of coordinates for the tilings $\{p,3\}$ and   $\{p$$-$$2,4\}$",Maurice Margenstern,cs.CG,http://arxiv.org/pdf/1605.03753v3
+1605.04156v1,2016-05-13T12:34:01Z,Rational Bézier Curves Approximated by Bernstein-Jacobi Hybrid   Polynomial Curves,Mao Shi,cs.CG,http://arxiv.org/pdf/1605.04156v1
+1605.04265v1,2016-05-13T17:34:02Z,An Algorithmic Framework for Labeling Road Maps,Martin Nöllenburg,cs.CG,http://arxiv.org/pdf/1605.04265v1
+1605.04552v2,2016-05-15T13:51:30Z,Boundary modeling in model-based calibration for automotive engines via   the vertex representation of the convex hulls,Florin Nae,cs.CG,http://arxiv.org/pdf/1605.04552v2
+1605.05546v1,2016-05-18T12:21:39Z,Partitions of planar point sets into polygons,Bodhayan Roy,cs.CG,http://arxiv.org/pdf/1605.05546v1
+1605.05629v1,2016-05-18T15:51:22Z,On the Precision to Sort Line-Quadric Intersections,Jack Snoeyink,cs.CG,http://arxiv.org/pdf/1605.05629v1
+1605.09244v1,2016-05-30T14:15:31Z,A Note on the Area Requirement of Euclidean Greedy Embeddings of   Christmas Cactus Graphs,Roman Prutkin,cs.CG,http://arxiv.org/pdf/1605.09244v1
+1605.09250v1,2016-05-30T14:28:31Z,Feature Extraction from Segmentations of Neuromuscular Junctions,Heike Leitte,cs.CG,http://arxiv.org/pdf/1605.09250v1
+1606.00112v1,2016-06-01T04:36:43Z,Nearest-Neighbor Searching Under Uncertainty II,Wuzhou Zhang,cs.CG,http://arxiv.org/pdf/1606.00112v1
+1606.00425v1,2016-06-01T19:53:45Z,How to morph planar graph drawings,Bryan T. Wilkinson,cs.CG,http://arxiv.org/pdf/1606.00425v1
+1606.02220v4,2016-06-07T17:09:56Z,Non-aligned drawings of planar graphs,Claire Pennarun,cs.CG,http://arxiv.org/pdf/1606.02220v4
+1606.02233v1,2016-06-07T17:52:57Z,Order-preserving drawings of trees with approximately optimal height   (and small width),Therese Biedl,cs.CG,http://arxiv.org/pdf/1606.02233v1
+1606.02328v1,2016-06-07T20:41:34Z,Drawing the Almost Convex Set in an Integer Grid of Minimum Size,Pablo Pérez-Lantero,cs.CG,http://arxiv.org/pdf/1606.02328v1
+1606.03357v1,2016-06-10T15:17:26Z,Geometry Helps to Compare Persistence Diagrams,Arnur Nigmetov,cs.CG,http://arxiv.org/pdf/1606.03357v1
+1606.04334v3,2016-06-14T13:04:25Z,Problems on One Way Road Networks,Arindam Karmakar,cs.CG,http://arxiv.org/pdf/1606.04334v3
+1606.06488v1,2016-06-21T09:09:10Z,Discretized Approaches to Schematization,Wouter Meulemans,cs.CG,http://arxiv.org/pdf/1606.06488v1
+1606.06508v1,2016-06-21T10:52:59Z,Fast and accurate normalization of vectors and quaternions,Walter F. Mascarenhas,cs.CG,http://arxiv.org/pdf/1606.06508v1
+1606.06660v1,2016-06-21T17:03:45Z,Mapping polygons to the grid with small Hausdorff and Fréchet distance,Kevin Verbeek,cs.CG,http://arxiv.org/pdf/1606.06660v1
+1606.06940v1,2016-06-22T13:22:18Z,Minimum Rectilinear Polygons for Given Angle Sequences,Alexander Wolff,cs.CG,http://arxiv.org/pdf/1606.06940v1
+1606.08023v1,2016-06-26T11:25:47Z,Searching with Advice: Robot Fence-Jumping,Alexandra Steau,cs.CG,http://arxiv.org/pdf/1606.08023v1
+1606.08824v1,2016-06-28T18:59:22Z,Towards Plane Spanners of Degree 3,Michiel Smid,cs.CG,http://arxiv.org/pdf/1606.08824v1
+1606.09596v1,2016-06-30T18:08:40Z,Minimizing the Total Movement for Movement to Independence Problem on a   Line,Sina Yazdanbod,cs.CG,http://arxiv.org/pdf/1606.09596v1
+1607.00538v1,2016-07-02T17:40:37Z,Reversible Nets of Polyhedra,Kiyoko Matsunaga,cs.CG,http://arxiv.org/pdf/1607.00538v1
+1607.01294v2,2016-07-05T15:22:34Z,Essential Constraints of Edge-Constrained Proximity Graphs,Michiel Smid,cs.CG,http://arxiv.org/pdf/1607.01294v2
+1607.02052v1,2016-07-07T15:40:29Z,Fast and robust mesh generation on the sphere Application to coastal   domains,Jonathan Lambrechts,cs.CG,http://arxiv.org/pdf/1607.02052v1
+1607.03039v2,2016-07-11T17:09:53Z,Clearing an Orthogonal Polygon Using Sliding Robots,Ali Narenji Sheshkalani,cs.CG,http://arxiv.org/pdf/1607.03039v2
+1607.03338v2,2016-07-12T12:49:28Z,Rooted Uniform Monotone Minimum Spanning Trees,Antonios Symvonis,cs.CG,http://arxiv.org/pdf/1607.03338v2
+1607.04005v4,2016-07-14T06:16:49Z,Characterizing minimum-length coordinated motions for two discs,Paul Liu,cs.CG,http://arxiv.org/pdf/1607.04005v4
+1607.04336v1,2016-07-14T22:17:11Z,The Decision Tree Complexity for $k$-SUM is at most Nearly Quadratic,Micha Sharir,cs.CG,http://arxiv.org/pdf/1607.04336v1
+1607.04755v1,2016-07-16T15:53:07Z,High-dimensional approximate $r$-nets,Ioannis Psarros,cs.CG,http://arxiv.org/pdf/1607.04755v1
+1607.04989v2,2016-07-18T09:43:41Z,Stochastic $k$-Center and $j$-Flat-Center Problems,Jian Li,cs.CG,http://arxiv.org/pdf/1607.04989v2
+1607.05347v1,2016-07-18T22:52:01Z,Critical Placements of a Square or Circle amidst Trajectories for   Junction Detection,Maarten Löffler,cs.CG,http://arxiv.org/pdf/1607.05347v1
+1607.05547v1,2016-07-19T12:36:49Z,Fast Algorithms for Diameter-Optimally Augmenting Paths and Trees,Fabian Stehn,cs.CG,http://arxiv.org/pdf/1607.05547v1
+1607.05739v1,2016-07-19T20:05:43Z,Recognition of Triangulation Duals of Simple Polygons With and Without   Holes,Daniela Maftuleac,cs.CG,http://arxiv.org/pdf/1607.05739v1
+1607.06344v1,2016-07-21T14:38:38Z,Solving equations and optimization problems with uncertainty,Hubert Wagner,cs.CG,http://arxiv.org/pdf/1607.06344v1
+1607.06539v1,2016-07-22T02:07:17Z,An Interesting Gadget for Chain Pair Simplification,Tim Wylie,cs.CG,http://arxiv.org/pdf/1607.06539v1
+1607.07256v2,2016-07-25T13:13:18Z,Covering segments with unit squares,Sasanka Roy,cs.CG,http://arxiv.org/pdf/1607.07256v2
+1607.07364v1,2016-07-25T17:08:39Z,Sliding k-Transmitters: Hardness and Approximation,Ziting Yu,cs.CG,http://arxiv.org/pdf/1607.07364v1
+1607.07378v1,2016-07-25T17:38:39Z,Unique Set Cover on Unit Disks and Unit Squares,Saeed Mehrabi,cs.CG,http://arxiv.org/pdf/1607.07378v1
+1607.07421v2,2016-07-25T19:36:40Z,Unfolding Convex Polyhedra via Radially Monotone Cut Trees,Joseph O'Rourke,cs.CG,http://arxiv.org/pdf/1607.07421v2
+1607.08809v1,2016-07-13T08:25:23Z,Adapting polytopes dimension for managing degrees of freedom in   tolerancing analysis,Vincent Delos,cs.CG,http://arxiv.org/pdf/1607.08809v1
+1608.00477v1,2016-08-01T16:02:35Z,Universal Shape Replicators via Self-Assembly with Attractive and   Repulsive Forces,Tim Wylie,cs.CG,http://arxiv.org/pdf/1608.00477v1
+1608.04791v1,2016-08-16T22:01:09Z,Self-Assembly of Shapes at Constant Scale using Repulsive Forces,Tim Wylie,cs.CG,http://arxiv.org/pdf/1608.04791v1
+1608.06039v1,2016-08-22T03:06:15Z,Computing Zigzag Persistent Cohomology,Steve Oudot,cs.CG,http://arxiv.org/pdf/1608.06039v1
+1608.07056v1,2016-08-25T09:05:30Z,Multi-Colored Spanning Graphs,Csaba D. Tóth,cs.CG,http://arxiv.org/pdf/1608.07056v1
+1608.08418v1,2016-08-30T12:28:28Z,1-Bend RAC Drawings of 1-Planar Graphs,Fabrizio Montecchiani,cs.CG,http://arxiv.org/pdf/1608.08418v1
+1608.08425v1,2016-08-30T12:40:40Z,1-bend Upward Planar Drawings of SP-digraphs,Fabrizio Montecchiani,cs.CG,http://arxiv.org/pdf/1608.08425v1
+1608.08662v1,2016-08-30T21:41:16Z,Hanani-Tutte for Radial Planarity II,Marcus Schaefer,cs.CG,http://arxiv.org/pdf/1608.08662v1
+1608.08844v1,2016-08-31T13:37:01Z,Snapping Graph Drawings to the Grid Optimally,Alexander Wolff,cs.CG,http://arxiv.org/pdf/1608.08844v1
+1608.08892v1,2016-08-31T14:43:24Z,Gabriel Triangulations and Angle-Monotone Graphs: Local Routing and   Recognition,Sander Verdonschot,cs.CG,http://arxiv.org/pdf/1608.08892v1
+1608.08899v1,2016-08-31T14:58:55Z,Visibility Representations of Boxes in 2.5 Dimensions,Stephen Wismath,cs.CG,http://arxiv.org/pdf/1608.08899v1
+1609.00523v2,2016-09-02T09:58:10Z,Euclidean 1-center of a set of static and mobile points,Buddhadeb Sau,cs.CG,http://arxiv.org/pdf/1609.00523v2
+1609.00867v1,2016-09-03T21:44:27Z,Updating the Number of Crossings of Complete Geometric Graphs,Ruy Fabila-Monroy,cs.CG,http://arxiv.org/pdf/1609.00867v1
+1609.01662v1,2016-09-06T17:28:49Z,Robust Computation of a Minimum Area Convex Polygon Stabber of a Set of   Isothetic Line Segments,Asish Mukhopadhyay,cs.CG,http://arxiv.org/pdf/1609.01662v1
+1609.04148v1,2016-09-14T07:06:25Z,"Color Spanning Annulus: Square, Rectangle and Equilateral Triangle",Sasanka Roy,cs.CG,http://arxiv.org/pdf/1609.04148v1
+1609.04173v1,2016-09-14T08:45:50Z,Every Schnyder Drawing is a Greedy Embedding,Kasun Samarasinghe,cs.CG,http://arxiv.org/pdf/1609.04173v1
+1609.04606v1,2016-09-15T12:44:25Z,C-Planarity of Overlapping Clusterings Including Unions of Two   Partitions,Sabine Cornelsen,cs.CG,http://arxiv.org/pdf/1609.04606v1
+1609.06295v3,2016-09-20T19:18:08Z,Near-Optimal (Euclidean) Metric Compression,Tal Wagner,cs.CG,http://arxiv.org/pdf/1609.06295v3
+1609.07709v2,2016-09-25T07:22:31Z,Depth contours in arrangements of halfplanes,Micha Sharir,cs.CG,http://arxiv.org/pdf/1609.07709v2
+1609.08132v1,2016-09-26T19:30:37Z,Order-preserving 1-string representations of planar graphs,Martin Derka,cs.CG,http://arxiv.org/pdf/1609.08132v1
+1609.08739v1,2016-09-28T02:36:46Z,Approximate Sparse Linear Regression,Sepideh Mahabadi,cs.CG,http://arxiv.org/pdf/1609.08739v1
+1610.00155v1,2016-10-01T16:18:55Z,How many three-dimensional Hilbert curves are there?,Herman Haverkort,cs.CG,http://arxiv.org/pdf/1610.00155v1
+1610.00361v1,2016-10-02T22:12:56Z,Reconstruction of weakly simple polygons from their edges,Csaba D. Tóth,cs.CG,http://arxiv.org/pdf/1610.00361v1
+1610.00952v1,2016-10-04T12:39:26Z,On colouring point visibility graphs,Bodhayan Roy,cs.CG,http://arxiv.org/pdf/1610.00952v1
+1610.03812v2,2016-10-12T18:21:42Z,Finding Small Hitting Sets in Infinite Range Spaces of Bounded   VC-dimension,Khaled Elbassioni,cs.CG,http://arxiv.org/pdf/1610.03812v2
+1610.06457v1,2016-10-20T15:32:45Z,Matchings in Geometric Graphs,Ahmad Biniaz,cs.CG,http://arxiv.org/pdf/1610.06457v1
+1610.07144v1,2016-10-23T10:50:57Z,Bounded embeddings of graphs in the plane,Radoslav Fulek,cs.CG,http://arxiv.org/pdf/1610.07144v1
+1610.08543v4,2016-10-26T20:40:09Z,An efficient approximation for point set diameter in higher dimensions,Seyed Naser Hashemi,cs.CG,http://arxiv.org/pdf/1610.08543v4
+1611.00106v1,2016-11-01T02:09:38Z,Unfolding Genus-2 Orthogonal Polyhedra with Linear Refinement,Joseph O'Rourke,cs.CG,http://arxiv.org/pdf/1611.00106v1
+1611.01661v1,2016-11-05T15:54:46Z,Spanning Trees in Multipartite Geometric Graphs,Michiel Smid,cs.CG,http://arxiv.org/pdf/1611.01661v1
+1611.02323v1,2016-08-02T04:18:40Z,An Efficient Quasi-physical Algorithm for Packing Equal Circles in a   Circular Container,Tian Xie,cs.CG,http://arxiv.org/pdf/1611.02323v1
+1611.02541v2,2016-11-08T14:53:44Z,"Arc diagrams, flip distances, and Hamiltonian triangulations",Manuel Wettstein,cs.CG,http://arxiv.org/pdf/1611.02541v2
+1611.03260v1,2016-11-10T11:22:51Z,Faster Approximation for Maximum Independent Set on Unit Disk Graph,Sasanka Roy,cs.CG,http://arxiv.org/pdf/1611.03260v1
+1611.03356v1,2016-11-09T13:41:38Z,Numerically stable computation of circular visibility,Tomas Sauer,cs.CG,http://arxiv.org/pdf/1611.03356v1
+1611.03946v1,2016-11-12T03:40:22Z,New method of averaging diffeomorphisms based on Jacobian determinant   and curl vector,Guojun Liao,cs.CG,http://arxiv.org/pdf/1611.03946v1
+1611.06915v2,2016-11-21T17:44:15Z,Space-Efficient Hidden Surface Removal,Rodrigo I. Silveira,cs.CG,http://arxiv.org/pdf/1611.06915v2
+1611.07073v2,2016-11-21T21:45:14Z,Squarability of rectangle arrangements,Martin Töpfer,cs.CG,http://arxiv.org/pdf/1611.07073v2
+1611.07356v1,2016-11-21T00:44:37Z,Fast Classical Scaling,Ron Kimmel,cs.CG,http://arxiv.org/pdf/1611.07356v1
+1611.07360v1,2016-11-21T01:19:28Z,Geodesic Distance Descriptors,Ron Kimmel,cs.CG,http://arxiv.org/pdf/1611.07360v1
+1611.07808v1,2016-11-23T14:21:02Z,Hardness of Liar's Domination on Unit Disk Graphs,Gautam K Das,cs.CG,http://arxiv.org/pdf/1611.07808v1
+1611.08315v1,2016-11-24T21:38:59Z,Universal Guard Problems,Christian Scheffer,cs.CG,http://arxiv.org/pdf/1611.08315v1
+1611.09485v1,2016-11-29T05:03:39Z,Dispersing Points on Intervals,Haitao Wang,cs.CG,http://arxiv.org/pdf/1611.09485v1
+1611.10059v1,2016-11-30T09:30:41Z,An Efficient Algorithm for Vertex Enumeration of Two-Dimensional   Projection of Polytopes,Rajarshi Ray,cs.CG,http://arxiv.org/pdf/1611.10059v1
+1612.01335v1,2016-12-05T13:02:30Z,Randomized Incremental Construction for the Hausdorff Voronoi Diagram of   point clusters,Evanthia Papadopoulou,cs.CG,http://arxiv.org/pdf/1612.01335v1
+1612.01370v1,2016-12-05T14:29:01Z,Minimizing the Continuous Diameter when Augmenting a Tree with a   Shortcut,Michiel Smid,cs.CG,http://arxiv.org/pdf/1612.01370v1
+1612.01696v1,2016-12-06T08:07:36Z,Optimal Approximate Polytope Membership,David M. Mount,cs.CG,http://arxiv.org/pdf/1612.01696v1
+1612.02149v1,2016-12-07T08:41:46Z,Covering many points with a small-area box,Christian Knauer,cs.CG,http://arxiv.org/pdf/1612.02149v1
+1612.02483v1,2016-12-07T23:24:33Z,High Dimensional Consistent Digital Segments,Matias Korman,cs.CG,http://arxiv.org/pdf/1612.02483v1
+1612.02967v1,2016-12-09T10:31:04Z,Dune-CurvilinearGrid: Parallel Dune Grid Manager for Unstructured   Tetrahedral Curvilinear Meshes,Benedikt Oswald,cs.CG,http://arxiv.org/pdf/1612.02967v1
+1612.03854v1,2016-12-12T19:12:47Z,Crossing Number for Graphs With Bounded Pathwidth,Petra Mutzel,cs.CG,http://arxiv.org/pdf/1612.03854v1
+1612.04780v1,2016-12-14T19:33:00Z,Minimum Weight Connectivity Augmentation for Planar Straight-Line Graphs,Charles R. Winston,cs.CG,http://arxiv.org/pdf/1612.04780v1
+1612.04890v1,2016-12-15T00:17:43Z,Stochastic closest-pair problem and most-likely nearest-neighbor search   in tree spaces,Yuan Li,cs.CG,http://arxiv.org/pdf/1612.04890v1
+1612.05101v1,2016-12-15T15:03:57Z,Open problem on risk-aware planning in the plane,Siddhartha Srinivasa,cs.CG,http://arxiv.org/pdf/1612.05101v1
+1612.06954v2,2016-12-21T02:43:53Z,Colored stochastic dominance problems,Yuan Li,cs.CG,http://arxiv.org/pdf/1612.06954v2
+1612.07405v1,2016-12-22T00:55:29Z,Practical linear-space Approximate Near Neighbors in high dimension,Georgios Samaras,cs.CG,http://arxiv.org/pdf/1612.07405v1
+1612.09277v2,2016-12-29T20:22:16Z,On Planar Greedy Drawings of 3-Connected Planar Graphs,Fabrizio Frati,cs.CG,http://arxiv.org/pdf/1612.09277v2
+1701.00679v1,2017-01-03T12:41:18Z,Removing Depth-Order Cycles Among Triangles: An Efficient Algorithm   Generating Triangular Fragments,Mark de Berg,cs.CG,http://arxiv.org/pdf/1701.00679v1
+1701.00921v1,2017-01-04T07:44:19Z,Towards Faithful Graph Visualizations,Seok-Hee Hong,cs.CG,http://arxiv.org/pdf/1701.00921v1
+1701.02200v1,2017-01-09T14:54:03Z,Bounding a global red-blue proportion using local conditions,Shakhar Smorodinsky,cs.CG,http://arxiv.org/pdf/1701.02200v1
+1701.02229v1,2017-01-09T16:17:10Z,Searching edges in the overlap of two plane graphs,Stefan Langerman,cs.CG,http://arxiv.org/pdf/1701.02229v1
+1701.03388v1,2017-01-12T16:01:50Z,Dynamic and Kinetic Conflict-Free Coloring of Intervals with Respect to   Points,Gerhard Woeginger,cs.CG,http://arxiv.org/pdf/1701.03388v1
+1701.05290v1,2017-01-19T03:57:28Z,Range-efficient consistent sampling and locality-sensitive hashing for   polygons,Rasmus Pagh,cs.CG,http://arxiv.org/pdf/1701.05290v1
+1702.01275v1,2017-02-04T11:51:44Z,Geometric Biplane Graphs I: Maximal Graphs,Csaba D. Tóth,cs.CG,http://arxiv.org/pdf/1702.01275v1
+1702.01277v1,2017-02-04T11:51:50Z,Geometric Biplane Graphs II: Graph Augmentation,Csaba D. Tóth,cs.CG,http://arxiv.org/pdf/1702.01277v1
+1702.01524v1,2017-02-06T08:01:16Z,Edge N-Level Sparse Visibility Graphs: Fast Optimal Any-Angle   Pathfinding Using Hierarchical Taut Paths,Hon Wai Leong,cs.CG,http://arxiv.org/pdf/1702.01524v1
+1702.01799v1,2017-02-06T21:31:57Z,Radial Contour Labeling with Straight Leaders,Ignaz Rutter,cs.CG,http://arxiv.org/pdf/1702.01799v1
+1702.01836v1,2017-02-07T01:11:38Z,Linear Time Approximation Schemes for Geometric Maximum Coverage,Ningye Zhang,cs.CG,http://arxiv.org/pdf/1702.01836v1
+1702.03266v1,2017-02-10T17:54:59Z,Two Optimization Problems for Unit Disks,Lazar Milinković,cs.CG,http://arxiv.org/pdf/1702.03266v1
+1702.03364v1,2017-02-11T01:20:50Z,Techniques in Lattice Basis Reduction,Spyros M. Magliveras,cs.CG,http://arxiv.org/pdf/1702.03364v1
+1702.05265v1,2017-02-17T09:19:02Z,T-Shape Visibility Representations of 1-Planar Graphs,Franz J. Brandenburg,cs.CG,http://arxiv.org/pdf/1702.05265v1
+cs/9809035v2,1998-09-18T23:16:06Z,Separation-Sensitive Collision Detection for Convex Objects,Li Zhang,cs.CG,http://arxiv.org/pdf/cs/9809035v2
+cs/9809037v2,1998-09-21T21:55:49Z,Regression Depth and Center Points,Shang-Hua Teng,cs.CG,http://arxiv.org/pdf/cs/9809037v2
+cs/9809123v1,1998-09-30T04:06:36Z,A role of constraint in self-organization,Tadashi Yamazaki,cs.NE,http://arxiv.org/pdf/cs/9809123v1
+cs/9810021v1,1998-10-22T21:01:36Z,Computational Geometry Column 32,Joseph O'Rourke,cs.CG,http://arxiv.org/pdf/cs/9810021v1
+cs/9906022v1,1999-06-22T20:32:57Z,Zero-Parity Stabbing Information,Irena Pashchenko,cs.CG,http://arxiv.org/pdf/cs/9906022v1
+cs/9907001v1,1999-07-02T21:09:55Z,Setting Parameters by Example,David Eppstein,cs.DS,http://arxiv.org/pdf/cs/9907001v1
+cs/9907018v3,1999-07-10T21:29:56Z,Hinged Dissection of Polyominoes and Polyforms,Erich Friedman,cs.CG,http://arxiv.org/pdf/cs/9907018v3
+cs/9907031v1,1999-07-20T20:21:22Z,Beta-Skeletons have Unbounded Dilation,David Eppstein,cs.CG,http://arxiv.org/pdf/cs/9907031v1
+cs/9908003v2,1999-08-03T17:37:04Z,Ununfoldable Polyhedra with Convex Faces,Jack Snoeyink,cs.CG,http://arxiv.org/pdf/cs/9908003v2
+cs/9908005v3,1999-08-11T16:09:59Z,Polygonal Chains Cannot Lock in 4D,Joseph O'Rourke,cs.CG,http://arxiv.org/pdf/cs/9908005v3
+cs/9909001v1,1999-09-01T20:33:20Z,Emerging Challenges in Computational Topology,Denis Zorin,cs.CG,http://arxiv.org/pdf/cs/9909001v1
+cs/9909018v1,1999-09-28T06:56:27Z,Geometric compression for progressive transmission,Pierre-Maris Gandoin,cs.CG,http://arxiv.org/pdf/cs/9909018v1
+cs/9910009v1,1999-10-08T12:04:16Z,Locked and Unlocked Polygonal Chains in 3D,S. Whitesides,cs.CG,http://arxiv.org/pdf/cs/9910009v1
+cs/9910017v1,1999-10-21T21:51:18Z,Finite-resolution hidden surface removal,Jeff Erickson,cs.CG,http://arxiv.org/pdf/cs/9910017v1
+cs/9910024v2,1999-11-01T17:50:19Z,On Reconfiguring Tree Linkages: Trees can Lock,Sue Whitesides,cs.CG,http://arxiv.org/pdf/cs/9910024v2
+cs/9911013v1,1999-11-28T15:43:50Z,PushPush is NP-hard in 3D,The Smith Problem Solving Group,cs.CG,http://arxiv.org/pdf/cs/9911013v1
+cs/9912013v1,1999-12-20T21:50:14Z,Multivariate Regression Depth,David Eppstein,cs.CG,http://arxiv.org/pdf/cs/9912013v1
+cs/0001017v1,2000-01-21T10:02:49Z,Bezier Curves Intersection Using Relief Perspective,Radoslav Hlusek,cs.CG,http://arxiv.org/pdf/cs/0001017v1
+cs/0001019v1,2000-01-24T14:04:42Z,PushPush is NP-hard in 2D,Joseph O'Rourke,cs.CG,http://arxiv.org/pdf/cs/0001019v1
+cs/0001025v1,2000-01-28T14:23:18Z,Computational Geometry Column 38,Joseph O'Rourke,cs.CG,http://arxiv.org/pdf/cs/0001025v1
+cs/0006035v4,2000-06-26T14:56:46Z,On the Development of the Intersection of a Plane with a Polytope,Joseph O'Rourke,cs.CG,http://arxiv.org/pdf/cs/0006035v4
+cs/0007019v1,2000-07-13T14:56:50Z,"Examples, Counterexamples, and Enumeration Results for Foldings and   Unfoldings between Polygons and Polytopes",Joseph O'Rourke,cs.CG,http://arxiv.org/pdf/cs/0007019v1
+cs/0007021v2,2000-07-13T17:34:58Z,PushPush and Push-1 are NP-hard in 2D,Joseph O'Rourke,cs.CG,http://arxiv.org/pdf/cs/0007021v2
+cs/0007042v1,2000-07-29T14:54:50Z,Computational Geometry Column 39,Joseph O'Rourke,cs.CG,http://arxiv.org/pdf/cs/0007042v1
+cs/0010018v1,2000-10-11T20:43:08Z,Internet Packet Filter Management and Rectangle Geometry,S. Muthukrishnan,cs.CG,http://arxiv.org/pdf/cs/0010018v1
+cs/0011026v3,2000-11-20T08:55:49Z,When Can You Fold a Map?,Steven S. Skiena,cs.CG,http://arxiv.org/pdf/cs/0011026v3
+cs/0102004v1,2001-02-06T13:23:00Z,Computational Geometry Column 41,Joseph O'Rourke,cs.CG,http://arxiv.org/pdf/cs/0102004v1
+cs/0103024v1,2001-03-29T04:53:47Z,Notes on computing peaks in k-levels and parametric spanning trees,Takeshi Tokuyama,cs.CG,http://arxiv.org/pdf/cs/0103024v1
+cs/0104016v4,2001-04-18T11:58:25Z,The Gibbs Representation of 3D Rotations,Ian R. Peterson,cs.DS,http://arxiv.org/pdf/cs/0104016v4
+cs/0105017v1,2001-05-08T21:07:43Z,Optimization Over Zonotopes and Training Support Vector Machines,David Eppstein,cs.CG,http://arxiv.org/pdf/cs/0105017v1
+cs/0106003v1,2001-06-03T11:41:56Z,A note on radial basis function computing,W. He,cs.CE,http://arxiv.org/pdf/cs/0106003v1
+cs/0106032v1,2001-06-13T20:42:09Z,Hinged Kite Mirror Dissection,David Eppstein,cs.CG,http://arxiv.org/pdf/cs/0106032v1
+cs/0107023v1,2001-07-18T12:35:53Z,Vertex-Unfoldings of Simplicial Polyhedra,Joseph O'Rourke,cs.CG,http://arxiv.org/pdf/cs/0107023v1
+cs/0107024v1,2001-07-18T13:13:39Z,Enumerating Foldings and Unfoldings between Polygons and Polytopes,Joseph O'Rourke,cs.CG,http://arxiv.org/pdf/cs/0107024v1
+cs/0108021v1,2001-08-28T20:22:25Z,Computational Geometry Column 42,Joseph O'Rourke,cs.CG,http://arxiv.org/pdf/cs/0108021v1
+cs/0110030v2,2001-10-15T18:07:36Z,Dense point sets have sparse Delaunay triangulations,Jeff Erickson,cs.CG,http://arxiv.org/pdf/cs/0110030v2
+cs/0110054v1,2001-10-27T13:34:06Z,Vertex-Unfoldings of Simplicial Manifolds,Joseph O'Rourke,cs.CG,http://arxiv.org/pdf/cs/0110054v1
+cs/0110059v2,2001-10-29T19:26:05Z,Nonorthogonal Polyhedra Built from Rectangles,Joseph O'Rourke,cs.CG,http://arxiv.org/pdf/cs/0110059v2
+cs/0201018v1,2002-01-21T13:39:22Z,Long Proteins with Unique Optimal Foldings in the H-P Model,Michael Soss,cs.CG,http://arxiv.org/pdf/cs/0201018v1
+cs/0203008v1,2002-03-06T13:49:36Z,Computational Geometry Column 43,Joseph O'Rourke,cs.CG,http://arxiv.org/pdf/cs/0203008v1
+cs/0205020v1,2002-05-14T13:58:48Z,A quasi-RBF technique for numerical discretization of PDE's,W. Chen,cs.CE,http://arxiv.org/pdf/cs/0205020v1

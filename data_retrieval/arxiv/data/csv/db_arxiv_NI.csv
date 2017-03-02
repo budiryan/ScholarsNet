@@ -1,0 +1,1000 @@
+cs/9809030v1,1998-09-18T05:18:06Z,"Fast, Approximate Synthesis of Fractional Gaussian Noise for Generating   Self-Similar Network Traffic",Vern Paxson,cs.NI,http://arxiv.org/pdf/cs/9809030v1
+cs/9809039v1,1998-09-22T16:34:07Z,ABR Flow Control for Multipoint Connections,Raj Jain,cs.NI,http://arxiv.org/pdf/cs/9809039v1
+cs/9809040v1,1998-09-22T21:34:27Z,Overload Based Explicit Rate Switch Schemes with MCR Guarantees,Mukul Goyal,cs.NI,http://arxiv.org/pdf/cs/9809040v1
+cs/9809041v1,1998-09-22T21:43:26Z,Design and Analysis of Queue Control Functions for Explicit Rate Switch   Schemes,Sonia Fahmy,cs.NI,http://arxiv.org/pdf/cs/9809041v1
+cs/9809042v1,1998-09-22T22:01:21Z,A Definition of General Weighted Fairness and its Support in Explicit   Rate Switch Algorithms,Mukul Goyal,cs.NI,http://arxiv.org/pdf/cs/9809042v1
+cs/9809043v1,1998-09-22T22:05:42Z,Worst Case Buffer Requirements For Tcp Over ABR,Sonia Fahmy,cs.NI,http://arxiv.org/pdf/cs/9809043v1
+cs/9809045v1,1998-09-23T01:40:13Z,Performance of TCP over ABR with Long-Range Dependent VBR Background   Traffic over Terrestrial and Satellite ATM networks,Sastri Kota,cs.NI,http://arxiv.org/pdf/cs/9809045v1
+cs/9809046v1,1998-09-23T01:49:19Z,Fairness for ABR multipoint-to-point connections,Bobby Vandalore,cs.NI,http://arxiv.org/pdf/cs/9809046v1
+cs/9809047v1,1998-09-23T02:17:51Z,Modeling Traffic Management in ATM Networks with OPNET,Shobana Narayanaswamy,cs.NI,http://arxiv.org/pdf/cs/9809047v1
+cs/9809048v1,1998-09-23T02:21:12Z,laboratories for Data Communications and Computer Networks,Arian Durresi,cs.NI,http://arxiv.org/pdf/cs/9809048v1
+cs/9809052v1,1998-09-23T14:03:39Z,Analysis and Simulation of Delay and Buffer Requirements of   satellite-ATM Networks for TCP/IP Traffic,Jerry Kallaus,cs.NI,http://arxiv.org/pdf/cs/9809052v1
+cs/9809053v1,1998-09-23T14:23:14Z,Improving the Performance of TCP over the ATM-UBR service,Bobby Vandalore,cs.NI,http://arxiv.org/pdf/cs/9809053v1
+cs/9809054v1,1998-09-23T14:28:50Z,Design Issues for providing Minimum Rate Guarantees to the ATM   Unspecified Bit Rate Service,Shivkumar Kalyanaraman,cs.NI,http://arxiv.org/pdf/cs/9809054v1
+cs/9809055v1,1998-09-23T14:49:49Z,Providing Rate Guarantees to TCP over the ATM GFR Service,Bobby Vandalore,cs.NI,http://arxiv.org/pdf/cs/9809055v1
+cs/9809056v1,1998-09-23T15:01:00Z,Analysis and Modeling of Traffic in Modern Data Communication Networks,R. Jain,cs.NI,http://arxiv.org/pdf/cs/9809056v1
+cs/9809057v1,1998-09-23T15:03:58Z,On Determining the Fair Bandwidth Share for ABR Connections in ATM   Networks,Bobby Vandalore,cs.NI,http://arxiv.org/pdf/cs/9809057v1
+cs/9809058v1,1998-09-23T15:09:56Z,The OSU Scheme for Congestion Avoidance in ATM Networks: Lessons Learnt   and Extensions,Ram Viswanathan,cs.NI,http://arxiv.org/pdf/cs/9809058v1
+cs/9809059v1,1998-09-23T15:18:30Z,The ERICA Switch Algorithm for ABR Traffic Management in ATM Networks,Bobby Vandalore,cs.NI,http://arxiv.org/pdf/cs/9809059v1
+cs/9809062v1,1998-09-23T15:54:26Z,Satellite ATM Network Architectural Considerations and TCP/IP   Performance,Raj Jain,cs.NI,http://arxiv.org/pdf/cs/9809062v1
+cs/9809063v1,1998-09-23T15:58:17Z,Performance of Bursty World Wide Web (WWW) Sources over ABR,Seong-Cheol Kim,cs.NI,http://arxiv.org/pdf/cs/9809063v1
+cs/9809065v1,1998-09-23T16:22:42Z,Feedback Consolidation Algorithms for ABR Point-to-Multipoint   Connections in ATM Networks,Pradeep Samudra,cs.NI,http://arxiv.org/pdf/cs/9809065v1
+cs/9809066v1,1998-09-24T02:53:18Z,TCP Selective Acknowledgments and UBR Drop Policies to Improve ATM-UBR   Performance over Terrestrial and Satellite Networks,Sastri Kota,cs.NI,http://arxiv.org/pdf/cs/9809066v1
+cs/9809067v1,1998-09-24T02:56:49Z,A Survey of Protocols and Open Issues in ATM Multipoint Communication,Xiangrong Cai,cs.NI,http://arxiv.org/pdf/cs/9809067v1
+cs/9809068v1,1998-09-24T03:00:49Z,Performance Testing Effort at the ATM Forum: An Overview,Gojko Babic,cs.NI,http://arxiv.org/pdf/cs/9809068v1
+cs/9809069v1,1998-09-24T03:06:39Z,Design Considerations for the Virtual Source/Virtual Destination (VS/VD)   Feature in the ABR Service of ATM Networks,Pradeep Samudra,cs.NI,http://arxiv.org/pdf/cs/9809069v1
+cs/9809070v1,1998-09-24T03:09:09Z,Use-it or Lose-it Policies for the Available Bit Rate (ABR) Service in   ATM Networks,Seong-Cheol Kim,cs.NI,http://arxiv.org/pdf/cs/9809070v1
+cs/9809071v1,1998-09-24T03:12:42Z,UBR+: Improving Performance of TCP over ATM-UBR service,Seong-Cheol Kim,cs.NI,http://arxiv.org/pdf/cs/9809071v1
+cs/9809072v1,1998-09-24T03:15:14Z,Performance of TCP over ABR on ATM backbone and with various VBR traffic   patterns,Seong-Cheol Kim,cs.NI,http://arxiv.org/pdf/cs/9809072v1
+cs/9809073v1,1998-09-24T03:18:01Z,Performance and Buffering Requirements of Internet Protocols over ATM   ABR and UBR Services,Seong-Cheol Kim,cs.NI,http://arxiv.org/pdf/cs/9809073v1
+cs/9809074v1,1998-09-24T03:20:18Z,Performance of TCP/IP Using ATM ABR and UBR Services over Satellite   Networks,Seong-Cheol Kim,cs.NI,http://arxiv.org/pdf/cs/9809074v1
+cs/9809075v1,1998-09-24T03:22:24Z,On Source Rules for ABR Service on ATM Networks with Satellite Links,Fang Lu,cs.NI,http://arxiv.org/pdf/cs/9809075v1
+cs/9809076v1,1998-09-24T03:25:18Z,A Survey of Congestion Control Techniques and Data Link Protocols in   Satellite Networks,Shivkumar Kalyanaraman,cs.NI,http://arxiv.org/pdf/cs/9809076v1
+cs/9809077v1,1998-09-24T03:27:43Z,Source Behavior for ATM ABR Traffic Management: An Explanation,S. Kim,cs.NI,http://arxiv.org/pdf/cs/9809077v1
+cs/9809078v1,1998-09-24T03:30:40Z,Buffer Requirements For TCP/IP Over ABR,Rohit Goyal,cs.NI,http://arxiv.org/pdf/cs/9809078v1
+cs/9809079v1,1998-09-24T03:37:47Z,Potential Networking Applications of Global Positioning Systems (GPS),Raj Jain,cs.NI,http://arxiv.org/pdf/cs/9809079v1
+cs/9809080v1,1998-09-24T03:44:22Z,The OSU Scheme for Congestion Avoidance in ATM networks Using Explicit   Rate Indication,Ram Viswanathan,cs.NI,http://arxiv.org/pdf/cs/9809080v1
+cs/9809082v1,1998-09-24T04:33:40Z,Congestion Control with Explicit Rate Indication,R. Jain,cs.NI,http://arxiv.org/pdf/cs/9809082v1
+cs/9809083v1,1998-09-24T04:36:58Z,"A Brief Overview of ATM: Protocol Layers, LAN Emulation, and Traffic   Management",R. Jain,cs.NI,http://arxiv.org/pdf/cs/9809083v1
+cs/9809084v1,1998-09-24T04:39:05Z,ATM Networks: Issues and Challenges Ahead,R. Jain,cs.NI,http://arxiv.org/pdf/cs/9809084v1
+cs/9809085v1,1998-09-24T04:41:32Z,Congestion Control and Traffic Management in ATM Networks: Recent   Advances and A Survey,R. Jain,cs.NI,http://arxiv.org/pdf/cs/9809085v1
+cs/9809086v1,1998-09-24T04:44:01Z,FDDI: Current Issues and Future Trends,R. Jain,cs.NI,http://arxiv.org/pdf/cs/9809086v1
+cs/9809087v1,1998-09-24T04:46:53Z,A Comparison of Hashing Schemes for Address Lookup in Computer Networks,R. Jain,cs.NI,http://arxiv.org/pdf/cs/9809087v1
+cs/9809088v1,1998-09-24T04:48:52Z,Myths about Congestion Management in High Speed Networks,R. Jain,cs.NI,http://arxiv.org/pdf/cs/9809088v1
+cs/9809089v1,1998-09-24T04:51:20Z,Performance Analysis of FDDI Token Ring Networks: Effect of Parameters   and Guidelines for Setting TTRT,R. Jain,cs.NI,http://arxiv.org/pdf/cs/9809089v1
+cs/9809090v1,1998-09-24T04:54:27Z,Error Characteristics of Fiber Distributed Data Interface (FDDI),R. Jain,cs.NI,http://arxiv.org/pdf/cs/9809090v1
+cs/9809091v1,1998-09-24T04:56:33Z,Congestion Control in Computer Networks: Trends and Issues,R. Jain,cs.NI,http://arxiv.org/pdf/cs/9809091v1
+cs/9809092v1,1998-09-24T04:58:23Z,Characteristics of Destination Address Locality in Computer Networks: A   Comparison of Caching Schemes,R. Jain,cs.NI,http://arxiv.org/pdf/cs/9809092v1
+cs/9809093v1,1998-09-24T05:00:18Z,A Delay Based Approach for Congestion Avoidance in Interconnected   Heterogeneous Computer Networks,R. Jain,cs.NI,http://arxiv.org/pdf/cs/9809093v1
+cs/9809094v1,1998-09-24T05:05:18Z,Congestion Avoidance in Computer Networks with a Connectionless Network   Layer,D. Chiu,cs.NI,http://arxiv.org/pdf/cs/9809094v1
+cs/9809095v1,1998-09-24T05:10:41Z,"Congestion Avoidance in Computer Networks with a Connectionless Network   Layer, Part I: Concepts, Goals and Methodology",K. Ramakrishnan,cs.NI,http://arxiv.org/pdf/cs/9809095v1
+cs/9809096v1,1998-09-24T05:12:55Z,A Timeout Based Congestion Control Scheme for Window Flow- Controlled   Networks,R. Jain,cs.NI,http://arxiv.org/pdf/cs/9809096v1
+cs/9809097v1,1998-09-24T05:19:36Z,Divergence of Timeout Algorithms for Packet Retransmissions,R. Jain,cs.NI,http://arxiv.org/pdf/cs/9809097v1
+cs/9809098v1,1998-09-24T05:23:43Z,On Caching out-of-order packets in window flow controlled networks,R. Jain,cs.NI,http://arxiv.org/pdf/cs/9809098v1
+cs/9809099v1,1998-09-24T05:27:34Z,A Quantitative Measure Of Fairness And Discrimination For Resource   Allocation In Shared Computer Systems,W. Hawe,cs.NI,http://arxiv.org/pdf/cs/9809099v1
+cs/9809100v1,1998-09-24T05:31:55Z,Data Flies Standby with ABR Service,R. Jain,cs.NI,http://arxiv.org/pdf/cs/9809100v1
+cs/9809101v1,1998-09-24T07:53:23Z,Flood Routing Technique for Data Networks,James Breen,cs.NI,http://arxiv.org/pdf/cs/9809101v1
+cs/9809102v1,1998-09-24T08:04:52Z,Analysis of Performance of Dynamic Multicast Routing Algorithms,James Breen,cs.NI,http://arxiv.org/pdf/cs/9809102v1
+cs/9810006v1,1998-10-05T17:50:02Z,The Tiny Tera: A Packet Switch Core,Mark Horowitz,cs.NI,http://arxiv.org/pdf/cs/9810006v1
+cs/9811027v1,1998-11-20T14:33:36Z,Push vs. Pull in Web-Based Network Management,J. P. Martin-Flatin,cs.NI,http://arxiv.org/pdf/cs/9811027v1
+cs/9811028v1,1998-11-20T20:55:45Z,TCP Trunking,S. Y. Wang,cs.NI,http://arxiv.org/pdf/cs/9811028v1
+cs/9901011v1,1999-01-23T00:37:11Z,A Brief History of the Internet,Stephen Wolf,cs.NI,http://arxiv.org/pdf/cs/9901011v1
+cs/9902014v1,1999-02-08T22:46:35Z,Proceedings from Critical Infrastructure: The Path Ahead (XIWT Symposium   on Cross-Industry Activities for Information Infrastructure Robustness),Ekaterina A. Drozdova,cs.NI,http://arxiv.org/pdf/cs/9902014v1
+cs/9904012v1,1999-04-21T21:35:03Z,Active Virtual Network Management Protocol,Stephen F. Bush,cs.NI,http://arxiv.org/pdf/cs/9904012v1
+cs/9904013v1,1999-04-21T21:58:39Z,Network Management of Predictive Mobile Networks,Joseph B. Evans,cs.NI,http://arxiv.org/pdf/cs/9904013v1
+cs/9904014v1,1999-04-22T12:58:23Z,A Control and Management Network for Wireless ATM Systems,K. Sam Shanmugan,cs.NI,http://arxiv.org/pdf/cs/9904014v1
+cs/9904015v1,1999-04-22T15:18:15Z,Mobile ATM Buffer Capacity Analysis,Victor Frost,cs.NI,http://arxiv.org/pdf/cs/9904015v1
+cs/9905006v1,1999-05-11T20:05:36Z,The Design and Analysis of Virtual Network Configuration for a Wireless   Mobile ATM Network,Stephen F. Bush,cs.NI,http://arxiv.org/pdf/cs/9905006v1
+cs/9910018v1,1999-10-21T22:03:45Z,Decoupling Control from Data for TCP Congestion Control,S. Y. Wang,cs.NI,http://arxiv.org/pdf/cs/9910018v1
+cs/0001005v1,2000-01-07T12:54:49Z,Effect of different packet sizes on RED performance,Kenny Pauwels,cs.NI,http://arxiv.org/pdf/cs/0001005v1
+cs/0001007v1,2000-01-10T16:33:15Z,RED behavior with different packet sizes,Kenny Pauwels,cs.NI,http://arxiv.org/pdf/cs/0001007v1
+cs/0002011v1,2000-02-17T21:01:10Z,An Internet Multicast System for the Stock Market,D. H. Shur,cs.NI,http://arxiv.org/pdf/cs/0002011v1
+cs/0006037v1,2000-06-27T20:31:12Z,A Decision-Theoretic Approach to Resource Allocation in Wireless   Multimedia Networks,Stephen B. Wicker,cs.NI,http://arxiv.org/pdf/cs/0006037v1
+cs/0008006v1,2000-08-09T09:40:01Z,Algorithms for Analysing Firewall and Router Access Lists,Scott Hazelhurst,cs.NI,http://arxiv.org/pdf/cs/0008006v1
+cs/0012019v1,2000-12-21T15:26:19Z,A Note on Power-Laws of Internet Topology,Hongsong Chou,cs.NI,http://arxiv.org/pdf/cs/0012019v1
+cs/0105031v1,2001-05-23T18:20:36Z,State Analysis and Aggregation Study for Multicast-based Micro Mobility,Ahmed Helmy,cs.NI,http://arxiv.org/pdf/cs/0105031v1
+cs/0109005v1,2001-09-05T04:31:14Z,Architectural Framework for Large-Scale Multicast in Mobile Ad Hoc   Networks,Ahmed Helmy,cs.NI,http://arxiv.org/pdf/cs/0109005v1
+cs/0111008v1,2001-11-06T10:49:54Z,The Control of a Beamline Over Intranet,P. S. Xu,cs.NI,http://arxiv.org/pdf/cs/0111008v1
+cs/0111027v2,2001-11-09T08:03:06Z,Upgrade of Spring-8 Beamline Network with Vlan Technology Over Gigabit   Ethernet,R. Tanaka,cs.NI,http://arxiv.org/pdf/cs/0111027v2
+cs/0201004v1,2002-01-08T08:34:29Z,Analysis of Non-Gaussian Nature of Network Traffic,Shozo Naito,cs.NI,http://arxiv.org/pdf/cs/0201004v1
+cs/0202008v1,2002-02-08T02:27:43Z,CUP: Controlled Update Propagation in Peer-to-Peer Networks,Mary Baker,cs.NI,http://arxiv.org/pdf/cs/0202008v1
+cs/0204011v1,2002-04-08T08:12:25Z,Fair Stateless Aggregate Traffic Marking using Active Queue Management   Techniques,Ahmed Helmy,cs.NI,http://arxiv.org/pdf/cs/0204011v1
+cs/0205001v2,2002-05-02T16:20:09Z,A Calculus for End-to-end Statistical Service Guarantees,S. D. Patek,cs.NI,http://arxiv.org/pdf/cs/0205001v2
+cs/0205058v1,2002-05-21T15:56:13Z,Content Distribution in Unicast Replica Meshes,Alexei Novikov,cs.NI,http://arxiv.org/pdf/cs/0205058v1
+cs/0207069v1,2002-07-17T19:27:39Z,Small Large-Scale Wireless Networks: Mobility-Assisted Resource   Discovery,Ahmed Helmy,cs.NI,http://arxiv.org/pdf/cs/0207069v1
+cs/0208024v1,2002-08-16T17:21:13Z,Contact-Based Architecture for Resource Discovery (CARD) in Large Scale   MANets,Ahmed Helmy,cs.NI,http://arxiv.org/pdf/cs/0208024v1
+cs/0208025v1,2002-08-16T18:04:10Z,Efficient Micro-Mobility using Intra-domain Multicast-based Mechanisms   (M&M),Ganesha Bhaskara,cs.NI,http://arxiv.org/pdf/cs/0208025v1
+cs/0209004v1,2002-09-03T02:24:02Z,Analysis of Non-Gaussian Nature of Network Traffic and its Implication   on Network Performance,Shozo Naito,cs.NI,http://arxiv.org/pdf/cs/0209004v1
+cs/0209006v2,2002-09-03T20:34:12Z,Fast optical layer mesh protection using pre-cross-connected trails,Anthony M. Ffrench,cs.NI,http://arxiv.org/pdf/cs/0209006v2
+cs/0209011v1,2002-09-05T21:45:57Z,Gossip Based Ad-Hoc Routing,Erran L. Li,cs.NI,http://arxiv.org/pdf/cs/0209011v1
+cs/0209012v1,2002-09-05T22:23:16Z,Analysis of a Cone-Based Distributed Topology Control Algorithm for   Wireless Multi-hop Networks,Roger Wattenhofer,cs.NI,http://arxiv.org/pdf/cs/0209012v1
+cs/0209013v1,2002-09-05T22:47:14Z,Minimum-Energy Mobile Wireless Networks Revisited,Joseph Y. Halpern,cs.NI,http://arxiv.org/pdf/cs/0209013v1
+cs/0301011v1,2003-01-14T21:37:19Z,Open Network Handles Implemented in DNS,Michael J. O'Donnell,cs.NI,http://arxiv.org/pdf/cs/0301011v1
+cs/0302017v1,2003-02-12T22:10:04Z,A Proposal to Separate Handles from Names on the Internet,Michael J. O'Donnell,cs.NI,http://arxiv.org/pdf/cs/0302017v1
+cs/0303012v1,2003-03-18T15:42:06Z,"The measurements, parameters and construction of Web proxy cache",Andrei Sukhov,cs.NI,http://arxiv.org/pdf/cs/0303012v1
+cs/0303014v1,2003-03-18T16:18:34Z,Theoretical study of cache syatems,Andrei Sukhov,cs.NI,http://arxiv.org/pdf/cs/0303014v1
+cs/0303020v1,2003-03-20T18:11:43Z,Complex Systems,Jeffrey B. Smith,cs.NI,http://arxiv.org/pdf/cs/0303020v1
+cs/0303028v2,2003-03-26T12:03:53Z,The missing links in the BGP-based AS connectivity maps,Raul J. Mondragon,cs.NI,http://arxiv.org/pdf/cs/0303028v2
+cs/0303029v4,2003-03-26T12:22:49Z,Towards Modelling The Internet Topology - The Interactive Growth Model,Raul J. Mondragon,cs.NI,http://arxiv.org/pdf/cs/0303029v4
+cs/0303030v4,2003-03-26T12:31:13Z,Analyzing and modelling the AS-level Internet topology,Raul J. Mondragon,cs.NI,http://arxiv.org/pdf/cs/0303030v4
+cs/0305064v1,2003-05-30T17:00:49Z,The use of Ethernet in the DataFlow of the ATLAS Trigger & DAQ,Emil Knezo,cs.NI,http://arxiv.org/pdf/cs/0305064v1
+cs/0306037v1,2003-06-09T08:36:10Z,Flow-based analysis of Internet traffic,A. Sukhov,cs.NI,http://arxiv.org/pdf/cs/0306037v1
+cs/0307012v2,2003-07-04T19:40:53Z,Observation-based Cooperation Enforcement in Ad Hoc Networks,Mary Baker,cs.NI,http://arxiv.org/pdf/cs/0307012v2
+cs/0307024v1,2003-07-10T15:14:56Z,Architecture of monitoring elements for the network element modeling in   a Grid infrastructure,C. Vistoli,cs.NI,http://arxiv.org/pdf/cs/0307024v1
+cs/0307026v1,2003-07-10T20:25:36Z,Improving the Security and Performance of the BaBar Detector Controls   System,Karen D. Kotturi,cs.NI,http://arxiv.org/pdf/cs/0307026v1
+cs/0308036v2,2003-08-21T11:05:19Z,The Rich-Club Phenomenon In The Internet Topology,Raul J Mondragon,cs.NI,http://arxiv.org/pdf/cs/0308036v2
+cs/0309054v1,2003-09-29T19:34:34Z,Active Internet Traffic Filtering: Real-time Response to Denial of   Service Attacks,David R. Cheriton,cs.NI,http://arxiv.org/pdf/cs/0309054v1
+cs/0311013v1,2003-11-12T22:48:52Z,Optimized Flooding Protocol for Ad hoc Networks,Raj Jain,cs.NI,http://arxiv.org/pdf/cs/0311013v1
+cs/0401010v1,2004-01-14T02:32:19Z,On the Cost of Participating in a Peer-to-Peer Network,John Chuang,cs.NI,http://arxiv.org/pdf/cs/0401010v1
+cs/0402011v4,2004-02-05T16:46:35Z,Accurately modeling the Internet topology,Raul J. Mondragon,cs.NI,http://arxiv.org/pdf/cs/0402011v4
+cs/0402026v1,2004-02-12T19:09:08Z,Redundancy and Robustness of the AS-level Internet topology and its   models,Raul J. Mondragon,cs.NI,http://arxiv.org/pdf/cs/0402026v1
+cs/0403042v2,2004-03-29T19:24:14Z,Protecting Public-Access Sites Against Distributed Denial-of-Service   Attacks,David R. Cheriton,cs.NI,http://arxiv.org/pdf/cs/0403042v2
+cs/0405096v1,2004-05-26T11:46:36Z,Developing Intellectual Network Management Facilities by Means of   Pattern Recognition Theory,Yuriy A. Chashkov,cs.NI,http://arxiv.org/pdf/cs/0405096v1
+cs/0406019v1,2004-06-12T03:27:27Z,Providing Service Guarantees in High-Speed Switching Systems with   Feedback Output Queuing,Nicolas Christin,cs.NI,http://arxiv.org/pdf/cs/0406019v1
+cs/0408022v1,2004-08-09T08:28:41Z,Diagnosabilities of regular networks,Gen-Huey Chen,cs.NI,http://arxiv.org/pdf/cs/0408022v1
+cs/0408024v1,2004-08-10T03:23:47Z,Non-uniform Information Dissemination for Sensor Networks,Nael B. Abu-Ghazaleh,cs.NI,http://arxiv.org/pdf/cs/0408024v1
+cs/0408042v1,2004-08-18T14:07:20Z,Dynamic Localization Protocols for Mobile Sensor Networks,Kyoung-Don Kang,cs.NI,http://arxiv.org/pdf/cs/0408042v1
+cs/0409022v1,2004-09-13T17:49:49Z,Two Models for the Study of Congested Internet Connections,James Yorke,cs.NI,http://arxiv.org/pdf/cs/0409022v1
+cs/0411013v1,2004-11-07T21:39:18Z,Efficient Algorithms for Large-Scale Topology Discovery,Mark Crovella,cs.NI,http://arxiv.org/pdf/cs/0411013v1
+cs/0411017v1,2004-11-08T19:32:39Z,"Analysis of 802.11b MAC: A QoS, Fairness, and Performance Perspective",Srikant Sharma,cs.NI,http://arxiv.org/pdf/cs/0411017v1
+cs/0411039v1,2004-11-12T22:52:33Z,Using Wireless Sensor Networks to Narrow the Gap between Low-Level   Information and Context-Awareness,Sherali Zeadally,cs.NI,http://arxiv.org/pdf/cs/0411039v1
+cs/0411040v1,2004-11-12T22:55:28Z,Efficient Even Distribution of Power Consumption in Wireless Sensor   Networks,Ioan Raicu,cs.NI,http://arxiv.org/pdf/cs/0411040v1
+cs/0411043v1,2004-11-12T22:40:07Z,e3D: An Energy-Efficient Routing Algorithm for Wireless Sensor Networks,Sandeep K. S. Gupta,cs.NI,http://arxiv.org/pdf/cs/0411043v1
+cs/0411044v1,2004-11-12T22:42:28Z,Routing Algorithms for Wireless Sensor Networks,Ioan Raicu,cs.NI,http://arxiv.org/pdf/cs/0411044v1
+cs/0411051v1,2004-11-16T03:43:14Z,Describing and Simulating Internet Routes,Kave Salamatian,cs.NI,http://arxiv.org/pdf/cs/0411051v1
+cs/0411053v1,2004-11-17T13:08:43Z,Vers un environnement multi personnalites pour la configuration et le   deploiement d'applications a base de composants logiciels,Philippe Merle,cs.NI,http://arxiv.org/pdf/cs/0411053v1
+cs/0411054v1,2004-11-17T13:26:46Z,J2EE Deployment: The JOnAS Case Study,Francois Exertier,cs.NI,http://arxiv.org/pdf/cs/0411054v1
+cs/0411055v1,2004-11-17T13:27:17Z,SDS : Une infrastructure d'installation de logiciels libres pour des   organisations multi-sites,Miguel Santana,cs.NI,http://arxiv.org/pdf/cs/0411055v1
+cs/0411056v1,2004-11-17T13:31:10Z,Adaptation dynamique de services,Costin Miron,cs.NI,http://arxiv.org/pdf/cs/0411056v1
+cs/0411057v1,2004-11-17T13:34:06Z,Runtime Reconfiguration of J2EE Applications,Wilhelm Hasselbring,cs.NI,http://arxiv.org/pdf/cs/0411057v1
+cs/0411058v1,2004-11-17T13:34:31Z,Deployment in dynamic environments,Cristina Diaz,cs.NI,http://arxiv.org/pdf/cs/0411058v1
+cs/0411059v1,2004-11-17T13:35:35Z,OpenCCM : une infrastructure a composants pour le deploiement   d'applications a base de composants CORBA,Philippe Merle,cs.NI,http://arxiv.org/pdf/cs/0411059v1
+cs/0411060v1,2004-11-17T13:36:17Z,Gestion du deploiement de composants sur reseau P2P,Stephane Frenot,cs.NI,http://arxiv.org/pdf/cs/0411060v1
+cs/0411061v1,2004-11-17T13:41:50Z,Un meta-modele pour l'automatisation du deploiement d'applications   logicielles,Noelle Merle,cs.NI,http://arxiv.org/pdf/cs/0411061v1
+cs/0411062v1,2004-11-17T13:43:11Z,FROGi : Deploiement de composants Fractal sur OSGi,Mikael Desertot,cs.NI,http://arxiv.org/pdf/cs/0411062v1
+cs/0411070v1,2004-11-18T23:19:44Z,Data Path Processing in Fast Programmable Routers,Pradipta De,cs.NI,http://arxiv.org/pdf/cs/0411070v1
+cs/0411079v1,2004-11-22T18:10:32Z,Supporting Bandwidth Guarantee and Mobility for Real-Time Applications   on Wireless LANs,Tzi-cker Chiueh,cs.NI,http://arxiv.org/pdf/cs/0411079v1
+cs/0411081v1,2004-11-24T10:26:10Z,Reconfigurations dynamiques de services dans un intergiciel a composants   CORBA CCM,Bertil Folliot,cs.NI,http://arxiv.org/pdf/cs/0411081v1
+cs/0411082v1,2004-11-24T10:27:39Z,Support pour la reconfiguration d'implantation dans les applications a   composants Java,Jean-Bernard Stefani,cs.NI,http://arxiv.org/pdf/cs/0411082v1
+cs/0411083v1,2004-11-24T10:29:07Z,Contractualisation des ressources pour le deploiement des composants   logiciels,Nicolas Le Sommer,cs.NI,http://arxiv.org/pdf/cs/0411083v1
+cs/0411084v1,2004-11-24T10:30:30Z,Gestion transactionnelle de la reprise sur erreurs dans le deploiement,Didier Donsez,cs.NI,http://arxiv.org/pdf/cs/0411084v1
+cs/0411085v1,2004-11-24T10:31:48Z,Deploiement d'ordonnanceurs de processus specifiques dans un systeme   d'exploitation generaliste,Richard Urunuela,cs.NI,http://arxiv.org/pdf/cs/0411085v1
+cs/0411086v1,2004-11-24T10:32:59Z,A Software Architecture for Automatic Deployment of CORBA Components   Using Grid Technologies,Thierry Priol,cs.NI,http://arxiv.org/pdf/cs/0411086v1
+cs/0411087v1,2004-11-24T13:01:30Z,Pandora : une plate-forme efficace pour la construction d'applications   autonomes,Mesaac Makpangou,cs.NI,http://arxiv.org/pdf/cs/0411087v1
+cs/0411088v1,2004-11-24T13:31:25Z,Des correctifs de securite a la mise a jour,Jean-Marc Menaud,cs.NI,http://arxiv.org/pdf/cs/0411088v1
+cs/0411089v1,2004-11-24T13:32:21Z,Gestion Dynamique des Services Techniques pour Modele a Composants,Sylvain Lecomte,cs.NI,http://arxiv.org/pdf/cs/0411089v1
+cs/0411090v1,2004-11-25T09:04:13Z,Local heuristics and the emergence of spanning subgraphs in complex   networks,V. C. Barbosa,cs.NI,http://arxiv.org/pdf/cs/0411090v1
+cs/0412020v1,2004-12-04T18:30:47Z,Towards Reliable Network Wide Broadcast in Mobile Ad Hoc Networks,Nael Abu-Ghazaleh,cs.NI,http://arxiv.org/pdf/cs/0412020v1
+cs/0412039v1,2004-12-09T16:57:05Z,Security in Carrier Class Server Applications for All-IP Networks,Makan Pourzandi,cs.NI,http://arxiv.org/pdf/cs/0412039v1
+cs/0501027v2,2005-01-13T23:37:10Z,Enforcing Bulk Mail Classification,David R. Cheriton,cs.NI,http://arxiv.org/pdf/cs/0501027v2
+cs/0503010v2,2005-03-03T16:20:19Z,Optimized network structure and routing metric in wireless multihop ad   hoc communication,Martin Greiner,cs.NI,http://arxiv.org/pdf/cs/0503010v2
+cs/0503051v1,2005-03-22T03:23:17Z,Construction of Small Worlds in the Physical Topology of Wireless   Networks,Yinlong Xu,cs.NI,http://arxiv.org/pdf/cs/0503051v1
+cs/0503090v1,2005-03-31T09:01:41Z,Effects of variations of load distribution on network performance,Francesco Sorrentino,cs.NI,http://arxiv.org/pdf/cs/0503090v1
+cs/0504002v1,2005-04-01T18:16:46Z,On the Effect of Fading on Ad hoc Networking,Nael Abu-Ghazaleh,cs.NI,http://arxiv.org/pdf/cs/0504002v1
+cs/0504040v1,2005-04-11T17:03:04Z,DTN Routing in a Mobility Pattern Space,Vania Conan,cs.NI,http://arxiv.org/pdf/cs/0504040v1
+cs/0504073v1,2005-04-15T03:01:16Z,Rendezvous Regions: A Scalable Architecture for Resource Discovery and   Service Location in Large-Scale Mobile Networks,Ahmed Helmy,cs.NI,http://arxiv.org/pdf/cs/0504073v1
+cs/0504111v1,2005-04-29T18:37:09Z,Efficient and Robust Geocasting Protocols for Sensor Networks,Ahmed Helmy,cs.NI,http://arxiv.org/pdf/cs/0504111v1
+cs/0506071v3,2005-06-16T11:40:54Z,Signal transmission on lossy lines as a dissipative quantum state   propagation,Yu. Reznykov,cs.NI,http://arxiv.org/pdf/cs/0506071v3
+cs/0506099v1,2005-06-28T20:29:36Z,DIMES: Let the Internet Measure Itself,Eran Shir,cs.NI,http://arxiv.org/pdf/cs/0506099v1
+cs/0507009v1,2005-07-05T00:59:17Z,MAEC : A Movement-Assisted Energy Conserving Method in Event Driven   Wireless Sensor Networks,Guosheng Huang,cs.NI,http://arxiv.org/pdf/cs/0507009v1
+cs/0507021v1,2005-07-07T16:28:13Z,Finding routes in anonymous sensor networks,Valmir C. Barbosa,cs.NI,http://arxiv.org/pdf/cs/0507021v1
+cs/0507046v1,2005-07-19T07:15:36Z,Revisiting Internet AS-level Topology Discovery,George Riley,cs.NI,http://arxiv.org/pdf/cs/0507046v1
+cs/0508009v1,2005-08-02T01:54:05Z,IMPACT: Investigation of Mobile-user Patterns Across University Campuses   using WLAN Trace Analysis,Ahmed Helmy,cs.NI,http://arxiv.org/pdf/cs/0508009v1
+cs/0508010v1,2005-08-02T04:04:24Z,ATTENTION: ATTackEr traceback using MAC layer abNormality detecTION,Ahmed Helmy,cs.NI,http://arxiv.org/pdf/cs/0508010v1
+cs/0508016v1,2005-08-02T14:35:12Z,Distributed Algorithms for Optimal Rate-Reliability Tradeoff in Networks,A. Robert Calderbank,cs.NI,http://arxiv.org/pdf/cs/0508016v1
+cs/0508021v1,2005-08-02T19:32:54Z,Toward Compact Interdomain Routing,kc claffy,cs.NI,http://arxiv.org/pdf/cs/0508021v1
+cs/0508131v1,2005-08-31T13:53:26Z,Point Process Models of 1/f Noise and Internet Traffic,J. Ruseckas,cs.NI,http://arxiv.org/pdf/cs/0508131v1
+cs/0510006v1,2005-10-03T15:51:41Z,Using the Modified Allan Variance for Accurate Estimation of the Hurst   Parameter of Long-Range Dependent Traffic,Luca Primerano,cs.NI,http://arxiv.org/pdf/cs/0510006v1
+cs/0510028v1,2005-10-11T16:20:28Z,Geo-aggregation permits low stretch and routing tables of logarithmical   size,Victor S. Grishchenko,cs.NI,http://arxiv.org/pdf/cs/0510028v1
+cs/0510052v2,2005-10-18T13:01:08Z,"Remarks on ""Toward Compact Interdomain Routing""",Victor S. Grishchenko,cs.NI,http://arxiv.org/pdf/cs/0510052v2
+cs/0510082v1,2005-10-26T14:42:59Z,Architectural Considerations for a Self-Configuring Routing Scheme for   Spontaneous Networks,Marcelo Dias De Amorim,cs.NI,http://arxiv.org/pdf/cs/0510082v1
+cs/0511031v2,2005-11-08T00:14:06Z,Internet Protocol Black Holes: A E-Security Threat,Prashant,cs.NI,http://arxiv.org/pdf/cs/0511031v2
+cs/0511053v1,2005-11-14T16:32:21Z,A Model Based Approach to Reachability Routing,Naren Ramakrishnan,cs.NI,http://arxiv.org/pdf/cs/0511053v1
+cs/0511059v2,2005-11-15T23:06:28Z,Virtual Coordinate Backtracking for Void Traversal in Geographic Routing,Nael Abu-Ghazaleh,cs.NI,http://arxiv.org/pdf/cs/0511059v2
+cs/0511062v1,2005-11-16T16:24:23Z,Analytic performance comparison of routing protocols in master-slave PLC   networks,Yeqiong Song,cs.NI,http://arxiv.org/pdf/cs/0511062v1
+cs/0511080v1,2005-11-22T10:59:50Z,A dissemination strategy for immunizing scale-free networks,Valmir C. Barbosa,cs.NI,http://arxiv.org/pdf/cs/0511080v1
+cs/0511101v4,2005-11-29T12:52:21Z,Chinese Internet AS-level Topology,Guo-Qing Zhang,cs.NI,http://arxiv.org/pdf/cs/0511101v4
+cs/0511102v1,2005-11-29T19:38:58Z,Evaluating Mobility Pattern Space Routing for DTNs,Vania Conan,cs.NI,http://arxiv.org/pdf/cs/0511102v1
+cs/0512011v3,2005-12-02T18:24:10Z,Understanding the internet topology evolution dynamics,Shi Zhou,cs.NI,http://arxiv.org/pdf/cs/0512011v3
+cs/0512092v1,2005-12-22T22:17:20Z,The Limits of Motion Prediction Support for Ad hoc Wireless Network   Performance,Nathan Smith,cs.NI,http://arxiv.org/pdf/cs/0512092v1
+cs/0512094v1,2005-12-23T21:45:46Z,Low-Energy Sensor Network Time Synchronization as an Emergent Property,Stephen F. Bush,cs.NI,http://arxiv.org/pdf/cs/0512094v1
+cs/0601015v1,2006-01-06T09:35:35Z,Perturbation Analysis of a Variable M/M/1 Queue: A Probabilistic   Approach,Philippe Robert,cs.NI,http://arxiv.org/pdf/cs/0601015v1
+cs/0601016v1,2006-01-06T09:36:45Z,Integration of streaming services and TCP data transmission in the   Internet,Philippe Robert,cs.NI,http://arxiv.org/pdf/cs/0601016v1
+cs/0602034v3,2006-02-09T03:25:21Z,A topology visualisation tool for large-scale communications networks,Shi Zhou,cs.NI,http://arxiv.org/pdf/cs/0602034v3
+cs/0602094v2,2006-02-27T12:37:34Z,Effect of CSMA/CD on Self-Similarity of Network Traffic,Altyeb Altaher,cs.NI,http://arxiv.org/pdf/cs/0602094v2
+cs/0603062v3,2006-03-16T16:13:11Z,Implementation and Deployment of a Distributed Network Topology   Discovery Algorithm,kc claffy,cs.NI,http://arxiv.org/pdf/cs/0603062v3
+cs/0604017v3,2006-04-06T01:04:05Z,AS Relationships: Inference and Validation,George Riley,cs.NI,http://arxiv.org/pdf/cs/0604017v3
+cs/0604053v1,2006-04-12T17:10:23Z,Survivable Routing in IP-over-WDM Networks in the Presence of Multiple   Failures,Patrick Thiran,cs.NI,http://arxiv.org/pdf/cs/0604053v1
+cs/0604096v1,2006-04-25T02:55:51Z,Polynomial-time algorithms for coding across multiple unicasts,Tracey Ho,cs.NI,http://arxiv.org/pdf/cs/0604096v1
+cs/0604105v1,2006-04-26T11:39:51Z,Jumps: Enhancing hop-count positioning in sensor networks using multiple   coordinates,David Simplot-Ryl,cs.NI,http://arxiv.org/pdf/cs/0604105v1
+cs/0605042v2,2006-05-09T19:14:52Z,Throughput Optimal Distributed Control of Stochastic Wireless Networks,Edmund M. Yeh,cs.NI,http://arxiv.org/pdf/cs/0605042v2
+cs/0605052v2,2006-05-11T21:15:31Z,"Node-Based Optimal Power Control, Routing, and Congestion Control in   Wireless Networks",Edmund M. Yeh,cs.NI,http://arxiv.org/pdf/cs/0605052v2
+cs/0605061v1,2006-05-15T10:25:04Z,An Internet Framework to Bring Coherence between WAP and HTTP Ensuring   Better Mobile Internet Security,Minhaz Fahim Zibran,cs.NI,http://arxiv.org/pdf/cs/0605061v1
+cs/0605062v1,2006-05-15T10:39:40Z,QoSIP: A QoS Aware IP Routing Ptotocol for Multimedia Data,Md. Golam Shagadul Amin Talukder,cs.NI,http://arxiv.org/pdf/cs/0605062v1
+cs/0605080v1,2006-05-18T15:40:04Z,A Locating-First Approach for Scalable Overlay Multicast,Walid Dabbous,cs.NI,http://arxiv.org/pdf/cs/0605080v1
+cs/0605089v1,2006-05-20T04:50:09Z,Aligned Virtual Coordinates for Greedy Routing in WSNs,Nael Abu-Ghazaleh,cs.NI,http://arxiv.org/pdf/cs/0605089v1
+cs/0605133v1,2006-05-29T16:08:27Z,Efficient Route Tracing from a Single Source,Benoit Donnet Philippe Raoult Timur Friedman,cs.NI,http://arxiv.org/pdf/cs/0605133v1
+cs/0605134v1,2006-05-29T17:33:00Z,DSR with Non-Optimal Route Suppression for MANETs,Chiew-Tong Lau,cs.NI,http://arxiv.org/pdf/cs/0605134v1
+cs/0606002v2,2006-06-01T01:21:39Z,Mining Behavioral Groups in Large Wireless LANs,Ahmed Helmy,cs.NI,http://arxiv.org/pdf/cs/0606002v2
+cs/0606005v1,2006-06-01T07:00:41Z,The KAA project: a trust policy point of view,Stéphane Ubéda,cs.NI,http://arxiv.org/pdf/cs/0606005v1
+cs/0606054v1,2006-06-12T19:30:50Z,Threshold-Controlled Global Cascading in Wireless Sensor Networks,Boleslaw K. Szymanski,cs.NI,http://arxiv.org/pdf/cs/0606054v1
+cs/0606076v1,2006-06-16T14:32:10Z,A Flexible Bandwidth Reservation Framework for Bulk Data Transfers in   Grid Networks,Pascale Primet,cs.NI,http://arxiv.org/pdf/cs/0606076v1
+cs/0607038v2,2006-07-09T10:40:26Z,Retouched Bloom Filters: Allowing Networked Applications to Flexibly   Trade Off False Positives Against False Negatives,Timur Friedman,cs.NI,http://arxiv.org/pdf/cs/0607038v2
+cs/0607097v1,2006-07-20T15:29:05Z,Dynamic Packet Aggregation to Solve Performance Anomaly in 802.11   Wireless Networks,Serge Fdida,cs.NI,http://arxiv.org/pdf/cs/0607097v1
+cs/0607137v1,2006-07-29T01:45:39Z,Multicasting with selective delivery: A SafetyNet for vertical handoffs,Aruna Seneviratne,cs.NI,http://arxiv.org/pdf/cs/0607137v1
+cs/0608012v2,2006-08-02T14:26:30Z,"Opti{c,m}al: Optical/Optimal Routing in Massively Dense Wireless   Networks",G. Morabito,cs.NI,http://arxiv.org/pdf/cs/0608012v2
+cs/0608025v1,2006-08-04T11:44:31Z,User-Network Association in a WLAN-UMTS Hybrid Cell: Global & Individual   Optimality,Jean-Marc Kelif,cs.NI,http://arxiv.org/pdf/cs/0608025v1
+cs/0608026v1,2006-08-04T11:53:04Z,New Cross-Layer Channel Switching Policy for TCP Transmission on 3G UMTS   Downlink,Jean-Marc Kelif,cs.NI,http://arxiv.org/pdf/cs/0608026v1
+cs/0608041v1,2006-08-08T16:33:58Z,The Dynamics of A Self-Forming Network,Dave Uhring,cs.NI,http://arxiv.org/pdf/cs/0608041v1
+cs/0608082v1,2006-08-20T04:00:28Z,Competition and Request Routing Policies in Content Delivery Networks,Peter Marbach,cs.NI,http://arxiv.org/pdf/cs/0608082v1
+cs/0608109v1,2006-08-29T16:06:53Z,Realistic Boundary Conditions for Ad Hoc Network Node Mobility Models   and a New Approach to the Random Waypoint Model,Michael Hohensee,cs.NI,http://arxiv.org/pdf/cs/0608109v1
+cs/0609026v1,2006-09-06T19:44:35Z,Rarest First and Choke Algorithms Are Enough,Pietro Michiardi,cs.NI,http://arxiv.org/pdf/cs/0609026v1
+cs/0609068v2,2006-09-12T15:25:29Z,The heterogeneity of inter-contact time distributions: its importance   for routing in delay tolerant networks,Timur Friedman,cs.NI,http://arxiv.org/pdf/cs/0609068v2
+cs/0609069v1,2006-09-12T17:35:13Z,Coverage and Connectivity in Three-Dimensional Networks,Zygmunt J. Haas,cs.NI,http://arxiv.org/pdf/cs/0609069v1
+cs/0609077v1,2006-09-13T19:06:14Z,On Intentional Attacks and Protections in Complex Communication Networks,Gaoxi Xiao,cs.NI,http://arxiv.org/pdf/cs/0609077v1
+cs/0609086v1,2006-09-15T13:40:33Z,About the Capacity of Flat and Self-Organized Ad Hoc and Hybrid Networks,Fabrice Valois,cs.NI,http://arxiv.org/pdf/cs/0609086v1
+cs/0609098v1,2006-09-18T03:10:06Z,Reducing the Makespan in Hierarchical Reliable Multicast Tree,Chuck Yoo,cs.NI,http://arxiv.org/pdf/cs/0609098v1
+cs/0609106v1,2006-09-18T21:20:59Z,Throughput Optimal Distributed Control of Stochastic Wireless Networks,Edmund M. Yeh,cs.NI,http://arxiv.org/pdf/cs/0609106v1
+cs/0609149v1,2006-09-27T08:05:39Z,"Dynamic Spectrum Access: Signal Processing, Networking, and Regulatory   Policy",Brian M. Sadler,cs.NI,http://arxiv.org/pdf/cs/0609149v1
+cs/0609150v1,2006-09-27T07:59:45Z,Modelling and Simulation of Scheduling Policies Implemented in Ethernet   Switch by Using Coloured Petri Nets,Eric Rondeau,cs.NI,http://arxiv.org/pdf/cs/0609150v1
+cs/0609151v1,2006-09-27T08:00:24Z,Control compensation based on upper bound delay in networked control   systems,Sirkka-Liisa Jämsä Jounela,cs.NI,http://arxiv.org/pdf/cs/0609151v1
+cs/0609152v1,2006-09-27T13:27:44Z,Use of upper bound delay estimate in stability analysis and robust   control compensation in networked control systems,Sirkka-Liisa Jämsä Jounela,cs.NI,http://arxiv.org/pdf/cs/0609152v1
+cs/0610013v1,2006-10-04T08:21:21Z,Cooperative Processes for Scientific Workflows,Claude Godart,cs.NI,http://arxiv.org/pdf/cs/0610013v1
+cs/0610024v1,2006-10-05T07:53:39Z,Network calculus based FDI approach for switched Ethernet architecture,Eric Rondeau,cs.NI,http://arxiv.org/pdf/cs/0610024v1
+cs/0610032v1,2006-10-05T21:44:53Z,Pipelined Feed-Forward Cyclic Redundancy Check (CRC) Calculation,Mathys Walma,cs.NI,http://arxiv.org/pdf/cs/0610032v1
+cs/0610040v1,2006-10-09T16:49:22Z,Crosstalk-free Conjugate Networks for Optical Multicast Switching,Tony T. Lee,cs.NI,http://arxiv.org/pdf/cs/0610040v1
+cs/0610044v1,2006-10-09T12:49:13Z,Mécanismes de Transmission Multipoint pour Réseaux Locaux Sans   Fil IEEE 802.11,Yongho Seok,cs.NI,http://arxiv.org/pdf/cs/0610044v1
+cs/0610078v3,2006-10-13T15:29:44Z,Rapid Prototyping over IEEE 802.11,Serge Fdida,cs.NI,http://arxiv.org/pdf/cs/0610078v3
+cs/0610087v1,2006-10-13T22:12:59Z,An Application of the Mobile Transient Internet Architecture to IP   Mobility and Inter-Operability,Chaouki Abdallah,cs.NI,http://arxiv.org/pdf/cs/0610087v1
+cs/0610109v1,2006-10-18T16:44:09Z,Intrusion detection mechanisms for VoIP applications,Olivier Festor,cs.NI,http://arxiv.org/pdf/cs/0610109v1
+cs/0610147v1,2006-10-26T02:56:54Z,Grooming of Dynamic Traffic in WDM Star and Tree Networks Using Genetic   Algorithm,Min Cheng,cs.NI,http://arxiv.org/pdf/cs/0610147v1
+cs/0610157v1,2006-10-27T12:05:21Z,A Genetic Algorithm Approach to the Grooming of Dynamic Traffic in Tree   and Star Networks with Bifurcation,De-Shuang Huang,cs.NI,http://arxiv.org/pdf/cs/0610157v1
+cs/0611016v1,2006-11-03T17:16:26Z,Increasing Data Resilience of Mobile Devices with a Collaborative Backup   Service,Paul Couderc,cs.NI,http://arxiv.org/pdf/cs/0611016v1
+cs/0611056v1,2006-11-14T12:54:13Z,Using Existing Network Simulators for Power-Aware Self-Organizing   Wireless Sensor Network Protocols,Thomas Watteyne,cs.NI,http://arxiv.org/pdf/cs/0611056v1
+cs/0611105v1,2006-11-21T13:05:54Z,Clustering and Sharing Incentives in BitTorrent Systems,Lixia Zhang,cs.NI,http://arxiv.org/pdf/cs/0611105v1
+cs/0611149v1,2006-11-29T11:05:27Z,Comparison between Networked Control System behaviour based on CAN and   Switched Ethernet networks,Christophe Aubrun,cs.NI,http://arxiv.org/pdf/cs/0611149v1
+cs/0611157v1,2006-11-30T08:59:40Z,Bounding the Bias of Tree-Like Sampling in IP Topologies,Avishai Wool,cs.NI,http://arxiv.org/pdf/cs/0611157v1
+cs/0612034v1,2006-12-06T13:57:41Z,Predictable Disruption Tolerant Networks and Delivery Guarantees,Guy Leduc,cs.NI,http://arxiv.org/pdf/cs/0612034v1
+cs/0612040v1,2006-12-07T07:56:52Z,The Workshop on Internet Topology (WIT) Report,Walter Willinger,cs.NI,http://arxiv.org/pdf/cs/0612040v1
+cs/0612045v1,2006-12-07T21:29:12Z,SIMPS: Using Sociology for Personal Mobility,Serge Fdida,cs.NI,http://arxiv.org/pdf/cs/0612045v1
+cs/0612066v1,2006-12-12T04:52:31Z,Optimal Filtering for DDoS Attacks,Katerina Argyraki,cs.NI,http://arxiv.org/pdf/cs/0612066v1
+cs/0612130v1,2006-12-22T21:11:22Z,Stratification in P2P Networks - Application to BitTorrent,Fabien De Montgolfier,cs.NI,http://arxiv.org/pdf/cs/0612130v1
+cs/0612135v1,2006-12-26T20:17:19Z,Accommodation of the Service Offered by the Network for Networked   Control Systems,Eric Rondeau,cs.NI,http://arxiv.org/pdf/cs/0612135v1
+cs/0701046v1,2007-01-08T20:01:34Z,Cooperation Between Stations in Wireless Networks,Henning Schulzrinne,cs.NI,http://arxiv.org/pdf/cs/0701046v1
+cs/0701094v1,2007-01-16T10:01:51Z,Maximizing the Probability of Delivery of Multipoint Relay Broadcast   Protocol in Wireless Ad Hoc Networks with a Realistic Physical Layer,David Simplot-Ryl,cs.NI,http://arxiv.org/pdf/cs/0701094v1
+cs/0701133v1,2007-01-21T19:59:13Z,The Case for Redundant Arrays of Internet Links (RAIL),David Cheriton,cs.NI,http://arxiv.org/pdf/cs/0701133v1
+cs/0701198v1,2007-01-31T02:51:45Z,Fitting the WHOIS Internet data,R. D. Kleinberg,cs.NI,http://arxiv.org/pdf/cs/0701198v1
+cs/0702022v1,2007-02-04T08:12:38Z,Gnutella: Topology Dynamics On Phase Space,Changjia Chen,cs.NI,http://arxiv.org/pdf/cs/0702022v1
+cs/0702110v1,2007-02-19T20:51:34Z,"Security Implications of Converged Networks and Protecting Them, without   Compromising Efficiency",Saltuk Aksahin,cs.NI,http://arxiv.org/pdf/cs/0702110v1
+cs/0702125v1,2007-02-22T09:43:58Z,Bayesian Network Tomography and Inference,Samo Wakounig,cs.NI,http://arxiv.org/pdf/cs/0702125v1
+cs/0702158v1,2007-02-27T19:59:36Z,Joint Design and Separation Principle for Opportunistic Spectrum Access   in the Presence of Sensing Errors,Ananthram Swami,cs.NI,http://arxiv.org/pdf/cs/0702158v1
+cs/0703014v2,2007-03-03T09:54:06Z,Asymptotic Capacity Bounds for Wireless Networks with Non-Uniform   Traffic,Stavros Toumpis,cs.NI,http://arxiv.org/pdf/cs/0703014v2
+cs/0703063v1,2007-03-13T09:00:05Z,Convergence and Optimal Buffer Sizing for Window Based AIMD Congestion   Control,Alexei Piunovskiy,cs.NI,http://arxiv.org/pdf/cs/0703063v1
+cs/0703107v2,2007-03-22T08:16:02Z,Clustering and Sharing Incentives in BitTorrent Systems,Lixia Zhang,cs.NI,http://arxiv.org/pdf/cs/0703107v2
+cs/0703108v1,2007-03-22T11:07:45Z,Wireless Lan to Support Multimedia Communication Using Spread Spectrum   Technology,K. Mal,cs.NI,http://arxiv.org/pdf/cs/0703108v1
+cs/0703139v3,2007-03-28T06:01:38Z,TCP throughput guarantee in the DiffServ Assured Forwarding service:   what about the results?,Pascal Anelli,cs.NI,http://arxiv.org/pdf/cs/0703139v3
+0704.1833v3,2007-04-13T22:40:05Z,Analysis of the 802.11e Enhanced Distributed Channel Access Function,Ender Ayanoglu,cs.NI,http://arxiv.org/pdf/0704.1833v3
+0704.3746v1,2007-04-27T20:43:30Z,"Distributed Algorithms for Spectrum Allocation, Power Control, Routing,   and Congestion Control in Wireless Networks",Edmund M. Yeh,cs.NI,http://arxiv.org/pdf/0704.3746v1
+0705.0425v3,2007-05-03T10:09:06Z,Batch Processor Sharing with Hyper-Exponential Service Time,Natalia Osipova,cs.NI,http://arxiv.org/pdf/0705.0425v3
+0705.0815v1,2007-05-06T19:36:47Z,Overview of the Netsukuku network,Andrea Lo Pumo,cs.NI,http://arxiv.org/pdf/0705.0815v1
+0705.0817v1,2007-05-06T20:05:44Z,Quantum Shortest Path Netsukuku,Andrea Lo Pumo,cs.NI,http://arxiv.org/pdf/0705.0817v1
+0705.0819v1,2007-05-06T20:12:16Z,The Netsukuku network topology,Andrea Lo Pumo,cs.NI,http://arxiv.org/pdf/0705.0819v1
+0705.0820v1,2007-05-06T20:19:51Z,ANDNA: the distributed hostname management system of Netsukuku,Andrea Lo Pumo,cs.NI,http://arxiv.org/pdf/0705.0820v1
+0705.1583v1,2007-05-11T04:41:35Z,Wireless Networking to Support Data and Voice Communication Using Spread   Spectrum Technology in The Physical Layer,Rabindranath Bera,cs.NI,http://arxiv.org/pdf/0705.1583v1
+0705.2084v1,2007-05-15T06:14:10Z,CDMA Technology for Intelligent Transportation Systems,Debdatta Kandar,cs.NI,http://arxiv.org/pdf/0705.2084v1
+0705.2085v1,2007-05-15T06:24:22Z,RADAR Imaging in the Open field At 300 MHz-3000 MHz Radio Band,Dipak Mondal,cs.NI,http://arxiv.org/pdf/0705.2085v1
+0706.0580v2,2007-06-05T05:28:54Z,Efficient Batch Update of Unique Identifiers in a Distributed Hash Table   for Resources in a Mobile Host,Yoo Chung,cs.NI,http://arxiv.org/pdf/0706.0580v2
+0706.1096v2,2007-06-07T22:40:40Z,Inquiring the Potential of Evoking Small-World Properties for   Self-Organizing Communication Networks,Carlos H. C. Ribeiro,cs.NI,http://arxiv.org/pdf/0706.1096v2
+0706.1395v1,2007-06-11T17:33:25Z,Opportunistic Network Coding for Video Streaming over Wireless,Athina Markopoulou,cs.NI,http://arxiv.org/pdf/0706.1395v1
+0706.1563v2,2007-06-12T12:21:53Z,Optimal Choice of Threshold in Two Level Processor Sharing,Natalia Osipova,cs.NI,http://arxiv.org/pdf/0706.1563v2
+0706.2520v1,2007-06-18T01:31:54Z,Analysis of Inter-Domain Traffic Correlations: Random Matrix Theory   Approach,Mehmed Kantardzic,cs.NI,http://arxiv.org/pdf/0706.2520v1
+0706.4004v1,2007-06-27T11:51:36Z,End-to-End Available Bandwidth Measurement Tools : A Comparative   Evaluation of Performances,Francis Lepage,cs.NI,http://arxiv.org/pdf/0706.4004v1
+0706.4175v2,2007-06-28T09:56:50Z,Heuristics for Network Coding in Wireless Networks,Philippe Jacquet,cs.NI,http://arxiv.org/pdf/0706.4175v2
+0707.1820v1,2007-07-12T15:38:14Z,Understanding the Properties of the BitTorrent Overlay,Chadi Barakat,cs.NI,http://arxiv.org/pdf/0707.1820v1
+0707.3717v2,2007-07-25T11:52:09Z,GCP: Gossip-based Code Propagation for Large-scale Mobile Wireless   Sensor Networks,Anne-Marie Kermarrec,cs.NI,http://arxiv.org/pdf/0707.3717v2
+0708.0522v2,2007-08-03T14:19:21Z,Quasi-stationary distributions as centrality measures of reducible   graphs,Danil Nemirovsky,cs.NI,http://arxiv.org/pdf/0708.0522v2
+0708.0975v1,2007-08-07T15:13:17Z,Near Optimal Broadcast with Network Coding in Large Sensor Networks,Philippe Jacquet,cs.NI,http://arxiv.org/pdf/0708.0975v1
+0708.1411v1,2007-08-10T12:13:51Z,Achievable Outage Rates with Improved Decoding of Bicm Multiband Ofdm   Under Channel Estimation Errors,Pierre Duhamel,cs.NI,http://arxiv.org/pdf/0708.1411v1
+0708.1413v1,2007-08-10T12:16:55Z,On Optimal Turbo Decoding of Wideband MIMO-OFDM Systems Under Imperfect   Channel State Information,Pierre Duhamel,cs.NI,http://arxiv.org/pdf/0708.1413v1
+0708.1414v1,2007-08-10T12:18:36Z,Wavelet Based Semi-blind Channel Estimation For Multiband OFDM,Pierre Duhamel,cs.NI,http://arxiv.org/pdf/0708.1414v1
+0708.1416v1,2007-08-10T12:40:08Z,MIMO-OFDM Optimal Decoding and Achievable Information Rates Under   Imperfect Channel Estimation,Pierre Duhamel,cs.NI,http://arxiv.org/pdf/0708.1416v1
+0708.1579v1,2007-08-12T00:29:03Z,Homogeneous temporal activity patterns in a large online communication   space,Vicente López,cs.NI,http://arxiv.org/pdf/0708.1579v1
+0708.2309v1,2007-08-17T02:37:20Z,On Compact Routing for the Internet,Arthur Brady,cs.NI,http://arxiv.org/pdf/0708.2309v1
+0708.3166v1,2007-08-23T12:25:50Z,Web Server Benchmark Application WiiBench using Erlang/OTP R11 and   Fedora-Core Linux 5.0,T. A. Sabastian,cs.NI,http://arxiv.org/pdf/0708.3166v1
+0709.0961v2,2007-09-07T15:13:34Z,A New Distributed Topology Control Algorithm for Wireless Environments   with Non-Uniform Path Loss and Multipath Propagation,Thomas Gerety,cs.NI,http://arxiv.org/pdf/0709.0961v2
+0709.0965v1,2007-09-06T22:40:22Z,The Induced Bounded-Degree Subgraph Problem and Stream Control in MIMO   Networks,Harish Sethu,cs.NI,http://arxiv.org/pdf/0709.0965v1
+0709.2252v1,2007-09-14T10:21:45Z,Otiy: Loactors tracking nodes,Marcelo dias de Amorim,cs.NI,http://arxiv.org/pdf/0709.2252v1
+0709.2618v2,2007-09-17T06:25:50Z,On Frequency Optimisation for Power Saving in WSNs: Finding Optimum   Hardware Timers Frequencies,Eric Fleury,cs.NI,http://arxiv.org/pdf/0709.2618v2
+0710.0020v1,2007-09-28T22:12:42Z,A Probability Model for Lifetime of Wireless Sensor Networks,Masoud Ardakani,cs.NI,http://arxiv.org/pdf/0710.0020v1
+0710.2716v1,2007-10-15T05:45:49Z,Cost and Effects of Pinning Control for Network Synchronization,Guanrong Chen,cs.NI,http://arxiv.org/pdf/0710.2716v1
+0710.2736v1,2007-10-15T08:16:47Z,L2 norm performance index of synchronization and optimal control   synthesis of complex networks,Lin Huang,cs.NI,http://arxiv.org/pdf/0710.2736v1
+0710.3439v1,2007-10-18T05:09:57Z,Utility-Based Wireless Resource Allocation for Variable Rate   Transmission,Chun Sum Ng,cs.NI,http://arxiv.org/pdf/0710.3439v1
+0710.3917v1,2007-10-21T09:48:01Z,Heuristic Solution to Protect Communications in WDM Networks using   P-cycles,Miklos Molnar,cs.NI,http://arxiv.org/pdf/0710.3917v1
+0710.3918v1,2007-10-21T09:48:42Z,Dependable k-coverage algorithms for sensor networks,Bernard Cousin,cs.NI,http://arxiv.org/pdf/0710.3918v1
+0710.4732v1,2007-10-25T09:40:37Z,Energy Efficiency of the IEEE 802.15.4 Standard in Dense Wireless   Microsensor Networks: Modeling and Improvement Perspectives,Wim Dehaene,cs.NI,http://arxiv.org/pdf/0710.4732v1
+0710.4815v1,2007-10-25T12:01:54Z,Direct Conversion Pulsed UWB Transceiver Architecture,Anantha Chandrakasan,cs.NI,http://arxiv.org/pdf/0710.4815v1
+0710.4816v1,2007-10-25T12:02:16Z,Power Saving Techniques for Wireless LANs,T. Simunic,cs.NI,http://arxiv.org/pdf/0710.4816v1
+0710.4818v1,2007-10-25T12:02:38Z,"Wireless LAN: Past, Present, and Future",Keith Holt,cs.NI,http://arxiv.org/pdf/0710.4818v1
+0710.5235v1,2007-10-27T15:49:39Z,Unsaturated Throughput Analysis of IEEE 802.11 in Presence of Non Ideal   Transmission Channel and Capture Effects,M. Mondin,cs.NI,http://arxiv.org/pdf/0710.5235v1
+0710.5236v1,2007-10-27T15:57:49Z,Saturation Throughput Analysis of IEEE 802.11 in Presence of Non Ideal   Transmission Channel and Capture Effects,M. Mondin,cs.NI,http://arxiv.org/pdf/0710.5236v1
+0710.5238v1,2007-10-27T16:04:49Z,On The Linear Behaviour of the Throughput of IEEE 802.11 DCF in   Non-Saturated Conditions,M. Mondin,cs.NI,http://arxiv.org/pdf/0710.5238v1
+0710.5242v1,2007-10-27T16:32:03Z,A Model of the IEEE 802.11 DCF in Presence of Non Ideal Transmission   Channel and Capture Effects,M. Mondin,cs.NI,http://arxiv.org/pdf/0710.5242v1
+0710.5830v1,2007-10-31T10:44:21Z,Stability analysis of a max-min fair Rate Control Protocol (RCP) in a   small buffer regime,Gaurav Raina,cs.NI,http://arxiv.org/pdf/0710.5830v1
+0711.0301v1,2007-11-02T12:54:21Z,Throughput Optimal On-Line Algorithms for Advanced Resource Reservation   in Ultra High-Speed Networks,David Starobinski,cs.NI,http://arxiv.org/pdf/0711.0301v1
+0711.0892v1,2007-11-06T15:05:47Z,Routing in Outer Space: Improved Security and Energy-Efficiency in   Multi-Hop Wireless Networks,Julinda Stefa,cs.NI,http://arxiv.org/pdf/0711.0892v1
+0711.1269v1,2007-11-08T13:07:49Z,Fair Scheduling in OFDMA-based Wireless Systems with QoS Constraints,Anthony Ephremides,cs.NI,http://arxiv.org/pdf/0711.1269v1
+0711.1273v1,2007-11-08T13:39:15Z,Practical Resource Allocation Algorithms for QoS in OFDMA-based Wireless   Systems,Anthony Ephremides,cs.NI,http://arxiv.org/pdf/0711.1273v1
+0711.1533v1,2007-11-09T20:41:53Z,N3Logic: A Logical Framework For the World Wide Web,Jim Hendler,cs.NI,http://arxiv.org/pdf/0711.1533v1
+0711.2442v1,2007-11-15T15:34:55Z,Are networks with more edges easier to synchronize?,Guanrong Chen,cs.NI,http://arxiv.org/pdf/0711.2442v1
+0711.2780v1,2007-11-18T09:29:19Z,Epcast: Controlled Dissemination in Human-based Wireless Networks by   means of Epidemic Spreading Models,Vito Latora,cs.NI,http://arxiv.org/pdf/0711.2780v1
+0711.3099v1,2007-11-20T09:53:40Z,Augmented Tree-based Routing Protocol for Scalable Ad Hoc Networks,Luigi Paura,cs.NI,http://arxiv.org/pdf/0711.3099v1
+0711.3247v2,2007-11-21T01:47:54Z,A Distributed Dynamic Frequency Allocation Algorithm,Vahid Tarokh,cs.NI,http://arxiv.org/pdf/0711.3247v2
+0711.4562v1,2007-11-28T19:20:08Z,Near-Deterministic Inference of AS Relationships,Udi Weinsberg,cs.NI,http://arxiv.org/pdf/0711.4562v1
+0712.0035v3,2007-12-01T01:10:30Z,"On Myopic Sensing for Multi-Channel Opportunistic Access: Structure,   Optimality, and Performance",Keqin Liu,cs.NI,http://arxiv.org/pdf/0712.0035v3
+0712.1662v1,2007-12-11T08:58:40Z,Link Scheduling in STDMA Wireless Networks: A Line Graph Approach,Abhay Karandikar,cs.NI,http://arxiv.org/pdf/0712.1662v1
+0712.1803v3,2007-12-11T19:43:44Z,Tournament MAC with Constant Size Congestion Window for WLAN,Jerome Galtier,cs.NI,http://arxiv.org/pdf/0712.1803v3
+0712.2054v1,2007-12-12T22:10:38Z,Distributed Fair Scheduling Using Variable Transmission Lengths in   Carrier-Sensing-based Wireless Networks,Jean Walrand,cs.NI,http://arxiv.org/pdf/0712.2054v1
+0712.2083v1,2007-12-13T02:25:14Z,VoIP over Multiple IEEE 802.11 Wireless LANs,S. C. Liew,cs.NI,http://arxiv.org/pdf/0712.2083v1
+0712.2274v1,2007-12-14T02:07:07Z,Distributed MAC Strategy for Exploiting Multi-user Diversity in   Multi-rate IEEE 802.11 Wireless LANs,Zhang,cs.NI,http://arxiv.org/pdf/0712.2274v1
+0712.3641v1,2007-12-21T08:30:23Z,Controlling Delay-induced Hopf bifurcation in Internet congestion   control system,Yuliang Liu,cs.NI,http://arxiv.org/pdf/0712.3641v1
+0712.3831v1,2007-12-22T06:16:26Z,Hopf bifurcation analysis in a dual model of Internet congestion control   algorithm with communication delay,Yuliang Liu,cs.NI,http://arxiv.org/pdf/0712.3831v1
+0712.4169v1,2007-12-27T01:22:39Z,Security in Wireless Sensor Networks: Issues and Challenges,Choong Seon Hong,cs.NI,http://arxiv.org/pdf/0712.4169v1
+0712.4170v1,2007-12-27T01:24:42Z,Smartening the Environment using Wireless Sensor Networks in a   Developing Country,Hyung-Woo Lee,cs.NI,http://arxiv.org/pdf/0712.4170v1
+0712.4172v1,2007-12-27T01:28:45Z,Developing an Efficient DMCIS with Next-Generation Wireless Networks,Choong Seon Hong,cs.NI,http://arxiv.org/pdf/0712.4172v1
+0712.4173v1,2007-12-27T01:30:56Z,Secure Clustering in DSN with Key Predistribution and WCDS,Choong Seon Hong,cs.NI,http://arxiv.org/pdf/0712.4173v1
+0801.4054v2,2008-01-26T02:36:30Z,Bounded Mean-Delay Throughput and Non-Starvation Conditions in Aloha   Network,Da Rui Chen,cs.NI,http://arxiv.org/pdf/0801.4054v2
+0802.0543v1,2008-02-05T02:17:30Z,Improving Performance of Cluster Based Routing Protocol using   Cross-Layer Design,Marzieh Hajhosseini,cs.NI,http://arxiv.org/pdf/0802.0543v1
+0802.0766v1,2008-02-06T10:04:13Z,Modelling and Analysis of the Distributed Coordination Function of IEEE   802.11 with Multirate Capability,M. Mondin,cs.NI,http://arxiv.org/pdf/0802.0766v1
+0802.0799v2,2008-02-06T13:52:44Z,Développement et analyse multi outils d'un protocole MAC   déterministe pour un réseau de capteurs sans fil,Adrien Van Den Bossche,cs.NI,http://arxiv.org/pdf/0802.0799v2
+0802.1015v1,2008-02-07T16:04:33Z,Small Is Not Always Beautiful,Eddie Kohler,cs.NI,http://arxiv.org/pdf/0802.1015v1
+0802.1379v2,2008-02-11T05:57:02Z,Structure and Optimality of Myopic Policy in Opportunistic Access with   Noisy Observations,Bhaskar Krishnamachari,cs.NI,http://arxiv.org/pdf/0802.1379v2
+0802.3283v1,2008-02-22T20:53:12Z,"An integrated model of traffic, geography and economy in the Internet",Stephanie Forrest,cs.NI,http://arxiv.org/pdf/0802.3283v1
+0802.3569v1,2008-02-25T08:44:10Z,Delay Analysis for Wireless Local Area Networks with Multipacket   Reception under Finite Load,Darui Chen,cs.NI,http://arxiv.org/pdf/0802.3569v1
+0802.3634v1,2008-02-25T15:23:31Z,Local Information Based Algorithms for Packet Transport in Complex   Networks,Bosiljka Tadić,cs.NI,http://arxiv.org/pdf/0802.3634v1
+0803.0528v1,2008-03-04T19:43:55Z,Une approche modulaire probabiliste pour le routage à Qualité de   Service intégrée,Hayet Hafi,cs.NI,http://arxiv.org/pdf/0803.0528v1
+0803.0803v1,2008-03-06T07:39:13Z,Un Algorithme de Gestion des Adjacences basé sur la Puissance du   Signal,Veronique Veque,cs.NI,http://arxiv.org/pdf/0803.0803v1
+0803.0952v6,2008-03-06T19:41:50Z,Femtocell Networks: A Survey,Alan Gatherer,cs.NI,http://arxiv.org/pdf/0803.0952v6
+0803.1610v1,2008-03-11T15:21:14Z,A Queueing System for Modeling a File Sharing Principle,Fabrice Guillemin,cs.NI,http://arxiv.org/pdf/0803.1610v1
+0803.1764v2,2008-03-12T13:02:15Z,WiFly: experimenting with Wireless Sensor Networks and Virtual   coordinates,Isabelle Augé-Blum,cs.NI,http://arxiv.org/pdf/0803.1764v2
+0803.1908v1,2008-03-13T06:48:50Z,On the Throughput Allocation for Proportional Fairness in Multirate IEEE   802.11 DCF under General Load Conditions,M. Mondin,cs.NI,http://arxiv.org/pdf/0803.1908v1
+0803.1944v2,2008-03-13T10:49:32Z,Early Experiences in Traffic Engineering Exploiting Path Diversity: A   Practical Approach,Diego Perino,cs.NI,http://arxiv.org/pdf/0803.1944v2
+0803.2129v4,2008-03-14T10:58:46Z,Comparison of the Discriminatory Processor Sharing Policies,Natalia Osipova,cs.NI,http://arxiv.org/pdf/0803.2129v4
+0803.2824v2,2008-03-19T15:50:08Z,Combined Intra- and Inter-domain Traffic Engineering using Hot-Potato   Aware Link Weights Optimization,Guy Leduc,cs.NI,http://arxiv.org/pdf/0803.2824v2
+0803.4311v1,2008-03-30T09:38:53Z,Locator/identifier split using the data link layer,Victor Grishchenko,cs.NI,http://arxiv.org/pdf/0803.4311v1
+0804.1894v1,2008-04-11T13:37:49Z,A Reliability-based Framework for Multi-path Routing Analysis in Mobile   Ad-Hoc Networks,Luigi Paura,cs.NI,http://arxiv.org/pdf/0804.1894v1
+0804.2043v1,2008-04-13T06:04:26Z,Analytical correlation of routing table length index and routing path   length index in hierarchical routing model,Tingrong Lu,cs.NI,http://arxiv.org/pdf/0804.2043v1
+0804.2058v1,2008-04-13T11:43:24Z,Physical Layer Network Coding Over Finite And Infinite Fields,Lu Lu,cs.NI,http://arxiv.org/pdf/0804.2058v1
+0804.3486v1,2008-04-22T09:59:38Z,Stability and Throughput of Buffered Aloha with Backoff,Lin Dai,cs.NI,http://arxiv.org/pdf/0804.3486v1
+0804.4896v2,2008-04-30T19:59:01Z,Monotony in Service Orchestrations,Stefan Haar,cs.NI,http://arxiv.org/pdf/0804.4896v2
+0805.0782v2,2008-05-06T19:25:41Z,A new queueing strategy for the Adversarial Queueing Theory,Christoph Schommer,cs.NI,http://arxiv.org/pdf/0805.0782v2
+0805.1226v2,2008-05-08T20:44:43Z,Spectrum Allocation in Two-Tier Networks,Jeffrey G. Andrews,cs.NI,http://arxiv.org/pdf/0805.1226v2
+0805.1300v1,2008-05-09T08:09:39Z,Throughput and Delay Analysis of Wireless Random Access Networks,Tony T. Lee,cs.NI,http://arxiv.org/pdf/0805.1300v1
+0805.1877v1,2008-05-13T15:51:47Z,Perfect tag identification protocol in RFID networks,Francesca Martelli,cs.NI,http://arxiv.org/pdf/0805.1877v1
+0806.0128v1,2008-06-01T07:27:05Z,QoS Challenges and Opportunities in Wireless Sensor/Actuator Networks,Feng Xia,cs.NI,http://arxiv.org/pdf/0806.0128v1
+0806.0130v1,2008-06-01T08:03:02Z,Feedback Scheduling of Priority-Driven Control Networks,Yu-Chu Tian,cs.NI,http://arxiv.org/pdf/0806.0130v1
+0806.0134v1,2008-06-01T08:39:23Z,Fuzzy Logic Control Based QoS Management in Wireless Sensor/Actuator   Networks,Yu-Chu Tian,cs.NI,http://arxiv.org/pdf/0806.0134v1
+0806.1089v1,2008-06-06T04:29:20Z,Fair and Efficient TCP Access in the IEEE 802.11 Infrastructure Basic   Service Set,Ender Ayanoglu,cs.NI,http://arxiv.org/pdf/0806.1089v1
+0806.1093v1,2008-06-06T05:04:02Z,Fair Access Provisioning through Contention Parameter Adaptation in the   IEEE 802.11e Infrastructure Basic Service Set,Ender Ayanoglu,cs.NI,http://arxiv.org/pdf/0806.1093v1
+0806.1271v1,2008-06-07T07:36:34Z,Scheduling Sensors by Tiling Lattices,Jennifer L. Welch,cs.NI,http://arxiv.org/pdf/0806.1271v1
+0806.1567v1,2008-06-10T04:10:05Z,Flexible Time-Triggered Sampling in Smart Sensor-Based Wireless Control   Systems,Wenhong Zhao,cs.NI,http://arxiv.org/pdf/0806.1567v1
+0806.1569v1,2008-06-10T04:20:01Z,Wireless Sensor/Actuator Network Design for Mobile Control Applications,Youxian Sun,cs.NI,http://arxiv.org/pdf/0806.1569v1
+0806.1843v1,2008-06-11T11:18:59Z,An adaptive routing strategy for packet delivery in complex networks,P. M. Hui,cs.NI,http://arxiv.org/pdf/0806.1843v1
+0806.1845v1,2008-06-11T11:23:29Z,An efficient approach of controlling traffic congestion in scale-free   networks,P. M. Hui,cs.NI,http://arxiv.org/pdf/0806.1845v1
+0806.1846v1,2008-06-11T11:27:31Z,Detrended fluctuation analysis of traffic data,Ming Tang,cs.NI,http://arxiv.org/pdf/0806.1846v1
+0806.1893v1,2008-06-11T15:40:54Z,Définition d'une structure adaptative de réseau local sans fil à   consommation optimisée,Jackson Francomme,cs.NI,http://arxiv.org/pdf/0806.1893v1
+0806.1895v1,2008-06-11T15:41:59Z,Évaluation d'une application de transmission d'images médicales avec   un réseau sans fil,Sabri Chebira,cs.NI,http://arxiv.org/pdf/0806.1895v1
+0806.2509v1,2008-06-16T07:18:33Z,Proposition of a full deterministic medium access method for wireless   network in a robotic application,Eric Campo,cs.NI,http://arxiv.org/pdf/0806.2509v1
+0806.2549v1,2008-06-16T11:40:57Z,Prototyping and Performance Analysis of a QoS MAC Layer for Industrial   Wireless Network,Eric Campo,cs.NI,http://arxiv.org/pdf/0806.2549v1
+0806.2550v1,2008-06-16T11:41:59Z,Proposition and validation of an original MAC layer with simultaneous   medium accesses for low latency wireless control/command applications,Eric Campo,cs.NI,http://arxiv.org/pdf/0806.2550v1
+0806.2924v1,2008-06-18T08:32:52Z,On the Optimization of the IEEE 802.11 DCF: A Cross-Layer Perspective,Fabio Mesiti,cs.NI,http://arxiv.org/pdf/0806.2924v1
+0806.3542v1,2008-06-22T03:11:28Z,Design and Analysis of an Asynchronous Zero Collision MAC Protocol,Jean C. Walrand,cs.NI,http://arxiv.org/pdf/0806.3542v1
+0806.4526v2,2008-06-27T13:54:10Z,WiPal: Efficient Offline Merging of IEEE 802.11 Traces,Marcelo Dias de Amorim,cs.NI,http://arxiv.org/pdf/0806.4526v2
+0806.4695v1,2008-06-28T15:29:10Z,On the Throughput Allocation for Proportional Fairness in Multirate IEEE   802.11 DCF,M. Mondin,cs.NI,http://arxiv.org/pdf/0806.4695v1
+0807.0425v1,2008-07-02T19:23:50Z,Wireless Broadcast with Network Coding in Mobile Ad-Hoc Networks:   DRAGONCAST,Cédric Adjih,cs.NI,http://arxiv.org/pdf/0807.0425v1
+0807.0887v1,2008-07-06T04:50:39Z,On Cycles in AS Relationships,Dmitri Krioukov,cs.NI,http://arxiv.org/pdf/0807.0887v1
+0807.1153v1,2008-07-08T01:58:26Z,CSI: A Paradigm for Behavior-oriented Delivery Services in Mobile Human   Networks,Ahmed Helmy,cs.NI,http://arxiv.org/pdf/0807.1153v1
+0807.1169v1,2008-07-08T04:31:44Z,A VoIP Privacy Mechanism and its Application in VoIP Peering for Voice   Service Provider Topology and Identity Hiding,Henning Schulzrinne,cs.NI,http://arxiv.org/pdf/0807.1169v1
+0807.1603v2,2008-07-10T09:34:19Z,A Radar for the Internet,Frederic Ouedraogo,cs.NI,http://arxiv.org/pdf/0807.1603v2
+0807.2023v1,2008-07-13T11:04:59Z,Beyond Node Degree: Evaluating AS Topology Models,Steve Uhlig,cs.NI,http://arxiv.org/pdf/0807.2023v1
+0807.2829v1,2008-07-17T16:40:53Z,Congestion Reduction Using Ad hoc Message Dissemination in Vehicular   Networks,Maziar Nekovee,cs.NI,http://arxiv.org/pdf/0807.2829v1
+0807.4268v2,2008-07-27T19:36:43Z,Phase Diagrams of Network Traffic,Reginald D. Smith,cs.NI,http://arxiv.org/pdf/0807.4268v2
+0807.4656v1,2008-07-29T13:32:50Z,Energy-delay bounds analysis in wireless multi-hop networks with   unreliable radio links,Katia Jaffrès-Runser,cs.NI,http://arxiv.org/pdf/0807.4656v1
+0808.1207v1,2008-08-08T13:03:44Z,Optimally Efficient Prefix Search and Multicast in Structured P2P   Networks,Max Muehlhaeuser,cs.NI,http://arxiv.org/pdf/0808.1207v1
+0808.2325v1,2008-08-18T00:51:57Z,Networking in the Physical World,Craig Partridge,cs.NI,http://arxiv.org/pdf/0808.2325v1
+0808.3990v2,2008-08-28T20:36:59Z,Adaptive Dynamic Congestion Avoidance with Master Equation,Ziya Süzen,cs.NI,http://arxiv.org/pdf/0808.3990v2
+0808.4104v1,2008-08-29T14:34:45Z,Flow-level Characteristics of Spam and Ham,Thrasyvoulos Spyropoulos,cs.NI,http://arxiv.org/pdf/0808.4104v1
+0809.0533v2,2008-09-03T07:40:19Z,Power Control in Cognitive Radio Networks: How to Cross a Multi-Lane   Highway,Ananthram Swami,cs.NI,http://arxiv.org/pdf/0809.0533v2
+0809.0833v1,2008-09-04T15:12:00Z,The stable configuration in acyclic preference-based systems,Julien Reynier,cs.NI,http://arxiv.org/pdf/0809.0833v1
+0809.1061v1,2008-09-05T15:43:14Z,A Novel Proportional Fairness Criterion for Throughput Allocation in   Multirate IEEE 802.11,F. Daneshgaran,cs.NI,http://arxiv.org/pdf/0809.1061v1
+0809.2322v1,2008-09-13T08:56:25Z,An Energy-Aware On-Demand Routing Protocol for Ad-Hoc Wireless Networks,Mallapur Veerayya,cs.NI,http://arxiv.org/pdf/0809.2322v1
+0809.3276v2,2008-09-19T01:08:47Z,Criteria on Utility Designing of Convex Optimization in FDMA Networks,Kai Niu,cs.NI,http://arxiv.org/pdf/0809.3276v2
+0809.3279v1,2008-09-19T01:18:16Z,Distributed Spiral Optimization in Wireless Sensor Networks without   Fusion Centers,Zheng Sun,cs.NI,http://arxiv.org/pdf/0809.3279v1
+0809.3280v1,2008-09-19T01:25:16Z,A Heuristic Scheduling Scheme in Multiuser OFDMA Networks,Kai Niu,cs.NI,http://arxiv.org/pdf/0809.3280v1
+0809.3283v2,2008-09-19T01:31:55Z,Performance Comparison of Cooperative and Distributed Spectrum Sensing   in Cognitive Radio,Kai Niu,cs.NI,http://arxiv.org/pdf/0809.3283v2
+0809.3285v1,2008-09-19T01:35:39Z,Load Balancing Strategies to Solve Flowshop Scheduling on Parallel   Computing,Yan Ma,cs.NI,http://arxiv.org/pdf/0809.3285v1
+0809.3415v1,2008-09-19T16:45:26Z,Ten weeks in the life of an eDonkey server,Clemence Magnien,cs.NI,http://arxiv.org/pdf/0809.3415v1
+0809.3908v1,2008-09-23T13:05:22Z,Optimal Energy Management Policies for Energy Harvesting Sensor Nodes,Shrey Gupta,cs.NI,http://arxiv.org/pdf/0809.3908v1
+0809.4194v2,2008-09-24T14:09:54Z,Rate based call gapping with priorities and fairness between traffic   classes,Benedek Kovacs,cs.NI,http://arxiv.org/pdf/0809.4194v2
+0809.4342v1,2008-09-25T08:55:26Z,Towards a More Accurate Carrier Sensing Model for CSMA Wireless Networks,Soung Chang Liew,cs.NI,http://arxiv.org/pdf/0809.4342v1
+0809.4576v1,2008-09-26T09:41:26Z,On-the-Fly Coding to Enable Full Reliability Without Retransmission,Emmanuel Lochin,cs.NI,http://arxiv.org/pdf/0809.4576v1
+0809.4924v1,2008-09-29T10:18:06Z,Cross-Layer Adaptive Feedback Scheduling of Wireless Control Systems,Jinxiang Dong,cs.NI,http://arxiv.org/pdf/0809.4924v1
+0809.4985v1,2008-09-29T15:17:31Z,On the Influence of Carrier Frequency Offset and Sampling Frequency   Offset in MIMO-OFDM Systems for Future Digital TV,Matthieu Crussière,cs.NI,http://arxiv.org/pdf/0809.4985v1
+0809.4986v1,2008-09-29T15:17:52Z,Efficient MIMO-OFDM Schemes for Future Terrestrial Digital TV with   Unequal Received Powers,Oudomsack Pasquero,cs.NI,http://arxiv.org/pdf/0809.4986v1
+0809.4987v1,2008-09-29T15:18:09Z,Efficient 3D Space Time Space Block Code for Future Terrestrial Digital   TV,Oudomsack Pasquero,cs.NI,http://arxiv.org/pdf/0809.4987v1
+0809.4989v1,2008-09-29T15:18:37Z,Bit Error Rate Prediction of Coded MIMO-OFDM Systems,Matthieu Crussière,cs.NI,http://arxiv.org/pdf/0809.4989v1
+0809.5016v1,2008-09-29T16:58:35Z,Robustness of MIMO-OFDM Schemes for Future Digital TV to Carrier   Frequency Offset,Matthieu Crussière,cs.NI,http://arxiv.org/pdf/0809.5016v1
+0809.5145v1,2008-09-30T09:23:19Z,3D MIMO Scheme for Broadcasting Future Digital TV in Single Frequency   Networks,Matthieu Crussière,cs.NI,http://arxiv.org/pdf/0809.5145v1
+0809.5188v1,2008-09-30T12:57:12Z,Analysis and Performance Comparison of DVB-T and DTMB Systems for   Terrestrial Digital TV,Oudomsack Pasquero,cs.NI,http://arxiv.org/pdf/0809.5188v1
+0809.5189v1,2008-09-30T12:57:53Z,A novel channel estimation based on spread pilots for terrestrial   digital video broadcasting,Jean-François Hélard,cs.NI,http://arxiv.org/pdf/0809.5189v1
+0809.5192v1,2008-09-30T13:01:46Z,2D Linear Precoded OFDM for future mobile Digital Video Broadcasting,Jean-François Hélard,cs.NI,http://arxiv.org/pdf/0809.5192v1
+0810.1132v1,2008-10-07T09:04:06Z,Maximally Radio-Disjoint Multipath Routing for Wireless Multimedia   Sensor Networks,Moufida Maimour,cs.NI,http://arxiv.org/pdf/0810.1132v1
+0810.1139v1,2008-10-07T09:32:40Z,Load Repartition for Congestion Control in Multimedia Wireless Sensor   Networks with Multipath Routing,Julien Amelot,cs.NI,http://arxiv.org/pdf/0810.1139v1
+0810.1368v1,2008-10-08T07:15:09Z,Demonstration of Time-Reversal in Indoor Ultra-Wideband Communication:   Time Domain Measurement,Ijaz Haider Naqvi,cs.NI,http://arxiv.org/pdf/0810.1368v1
+0810.1506v1,2008-10-08T18:54:07Z,Performance Enhancement of Multiuser Time Reversal UWB Communication   System,Ghaïs El Zein,cs.NI,http://arxiv.org/pdf/0810.1506v1
+0810.1513v1,2008-10-08T19:46:24Z,A DCCP Congestion Control Mechanism for Wired- cum-Wireless Environments,Tanguy Pérennou,cs.NI,http://arxiv.org/pdf/0810.1513v1
+0810.1655v1,2008-10-09T14:10:42Z,On the Utility of Anonymized Flow Traces for Anomaly Detection,Martin May,cs.NI,http://arxiv.org/pdf/0810.1655v1
+0810.2134v1,2008-10-12T22:37:35Z,Fetching Strategy in the Startup Stage of p2p Live Streaming,Changjia Chen,cs.NI,http://arxiv.org/pdf/0810.2134v1
+0810.2659v3,2008-10-15T10:57:55Z,DSTC Layering Protocols in Wireless Cooperative Networks,B. K. Dey,cs.NI,http://arxiv.org/pdf/0810.2659v3
+0810.2837v1,2008-10-16T02:12:54Z,Adaptive Hybrid Deflection and Retransmission Routing for Optical   Burst-Switched Networks,Wael Hosny Fouad Aly,cs.NI,http://arxiv.org/pdf/0810.2837v1
+0810.3869v4,2008-10-21T16:04:16Z,Power Control in Two-Tier Femtocell Networks,Alan Gatherer,cs.NI,http://arxiv.org/pdf/0810.3869v4
+0810.3935v1,2008-10-21T21:37:32Z,Modeling Spatial and Temporal Dependencies of User Mobility in Wireless   Mobile Networks,Ahmed Helmy,cs.NI,http://arxiv.org/pdf/0810.3935v1
+0810.5763v1,2008-10-31T19:11:42Z,Number of wireless sensors needed to detect a wildfire,Pablo Ignacio Fierens,cs.NI,http://arxiv.org/pdf/0810.5763v1
+0811.0273v1,2008-11-03T12:05:01Z,Efficient Energy Management Policies for Networks with Energy Harvesting   Sensor Nodes,Vinay Joseph,cs.NI,http://arxiv.org/pdf/0811.0273v1
+0811.1095v2,2008-11-07T09:29:51Z,Allocation of control and data channels for Large-Scale Wireless Sensor   Networks,Mounir Frikha,cs.NI,http://arxiv.org/pdf/0811.1095v2
+0811.3828v1,2008-11-24T09:37:37Z,Optimal Filtering of Malicious IP Sources,Katerina Argyraki,cs.NI,http://arxiv.org/pdf/0811.3828v1
+0811.4030v1,2008-11-25T09:20:28Z,Analytical Framework for Optimizing Weighted Average Download Time in   Peer-to-Peer Networks,Richard D. Wesel,cs.NI,http://arxiv.org/pdf/0811.4030v1
+0812.0193v2,2008-12-01T01:02:14Z,Contention Resolution in Optical Burst Switched Networks using Spectral-   Amplitude-Coding Optical Code Division Multiple Access,Hossam M. H. Shalaby,cs.NI,http://arxiv.org/pdf/0812.0193v2
+0812.0581v2,2008-12-02T20:07:47Z,Pushing BitTorrent Locality to the Limit,Walid Dabbous,cs.NI,http://arxiv.org/pdf/0812.0581v2
+0812.1093v4,2008-12-05T08:47:25Z,Self-stabilizing K-out-of-L exclusion on tree network,Lawrence L. Larmore,cs.NI,http://arxiv.org/pdf/0812.1093v4
+0812.2288v1,2008-12-12T03:11:36Z,Congestion Control Protocol for Wireless Sensor Networks Handling   Prioritized Heterogeneous Traffic,Choong Seon Hong,cs.NI,http://arxiv.org/pdf/0812.2288v1
+0812.2543v1,2008-12-13T12:56:44Z,Perturbation analysis of an M/M/1 queue in a diffusion random   environment,Philippe Robert,cs.NI,http://arxiv.org/pdf/0812.2543v1
+0812.2544v1,2008-12-13T12:57:31Z,Inference of Flow Statistics via Packet Sampling in the Internet,Philippe Robert,cs.NI,http://arxiv.org/pdf/0812.2544v1
+0812.2546v2,2008-12-13T12:59:40Z,An identification problem in an urn and ball model with heavy tailed   distributions,Philippe Robert,cs.NI,http://arxiv.org/pdf/0812.2546v2
+0812.2891v1,2008-12-15T19:20:15Z,On the Value of a Social Network,Sandeep Chalasani,cs.NI,http://arxiv.org/pdf/0812.2891v1
+0812.3259v1,2008-12-17T11:23:59Z,Approximate conditional distributions of distances between nodes in a   two-dimensional sensor network,Valmir C. Barbosa,cs.NI,http://arxiv.org/pdf/0812.3259v1
+0812.4646v1,2008-12-26T06:32:59Z,Time series of Internet AS-level topology graphs: four patterns and one   model,Ke Xu,cs.NI,http://arxiv.org/pdf/0812.4646v1
+0812.4710v1,2008-12-26T21:04:15Z,Indoor Channel Measurements and Communications System Design at 60 GHz,Yves Lostanlen,cs.NI,http://arxiv.org/pdf/0812.4710v1
+0812.4744v1,2008-12-27T13:37:53Z,On Wireless Link Scheduling and Flow Control,Ashutosh Deepak Gore,cs.NI,http://arxiv.org/pdf/0812.4744v1
+0901.0349v1,2009-01-04T02:47:25Z,Protecting infrastructure networks from cost-based attacks,Choy Heng Lai,cs.NI,http://arxiv.org/pdf/0901.0349v1
+0901.1312v3,2009-01-09T20:41:08Z,Novel Architectures and Algorithms for Delay Reduction in Back-pressure   Scheduling and Routing,Alexander Stolyar,cs.NI,http://arxiv.org/pdf/0901.1312v3
+0901.1479v1,2009-01-11T22:26:56Z,Exploiting the Path Propagation Time Differences in Multipath   Transmission with FEC,Maciej Kurant,cs.NI,http://arxiv.org/pdf/0901.1479v1
+0901.1629v1,2009-01-12T18:10:48Z,Adaptive threshold-based decision for efficient hybrid deflection and   retransmission scheme in OBS networks,Wael Hosny Fouad Aly,cs.NI,http://arxiv.org/pdf/0901.1629v1
+0901.2771v1,2009-01-19T07:09:38Z,Automatic Analog Beamforming Transceiver for 60 GHz Radios,Shalabh Gupta,cs.NI,http://arxiv.org/pdf/0901.2771v1
+0901.3199v1,2009-01-21T08:03:20Z,A Distributed Trust Diffusion Protocol for Ad Hoc Networks,Sylvain Sené,cs.NI,http://arxiv.org/pdf/0901.3199v1
+0901.3257v2,2009-01-21T14:47:45Z,On Leveraging Partial Paths in Partially-Connected Networks,Thrasyvoulos Spyropoulos,cs.NI,http://arxiv.org/pdf/0901.3257v2
+0901.3611v1,2009-01-23T06:59:19Z,Safe Carrier Sensing Range in CSMA Network under Physical Interference   Model,Jianwei Huang,cs.NI,http://arxiv.org/pdf/0901.3611v1
+0901.4642v1,2009-01-29T10:47:33Z,Fast Dual-Radio Cross-Layer Handoffs in Multi-Hop Infrastructure-mode   802.11 Wireless Networks for In-Vehicle Multimedia Infotainment,Ranjith Pillai,cs.NI,http://arxiv.org/pdf/0901.4642v1
+0901.4846v2,2009-01-30T09:41:09Z,Adaptive algorithms for identifying large flows in IP traffic,Philippe Robert,cs.NI,http://arxiv.org/pdf/0901.4846v2
+0902.0746v2,2009-02-04T17:06:04Z,Interference and Congestion Aware Gradient Broadcasting Routing for   Wireless Sensor Networks,Jean-Marie Gorce,cs.NI,http://arxiv.org/pdf/0902.0746v2
+0902.0919v1,2009-02-05T15:17:31Z,Multiple time-delays system modeling and control for router management,Yann Labit,cs.NI,http://arxiv.org/pdf/0902.0919v1
+0902.0920v1,2009-02-05T15:24:36Z,Design and performance evaluation of a state-space based AQM,Frédéric Gouaisbaut,cs.NI,http://arxiv.org/pdf/0902.0920v1
+0902.0922v1,2009-02-05T15:24:57Z,On Designing Lyapunov-Krasovskii Based AQM for Routers Supporting TCP   Flows,Frédéric Gouaisbaut,cs.NI,http://arxiv.org/pdf/0902.0922v1
+0902.0926v1,2009-02-05T15:33:02Z,Robust control tools for traffic monitoring in TCP/AQM networks,Yann Labit,cs.NI,http://arxiv.org/pdf/0902.0926v1
+0902.1736v2,2009-02-10T20:32:49Z,On the Statistical Characterization of Flows in Internet Traffic with   Application to Sampling,Philippe Robert,cs.NI,http://arxiv.org/pdf/0902.1736v2
+0902.4157v1,2009-02-24T14:32:57Z,Efficient Greedy Geographical Non-Planar Routing with Reactive   Deflection,Andrzej Duda,cs.NI,http://arxiv.org/pdf/0902.4157v1
+0902.4221v1,2009-02-24T20:31:34Z,Semantic Network Layering,Craig Partridge,cs.NI,http://arxiv.org/pdf/0902.4221v1
+0902.4572v1,2009-02-26T12:47:12Z,A Multipath Energy-Aware On demand Source Routing Protocol for Mobile   Ad-Hoc Networks,M. Benmohamed,cs.NI,http://arxiv.org/pdf/0902.4572v1
+0902.4779v1,2009-02-27T09:37:53Z,Simulation and Performance Analysis of MP-OLSR for Mobile Ad hoc   Networks,Benoît Parrein,cs.NI,http://arxiv.org/pdf/0902.4779v1
+0902.4781v1,2009-02-27T09:39:03Z,Implementation of Multipath and Multiple Description Coding in OLSR,Pascal Lesage,cs.NI,http://arxiv.org/pdf/0902.4781v1
+0903.0737v1,2009-03-04T11:35:22Z,C# - Connecting a Mobile Application to Oracle Server via Web Services,Daniela Ilea,cs.NI,http://arxiv.org/pdf/0903.0737v1
+0903.0742v3,2009-03-04T12:03:41Z,Hierarchical neighbor graphs: A low stretch connected structure for   points in Euclidean space,Achal Premi,cs.NI,http://arxiv.org/pdf/0903.0742v3
+0903.1002v1,2009-03-05T14:24:28Z,How do Wireless Chains Behave? The Impact of MAC Interactions,Khaled A. Harras,cs.NI,http://arxiv.org/pdf/0903.1002v1
+0903.1506v1,2009-03-09T10:00:05Z,"Wi-Fi, WiMax and WCDMA A comparative study based on Channel Impairments   and Equalization method used",Subir K. Sarkar,cs.NI,http://arxiv.org/pdf/0903.1506v1
+0903.1509v1,2009-03-09T10:09:40Z,Digital Radar for Collision Avoidance and Automatic Cruise Control in   Transportation,Debdatta Kandar,cs.NI,http://arxiv.org/pdf/0903.1509v1
+0903.1511v1,2009-03-09T10:16:08Z,MIMO Based Multimedia Communication System,C. K. Sarkar,cs.NI,http://arxiv.org/pdf/0903.1511v1
+0903.1684v5,2009-03-10T05:37:29Z,Connectivity of Heterogeneous Wireless Networks,Ananthram Swami,cs.NI,http://arxiv.org/pdf/0903.1684v5
+0903.3163v1,2009-03-18T13:44:58Z,Smart Antenna Based Broadband communication in Intelligent   Transportation system,Rabindranath Bera,cs.NI,http://arxiv.org/pdf/0903.3163v1
+0903.3165v1,2009-03-18T13:59:02Z,Automated Vehicle Location (AVL) Using Global Positioning System (GPS),Nishant Bagehel,cs.NI,http://arxiv.org/pdf/0903.3165v1
+0903.4266v1,2009-03-25T09:06:32Z,The Risk-Utility Tradeoff for IP Address Truncation,Elisa Boschi,cs.NI,http://arxiv.org/pdf/0903.4266v1
+0903.4299v1,2009-03-25T11:19:56Z,Token Ring Project,Adela Ionescu,cs.NI,http://arxiv.org/pdf/0903.4299v1
+0903.4959v2,2009-03-28T09:23:17Z,TCP over 3G links: Problems and Solutions,Ioannis Koukoutsidis,cs.NI,http://arxiv.org/pdf/0903.4959v2
+0904.0217v1,2009-04-01T17:36:45Z,The mdt algorithm,Stéphane Cateloin,cs.NI,http://arxiv.org/pdf/0904.0217v1
+0904.0785v1,2009-04-05T15:14:17Z,Evaluating and Optimising Models of Network Growth,Miguel Rio,cs.NI,http://arxiv.org/pdf/0904.0785v1
+0904.1243v1,2009-04-08T13:21:25Z,Maximizing the number of accepted flows in TDMA-based wireless ad hoc   networks is APX-complete,Stephane Rousseau,cs.NI,http://arxiv.org/pdf/0904.1243v1
+0904.1729v1,2009-04-10T18:55:12Z,Joint Opportunistic Scheduling in Multi-Cellular Systems,Philip Schniter,cs.NI,http://arxiv.org/pdf/0904.1729v1
+0904.1754v1,2009-04-10T20:42:18Z,Opportunistic Multiuser Scheduling in a Three State Markov-modeled   Downlink,Philip Schniter,cs.NI,http://arxiv.org/pdf/0904.1754v1
+0904.2028v2,2009-04-14T11:49:06Z,Cloud Networking Formation in CogMesh Environment,Marcos Katz,cs.NI,http://arxiv.org/pdf/0904.2028v2
+0904.2290v1,2009-04-15T11:55:05Z,A Comprehensive study of a New Multipath Energy Aware Routing Protocol   for Mobile Ad-hoc Networks,Saloua Chettibi,cs.NI,http://arxiv.org/pdf/0904.2290v1
+0904.2584v1,2009-04-16T20:48:43Z,New technologies for high speed computer networks: a wavelet approach,S. A. Jaramillo Florez,cs.NI,http://arxiv.org/pdf/0904.2584v1
+0904.2716v1,2009-04-17T14:57:35Z,Fast dynamics in Internet topology: preliminary observations and   explanations,Matthieu Latapy,cs.NI,http://arxiv.org/pdf/0904.2716v1
+0904.2733v1,2009-04-17T15:59:27Z,"Detection, Understanding, and Prevention of Traceroute Measurement   Artifacts",Renata Teixeira,cs.NI,http://arxiv.org/pdf/0904.2733v1
+0904.3215v1,2009-04-21T10:36:17Z,Measurement of eDonkey Activity with Distributed Honeypots,Clemence Magnien,cs.NI,http://arxiv.org/pdf/0904.3215v1
+0904.3222v1,2009-04-21T13:41:47Z,Efficient Measurement of Complex Networks Using Link Queries,Christophe Prieur,cs.NI,http://arxiv.org/pdf/0904.3222v1
+0904.3611v1,2009-04-23T07:40:59Z,VRAC: Virtual Raw Anchor Coordinates Routing in Sensor Networks --   Concepts and Experimental Protocol,Aubin Jarry,cs.NI,http://arxiv.org/pdf/0904.3611v1
+0904.3797v2,2009-04-24T12:35:01Z,Internet Traffic Periodicities and Oscillations: A Brief Review,Reginald D. Smith,cs.NI,http://arxiv.org/pdf/0904.3797v2
+0904.4048v1,2009-04-26T18:43:05Z,Un protocole de routage à basse consommation d'énergie pour les   MANETs,Saloua Chettibi,cs.NI,http://arxiv.org/pdf/0904.4048v1
+0905.0315v1,2009-05-04T07:20:31Z,Millimeter-Wave System for High Data Rate Indoor Communications,Ghaïs El Zein,cs.NI,http://arxiv.org/pdf/0905.0315v1
+0905.0316v1,2009-05-04T07:21:18Z,A low Complexity Wireless Gigabit Ethernet IFoF 60 GHz H/W Platform and   Issues,G. El Zein,cs.NI,http://arxiv.org/pdf/0905.0316v1
+0905.0317v1,2009-05-04T07:22:12Z,60 GHz High Data Rate Wireless Communication System,Ghaïs El Zein,cs.NI,http://arxiv.org/pdf/0905.0317v1
+0905.0744v1,2009-05-06T05:42:08Z,Optimization of Energy Efficient Transmission in Underwater Sensor   Networks,Bin Liu,cs.NI,http://arxiv.org/pdf/0905.0744v1
+0905.2825v1,2009-05-18T08:35:02Z,Heterogeneous attachment strategies optimize the topology of dynamic   wireless networks,Viktoria Fodor,cs.NI,http://arxiv.org/pdf/0905.2825v1
+0905.3049v1,2009-05-19T09:33:42Z,Swarming Overlay Construction Strategies,Chadi Barakat,cs.NI,http://arxiv.org/pdf/0905.3049v1
+0905.4021v1,2009-05-25T11:06:11Z,A Physical Model of Wireless Network,Jean-Marc Kelif,cs.NI,http://arxiv.org/pdf/0905.4021v1
+0906.0426v1,2009-06-02T06:41:19Z,A Mixed-Fractal Model for Network Traffic,Yi Zhang,cs.NI,http://arxiv.org/pdf/0906.0426v1
+0906.0845v1,2009-06-04T07:14:39Z,Analyzing of MOS and Codec Selection for Voice over IP Technology,Mohd Nazri Ismail,cs.NI,http://arxiv.org/pdf/0906.0845v1
+0906.2615v1,2009-06-15T06:22:20Z,Stability Properties of Networks with Interacting TCP Flows,Maaike Verloop,cs.NI,http://arxiv.org/pdf/0906.2615v1
+0906.2742v1,2009-06-13T10:49:20Z,"Power Saving Strategies and Technologies in Network Equipment   Opportunities and Challenges, Risk and Rewards",Daniel Kharitonov,cs.NI,http://arxiv.org/pdf/0906.2742v1
+0906.3038v1,2009-06-16T23:27:36Z,"A measurement driven, 802.11 anti-jamming system",Christos Gkantsidis,cs.NI,http://arxiv.org/pdf/0906.3038v1
+0906.3194v3,2009-06-17T14:31:13Z,"Complexity-Efficient Enumeration Techniques for Soft-Input, Soft-Output   Sphere Decoding",Gerd Ascheid,cs.NI,http://arxiv.org/pdf/0906.3194v3
+0906.3771v1,2009-06-20T03:06:35Z,High Transmission Bit Rate of A thermal Arrayed Waveguide Grating (AWG)   Module in Passive Optical Networks,Abd El Fattah A. Saad,cs.NI,http://arxiv.org/pdf/0906.3771v1
+0907.0649v2,2009-07-03T14:48:21Z,A Divide-and-Conquer Scheme for Assigning Roles in Multi-Channel   Wireless Mesh Networks,Andrzej Duda,cs.NI,http://arxiv.org/pdf/0907.0649v2
+0907.2121v1,2009-07-13T09:56:16Z,Topology Discovery Using Cisco Discovery Protocol,Sergio R. Rodriguez,cs.NI,http://arxiv.org/pdf/0907.2121v1
+0907.2252v1,2009-07-13T20:10:29Z,AWiMA: An architecture for Adhoc Wireless Mobile internet Access,Dilip Krishnaswamy,cs.NI,http://arxiv.org/pdf/0907.2252v1
+0907.2929v1,2009-07-16T20:16:02Z,4G Wireless Networks: Opportunities and Challenges,Hassan Gobjuka,cs.NI,http://arxiv.org/pdf/0907.2929v1
+0907.3095v1,2009-07-17T15:31:38Z,Ethernet Topology Discovery: A Survey,Kamal Ahmat,cs.NI,http://arxiv.org/pdf/0907.3095v1
+0907.3777v1,2009-07-22T06:02:53Z,A multiobjective Tabu framework for the optimization and evaluation of   wireless systems,Cristina Comaniciu,cs.NI,http://arxiv.org/pdf/0907.3777v1
+0907.3793v1,2009-07-22T08:10:39Z,Cross-layer Resource Allocation Scheme for Multi-band High Rate UWB   Systems,Jean-François Hélard,cs.NI,http://arxiv.org/pdf/0907.3793v1
+0907.3977v3,2009-07-23T03:50:01Z,Throughput-Optimal Opportunistic Scheduling in the Presence of   Flow-Level Dynamics,R. Srikant,cs.NI,http://arxiv.org/pdf/0907.3977v3
+0907.4251v1,2009-07-24T10:20:50Z,Buffered Aloha with K-Exponential Backoff -- Part I: Stability and   Throughput Analysis,Lin Dai,cs.NI,http://arxiv.org/pdf/0907.4251v1
+0907.4254v1,2009-07-24T10:26:05Z,Buffered Aloha with K-Exponential Backoff -- Part II: Delay Analysis,Tony T. Lee,cs.NI,http://arxiv.org/pdf/0907.4254v1
+0907.4468v1,2009-07-26T09:39:39Z,What type of distribution for packet delay in a global network should be   used in the control theory?,N. Kuznetsova,cs.NI,http://arxiv.org/pdf/0907.4468v1
+0907.4815v1,2009-07-28T01:11:56Z,A Survey on BGP Issues and Solutions,Amit Narayanan,cs.NI,http://arxiv.org/pdf/0907.4815v1
+0907.4870v3,2009-07-28T09:37:48Z,Tunable locally-optimal geographical forwarding in wireless sensor   networks with sleep-wake cycling nodes,A. Kumar,cs.NI,http://arxiv.org/pdf/0907.4870v3
+0907.5233v1,2009-07-29T23:20:21Z,Analysis of Internet Measurement Systems for Optimized Anomaly Detection   System Design,Antonio Ortega,cs.NI,http://arxiv.org/pdf/0907.5233v1
+0907.5402v8,2009-07-30T19:40:20Z,Optimal Scheduling for Fair Resource Allocation in Ad Hoc Networks with   Elastic and Inelastic Traffic,R. Srikant,cs.NI,http://arxiv.org/pdf/0907.5402v8
+0907.5430v4,2009-07-30T21:12:04Z,Dynamic control of Coding in Delay Tolerant Networks,Lucile Sassatelli,cs.NI,http://arxiv.org/pdf/0907.5430v4
+0907.5441v1,2009-07-30T22:31:08Z,A Hop-by-Hop Congestion-Aware Routing Protocol for Heterogeneous Mobile   Ad-hoc Networks,S. Santhosh baboo,cs.NI,http://arxiv.org/pdf/0907.5441v1
+0907.5488v4,2009-07-31T17:24:50Z,Network Coding for Delay Tolerant Networks with Byzantine Adversaries,Muriel Medard,cs.NI,http://arxiv.org/pdf/0907.5488v4
+0907.5489v2,2009-07-31T09:07:50Z,On Delay Constrained Multicast Capacity of Large-Scale Mobile Ad-Hoc   Networks,Lei Ying,cs.NI,http://arxiv.org/pdf/0907.5489v2
+0908.0076v1,2009-08-01T13:32:37Z,Log Management support for recovery in mobile computing Environment,K. Thanushkodi,cs.NI,http://arxiv.org/pdf/0908.0076v1
+0908.0362v1,2009-08-03T23:10:55Z,Utility Maximization for Delay Constrained QoS in Wireless,P. R. Kumar,cs.NI,http://arxiv.org/pdf/0908.0362v1
+0908.0587v1,2009-08-05T05:13:34Z,Scheduling Heterogeneous Real-Time Traffic over Fading Wireless Channels,P. R. Kumar,cs.NI,http://arxiv.org/pdf/0908.0587v1
+0908.0711v3,2009-08-05T17:35:10Z,Passive network tomography for erroneous networks: A network coding   approach,Minghua Chen,cs.NI,http://arxiv.org/pdf/0908.0711v3
+0908.0722v1,2009-08-05T18:36:37Z,Max-Flow Protection using Network Coding,Ahmed E. Kamal,cs.NI,http://arxiv.org/pdf/0908.0722v1
+0908.0812v1,2009-08-06T08:45:18Z,News from the Internet congestion control world,Luca Muscariello,cs.NI,http://arxiv.org/pdf/0908.0812v1
+0908.0980v1,2009-08-09T06:57:39Z,Deterministic Formulization of SNR for Wireless Multiuser DS-CDMA   Networks,Aasia Riasat,cs.NI,http://arxiv.org/pdf/0908.0980v1
+0908.0986v1,2009-08-07T05:59:25Z,Ethernet Networks: Current Trends and Tools,Abdulqader M. El-Sayed,cs.NI,http://arxiv.org/pdf/0908.0986v1
+0908.1033v1,2009-08-07T12:37:26Z,"Topological design of minimum cost survivable computer communication   networks, Bipartite Graph Method",S. K. Srivatsa,cs.NI,http://arxiv.org/pdf/0908.1033v1
+0908.1056v1,2009-08-07T13:53:54Z,Recent Applications of Optical Parametric Amplifiers in Hybrid WDM TDM   Local Area Optical Networks,Mahmoud M. A. Eid,cs.NI,http://arxiv.org/pdf/0908.1056v1
+0908.1090v1,2009-08-07T17:37:39Z,Study of Proposed Methods for Improving TCP Performance Over Wireless   Links,Anshuman Sinha,cs.NI,http://arxiv.org/pdf/0908.1090v1
+0908.1220v1,2009-08-09T10:22:09Z,A new approach to services differentiation between mobile terminals of a   wireless LAN,Bachar Zouari,cs.NI,http://arxiv.org/pdf/0908.1220v1
+0908.1471v1,2009-08-11T08:17:48Z,Distance priority based multicast routing in WDM networks considering   sparse light splitting,Bernard Cousin,cs.NI,http://arxiv.org/pdf/0908.1471v1
+0908.2007v1,2009-08-14T03:45:12Z,Predictive Blacklisting as an Implicit Recommendation System,Athina Markopoulou,cs.NI,http://arxiv.org/pdf/0908.2007v1
+0908.2231v3,2009-08-16T17:29:30Z,Two Algorithms for Network Size Estimation for Master/Slave Ad Hoc   Networks,Miguel Rio,cs.NI,http://arxiv.org/pdf/0908.2231v3
+0908.2402v1,2009-08-17T17:43:50Z,MR-BART: Multi-Rate Available Bandwidth Estimation in Real-Time,Keivan Navaie,cs.NI,http://arxiv.org/pdf/0908.2402v1
+0908.2721v2,2009-08-19T10:15:28Z,On the impact of TCP and per-flow scheduling on Internet performance   (extended version),Luca Muscariello,cs.NI,http://arxiv.org/pdf/0908.2721v2
+0908.3715v1,2009-08-26T01:43:15Z,Overlapping Multi-hop Clustering for Wireless Sensor Networks,Mohamed Younis,cs.NI,http://arxiv.org/pdf/0908.3715v1
+0909.0093v1,2009-09-01T05:32:29Z,Energy Efficient Location Aided Routing Protocol for Wireless MANETs,Mohammad A. Mikki,cs.NI,http://arxiv.org/pdf/0909.0093v1
+0909.0571v1,2009-09-03T05:31:18Z,QoS Provisioning Using Hybrid FSO RF Based Hierarchical Model for   Wireless Multimedia Sensor Networks,Sheheryar Ali Arshad,cs.NI,http://arxiv.org/pdf/0909.0571v1
+0909.0763v1,2009-09-03T21:11:46Z,The Asymptotic Behavior of Minimum Buffer Size Requirements in Large P2P   Streaming Networks,Srinivas Shakkottai,cs.NI,http://arxiv.org/pdf/0909.0763v1
+0909.1045v1,2009-09-05T18:20:22Z,A Novel Model for Optimized GSM Network Design,Rebecca F. Pinheiro,cs.NI,http://arxiv.org/pdf/0909.1045v1
+0909.1241v1,2009-09-07T16:13:39Z,Optimal Timer Based Selection Schemes,Raymond Yim,cs.NI,http://arxiv.org/pdf/0909.1241v1
+0909.1713v1,2009-09-09T14:22:55Z,Size Does Matter (in P2P Live Streaming),Diego Perino,cs.NI,http://arxiv.org/pdf/0909.1713v1
+0909.1789v1,2009-09-09T18:16:43Z,On Resource Aware Algorithms in Epidemic Live Streaming,Diego Perino,cs.NI,http://arxiv.org/pdf/0909.1789v1
+0909.1792v1,2009-09-09T18:25:29Z,Heterogeneity in Distributed Live Streaming: Blessing or Curse?,Fabien Mathieu,cs.NI,http://arxiv.org/pdf/0909.1792v1
+0909.2119v3,2009-09-11T09:38:08Z,Performance of Opportunistic Epidemic Routing on Edge-Markovian Dynamic   Graphs,Marcelo Dias de Amorim,cs.NI,http://arxiv.org/pdf/0909.2119v3
+0909.2187v1,2009-09-11T14:54:08Z,Embedded Sensor System for Early Pathology Detection in Building   Construction,Carlos J. Escudero Cascon,cs.NI,http://arxiv.org/pdf/0909.2187v1
+0909.2377v1,2009-09-12T22:24:52Z,Geometric and Signal Strength Dilution of Precision (DoP)Wi-Fi,Francois Spies,cs.NI,http://arxiv.org/pdf/0909.2377v1
+0909.2706v1,2009-09-15T02:58:04Z,Measurement and Analysis of an Online Content Voting Network: A Case   Study of Digg,Yingwu Zhu,cs.NI,http://arxiv.org/pdf/0909.2706v1
+0909.3091v1,2009-09-16T19:46:12Z,ALOHA With Collision Resolution(ALOHA-CR): Theory and Software Defined   Radio Implementation,Kapil R. Dandekar,cs.NI,http://arxiv.org/pdf/0909.3091v1
+0909.4858v1,2009-09-26T11:24:59Z,A Secure and Fault tolerant framework for Mobile IPv6 based networks,K. Thanuskodi,cs.NI,http://arxiv.org/pdf/0909.4858v1
+0909.5263v2,2009-09-29T04:25:43Z,Practical Rate and Route Adaptation with Efficient Link Quality   Estimation for IEEE 802.11b/g Multi-Hop Networks,Prasant Mohapatra,cs.NI,http://arxiv.org/pdf/0909.5263v2
+0911.0121v2,2009-11-02T20:37:14Z,(RCFT) ReClustering Formation Technique in Hierarchical Sensor Network,Yongtae Shin,cs.NI,http://arxiv.org/pdf/0911.0121v2
+0911.0141v1,2009-11-01T07:49:51Z,Impact of Obstacles on the Degree of Mobile Ad Hoc Connection Graphs,Yoann Pigné,cs.NI,http://arxiv.org/pdf/0911.0141v1
+0911.0465v1,2009-11-03T00:38:01Z,A Simple Conceptual Generator for the Internet Graph,Michalis Faloutsos,cs.NI,http://arxiv.org/pdf/0911.0465v1
+0911.0785v1,2009-11-04T11:25:06Z,Management of Location Based Advertisement Services using Spatial   Triggers in Cellular Networks,Assad Ali,cs.NI,http://arxiv.org/pdf/0911.0785v1
+0911.0916v1,2009-11-04T19:44:46Z,Toward a Gigabit Wireless Communications System,Ghaïs El Zein,cs.NI,http://arxiv.org/pdf/0911.0916v1
+0911.0978v1,2009-11-05T05:44:25Z,"Hybrid, Optical and Wireless Near-Gigabit Communications System",Benoit Charbonier,cs.NI,http://arxiv.org/pdf/0911.0978v1
+0911.1036v1,2009-11-05T14:11:57Z,Système de Communications Sans Fil Très Haut Débit à 60 GHz,Ghaïs El Zein,cs.NI,http://arxiv.org/pdf/0911.1036v1
+0911.1379v2,2009-11-06T23:59:32Z,On Improving the Representation of a Region Achieved by a Sensor Network,Harish Sethu,cs.NI,http://arxiv.org/pdf/0911.1379v2
+0911.1502v1,2009-11-08T10:04:54Z,A Round-based Pricing Scheme for Maximizing Service Provider's Revenue   in P2PTV Networks,Gitanjali Bhutani,cs.NI,http://arxiv.org/pdf/0911.1502v1
+0911.1507v2,2009-11-08T10:25:11Z,MAC Layer Hurdles in BSNs,Kyung Sup Kwak,cs.NI,http://arxiv.org/pdf/0911.1507v2
+0911.1508v1,2009-11-08T10:30:32Z,Performance Analysis of Two-Hop Cooperative MIMO transmission with Relay   Selection in Rayleigh Fading Channel,Kyung Sup Kwak,cs.NI,http://arxiv.org/pdf/0911.1508v1
+0911.1509v3,2009-11-08T10:34:02Z,On the Development of Low Power MAC Protocol for WBANs,Kyung Sup Kwak,cs.NI,http://arxiv.org/pdf/0911.1509v3
+0911.1510v1,2009-11-08T10:38:18Z,A Near-Optimal Scheme for TCP ACK Pacing to Maintain Throughput in   Wireless Networks,Gitanjali Bhutani,cs.NI,http://arxiv.org/pdf/0911.1510v1
+0911.1511v3,2009-11-08T10:38:50Z,MIMO Cluster Cooperative Assignment Cross Layer Scheme for Hybrid   Wireless Sensor Networks,Sana Ullah,cs.NI,http://arxiv.org/pdf/0911.1511v3
+0911.1512v1,2009-11-08T10:40:52Z,A Novel Cross Layer Scheme for Multi-Channel Hybrid Cognitive Ad-hoc   Networks,Kyung Sup Kwak,cs.NI,http://arxiv.org/pdf/0911.1512v1
+0911.1544v2,2009-11-08T16:40:24Z,Towards Power Efficient MAC Protocol for In-Body and On-Body Sensor   Networks,Kyung Sup Kwak,cs.NI,http://arxiv.org/pdf/0911.1544v2
+0911.1546v2,2009-11-08T16:46:59Z,A Study of Implanted and Wearable Body Sensor Networks,Kyung Sup Kwak,cs.NI,http://arxiv.org/pdf/0911.1546v2
+0911.1681v3,2009-11-09T13:54:06Z,Applications of UWB Technology,Kyung Sup Kwak,cs.NI,http://arxiv.org/pdf/0911.1681v3
+0911.1972v1,2009-11-10T19:31:07Z,People-Sensing Spatial Characteristics of RF Sensor Networks,Joey Wilson,cs.NI,http://arxiv.org/pdf/0911.1972v1
+0911.2075v1,2009-11-11T08:09:07Z,A scientific understanding of network designing,Guoqiang Zhang,cs.NI,http://arxiv.org/pdf/0911.2075v1
+0911.2193v1,2009-11-11T18:04:30Z,Feeds as Query Result Serializations,Erik Wilde,cs.NI,http://arxiv.org/pdf/0911.2193v1
+0911.2538v1,2009-11-13T05:17:23Z,Euclidean versus hyperbolic congestion in idealized versus experimental   networks,Yuliy Baryshnikov,cs.NI,http://arxiv.org/pdf/0911.2538v1
+0911.2619v1,2009-11-13T14:31:58Z,Active Flows in Diagnostic of Troubleshooting on Backbone Links,M. V. Strizhov,cs.NI,http://arxiv.org/pdf/0911.2619v1
+0911.3418v1,2009-11-17T22:25:49Z,Flare: Architecture for rapid and easy development of Internet-based   Applications,NVSN Kalyan Chakravarthy,cs.NI,http://arxiv.org/pdf/0911.3418v1
+0911.3528v1,2009-11-18T13:01:54Z,Estimating Network Link Characteristics using Packet-Pair Dispersion: A   Discrete Time Queueing Theoretic View,Supriyo Chakraborty,cs.NI,http://arxiv.org/pdf/0911.3528v1
+0911.4202v1,2009-11-21T20:59:27Z,Network congestion control using NetFlow,Elena N. Kryuchkova,cs.NI,http://arxiv.org/pdf/0911.4202v1
+0911.4288v1,2009-11-22T21:11:56Z,"The Importance, Design and Implementation of a Middleware for Networked   Control Systems",P. R. Kumar,cs.NI,http://arxiv.org/pdf/0911.4288v1
+0911.4332v2,2009-11-23T07:11:49Z,Scheduling Sensors for Guaranteed Sparse Coverage,Javad Taheri,cs.NI,http://arxiv.org/pdf/0911.4332v2
+0911.4357v1,2009-11-23T11:20:27Z,"Splitting Algorithms for Fast Relay Selection: Generalizations,   Analysis, and a Unified View",Raymond Yim,cs.NI,http://arxiv.org/pdf/0911.4357v1
+0911.5026v2,2009-11-26T08:29:25Z,Time-domain approach to energy efficiency in high-performance network   element design,Daniel Kharitonov,cs.NI,http://arxiv.org/pdf/0911.5026v2
+0911.5153v3,2009-11-26T21:06:41Z,Self-Reference Ultra-Wideband Systems,Panayiotis V. Frangos,cs.NI,http://arxiv.org/pdf/0911.5153v3
+0912.0602v1,2009-12-03T08:58:34Z,A Reliable and Fault Tolerant Routing for Optical WDM Networks,S. SundaraVadivelu,cs.NI,http://arxiv.org/pdf/0912.0602v1
+0912.0625v1,2009-12-03T11:02:33Z,"Unraveling BitTorrent's File Unavailability: Measurements, Analysis and   Solution Exploration",Ralf Steinmetz,cs.NI,http://arxiv.org/pdf/0912.0625v1
+0912.0921v1,2009-12-04T19:36:43Z,Flow Splitting with Fate Sharing in a Next Generation Transport Services   Architecture,Bryan Ford,cs.NI,http://arxiv.org/pdf/0912.0921v1
+0912.0930v1,2009-12-04T20:20:54Z,Modified Opportunistic Deficit Round Robin Scheduling for improved QOS   in IEEE 802.16 WBA networks,P. V. G. D. Prasad Reddy,cs.NI,http://arxiv.org/pdf/0912.0930v1
+0912.0946v1,2009-12-04T21:07:38Z,Comparative Study of Different Guard Time Intervals to Improve the BER   Performance of Wimax Systems to Minimize the Effects of ISI and ICI under   Adaptive Modulation Techniques over SUI1 and AWGN Communication Channels,Riaz Hossain,cs.NI,http://arxiv.org/pdf/0912.0946v1
+0912.0984v1,2009-12-05T05:55:16Z,Ant Based Adaptive Multicast Routing Protocol (AAMRP) for Mobile Ad Hoc   Networks,K. Duraiswamy,cs.NI,http://arxiv.org/pdf/0912.0984v1
+0912.0985v1,2009-12-05T05:57:51Z,A New Approach to Cold Start in Peer to Peer File Sharing Networks,Mohammad Ali Nematbakhsh,cs.NI,http://arxiv.org/pdf/0912.0985v1
+0912.1004v1,2009-12-05T12:28:55Z,Comparative Study Of Congestion Control Techniques In High Speed   Networks,Al-Sammarraie Hosam,cs.NI,http://arxiv.org/pdf/0912.1004v1
+0912.1013v1,2009-12-05T13:11:20Z,An Efficient Admission Control Algorithm for Load Balancing In   Hierarchical Mobile IPv6 Networks,Dr. O. B. V. Ramanaiah,cs.NI,http://arxiv.org/pdf/0912.1013v1
+0912.1020v1,2009-12-05T13:35:42Z,Performance Evaluation of WiMAX (802.16) Using Different Encoding   Schemes,Usman Muhammad Khan,cs.NI,http://arxiv.org/pdf/0912.1020v1
+0912.1805v1,2009-12-09T17:19:10Z,iSSEE: IMS Sensors Search Engine Enabler for Sensors Mashups Convergent   Application,Olivier Martinot,cs.NI,http://arxiv.org/pdf/0912.1805v1
+0912.2138v1,2009-12-11T02:04:15Z,Effective Carrier Sensing in CSMA Networks under Cumulative Interference,Jianwei Huang,cs.NI,http://arxiv.org/pdf/0912.2138v1
+0912.2284v1,2009-12-11T17:18:27Z,Evaluation of Varrying Mobility Models & Network Loads on DSDV Protocol   of MANETs,M. K Tiwari,cs.NI,http://arxiv.org/pdf/0912.2284v1
+0912.2296v1,2009-12-11T18:03:22Z,A QoS-Aware Intelligent Replica Management Architecture for Content   Distribution in Peer-to-Peer Overlay Networks,S. N. Sivanandam,cs.NI,http://arxiv.org/pdf/0912.2296v1
+0912.2298v1,2009-12-11T18:06:43Z,Performance Metrics Analysis of Torus Embedded Hypercube Interconnection   Network,H. S. Mruthyunjaya,cs.NI,http://arxiv.org/pdf/0912.2298v1
+0912.3089v3,2009-12-16T09:58:46Z,Investment and Pricing with Spectrum Uncertainty: A Cognitive Operator's   Perspective,Biying Shou,cs.NI,http://arxiv.org/pdf/0912.3089v3
+0912.3966v1,2009-12-20T02:40:29Z,Towards Expeditious and Unswerving Routing to Corroborate Nascent   Internet,Mahesh Kumar,cs.NI,http://arxiv.org/pdf/0912.3966v1
+0912.3972v1,2009-12-20T03:45:39Z,Network Traffic Management,Namdeo V. Kalyankar,cs.NI,http://arxiv.org/pdf/0912.3972v1
+0912.3985v1,2009-12-20T05:29:17Z,New Model of Network- a Future Aspect of the Computer Networks,T. Ramajujam,cs.NI,http://arxiv.org/pdf/0912.3985v1
+0912.4087v1,2009-12-21T06:47:42Z,On the Connectivity and Multihop Delay of Ad Hoc Cognitive Radio   Networks,Ananthram Swami,cs.NI,http://arxiv.org/pdf/0912.4087v1
+0912.4115v2,2009-12-21T09:34:26Z,On Channel-Discontinuity-Constraint Routing in Wireless Networks,Pankaj K. Agarwal,cs.NI,http://arxiv.org/pdf/0912.4115v2
+0912.4241v1,2009-12-21T19:30:04Z,Dynamic routing based on call quality,Emin Gabrielyan,cs.NI,http://arxiv.org/pdf/0912.4241v1
+0912.4323v1,2009-12-22T05:35:22Z,Modified Minimum Connected Dominating Set formation for Wireless Adhoc   Networks,S. Makka,cs.NI,http://arxiv.org/pdf/0912.4323v1
+0912.4324v1,2009-12-22T05:43:52Z,Routing in Wireless Adhoc Networks: A New Horizon,K. V. Arya,cs.NI,http://arxiv.org/pdf/0912.4324v1
+0912.4390v1,2009-12-22T12:37:49Z,Delay-Constrained Utility Maximization in Multihop Random Access   Networks,Babak H. Khalaj,cs.NI,http://arxiv.org/pdf/0912.4390v1
+0912.4613v2,2009-12-23T11:35:13Z,Chain Routing: A new routing framework for the Internet based on   complete orders,Alexander S. Stepanenko,cs.NI,http://arxiv.org/pdf/0912.4613v2
+0912.4993v2,2009-12-26T01:44:46Z,Cognitive MAC Protocols Using Memory for Distributed Spectrum Sharing   Under Limited Spectrum Sensing,Mihaela van der Schaar,cs.NI,http://arxiv.org/pdf/0912.4993v2
+0912.5218v1,2009-12-28T20:55:37Z,The Internet's unexploited path diversity,Alexander S. Stepanenko,cs.NI,http://arxiv.org/pdf/0912.5218v1
+0912.5269v1,2009-12-29T07:21:50Z,Dynamic Task Fetching Over Time Varying Wireless Channels for Mobile   Computing Applications,Jatinder Pal Singh,cs.NI,http://arxiv.org/pdf/0912.5269v1
+0912.5292v2,2009-12-29T11:07:13Z,High-Speed Signature Matching in Network Interface Device using Bloom   Filters,Arun Kumar S P,cs.NI,http://arxiv.org/pdf/0912.5292v2
+0912.5324v3,2009-12-29T16:05:46Z,Point-to-point and Point-to-multipoint CDMA Access Network with Enhanced   Security,Diego F. Grosz,cs.NI,http://arxiv.org/pdf/0912.5324v3
+0912.5506v1,2009-12-30T19:32:09Z,Wireless Sensor Networking for Rain-fed Farming Decision Support,J-P. Hubaux,cs.NI,http://arxiv.org/pdf/0912.5506v1
+0912.5527v1,2009-12-30T20:20:25Z,VANET Connectivity Analysis,J. -P. Hubaux,cs.NI,http://arxiv.org/pdf/0912.5527v1
+1001.0069v1,2009-12-31T02:23:35Z,Synchronization Analysis in Physical Layer Network Coding,Hui Wang,cs.NI,http://arxiv.org/pdf/1001.0069v1
+1001.0831v3,2010-01-06T08:06:53Z,A Review of Wireless Body Area Networks for Medical Applications,Kyung Sup Kwak,cs.NI,http://arxiv.org/pdf/1001.0831v3
+1001.1110v1,2010-01-07T16:36:00Z,Joint Impact of Pathloss Shadowing and Fast Fading - An Outage Formula   for Wireless Networks,Marceau Coupechoux,cs.NI,http://arxiv.org/pdf/1001.1110v1
+1001.1967v1,2010-01-12T18:14:30Z,Architecture of Network Management Tools for Heterogeneous System,Zahian Ismail,cs.NI,http://arxiv.org/pdf/1001.1967v1
+1001.1992v1,2010-01-12T19:44:40Z,Hierarchical Route Optimization by Using Tree information option in a   Mobile Networks,Menu Chaudhary,cs.NI,http://arxiv.org/pdf/1001.1992v1
+1001.2272v1,2010-01-13T19:12:21Z,Call Admission Control performance model for Beyond 3G Wireless Networks,P. S. Satyanarayana,cs.NI,http://arxiv.org/pdf/1001.2272v1
+1001.2603v1,2010-01-15T02:53:14Z,Multiple Access Network Information-flow And Correction codes,Tracey Ho,cs.NI,http://arxiv.org/pdf/1001.2603v1
+1001.2848v1,2010-01-16T19:39:43Z,Evaluation Study for Delay and Link Utilization with the New-Additive   Increase Multiplicative Decrease Congestion Avoidance and Control Algorithm,Shamala Subramaniam,cs.NI,http://arxiv.org/pdf/1001.2848v1
+1001.3225v1,2010-01-19T08:48:55Z,Extending INET Framework for Directional and Asymmetrical Wireless   Communications,Olivier Dalle,cs.NI,http://arxiv.org/pdf/1001.3225v1
+1001.3392v1,2010-01-19T19:48:28Z,Adaptive resource allocation at the cell border using cooperative   technique,Haidar El-Mokdad,cs.NI,http://arxiv.org/pdf/1001.3392v1
+1001.3395v1,2010-01-19T19:50:18Z,Positioning based information technique in cooperative MIMO-OFDM systems,Jean-François Hélard,cs.NI,http://arxiv.org/pdf/1001.3395v1
+1001.3405v1,2010-01-19T21:10:08Z,HYMAD: Hybrid DTN-MANET Routing for Dense and Highly Dynamic Wireless   Networks,Vania Conan,cs.NI,http://arxiv.org/pdf/1001.3405v1
+1001.3439v1,2010-01-20T01:19:56Z,Tuning Message Size in Opportunistic Mobile Networks,Marcelo Dias de Amorim,cs.NI,http://arxiv.org/pdf/1001.3439v1
+1001.3451v1,2010-01-20T03:22:16Z,Dimensionnement des messages dans un reseau mobile opportuniste,Marcelo Dias de Amorim,cs.NI,http://arxiv.org/pdf/1001.3451v1
+1001.3483v2,2010-01-20T07:37:51Z,BGP Converges to stable solution in Interdomain routing,A. Arul Lawrence Selvakumar,cs.NI,http://arxiv.org/pdf/1001.3483v2
+1001.3533v2,2010-01-20T10:14:57Z,Transformation of Networks through Cognitive Approaches,Kavitha Sooda,cs.NI,http://arxiv.org/pdf/1001.3533v2
+1001.3673v1,2010-01-20T21:06:33Z,Plausible Mobility: Inferring Movement from Contacts,Vania Conan,cs.NI,http://arxiv.org/pdf/1001.3673v1
+1001.3689v1,2010-01-20T22:24:10Z,Infocast: A New Paradigm for Collaborative Content Distribution from   Roadside Units to Vehicular Networks Using Rateless Codes,Faramarz Fekri,cs.NI,http://arxiv.org/pdf/1001.3689v1
+1001.3714v3,2010-01-21T03:19:21Z,Network Codes Resilient to Jamming and Eavesdropping,Michael Langberg,cs.NI,http://arxiv.org/pdf/1001.3714v3
+1001.3740v1,2010-01-21T08:12:58Z,Cognitive Routing with Stretched Network Awareness through Hidden Markov   Model Learning at Router Level,S. Abhijith,cs.NI,http://arxiv.org/pdf/1001.3740v1
+1001.3777v1,2010-01-21T11:20:30Z,Relaxation Control of Packet Arrival Rate in the Neighborhood of the   Destination in Concentric Sensor Networks,M. Vaidehi,cs.NI,http://arxiv.org/pdf/1001.3777v1
+1001.4184v1,2010-01-23T18:38:20Z,"Review and Analysis of Local Multipoint Distribution System (LMDS) to   Deliver Voice, Data, Internet, and Video Services",S. S. Riaz Ahamed,cs.NI,http://arxiv.org/pdf/1001.4184v1
+1001.4185v1,2010-01-23T18:45:48Z,Technological Strategy of Using Global Positioning System: An Analysis,S. S. Riaz Ahamed,cs.NI,http://arxiv.org/pdf/1001.4185v1
+1001.4191v1,2010-01-23T19:10:17Z,Performance Analysis and Special Issues of Broadband Strategies in the   Computer Communication,D. Mahesh,cs.NI,http://arxiv.org/pdf/1001.4191v1
+1001.4200v1,2010-01-23T19:39:21Z,Comparative Study of Protocols Used for Establishing VPN,Dr. T. Purusothaman,cs.NI,http://arxiv.org/pdf/1001.4200v1
+1001.4753v1,2010-01-26T18:05:32Z,Obstacle Constrained Total Area Coverage in Wireless Sensor Networks,Anurag Kumar,cs.NI,http://arxiv.org/pdf/1001.4753v1
+1001.5194v1,2010-01-28T15:22:44Z,Auction-based Bandwidth Allocation Mechanisms for Wireless Future   Internet,Isabelle Guerin Lassous,cs.NI,http://arxiv.org/pdf/1001.5194v1
+1001.5334v1,2010-01-29T06:47:44Z,An Efficient Hidden Markov Model for Offline Handwritten Numeral   Recognition,S. Hemanth,cs.NI,http://arxiv.org/pdf/1001.5334v1
+1001.5339v1,2010-01-29T07:18:24Z,Implementation of Connectivity and Handover through Wireless Sensor Node   based Techniques,K. C. Shet,cs.NI,http://arxiv.org/pdf/1001.5339v1
+1002.0507v1,2010-02-02T15:13:38Z,Miniaturized wireless sensor network,Robert Plana,cs.NI,http://arxiv.org/pdf/1002.0507v1
+1002.0508v1,2010-02-02T15:14:01Z,Software defined radio layer for IR-UWB systems in Wireless Sensor   Network Context,Robert Plana,cs.NI,http://arxiv.org/pdf/1002.0508v1
+1002.0509v1,2010-02-02T15:14:30Z,Study of Reconfigurable Mostly Digital Radio for Manet,Robert Plana,cs.NI,http://arxiv.org/pdf/1002.0509v1
+1002.0511v1,2010-02-02T15:19:52Z,SOPC Co-Design Platform for UWB Systems in Wireless Sensor Network   Context,Robert Plana,cs.NI,http://arxiv.org/pdf/1002.0511v1
+1002.0570v1,2010-02-02T20:02:20Z,Simulation Platform for Wireless Sensor Networks Based on Impulse Radio   Ultra Wide Band,Robert Plana,cs.NI,http://arxiv.org/pdf/1002.0570v1
+1002.0573v1,2010-02-02T20:05:45Z,Medium Access Control for Wireless Sensor Networks based on Impulse   Radio Ultra Wideband,Robert Plana,cs.NI,http://arxiv.org/pdf/1002.0573v1
+1002.0574v1,2010-02-02T20:06:12Z,Channel Capacity Limitations versus Hardware Implementation for UWB   Impulse Radio Communications,Robert Plana,cs.NI,http://arxiv.org/pdf/1002.0574v1
+1002.0575v1,2010-02-02T20:06:15Z,Performance Evaluation of Impluse Radio Ultra Wide Band Wireless Sensor   Networks,Robert Plana,cs.NI,http://arxiv.org/pdf/1002.0575v1
+1002.0576v1,2010-02-02T20:06:38Z,New methodology to design advanced MR-IRUWB communication system,Robert Plana,cs.NI,http://arxiv.org/pdf/1002.0576v1
+1002.0644v1,2010-02-03T05:06:00Z,Performance Analysis of m-retry BEB based DCF under Unsaturated Traffic   Condition,Joarder Kamruzzaman,cs.NI,http://arxiv.org/pdf/1002.0644v1
+1002.0682v1,2010-02-03T09:58:39Z,IR-UWB Channel Capacity for Analog and Mostly Digital Implementation,Robert Plana,cs.NI,http://arxiv.org/pdf/1002.0682v1
+1002.1146v1,2010-02-05T08:31:08Z,Interconnection between 802.15.4 Devices and IPv6: Implications and   Existing Approaches,Abdullah Azfar,cs.NI,http://arxiv.org/pdf/1002.1146v1
+1002.1151v1,2010-02-05T08:46:03Z,Realistic Approach towards Quantitative Analysis and Simulation of   EEHC-Based Routing for Wireless Sensor Networks,Lalit Awasthi,cs.NI,http://arxiv.org/pdf/1002.1151v1
+1002.1152v1,2010-02-05T08:49:09Z,Performance Investigation of Virtual Private Networks with Different   Bandwidth Allocations,Alamelu Nachiappan,cs.NI,http://arxiv.org/pdf/1002.1152v1
+1002.1162v1,2010-02-05T09:14:56Z,Node Disjoint Multipath Routing Considering Link and Node Stability   protocol: A characteristic Evaluation,Charu Gandhi,cs.NI,http://arxiv.org/pdf/1002.1162v1
+1002.1169v2,2010-02-05T09:38:02Z,Adjacency Matrix based method to compute the node connectivity of a   Computer Communication Network,S. K. Srivatsa,cs.NI,http://arxiv.org/pdf/1002.1169v2
+1002.1178v1,2010-02-05T10:11:52Z,Adaptation of TURN protocol to SIP protocol,Mokhtar Keche,cs.NI,http://arxiv.org/pdf/1002.1178v1
+1002.1179v1,2010-02-05T10:18:14Z,RFID Applications: An Introductory and Exploratory Study,Paul Kingston,cs.NI,http://arxiv.org/pdf/1002.1179v1
+1002.1186v1,2010-02-05T10:33:23Z,Efficient Packet Forwarding Approach in Vehicular Ad Hoc Networks Using   EBGR Algorithm,C. Chandrasekar,cs.NI,http://arxiv.org/pdf/1002.1186v1
+1002.1581v2,2010-02-08T11:23:38Z,Max-min Fairness in 802.11 Mesh Networks,Vijay G. Subramanian,cs.NI,http://arxiv.org/pdf/1002.1581v2
+1002.1687v1,2010-02-08T19:04:05Z,Wireless Congestion Control Protocol For Multihop Ad Hoc Networks,Senthil Prakash. K,cs.NI,http://arxiv.org/pdf/1002.1687v1
+1002.1689v1,2010-02-08T19:09:15Z,Saturation Throughput Analysis of IEEE 802.11b Wireless Local Area   Networks under High Interference Considering Capture Effects,A. Krishnan,cs.NI,http://arxiv.org/pdf/1002.1689v1
+1002.1834v1,2010-02-09T13:59:56Z,AROMA: Automatic Generation of Radio Maps for Localization Systems,Moustafa Youssef,cs.NI,http://arxiv.org/pdf/1002.1834v1
+1002.1874v1,2010-02-09T20:04:45Z,Mobility Impact on Performance of Mobile Grids,Shridhar,cs.NI,http://arxiv.org/pdf/1002.1874v1
+1002.1897v1,2010-02-09T16:28:04Z,Adaptive Subcarrier PSK Intensity Modulation in Free Space Optical   Systems,Shlomi Arnon,cs.NI,http://arxiv.org/pdf/1002.1897v1
+1002.1954v1,2010-02-09T19:53:22Z,High Throughput of WiMAX MIMO OFDM Including Adaptive Modulation and   Coding,Mohamed Feham,cs.NI,http://arxiv.org/pdf/1002.1954v1
+1002.1955v1,2010-02-09T19:58:07Z,Performance Modeling and Evaluation of Traffic management for Mobile   Networks by SINR Prediction,Anurag Rai,cs.NI,http://arxiv.org/pdf/1002.1955v1
+1002.2186v1,2010-02-10T19:33:56Z,A Survivability Strategy in Route Optimization Mobile Network by Memetic   Algorithm,Anurag Rai,cs.NI,http://arxiv.org/pdf/1002.2186v1
+1002.2187v1,2010-02-10T19:38:10Z,Analysis of Large Scale Propagation Models for Mobile Communications in   Urban Area,A. Al Nahid,cs.NI,http://arxiv.org/pdf/1002.2187v1
+1002.2189v1,2010-02-10T19:42:53Z,Performance Evaluation of TCP over Mobile Ad hoc Networks,Sumon Kumar Debnath,cs.NI,http://arxiv.org/pdf/1002.2189v1
+1002.2194v1,2010-02-10T19:56:31Z,Genetic Algorithm Based Optimization of Clustering in Ad Hoc Networks,Soumen Paul,cs.NI,http://arxiv.org/pdf/1002.2194v1
+1002.2384v1,2010-02-11T17:37:27Z,Upstream traffic capacity of a WDM EPON under online GATE-driven   scheduling,James Roberts,cs.NI,http://arxiv.org/pdf/1002.2384v1
+1002.2385v2,2010-02-11T17:43:36Z,Traffic Capacity of Large WDM Passive Optical Networks,James Roberts,cs.NI,http://arxiv.org/pdf/1002.2385v2
+1002.2403v1,2010-02-11T19:51:52Z,"Impact of Random Loss on TCP Performance in Mobile Ad hoc Networks (IEEE   802.11), A Simulation-Based Analysis",Kumar Manoj,cs.NI,http://arxiv.org/pdf/1002.2403v1
+1002.2420v1,2010-02-11T20:22:18Z,High Performance Hybrid Two Layer Router Architecture for FPGAs Using   Network On Chip,D. Sridharan,cs.NI,http://arxiv.org/pdf/1002.2420v1
+1002.2827v2,2010-02-15T08:19:45Z,When Should I Use Network Emulation?,Laurent Dairaine,cs.NI,http://arxiv.org/pdf/1002.2827v2
+1002.3084v2,2010-02-16T14:10:33Z,Channel Fragmentation in Dynamic Spectrum Access Systems - a Theoretical   Study,Gil Zussman,cs.NI,http://arxiv.org/pdf/1002.3084v2
+1002.3229v2,2010-02-17T09:15:43Z,A Greedy link scheduler for Wireless Networks having Gaussian Broadcast   and Multiple Access Channels,Elif Uysal-Biyikoglu,cs.NI,http://arxiv.org/pdf/1002.3229v2
+1002.3317v2,2010-02-17T17:24:52Z,Optimization of MIMO detectors: Unleashing the multiplexing gain,M. Mitra,cs.NI,http://arxiv.org/pdf/1002.3317v2
+1002.3322v1,2010-02-17T17:36:24Z,Holistic Approach for Critical System Security: Flooding Prevention and   Malicious Packet Stopping,P. D Le,cs.NI,http://arxiv.org/pdf/1002.3322v1
+1002.3328v1,2010-02-17T17:45:23Z,Error Performance Analysis to Increase Capacity of A Cellular System   Using SDMA,J. Hossain,cs.NI,http://arxiv.org/pdf/1002.3328v1
+1002.3332v1,2010-02-17T17:59:03Z,Performance Comparisions of ICA Algorithms to DS-CDMA Detection,Bhuvan Unhelkar,cs.NI,http://arxiv.org/pdf/1002.3332v1
+1002.3989v2,2010-02-21T18:47:57Z,Performance analysis of Zone Routing Protocol in respect of Genetic   Algorithm and Estimation of Distribution Algorithm,Md. Iqbal Hossain Suvo,cs.NI,http://arxiv.org/pdf/1002.3989v2
+1002.3999v1,2010-02-21T19:31:14Z,FPGA Implementation of LS Code Generator for CDM Based MIMO Channel   Sounder,A. Unggul Priantoro,cs.NI,http://arxiv.org/pdf/1002.3999v1
+1002.4255v2,2010-02-23T06:48:02Z,A Quantile-Based Sequential Feedback Scheme via Overhearing in   Multicarrier Access Networks,Gustavo de Veciana,cs.NI,http://arxiv.org/pdf/1002.4255v2
+1002.4314v2,2010-02-23T12:06:18Z,Load Balancing via Random Local Search in Closed and Open systems,F. Simatos,cs.NI,http://arxiv.org/pdf/1002.4314v2
+1002.4680v1,2010-02-25T17:39:05Z,Challenges of Next-Generation Wireless Sensor Networks and its impact on   Society,Neelam Srivastava,cs.NI,http://arxiv.org/pdf/1002.4680v1
+1002.4727v1,2010-02-25T09:51:57Z,Performance Analysis of Uplink & Downlink Transmission in CDMA System,Md. A. Alim,cs.NI,http://arxiv.org/pdf/1002.4727v1
+1002.4833v1,2010-02-25T17:19:32Z,Analytical Evaluation of Unfairness Problem in Wireless LANs,Mohamed Othman,cs.NI,http://arxiv.org/pdf/1002.4833v1
+1002.4838v1,2010-02-25T17:36:15Z,Analyzing the Low Power Wireless Links for Wireless Sensor Networks,Md. Zahidul Islam,cs.NI,http://arxiv.org/pdf/1002.4838v1
+1002.4885v2,2010-02-26T17:48:03Z,Network Coding-Aware Queue Management for TCP Flows over Coded Wireless   Networks,Athina Markopoulou,cs.NI,http://arxiv.org/pdf/1002.4885v2
+1004.0050v1,2010-04-01T04:17:32Z,A Study of Bandwidth-Perception Management Mechanisms in IEEE 802.16   Networks,David Ros,cs.NI,http://arxiv.org/pdf/1004.0050v1
+1004.0152v1,2010-04-01T15:15:09Z,Opportunistic Routing in Ad Hoc Networks: How many relays should there   be? What rate should nodes use?,Nihar Jindal,cs.NI,http://arxiv.org/pdf/1004.0152v1
+1004.0204v1,2010-04-01T18:45:36Z,Radio Interface for High Data Rate Wireless Sensor Networks,Robert Plana,cs.NI,http://arxiv.org/pdf/1004.0204v1
+1004.0421v1,2010-04-03T06:09:29Z,A Faster Routing Scheme for Stationary Wireless Sensor Networks - A   Hybrid Approach,P. Prapoorna Roja,cs.NI,http://arxiv.org/pdf/1004.0421v1
+1004.0422v1,2010-04-03T06:16:30Z,Shadowing Effects on Routing Protocol of Multihop Ad Hoc Networks,Rumana Islam,cs.NI,http://arxiv.org/pdf/1004.0422v1
+1004.0570v1,2010-04-05T06:38:22Z,Tools and techniques for Network Forensics,Loretta A. Moore,cs.NI,http://arxiv.org/pdf/1004.0570v1
+1004.0587v1,2010-04-05T08:18:31Z,A New Cluster-based Wormhole Intrusion detection algorithm for Mobile   Ad-Hoc Networks,Nabendu Chaki,cs.NI,http://arxiv.org/pdf/1004.0587v1
+1004.0596v1,2010-04-05T08:58:44Z,Effect of Inter Packet Delay in performance analysis of coexistence   heterogeneous Wireless Packet Networks,A. Shanmugam,cs.NI,http://arxiv.org/pdf/1004.0596v1
+1004.0598v1,2010-04-05T09:06:33Z,Clustered Hierarchy in Sensor Networks: Performance and Security,Thabet Mismar,cs.NI,http://arxiv.org/pdf/1004.0598v1
+1004.0769v1,2010-04-06T04:05:44Z,PSIM: A tool for analysis of device pairing methods,Lachhman Das Dhomeja,cs.NI,http://arxiv.org/pdf/1004.0769v1
+1004.0771v1,2010-04-06T04:37:34Z,Performance evaluation of a new route optimization technique for mobile   IP,Hassan S Hassan,cs.NI,http://arxiv.org/pdf/1004.0771v1
+1004.0777v2,2010-04-06T05:49:56Z,Securing AODV for MANETs using Message Digest with Secret Key,N. N. Jani,cs.NI,http://arxiv.org/pdf/1004.0777v2
+1004.0930v1,2010-04-06T19:01:58Z,Spying the World from your Laptop -- Identifying and Profiling Content   Providers and Big Downloaders in BitTorrent,Mohamed Ali Kaafar,cs.NI,http://arxiv.org/pdf/1004.0930v1
+1004.1674v1,2010-04-10T03:29:07Z,Seamless Data Services for Real Time Communication in a Heterogeneous   Networks using Network Tracking and Management,Dr. P. Anandha Kumar,cs.NI,http://arxiv.org/pdf/1004.1674v1
+1004.1678v1,2010-04-10T03:57:58Z,Node Sensing & Dynamic Discovering Routes for Wireless Sensor Networks,Saroj Kumar Rout,cs.NI,http://arxiv.org/pdf/1004.1678v1
+1004.1706v1,2010-04-10T10:53:32Z,Enhanced Ad-Hoc on Demand Multipath Distance Vector Routing protocol,Sujata Terdal,cs.NI,http://arxiv.org/pdf/1004.1706v1
+1004.1744v1,2010-04-10T22:05:22Z,Node inspection and analysis thereof in the light of area estimation and   curve fitting,P. Saini,cs.NI,http://arxiv.org/pdf/1004.1744v1
+1004.1774v1,2010-04-11T08:23:46Z,Joint Design of Congestion Control Routing With Distributed Multi   Channel Assignment in Wireless Mesh Networks,N. Malmurugan,cs.NI,http://arxiv.org/pdf/1004.1774v1
+1004.1788v1,2010-04-11T10:59:44Z,Mobile Broadband Possibilities considering the Arrival of IEEE 802.16m &   LTE with an Emphasis on South Asia,Md. A. Shoeb,cs.NI,http://arxiv.org/pdf/1004.1788v1
+1004.1842v1,2010-04-11T20:56:28Z,Throughput Enhancement Using Multiple Antennas in OFDM-based Ad Hoc   Networks under Transceiver Impairments,Babak Daneshrad,cs.NI,http://arxiv.org/pdf/1004.1842v1
+1004.2993v1,2010-04-18T03:34:47Z,Hybrid CDN structure with a P2P based streaming protocol,Priya Ranjan,cs.NI,http://arxiv.org/pdf/1004.2993v1
+1004.3174v1,2010-04-19T12:30:36Z,GAC: Energy-Efficient Hybrid GPS-Accelerometer-Compass GSM Localization,Mohamed El-Derini,cs.NI,http://arxiv.org/pdf/1004.3174v1
+1004.3178v1,2010-04-19T12:50:39Z,CellSense: A Probabilistic RSSI-based GSM Positioning System,Moustafa Youssef,cs.NI,http://arxiv.org/pdf/1004.3178v1
+1004.3256v1,2010-04-19T17:45:40Z,A model-driven approach for composing SAWSDL semantic Web services,Ounsa Roudies,cs.NI,http://arxiv.org/pdf/1004.3256v1
+1004.3268v1,2010-04-19T18:10:13Z,DBSR: Dynamic base station Repositioning using Genetic algorithm in   wireless sensor network,Mohammad Zeynali,cs.NI,http://arxiv.org/pdf/1004.3268v1
+1004.3407v2,2010-04-20T11:02:53Z,An Optimized Lifetime Enhancement Scheme for Data Gathering in Wireless   Sensor Networks,M. K. Naskar,cs.NI,http://arxiv.org/pdf/1004.3407v2
+1004.3555v1,2010-04-20T20:10:49Z,Comparative Performance Investigations of different scenarios for   802.15.4 WPAN,Ajay K. Sharma,cs.NI,http://arxiv.org/pdf/1004.3555v1
+1004.3563v1,2010-04-20T20:24:51Z,A QoS Provisioning Recurrent Neural Network based Call Admission Control   for beyond 3G Networks,Satyanarayana P. S,cs.NI,http://arxiv.org/pdf/1004.3563v1
+1004.3890v2,2010-04-22T11:26:44Z,A Study of Medium Access Control Protocols for Wireless Body Area   Networks,Kyung Sup Kwak,cs.NI,http://arxiv.org/pdf/1004.3890v2
+1004.4154v2,2010-04-23T15:00:19Z,Simulation of Wireless Sensor Networks Using TinyOS- A case Study,M. K. Naskar,cs.NI,http://arxiv.org/pdf/1004.4154v2
+1004.4297v1,2010-04-24T17:52:57Z,Bounds on the Maximum Number of Concurrent Links in MIMO Ad Hoc Networks   with QoS Constraints,Pengkai Zhao Babak Daneshrad,cs.NI,http://arxiv.org/pdf/1004.4297v1
+1004.4326v1,2010-04-25T05:42:14Z,PROTECT: Proximity-based Trust-advisor using Encounters for Mobile   Societies,Ahmed Helmy,cs.NI,http://arxiv.org/pdf/1004.4326v1
+1004.4356v1,2010-04-25T15:10:56Z,SHIELD: Social sensing and Help In Emergency using mobiLe Devices,Ahmed Helmy,cs.NI,http://arxiv.org/pdf/1004.4356v1
+1004.4437v2,2010-04-26T08:54:29Z,Understanding periodicity and regularity of nodal encounters in mobile   networks: A spectral analysis,Ahmed Helmy,cs.NI,http://arxiv.org/pdf/1004.4437v2
+1004.4444v1,2010-04-26T09:26:32Z,An Intelligent Call Admission Control Decision Mechanism for Wireless   Networks,Satyanarayana P. S,cs.NI,http://arxiv.org/pdf/1004.4444v1
+1004.4465v1,2010-04-26T10:13:09Z,Mobile Zigbee Sensor Networks,Er. Balpreet Kaur,cs.NI,http://arxiv.org/pdf/1004.4465v1
+1004.4466v1,2010-04-26T10:15:37Z,Effect of Crosstalk on Permutation in Optical Multistage Interconnection   Networks,Er. Deepak Aggarwal,cs.NI,http://arxiv.org/pdf/1004.4466v1
+1004.4481v1,2010-04-26T11:04:14Z,Survey and Comparison of Optical Switch Fabrication Techniques and   Architectures,Rinkle Rani Aggarwal,cs.NI,http://arxiv.org/pdf/1004.4481v1
+1004.4554v2,2010-04-26T15:43:26Z,Highway Mobility and Vehicular Ad-Hoc Networks in NS-3,Michele C. Weigle,cs.NI,http://arxiv.org/pdf/1004.4554v2
+1004.4583v1,2010-04-26T18:00:35Z,Measuring Data and VoIP Traffic in WiMAX Networks,Iwan Adhicandra,cs.NI,http://arxiv.org/pdf/1004.4583v1
+1004.4586v1,2010-04-26T18:06:00Z,Optimal Crosstalk Detection and Localization Method for Optical Time   Division Multiplexed Transmission Systems,B. Mohamed Abid,cs.NI,http://arxiv.org/pdf/1004.4586v1
+1004.4588v1,2010-04-26T18:10:20Z,Investigation on QoS of Campus-wide WiFi Networks,Che Yahaya Yaakub,cs.NI,http://arxiv.org/pdf/1004.4588v1
+1004.4598v3,2010-04-26T18:34:19Z,Revealing Method for the Intrusion Detection System,M. Sadiq Ali Khan,cs.NI,http://arxiv.org/pdf/1004.4598v3
+1004.4600v1,2010-04-26T18:41:32Z,Wireless sensors networks MAC protocols analysis,Lotfi Kamoun,cs.NI,http://arxiv.org/pdf/1004.4600v1
+1004.4614v1,2010-04-26T19:29:59Z,Performance Evaluation of Wavelength Routed Optical Network with   Wavelength Conversion,Aditya Goel,cs.NI,http://arxiv.org/pdf/1004.4614v1
+1004.4616v1,2010-04-26T19:35:56Z,Conception and FPGA implementation of IEEE 802.11s mesh network MAC   layer transmitter,Lotfi Kamoun,cs.NI,http://arxiv.org/pdf/1004.4616v1
+1004.4690v1,2010-04-27T01:35:10Z,Explicit Maximum Likelihood Loss Estimator in Multicast Tomography,Weiping Zhu,cs.NI,http://arxiv.org/pdf/1004.4690v1
+1004.4759v1,2010-04-27T10:47:21Z,Indoor Positioning with Radio Location Fingerprinting,Mikkel Baun Kjærgaard,cs.NI,http://arxiv.org/pdf/1004.4759v1
+1004.4809v1,2010-04-27T14:11:23Z,Efficient multicast data transfer with congestion control using dynamic   source channels,Benoît Hilt,cs.NI,http://arxiv.org/pdf/1004.4809v1
+1004.4821v1,2010-04-26T19:09:17Z,Optimum Design of a 4x4 Planar Butler Matrix Array for WLAN Application,Shweta Srivastava,cs.NI,http://arxiv.org/pdf/1004.4821v1
+1004.5495v5,2010-04-30T10:35:48Z,The Role of Boolean Function in Fractal Formation and it s Application   to CDMA Wireless Communication,Pabitra Kumar Ghosh,cs.NI,http://arxiv.org/pdf/1004.5495v5
+1007.0118v1,2010-07-01T10:17:29Z,Channel Assortment Strategy for Reliable Communication in Multi-Hop   Cognitive Radio Networks,Mubashir Husain Rehmani,cs.NI,http://arxiv.org/pdf/1007.0118v1
+1007.0123v1,2010-07-01T10:26:50Z,Adaptive and occupancy-based channel selection for unreliable cognitive   radio networks,Serge Fdida,cs.NI,http://arxiv.org/pdf/1007.0123v1
+1007.0126v1,2010-07-01T10:42:11Z,A Cognitive Radio Based Internet Access Framework for Disaster Response   Network Deployment,Serge Fdida,cs.NI,http://arxiv.org/pdf/1007.0126v1
+1007.0128v1,2010-07-01T10:51:04Z,Toward Reliable Contention-aware Data Dissemination in Multi-hop   Cognitive Radio Ad Hoc Networks,Serge Fdida,cs.NI,http://arxiv.org/pdf/1007.0128v1
+1007.0409v1,2010-07-01T09:35:44Z,"A Performance Comparison of Stability, Load-Balancing and Power-Aware   Routing Protocols for Mobile Ad Hoc Networks",Leslie Milton,cs.NI,http://arxiv.org/pdf/1007.0409v1
+1007.0410v1,2010-07-01T09:29:44Z,Impact Of Mobility and Transmission Range On The Performance of Backoff   Algorithms For IEEE 802.11-Based Multi-hop Mobile Ad hoc Networks,Pooja Saini,cs.NI,http://arxiv.org/pdf/1007.0410v1
+1007.0411v1,2010-07-01T09:27:09Z,Role of Statistical tests in Estimation of the Security of a New   Encryption Algorithm,A Vinay Babu,cs.NI,http://arxiv.org/pdf/1007.0411v1
+1007.0413v1,2010-07-01T09:18:03Z,An Ant Based Framework for Preventing DDoS Attack in Wireless Sensor   Networks,Neha Arora,cs.NI,http://arxiv.org/pdf/1007.0413v1
+1007.0507v2,2010-07-03T18:27:51Z,Femto-Macro Cellular Interference Control with Subband Scheduling and   Interference Cancelation,Sundeep Rangan,cs.NI,http://arxiv.org/pdf/1007.0507v2
+1007.0730v1,2010-07-05T17:42:44Z,Large scale probabilistic available bandwidth estimation,Michael Rabbat,cs.NI,http://arxiv.org/pdf/1007.0730v1
+1007.0960v1,2010-07-06T17:15:15Z,Analysis of Spatio-Temporal Preferences and Encounter Statistics for DTN   Performance,Wei-Jen Hsu,cs.NI,http://arxiv.org/pdf/1007.0960v1
+1007.1100v1,2010-07-07T10:34:34Z,Collision Codes: Decoding Superimposed BPSK Modulated Wireless   Transmissions,Jalaluddin Qureshi,cs.NI,http://arxiv.org/pdf/1007.1100v1
+1007.1194v1,2010-07-07T17:32:41Z,Inter-Sensing Time Optimization in Cognitive Radio Networks,Ahmed Sultan,cs.NI,http://arxiv.org/pdf/1007.1194v1
+1007.1264v1,2010-07-08T00:06:53Z,Network Traffic Anomalies Detection and Identification with Flow   Monitoring,Deokjai Choi,cs.NI,http://arxiv.org/pdf/1007.1264v1
+1007.1265v1,2010-07-08T00:14:09Z,Context Awareness Framework Based on Contextual Graph,Deokjai Choi,cs.NI,http://arxiv.org/pdf/1007.1265v1
+1007.1266v1,2010-07-08T00:19:13Z,Network Anomaly Detection: Flow-based or Packet-based Approach?,Deokjai Choi,cs.NI,http://arxiv.org/pdf/1007.1266v1
+1007.1273v1,2010-07-08T01:29:52Z,Context Ontology Implementation for Smart Home,Chilwoo Lee,cs.NI,http://arxiv.org/pdf/1007.1273v1
+1007.1274v1,2010-07-08T01:51:17Z,Development of a Context Aware Virtual Smart Home Simulator,Deokjai Choi,cs.NI,http://arxiv.org/pdf/1007.1274v1
+1007.1548v1,2010-07-09T10:04:48Z,Stability Analysis of GI/G/c/K Retrial Queue with Constant Retrial Rate,Evsey Morozov,cs.NI,http://arxiv.org/pdf/1007.1548v1
+1007.1559v1,2010-07-09T11:04:02Z,An ICT based solution to make mines safer,Dhruv Srivastva,cs.NI,http://arxiv.org/pdf/1007.1559v1
+1007.1626v1,2010-07-09T17:12:34Z,Scheduling for Optimal Rate Allocation in Ad Hoc Networks With   Heterogeneous Delay Constraints,Lei Ying,cs.NI,http://arxiv.org/pdf/1007.1626v1
+1007.2280v1,2010-07-14T08:56:57Z,Phase Changes in the Evolution of the IPv4 and IPv6 AS-Level Internet   Topologies,Shi Zhou,cs.NI,http://arxiv.org/pdf/1007.2280v1
+1007.2327v2,2010-07-14T13:40:22Z,Is Content Publishing in BitTorrent Altruistic or Profit-Driven,Reza Rejaie,cs.NI,http://arxiv.org/pdf/1007.2327v2
+1007.3058v1,2010-07-19T03:05:36Z,Safety Message Power Transmission Control for Vehicular Ad hoc Networks,Wafaa A. H. Al-Salihy,cs.NI,http://arxiv.org/pdf/1007.3058v1
+1007.3229v2,2010-07-19T18:13:56Z,Aggregate Download Throughput for TCP-controlled long file transfers in   a WLAN with multiple STA-AP association rates,Joy Kuri,cs.NI,http://arxiv.org/pdf/1007.3229v2
+1007.3336v2,2010-07-20T05:00:00Z,Active Topology Inference using Network Coding,Athina Markopoulou,cs.NI,http://arxiv.org/pdf/1007.3336v2
+1007.3341v1,2010-07-20T05:27:58Z,Simulation technique for available bandwidth estimation,A. M. Sukhov,cs.NI,http://arxiv.org/pdf/1007.3341v1
+1007.4065v2,2010-07-23T08:16:58Z,A Tutorial on the Implementation of Ad-hoc On Demand Distance Vector   (AODV) Protocol in Network Simulator (NS-2),Mustapha Reda Senouci,cs.NI,http://arxiv.org/pdf/1007.4065v2
+1007.4066v2,2010-07-23T08:20:25Z,A Tutorial on Broadcasting Packets over Multiple-Channels in a   Multi-Inferface Network Setting in NS-2,Mubashir Husain Rehmani,cs.NI,http://arxiv.org/pdf/1007.4066v2
+1007.4068v2,2010-07-23T08:36:43Z,Decoupling data dissemination from the mobile sink's trajectory in   wireless sensor networks: Current Research and Open Issues,Aline Carneiro Viana,cs.NI,http://arxiv.org/pdf/1007.4068v2
+1007.4109v3,2010-07-23T12:03:55Z,An Application-oriented Model for Wireless Sensor Networks integrated   with Telecom Infra,Dhruv Srivastava,cs.NI,http://arxiv.org/pdf/1007.4109v3
+1007.4301v1,2010-07-25T06:43:38Z,Reinforcement Learning in BitTorrent Systems,Mihaela van der Schaar,cs.NI,http://arxiv.org/pdf/1007.4301v1
+1007.4724v1,2010-07-27T14:01:08Z,CapEst: A Measurement-based Approach to Estimating Link Capacity in   Wireless Networks,Mingyan Liu,cs.NI,http://arxiv.org/pdf/1007.4724v1
+1007.5139v1,2010-07-29T07:54:51Z,Reputation-Based Attack-Resistant Cooperation Stimulation (RACS) For   Mobile Ad hoc Networks,Paramartha Dutta,cs.NI,http://arxiv.org/pdf/1007.5139v1
+1007.5165v1,2010-07-29T09:39:23Z,Security Enhancement With Optimal QOS Using EAP-AKA In Hybrid Coupled   3G-WLAN Convergence Network,P. Dananjayan,cs.NI,http://arxiv.org/pdf/1007.5165v1
+1007.5168v1,2010-07-29T09:47:06Z,A Non-Cooperative Game Theoretical Approach For Power Control In Virtual   MIMO Wireless Sensor Network,P. Dananjayan,cs.NI,http://arxiv.org/pdf/1007.5168v1
+1007.5218v4,2010-07-29T13:51:28Z,Applications of Belief Propagation in CSMA Wireless Networks,Soung Chang Liew,cs.NI,http://arxiv.org/pdf/1007.5218v4
+1007.5239v2,2010-07-29T14:49:16Z,TCP Reno over Adaptive CSMA,Soung Chang Liew,cs.NI,http://arxiv.org/pdf/1007.5239v2
+1007.5240v2,2010-07-28T19:51:54Z,Social-Aware Forwarding Improves Routing Performance in Pocket Switched   Networks,Julinda Stefa,cs.NI,http://arxiv.org/pdf/1007.5240v2
+1007.5255v1,2010-07-29T16:09:12Z,Analysis of Frequency-Agile CSMA Wireless Networks,Minghua Chen,cs.NI,http://arxiv.org/pdf/1007.5255v1
+1007.5341v2,2010-07-29T21:55:21Z,Scalable distributed service migration via Complex Networks Analysis,Ioannis Stavrakakis,cs.NI,http://arxiv.org/pdf/1007.5341v2
+1007.5459v3,2010-07-30T14:26:53Z,Relieving the Wireless Infrastructure: When Opportunistic Networks Meet   Guaranteed Delays,Marcelo Dias de Amorim,cs.NI,http://arxiv.org/pdf/1007.5459v3
+1008.0053v2,2010-07-31T05:43:19Z,Achieving the Scaling Law of SNR-Monitoring in Dynamic Wireless Networks,Soung Chang Liew,cs.NI,http://arxiv.org/pdf/1008.0053v2
+1008.0060v1,2010-07-31T07:17:40Z,Belief Propagation Methods for Intercell Interference Coordination,Ritesh Madan,cs.NI,http://arxiv.org/pdf/1008.0060v1
+1008.0143v2,2010-08-01T02:33:41Z,When Both Transmitting and Receiving Energies Matter: An Application of   Network Coding in Wireless Body Area Networks,Daniel Lucani,cs.NI,http://arxiv.org/pdf/1008.0143v2
+1008.0270v1,2010-08-02T10:05:53Z,A Non-Cooperative Method for Path Loss Estimation in Femtocell Networks,Jin Yang,cs.NI,http://arxiv.org/pdf/1008.0270v1
+1008.0440v1,2010-08-03T02:28:51Z,Preserving HTTP Sessions in Vehicular Environments,Onur Altintas,cs.NI,http://arxiv.org/pdf/1008.0440v1
+1008.1372v1,2010-08-07T23:35:49Z,Weighted Max-Min Resource Allocation for Frequency Selective Channels,Zhu Han,cs.NI,http://arxiv.org/pdf/1008.1372v1
+1008.1629v1,2010-08-10T04:28:45Z,Survey of Search and Replication Schemes in Unstructured P2P Networks,Chandra Sekaran K,cs.NI,http://arxiv.org/pdf/1008.1629v1
+1008.1767v1,2010-08-10T18:24:56Z,Minimization of Handoff latency by co-ordinate evaluation method using   GPS based map,M. K. Naskar,cs.NI,http://arxiv.org/pdf/1008.1767v1
+1008.1825v1,2010-08-11T03:02:51Z,Breaking the Legend: Maxmin Fairness notion is no longer effective,Suhaidi Hassan,cs.NI,http://arxiv.org/pdf/1008.1825v1
+1008.1828v2,2010-08-11T03:54:10Z,Scheduling with Rate Adaptation under Incomplete Knowledge of   Channel/Estimator Statistics,Ness B. Shroff,cs.NI,http://arxiv.org/pdf/1008.1828v2
+1008.1842v1,2010-08-11T07:10:37Z,An Efficient Network Coding based Retransmission Algorithm for Wireless   Multicasts,Jianfei Cai,cs.NI,http://arxiv.org/pdf/1008.1842v1
+1008.1848v1,2010-08-11T07:47:27Z,Enhancing QOS and QOE in IMS enabled next generation networks,Kamaljit I. Lakhtaria,cs.NI,http://arxiv.org/pdf/1008.1848v1
+1008.1851v1,2010-08-11T07:59:22Z,Design and Modeling Billing solution to Next Generation Networks,Dr. N. N. Jani,cs.NI,http://arxiv.org/pdf/1008.1851v1
+1008.2036v1,2010-08-12T03:43:08Z,Providing content based billing architecture over Next Generation   Network,Kamaljit I. Lakhtaria,cs.NI,http://arxiv.org/pdf/1008.2036v1
+1008.2249v1,2010-08-13T04:39:39Z,A Novel Association Policy for Web Browsing in a Multirate WLAN,Joy Kuri,cs.NI,http://arxiv.org/pdf/1008.2249v1
+1008.2574v1,2010-08-16T05:25:19Z,An Empirical Study on Content Bundling in BitTorrent Swarming System,Yanghee Choi,cs.NI,http://arxiv.org/pdf/1008.2574v1
+1008.2798v1,2010-08-17T01:03:12Z,Networked Computing in Wireless Sensor Networks for Structural Health   Monitoring,Mingyan Liu,cs.NI,http://arxiv.org/pdf/1008.2798v1
+1008.2841v1,2010-08-17T07:50:55Z,Comparison of different Broadcast Schemes for Multi-Hop Wireless Sensor   Networks,K. S. Kwak,cs.NI,http://arxiv.org/pdf/1008.2841v1
+1008.2855v1,2010-08-17T09:54:15Z,A Cross-Layer Approach for Minimizing Interference and Latency of Medium   Access in Wireless Sensor Networks,Shukor Abd Razak,cs.NI,http://arxiv.org/pdf/1008.2855v1
+1008.3758v1,2010-08-23T06:52:48Z,Survey study of the QoS Management in Distributed Interactive Simulation   Through Dead Reckoning Algorithms,Thierry Gayraud,cs.NI,http://arxiv.org/pdf/1008.3758v1
+1008.3759v1,2010-08-23T06:54:01Z,Addressing the Challenge of Distributed Interactive Simulation With Data   Distribution Service,Thierry Gayraud,cs.NI,http://arxiv.org/pdf/1008.3759v1
+1008.3775v1,2010-08-23T09:02:58Z,Monte Carlo Methods for Top-k Personalized PageRank Lists and Name   Disambiguation,Marina Sokol,cs.NI,http://arxiv.org/pdf/1008.3775v1
+1008.3940v1,2010-08-24T00:10:05Z,Power Control with Imperfect Exchanges and Applications to Spectrum   Sharing,Georgios B. Giannakis,cs.NI,http://arxiv.org/pdf/1008.3940v1
+1008.4413v1,2010-08-26T01:02:40Z,Spectrum Shaping via Network Coding in Cognitive Radio Networks,Jason H. Li,cs.NI,http://arxiv.org/pdf/1008.4413v1
+1008.4904v1,2010-08-29T07:02:52Z,Spatio-Temporal Modeling of Wireless Users Internet Access Patterns   Using Self-Organizing Maps,Ahmed Helmy,cs.NI,http://arxiv.org/pdf/1008.4904v1
+1008.4931v1,2010-08-29T15:06:53Z,Sorting Reordered Packets with Interrupt Coalescing,Matt Crawford,cs.NI,http://arxiv.org/pdf/1008.4931v1
+1008.5170v1,2010-08-30T21:21:22Z,General Model for Single and Multiple Channels WLANs with Quality of   Service Support,Fayez Gebali,cs.NI,http://arxiv.org/pdf/1008.5170v1
+1008.5217v2,2010-08-31T05:07:26Z,Intra- and Inter-Session Network Coding in Wireless Networks,K. K. Ramakrishnan,cs.NI,http://arxiv.org/pdf/1008.5217v2
+1008.5248v8,2010-08-31T08:06:51Z,Optimal Distributed P2P Streaming under Node Degree Bounds,Libin Jiang,cs.NI,http://arxiv.org/pdf/1008.5248v8
+1009.0033v1,2010-08-31T21:06:04Z,NetFence: Preventing Internet Denial of Service from Inside Out,Yong Xia,cs.NI,http://arxiv.org/pdf/1009.0033v1
+1009.0448v2,2010-09-02T15:15:40Z,Delay Modelling for a Single-hop Wireless Mesh Network under Light   Aggregate Traffic,Saurabh Aggarwal,cs.NI,http://arxiv.org/pdf/1009.0448v2
+1009.0569v3,2010-09-03T02:20:51Z,Basic Performance Limits and Tradeoffs in Energy Harvesting Sensor Nodes   with Finite Data and Energy Storage,Can Emre Koksal,cs.NI,http://arxiv.org/pdf/1009.0569v3
+1009.0585v1,2010-09-03T05:06:04Z,Secured Greedy Perimeter Stateless Routing for Wireless Sensor Networks,P. Dananjayan,cs.NI,http://arxiv.org/pdf/1009.0585v1
+1009.0619v1,2010-09-03T09:31:22Z,Field Reconstruction in Sensor Networks with Coverage Holes and Packet   Losses,Carla-Fabiana Chiasserini,cs.NI,http://arxiv.org/pdf/1009.0619v1
+1009.0630v1,2010-09-03T11:06:48Z,Power-efficient Routing & Increased Yield Approach For WSNs,M. K Ghose,cs.NI,http://arxiv.org/pdf/1009.0630v1
+1009.0919v1,2010-09-05T13:45:29Z,Aggregate AP Throughputs for Long File Transfers in a WLAN controlled by   Inhomogeneous TCP Connections,Joy Kuri,cs.NI,http://arxiv.org/pdf/1009.0919v1
+1009.1121v1,2010-09-06T18:43:57Z,Analyzing Web 2.0 Integration with Next Generation Networks for Services   Rendering,Dhinaharan Nagamalai,cs.NI,http://arxiv.org/pdf/1009.1121v1
+1009.1122v1,2010-09-06T18:44:23Z,Design & Deploy Web 2.0 enable services over Next Generation Network   Platform,Dhinaharan Nagamalai,cs.NI,http://arxiv.org/pdf/1009.1122v1
+1009.1194v1,2010-09-07T05:15:54Z,E2XLRADR (Energy Efficient Cross Layer Routing Algorithm with Dynamic   Retransmission for Wireless Sensor Networks),Rajiv Ranjan Tewari,cs.NI,http://arxiv.org/pdf/1009.1194v1
+1009.1526v1,2010-09-08T13:21:06Z,An Application-oriented Model for Wireless Sensor Networks integrated   with Telecom Infra,Dr. Priya Ranjan,cs.NI,http://arxiv.org/pdf/1009.1526v1
+1009.1604v1,2010-09-08T18:15:07Z,DynaChanAl: Dynamic Channel Allocation with Minimal End-to-end Delay for   Wireless Sensor Networks,Amitabh Mishra,cs.NI,http://arxiv.org/pdf/1009.1604v1
+1009.1685v1,2010-09-09T05:16:35Z,Protocols for Bio-Inspired Resource Discovery and Erasure Coded   Replication in P2P Networks,K Chandra Sekaran,cs.NI,http://arxiv.org/pdf/1009.1685v1
+1009.1716v1,2010-09-09T09:30:54Z,On the Impact of Caching and a Model for Storage-Capacity Measurements   for Energy Conservation in Asymmetrical Wireless Devices,Constandinos X. Mavromoustakis,cs.NI,http://arxiv.org/pdf/1009.1716v1
+1009.2230v3,2010-09-12T11:33:33Z,Predicting the Impact of Measures Against P2P Networks on the Transient   Behaviors,Yuedong Xu,cs.NI,http://arxiv.org/pdf/1009.2230v3
+1009.2282v1,2010-09-13T01:30:29Z,SNAP: SNowbAll multi-tree Pushing for Peer-to-Peer Media Streaming,Jun Luo,cs.NI,http://arxiv.org/pdf/1009.2282v1
+1009.2378v2,2010-09-13T13:04:13Z,Ensuring Cache Freshness in On-demand Routing Protocols for Mobile Ad   Hoc Network: A Cross-layer Framework,Ashish Shukla,cs.NI,http://arxiv.org/pdf/1009.2378v2
+1009.2557v2,2010-09-14T02:45:24Z,Loss Rate Inference in Multi-Sources and Multicast-Based General   Topology,Weiping Zhu,cs.NI,http://arxiv.org/pdf/1009.2557v2
+1009.2574v2,2010-09-14T06:56:29Z,A New Route Maintenance in Dynamic Source Routing Protocol,Neeraj Tyagi,cs.NI,http://arxiv.org/pdf/1009.2574v2
+1009.2575v2,2010-09-14T07:01:20Z,On the Reduction of Broadcast Traffic in Mobile Ad Hoc Networks,Ashish Shukla,cs.NI,http://arxiv.org/pdf/1009.2575v2
+1009.2576v3,2010-09-14T07:05:01Z,A Simple Battery Aware Gossip Based Sleep Protocol for Densely Deployed   Ad-hoc and Sensor Networks,Ashish Shukla,cs.NI,http://arxiv.org/pdf/1009.2576v3
+1009.2858v1,2010-09-15T08:00:21Z,On the performance evaluation of wireless networks with broadcast and   interference-limited channels,Cristina Comaniciu,cs.NI,http://arxiv.org/pdf/1009.2858v1
+1009.2949v1,2010-09-15T15:08:00Z,Performance Analysis of an Improved Graded Precision Localization   Algorithm for Wireless Sensor Networks,Subrat Kar,cs.NI,http://arxiv.org/pdf/1009.2949v1
+1009.3167v1,2010-09-15T19:13:05Z,Sensor Management for Tracking in Sensor Networks,Venugopal V. Veeravalli,cs.NI,http://arxiv.org/pdf/1009.3167v1
+1009.3415v1,2010-09-17T13:21:16Z,Temporal Starvation in CSMA Wireless Networks,Soung Chang Liew,cs.NI,http://arxiv.org/pdf/1009.3415v1
+1009.3448v1,2010-09-16T06:50:56Z,Internal Location Based System for Mobile Devices Using Passive RFID,G. P. Bhole,cs.NI,http://arxiv.org/pdf/1009.3448v1
+1009.3468v2,2010-09-17T17:05:19Z,Delay Modelling for Single Cell IEEE 802.11 WLANs Using a Random Polling   System,Saurabh Aggarwal,cs.NI,http://arxiv.org/pdf/1009.3468v2
+1009.3522v1,2010-09-17T23:19:29Z,"Open, Closed, and Shared Access Femtocells in the Downlink",Jeffrey G. Andrews,cs.NI,http://arxiv.org/pdf/1009.3522v1
+1009.3552v1,2010-09-18T12:02:33Z,PC 2 Phone Event Announcer,Sujata Navaratnam,cs.NI,http://arxiv.org/pdf/1009.3552v1
+1009.3681v1,2010-09-20T02:29:31Z,Efficient Indexing of the BitTorrent Distributed Hash Table,Aaron Grunthal,cs.NI,http://arxiv.org/pdf/1009.3681v1
+1009.3797v1,2010-09-20T12:42:06Z,A General Analog Network Coding for Wireless Systems with Fading and   Noisy Channels,Farokh Marvasti,cs.NI,http://arxiv.org/pdf/1009.3797v1
+1009.3863v2,2010-09-20T15:47:26Z,Outage Probability for Multi-Cell Processing under Rayleigh Fading,Nikolai Lebedev,cs.NI,http://arxiv.org/pdf/1009.3863v2
+1009.3959v6,2010-09-20T21:45:39Z,Exploiting Channel Memory for Joint Estimation and Scheduling in   Downlink Networks,Ness B. Shroff,cs.NI,http://arxiv.org/pdf/1009.3959v6
+1009.4091v1,2010-09-21T13:39:05Z,On the Flow-Level Delay of a Spatial Multiplexing MIMO Wireless Channel,Yuming Jiang,cs.NI,http://arxiv.org/pdf/1009.4091v1
+1009.4386v2,2010-09-22T15:24:12Z,Decentralised Learning MACs for Collision-free Access in WLANs,Douglas J. Leith,cs.NI,http://arxiv.org/pdf/1009.4386v2
+1009.4499v1,2010-09-22T23:30:22Z,Architecture and Algorithms for an Airborne Network,Anjan Kundu,cs.NI,http://arxiv.org/pdf/1009.4499v1
+1009.4520v1,2010-09-23T05:27:44Z,An Energy Efficient Multichannel MAC Protocol for Cognitive Radio Ad Hoc   Networks,S. M. Kamruzzaman,cs.NI,http://arxiv.org/pdf/1009.4520v1
+1009.4521v1,2010-09-23T05:38:52Z,CR-MAC: A multichannel MAC protocol for cognitive radio ad hoc networks,S. M. Kamruzzaman,cs.NI,http://arxiv.org/pdf/1009.4521v1
+1009.4524v1,2010-09-23T06:12:22Z,Comparative Investigation for Energy Consumption of Different Chipsets   Based on Scheduling for Wireless Sensor Networks,Ajay K Sharma,cs.NI,http://arxiv.org/pdf/1009.4524v1
+1009.4563v1,2010-09-23T10:24:53Z,A Cluster Based Replication Architecture for Load Balancing in   Peer-to-Peer Content Distribution,S. N. Sivanandam,cs.NI,http://arxiv.org/pdf/1009.4563v1
+1009.4672v1,2010-09-23T18:13:16Z,Threshold Policy for Route Discovery Initiation in Mobile Ad hoc   Networks,Joy Kuri,cs.NI,http://arxiv.org/pdf/1009.4672v1
+1009.4825v1,2010-09-24T12:46:03Z,TCP-controlled Long File Transfer Throughput in Multirate WLANs with   Nonzero Round Trip Propagation Delays,Joy Kuri,cs.NI,http://arxiv.org/pdf/1009.4825v1
+1009.4898v2,2010-09-24T17:30:56Z,Location Estimation with Reactive Routing in Resource Constrained Sensor   Networks,Subrat Kar,cs.NI,http://arxiv.org/pdf/1009.4898v2
+1009.5012v1,2010-09-25T13:08:09Z,Bulk File Download Throughput in a Single Station WLAN with Nonzero   Propagation Delay,Joy Kuri,cs.NI,http://arxiv.org/pdf/1009.5012v1
+1009.5321v1,2010-09-27T16:46:43Z,Application Delay Modelling for Variable Length Packets in Single Cell   IEEE 802.11 WLANs,Saurabh Aggarwal,cs.NI,http://arxiv.org/pdf/1009.5321v1
+1009.5718v1,2010-09-28T22:52:06Z,Monitoring wild animal communities with arrays of motion sensitive   camera traps,Zhihai He,cs.NI,http://arxiv.org/pdf/1009.5718v1
+1009.6045v1,2010-09-30T06:22:41Z,"A proposed ""osi based"" network troubles identification model",İsmail Kayri,cs.NI,http://arxiv.org/pdf/1009.6045v1
+1009.6052v1,2010-09-30T07:24:41Z,A Low Overhead Reachability Guaranteed Dynamic Route Discovery Mechanism   for Dense MANETs,Dr. V. Sankaranarayanan,cs.NI,http://arxiv.org/pdf/1009.6052v1
+1009.6091v1,2010-09-30T10:27:12Z,A Fair and Efficient Packet Scheduling Scheme for IEEE 802.16 Broadband   Wireless Access Systems,Iti Saha Misra,cs.NI,http://arxiv.org/pdf/1009.6091v1
+1009.6098v3,2010-09-30T10:54:22Z,Sensor Activation and Radius Adaptation (SARA) in Heterogeneous Sensor   Networks,Simone Silvestri,cs.NI,http://arxiv.org/pdf/1009.6098v3
+1009.6134v2,2010-09-30T13:52:18Z,NetInf Mobile Node Architecture and Mobility Management based on LISP   Mobile Node,Djamal Zeghlache,cs.NI,http://arxiv.org/pdf/1009.6134v2
+1010.0168v1,2010-10-01T14:10:51Z,Survey of trust models in different network domains,Subhash Challa,cs.NI,http://arxiv.org/pdf/1010.0168v1
+1010.0325v2,2010-10-02T12:04:31Z,Routing Protocols for Cognitive Radio Networks: A Survey,Dong Geun Jeong,cs.NI,http://arxiv.org/pdf/1010.0325v2
+1010.0376v1,2010-10-03T03:31:19Z,On TCP-based Session Initiation Protocol (SIP) Server Overload Control,Henning Schulzrinne,cs.NI,http://arxiv.org/pdf/1010.0376v1
+1010.0430v1,2010-10-03T19:04:35Z,A New Approach in Packet Scheduling in the Vanet,Fathy Mahmood,cs.NI,http://arxiv.org/pdf/1010.0430v1
+1010.0626v1,2010-10-04T15:34:25Z,Back To The Future: On Predicting User Uptime,Yves Roudier,cs.NI,http://arxiv.org/pdf/1010.0626v1
+1010.1524v1,2010-10-07T19:41:17Z,Real-Time Multi-path Tracking of Probabilistic Available Bandwidth,Michael Rabbat,cs.NI,http://arxiv.org/pdf/1010.1524v1
+1010.2818v3,2010-10-14T03:48:08Z,Duty-Cycle-Aware Minimum-Energy Multicasting in Wireless Sensor Networks,Jun Luo,cs.NI,http://arxiv.org/pdf/1010.2818v3
+1010.3411v1,2010-10-17T13:21:06Z,A Hidden Markov Model for Localization Using Low-End GSM Cell Phones,Moustafa Youssef,cs.NI,http://arxiv.org/pdf/1010.3411v1
+1010.3880v1,2010-10-19T12:37:49Z,A Survey of Green Networking Research,Jean-Louis Rougier,cs.NI,http://arxiv.org/pdf/1010.3880v1
+1010.3941v1,2010-10-19T14:55:01Z,Exact Analysis of Rate Adaptation Algorithms in Wireless LANs,David Starobinski,cs.NI,http://arxiv.org/pdf/1010.3941v1
+1010.4887v1,2010-10-23T15:24:22Z,Emergency Response Communications and Associated Security Challenges,Kazi M. Ahmed,cs.NI,http://arxiv.org/pdf/1010.4887v1
+1010.4986v1,2010-10-24T18:24:44Z,A Testbed Implementation for Securing OLSR in Mobile Ad hoc Networks,Christos Politis,cs.NI,http://arxiv.org/pdf/1010.4986v1
+1010.5128v1,2010-10-25T13:52:40Z,TCP over low-power and lossy networks: tuning the segment size to   minimize energy consumption,David Ros,cs.NI,http://arxiv.org/pdf/1010.5128v1
+1010.5493v2,2010-10-26T19:25:30Z,On Wireless Scheduling Using the Mean Power Assignment,Tigran Tonoyan,cs.NI,http://arxiv.org/pdf/1010.5493v2
+1010.5623v1,2010-10-27T09:34:43Z,Rethinking low extra delay background transport protocols,Silvio Valenti,cs.NI,http://arxiv.org/pdf/1010.5623v1
+1011.0539v1,2010-11-02T08:38:50Z,Performance Analysis of Contention Window Cheating Misbehaviors in   Mobile Ad Hoc Networks,D. Sridharan,cs.NI,http://arxiv.org/pdf/1011.0539v1
+1011.1065v4,2010-11-04T06:25:34Z,Price Differentiation for Communication Networks,Jianwei Huang,cs.NI,http://arxiv.org/pdf/1011.1065v4
+1011.1584v1,2010-11-06T19:49:57Z,Interference and Bandwidth Adjusted (ETX) in Wireless Multi-hop Networks,Karim Djouani,cs.NI,http://arxiv.org/pdf/1011.1584v1
+1011.1892v1,2010-11-08T20:29:17Z,Pushing BitTorrent Locality to the Limit,Walid Dabbous,cs.NI,http://arxiv.org/pdf/1011.1892v1
+1011.1956v1,2010-11-09T02:02:32Z,Mobility and Handoff Management in Wireless Networks,Jaydip Sen,cs.NI,http://arxiv.org/pdf/1011.1956v1
+1011.2103v1,2010-11-08T15:03:33Z,Evaluation of Lifetime Bounds of Wireless Sensor Networks,Moslem Amiri,cs.NI,http://arxiv.org/pdf/1011.2103v1
+1011.2246v1,2010-11-10T01:22:46Z,p-Norm Flow Optimization in a Network,Mehdi Kalantari,cs.NI,http://arxiv.org/pdf/1011.2246v1
+1011.2324v1,2010-11-10T09:49:01Z,On the Dynamics of IP Address Allocation and Availability of End-Hosts,Udi Weinsberg,cs.NI,http://arxiv.org/pdf/1011.2324v1
+1011.2836v1,2010-11-12T06:30:26Z,System Virtualization and Efficient ID Transmission Method for RFID Tag   Infrastructure Network,Shin-ichi Kuribayashi,cs.NI,http://arxiv.org/pdf/1011.2836v1
+1011.2879v2,2010-11-12T11:03:52Z,Data Fusion Based Interference Matrix Generation for Cellular System   Frequency Planning,Jun Qian,cs.NI,http://arxiv.org/pdf/1011.2879v2
+1011.3088v1,2010-11-13T02:34:38Z,Design and Implementation of a Wireless Sensor Network for Smart Homes,Meng Shao,cs.NI,http://arxiv.org/pdf/1011.3088v1
+1011.3116v1,2010-11-13T07:58:27Z,An Adaptive Fault-Tolerant Communication Scheme for Body Sensor Networks,Zichuan Xu,cs.NI,http://arxiv.org/pdf/1011.3116v1
+1011.3482v1,2010-11-15T19:49:41Z,Distributed Construction of the Critical Geometric Graph in Dense   Wireless Sensor Networks,S. V. R. Anand,cs.NI,http://arxiv.org/pdf/1011.3482v1
+1011.3594v1,2010-11-16T07:15:16Z,Approaching Throughput-optimality in Distributed CSMA Scheduling   Algorithms with Collisions,Jean Walrand,cs.NI,http://arxiv.org/pdf/1011.3594v1
+1011.4363v1,2010-11-19T08:20:55Z,QoS-enabled ANFIS Dead Reckoning Algorithm for Distributed Interactive   Simulation,Akram Hakiri,cs.NI,http://arxiv.org/pdf/1011.4363v1
+1011.4535v2,2010-11-19T22:46:37Z,Cascading Link Failure in the Power Grid: A Percolation-Based Analysis,Edmund Yeh,cs.NI,http://arxiv.org/pdf/1011.4535v2
+1011.4654v2,2010-11-21T11:55:36Z,Towards a Collision-Free WLAN: Dynamic Parameter Adjustment in CSMA/E2CA,Kshitiz Verma,cs.NI,http://arxiv.org/pdf/1011.4654v2
+1011.5015v2,2010-11-23T07:07:47Z,One More Weight is Enough: Toward the Optimal Traffic Engineering with   OSPF,Meng Shen,cs.NI,http://arxiv.org/pdf/1011.5015v2
+1011.5021v1,2010-11-23T07:45:02Z,"Performance Comparison of Link, Node and Zone Disjoint Multi-path   Routing Strategies and Minimum Hop Single Path Routing for Mobile Ad Hoc   Networks",Natarajan Meghanathan,cs.NI,http://arxiv.org/pdf/1011.5021v1
+1011.5072v1,2010-11-23T12:05:57Z,A self-managing fault management mechanism for wireless sensor networks,Madjid Merabti,cs.NI,http://arxiv.org/pdf/1011.5072v1
+1011.5326v1,2010-11-24T09:40:03Z,Energy Efficient Clustering and Routing in Mobile Wireless Sensor   Network,Sridharan . D,cs.NI,http://arxiv.org/pdf/1011.5326v1
+1011.5469v1,2010-11-24T19:56:18Z,An Adaptive Multi-channel P2P Video-on-Demand System using Plug-and-Play   Helpers,Kannan Ramchandran,cs.NI,http://arxiv.org/pdf/1011.5469v1
+1011.6029v1,2010-11-28T11:03:35Z,Performance Evaluation of the Labelled OBS Architecture,Nicolas Brochier,cs.NI,http://arxiv.org/pdf/1011.6029v1
+1011.6030v1,2010-11-28T11:04:01Z,Optical Multicast Routing Under Light Splitter Constraints,Bernard Cousin,cs.NI,http://arxiv.org/pdf/1011.6030v1
+1011.6044v1,2010-11-28T13:11:52Z,Single Carrier Architecture for High Data Rate Wireless PAN   Communications System,Ghaïs El Zein,cs.NI,http://arxiv.org/pdf/1011.6044v1
+1011.6045v1,2010-11-28T13:12:44Z,Performance Analysis of a 60 GHz Near Gigabit System for WPAN   Applications,Ghaïs El Zein,cs.NI,http://arxiv.org/pdf/1011.6045v1
+1011.6129v1,2010-11-29T05:05:38Z,Toward a Push-Scalable Global Internet,Sachin Agarwal,cs.NI,http://arxiv.org/pdf/1011.6129v1
+1011.6180v1,2010-11-29T10:24:43Z,Adapting MAC 802.11 Adapting MAC 802.11 for Performance Optimization of   MANET using Cross Layer Interaction,Vivek Kumar,cs.NI,http://arxiv.org/pdf/1011.6180v1
+1011.6232v1,2010-11-29T14:08:20Z,A Proximity based Retransmission Scheme for Power Line Ad-hoc LAN,Chitta Ranjan Singha,cs.NI,http://arxiv.org/pdf/1011.6232v1
+1011.6508v2,2010-11-30T10:03:53Z,Multi-Hop Bandwidth Management Protocol for Mobile Ad Hoc Networks,Manojranjan Nayak,cs.NI,http://arxiv.org/pdf/1011.6508v2
+1011.6594v4,2010-11-30T16:03:45Z,On the Benefit of Virtualization: Strategies for Flexible Server   Allocation,Stefan Schmid,cs.NI,http://arxiv.org/pdf/1011.6594v4
+1012.0016v1,2010-11-30T21:13:24Z,Is Light-Tree Structure Optimal for Multicast Routing in Sparse Light   Splitting WDM Networks?,Bernard Cousin,cs.NI,http://arxiv.org/pdf/1012.0016v1
+1012.0017v1,2010-11-30T21:13:59Z,Light-Hierarchy: The Optimal Structure for Multicast Routing in WDM Mesh   Networks,Bernard Cousin,cs.NI,http://arxiv.org/pdf/1012.0017v1
+1012.0027v1,2010-11-30T21:34:53Z,Avoidance of multicast incapable branching nodes for multicast routing   in WDM networks,Bernard Cousin,cs.NI,http://arxiv.org/pdf/1012.0027v1
+1012.0037v1,2010-11-30T21:54:41Z,Hypo-Steiner heuristic for multicast routing in all-optical WDM mesh   networks,Bernard Cousin,cs.NI,http://arxiv.org/pdf/1012.0037v1
+1012.0126v1,2010-12-01T08:18:00Z,Channel Estimation And Multiuser Detection In Asynchronous Satellite   Communications,Ridha Bouallegue,cs.NI,http://arxiv.org/pdf/1012.0126v1
+1012.0522v1,2010-12-02T17:59:02Z,Design of QoS-aware Provisioning Systems,Nicola Dragoni,cs.NI,http://arxiv.org/pdf/1012.0522v1
+1012.0887v2,2010-12-04T07:30:12Z,Power and Delay Aware On-Demand Routing For Ad Hoc Networks,Manojranjan Nayak,cs.NI,http://arxiv.org/pdf/1012.0887v2
+1012.1095v1,2010-12-06T08:50:21Z,Binary Inference for Primary User Separation in Cognitive Radio Networks,Rong Zheng,cs.NI,http://arxiv.org/pdf/1012.1095v1
+1012.1689v1,2010-12-08T05:49:20Z,A Distributed Cluster Scheme For Bandwidth Management In Multi-hop   MANETs,Manoj Ranjan Nayak,cs.NI,http://arxiv.org/pdf/1012.1689v1
+1012.2096v1,2010-12-09T19:45:06Z,An Energy-efficient Clock Synchronization Protocol for Wireless Sensor   Networks,Berthou Pascal,cs.NI,http://arxiv.org/pdf/1012.2096v1
+1012.2464v2,2010-12-11T15:02:28Z,Long Tail Behavior of Queue Lengths in Broadband Networks: Tsallis   Entropy Framework,Shachi Sharma,cs.NI,http://arxiv.org/pdf/1012.2464v2
+1012.2510v1,2010-12-12T06:33:17Z,Analyzing Zone Routing Protocol in MANET Applying Authentic Parameter,Kamaljit I. Lakhtaria,cs.NI,http://arxiv.org/pdf/1012.2510v1
+1012.2524v1,2010-12-12T08:28:25Z,Convergence and Next Generation Networks,Basavaraj Hooli,cs.NI,http://arxiv.org/pdf/1012.2524v1
+1012.2830v1,2010-12-13T18:47:00Z,Beamsteering on Mobile Devices: Network Capacity and Client Efficiency,Ashutosh Sabharwal,cs.NI,http://arxiv.org/pdf/1012.2830v1
+1012.3628v2,2010-12-16T15:00:17Z,Fast and Power Efficient Sensor Arbitration: Physical Layer Collision   Recovery of Passive RFID Tags,Torben Larsen,cs.NI,http://arxiv.org/pdf/1012.3628v2
+1012.4066v2,2010-12-18T07:48:34Z,Generalized and Resource-Efficient VNet Embeddings with Migrations,Anja Feldmann,cs.NI,http://arxiv.org/pdf/1012.4066v2
+1012.4113v1,2010-12-18T19:38:58Z,Performance Study of IEEE802.11e QoS in EDCF-Contention-based Static and   Dynamic Scenarios,Boubaker Daachi,cs.NI,http://arxiv.org/pdf/1012.4113v1
+1012.4136v1,2010-12-19T00:35:27Z,Employing Coded Relay in Multi-hop Wireless Networks,Jin Xie,cs.NI,http://arxiv.org/pdf/1012.4136v1
+1012.4556v1,2010-12-21T07:11:26Z,Selective Multipath Interference Canceller with Linear Equalization for   DS-UWB Systems with Low Spreading Factor,Ning Ge,cs.NI,http://arxiv.org/pdf/1012.4556v1
+1012.4688v1,2010-12-21T15:15:44Z,Performance Study of ETX based Wireless Routing Metrics,Karim Djouani,cs.NI,http://arxiv.org/pdf/1012.4688v1
+1012.4815v1,2010-12-21T21:30:18Z,Analytical Modeling of Saturation Throughput in Power Save Mode of an   IEEE 802.11 Infrastructure WLAN,Manoj K. Panda,cs.NI,http://arxiv.org/pdf/1012.4815v1
+1012.5597v1,2010-12-27T11:27:24Z,Manipulating Multistage Interconnection Networks Using Fundamental   Arrangements,Zeev Zalevsky,cs.NI,http://arxiv.org/pdf/1012.5597v1
+1101.0203v1,2010-12-31T05:19:42Z,Intelligent Lighting System Using Wireless Sensor Networks,Sudarshan TSB,cs.NI,http://arxiv.org/pdf/1101.0203v1
+1101.0204v2,2010-12-31T05:24:06Z,Globally Optimal Distributed Power Control for Nonconcave Utility   Maximization,Mung Chiang,cs.NI,http://arxiv.org/pdf/1101.0204v2
+1101.0209v1,2010-12-31T07:07:02Z,Performance Comparison and Analysis of Preemptive-DSR and TORA,Narayana. D,cs.NI,http://arxiv.org/pdf/1101.0209v1
+1101.0250v1,2010-12-31T12:49:32Z,An Adaptive and Multi-Service Routing Protocol for Wireless Sensor   Networks,Jaydip Sen,cs.NI,http://arxiv.org/pdf/1101.0250v1
+1101.0350v1,2011-01-01T15:49:19Z,"Graffiti Networks: A Subversive, Internet-Scale File Sharing Model",Ning Shi,cs.NI,http://arxiv.org/pdf/1101.0350v1
+1101.0376v1,2011-01-01T23:29:34Z,Dynamic Coverage of Mobile Sensor Networks,Don Towsley,cs.NI,http://arxiv.org/pdf/1101.0376v1
+1101.0562v1,2011-01-03T16:51:40Z,Buffer Sizing for 802.11 Based Networks,David Malone,cs.NI,http://arxiv.org/pdf/1101.0562v1
+1101.0892v1,2011-01-05T07:08:46Z,GeoQuorum: Load Balancing and Energy Efficient Data Access in Wireless   Sensor Networks,Ying He,cs.NI,http://arxiv.org/pdf/1101.0892v1
+1101.2096v1,2011-01-11T11:11:15Z,Data Accuracy Estimation for Cluster with Spatially Correlated Data in   Wireless Sensor Networks,H. S Jamadagni,cs.NI,http://arxiv.org/pdf/1101.2096v1
+1101.2098v1,2011-01-11T11:17:52Z,Data Accuracy Estimation for Spatially Correlated Data in Wireless   Sensor Networks under Distributed Clustering,H. S Jamadagni,cs.NI,http://arxiv.org/pdf/1101.2098v1
+1101.2715v1,2011-01-14T04:34:43Z,A Novel Mechanism for Detection of Distributed Denial of Service Attacks,Jaydip Sen,cs.NI,http://arxiv.org/pdf/1101.2715v1
+1101.2717v1,2011-01-14T05:29:11Z,Energy-Efficient Design and Optimization of Wireline Access Networks,Gordon Wilfong,cs.NI,http://arxiv.org/pdf/1101.2717v1
+1101.2759v1,2011-01-14T10:23:22Z,Routing Security Issues in Wireless Sensor Networks: Attacks and   Defenses,Jaydip Sen,cs.NI,http://arxiv.org/pdf/1101.2759v1
+1101.3102v2,2011-01-17T00:15:06Z,Experimental Performance Evaluation of Location Distinction for MIMO   Channels,Michael Jensen,cs.NI,http://arxiv.org/pdf/1101.3102v2
+1101.3835v1,2011-01-20T08:02:36Z,Relay Selection with Partial Information in Wireless Sensor Networks,Anurag Kumar,cs.NI,http://arxiv.org/pdf/1101.3835v1
+1101.3859v1,2011-01-20T09:54:07Z,OSPF Weight Setting Optimization for Single Link Failures,Syed Asadullah,cs.NI,http://arxiv.org/pdf/1101.3859v1
+1101.4034v1,2011-01-20T21:42:12Z,A QoS Routing Protocol based on Available Bandwidth Estimation for   Wireless Ad Hoc Networks,Farouk Kamoun,cs.NI,http://arxiv.org/pdf/1101.4034v1
+1101.4412v1,2011-01-23T22:59:20Z,BitTorrent Swarm Analysis through Automation and Enhanced Logging,Nicolae Tăpus,cs.NI,http://arxiv.org/pdf/1101.4412v1
+1101.4753v2,2011-01-25T09:20:30Z,Mobility Control for Machine-to-Machine LTE Systems,Seong-Lyun Kim,cs.NI,http://arxiv.org/pdf/1101.4753v2
+1101.5019v3,2011-01-26T10:33:56Z,Distributed Algorithm to Locate Critical Nodes to Network Robustness   based on Spectral Analysis,Artur Ziviani,cs.NI,http://arxiv.org/pdf/1101.5019v3
+1101.5221v3,2011-01-27T08:11:19Z,Competitive and Deterministic Embeddings of Virtual Networks,Stefan Schmid,cs.NI,http://arxiv.org/pdf/1101.5221v3
+1101.5509v1,2011-01-28T11:21:11Z,Reduce to the Max: A Simple Approach for Massive-Scale   Privacy-Preserving Collaborative Network Measurements (Extended Version),Martin Burkhart,cs.NI,http://arxiv.org/pdf/1101.5509v1
+1101.5779v1,2011-01-30T15:49:26Z,"Co-Designing Multi-Packet Reception, Network Coding, and MAC Using a   Simple Predictive Model",Muriel Médard,cs.NI,http://arxiv.org/pdf/1101.5779v1
+1101.6016v1,2011-01-31T16:46:05Z,Let Cognitive Radios Imitate: Imitation-based Spectrum Access for   Cognitive Radio Networks,Marceau Coupechoux,cs.NI,http://arxiv.org/pdf/1101.6016v1
+1102.0682v1,2011-02-03T13:46:19Z,A Study of IEEE 802.15.4 Security Framework for Wireless Body Area   Network,Kyung Sup Kwak,cs.NI,http://arxiv.org/pdf/1102.0682v1
+1102.0684v1,2011-02-03T13:47:18Z,A Dynamic Web Page Prediction Model Based on Access Patterns to Offer   Better User Latency,Young-Chon Kim,cs.NI,http://arxiv.org/pdf/1102.0684v1
+1102.2291v1,2011-02-11T06:10:24Z,Towards a Cognitive Handoff for the Future Internet: Model-driven   Methodology and Taxonomy of Scenarios,Eldamira Buenfil-Alpuche,cs.NI,http://arxiv.org/pdf/1102.2291v1
+1102.2293v1,2011-02-11T06:29:28Z,Towards a Cognitive Handoff for the Future Internet: A Holistic Vision,Eldamira Buenfil-Alpuche,cs.NI,http://arxiv.org/pdf/1102.2293v1
+1102.2553v1,2011-02-13T02:50:19Z,Distributed Resource Allocation for Proportional Fairness in Multi-Band   Wireless Systems,Piyush Gupta,cs.NI,http://arxiv.org/pdf/1102.2553v1
+1102.2791v2,2011-02-14T15:11:54Z,A Hybrid Global Minimization Scheme for Accurate Source Localization in   Sensor Networks,Alireza Aghasi,cs.NI,http://arxiv.org/pdf/1102.2791v2
+1102.3013v1,2011-02-15T09:45:48Z,Content replication and placement in mobile networks,Marco Fiore,cs.NI,http://arxiv.org/pdf/1102.3013v1
+1102.3270v3,2011-02-16T09:12:26Z,Analytical Model of TCP Relentless Congestion Control,Emmanuel Lochin,cs.NI,http://arxiv.org/pdf/1102.3270v3
+1102.3533v1,2011-02-17T09:23:06Z,Packet-pair technique for available bandwidth estimation in IPv6 network,Pavel Veselovskiy,cs.NI,http://arxiv.org/pdf/1102.3533v1
+1102.3538v1,2011-02-17T09:45:07Z,A Flow-aware MAC Protocol for a Passive Optical Metropolitan Area   Network,James Roberts,cs.NI,http://arxiv.org/pdf/1102.3538v1
+1102.3607v1,2011-02-17T15:33:15Z,Fairness issues in a chain of IEEE 802.11 stations,Stéphane Mottelet,cs.NI,http://arxiv.org/pdf/1102.3607v1
+1102.3610v2,2011-02-17T15:40:50Z,Heterogeneous download times in a homogeneous BitTorrent swarm,Edmundo de Souza e Silva,cs.NI,http://arxiv.org/pdf/1102.3610v2
+1102.4106v1,2011-02-20T22:08:50Z,An Overview of IEEE 802.15.6 Standard,Niamat Ullah,cs.NI,http://arxiv.org/pdf/1102.4106v1
+1102.4176v1,2011-02-21T10:10:00Z,Contract-Based Cooperative Spectrum Sharing,Jianwei Huang,cs.NI,http://arxiv.org/pdf/1102.4176v1
+1102.4469v1,2011-02-22T11:30:35Z,Log-Convexity of Rate Region in 802.11e WLANs,Ken R. Duffy,cs.NI,http://arxiv.org/pdf/1102.4469v1
+1102.5043v1,2011-02-24T17:25:50Z,uRbAn: A Multipath Routing based Architecture with Energy and Mobility   Management for Quality of Service Support in Mobile Ad hoc Networks,Ash Mohammad Abbas,cs.NI,http://arxiv.org/pdf/1102.5043v1
+1102.5189v1,2011-02-25T08:27:15Z,An Adaptive Multimedia-Oriented Handoff Scheme for IEEE 802.11 WLANs,Saïd Hanafi,cs.NI,http://arxiv.org/pdf/1102.5189v1
+1102.5197v1,2011-02-25T09:31:28Z,Fine Synchronization through UWB TH-PPM Impulse Radios,Ridha Bouallegue,cs.NI,http://arxiv.org/pdf/1102.5197v1
+1102.5739v2,2011-02-28T18:54:33Z,On the Random 1/2-Disk Routing Scheme in Wireless Ad Hoc Networks,Shuguang Cui,cs.NI,http://arxiv.org/pdf/1102.5739v2
+1105.0043v1,2011-04-30T03:37:55Z,Requirements of Vertical Handoff Mechanism in 4G Wireless Networks,Sanjay Kadam,cs.NI,http://arxiv.org/pdf/1105.0043v1
+1105.0054v2,2011-04-30T07:43:25Z,Loss Tomography from Tree Topologies to General Topologies,Ke Deng,cs.NI,http://arxiv.org/pdf/1105.0054v2
+1105.0057v4,2011-04-30T07:54:42Z,A Closed Form Maximum Likelihood Estimator to End-to-End Loss Rate   Estimation,Weiping Zhu,cs.NI,http://arxiv.org/pdf/1105.0057v4
+1105.0058v1,2011-04-30T08:20:51Z,Impact of the Optimum Routing and Least Overhead Routing Approaches on   Minimum Hop Routes and Connected Dominating Sets in Mobile Ad Hoc Networks I,Natarajan Meghanathan,cs.NI,http://arxiv.org/pdf/1105.0058v1
+1105.0061v1,2011-04-30T08:41:26Z,"Virtual Machines and Networks - Installation, Performance Study,   Advantages and Virtualization Options",Natarajan Meghanathan,cs.NI,http://arxiv.org/pdf/1105.0061v1
+1105.0066v1,2011-04-30T09:15:42Z,Integration of an RFID Reader to a Wireless Sensor Network and using it   to Identify an Individual Carrying RFID Tags,Natarajan Meghanathan,cs.NI,http://arxiv.org/pdf/1105.0066v1
+1105.0215v1,2011-05-01T22:30:13Z,Cross-Layer Modeling of Randomly Spread CDMA Using Stochastic Network   Calculus,Yuming Jiang,cs.NI,http://arxiv.org/pdf/1105.0215v1
+1105.0234v1,2011-05-02T02:18:21Z,Optimized Performance Evaluation of LTE Hard Handover Algorithm with   Average RSRP Constraint,Riyaj Basukala,cs.NI,http://arxiv.org/pdf/1105.0234v1
+1105.0251v1,2011-05-02T07:23:06Z,Improve performance of tcp new reno over mobile ad-hoc network using   abra,Dr. Sanjeev Sharma,cs.NI,http://arxiv.org/pdf/1105.0251v1
+1105.0283v2,2011-05-02T10:02:12Z,Net Neutrality and Quality of Service,Yuedong Xu,cs.NI,http://arxiv.org/pdf/1105.0283v2
+1105.0738v1,2011-05-04T05:56:04Z,REFIM: A Practical Interference Management in Heterogeneous Wireless   Access Networks,Song Chong,cs.NI,http://arxiv.org/pdf/1105.0738v1
+1105.1328v1,2011-05-06T16:55:54Z,Matchmaking Semantic Based for Information System Interoperability,I Wayan Simri Wicaksana,cs.NI,http://arxiv.org/pdf/1105.1328v1
+1105.1347v1,2011-05-06T18:19:42Z,Modeling queuing dynamics of TCP: a simple model and its empirical   validation,Tassos Nakassis,cs.NI,http://arxiv.org/pdf/1105.1347v1
+1105.1411v1,2011-05-07T02:19:59Z,"Embeddings of Linear Arrays, Rings and 2-D Meshes on Extended Lucas Cube   Networks",Vincent Vajnovzki,cs.NI,http://arxiv.org/pdf/1105.1411v1
+1105.1504v3,2011-05-08T09:24:16Z,A Self-Organized Resource Allocation using Inter-Cell Interference   Coordination (ICIC) in Relay-Assisted Cellular Networks,Muhammad Ali Imran,cs.NI,http://arxiv.org/pdf/1105.1504v3
+1105.1515v1,2011-05-08T13:40:19Z,The Ambient Networks Heterogeneous Access Selection Architecture,Pekka Pääkkönen,cs.NI,http://arxiv.org/pdf/1105.1515v1
+1105.1516v1,2011-05-08T13:44:30Z,A Generic Signaling Framework for Seamless Mobility in Heterogeneous   Wireless Networks,Kostas Pentikousis,cs.NI,http://arxiv.org/pdf/1105.1516v1
+1105.1518v1,2011-05-08T13:48:11Z,Management of Multiple Mobility Protocols and Tools in Dynamically   Configurable Networks,Kostas Pentikousis,cs.NI,http://arxiv.org/pdf/1105.1518v1
+1105.2292v1,2011-05-11T15:02:04Z,Analysis of Power-aware Buffering Schemes in Wireless Sensor Networks,Shigang Chen,cs.NI,http://arxiv.org/pdf/1105.2292v1
+1105.2654v1,2011-05-13T08:33:45Z,Broadcast Strategies with Probabilistic Delivery Guarantee in   Multi-Channel Multi-Interface Wireless Mesh Networks,Andrzej Duda,cs.NI,http://arxiv.org/pdf/1105.2654v1
+1105.3023v1,2011-05-16T07:59:31Z,An Energy Efficient Protocol for Gateway-Centric Federated Residential   Access Networks,Carla-Fabiana Chiasserini,cs.NI,http://arxiv.org/pdf/1105.3023v1
