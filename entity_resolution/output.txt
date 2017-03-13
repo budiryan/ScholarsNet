@@ -1,0 +1,68 @@
+Comparison between string distance of "arxiv" and "acm":
+        journal category  abstract  volume  authors  title  citation count  journal category_description  pdf link  download_count  time added  
+category              08        08      08       05     07              10                            20        08              12          09  
+    link              15        08      05       07     04              12                            26        04              12          09  
+ publish              14        08      06       06     06              13                            25        05              13          10  
+ summary              12        07      07       05     07              14                            24        08              13          08  
+   title              14        07      05       06     00              12                            25        07              13          07  
+  author              12        06      06       01     05              12                            24        08              12          10  
+      id              16        08      06       07     04              13                            27        07              13          08  
+
+Comparison between string distance of "arxiv" and "dblp":
+        author  title  pages  year  volume  journal  number  link  summary  
+category    05     07     06    06      08       08      07    08       06  
+    link    06     04     05    04      05       06      06    00       07  
+ publish    06     06     05    07      06       07      06    05       06  
+ summary    05     07     07    05      07       06      04    07       00  
+   title    05     00     05    05      05       07      05    04       07  
+  author    00     05     06    05      06       06      04    06       05  
+      id    06     04     05    04      06       07      06    03       07  
+
+Comparison between string distance of "arxiv" and "ieee":
+        electronic isbn  abstract  date of conference  print on demand  published in  title  authors  pdf link  
+category             14        08                  13               13            11     07       05        08  
+    link             13        08                  17               13            10     04       07        04  
+ publish             13        08                  18               14            05     06       06        05  
+ summary             14        07                  17               13            11     07       05        08  
+   title             13        07                  16               12            10     00       06        07  
+  author             13        06                  15               13            10     05       01        08  
+      id             14        08                  18               13            10     04       07        07  
+
+Comparison between string distance of "acm" and "dblp":
+                            author  title  pages  year  volume  journal  number  link  summary  
+            journal category    12     14     14    14      13       09      13    15       12  
+                    abstract    06     07     08    07      08       07      08    08       07  
+                      volume    06     05     06    06      00       06      05    05       07  
+                     authors    01     06     06    06      07       07      05    07       05  
+                       title    05     00     05    05      05       07      05    04       07  
+              citation count    12     12     13    13      12       13      13    12       14  
+journal category_description    24     25     24    25      25       21      25    26       24  
+                    pdf link    08     07     07    08      07       08      08    04       08  
+              download_count    12     13     13    13      11       12      13    12       13  
+                  time added    10     07     08    08      09       09      08    09       08  
+
+Comparison between string distance of "acm" and "ieee":
+                            electronic isbn  abstract  date of conference  print on demand  published in  title  authors  pdf link  
+            journal category             16        13                  15               14            13     14       12        15  
+                    abstract             12        00                  15               13            10     07       06        08  
+                      volume             14        08                  16               13            10     05       07        07  
+                     authors             12        06                  15               13            10     06       00        08  
+                       title             13        07                  16               12            10     00       06        07  
+              citation count             11        11                  13               10            12     12       12        12  
+journal category_description             21        23                  23               23            22     25       23        26  
+                    pdf link             14        08                  15               12            10     07       08        00  
+              download_count             14        11                  14               12            12     13       12        12  
+                  time added             14        09                  15               10            11     07       10        09  
+
+Comparison between string distance of "dblp" and "ieee":
+       electronic isbn  abstract  date of conference  print on demand  published in  title  authors  pdf link  
+ author             13        06                  15               13            10     05       01        08  
+  title             13        07                  16               12            10     00       06        07  
+  pages             14        08                  16               13            10     05       06        07  
+   year             13        07                  16               13            11     05       06        08  
+ volume             14        08                  16               13            10     05       07        07  
+journal             13        07                  15               13            12     07       07        08  
+ number             14        08                  16               13            10     05       05        08  
+   link             13        08                  17               13            10     04       07        04  
+summary             14        07                  17               13            11     07       05        08  
+
