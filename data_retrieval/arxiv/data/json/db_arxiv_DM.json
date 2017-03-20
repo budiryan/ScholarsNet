@@ -8998,4 +8998,4 @@
     "author": "Neal E. Young", 
     "publish": "2002-05-30T12:34:24Z", 
     "summary": "The traditional multi-commodity flow problem assumes a given flow network in\nwhich multiple commodities are to be maximally routed in response to given\ndemands. This paper considers the multi-commodity flow network-design problem:\ngiven a set of multi-commodity flow demands, find a network subject to certain\nconstraints such that the commodities can be maximally routed.\n  This paper focuses on the case when the network is required to be a tree. The\nmain result is an approximation algorithm for the case when the tree is\nrequired to be of constant degree. The algorithm reduces the problem to the\nminimum-weight balanced-separator problem; the performance guarantee of the\nalgorithm is within a factor of 4 of the performance guarantee of the\nbalanced-separator procedure. If Leighton and Rao's balanced-separator\nprocedure is used, the performance guarantee is O(log n). This improves the\nO(log^2 n) approximation factor that is trivial to obtain by a direct\napplication of the balanced-separator method."
-},lol]
+}]

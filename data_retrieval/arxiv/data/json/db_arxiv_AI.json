@@ -8998,4 +8998,4 @@
     "author": "Marco Tomassini", 
     "publish": "2011-07-21T05:08:50Z", 
     "summary": "Negative Slope Coefficient is an indicator of problem hardness that has been\nintroduced in 2004 and that has returned promising results on a large set of\nproblems. It is based on the concept of fitness cloud and works by partitioning\nthe cloud into a number of bins representing as many different regions of the\nfitness landscape. The measure is calculated by joining the bins centroids by\nsegments and summing all their negative slopes. In this paper, for the first\ntime, we point out a potential problem of the Negative Slope Coefficient: we\nstudy its value for different instances of the well known NK-landscapes and we\nshow how this indicator is dramatically influenced by the minimum number of\npoints contained into a bin. Successively, we formally justify this behavior of\nthe Negative Slope Coefficient and we discuss pros and cons of this measure."
-},lol]
+}]

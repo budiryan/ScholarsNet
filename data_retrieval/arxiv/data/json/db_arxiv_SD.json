@@ -6748,4 +6748,4 @@
     "author": "Augusto Sarti", 
     "publish": "2014-02-10T18:08:20Z", 
     "summary": "In this manuscript we consider the well-established problem of TDOA-based\nsource localization and propose a comprehensive analysis of its solutions for\narbitrary sensor measurements and placements. More specifically, we define the\nTDOA map from the physical space of source locations to the space of range\nmeasurements (TDOAs), in the specific case of three receivers in 2D space. We\nthen study the identifiability of the model, giving a complete analytical\ncharacterization of the image of this map and its invertibility. This analysis\nhas been conducted in a completely mathematical fashion, using many different\ntools which make it valid for every sensor configuration. These results are the\nfirst step towards the solution of more general problems involving, for\nexample, a larger number of sensors, uncertainty in their placement, or lack of\nsynchronization."
-},lol]
+}]

@@ -8998,4 +8998,4 @@
     "author": "Antonio Tapiador", 
     "publish": "2012-09-04T09:44:07Z", 
     "summary": "Social network management interfaces should consider separation of contexts\nand tie strength. This paper shows the design process upon building the Social\nCheesecake, an interface that addresses both issues. Paper and screen\nprototyping were used in the design process. Paper prototype interactions\nhelped to explore the metaphors in the domain, while screen prototype\nconsolidated the model. The prototype was finally built using HTML5 and\nJavascript."
-},lol]
+}]

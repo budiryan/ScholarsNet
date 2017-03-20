@@ -8998,4 +8998,4 @@
     "author": "Song Liu", 
     "publish": "2015-06-01T08:22:49Z", 
     "summary": "Representation learning of knowledge bases (KBs) aims to embed both entities\nand relations into a low-dimensional space. Most existing methods only consider\ndirect relations in representation learning. We argue that multiple-step\nrelation paths also contain rich inference patterns between entities, and\npropose a path-based representation learning model. This model considers\nrelation paths as translations between entities for representation learning,\nand addresses two key challenges: (1) Since not all relation paths are\nreliable, we design a path-constraint resource allocation algorithm to measure\nthe reliability of relation paths. (2) We represent relation paths via semantic\ncomposition of relation embeddings. Experimental results on real-world datasets\nshow that, as compared with baselines, our model achieves significant and\nconsistent improvements on knowledge base completion and relation extraction\nfrom text."
-},lol]
+}]

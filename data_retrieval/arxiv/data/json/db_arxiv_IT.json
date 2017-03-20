@@ -8998,4 +8998,4 @@
     "author": "Shlomo Shamai", 
     "publish": "2007-11-16T02:47:23Z", 
     "summary": "An interference alignment example is constructed for the deterministic\nchannel model of the $K$ user interference channel. The deterministic channel\nexample is then translated into the Gaussian setting, creating the first known\nexample of a fully connected Gaussian $K$ user interference network with single\nantenna nodes, real, non-zero and contant channel coefficients, and no\npropagation delays where the degrees of freedom outerbound is achieved. An\nanalogy is drawn between the propagation delay based interference alignment\nexamples and the deterministic channel model which also allows similar\nconstructions for the 2 user $X$ channel as well."
-},lol]
+}]

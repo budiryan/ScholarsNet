@@ -8998,4 +8998,4 @@
     "author": "Bjorn Landfeldt", 
     "publish": "2013-01-13T07:49:26Z", 
     "summary": "It has been known that load unaware channel selection in 802.11 networks\nresults in high level interference, and can significantly reduce the network\nthroughput. In current implementation, the only way to determine the traffic\nload on a channel is to measure that channel for a certain duration of time.\nTherefore, in order to find the best channel with the minimum load all channels\nhave to be measured, which is costly and can cause unacceptable communication\ninterruptions between the AP and the stations. In this paper, we propose a\nlearning based approach which aims to find the channel with the minimum load by\nmeasuring only limited number of channels. Our method uses Gaussian Process\nRegressing to accurately track the traffic load on each channel based on the\nprevious measured load. We confirm the performance of our algorithm by using\nexperimental data, and show that the time consumed for the load measurement can\nbe reduced up to 46% compared to the case where all channels are monitored."
-},lol]
+}]

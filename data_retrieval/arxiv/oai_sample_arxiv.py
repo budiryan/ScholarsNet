@@ -28,7 +28,7 @@ base_url = 'http://export.arxiv.org/api/query?';
 # Search parameters
 search_query = 'all:cs'       # search for electron in all fields
 start = 0                     # retreive the first 5 results
-max_results = 10000
+max_results = 10
 
 query = 'search_query=%s&start=%i&max_results=%i' % (search_query,
                                                      start,
@@ -72,7 +72,7 @@ for entry in feed.entries:
     # feedparser v5.0.1 correctly handles multiple authors, print them all
     try:
         print 'Authors:  %s' % ', '.join(author.name for author in entry.authors)
-    #except AttributeError:
+    except AttributeError:
         pass
 
     # get the links to the abs page and pdf for this e-print
@@ -81,20 +81,22 @@ for entry in feed.entries:
             print 'abs page link: %s' % link.href
         elif link.title == 'pdf':
             print 'pdf link: %s' % link.href
+        elif link.title == 'doi':
+            print 'doi link: %s' % link.href
     
     # The journal reference, comments and primary_category sections live under 
     # the arxiv namespace
-    #try:
-    #    journal_ref = entry.arxiv_journal_ref
-    #except AttributeError:
-    #    journal_ref = 'No journal ref found'
-    #print 'Journal reference: %s' % journal_ref
+    try:
+        journal_ref = entry.arxiv_journal_ref
+    except AttributeError:
+        journal_ref = 'No journal ref found'
+    print 'Journal reference: %s' % journal_ref
     
-    #try:
-    #    comment = entry.arxiv_comment
-    #except AttributeError:
-    #    comment = 'No comment found'
-    #print 'Comments: %s' % comment
+    try:
+        comment = entry.arxiv_comment
+    except AttributeError:
+        comment = 'No comment found'
+    print 'Comments: %s' % comment
     
     # Since the <arxiv:primary_category> element has no data, only
     # attributes, feedparser does not store anything inside
@@ -109,7 +111,7 @@ for entry in feed.entries:
     #print 'All Categories: %s' % (', ').join(all_categories)
     
     # The abstract is in the <summary> element
-    #print 'Abstract: %s' %  entry.summary
+    print 'Abstract: %s' %  entry.summary
 
     print '\n\n'
 

@@ -8998,4 +8998,4 @@
     "author": "Igor S. Sergeev", 
     "publish": "2012-08-19T18:14:55Z", 
     "summary": "It is shown that the counting function of n Boolean variables can be\nimplemented with the formulae of size O(n^3.06) over the basis of all 2-input\nBoolean functions and of size O(n^4.54) over the standard basis. The same\nbounds follow for the complexity of any threshold symmetric function of n\nvariables and particularly for the majority function. Any bit of the product of\nbinary numbers of length n can be computed by formulae of size O(n^4.06) or\nO(n^5.54) depending on basis. Incidentally the bounds O(n^3.23) and O(n^4.82)\non the formula size of any symmetric function of n variables with respect to\nthe basis are obtained."
-},lol]
+}]

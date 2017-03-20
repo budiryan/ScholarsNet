@@ -8998,4 +8998,4 @@
     "author": "Andrew D. A. Maidment", 
     "publish": "2014-08-05T22:23:40Z", 
     "summary": "Within the framework of a virtual clinical trial for breast imaging, we aim\nto develop numerical observers that follow the same detection performance\ntrends as those of a typical human observer. In our prior work, we showed that\nby including spatiotemporal contrast sensitivity function (stCSF) of human\nvisual system (HVS) in a multi-slice channelized Hotelling observer (msCHO), we\ncan correctly predict trends of a typical human observer performance with the\nviewing parameters of browsing speed, viewing distance and contrast. In this\nwork we further improve our numerical observer by modeling contrast masking.\nAfter stCSF, contrast masking is the second most prominent property of HVS and\nit refers to the fact that the presence of one signal affects the visibility\nthreshold for another signal. Our results indicate that the improved numerical\nobserver better predicts changes in detection performance with background\ncomplexity."
-},lol]
+}]

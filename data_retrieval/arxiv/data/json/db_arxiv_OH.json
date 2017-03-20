@@ -8998,4 +8998,4 @@
     "author": "Nadeem Javaid", 
     "publish": "2013-03-23T06:57:13Z", 
     "summary": "The Network on Chip (NoC) paradigm is rapidly replacing bus based System on\nChip (SoC) designs due to their inherent disadvantages such as non-scalability,\nsaturation and congestion. Currently very few tools are available for the\nsimulation and evaluation of on-chip architectures. This study proposes a\ngeneric object oriented model for performance evaluation of on-chip\ninterconnect architectures and algorithms. The generic nature of the proposed\nmodel can help the researchers in evaluation of any kind of on-chip switching\nnetworks. The model was applied on 2D-Mesh and 2D-Diagonal-Mesh on-chip\nswitching networks for verification and selection of best out of both the\nanalyzed architectures. The results show the superiority of 2D-Diagonal-Mesh\nover 2D-Mesh in terms of average packet delay."
-},lol]
+}]

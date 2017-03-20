@@ -2887,4 +2887,4 @@
     "author": "Rajkumar Buyya", 
     "publish": "2009-07-26T02:19:42Z", 
     "summary": "Aneka is a platform for deploying Clouds developing applications on top of\nit. It provides a runtime environment and a set of APIs that allow developers\nto build .NET applications that leverage their computation on either public or\nprivate clouds. One of the key features of Aneka is the ability of supporting\nmultiple programming models that are ways of expressing the execution logic of\napplications by using specific abstractions. This is accomplished by creating a\ncustomizable and extensible service oriented runtime environment represented by\na collection of software containers connected together. By leveraging on these\narchitecture advanced services including resource reservation, persistence,\nstorage management, security, and performance monitoring have been implemented.\nOn top of this infrastructure different programming models can be plugged to\nprovide support for different scenarios as demonstrated by the engineering,\nlife science, and industry applications."
-},lol]
+}]

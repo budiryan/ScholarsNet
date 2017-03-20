@@ -8998,4 +8998,4 @@
     "author": "Johannes Emerich", 
     "publish": "2016-12-02T13:18:58Z", 
     "summary": "Functional languages with strong static type systems have beneficial\nproperties to help ensure program correctness and reliability. Surprisingly,\ntheir practical significance in applications is low relative to other languages\nlacking in those dimensions. In this paper, the programs-as-proofs analogy is\ntaken seriously to gain speculative insights by analysis of creation habits in\nthe proof-centric discipline of mathematics. Viewed in light of this analogy, a\nsampling of mathematicians' attitudes towards formal proof suggests that the\ncrucial role of intuition and experimentation in programming tasks may be under\nappreciated, hinting at a possible explanation of the challenges rigorously\ndisciplined languages face in practical applications."
-},lol]
+}]

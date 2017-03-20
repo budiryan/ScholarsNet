@@ -8998,4 +8998,4 @@
     "author": "Pavan Chakraborty", 
     "publish": "2017-01-29T22:27:15Z", 
     "summary": "Cloud Robotics is one of the emerging area of robotics. It has created a lot\nof attention due to its direct practical implications on Robotics. In Cloud\nRobotics, the concept of cloud computing is used to offload computational\nextensive jobs of the robots to the cloud. Apart from this, additional\nfunctionalities can also be offered on run to the robots on demand.\nSimultaneous Localization and Mapping (SLAM) is one of the computational\nintensive algorithm in robotics used by robots for navigation and map building\nin an unknown environment. Several Cloud based frameworks are proposed\nspecifically to address the problem of SLAM, DAvinCi, Rapyuta and C2TAM are\nsome of those framework. In this paper, we presented a detailed review of all\nthese framework implementation for SLAM problem."
-},lol]
+}]

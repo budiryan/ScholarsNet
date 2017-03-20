@@ -8998,4 +8998,4 @@
     "author": "J. Maurice Rojas", 
     "publish": "1998-09-14T07:46:19Z", 
     "summary": "Consider a system F of n polynomial equations in n unknowns, over an\nalgebraically closed field of arbitrary characteristic. We present a fast\nmethod to find a point in every irreducible component of the zero set Z of F.\nOur techniques allow us to sharpen and lower prior complexity bounds for this\nproblem by fully taking into account the monomial term structure. As a\ncorollary of our development we also obtain new explicit formulae for the exact\nnumber of isolated roots of F and the intersection multiplicity of the\npositive-dimensional part of Z. Finally, we present a combinatorial\nconstruction of non-degenerate polynomial systems, with specified monomial term\nstructure and maximally many isolated roots, which may be of independent\ninterest."
-},lol]
+}]

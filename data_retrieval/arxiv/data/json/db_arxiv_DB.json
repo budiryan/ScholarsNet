@@ -8998,4 +8998,4 @@
     "author": "A. R. Mohammed Shanavas", 
     "publish": "2014-05-08T09:26:52Z", 
     "summary": "Privacy Preserving Data Mining(PPDM) is an ongoing research area aimed at\nbridging the gap between the collaborative data mining and data confidentiality\nThere are many different approaches which have been adopted for PPDM, of them\nthe rule hiding approach is used in this article. This approach ensures output\nprivacy that prevent the mined patterns(itemsets) from malicious inference\nproblems. An efficient algorithm named as Pattern-based Maxcover Algorithm is\nproposed with experimental results. This algorithm minimizes the dissimilarity\nbetween the source and the released database; Moreover the patterns protected\ncannot be retrieved from the released database by an adversary or counterpart\neven with an arbitrarily low support threshold."
-},lol]
+}]

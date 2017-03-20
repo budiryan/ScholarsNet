@@ -8998,4 +8998,4 @@
     "author": "Ilya Sutskever", 
     "publish": "2015-05-04T04:14:54Z", 
     "summary": "The Neural Turing Machine (NTM) is more expressive than all previously\nconsidered models because of its external memory. It can be viewed as a broader\neffort to use abstract external Interfaces and to learn a parametric model that\ninteracts with them.\n  The capabilities of a model can be extended by providing it with proper\nInterfaces that interact with the world. These external Interfaces include\nmemory, a database, a search engine, or a piece of software such as a theorem\nverifier. Some of these Interfaces are provided by the developers of the model.\nHowever, many important existing Interfaces, such as databases and search\nengines, are discrete.\n  We examine feasibility of learning models to interact with discrete\nInterfaces. We investigate the following discrete Interfaces: a memory Tape, an\ninput Tape, and an output Tape. We use a Reinforcement Learning algorithm to\ntrain a neural network that interacts with such Interfaces to solve simple\nalgorithmic tasks. Our Interfaces are expressive enough to make our model\nTuring complete."
-},lol]
+}]

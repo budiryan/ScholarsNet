@@ -8998,4 +8998,4 @@
     "author": "Yves Robert", 
     "publish": "2011-04-22T16:45:02Z", 
     "summary": "This work revisits existing algorithms for the QR factorization of\nrectangular matrices composed of p-by-q tiles, where p >= q. Within this\nframework, we study the critical paths and performance of algorithms such as\nSameh and Kuck, Modi and Clarke, Greedy, and those found within PLASMA.\nAlthough neither Modi and Clarke nor Greedy is optimal, both are shown to be\nasymptotically optimal for all matrices of size p = q^2 f(q), where f is any\nfunction such that \\lim_{+\\infty} f= 0. This novel and important complexity\nresult applies to all matrices where p and q are proportional, p = \\lambda q,\nwith \\lambda >= 1, thereby encompassing many important situations in practice\n(least squares). We provide an extensive set of experiments that show the\nsuperiority of the new algorithms for tall matrices."
-},lol]
+}]

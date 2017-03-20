@@ -8998,4 +8998,4 @@
     "author": "H. J. van den Herik", 
     "publish": "2012-07-30T20:00:11Z", 
     "summary": "Optimizing the cost of evaluating a polynomial is a classic problem in\ncomputer science. For polynomials in one variable, Horner's method provides a\nscheme for producing a computationally efficient form. For multivariate\npolynomials it is possible to generalize Horner's method, but this leaves\nfreedom in the order of the variables. Traditionally, greedy schemes like\nmost-occurring variable first are used. This simple textbook algorithm has\ngiven remarkably efficient results. Finding better algorithms has proved\ndifficult. In trying to improve upon the greedy scheme we have implemented\nMonte Carlo tree search, a recent search method from the field of artificial\nintelligence. This results in better Horner schemes and reduces the cost of\nevaluating polynomials, sometimes by factors up to two."
-},lol]
+}]

@@ -8998,4 +8998,4 @@
     "author": "Pavel Calado", 
     "publish": "2012-03-23T19:28:25Z", 
     "summary": "Literary reading is an important activity for individuals and choosing to\nread a book can be a long time commitment, making book choice an important task\nfor book lovers and public library users. In this paper we present an hybrid\nrecommendation system to help readers decide which book to read next. We study\nbook and author recommendation in an hybrid recommendation setting and test our\napproach in the LitRec data set. Our hybrid book recommendation approach\npurposed combines two item-based collaborative filtering algorithms to predict\nbooks and authors that the user will like. Author predictions are expanded in\nto a book list that is subsequently aggregated with the former list generated\nthrough the initial collaborative recommender. Finally, the resulting book list\nis used to yield the top-n book recommendations. By means of various\nexperiments, we demonstrate that author recommendation can improve overall book\nrecommendation."
-},lol]
+}]

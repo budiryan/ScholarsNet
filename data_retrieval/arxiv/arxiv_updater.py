@@ -35,14 +35,19 @@ for query in queries:
             summary = entry.summary.encode('utf-8')
 
             for l in entry.links:
-                if l.rel != 'alternate' and l.title == 'pdf':
+                if l.rel == 'alternate':
+                    pass
+                elif l.title == 'pdf':
                     link = l.href
+                elif l.title == 'doi':
+                    doi = l.href.split(".org/", 1)[1]
 
             print 'arxiv-id: %s' % arxiv_id
             print 'Published: %s' % published
             print 'Title: %s' % title
             print 'Author %s' % author
             print 'PDF link: %s' % link
+            print 'DOI link: %s' % doi
             print 'Category: %s' % category
             print 'Summary: %s' % summary
             print '\n\n'
@@ -53,6 +58,7 @@ for query in queries:
                        'publish'    : published,
                        'category'   : category,
                        'link'       : link,
+                       'doi'        : doi,
                        'summary'    : summary},
                        f, indent = 4)
 
