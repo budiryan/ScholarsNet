@@ -14,6 +14,16 @@ with connection:
         traffic = json.load(open(path + f))
         for t in traffic[0:300]:
             try:
-                cursor.execute('insert into arxiv values(?,?,?,?,?,?,?)', [t['category'], t['link'], t['publish'], t['summary'], t['title'], t['author'], t['arxiv-id']])
+                print(t['arxiv-id'])
+                cursor.execute('insert into arxiv values(?,?,?,?,?,?,?,?,?)', 
+                            [t['category'], 
+                             t['doi'], 
+                             t['link'],
+                             t['other_authors'],
+                             t['title'], 
+                             t['arxiv-id'],
+                             t['author'],
+                             t['publish'], 
+                             t['summary']])
             except sqlite3.Error as e:
                 print(e)

@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 #for arxiv api
 import urllib
 import feedparser
@@ -31,6 +33,7 @@ for query in queries:
             published = entry.published.encode('utf-8')
             title = entry.title.replace('\n', ' ').encode('utf-8')
             author = entry.author.encode('utf-8')
+            other_authors = ', '.join(a.name for a in entry.authors if a != author)
             category = entry.tags[0]['term'].encode('utf-8')
             summary = entry.summary.encode('utf-8')
 
@@ -45,21 +48,23 @@ for query in queries:
             print 'arxiv-id: %s' % arxiv_id
             print 'Published: %s' % published
             print 'Title: %s' % title
-            print 'Author %s' % author
+            print 'Author: %s' % author
+            print 'Other authors: %s' % other_authors
             print 'PDF link: %s' % link
             print 'DOI link: %s' % doi
             print 'Category: %s' % category
             print 'Summary: %s' % summary
             print '\n\n'
 
-            json.dump({'arxiv-id'   : arxiv_id,
-                       'title'      : title,
-                       'author'     : author,
-                       'publish'    : published,
-                       'category'   : category,
-                       'link'       : link,
-                       'doi'        : doi,
-                       'summary'    : summary},
+            json.dump({'arxiv-id'       : arxiv_id,
+                       'title'          : title,
+                       'author'         : author,
+                       'other_authors'  : other_authors,
+                       'publish'        : published,
+                       'category'       : category,
+                       'link'           : link,
+                       'doi'            : doi,
+                       'summary'        : summary},
                        f, indent = 4)
 
             f.write(',')

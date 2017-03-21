@@ -25,6 +25,7 @@ with connection:
             journal = ''
             number = ''
             url = ''
+            doi = ''
             summary = ''
             for c in child:
                 if c.tag == 'author':
@@ -41,12 +42,15 @@ with connection:
                     journal = c.text
                 elif c.tag == 'number':
                     number = c.text
+                elif c.tag == 'url':
+                    url = 'http://dblp.uni-trier.de/' + c.text
                 elif c.tag == 'ee':
-                    url = c.text
+                    splits = c.text.split('.org/', 1)
+                    doi = splits[1] if len(splits) == 2 else ''
                 elif c.tag == 'summary':
                     summary = c.text
                 
-            cursor.execute('insert into dblp values(?,?,?,?,?,?,?,?,?)', [author, title, pages, year, volume, journal, number, url, summary])
+            cursor.execute('insert into dblp values(?,?,?,?,?,?,?,?,?,?)', [author, title, pages, year, volume, journal, number, doi, url, summary])
 
         except sqlite3.Error as e:
             print(e)
