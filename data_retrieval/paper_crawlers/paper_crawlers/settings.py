@@ -16,7 +16,8 @@ NEWSPIDER_MODULE = 'paper_crawlers.spiders'
 LOG_LEVEL = 'INFO'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-USER_AGENT='Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36'
+# USER_AGENT='Mozilla/5.0 (X11; Linux x86_64) Chrome/56.0.2924.87 Safari/537.36'
+USER_AGENT='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = False
@@ -33,7 +34,7 @@ DOWNLOAD_DELAY = 0.25
 #CONCURRENT_REQUESTS_PER_IP = 16
 
 # Disable cookies (enabled by default)
-#COOKIES_ENABLED = False
+COOKIES_ENABLED = False
 
 # Disable Telnet Console (enabled by default)
 #TELNETCONSOLE_ENABLED = False

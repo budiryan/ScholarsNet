@@ -75,19 +75,34 @@ class AcmJournalSpider(scrapy.Spider):
         base_url = 'http://dl.acm.org'
         # print('Respons URL is: ', response.url)
         url_id = urllib.parse.parse_qs(response.url.split('?')[-1])['id'][0]
+        link_list = response.xpath('//a/text()').extract()
+        doi = None
+        for link in link_list:
+            if re.search(r'[0-9]+', link):
+                doi = link
+
+        # QUIT IF THERE IS NO DOI AT ALL! UM, GONNA TEST FIRST
+        if doi is None:
+            yield
+
         request_url = 'tab_abstract.cfm?id=' + url_id
         # Fields: title, authors, abstract, citation count, published_in, download_count, pdf_link
         title = response.xpath('//*[@id="divmain"]/div/h1/strong/text()').extract_first()
-        authors = response.xpath('//*[@id="divmain"]/table/tr/td[1]/table[2]/tr/td[2]/a/text()').extract()
+        # if doi == None:
+        #     doi = response.xpath('//*[@id="divmain"]/table[2]/tr/td/table/tr[4]/td/span[3]/a/text()').extract_first()
+        author = response.xpath('//*[@id="divmain"]/table/tr/td[1]/table[2]/tr/td[2]/a/text()').extract_first()
+        other_authors = response.xpath('//*[@id="divmain"]/table/tr/td[1]/table[2]/tr/td[2]/a/text()').extract()[1:]
         citation_count = int(response.xpath('//*[@id="divmain"]/table/tr/td[2]/table/tr[3]/td/text()[1]').extract_first().strip().split(':')[-1].strip().replace(',', ''))
         download_count = int(response.xpath('//*[@id="divmain"]/table/tr/td[2]/table/tr[3]/td/text()[2]').extract_first().strip().split(':')[-1].strip().replace(',', ''))
         pdf_link = urllib.parse.urljoin(base_url, response.xpath('//*[@id="divmain"]/table/tr/td[1]/table[1]/tr/td[2]/a/@href').extract_first())
         data = {
             'title': title,
-            'authors': authors,
+            'doi': doi,
             'citation count': citation_count,
             'download count': download_count,
-            'pdf link': pdf_link
+            'pdf link': pdf_link,
+            'author': author,
+            'other_authors': other_authors
         }
         data.update(category)
         yield scrapy.Request(urllib.parse.urljoin(base_url, request_url), callback=lambda r, data=data: self.parse_paper_abstract(r, data))
