@@ -1,68 +1,79 @@
 Comparison between string distance of "arxiv" and "acm":
-        journal category  abstract  volume  authors  title  citation count  journal category_description  pdf link  download_count  time added  
-category              08        08      08       05     07              10                            20        08              12          09  
-    link              15        08      05       07     04              12                            26        04              12          09  
- publish              14        08      06       06     06              13                            25        05              13          10  
-abstract              13        00      08       06     07              11                            23        08              11          09  
-   title              14        07      05       06     00              12                            25        07              13          07  
-  author              12        06      06       01     05              12                            24        08              12          10  
-      id              16        08      06       07     04              13                            27        07              13          08  
+             journal category  abstract  volume  authors  title  citation count  journal category_description  pdf link  download_count  time added  other authors  doi  
+     category              08        08      08       05     07              10                            20        08              12          09             10   07  
+          doi              15        08      05       06     05              13                            26        06              12          09             12   00  
+         link              15        08      05       07     04              12                            26        04              12          09             13   04  
+other_authors              12        10      12       06     11              13                            23        13              12          11             01   12  
+        title              14        07      05       06     00              12                            25        07              13          07             11   05  
+     arxiv_id              15        07      08       07     07              13                            24        08              13          09             12   07  
+       author              12        06      06       01     05              12                            24        08              12          10             07   05  
+ publish_date              13        09      10       10     10              13                            23        10              12          11             13   11  
+     abstract              13        00      08       06     07              11                            23        08              11          09             10   08  
 
 Comparison between string distance of "arxiv" and "dblp":
-        author  title  pages  year  volume  journal  number  link  abstracts  
-category    05     07     06    06      08       08      07    08         08  
-    link    06     04     05    04      05       06      06    00         09  
- publish    06     06     05    07      06       07      06    05         09  
-abstract    06     07     08    07      08       07      08    08         01  
-   title    05     00     05    05      05       07      05    04         08  
-  author    00     05     06    05      06       06      04    06         07  
-      id    06     04     05    04      06       07      06    03         09  
+             author  title  pages  year  volume  journal  number  doi  url  abstracts  
+     category    05     07     06    06      08       08      07   07   07         08  
+          doi    05     05     05    04      05       06      06   00   03         09  
+         link    06     04     05    04      05       06      06   04   04         09  
+other_authors    07     11     11    10      12       11      11   12   11         09  
+        title    05     00     05    05      05       07      05   05   04         08  
+     arxiv_id    07     07     08    08      08       08      08   07   07         08  
+       author    00     05     06    05      06       06      04   05   05         07  
+ publish_date    10     10     10    11      10       11      11   11   10         09  
+     abstract    06     07     08    07      08       07      08   08   07         01  
 
 Comparison between string distance of "arxiv" and "ieee":
-        electronic isbn  abstract  date of conference  print on demand  published in  title  authors  pdf link  
-category             14        08                  13               13            11     07       05        08  
-    link             13        08                  17               13            10     04       07        04  
- publish             13        08                  18               14            05     06       06        05  
-abstract             12        00                  15               13            10     07       06        08  
-   title             13        07                  16               12            10     00       06        07  
-  author             13        06                  15               13            10     05       01        08  
-      id             14        08                  18               13            10     04       07        07  
+             electronic isbn  abstract  time of conference  print on demand  published in  title  author  pdf link  other authors  doi  
+     category             14        08                  15               13            11     07      05        08             10   07  
+          doi             13        08                  17               14            10     05      05        06             12   00  
+         link             13        08                  16               13            10     04      06        04             13   04  
+other_authors             14        10                  16               15            13     11      07        13             01   12  
+        title             13        07                  15               12            10     00      05        07             11   05  
+     arxiv_id             12        07                  18               13            10     07      07        08             12   07  
+       author             13        06                  16               13            10     05      00        08             07   05  
+ publish_date             15        09                  17               12            04     10      10        10             13   11  
+     abstract             12        00                  16               13            10     07      06        08             10   08  
 
 Comparison between string distance of "acm" and "dblp":
-                            author  title  pages  year  volume  journal  number  link  abstracts  
-            journal category    12     14     14    14      13       09      13    15         13  
-                    abstract    06     07     08    07      08       07      08    08         01  
-                      volume    06     05     06    06      00       06      05    05         09  
-                     authors    01     06     06    06      07       07      05    07         06  
-                       title    05     00     05    05      05       07      05    04         08  
-              citation count    12     12     13    13      12       13      13    12         12  
-journal category_description    24     25     24    25      25       21      25    26         23  
-                    pdf link    08     07     07    08      07       08      08    04         09  
-              download_count    12     13     13    13      11       12      13    12         12  
-                  time added    10     07     08    08      09       09      08    09         09  
+                            author  title  pages  year  volume  journal  number  doi  url  abstracts  
+            journal category    12     14     14    14      13       09      13   15   13         13  
+                    abstract    06     07     08    07      08       07      08   08   07         01  
+                      volume    06     05     06    06      00       06      05   05   05         09  
+                     authors    01     06     06    06      07       07      05   06   05         06  
+                       title    05     00     05    05      05       07      05   05   04         08  
+              citation count    12     12     13    13      12       13      13   13   13         12  
+journal category_description    24     25     24    25      25       21      25   26   25         23  
+                    pdf link    08     07     07    08      07       08      08   06   07         09  
+              download_count    12     13     13    13      11       12      13   12   13         12  
+                  time added    10     07     08    08      09       09      08   09   10         09  
+               other authors    07     11     11    10      12       11      11   12   11         09  
+                         doi    05     05     05    04      05       06      06   00   03         09  
 
 Comparison between string distance of "acm" and "ieee":
-                            electronic isbn  abstract  date of conference  print on demand  published in  title  authors  pdf link  
-            journal category             16        13                  15               14            13     14       12        15  
-                    abstract             12        00                  15               13            10     07       06        08  
-                      volume             14        08                  16               13            10     05       07        07  
-                     authors             12        06                  15               13            10     06       00        08  
-                       title             13        07                  16               12            10     00       06        07  
-              citation count             11        11                  13               10            12     12       12        12  
-journal category_description             21        23                  23               23            22     25       23        26  
-                    pdf link             14        08                  15               12            10     07       08        00  
-              download_count             14        11                  14               12            12     13       12        12  
-                  time added             14        09                  15               10            11     07       10        09  
+                            electronic isbn  abstract  time of conference  print on demand  published in  title  author  pdf link  other authors  doi  
+            journal category             16        13                  15               14            13     14      12        15             11   15  
+                    abstract             12        00                  16               13            10     07      06        08             10   08  
+                      volume             14        08                  16               13            10     05      06        07             12   05  
+                     authors             12        06                  16               13            10     06      01        08             06   06  
+                       title             13        07                  15               12            10     00      05        07             11   05  
+              citation count             11        11                  13               10            12     12      12        12             13   13  
+journal category_description             21        23                  23               23            22     25      24        26             22   26  
+                    pdf link             14        08                  15               12            10     07      08        00             12   06  
+              download_count             14        11                  15               12            12     13      12        12             12   12  
+                  time added             14        09                  12               10            11     07      10        09             10   09  
+               other authors             14        10                  15               14            13     11      07        12             00   12  
+                         doi             13        08                  17               14            10     05      05        06             12   00  
 
 Comparison between string distance of "dblp" and "ieee":
-         electronic isbn  abstract  date of conference  print on demand  published in  title  authors  pdf link  
-   author             13        06                  15               13            10     05       01        08  
-    title             13        07                  16               12            10     00       06        07  
-    pages             14        08                  16               13            10     05       06        07  
-     year             13        07                  16               13            11     05       06        08  
-   volume             14        08                  16               13            10     05       07        07  
-  journal             13        07                  15               13            12     07       07        08  
-   number             14        08                  16               13            10     05       05        08  
-     link             13        08                  17               13            10     04       07        04  
-abstracts             11        01                  16               14            10     08       06        09  
+         electronic isbn  abstract  time of conference  print on demand  published in  title  author  pdf link  other authors  doi  
+   author             13        06                  16               13            10     05      00        08             07   05  
+    title             13        07                  15               12            10     00      05        07             11   05  
+    pages             14        08                  17               13            10     05      06        07             11   05  
+     year             13        07                  16               13            11     05      05        08             10   04  
+   volume             14        08                  16               13            10     05      06        07             12   05  
+  journal             13        07                  15               13            12     07      06        08             11   06  
+   number             14        08                  15               13            10     05      04        08             11   06  
+      doi             13        08                  17               14            10     05      05        06             12   00  
+      url             14        07                  17               14            10     04      05        07             11   03  
+abstracts             11        01                  17               14            10     08      07        09             09   09  
 
