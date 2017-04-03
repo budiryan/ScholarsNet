@@ -1,0 +1,38 @@
+abstract/title/author/coauthors/url/date/doi
+
+acm:
+abstract		 -> abstract
+authors			 -> author
+title			 -> title
+pdf link		 -> url
+time added		 -> date
+other authors	 -> coauthors
+doi				 -> doi
+
+arxiv:
+abstract 	  -> abtract
+author   	  -> author
+title    	  -> title
+link	 	  -> url
+publish_date  -> date
+other_authors -> coauthors
+doi			  -> doi
+
+dblp:
+abstracts		-> abtract
+author			-> author
+title			-> title
+url				-> url
+year			-> date
+other authors	-> coauthors
+doi				-> doi
+
+ieee:
+abstract	  -> abstract
+author		  -> author
+title		  -> title
+pdf link	  -> url
+published in  -> date
+other authors -> coauthors
+doi			  -> doi
+
