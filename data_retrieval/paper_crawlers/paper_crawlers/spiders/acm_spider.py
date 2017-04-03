@@ -81,7 +81,7 @@ class AcmJournalSpider(scrapy.Spider):
             if re.search(r'^10', link):
                 doi = link
 
-        # QUIT IF THERE IS NO DOI AT ALL! UM, GONNA TEST FIRST
+        # Quit if no DOI at all, it may not be a research paper at all
         if doi is None:
             yield
 
