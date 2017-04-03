@@ -78,7 +78,7 @@ class AcmJournalSpider(scrapy.Spider):
         link_list = response.xpath('//a/text()').extract()
         doi = None
         for link in link_list:
-            if re.search(r'[0-9]+', link):
+            if re.search(r'^10', link):
                 doi = link
 
         # QUIT IF THERE IS NO DOI AT ALL! UM, GONNA TEST FIRST
