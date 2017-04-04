@@ -46,7 +46,7 @@ class IeeeSpider(scrapy.Spider):
                                dont_filter=True)
             page_number += 1
             if page_number % 10 == 0:
-                print(('page number processed: ', page_number))
+                print('page number processed: ', page_number)
             body["pageNumber"] = str(page_number)
 
     def parse_records(self, response):
@@ -75,7 +75,7 @@ class IeeeSpider(scrapy.Spider):
             if count == paper_count:
                 break
             if total_paper_count % 100 == 0:
-                print(("processed: ", total_paper_count, " pages"))
+                print("processed: ", total_paper_count, " pages")
             link = urllib.parse.urljoin(host, paper)
             yield SplashRequest(link, self.parse_each_paper,
                                 endpoint='render.html',
@@ -95,7 +95,7 @@ class IeeeSpider(scrapy.Spider):
             paper_without_doi += 1
             yield
         if paper_without_doi % 10 == 0 and paper_without_doi > 0:
-            print(("Paper without DOI: ", paper_without_doi))
+            print("Paper without DOI: ", paper_without_doi)
         title = response.xpath('//*[@id="LayoutWrapper"]/div[6]/div[3]/div/section[1]/div[2]/div[1]/div[1]/h1/span/text()').extract_first()
         authors = response.xpath('//*[@id="LayoutWrapper"]/div[6]/div[3]/div/div/div/div[2]/div/div/span/span/a/span/text()').extract()
         abstract = response.xpath('//*[@id="' + str(id_number) + '"]/div[1]/div/div/div/text()').extract_first()

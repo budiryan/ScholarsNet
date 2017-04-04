@@ -31,7 +31,7 @@ for index, row in enumerate(rowid_ieee):
     c.execute("UPDATE 'ieee' SET 'other authors'=?, 'authors'=? WHERE rowid=?", (other_authors, first_authors_ieee[index], int(row)))
     count += 1
     if count % 500 == 0:
-        print("Processed: ", count)
+        print(("Processed: ", count))
 
 count = 0
 # Update acm table
@@ -45,7 +45,7 @@ for index, row in enumerate(rowid_acm):
     c.execute("UPDATE 'acm' SET 'other authors'=?, 'authors'=? WHERE rowid=?", (other_authors, first_authors_acm[index], int(row)))
     count += 1
     if count % 500 == 0:
-        print("Processed: ", count)
+        print(("Processed: ", count))
 
 count = 0
 # Update dblp table
@@ -59,6 +59,6 @@ for index, row in enumerate(rowid_dblp):
     c.execute("UPDATE 'dblp' SET 'other authors'=?, 'author'=? WHERE rowid=?", (other_authors, first_authors_dblp[index], int(row)))
     count += 1
     if count % 500 == 0:
-        print("Processed: ", count)
+        print(("Processed: ", count))
 
 conn.commit()

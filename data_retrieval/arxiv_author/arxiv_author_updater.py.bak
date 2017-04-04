@@ -1,5 +1,5 @@
 #for arxiv api
-import urllib.request, urllib.parse, urllib.error
+import urllib
 import feedparser
 
 #for database update
@@ -21,9 +21,9 @@ for query in queries:
     feedparser._FeedParserMixin.namespaces['http://arxiv.org/schemas/atom'] = 'arxiv'
 
 #Run and parse query
-    print('Fetching paper')
-    response = urllib.request.urlopen(url).read()
-    print('Parsing paper')
+    print 'Fetching paper'
+    response = urllib.urlopen(url).read()
+    print 'Parsing paper'
     feed = feedparser.parse(response)
 
 #Read through all returned entries
@@ -32,7 +32,7 @@ for query in queries:
         for entry in feed.entries:
 
             authors = [a['name'] for a in entry.authors]
-            print('Authors: %s' % authors)
+            print 'Authors: %s' % authors
 
             for author in authors:
                 #Reformatting the name, eg 'B. R. Tija' becomes Tija_R
@@ -44,7 +44,7 @@ for query in queries:
                 #print '\nFetching authors'
                 url2 = base_url + 'search_query=au:%s&start=0&max_results=%s' % (name, max_paper)
                 try:
-                    response2 = urllib.request.urlopen(url2).read()
+                    response2 = urllib.urlopen(url2).read()
                     #print 'Parsing authors'
                     feed2 = feedparser.parse(response2)
 
@@ -83,10 +83,10 @@ for query in queries:
 
                     f.write(',')
                 except:
-                    print('url error')
+                    print 'url error'
 
         f.write('lol]')
             
-    print('Feed last updated %s' % feed.feed.updated)
-    print('Total results: %s' % feed.feed.opensearch_totalresults)
-    print('Items per page: %s' % feed.feed.opensearch_itemsperpage)
+    print 'Feed last updated %s' % feed.feed.updated
+    print 'Total results: %s' % feed.feed.opensearch_totalresults
+    print 'Items per page: %s' % feed.feed.opensearch_itemsperpage

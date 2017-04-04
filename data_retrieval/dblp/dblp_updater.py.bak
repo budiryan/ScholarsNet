@@ -15,7 +15,7 @@ class MyHTMLParser(HTMLParser):
             self.check = True 
         elif self.content and tag == 'h3':
             self.content = False
-            print((self.data + '\n'))
+            print(self.data + '\n')
 
     def handle_endtag(self, tag):
         pass
@@ -47,9 +47,9 @@ for i in range(len(root)):
         break
 
 #Limiting the max number of entries to be 10000
-print(('Number of articles: ', i))
+print('Number of articles: ', i)
 i = min(i, 1460)
-print(('Number of articles after trimming: ', i))
+print('Number of articles after trimming: ', i)
 root = root[:i]
 
 #For indexing
@@ -62,7 +62,7 @@ for child in root:
         for c in child[0:]:
             if c.tag == 'ee':
                 print(i)
-                print(('url: ', c.text))
+                print('url: ', c.text)
                 
                 try:
                     response = urlopen(c.text, timeout = 2)

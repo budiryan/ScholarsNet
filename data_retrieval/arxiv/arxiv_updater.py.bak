@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 #for arxiv api
-import urllib.request, urllib.parse, urllib.error
+import urllib
 import feedparser
 
 #for database update
@@ -22,7 +22,7 @@ for query in queries:
     feedparser._FeedParserMixin.namespaces['http://arxiv.org/schemas/atom'] = 'arxiv'
 
 #Run and parse query
-    response = urllib.request.urlopen(url).read()
+    response = urllib.urlopen(url).read()
     feed = feedparser.parse(response)
 
 #Read through all returned entries
@@ -45,16 +45,16 @@ for query in queries:
                 elif l.title == 'doi':
                     doi = l.href.split(".org/", 1)[1]
 
-            print('arxiv-id: %s' % arxiv_id)
-            print('Published: %s' % published)
-            print('Title: %s' % title)
-            print('Author: %s' % author)
-            print('Other authors: %s' % other_authors)
-            print('PDF link: %s' % link)
-            print('DOI link: %s' % doi)
-            print('Category: %s' % category)
-            print('Summary: %s' % summary)
-            print('\n\n')
+            print 'arxiv-id: %s' % arxiv_id
+            print 'Published: %s' % published
+            print 'Title: %s' % title
+            print 'Author: %s' % author
+            print 'Other authors: %s' % other_authors
+            print 'PDF link: %s' % link
+            print 'DOI link: %s' % doi
+            print 'Category: %s' % category
+            print 'Summary: %s' % summary
+            print '\n\n'
 
             json.dump({'arxiv-id'       : arxiv_id,
                        'title'          : title,
@@ -70,6 +70,6 @@ for query in queries:
             f.write(',')
         f.write('lol]')
             
-    print('Feed last updated %s' % feed.feed.updated)
-    print('Total results: %s' % feed.feed.opensearch_totalresults)
-    print('Items per page: %s' % feed.feed.opensearch_itemsperpage)
+    print 'Feed last updated %s' % feed.feed.updated
+    print 'Total results: %s' % feed.feed.opensearch_totalresults
+    print 'Items per page: %s' % feed.feed.opensearch_itemsperpage

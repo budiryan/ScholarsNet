@@ -9,7 +9,7 @@ connection.row_factory = sqlite3.Row
 for table in table_names:
     cursor = connection.execute('select * from ' + table)
     row = cursor.fetchone()
-    attribute_mappings[table] = list(row.keys())
+    attribute_mappings[table] = row.keys()
 
 with open('edit_distance_output.txt', 'w') as output_file:
     # Create mapping from each of the table

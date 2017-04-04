@@ -20,7 +20,7 @@ merge_cursor = merge_connection.cursor()
 
 for i in range(4):
 
-    print(table_names[i])
+    print table_names[i]
     cursor.execute('select ' + mapping['title'    ][i] + ','
                              + mapping['doi'      ][i] + ','
                              + mapping['abstract' ][i] + ','
@@ -34,7 +34,7 @@ for i in range(4):
         try:
             merge_cursor.execute('insert into papers values(?,?,?,?,?,?,?,?)', list(entry) + [table_names[i]])
         except:
-            print(entry[0])
+            print entry[0]
 
 merge_connection.commit()
 

@@ -42,13 +42,13 @@ with connection:
                 jaccard_sim = float(intersection / union)
                 if jaccard_sim >= 0.75:
                     f.write(str(i) + ' ' + str(j) + '\n')
-                    print(str(i) + ' ' + str(j) + '\n')
+                    print((str(i) + ' ' + str(j) + '\n'))
                     f.write('title1: ' + rows[i][0] + '\n')
-                    print('title1: ' + rows[i][0] + '\n')
+                    print(('title1: ' + rows[i][0] + '\n'))
                     f.write('title2: ' + rows[j][0] + '\n')
-                    print('title2: ' + rows[j][0] + '\n')
+                    print(('title2: ' + rows[j][0] + '\n'))
                     f.write('score: ' + str(float(intersection / union)) + '\n')
-                    print('score: ' + str(float(intersection / union)) + '\n')
+                    print(('score: ' + str(float(intersection / union)) + '\n'))
                     f.write('\n')
                     count += 1
         f.write('TOTAL COUNT: ' + str(count))

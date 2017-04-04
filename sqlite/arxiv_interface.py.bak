@@ -14,7 +14,7 @@ with connection:
         traffic = json.load(open(path + f))
         for t in traffic[0:300]:
             try:
-                print((t['arxiv-id']))
+                print(t['arxiv-id'])
                 cursor.execute('insert into arxiv values(?,?,?,?,?,?,?,?,?)', 
                             [t['category'], 
                              t['doi'], 
