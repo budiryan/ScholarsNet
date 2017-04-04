@@ -1,6 +1,5 @@
 - All legit paper dois start with '10.'
 - dois from arxiv might not have one to one mapping with the title
 - very similar title and same author but different paper
-
-Some positive observations:
 - doi actually helps, but not really helpful, considering the problems we have above.
+- Same paper but different title with some misspells. Examples: 'Exploit' & 'Expoit'
