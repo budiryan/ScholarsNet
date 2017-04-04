@@ -27,9 +27,13 @@ with open('string_edit.txt', 'w') as f:
                 d = editdistance.eval(s1, s2) 
                 if d < len(s1) / 4:
                     f.write(str(i) + s1 + '\n')
+                    print(str(i) + s1 + '\n')
                     f.write(str(j) + s2 + '\n')
+                    print(str(j) + s2 + '\n')
                     f.write('Edit distance:' +  str(d) + '\n')
+                    print('Edit distance:' +  str(d) + '\n')
                     f.write('\n\n')
+                    print('\n')
                     count += 1
 
     f.write('Total: ' + count)

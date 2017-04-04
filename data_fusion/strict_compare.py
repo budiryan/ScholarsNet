@@ -22,10 +22,14 @@ with open('strict_compare.txt', 'w') as f:
             s1 = re.sub('[^\w\s]|_', '', '' if s1 is None else s1).lower().strip()
             s2 = re.sub('[^\w\s]|_', '', '' if s2 is None else s2).lower().strip()
             if s1 == s2:
-                f.write(str(i) + str(j) + '\n')
+                f.write(str(i) + ' ' + str(j) + '\n')
+                print(str(i) + ' ' + str(j) + '\n')
                 f.write(entries[i][0] + '\n')
+                print(entries[i][0] + '\n')
                 f.write(entries[j][0] + '\n')
+                print(entries[j][0] + '\n')
                 f.write('\n\n')
+                print('\n')
                 count += 1
 
     f.write('Total: ' + count)
