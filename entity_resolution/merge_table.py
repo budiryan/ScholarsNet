@@ -8,7 +8,7 @@ mapping = {'abstract' : ['abstract'      , 'abstract'     , 'abstracts'     , 'a
            'author'   : ['author'        , 'authors'      , 'author'        , 'author'       ],
            'title'    : ['title'         , 'title'        , 'title'         , 'title'        ],
            'url'      : ['link'          , 'pdf_link'     , 'url'           , 'pdf_link'     ],
-           'date'     : ['publish_date'  , 'time_added'   , 'year'          , 'published_in' ],
+           'date'     : ['publish_date'  , 'time_added'   , 'year'          , 'time_of_conference' ],
            'coauthors': ['other_authors' , 'other_authors', 'other_authors' , 'other_authors'],
            'doi'      : ['doi'           , 'doi'          , 'doi'           , 'doi'          ]}
 
