@@ -26,10 +26,10 @@ with open('string_edit.txt', 'w') as f:
                 s2 = '' if entries[j][0] is None else entries[j][0]
                 d = editdistance.eval(s1, s2) 
                 if d < len(s1) / 4:
-                    f.write(str(i) + s1)
-                    f.write(str(j) + s2)
-                    f.write('Edit distance:' +  a)
-                    f.write('\n')
+                    f.write(str(i) + s1 + '\n')
+                    f.write(str(j) + s2 + '\n')
+                    f.write('Edit distance:' +  str(d) + '\n')
+                    f.write('\n\n')
                     count += 1
 
     f.write('Total: ' + count)
