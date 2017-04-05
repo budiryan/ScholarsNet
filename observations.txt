@@ -3,3 +3,4 @@
 - very similar title and same author but different paper
 - doi actually helps, but not really helpful, considering the problems we have above.
 - Same paper but different title with some misspells. Examples: 'Exploit' & 'Expoit'
+- We used cosine similarity for the data portal search engine
