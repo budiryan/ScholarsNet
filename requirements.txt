@@ -3,13 +3,18 @@ asn1crypto==0.22.0
 attrs==16.3.0
 Automat==0.5.0
 cffi==1.10.0
+click==6.7
 constantly==15.1.0
 cryptography==1.8.1
 cssselect==1.0.1
 editdistance==0.3.1
+Flask==0.12.1
 idna==2.5
 incremental==16.10.1
+itsdangerous==0.24
+Jinja2==2.9.6
 lxml==3.7.3
+MarkupSafe==1.0
 numpy==1.12.1
 packaging==16.8
 parsel==1.1.0
@@ -27,4 +32,6 @@ service-identity==16.0.0
 six==1.10.0
 Twisted==17.1.0
 w3lib==1.17.0
+Werkzeug==0.12.1
+WTForms==2.1
 zope.interface==4.3.3
