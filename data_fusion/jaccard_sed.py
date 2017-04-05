@@ -38,7 +38,10 @@ with open(output_file, 'w') as f:
             s2 = set(s2)
             intersection = len(s1.intersection(s2))
             union = len(s1.union(s2))
-            jaccard_sim = float(intersection / union)
+            try:
+                jaccard_sim = float(intersection / union)
+            except ZeroDivisionError:
+                jaccard_sim = 1  # 2 empty strings concatenated together lel, useless!
             if jaccard_sim >= 0.75:
                 f.write(str(i) + ' ' + str(j) + '\n')
                 print(str(i) + ' ' + str(j) + '\n')

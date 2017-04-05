@@ -16,16 +16,19 @@ with open(output_file, 'w') as f:
         for j in range(i + 1, len(rows)):
             # Remove punctuation and lower case
             if rows[i][0] is None:
-                s1 = ''
+                s1 = set('')
             else:
                 s1 = set(re.sub(r'[^\w\s]|_', '', rows[i][0]).lower().strip().split())
             if rows[j][0] is None:
-                s2 = ''
+                s2 = set('')
             else:
                 s2 = set(re.sub(r'[^\w\s]|_', '', rows[j][0]).lower().strip().split())
             intersection = len(s1.intersection(s2))
             union = len(s1.union(s2))
-            jaccard_sim = float(intersection / union)
+            try:
+                jaccard_sim = float(intersection / union)
+            except ZeroDivisionError:
+                jaccard_sim = 1  # 2 empty strings concatenated together lel, useless!
             if jaccard_sim >= 0.75:
                 f.write(str(i) + ' ' + str(j) + '\n')
                 print(str(i) + ' ' + str(j) + '\n')

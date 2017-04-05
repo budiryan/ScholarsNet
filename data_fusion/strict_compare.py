@@ -32,5 +32,5 @@ with open('strict_compare.txt', 'w') as f:
                 print('\n')
                 count += 1
 
-    f.write('Total: ' + count)
+    f.write('Total: ' + str(count))
 
