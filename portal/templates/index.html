@@ -4,6 +4,17 @@
         <title>Reusable Form Demo</title>
     </head>
     <body>
+        <form action="" method="post">
+        {{ form.csrf }}
+
+        <div class="input text">
+            {{ form.search_query.label }} {{ form.search_query }}
+        </div>
+
+        <div class="input submit">
+            <input type="submit" value="Submit" />
+        </div>
+        </form>
         {% with messages = get_flashed_messages(with_categories=true) %}
             {% if messages %}
                 <ul>
@@ -13,16 +24,5 @@
                 </ul>
             {% endif %}
         {% endwith %}
-        <form action="" method="post">
-            {{ form.csrf }}
- 
-            <div class="input text">
-                {{ form.name.label }} {{ form.name }}
-            </div>
- 
-            <div class="input submit">
-                <input type="submit" value="Submit" />
-            </div>
-        </form>
     </body>
 </html>
