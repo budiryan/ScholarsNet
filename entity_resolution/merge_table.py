@@ -27,12 +27,13 @@ for i in range(4):
                              + mapping['author'   ][i] + ','
                              + mapping['url'      ][i] + ','
                              + mapping['date'     ][i] + ','
-                             + mapping['coauthors'][i] + ' from ' + table_names[i])
+                             + mapping['coauthors'][i] + ','
+                             + ' rowid' + ' from ' + table_names[i])
 
     entries = cursor.fetchall()
     for entry in entries:
         try:
-            merge_cursor.execute('insert into papers values(?,?,?,?,?,?,?,?)', list(entry) + [table_names[i]])
+            merge_cursor.execute('insert into papers values(?,?,?,?,?,?,?,?,?)', list(entry) + [table_names[i]])
         except:
             print(entry[0])
 
