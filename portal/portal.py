@@ -1,5 +1,6 @@
 from flask import Flask, render_template, flash, request
 from flask import Markup
+from flask_bootstrap import Bootstrap
 from wtforms import Form, TextField, TextAreaField, validators, StringField, SubmitField
 from timeit import default_timer as timer
 import sqlite3
@@ -15,21 +16,13 @@ app.config.from_object(__name__)
 app.config['SECRET_KEY'] = '7d441f27d441f27567d441f2b6176a'
 
 # Do a db connection to sqlite, get all rows to papers variable
+# papers: title, doi, abstract, author, url, year, coauthors, origin
 connection = sqlite3.connect('../sqlite/paperDB.db')
 cursor = connection.cursor()
 
 # get all rows from authors table
 cursor.execute('select * from authors')
 authors = np.array(cursor.fetchall())
-
-# Timing stuff
-start = timer()
-cursor.execute('select * from papers')
-papers = cursor.fetchall()
-paper_length = len(papers)
-end = timer()
-
-# papers: title, doi, abstract, author, url, year, coauthors, origin
 
 class ReusableForm(Form):
     search_query = TextField('Search paper:', validators=[validators.required()])
