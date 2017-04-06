@@ -1,0 +1,605 @@
+[
+    {
+        "j": 248,
+        "url2": "http://arxiv.org/pdf/0712.3980v1",
+        "title1": "Distributed Slicing in Dynamic Systems",
+        "count": 1,
+        "i": 192,
+        "title2": "Distributed Slicing in Dynamic Systems",
+        "url1": "http://arxiv.org/pdf/cs/0612035v1"
+    },
+    {
+        "j": 26990,
+        "url2": "http://dblp.uni-trier.de/db/journals/fgcs/fgcs25.html#GrossmanGSZ09",
+        "title1": "Compute and Storage Clouds Using Wide Area High Performance Networks",
+        "count": 2,
+        "i": 261,
+        "title2": "Compute and storage clouds using wide area high performance networks.",
+        "url1": "http://arxiv.org/pdf/0808.1802v1"
+    },
+    {
+        "j": 22487,
+        "url2": "http://dblp.uni-trier.de/db/journals/acta/acta47.html#DolevT10",
+        "title1": "Randomization Adaptive Self-Stabilization",
+        "count": 3,
+        "i": 277,
+        "title2": "Randomization adaptive self-stabilization.",
+        "url1": "http://arxiv.org/pdf/0810.4440v1"
+    },
+    {
+        "j": 318,
+        "url2": "http://arxiv.org/pdf/0804.0879v1",
+        "title1": "The equations of the ideal latches",
+        "count": 4,
+        "i": 309,
+        "title2": "The equations of the ideal latches",
+        "url1": "http://arxiv.org/pdf/cs/0411009v2"
+    },
+    {
+        "j": 24925,
+        "url2": "http://dblp.uni-trier.de/db/journals/ijiem/ijiem7.html#BriscoeW11",
+        "title1": "Self-Organisation of Evolving Agent Populations in Digital Ecosystems",
+        "count": 5,
+        "i": 615,
+        "title2": "Self-organisation of evolving agent populations in Digital Ecosystems.",
+        "url1": "http://arxiv.org/pdf/1201.4908v1"
+    },
+    {
+        "j": 862,
+        "url2": "http://arxiv.org/pdf/1011.0502v1",
+        "title1": "A New Email Retrieval Ranking Approach",
+        "count": 6,
+        "i": 861,
+        "title2": "A New Email Retrieval Ranking Approach",
+        "url1": "http://arxiv.org/pdf/1011.0404v1"
+    },
+    {
+        "j": 10949,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=2036277&ftid=1049602&dwn=1&CFID=746681321&CFTOKEN=39664281",
+        "title1": "Cross-Lingual Adaptation using Structural Correspondence Learning",
+        "count": 7,
+        "i": 999,
+        "title2": "Cross-Lingual Adaptation Using Structural Correspondence Learning",
+        "url1": "http://arxiv.org/pdf/1008.0716v2"
+    },
+    {
+        "j": 1703,
+        "url2": "http://arxiv.org/pdf/1010.2006v2",
+        "title1": "Improved complexity bounds for real root isolation using Continued   Fractions",
+        "count": 8,
+        "i": 1702,
+        "title2": "Improved complexity bounds for real root isolation using Continued   Fractions",
+        "url1": "http://arxiv.org/pdf/1010.1764v2"
+    },
+    {
+        "j": 2207,
+        "url2": "http://arxiv.org/pdf/1006.3167v2",
+        "title1": "Tree-width of hypergraphs and surface duality",
+        "count": 9,
+        "i": 2090,
+        "title2": "Tree-width of hypergraphs and surface duality",
+        "url1": "http://arxiv.org/pdf/0812.2990v1"
+    },
+    {
+        "j": 16966,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=380771&ftid=67904&dwn=1&CFID=746720428&CFTOKEN=43881081",
+        "title1": "An Internet Multicast System for the Stock Market",
+        "count": 10,
+        "i": 2296,
+        "title2": "An Internet multicast system for the stock market",
+        "url1": "http://arxiv.org/pdf/cs/0002011v1"
+    },
+    {
+        "j": 2442,
+        "url2": "http://arxiv.org/pdf/cs/0609106v1",
+        "title1": "Throughput Optimal Distributed Control of Stochastic Wireless Networks",
+        "count": 11,
+        "i": 2415,
+        "title2": "Throughput Optimal Distributed Control of Stochastic Wireless Networks",
+        "url1": "http://arxiv.org/pdf/cs/0605042v2"
+    },
+    {
+        "j": 2478,
+        "url2": "http://arxiv.org/pdf/cs/0703107v2",
+        "title1": "Clustering and Sharing Incentives in BitTorrent Systems",
+        "count": 12,
+        "i": 2459,
+        "title2": "Clustering and Sharing Incentives in BitTorrent Systems",
+        "url1": "http://arxiv.org/pdf/cs/0611105v1"
+    },
+    {
+        "j": 16000,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1182614&ftid=403643&dwn=1&CFID=746715299&CFTOKEN=90725848",
+        "title1": "A System of Interaction and Structure",
+        "count": 13,
+        "i": 3148,
+        "title2": "A system of interaction and structure",
+        "url1": "http://arxiv.org/pdf/cs/9910023v4"
+    },
+    {
+        "j": 15717,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=371357&ftid=49389&dwn=1&CFID=746712811&CFTOKEN=85567317",
+        "title1": "Termination Proofs for Logic Programs with Tabling",
+        "count": 14,
+        "i": 3150,
+        "title2": "Termination proofs for logic programs with tabling",
+        "url1": "http://arxiv.org/pdf/cs/0003045v1"
+    },
+    {
+        "j": 15892,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1024923&ftid=286333&dwn=1&CFID=746714464&CFTOKEN=79010352",
+        "title1": "A theory of normed simulations",
+        "count": 15,
+        "i": 3154,
+        "title2": "A theory of normed simulations",
+        "url1": "http://arxiv.org/pdf/cs/0007030v2"
+    },
+    {
+        "j": 15795,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=566390&ftid=82020&dwn=1&CFID=746713496&CFTOKEN=66402322",
+        "title1": "Boolean Satisfiability with Transitivity Constraints",
+        "count": 16,
+        "i": 3156,
+        "title2": "Boolean satisfiability with transitivity constraints",
+        "url1": "http://arxiv.org/pdf/cs/0008001v1"
+    },
+    {
+        "j": 15807,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=601778&ftid=111560&dwn=1&CFID=746713612&CFTOKEN=14638185",
+        "title1": "Resource-distribution via Boolean constraints",
+        "count": 17,
+        "i": 3162,
+        "title2": "Resource-distribution via Boolean constraints",
+        "url1": "http://arxiv.org/pdf/cs/0012018v1"
+    },
+    {
+        "j": 15887,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1042039&ftid=297885&dwn=1&CFID=746714433&CFTOKEN=83080152",
+        "title1": "A Classification of Symbolic Transition Systems",
+        "count": 18,
+        "i": 3163,
+        "title2": "A classification of symbolic transition systems",
+        "url1": "http://arxiv.org/pdf/cs/0101013v1"
+    },
+    {
+        "j": 15872,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1071599&ftid=313721&dwn=1&CFID=746714332&CFTOKEN=76963126",
+        "title1": "Disjunction and modular goal-directed proof search",
+        "count": 19,
+        "i": 3165,
+        "title2": "Disjunction and modular goal-directed proof search",
+        "url1": "http://arxiv.org/pdf/cs/0104021v2"
+    },
+    {
+        "j": 15891,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1024924&ftid=286334&dwn=1&CFID=746714460&CFTOKEN=97044398",
+        "title1": "Abstract versus Concrete Computation on Metric Partial Algebras",
+        "count": 20,
+        "i": 3167,
+        "title2": "Abstract versus concrete computation on metric partial algebras",
+        "url1": "http://arxiv.org/pdf/cs/0108007v1"
+    },
+    {
+        "j": 15885,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1042041&ftid=297887&dwn=1&CFID=746714422&CFTOKEN=66604270",
+        "title1": "On Equivalence and Canonical Forms in the LF Type Theory",
+        "count": 21,
+        "i": 3170,
+        "title2": "On equivalence and canonical forms in the LF type theory",
+        "url1": "http://arxiv.org/pdf/cs/0110028v1"
+    },
+    {
+        "j": 15904,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=963929&ftid=247792&dwn=1&CFID=746714557&CFTOKEN=31197961",
+        "title1": "Precongruence Formats for Decorated Trace Semantics",
+        "count": 22,
+        "i": 3179,
+        "title2": "Precongruence formats for decorated trace semantics",
+        "url1": "http://arxiv.org/pdf/cs/0204039v1"
+    },
+    {
+        "j": 15896,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=976713&ftid=252062&dwn=1&CFID=746714505&CFTOKEN=74857134",
+        "title1": "Some applications of logic to feasibility in higher types",
+        "count": 23,
+        "i": 3180,
+        "title2": "Some applications of logic to feasibility in higher types",
+        "url1": "http://arxiv.org/pdf/cs/0204045v1"
+    },
+    {
+        "j": 15877,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1055692&ftid=309446&dwn=1&CFID=746714355&CFTOKEN=83458662",
+        "title1": "Knuth-Bendix constraint solving is NP-complete",
+        "count": 24,
+        "i": 3183,
+        "title2": "Knuth--bendix constraint solving is NP-complete",
+        "url1": "http://arxiv.org/pdf/cs/0207068v1"
+    },
+    {
+        "j": 15844,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1055695&ftid=309449&dwn=1&CFID=746714104&CFTOKEN=85974594",
+        "title1": "An Elementary Fragment of Second-Order Lambda Calculus",
+        "count": 25,
+        "i": 3190,
+        "title2": "An elementary fragment of second-order lambda calculus",
+        "url1": "http://arxiv.org/pdf/cs/0210022v3"
+    },
+    {
+        "j": 15845,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1071602&ftid=313724&dwn=1&CFID=746714127&CFTOKEN=14435358",
+        "title1": "Arithmetic, First-Order Logic, and Counting Quantifiers",
+        "count": 26,
+        "i": 3193,
+        "title2": "Arithmetic, first-order logic, and counting quantifiers",
+        "url1": "http://arxiv.org/pdf/cs/0211022v1"
+    },
+    {
+        "j": 15865,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1119443&ftid=347385&dwn=1&CFID=746714299&CFTOKEN=62523481",
+        "title1": "Monodic temporal resolution",
+        "count": 27,
+        "i": 3204,
+        "title2": "Monodic temporal resolution",
+        "url1": "http://arxiv.org/pdf/cs/0306041v1"
+    },
+    {
+        "j": 15906,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1183285&ftid=375179&dwn=1&CFID=746714685&CFTOKEN=65475726",
+        "title1": "Kleene algebra with domain",
+        "count": 28,
+        "i": 3211,
+        "title2": "Kleene algebra with domain",
+        "url1": "http://arxiv.org/pdf/cs/0310054v1"
+    },
+    {
+        "j": 15993,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1182618&ftid=403968&dwn=1&CFID=746715274&CFTOKEN=23693505",
+        "title1": "Logical Characterizations of Heap Abstractions",
+        "count": 29,
+        "i": 3218,
+        "title2": "Logical characterizations of heap abstractions",
+        "url1": "http://arxiv.org/pdf/cs/0312014v3"
+    },
+    {
+        "j": 15978,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1297662&ftid=474384&dwn=1&CFID=746715177&CFTOKEN=57820232",
+        "title1": "Predicate Abstraction with Indexed Predicates",
+        "count": 30,
+        "i": 3234,
+        "title2": "Predicate abstraction with indexed predicates",
+        "url1": "http://arxiv.org/pdf/cs/0407006v1"
+    },
+    {
+        "j": 15965,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1342995&ftid=508005&dwn=1&CFID=746715093&CFTOKEN=74447961",
+        "title1": "Bounds on the Automata Size for Presburger Arithmetic",
+        "count": 31,
+        "i": 3270,
+        "title2": "Bounds on the automata size for Presburger arithmetic",
+        "url1": "http://arxiv.org/pdf/cs/0506008v1"
+    },
+    {
+        "j": 15963,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1342994&ftid=508004&dwn=1&CFID=746715097&CFTOKEN=76358116",
+        "title1": "Alternating Timed Automata",
+        "count": 32,
+        "i": 3297,
+        "title2": "Alternating timed automata",
+        "url1": "http://arxiv.org/pdf/cs/0512031v2"
+    },
+    {
+        "j": 15953,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1459016&ftid=608346&dwn=1&CFID=746715016&CFTOKEN=85185356",
+        "title1": "A Finite Equational Base for CCS with Left Merge and Communication Merge",
+        "count": 33,
+        "i": 3324,
+        "title2": "A finite equational base for CCS with left merge and communication merge",
+        "url1": "http://arxiv.org/pdf/cs/0608001v2"
+    },
+    {
+        "j": 3350,
+        "url2": "http://arxiv.org/pdf/cs/0610072v1",
+        "title1": "Definitions by Rewriting in the Calculus of Constructions",
+        "count": 34,
+        "i": 3344,
+        "title2": "Definitions by rewriting in the Calculus of Constructions",
+        "url1": "http://arxiv.org/pdf/cs/0610065v1"
+    },
+    {
+        "j": 3351,
+        "url2": "http://arxiv.org/pdf/cs/0610073v1",
+        "title1": "Inductive types in the Calculus of Algebraic Constructions",
+        "count": 35,
+        "i": 3348,
+        "title2": "Inductive types in the Calculus of Algebraic Constructions",
+        "url1": "http://arxiv.org/pdf/cs/0610070v1"
+    },
+    {
+        "j": 22480,
+        "url2": "http://dblp.uni-trier.de/db/journals/acta/acta45.html#BrijderH08",
+        "title1": "The Fibers and Range of Reduction Graphs in Ciliates",
+        "count": 36,
+        "i": 3375,
+        "title2": "The fibers and range of reduction graphs in ciliates.",
+        "url1": "http://arxiv.org/pdf/cs/0702041v1"
+    },
+    {
+        "j": 21767,
+        "url2": "http://dblp.uni-trier.de/db/journals/acta/acta43.html#CarayolM06",
+        "title1": "Linearly bounded infinite graphs",
+        "count": 37,
+        "i": 3391,
+        "title2": "Linearly bounded infinite graphs.",
+        "url1": "http://arxiv.org/pdf/0705.3487v1"
+    },
+    {
+        "j": 3441,
+        "url2": "http://arxiv.org/pdf/cs/0110044v1",
+        "title1": "EquiX---A Search and Query Language for XML",
+        "count": 38,
+        "i": 3436,
+        "title2": "EquiX--A Search and Query Language for XML",
+        "url1": "http://arxiv.org/pdf/cs/0011041v1"
+    },
+    {
+        "j": 18726,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1567278&ftid=684603&dwn=1&CFID=746730787&CFTOKEN=33223059",
+        "title1": "Semantics and Complexity of SPARQL",
+        "count": 39,
+        "i": 3518,
+        "title2": "Semantics and complexity of SPARQL",
+        "url1": "http://arxiv.org/pdf/cs/0605124v1"
+    },
+    {
+        "j": 16603,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1993080&ftid=1008728&dwn=1&CFID=746718521&CFTOKEN=39030315",
+        "title1": "Can the Utility of Anonymized Data be used for Privacy Breaches?",
+        "count": 40,
+        "i": 3610,
+        "title2": "Can the Utility of Anonymized Data be Used for Privacy Breaches?",
+        "url1": "http://arxiv.org/pdf/0905.1755v1"
+    },
+    {
+        "j": 18719,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1735887&ftid=773170&dwn=1&CFID=746730740&CFTOKEN=60939303",
+        "title1": "Transparent Anonymization: Thwarting Adversaries Who Know the Algorithm",
+        "count": 41,
+        "i": 3656,
+        "title2": "Transparent anonymization: Thwarting adversaries who know the algorithm",
+        "url1": "http://arxiv.org/pdf/1003.5080v1"
+    },
+    {
+        "j": 17147,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=2619090&ftid=1479624&dwn=1&CFID=746721452&CFTOKEN=51863159",
+        "title1": "Faults in Linux 2.6",
+        "count": 42,
+        "i": 4219,
+        "title2": "Faults in Linux 2.6",
+        "url1": "http://arxiv.org/pdf/1407.4346v1"
+    },
+    {
+        "j": 7694,
+        "url2": "http://arxiv.org/pdf/0705.1956v1",
+        "title1": "A Branch and Cut Algorithm for the Halfspace Depth Problem",
+        "count": 43,
+        "i": 4826,
+        "title2": "A Branch and Cut Algorithm for the Halfspace Depth Problem",
+        "url1": "http://arxiv.org/pdf/0910.1923v1"
+    },
+    {
+        "j": 22306,
+        "url2": "http://dblp.uni-trier.de/db/journals/acta/acta28.html#Knuth90",
+        "title1": "Nested satisfiability",
+        "count": 44,
+        "i": 5215,
+        "title2": "Nested Satisfiability.",
+        "url1": "http://arxiv.org/pdf/cs/9301111v1"
+    },
+    {
+        "j": 22515,
+        "url2": "http://dblp.uni-trier.de/db/journals/acta/acta34.html#HemaspaandraRW97",
+        "title1": "Easy Sets and Hard Certificate Schemes",
+        "count": 45,
+        "i": 5229,
+        "title2": "Easy Sets and Hard Certificate Schemes.",
+        "url1": "http://arxiv.org/pdf/cs/9907035v1"
+    },
+    {
+        "j": 15939,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1555748&ftid=654582&dwn=1&CFID=746714926&CFTOKEN=11416746",
+        "title1": "A new function algebra of EXPTIME functions by safe nested recursion",
+        "count": 46,
+        "i": 5355,
+        "title2": "A new function algebra of EXPTIME functions by safe nested recursion",
+        "url1": "http://arxiv.org/pdf/cs/0607118v2"
+    },
+    {
+        "j": 16093,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=2071372&ftid=1103492&dwn=1&CFID=746715900&CFTOKEN=75839059",
+        "title1": "Succinctness of the Complement and Intersection of Regular Expressions",
+        "count": 47,
+        "i": 5427,
+        "title2": "Succinctness of the Complement and Intersection of Regular Expressions",
+        "url1": "http://arxiv.org/pdf/0802.2869v1"
+    },
+    {
+        "j": 34787,
+        "url2": "http://ieeexplore.ieee.org/document/7753120/",
+        "title1": "Pixel matrices: An elementary technique for solving nonlinear systems",
+        "count": 48,
+        "i": 6012,
+        "title2": "Pixel matrices: An elementary technique for solving nonlinear systems",
+        "url1": "http://arxiv.org/pdf/1605.00190v2"
+    },
+    {
+        "j": 15888,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1024927&ftid=286337&dwn=1&CFID=746714450&CFTOKEN=61239816",
+        "title1": "Interval Constraint Solving for Camera Control and Motion Planning",
+        "count": 49,
+        "i": 6064,
+        "title2": "Interval constraint solving for camera control and motion planning",
+        "url1": "http://arxiv.org/pdf/cs/0007002v2"
+    },
+    {
+        "j": 15714,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=359508&ftid=51099&dwn=1&CFID=746712785&CFTOKEN=83302404",
+        "title1": "Probabilistic Agent Programs",
+        "count": 50,
+        "i": 6216,
+        "title2": "Probabilistic agent programs",
+        "url1": "http://arxiv.org/pdf/cs/9910016v1"
+    },
+    {
+        "j": 16011,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1183279&ftid=375173&dwn=1&CFID=746715368&CFTOKEN=23070750",
+        "title1": "Domain-Dependent Knowledge in Answer Set Planning",
+        "count": 51,
+        "i": 6281,
+        "title2": "Domain-dependent knowledge in answer set planning",
+        "url1": "http://arxiv.org/pdf/cs/0207023v2"
+    },
+    {
+        "j": 15875,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1055693&ftid=309447&dwn=1&CFID=746714350&CFTOKEN=11067532",
+        "title1": "Reasoning about Evolving Nonmonotonic Knowledge Bases",
+        "count": 52,
+        "i": 6297,
+        "title2": "Reasoning about evolving nonmonotonic knowledge bases",
+        "url1": "http://arxiv.org/pdf/cs/0209019v1"
+    },
+    {
+        "j": 15870,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1119440&ftid=347382&dwn=1&CFID=746714315&CFTOKEN=38258663",
+        "title1": "Unfolding Partiality and Disjunctions in Stable Model Semantics",
+        "count": 53,
+        "i": 6313,
+        "title2": "Unfolding partiality and disjunctions in stable model semantics",
+        "url1": "http://arxiv.org/pdf/cs/0303009v2"
+    },
+    {
+        "j": 15991,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1227841&ftid=404615&dwn=1&CFID=746715255&CFTOKEN=67274292",
+        "title1": "Recycling Computed Answers in Rewrite Systems for Abduction",
+        "count": 54,
+        "i": 6346,
+        "title2": "Recycling computed answers in rewrite systems for abduction",
+        "url1": "http://arxiv.org/pdf/cs/0402033v1"
+    },
+    {
+        "j": 26085,
+        "url2": "http://dblp.uni-trier.de/db/journals/fgcs/fgcs37.html#KrzywickiFBK14",
+        "title1": "Computing Agents for Decision Support Systems",
+        "count": 55,
+        "i": 6476,
+        "title2": "Computing agents for decision support systems.",
+        "url1": "http://arxiv.org/pdf/1402.2793v2"
+    },
+    {
+        "j": 7228,
+        "url2": "http://arxiv.org/pdf/1005.0839v1",
+        "title1": "Comparing Repository Types - Challenges and barriers for subject-based   repositories, research repositories, national repository systems and   institutional repositories in serving scholarly communication",
+        "count": 56,
+        "i": 7113,
+        "title2": "Comparing Repository Types - Challenges and barriers for subject-based   repositories, research repositories, national repository systems and   institutional repositories in serving scholarly communication",
+        "url1": "http://arxiv.org/pdf/1003.4187v1"
+    },
+    {
+        "j": 38607,
+        "url2": "http://ieeexplore.ieee.org/document/6167821/",
+        "title1": "The Open Annotation Collaboration (OAC) Model",
+        "count": 57,
+        "i": 7247,
+        "title2": "The Open Annotation Collaboration (OAC) Model",
+        "url1": "http://arxiv.org/pdf/1106.5178v1"
+    },
+    {
+        "j": 21367,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1497291&ftid=600514&dwn=1&CFID=746745290&CFTOKEN=57681899",
+        "title1": "Testing Bipartiteness of Geometric Intersection Graphs",
+        "count": 58,
+        "i": 7646,
+        "title2": "Testing bipartiteness of geometric intersection graphs",
+        "url1": "http://arxiv.org/pdf/cs/0307023v2"
+    },
+    {
+        "j": 21406,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1240239&ftid=430741&dwn=1&CFID=746745460&CFTOKEN=54612852",
+        "title1": "Deterministic Sampling and Range Counting in Geometric Data Streams",
+        "count": 59,
+        "i": 7647,
+        "title2": "Deterministic sampling and range counting in geometric data streams",
+        "url1": "http://arxiv.org/pdf/cs/0307027v1"
+    },
+    {
+        "j": 22498,
+        "url2": "http://dblp.uni-trier.de/db/journals/acta/acta46.html#BergstraM09",
+        "title1": "Machine structure oriented control code logic",
+        "count": 60,
+        "i": 8048,
+        "title2": "Machine structure oriented control code logic.",
+        "url1": "http://arxiv.org/pdf/0711.0836v3"
+    },
+    {
+        "j": 8145,
+        "url2": "http://arxiv.org/pdf/1001.4129v1",
+        "title1": "Defect Prevention Approaches in Medium Scale it Enterprises",
+        "count": 61,
+        "i": 8143,
+        "title2": "Defect Prevention Approaches In Medium Scale It Enterprises",
+        "url1": "http://arxiv.org/pdf/1001.3918v1"
+    },
+    {
+        "j": 8228,
+        "url2": "http://arxiv.org/pdf/cs/0508042v2",
+        "title1": "OpenVanilla - A Non-Intrusive Plug-In Framework of Text Services",
+        "count": 62,
+        "i": 8227,
+        "title2": "OpenVanilla - A Non-Intrusive Plug-In Framework of Text Services",
+        "url1": "http://arxiv.org/pdf/cs/0508041v2"
+    },
+    {
+        "j": 18951,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1013206&ftid=277858&dwn=1&CFID=746732712&CFTOKEN=44107257",
+        "title1": "Agent trade servers in financial exchange systems",
+        "count": 63,
+        "i": 8511,
+        "title2": "Agent trade servers in financial exchange systems",
+        "url1": "http://arxiv.org/pdf/cs/0203023v1"
+    },
+    {
+        "j": 21312,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1597042&ftid=702822&dwn=1&CFID=746745075&CFTOKEN=95885035",
+        "title1": "All Maximal Independent Sets and Dynamic Dominance for Sparse Graphs",
+        "count": 64,
+        "i": 8871,
+        "title2": "All maximal independent sets and dynamic dominance for sparse graphs",
+        "url1": "http://arxiv.org/pdf/cs/0407036v1"
+    },
+    {
+        "j": 21307,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1597047&ftid=702827&dwn=1&CFID=746745061&CFTOKEN=36902385",
+        "title1": "Randomized Fast Design of Short DNA Words",
+        "count": 65,
+        "i": 8916,
+        "title2": "Randomized fast design of short DNA words",
+        "url1": "http://arxiv.org/pdf/cs/0601084v1"
+    },
+    {
+        "j": 21508,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=2556951&ftid=1429182&dwn=1&CFID=746745931&CFTOKEN=40153846",
+        "title1": "Weighted Popular Matchings",
+        "count": 66,
+        "i": 8978,
+        "title2": "Weighted popular matchings",
+        "url1": "http://arxiv.org/pdf/0707.0546v1"
+    },
+    {
+        "j": 15949,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1462183&ftid=604300&dwn=1&CFID=746714988&CFTOKEN=52420604",
+        "title1": "A compositional Semantics for CHR",
+        "count": 67,
+        "i": 9210,
+        "title2": "A compositional semantics for CHR",
+        "url1": "http://arxiv.org/pdf/cs/0603079v1"
+    }
+]

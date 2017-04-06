@@ -1,0 +1,14 @@
+<html>
+  <head>
+    {% if title %}
+    <title>{{ title }} - ScholarsNet</title>
+    {% else %}
+    <title>Welcome to ScholarsNet</title>
+    {% endif %}
+  </head>
+  <body>
+    <div>ScholarsNet: <a href="/index">Home</a></div>
+    <hr>
+    {% block content %}{% endblock %}
+  </body>
+</html>
