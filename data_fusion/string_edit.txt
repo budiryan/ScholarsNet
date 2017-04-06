@@ -1,0 +1,3821 @@
+30A Computational Economy for Grid Computing and its Implementation in the   Nimrod-G Resource Brok
+27970A computational economy for grid computing and its implementation in the Nimrod-G resource broker.
+Edit distance:12
+
+
+44Computational Grids in Action: The Natinal Fusion Collaboratory
+25597Computational Grids in action: the National Fusion Collaboratory.
+Edit distance:4
+
+
+162Bulk Scheduling with DIANA Scheduler
+177Bulk Scheduling with the DIANA Scheduler
+Edit distance:4
+
+
+170A Case for Cooperative and Incentive-Based Coupling of Distributed   Clusters
+25118A case for cooperative and incentive-based federation of distributed clusters.
+Edit distance:18
+
+
+193Distributed Slicing in Dynamic Systems
+249Distributed Slicing in Dynamic Systems
+Edit distance:0
+
+
+262Compute and Storage Clouds Using Wide Area High Performance Networks
+27240Compute and storage clouds using wide area high performance networks.
+Edit distance:9
+
+
+278Randomization Adaptive Self-Stabilization
+22610Randomization adaptive self-stabilization.
+Edit distance:4
+
+
+310The equations of the ideal latches
+319The equations of the ideal latches
+Edit distance:0
+
+
+616Self-Organisation of Evolving Agent Populations in Digital Ecosystems
+25093Self-organisation of evolving agent populations in Digital Ecosystems.
+Edit distance:5
+
+
+862A New Email Retrieval Ranking Approach
+863A New Email Retrieval Ranking Approach
+Edit distance:0
+
+
+899Overview of EIREX 2010: Computing
+904Overview of EIREX 2011: Crowdsourcing
+Edit distance:8
+
+
+1000Cross-Lingual Adaptation using Structural Correspondence Learning
+10963Cross-Lingual Adaptation Using Structural Correspondence Learning
+Edit distance:1
+
+
+1024Efficient Personalized Web Mining: Utilizing The Most Utilized Data
+1025Effective Personalized Web Mining by Utilizing The Most Utilized Data
+Edit distance:8
+
+
+1081A Directed -Threshold Multi-Signature Scheme
+1086A Directed Threshold - Signature Scheme
+Edit distance:7
+
+
+1083Comment on A dynamic ID-based Remote User Authentication Scheme
+1259A Dynamic ID-based Remote User Authentication Scheme
+Edit distance:12
+
+
+1143Undeniable Signature Schemes Using Braid Groups
+1149Group Signature Schemes Using Braid Groups
+Edit distance:10
+
+
+1574Lossless Intra Coding in HEVC with 3-tap Filters
+1588Lossless Intra Coding in HEVC with Adaptive 3-tap Filters
+Edit distance:9
+
+
+1703Improved complexity bounds for real root isolation using Continued   Fractions
+1704Improved complexity bounds for real root isolation using Continued   Fractions
+Edit distance:0
+
+
+1774On the Complexity of Computing Gröbner Bases for Quasi-homogeneous   Systems
+1835On the complexity of computing Gröbner bases for weighted homogeneous   systems
+Edit distance:13
+
+
+1812Problem formulation for truth-table invariant cylindrical algebraic   decomposition by incremental triangular decomposition
+1822Choosing a variable ordering for truth-table invariant cylindrical   algebraic decomposition by incremental triangular decomposition
+Edit distance:27
+
+
+1925MACE 2.0 Reference Manual and Guide
+4782Mace4 Reference Manual and Guide
+Edit distance:7
+
+
+1937PHORMA: Perfectly Hashed Order Restricted Multidimensional Array
+8850PHORMA: Perfectly Hashable Order Restricted Multidimensional Arrays
+Edit distance:5
+
+
+1974Polynomial Constraint Satisfaction, Graph Bisection, and the Ising   Partition Function
+21413Polynomial constraint satisfaction problems, graph bisection, and the Ising partition function
+Edit distance:17
+
+
+2051Ideal synchronizer for marked pairs in fork-join network
+2052Model for synchronizer of marked pairs in fork-join network
+Edit distance:9
+
+
+2092Tree-width of hypergraphs and surface duality
+2209Tree-width of hypergraphs and surface duality
+Edit distance:0
+
+
+2239Improving the Performance of TCP over the ATM-UBR service
+2254UBR+: Improving Performance of TCP over ATM-UBR service
+Edit distance:14
+
+
+2298An Internet Multicast System for the Stock Market
+17034An Internet multicast system for the stock market
+Edit distance:4
+
+
+2417Throughput Optimal Distributed Control of Stochastic Wireless Networks
+2444Throughput Optimal Distributed Control of Stochastic Wireless Networks
+Edit distance:0
+
+
+2461Clustering and Sharing Incentives in BitTorrent Systems
+2480Clustering and Sharing Incentives in BitTorrent Systems
+Edit distance:0
+
+
+2525Unsaturated Throughput Analysis of IEEE 802.11 in Presence of Non Ideal   Transmission Channel and Capture Effects
+2526Saturation Throughput Analysis of IEEE 802.11 in Presence of Non Ideal   Transmission Channel and Capture Effects
+Edit distance:6
+
+
+2543A Technical Report On Grid Benchmarking using SEE V.O
+2546A Technical Report On Grid Benchmarking using ATLAS V.O
+Edit distance:5
+
+
+2912Inventing E-Regulation in the US, EU and East Asia: Conflicting Social   Visions of the Internet & the Information Society
+28640Inventing e-regulation in the US, EU and East Asia: conflicting social visions of the Information Society.
+Edit distance:23
+
+
+3150A System of Interaction and Structure
+16054A system of interaction and structure
+Edit distance:3
+
+
+3152Termination Proofs for Logic Programs with Tabling
+15768Termination proofs for logic programs with tabling
+Edit distance:4
+
+
+3156A theory of normed simulations
+15946A theory of normed simulations
+Edit distance:0
+
+
+3158Boolean Satisfiability with Transitivity Constraints
+15846Boolean satisfiability with transitivity constraints
+Edit distance:3
+
+
+3161A syntactical analysis of non-size-increasing polynomial time   computation
+15890A syntactical analysis of non-size-increasing polynomial time computation
+Edit distance:2
+
+
+3162A Complete Characterization of Complete Intersection-Type Theories
+15857A complete characterization of complete intersection-type preorders
+Edit distance:9
+
+
+3164Resource-distribution via Boolean constraints
+15858Resource-distribution via Boolean constraints
+Edit distance:0
+
+
+3165A Classification of Symbolic Transition Systems
+15941A classification of symbolic transition systems
+Edit distance:4
+
+
+3167Disjunction and modular goal-directed proof search
+15926Disjunction and modular goal-directed proof search
+Edit distance:0
+
+
+3169Abstract versus Concrete Computation on Metric Partial Algebras
+15945Abstract versus concrete computation on metric partial algebras
+Edit distance:5
+
+
+3172On Equivalence and Canonical Forms in the LF Type Theory
+15939On equivalence and canonical forms in the LF type theory
+Edit distance:5
+
+
+3181Precongruence Formats for Decorated Trace Semantics
+15958Precongruence formats for decorated trace semantics
+Edit distance:4
+
+
+3182Some applications of logic to feasibility in higher types
+15950Some applications of logic to feasibility in higher types
+Edit distance:0
+
+
+3185Knuth-Bendix constraint solving is NP-complete
+15931Knuth--bendix constraint solving is NP-complete
+Edit distance:2
+
+
+3192An Elementary Fragment of Second-Order Lambda Calculus
+15897An elementary fragment of second-order lambda calculus
+Edit distance:6
+
+
+3194Sequent and Hypersequent Calculi for Abelian and Lukasiewicz Logics
+15922Sequent and hypersequent calculi for abelian and &lstrok;ukasiewicz logics
+Edit distance:12
+
+
+3195Arithmetic, First-Order Logic, and Counting Quantifiers
+15898Arithmetic, first-order logic, and counting quantifiers
+Edit distance:5
+
+
+3204Optimizing Optimal Reduction: A Type Inference Algorithm for Elementary   Affine Logic
+15916Optimizing optimal reduction: A type inference algorithm for elementary affine logic
+Edit distance:10
+
+
+3206Monodic temporal resolution
+15919Monodic temporal resolution
+Edit distance:0
+
+
+3213Kleene algebra with domain
+15960Kleene algebra with domain
+Edit distance:0
+
+
+3220Logical Characterizations of Heap Abstractions
+16047Logical characterizations of heap abstractions
+Edit distance:3
+
+
+3236Predicate Abstraction with Indexed Predicates
+16032Predicate abstraction with indexed predicates
+Edit distance:3
+
+
+3256Introduction to linear logic and ludics, part I
+3257Introduction to linear logic and ludics, part II
+Edit distance:1
+
+
+3272Bounds on the Automata Size for Presburger Arithmetic
+16019Bounds on the automata size for Presburger arithmetic
+Edit distance:3
+
+
+3291Verifying nondeterministic probabilistic channel systems against   $ω$-regular linear-time properties
+16031Verifying nondeterministic probabilistic channel systems against ω-regular linear-time properties
+Edit distance:4
+
+
+3299Alternating Timed Automata
+16017Alternating timed automata
+Edit distance:2
+
+
+3308PLTL Partitioned Model Checking for Reactive Systems under Fairness   Assumptions
+11600PLTL-partitioned model checking for reactive systems under fairness assumptions
+Edit distance:10
+
+
+3326A Finite Equational Base for CCS with Left Merge and Communication Merge
+16007A finite equational base for CCS with left merge and communication merge
+Edit distance:7
+
+
+3346Definitions by Rewriting in the Calculus of Constructions
+3352Definitions by rewriting in the Calculus of Constructions
+Edit distance:1
+
+
+3350Inductive types in the Calculus of Algebraic Constructions
+3353Inductive types in the Calculus of Algebraic Constructions
+Edit distance:0
+
+
+3377The Fibers and Range of Reduction Graphs in Ciliates
+22603The fibers and range of reduction graphs in ciliates.
+Edit distance:6
+
+
+3393Linearly bounded infinite graphs
+21882Linearly bounded infinite graphs.
+Edit distance:1
+
+
+3438EquiX---A Search and Query Language for XML
+3443EquiX--A Search and Query Language for XML
+Edit distance:1
+
+
+3498A Generalized Disjunctive Paraconsistent Data Model for Negative and   Disjunctive Information
+3501An Extended Generalized Disjunctive Paraconsistent Data Model for   Disjunctive Information
+Edit distance:23
+
+
+3506First-order Complete and Computationally Complete Query Languages for   Spatio-Temporal Databases
+15964First-order complete and computationally complete query languages for spatio-temporal databases
+Edit distance:10
+
+
+3520Semantics and Complexity of SPARQL
+18809Semantics and complexity of SPARQL
+Edit distance:1
+
+
+3612Can the Utility of Anonymized Data be used for Privacy Breaches?
+16663Can the Utility of Anonymized Data be Used for Privacy Breaches?
+Edit distance:1
+
+
+3658Transparent Anonymization: Thwarting Adversaries Who Know the Algorithm
+18801Transparent anonymization: Thwarting adversaries who know the algorithm
+Edit distance:5
+
+
+3936Multi-Voltage and Level-Shifter Assignment Driven Floorplanning
+3940Voltage and Level-Shifter Assignment Driven Floorplanning
+Edit distance:6
+
+
+4112The Quest-V Separation Kernel for Mixed Criticality Systems
+17194A Virtualized Separation Kernel for Mixed-Criticality Systems
+Edit distance:13
+
+
+4221Faults in Linux 2.6
+17215Faults in Linux 2.6
+Edit distance:0
+
+
+4305Robustness Analysis for Battery Supported Cyber-Physical Systems
+11778Robustness analysis for battery-supported cyber-physical systems
+Edit distance:7
+
+
+4334Source Coding with Fixed Lag Side Information
+4348Source Coding With Encoder Side Information
+Edit distance:9
+
+
+4338Capacity Analysis for Continuous Alphabet Channels with Side   Information, Part I: A General Framework
+4339Capacity Analysis for Continuous Alphabet Channels with Side   Information, Part II: MIMO Channels
+Edit distance:18
+
+
+4381Generalised Bent Criteria for Boolean Functions (I)
+4382Generalised Bent Criteria for Boolean Functions (II)
+Edit distance:1
+
+
+4446A Decision Feedback Based Scheme for Slepian-Wolf Coding of sources with   Hidden Markov Correlation
+4448Decision Feedback Based Scheme for Slepian-Wolf Coding of sources with   Hidden Markov Correlation
+Edit distance:2
+
+
+4456Stability of Scheduled Multi-access Communication over Quasi-static Flat   Fading Channels with Random Coding and Independent Decoding
+4617Stability of Scheduled Multi-access Communication over Quasi-static Flat   Fading Channels with Random Coding and Joint Maximum Likelihood Decoding
+Edit distance:22
+
+
+4500Unified Theory of Source Coding: Part I -- Two Terminal Problems
+4501Unified Theory of Source Coding: Part II -- Multiterminal Problems
+Edit distance:7
+
+
+4649Efficient Multiplication of Dense Matrices over GF(2)
+4658Efficient Decomposition of Dense Matrices over GF(2)
+Edit distance:9
+
+
+4828A Branch and Cut Algorithm for the Halfspace Depth Problem
+7701A Branch and Cut Algorithm for the Halfspace Depth Problem
+Edit distance:0
+
+
+4967Conditional Expressions for Blind Deconvolution: Multi-point form
+4969Conditional Expressions for Blind Deconvolution: Derivative form
+Edit distance:9
+
+
+5082Text Region Extraction from Business Card Images for Mobile Devices
+10344Text/Graphics Separation for Business Card Images for Mobile Devices
+Edit distance:15
+
+
+5103Recognition of Handwritten Roman Script Using Tesseract Open source OCR   Engine
+5106Recognition of handwritten Roman Numerals using Tesseract open source   OCR engine
+Edit distance:15
+
+
+5218Nested satisfiability
+22428Nested Satisfiability.
+Edit distance:2
+
+
+5232Easy Sets and Hard Certificate Schemes
+22639Easy Sets and Hard Certificate Schemes.
+Edit distance:1
+
+
+5274Does P = NP?
+5388Does P=NP?
+Edit distance:2
+
+
+5359A new function algebra of EXPTIME functions by safe nested recursion
+15993A new function algebra of EXPTIME functions by safe nested recursion
+Edit distance:0
+
+
+5382Geometric Complexity Theory IV: nonstandard quantum group for the   Kronecker problem
+5401Geometric Complexity Theory VII: Nonstandard quantum group for the   plethysm problem
+Edit distance:12
+
+
+5432Succinctness of the Complement and Intersection of Regular Expressions
+16147Succinctness of the Complement and Intersection of Regular Expressions
+Edit distance:0
+
+
+5557Competing with stationary prediction strategies
+5562Competing with Markov prediction strategies
+Edit distance:8
+
+
+5712Sublinear Optimization for Machine Learning
+5813Stochastic Optimization for Machine Learning
+Edit distance:9
+
+
+5874A Stable Explicit Scheme for Solving Non-Homogeneous Constant   Coefficients Equation using Green's Function
+5875A Stable Explicit Scheme for Solving Inhomogeneous Constant Coefficients   Differential Equation using Green's Function
+Edit distance:21
+
+
+5921The Numerical Generalized Least-Squares Estimator of an Unknown Constant   Mean of Random Field
+5922The Correct Classic Generalized Least-Squares Estimator of an Unknown   Constant Mean of Randon Field
+Edit distance:18
+
+
+6018Pixel matrices: An elementary technique for solving nonlinear systems
+35151Pixel matrices: An elementary technique for solving nonlinear systems
+Edit distance:0
+
+
+6045Stability analysis of the numerical Method of characteristics applied to   energy-preserving systems. Part I: Periodic boundary conditions
+6046Stability analysis of the numerical Method of characteristics applied to   energy-preserving systems. Part II: Nonreflecting boundary conditions
+Edit distance:12
+
+
+6070Interval Constraint Solving for Camera Control and Motion Planning
+15942Interval constraint solving for camera control and motion planning
+Edit distance:6
+
+
+6080Efficient Solving of Quantified Inequality Constraints over the Real   Numbers
+16055Efficient solving of quantified inequality constraints over the real numbers
+Edit distance:8
+
+
+6081Smoothed Analysis of Interior-Point Algorithms: Condition Number
+8849Smoothed Analysis of Interior-Point Algorithms: Termination
+Edit distance:13
+
+
+6222Probabilistic Agent Programs
+15765Probabilistic agent programs
+Edit distance:2
+
+
+6259Causes and Explanations: A Structural-Model Approach, Part I: Causes
+6302Causes and Explanations: A Structural-Model Approach. Part II:   Explanations
+Edit distance:14
+
+
+6287Domain-Dependent Knowledge in Answer Set Planning
+16065Domain-dependent knowledge in answer set planning
+Edit distance:5
+
+
+6303Reasoning about Evolving Nonmonotonic Knowledge Bases
+15929Reasoning about evolving nonmonotonic knowledge bases
+Edit distance:4
+
+
+6313Comparisons and Computation of Well-founded Semantics for Disjunctive   Logic Programs
+15933Comparisons and computation of well-founded semantics for disjunctive logic programs
+Edit distance:8
+
+
+6319Unfolding Partiality and Disjunctions in Stable Model Semantics
+15924Unfolding partiality and disjunctions in stable model semantics
+Edit distance:5
+
+
+6352Recycling Computed Answers in Rewrite Systems for Abduction
+16045Recycling computed answers in rewrite systems for abduction
+Edit distance:5
+
+
+6453Multi-Agent Programming Contest 2010 - The Jason-DTU Team
+6464Multi-Agent Programming Contest 2011 - The Python-DTU Team
+Edit distance:5
+
+
+6453Multi-Agent Programming Contest 2010 - The Jason-DTU Team
+6520Multi-Agent Programming Contest 2012 - The Python-DTU Team
+Edit distance:5
+
+
+6464Multi-Agent Programming Contest 2011 - The Python-DTU Team
+6520Multi-Agent Programming Contest 2012 - The Python-DTU Team
+Edit distance:1
+
+
+6482Computing Agents for Decision Support Systems
+26300Computing agents for decision support systems.
+Edit distance:5
+
+
+6490Proceedings Third Workshop on Formal Aspects of Virtual Organisations
+8157Proceedings Second Workshop on Formal Aspects of Virtual Organisations
+Edit distance:5
+
+
+6494Multi Site Coordination using a Multi-Agent System
+24119Multi-site coordination using a multi-agent system.
+Edit distance:7
+
+
+6729Expoiting Syntactic Structure for Language Modeling
+6776Exploiting Syntactic Structure for Natural Language Modeling
+Edit distance:9
+
+
+6729Expoiting Syntactic Structure for Language Modeling
+6894Portability of Syntactic Structure for Language Modeling
+Edit distance:12
+
+
+6768Pronoun Resolution in Japanese Sentences Using Surface Expressions and   Examples
+6841Anaphora Resolution in Japanese Sentences Using Surface Expressions and   Examples
+Edit distance:7
+
+
+6793Finite-State Reduplication in One-Level Prosodic Morphology
+6823Temiar Reduplication in One-Level Prosodic Morphology
+Edit distance:10
+
+
+6911Blind Normalization of Speech From Different Channels and Speakers
+6955Blind Normalization of Speech From Different Channels
+Edit distance:13
+
+
+6947Introduction to the CoNLL-2002 Shared Task: Language-Independent Named   Entity Recognition
+6962Introduction to the CoNLL-2003 Shared Task: Language-Independent Named   Entity Recognition
+Edit distance:1
+
+
+7044Trustworthy 100-Year Digital Objects: Durable Encoding for When It's Too   Late to Ask
+19758Trustworthy 100-year digital objects: durable encoding for when it's too late to ask
+Edit distance:12
+
+
+7120Comparing Repository Types - Challenges and barriers for subject-based   repositories, research repositories, national repository systems and   institutional repositories in serving scholarly communication
+7235Comparing Repository Types - Challenges and barriers for subject-based   repositories, research repositories, national repository systems and   institutional repositories in serving scholarly communication
+Edit distance:0
+
+
+7254The Open Annotation Collaboration (OAC) Model
+38995The Open Annotation Collaboration (OAC) Model
+Edit distance:0
+
+
+7610Computational Geometry Column 34
+7616Computational Geometry Column 35
+Edit distance:1
+
+
+7610Computational Geometry Column 34
+7623Computational Geometry Column 36
+Edit distance:1
+
+
+7610Computational Geometry Column 34
+7624Computational Geometry Column 37
+Edit distance:1
+
+
+7610Computational Geometry Column 34
+7633Computational Geometry Column 40
+Edit distance:2
+
+
+7610Computational Geometry Column 34
+7652Computational Geometry Column 44
+Edit distance:1
+
+
+7610Computational Geometry Column 34
+10564Computational Geometry Column 32
+Edit distance:1
+
+
+7616Computational Geometry Column 35
+7623Computational Geometry Column 36
+Edit distance:1
+
+
+7616Computational Geometry Column 35
+7624Computational Geometry Column 37
+Edit distance:1
+
+
+7616Computational Geometry Column 35
+7633Computational Geometry Column 40
+Edit distance:2
+
+
+7616Computational Geometry Column 35
+7652Computational Geometry Column 44
+Edit distance:2
+
+
+7616Computational Geometry Column 35
+10564Computational Geometry Column 32
+Edit distance:1
+
+
+7623Computational Geometry Column 36
+7624Computational Geometry Column 37
+Edit distance:1
+
+
+7623Computational Geometry Column 36
+7633Computational Geometry Column 40
+Edit distance:2
+
+
+7623Computational Geometry Column 36
+7652Computational Geometry Column 44
+Edit distance:2
+
+
+7623Computational Geometry Column 36
+10564Computational Geometry Column 32
+Edit distance:1
+
+
+7624Computational Geometry Column 37
+7633Computational Geometry Column 40
+Edit distance:2
+
+
+7624Computational Geometry Column 37
+7652Computational Geometry Column 44
+Edit distance:2
+
+
+7624Computational Geometry Column 37
+10564Computational Geometry Column 32
+Edit distance:1
+
+
+7633Computational Geometry Column 40
+7652Computational Geometry Column 44
+Edit distance:1
+
+
+7633Computational Geometry Column 40
+10564Computational Geometry Column 32
+Edit distance:2
+
+
+7652Computational Geometry Column 44
+10564Computational Geometry Column 32
+Edit distance:2
+
+
+7653Testing Bipartiteness of Geometric Intersection Graphs
+21476Testing bipartiteness of geometric intersection graphs
+Edit distance:4
+
+
+7654Deterministic Sampling and Range Counting in Geometric Data Streams
+21518Deterministic sampling and range counting in geometric data streams
+Edit distance:6
+
+
+7679Squarepants in a Tree: Sum of Subtree Clustering and Hyperbolic Pants   Decomposition
+21428Squarepants in a tree: Sum of subtree clustering and hyperbolic pants decomposition
+Edit distance:8
+
+
+7874Diffuse Reflection Diameter in Simple Polygons
+7907Diffuse Reflection Radius in a Simple Polygon
+Edit distance:10
+
+
+8055Machine structure oriented control code logic
+22621Machine structure oriented control code logic.
+Edit distance:1
+
+
+8150Defect Prevention Approaches in Medium Scale it Enterprises
+8152Defect Prevention Approaches In Medium Scale It Enterprises
+Edit distance:2
+
+
+8234OpenVanilla - A Non-Intrusive Plug-In Framework of Text Services
+8235OpenVanilla - A Non-Intrusive Plug-In Framework of Text Services
+Edit distance:0
+
+
+8357Emotions in Pervasive Computing Environments
+8359Pervasive Emotions in Pervasive Computing Environments
+Edit distance:10
+
+
+8386World of Movable Objects. Part 1
+8387World of Movable Objects. Part 2
+Edit distance:1
+
+
+845210 Inventions on Keyboard key layout: A TRIZ based analysis
+845410 Inventions on keyboard attachments-A TRIZ based analysis
+Edit distance:12
+
+
+8501A Glance into the Future of Human Computer Interaction
+8502A Glance into the Future of Human Computer Interactions
+Edit distance:1
+
+
+8518Agent trade servers in financial exchange systems
+19034Agent trade servers in financial exchange systems
+Edit distance:0
+
+
+8624Detect adverse drug reactions for drug Pioglitazone
+8625Detect adverse drug reactions for drug Atorvastatin
+Edit distance:9
+
+
+8624Detect adverse drug reactions for drug Pioglitazone
+8647Detect adverse drug reactions for the drug Pravastatin
+Edit distance:12
+
+
+8625Detect adverse drug reactions for drug Atorvastatin
+8647Detect adverse drug reactions for the drug Pravastatin
+Edit distance:8
+
+
+8625Detect adverse drug reactions for drug Atorvastatin
+8773Detect Adverse Drug Reactions for Drug Aspirin
+Edit distance:12
+
+
+8625Detect adverse drug reactions for drug Atorvastatin
+8775Detecting adverse drug reactions for the drug Simvastatin
+Edit distance:11
+
+
+8647Detect adverse drug reactions for the drug Pravastatin
+8775Detecting adverse drug reactions for the drug Simvastatin
+Edit distance:6
+
+
+8832Randomized selection revisited
+21362Tile size selection revisited
+Edit distance:7
+
+
+8860Maintaining Information in Fully-Dynamic Trees with Top Trees
+20760Maintaining information in fully dynamic trees with top trees
+Edit distance:7
+
+
+8863Randomized selection with quintary partitions
+8864Randomized selection with tripartitioning
+Edit distance:10
+
+
+8878All Maximal Independent Sets and Dynamic Dominance for Sparse Graphs
+21419All maximal independent sets and dynamic dominance for sparse graphs
+Edit distance:7
+
+
+8923Randomized Fast Design of Short DNA Words
+21414Randomized fast design of short DNA words
+Edit distance:4
+
+
+8949Improved Approximate String Matching and Regular Expression Matching on   Ziv-Lempel Compressed Texts
+21410Improved approximate string matching and regular expression matching on Ziv-Lempel compressed texts
+Edit distance:10
+
+
+8972Straggler Identification in Round-Trip Data Streams via Newton's   Identities and Invertible Bloom Filters
+30600Straggler Identification in Round-Trip Data Streams via Newton's Identities and Invertible Bloom Filters.
+Edit distance:3
+
+
+8985Weighted Popular Matchings
+21621Weighted popular matchings
+Edit distance:2
+
+
+8994Pattern Matching in Trees and Strings
+21631Pattern Matching in Trees and Nets.
+Edit distance:7
+
+
+9218A compositional Semantics for CHR
+16003A compositional semantics for CHR
+Edit distance:1
+
+
+9314Linear-Logic Based Analysis of Constraint Handling Rules with   Disjunction
+16136Linear-Logic Based Analysis of Constraint Handling Rules with Disjunction
+Edit distance:2
+
+
+9467Kinematic Calibration of the Orthoglide-Type Mechanisms
+9535Kinematic calibration of orthoglide-type mechanisms
+Edit distance:8
+
+
+9468The Design of a Novel Prismatic Drive for a Three-DOF   Parallel-Kinematics Machine
+9671The Design of a Novel Prismatic Drive for a Three-DOF   Parallel-Kinematics Machine
+Edit distance:0
+
+
+9471The Isoconditioning Loci of Planar Three-DOF Parallel Manipulators
+9526The Isoconditioning Loci of Planar Three-DOF Parallel Manipulators
+Edit distance:0
+
+
+9496The Computation of All 4R Serial Spherical Wrists With an Isotropic   Architecture
+9518The Computation of All 4R Serial Spherical Wrists With an Isotropic   Architecture
+Edit distance:0
+
+
+9508A Six Degree-Of-Freedom Haptic Device Based On The Orthoglide And A   Hybrid Agile Eye
+9514A New Six Degree-of-Freedom Haptic Device based on the Orthoglide and   the Agile Eye
+Edit distance:17
+
+
+9510An Exhaustive Study of the Workspace Topologies of all 3R Orthogonal   Manipulators with Geometric Simplifications
+9525An Exhaustive Study of the Workspaces Tolopogies of all 3R Orthogonal   Manipulators with Geometric Simplifications
+Edit distance:3
+
+
+9521Parametric stiffness analysis of the Orthoglide
+9523Parametric Stiffness Analysis of the Orthoglide
+Edit distance:2
+
+
+9560Singularity Analysis of Limited-dof Parallel Manipulators using   Grassmann-Cayley Algebra
+9585Singularity Analysis of Lower-Mobility Parallel Manipulators Using   Grassmann-Cayley Algebra
+Edit distance:13
+
+
+9572A new muscle fatigue and recovery model and its ergonomics application   in human simulation
+9607A new muscle fatigue and recovery model and its ergonomics application   in human simulation
+Edit distance:0
+
+
+9623SNF Project Locomotion: Final report 2009-2010
+9624SNF Project Locomotion: Progress report 2008-2009
+Edit distance:11
+
+
+9809Access Pattern-Based Code Compression for Memory-Constrained Embedded   Systems
+17666Access pattern-based code compression for memory-constrained systems
+Edit distance:18
+
+
+10090Welfare Undominated Groves Mechanisms
+10296Undominated Groves Mechanisms
+Edit distance:8
+
+
+10222Single-Call Mechanisms
+11339Single-Call Mechanisms
+Edit distance:0
+
+
+10263Mechanism Design via Consensus Estimates, Cross Checking, and Profit   Extraction
+11370Mechanism Design via Consensus Estimates, Cross Checking, and Profit Extraction
+Edit distance:2
+
+
+10282Bounded-Distance Network Creation Games
+11332Bounded-Distance Network Creation Games
+Edit distance:0
+
+
+10285On Multiple Round Sponsored Search Auctions with Budgets
+11327On Multiple Keyword Sponsored Search Auctions with Budgets
+Edit distance:6
+
+
+10358Inverse Procedural Modeling of Facade Layouts
+14538Inverse procedural modeling of facade layouts
+Edit distance:4
+
+
+10359A Survey of Spline-based Volumetric Data Modeling Framework and Its   Applications
+10360A Spline-based Volumetric Data Modeling Framework and Its Applications
+Edit distance:12
+
+
+10387Gap Processing for Adaptive Maximal Poisson-Disk Sampling
+14856Gap processing for adaptive maximal poisson-disk sampling
+Edit distance:6
+
+
+10402Parallel Chen-Han (PCH) Algorithm for Discrete Geodesics
+14842Parallel chen-han (PCH) algorithm for discrete geodesics
+Edit distance:5
+
+
+10469Pushing the Limits of 3D Color Printing: Error Diffusion with   Translucent Materials
+14649Pushing the Limits of 3D Color Printing: Error Diffusion with Translucent Materials
+Edit distance:2
+
+
+10477Ebb: A DSL for Physical Simulation on CPUs and GPUs
+14286Ebb: A DSL for Physical Simulation on CPUs and GPUs
+Edit distance:0
+
+
+10491Printed Perforated Lampshades for Continuous Projective Images
+15118Printed Perforated Lampshades for Continuous Projective Images
+Edit distance:0
+
+
+10530Interpolations of Smoke and Liquid Simulations
+15107Interpolations of Smoke and Liquid Simulations
+Edit distance:0
+
+
+10585Spatiotemporal sensistivity and visual attention for efficient rendering   of dynamic environments
+12626Spatiotemporal sensitivity and visual attention for efficient rendering of dynamic environments
+Edit distance:3
+
+
+10669Preface: Special issue on measurement and modeling of computer systems
+16694Preface: Special issue on measurement and modeling of computer systems
+Edit distance:0
+
+
+10696Spatial Consensus Queries in a Collaborative Environment
+23102Spatial Consensus Queries in a Collaborative Environment.
+Edit distance:1
+
+
+10697Generating Moving Regions from Snapshots of Complex Regions
+23096Generating Moving Regions from Snapshots of Complex Regions.
+Edit distance:1
+
+
+10698Efficient Geo-Fencing via Hybrid Hashing: A Combination of Bucket Selection and In-Bucket Binary Search
+23095Efficient Geo-Fencing via Hybrid Hashing: A Combination of Bucket Selection and In-Bucket Binary Search.
+Edit distance:1
+
+
+10699Symbolic Trajectories
+23104Symbolic Trajectories.
+Edit distance:1
+
+
+10700TRIFL: A Generic Trajectory Index for Flash Storage
+23087TRIFL: A Generic Trajectory Index for Flash Storage.
+Edit distance:1
+
+
+10701Personalized Group Recommender Systems for Location- and Event-Based Social Networks
+23100Personalized Group Recommender Systems for Location- and Event-Based Social Networks.
+Edit distance:1
+
+
+10702Online Spatial Event Forecasting in Microblogs
+23105Online Spatial Event Forecasting in Microblogs.
+Edit distance:1
+
+
+10703Tilewise Accumulated Cost Surface Computation with Graphics Processing Units
+23094Tilewise Accumulated Cost Surface Computation with Graphics Processing Units.
+Edit distance:1
+
+
+10709Social Influence-Aware Reverse Nearest Neighbor Search
+23099Social Influence-Aware Reverse Nearest Neighbor Search.
+Edit distance:1
+
+
+10713Privacy-Aware Dynamic Ride Sharing
+23107Privacy-Aware Dynamic Ride Sharing.
+Edit distance:1
+
+
+10729Efficient Processing of Relevant Nearest-Neighbor Queries
+23091Efficient Processing of Relevant Nearest-Neighbor Queries.
+Edit distance:1
+
+
+10730Matching Labels and Markers in Historical Maps: An Algorithm with Interactive Postprocessing
+23097Matching Labels and Markers in Historical Maps: An Algorithm with Interactive Postprocessing.
+Edit distance:1
+
+
+10731On Local Expert Discovery via Geo-Located Crowds, Queries, and Candidates
+23106On Local Expert Discovery via Geo-Located Crowds, Queries, and Candidates.
+Edit distance:1
+
+
+10732Mining At Most Top-K&percnt; Spatiotemporal Co-occurrence Patterns in Datasets with Extended Spatial Representations
+23098Mining At Most Top-Kamp;percnt; Spatiotemporal Co-occurrence Patterns in Datasets with Extended Spatial Representations.
+Edit distance:5
+
+
+10734Protecting Against Velocity-Based, Proximity-Based, and External Event Attacks in Location-Centric Social Networks
+23103Protecting Against Velocity-Based, Proximity-Based, and External Event Attacks in Location-Centric Social Networks.
+Edit distance:1
+
+
+10735Simulating Our LifeSteps by Example
+23092Simulating Our LifeSteps by Example.
+Edit distance:1
+
+
+10738TerraNNI: Natural Neighbor Interpolation on 2D and 3D Grids Using a GPU
+23090TerraNNI: Natural Neighbor Interpolation on 2D and 3D Grids Using a GPU.
+Edit distance:1
+
+
+10739Location Estimation Using Crowdsourced Spatial Relations
+23086Location Estimation Using Crowdsourced Spatial Relations.
+Edit distance:1
+
+
+10742An Efficient External Memory Algorithm for Terrain Viewshed Computation
+23093An Efficient External Memory Algorithm for Terrain Viewshed Computation.
+Edit distance:1
+
+
+10743Snap Rounding with Restore: An Algorithm for Producing Robust Geometric Datasets
+23088Snap Rounding with Restore: An Algorithm for Producing Robust Geometric Datasets.
+Edit distance:1
+
+
+10744Area-Preserving Simplification and Schematization of Polygonal Subdivisions
+23108Area-Preserving Simplification and Schematization of Polygonal Subdivisions.
+Edit distance:1
+
+
+10745A Server-Assigned Spatial Crowdsourcing Framework
+23089A Server-Assigned Spatial Crowdsourcing Framework.
+Edit distance:1
+
+
+10746A Path-Based Distance for Street Map Comparison
+23101A Path-Based Distance for Street Map Comparison.
+Edit distance:1
+
+
+10747Multirow Boundary-Labeling Algorithms for Panorama Images
+23085Multirow Boundary-Labeling Algorithms for Panorama Images.
+Edit distance:1
+
+
+10944Adversarial Geospatial Abduction Problems
+10969GAPs: Geospatial Abduction Problems
+Edit distance:10
+
+
+11484Modeling and analysis of core-centric network processors
+11700Modeling and analysis of core-centric network processors
+Edit distance:0
+
+
+11503Accurate and fast system-level power modeling: An XScale-based case study
+11516Accurate and fast system-level power modeling: An XScale-based case study
+Edit distance:0
+
+
+11551Preface
+24070Preface.
+Edit distance:1
+
+
+11551Preface
+25545Preface.
+Edit distance:1
+
+
+11551Preface
+25781Preface.
+Edit distance:1
+
+
+11551Preface
+26163Preface.
+Edit distance:1
+
+
+11551Preface
+26198Preface.
+Edit distance:1
+
+
+11551Preface
+26810Preface.
+Edit distance:1
+
+
+11551Preface
+26907Preface.
+Edit distance:1
+
+
+11551Preface
+27132Preface.
+Edit distance:1
+
+
+11551Preface
+27318Preface.
+Edit distance:1
+
+
+12309F
+21303F
+Edit distance:0
+
+
+12347Blending algebraic surfaces
+12349Blending parametric surfaces
+Edit distance:6
+
+
+12405Multidimensional icons
+16945Multidimensional voting
+Edit distance:5
+
+
+12457Corrigendum: Topological considerations in isosurface generation
+12470Topological considerations in isosurface generation
+Edit distance:13
+
+
+12697Style-based inverse kinematics
+13169Mesh-based inverse kinematics
+Edit distance:5
+
+
+12739On 
+22973On 
+Edit distance:0
+
+
+12904Image-based tree modeling
+13054Image-based plant modeling
+Edit distance:5
+
+
+12904Image-based tree modeling
+13606Image-based façade modeling
+Edit distance:5
+
+
+13054Image-based plant modeling
+13606Image-based façade modeling
+Edit distance:5
+
+
+13247Discrete viscous threads
+13715Discrete viscous sheets
+Edit distance:4
+
+
+13331Toward evaluating material design interface paradigms for novice users
+13403Toward evaluating lighting design interface paradigms for novice users
+Edit distance:7
+
+
+13443Stochastic progressive photon mapping
+14005Adaptive progressive photon mapping
+Edit distance:8
+
+
+13478ℓ
+14827ℓ
+Edit distance:0
+
+
+13787Computational design of mechanical characters
+14596Computational design of linkage-based characters
+Edit distance:11
+
+
+13981A 
+16825A 
+Edit distance:0
+
+
+13995Exposing photo manipulation with inconsistent shadows
+14238Exposing photo manipulation with inconsistent reflections
+Edit distance:9
+
+
+14240Temporally coherent completion of dynamic shapes
+15045Temporally coherent completion of dynamic video
+Edit distance:5
+
+
+14454An 
+15866An 
+Edit distance:0
+
+
+14454An 
+17510An 
+Edit distance:0
+
+
+14454An 
+20754An 
+Edit distance:0
+
+
+14454An 
+21424An 
+Edit distance:0
+
+
+14454An 
+21465An 
+Edit distance:0
+
+
+14454An 
+22630An 
+Edit distance:0
+
+
+14753Bilateral blue noise sampling
+14872Stair blue noise sampling
+Edit distance:7
+
+
+15098The 
+16395The 
+Edit distance:0
+
+
+15098The 
+18401The 
+Edit distance:0
+
+
+15098The 
+18803The 
+Edit distance:0
+
+
+15098The 
+21497The 
+Edit distance:0
+
+
+15155Author index
+15163Author index
+Edit distance:0
+
+
+15155Author index
+16982Author Index
+Edit distance:1
+
+
+15155Author index
+19618Author Index
+Edit distance:1
+
+
+15155Author index
+19652Author Index
+Edit distance:1
+
+
+15163Author index
+16982Author Index
+Edit distance:1
+
+
+15163Author index
+19618Author Index
+Edit distance:1
+
+
+15163Author index
+19652Author Index
+Edit distance:1
+
+
+15200Appendices A--D: A scalable method for deductive generalization in the spreadsheet paradigm
+15201A scalable method for deductive generalization in the spreadsheet paradigm
+Edit distance:17
+
+
+152122002 Reviewers
+152312003 reviewers
+Edit distance:2
+
+
+152122002 Reviewers
+153252007 reviewers
+Edit distance:2
+
+
+152312003 reviewers
+153252007 reviewers
+Edit distance:1
+
+
+15520The Editor's Spotlight: TOCHI Issue 23:6
+15530The Editor's Spotlight: TOCHI Issue 24:1
+Edit distance:2
+
+
+15520The Editor's Spotlight: TOCHI Issue 23:6
+15543The Editor's Spotlight: TOCHI Issue 23:3
+Edit distance:1
+
+
+15520The Editor's Spotlight: TOCHI Issue 23:6
+15550The Editor's Spotlight: TOCHI Issue 23:4
+Edit distance:1
+
+
+15520The Editor's Spotlight: TOCHI Issue 23:6
+15555The Editor's Spotlight: TOCHI Issue 23:1
+Edit distance:1
+
+
+15520The Editor's Spotlight: TOCHI Issue 23:6
+15559The Editor's Spotlight: TOCHI Issue 23:2
+Edit distance:1
+
+
+15520The Editor's Spotlight: TOCHI Issue 23:6
+15577The Editor's Spotlight: TOCHI Issue 23:5
+Edit distance:1
+
+
+15530The Editor's Spotlight: TOCHI Issue 24:1
+15543The Editor's Spotlight: TOCHI Issue 23:3
+Edit distance:2
+
+
+15530The Editor's Spotlight: TOCHI Issue 24:1
+15550The Editor's Spotlight: TOCHI Issue 23:4
+Edit distance:2
+
+
+15530The Editor's Spotlight: TOCHI Issue 24:1
+15555The Editor's Spotlight: TOCHI Issue 23:1
+Edit distance:1
+
+
+15530The Editor's Spotlight: TOCHI Issue 24:1
+15559The Editor's Spotlight: TOCHI Issue 23:2
+Edit distance:2
+
+
+15530The Editor's Spotlight: TOCHI Issue 24:1
+15577The Editor's Spotlight: TOCHI Issue 23:5
+Edit distance:2
+
+
+15543The Editor's Spotlight: TOCHI Issue 23:3
+15550The Editor's Spotlight: TOCHI Issue 23:4
+Edit distance:1
+
+
+15543The Editor's Spotlight: TOCHI Issue 23:3
+15555The Editor's Spotlight: TOCHI Issue 23:1
+Edit distance:1
+
+
+15543The Editor's Spotlight: TOCHI Issue 23:3
+15559The Editor's Spotlight: TOCHI Issue 23:2
+Edit distance:1
+
+
+15543The Editor's Spotlight: TOCHI Issue 23:3
+15577The Editor's Spotlight: TOCHI Issue 23:5
+Edit distance:1
+
+
+15550The Editor's Spotlight: TOCHI Issue 23:4
+15555The Editor's Spotlight: TOCHI Issue 23:1
+Edit distance:1
+
+
+15550The Editor's Spotlight: TOCHI Issue 23:4
+15559The Editor's Spotlight: TOCHI Issue 23:2
+Edit distance:1
+
+
+15550The Editor's Spotlight: TOCHI Issue 23:4
+15577The Editor's Spotlight: TOCHI Issue 23:5
+Edit distance:1
+
+
+15555The Editor's Spotlight: TOCHI Issue 23:1
+15559The Editor's Spotlight: TOCHI Issue 23:2
+Edit distance:1
+
+
+15555The Editor's Spotlight: TOCHI Issue 23:1
+15577The Editor's Spotlight: TOCHI Issue 23:5
+Edit distance:1
+
+
+15559The Editor's Spotlight: TOCHI Issue 23:2
+15577The Editor's Spotlight: TOCHI Issue 23:5
+Edit distance:1
+
+
+15786Team Projects in Computing Education
+15839Team Projects in Computing Education
+Edit distance:0
+
+
+15866An 
+17510An 
+Edit distance:0
+
+
+15866An 
+20754An 
+Edit distance:0
+
+
+15866An 
+21424An 
+Edit distance:0
+
+
+15866An 
+21465An 
+Edit distance:0
+
+
+15866An 
+22630An 
+Edit distance:0
+
+
+15868LICS 2001 special issue
+15918LICS 2003 special issue
+Edit distance:1
+
+
+15868LICS 2001 special issue
+16198CSL 2008 special issue
+Edit distance:4
+
+
+15910Propositional computability logic II
+15914Propositional computability logic I
+Edit distance:1
+
+
+15912Ordinary interactive small-step algorithms, I
+16041Ordinary interactive small-step algorithms, II
+Edit distance:1
+
+
+15912Ordinary interactive small-step algorithms, I
+16042Ordinary interactive small-step algorithms, III
+Edit distance:2
+
+
+15918LICS 2003 special issue
+16198CSL 2008 special issue
+Edit distance:4
+
+
+15962Erratum to splitting an operator: Algebraic modularity results for logics with fixpoint semantics
+15986Splitting an operator: Algebraic modularity results for logics with fixpoint semantics
+Edit distance:12
+
+
+16041Ordinary interactive small-step algorithms, II
+16042Ordinary interactive small-step algorithms, III
+Edit distance:1
+
+
+16395The 
+18401The 
+Edit distance:0
+
+
+16395The 
+18803The 
+Edit distance:0
+
+
+16395The 
+21497The 
+Edit distance:0
+
+
+16643Comparative document summarization via discriminative sentence selection
+16644Comparative Document Summarization via Discriminative Sentence Selection
+Edit distance:5
+
+
+16804D
+40408D
+Edit distance:0
+
+
+16816P
+24052P
+Edit distance:0
+
+
+16837A distributed mutual exclusion algorithm
+16858A fast mutual exclusion algorithm
+Edit distance:9
+
+
+16837A distributed mutual exclusion algorithm
+22821A queue based mutual exclusion algorithm.
+Edit distance:9
+
+
+16859The distributed deadlock detection algorithm
+18180Distributed deadlock detection algorithm
+Edit distance:5
+
+
+16982Author Index
+19618Author Index
+Edit distance:0
+
+
+16982Author Index
+19652Author Index
+Edit distance:0
+
+
+17374Graph-based code selection techniques for embedded processors
+17584Huffman-based code compression techniques for embedded processors
+Edit distance:14
+
+
+17390A mapping algorithm for computer-assisted exploration in the design of embedded systems
+17684A note on “a mapping algorithm for computer-assisted exploration in the design of embedded systems”
+Edit distance:12
+
+
+17510An 
+20754An 
+Edit distance:0
+
+
+17510An 
+21424An 
+Edit distance:0
+
+
+17510An 
+21465An 
+Edit distance:0
+
+
+17510An 
+22630An 
+Edit distance:0
+
+
+17888Batched searching of sequential and tree structured files
+18347Comments on batched searching of sequential and tree-structured files
+Edit distance:14
+
+
+18152Spatial management of data
+33670Spatial Management Of Data
+Edit distance:3
+
+
+18199Security of statistical databases: multidimensional transformation
+18293Security of statistical databases: multidimensional transformation
+Edit distance:0
+
+
+18347Comments on batched searching of sequential and tree-structured files
+18399A unified analysis of batched searching of sequential and tree-structured files
+Edit distance:16
+
+
+18401The 
+18803The 
+Edit distance:0
+
+
+18401The 
+21497The 
+Edit distance:0
+
+
+18436On estimating the cardinality of the projection of a database relation
+18458A note on estimating the cardinality of the projection of a database relation
+Edit distance:8
+
+
+18673Inverting schema mappings
+18866Learning schema mappings
+Edit distance:5
+
+
+18803The 
+21497The 
+Edit distance:0
+
+
+19618Author Index
+19652Author Index
+Edit distance:0
+
+
+19803TOIS reviewers June 2007 through May 2008
+19849TOIS reviewers January 2006 through May 2007
+Edit distance:7
+
+
+20079Analyzing MAC protocols for low data-rate applications
+20081Analyzing MAC protocols for low data-rate applications
+Edit distance:0
+
+
+20173Optimal multiobjective placement of distributed sensors against moving targets
+20211Optimal placement of distributed sensors against moving targets
+Edit distance:15
+
+
+20307A Novel Algorithm for Distributed Localization in Wireless Sensor Networks
+39201A Novel Algorithm for Graded Precision Localization in Wireless Sensor Networks
+Edit distance:15
+
+
+20754An 
+21424An 
+Edit distance:0
+
+
+20754An 
+21465An 
+Edit distance:0
+
+
+20754An 
+22630An 
+Edit distance:0
+
+
+20783Problems column
+21375Problems column
+Edit distance:0
+
+
+20783Problems column
+21501Problems column
+Edit distance:0
+
+
+20800Welcome Message
+33463Welcome message
+Edit distance:1
+
+
+20800Welcome Message
+34157Welcome message
+Edit distance:1
+
+
+21088List of Distinguished Reviewers ACM TACO 2014
+21233List of distinguished reviewers ACM TACO
+Edit distance:7
+
+
+21088List of Distinguished Reviewers ACM TACO 2014
+21243List of Distinguished Reviewers ACM TACO 2014
+Edit distance:0
+
+
+21233List of distinguished reviewers ACM TACO
+21243List of Distinguished Reviewers ACM TACO 2014
+Edit distance:7
+
+
+21363E
+38001E
+Edit distance:0
+
+
+21375Problems column
+21501Problems column
+Edit distance:0
+
+
+21424An 
+21465An 
+Edit distance:0
+
+
+21424An 
+22630An 
+Edit distance:0
+
+
+21465An 
+22630An 
+Edit distance:0
+
+
+21474Improved results for data migration and open shop scheduling
+21609Corrigendum: Improved results for data migration and open shop scheduling
+Edit distance:13
+
+
+21492Finding the 
+22981Finding the 
+Edit distance:0
+
+
+21656Hex ist PSPACE-vollstandig.
+21717Gobang ist PSPACE-vollstandig.
+Edit distance:6
+
+
+21665Special issue on "Combining Compositionality and Concurrency": part 1.
+23051Special issue on "Combining Compositionality and Concurrency": part 2.
+Edit distance:1
+
+
+21730The Clean Termination of Iterative Programs.
+22551The Clean Termination of Pascal Programs.
+Edit distance:8
+
+
+21752Nonterminals, Homomorphisms and Codings in Different Variations of OL-Systems. I. Deterministic Systems.
+22909Nonterminals, Homomorphisms and Codings in Different Variations of OL-Systems. II. Nondeterministic Systems.
+Edit distance:5
+
+
+21766Maintaining Range Trees in Secondary Memory. Part I: Partitions.
+21969Maintaining Range Trees in Secondary Memory. Part II: Lower Bounds.
+Edit distance:10
+
+
+21790Optimum Multiway Search Trees.
+22523Optimum Binary Search Trees.
+Edit distance:6
+
+
+21849The Method of Attributes for Data Flow Analysis: Part II. Demand Analysis.
+22742The Method of Attributes for Data Flow Analysis: Part I. Exhaustive Analysis.
+Edit distance:10
+
+
+21890Maximum Entropy Two-Station Cyclic Queues with Multiple General Servers.
+22447Erratum: Maximum Entropy Two-Station Cyclic Queues with Multiple General Servers.
+Edit distance:9
+
+
+21890Maximum Entropy Two-Station Cyclic Queues with Multiple General Servers.
+22918Erratum: Maximum Entropy Two-Station Cyclic Queues with Multiple General Servers.
+Edit distance:9
+
+
+21892Toward Formal Development of Programs from Algebraic Specifications: Implementations Revisited.
+22591Toward Formal Development of Programs from Algebraic Specifications: Parameterisation Revisited.
+Edit distance:10
+
+
+21915On Procedures as Open Subroutines. I
+22879On Procedures as Open Subroutines. II.
+Edit distance:2
+
+
+21919A Note on Multi-queue Scheduling of Two Tasks.
+22931Multi-Queue Scheduling of Two Tasks.
+Edit distance:11
+
+
+21927Size-Depth Tradeoff in Monotone Boolean Formulae.
+22739Size-depht Tradeoff in Non-monotone Boolean Formulae.
+Edit distance:8
+
+
+21929Coincidental extension of scattered context languages.
+23006Erratum: Coincidental extension of scattered context languages.
+Edit distance:9
+
+
+21983Information Theoretic Approximations for the 
+22025Information Theoretic Approximations for 
+Edit distance:4
+
+
+22001Erratum: The size of random bucket trees via urn models.
+22479The size of random bucket trees via urn models.
+Edit distance:9
+
+
+22090Parallel LL parsing.
+22437Parallel LL parsing.
+Edit distance:0
+
+
+22094Erratum: Proving Properties of Pascal Programs in MIZAR 2.
+22972Proving Properties of Pascal Programs in MIZAR 2.
+Edit distance:9
+
+
+22158Grundlagen einer Theorie der Datenstrukturen und Zugriffssysteme. Teil I: Datenstrukturen und Schemata.
+22532Grundlagen einer Theorie der Datenstrukturen und Zugriffssysteme. Teil II: Zugriffssysteme.
+Edit distance:25
+
+
+22163Berechnung und Programm. I.
+22708Berechnung und Programm. II.
+Edit distance:1
+
+
+22220Relational Heuristics for the Design of Deterministic Programs.
+22661A Relational Approach to the Design of Deterministic Programs.
+Edit distance:12
+
+
+22249The Semigroups of Linearly Realizable Finite Automata I.
+22279The Semigroups of Linearly Realizable Finite Automata II.
+Edit distance:1
+
+
+22269Critical Comments on the Programming Language Pascal.
+22557More Comments on the Programming Language Pascal.
+Edit distance:8
+
+
+22283Addenda and Corrigenda: Formal Semantics of a Class of High-Level Primitives for Coordinating Concurrent Processes
+22431Formal Semantics of a Class of High-Level Primitives for Coordinating Concurrent Processes
+Edit distance:24
+
+
+22310A Model for Data Structures and Its Applications. I.
+23031A Model for Data Structures and its Applications. (Part II).
+Edit distance:9
+
+
+22318Transposition of Large Tabular Data Structures with Applications to Physical Database Organization.
+22923Transposition of Large Tabular Data Structures with Applications to Physical Database Organization.
+Edit distance:0
+
+
+22381Regenerative Simulation of Response Times in Networks of Queues: Statistical Efficiency.
+22598Regenerative Simulation of Response Times in Networks of Queues with Multiple Job Types.
+Edit distance:21
+
+
+22446General Purpose Schedulers for Database Systems.
+22975General Purpose Schedulers for Database System.
+Edit distance:1
+
+
+22447Erratum: Maximum Entropy Two-Station Cyclic Queues with Multiple General Servers.
+22918Erratum: Maximum Entropy Two-Station Cyclic Queues with Multiple General Servers.
+Edit distance:0
+
+
+22472Transformational Methods and their Application to Complexity Problems.
+22897Corrigenda: Transformational Methods and Their Application to Complexity Problems
+Edit distance:14
+
+
+22487Corrections to ``A Synthesis of Several Sorting Algorithms'' by J. Darlington.
+23039Remarks on "A Synthesis of Several Sorting Algorithms" by John Darlington.
+Edit distance:18
+
+
+22665On the Complexity of some Problems Concerning the Use of Procedures II.
+23064On the Complexity of Some Problems Concerning the Use of Procedures I.
+Edit distance:2
+
+
+23147Synthesis of Bi
+23544Synthesis of Sm
+Edit distance:2
+
+
+23262Synthesis of SrAl
+23544Synthesis of Sm
+Edit distance:3
+
+
+23701Editorial.
+23936Editorial.
+Edit distance:0
+
+
+23701Editorial.
+24036Editorial.
+Edit distance:0
+
+
+23701Editorial.
+24050Editorial.
+Edit distance:0
+
+
+23701Editorial.
+24283Editorial.
+Edit distance:0
+
+
+23701Editorial.
+24295Editorial.
+Edit distance:0
+
+
+23701Editorial.
+24490Editorial.
+Edit distance:0
+
+
+23701Editorial.
+24590Editorial.
+Edit distance:0
+
+
+23701Editorial.
+24596Editorial.
+Edit distance:0
+
+
+23701Editorial.
+24599Editorial.
+Edit distance:0
+
+
+23701Editorial.
+24734Editorial.
+Edit distance:0
+
+
+23701Editorial.
+24844Editorial.
+Edit distance:0
+
+
+23701Editorial.
+25833Editorial.
+Edit distance:0
+
+
+23701Editorial.
+25999Editorial.
+Edit distance:0
+
+
+23701Editorial.
+27016Editorial.
+Edit distance:0
+
+
+23701Editorial.
+27764Editorial.
+Edit distance:0
+
+
+23701Editorial.
+27847Editorial.
+Edit distance:0
+
+
+23701Editorial.
+28053Editorial.
+Edit distance:0
+
+
+23701Editorial.
+28342Editorial.
+Edit distance:0
+
+
+23701Editorial.
+29956Editorial.
+Edit distance:0
+
+
+23701Editorial.
+30433Editorial.
+Edit distance:0
+
+
+23701Editorial.
+30715Editorial.
+Edit distance:0
+
+
+23701Editorial.
+30735Editorial.
+Edit distance:0
+
+
+23731OWL/SWRL representation methodology for EXPRESS-driven product information model: Part II: Practice.
+24046OWL/SWRL representation methodology for EXPRESS-driven product information model: Part I. Implementation methodology.
+Edit distance:24
+
+
+23936Editorial.
+24036Editorial.
+Edit distance:0
+
+
+23936Editorial.
+24050Editorial.
+Edit distance:0
+
+
+23936Editorial.
+24283Editorial.
+Edit distance:0
+
+
+23936Editorial.
+24295Editorial.
+Edit distance:0
+
+
+23936Editorial.
+24490Editorial.
+Edit distance:0
+
+
+23936Editorial.
+24590Editorial.
+Edit distance:0
+
+
+23936Editorial.
+24596Editorial.
+Edit distance:0
+
+
+23936Editorial.
+24599Editorial.
+Edit distance:0
+
+
+23936Editorial.
+24734Editorial.
+Edit distance:0
+
+
+23936Editorial.
+24844Editorial.
+Edit distance:0
+
+
+23936Editorial.
+25833Editorial.
+Edit distance:0
+
+
+23936Editorial.
+25999Editorial.
+Edit distance:0
+
+
+23936Editorial.
+27016Editorial.
+Edit distance:0
+
+
+23936Editorial.
+27764Editorial.
+Edit distance:0
+
+
+23936Editorial.
+27847Editorial.
+Edit distance:0
+
+
+23936Editorial.
+28053Editorial.
+Edit distance:0
+
+
+23936Editorial.
+28342Editorial.
+Edit distance:0
+
+
+23936Editorial.
+29956Editorial.
+Edit distance:0
+
+
+23936Editorial.
+30433Editorial.
+Edit distance:0
+
+
+23936Editorial.
+30715Editorial.
+Edit distance:0
+
+
+23936Editorial.
+30735Editorial.
+Edit distance:0
+
+
+24020Corrigendum to "Supporting conflict management in collaborative design: An approach to assess engineering change impacts" [Computers in Industry 59 (2008) 882-893].
+24238Corrigendum to "Supporting conflict management in collaborative design: An approach to assess engineering change impacts" [Computers in Industry 59 (9) (2008) 882-893].
+Edit distance:4
+
+
+24036Editorial.
+24050Editorial.
+Edit distance:0
+
+
+24036Editorial.
+24283Editorial.
+Edit distance:0
+
+
+24036Editorial.
+24295Editorial.
+Edit distance:0
+
+
+24036Editorial.
+24490Editorial.
+Edit distance:0
+
+
+24036Editorial.
+24590Editorial.
+Edit distance:0
+
+
+24036Editorial.
+24596Editorial.
+Edit distance:0
+
+
+24036Editorial.
+24599Editorial.
+Edit distance:0
+
+
+24036Editorial.
+24734Editorial.
+Edit distance:0
+
+
+24036Editorial.
+24844Editorial.
+Edit distance:0
+
+
+24036Editorial.
+25833Editorial.
+Edit distance:0
+
+
+24036Editorial.
+25999Editorial.
+Edit distance:0
+
+
+24036Editorial.
+27016Editorial.
+Edit distance:0
+
+
+24036Editorial.
+27764Editorial.
+Edit distance:0
+
+
+24036Editorial.
+27847Editorial.
+Edit distance:0
+
+
+24036Editorial.
+28053Editorial.
+Edit distance:0
+
+
+24036Editorial.
+28342Editorial.
+Edit distance:0
+
+
+24036Editorial.
+29956Editorial.
+Edit distance:0
+
+
+24036Editorial.
+30433Editorial.
+Edit distance:0
+
+
+24036Editorial.
+30715Editorial.
+Edit distance:0
+
+
+24036Editorial.
+30735Editorial.
+Edit distance:0
+
+
+24050Editorial.
+24283Editorial.
+Edit distance:0
+
+
+24050Editorial.
+24295Editorial.
+Edit distance:0
+
+
+24050Editorial.
+24490Editorial.
+Edit distance:0
+
+
+24050Editorial.
+24590Editorial.
+Edit distance:0
+
+
+24050Editorial.
+24596Editorial.
+Edit distance:0
+
+
+24050Editorial.
+24599Editorial.
+Edit distance:0
+
+
+24050Editorial.
+24734Editorial.
+Edit distance:0
+
+
+24050Editorial.
+24844Editorial.
+Edit distance:0
+
+
+24050Editorial.
+25833Editorial.
+Edit distance:0
+
+
+24050Editorial.
+25999Editorial.
+Edit distance:0
+
+
+24050Editorial.
+27016Editorial.
+Edit distance:0
+
+
+24050Editorial.
+27764Editorial.
+Edit distance:0
+
+
+24050Editorial.
+27847Editorial.
+Edit distance:0
+
+
+24050Editorial.
+28053Editorial.
+Edit distance:0
+
+
+24050Editorial.
+28342Editorial.
+Edit distance:0
+
+
+24050Editorial.
+29956Editorial.
+Edit distance:0
+
+
+24050Editorial.
+30433Editorial.
+Edit distance:0
+
+
+24050Editorial.
+30715Editorial.
+Edit distance:0
+
+
+24050Editorial.
+30735Editorial.
+Edit distance:0
+
+
+24070Preface.
+25545Preface.
+Edit distance:0
+
+
+24070Preface.
+25781Preface.
+Edit distance:0
+
+
+24070Preface.
+26163Preface.
+Edit distance:0
+
+
+24070Preface.
+26198Preface.
+Edit distance:0
+
+
+24070Preface.
+26810Preface.
+Edit distance:0
+
+
+24070Preface.
+26907Preface.
+Edit distance:0
+
+
+24070Preface.
+27132Preface.
+Edit distance:0
+
+
+24070Preface.
+27318Preface.
+Edit distance:0
+
+
+24283Editorial.
+24295Editorial.
+Edit distance:0
+
+
+24283Editorial.
+24490Editorial.
+Edit distance:0
+
+
+24283Editorial.
+24590Editorial.
+Edit distance:0
+
+
+24283Editorial.
+24596Editorial.
+Edit distance:0
+
+
+24283Editorial.
+24599Editorial.
+Edit distance:0
+
+
+24283Editorial.
+24734Editorial.
+Edit distance:0
+
+
+24283Editorial.
+24844Editorial.
+Edit distance:0
+
+
+24283Editorial.
+25833Editorial.
+Edit distance:0
+
+
+24283Editorial.
+25999Editorial.
+Edit distance:0
+
+
+24283Editorial.
+27016Editorial.
+Edit distance:0
+
+
+24283Editorial.
+27764Editorial.
+Edit distance:0
+
+
+24283Editorial.
+27847Editorial.
+Edit distance:0
+
+
+24283Editorial.
+28053Editorial.
+Edit distance:0
+
+
+24283Editorial.
+28342Editorial.
+Edit distance:0
+
+
+24283Editorial.
+29956Editorial.
+Edit distance:0
+
+
+24283Editorial.
+30433Editorial.
+Edit distance:0
+
+
+24283Editorial.
+30715Editorial.
+Edit distance:0
+
+
+24283Editorial.
+30735Editorial.
+Edit distance:0
+
+
+24295Editorial.
+24490Editorial.
+Edit distance:0
+
+
+24295Editorial.
+24590Editorial.
+Edit distance:0
+
+
+24295Editorial.
+24596Editorial.
+Edit distance:0
+
+
+24295Editorial.
+24599Editorial.
+Edit distance:0
+
+
+24295Editorial.
+24734Editorial.
+Edit distance:0
+
+
+24295Editorial.
+24844Editorial.
+Edit distance:0
+
+
+24295Editorial.
+25833Editorial.
+Edit distance:0
+
+
+24295Editorial.
+25999Editorial.
+Edit distance:0
+
+
+24295Editorial.
+27016Editorial.
+Edit distance:0
+
+
+24295Editorial.
+27764Editorial.
+Edit distance:0
+
+
+24295Editorial.
+27847Editorial.
+Edit distance:0
+
+
+24295Editorial.
+28053Editorial.
+Edit distance:0
+
+
+24295Editorial.
+28342Editorial.
+Edit distance:0
+
+
+24295Editorial.
+29956Editorial.
+Edit distance:0
+
+
+24295Editorial.
+30433Editorial.
+Edit distance:0
+
+
+24295Editorial.
+30715Editorial.
+Edit distance:0
+
+
+24295Editorial.
+30735Editorial.
+Edit distance:0
+
+
+24410Guest Editorial.
+26013Guest editorial.
+Edit distance:1
+
+
+24410Guest Editorial.
+27519Guest editorial.
+Edit distance:1
+
+
+24470A versatile virtual prototyping system for rapid product development.
+24641A layer-based virtual prototyping system for product development.
+Edit distance:15
+
+
+24490Editorial.
+24590Editorial.
+Edit distance:0
+
+
+24490Editorial.
+24596Editorial.
+Edit distance:0
+
+
+24490Editorial.
+24599Editorial.
+Edit distance:0
+
+
+24490Editorial.
+24734Editorial.
+Edit distance:0
+
+
+24490Editorial.
+24844Editorial.
+Edit distance:0
+
+
+24490Editorial.
+25833Editorial.
+Edit distance:0
+
+
+24490Editorial.
+25999Editorial.
+Edit distance:0
+
+
+24490Editorial.
+27016Editorial.
+Edit distance:0
+
+
+24490Editorial.
+27764Editorial.
+Edit distance:0
+
+
+24490Editorial.
+27847Editorial.
+Edit distance:0
+
+
+24490Editorial.
+28053Editorial.
+Edit distance:0
+
+
+24490Editorial.
+28342Editorial.
+Edit distance:0
+
+
+24490Editorial.
+29956Editorial.
+Edit distance:0
+
+
+24490Editorial.
+30433Editorial.
+Edit distance:0
+
+
+24490Editorial.
+30715Editorial.
+Edit distance:0
+
+
+24490Editorial.
+30735Editorial.
+Edit distance:0
+
+
+24590Editorial.
+24596Editorial.
+Edit distance:0
+
+
+24590Editorial.
+24599Editorial.
+Edit distance:0
+
+
+24590Editorial.
+24734Editorial.
+Edit distance:0
+
+
+24590Editorial.
+24844Editorial.
+Edit distance:0
+
+
+24590Editorial.
+25833Editorial.
+Edit distance:0
+
+
+24590Editorial.
+25999Editorial.
+Edit distance:0
+
+
+24590Editorial.
+27016Editorial.
+Edit distance:0
+
+
+24590Editorial.
+27764Editorial.
+Edit distance:0
+
+
+24590Editorial.
+27847Editorial.
+Edit distance:0
+
+
+24590Editorial.
+28053Editorial.
+Edit distance:0
+
+
+24590Editorial.
+28342Editorial.
+Edit distance:0
+
+
+24590Editorial.
+29956Editorial.
+Edit distance:0
+
+
+24590Editorial.
+30433Editorial.
+Edit distance:0
+
+
+24590Editorial.
+30715Editorial.
+Edit distance:0
+
+
+24590Editorial.
+30735Editorial.
+Edit distance:0
+
+
+24596Editorial.
+24599Editorial.
+Edit distance:0
+
+
+24596Editorial.
+24734Editorial.
+Edit distance:0
+
+
+24596Editorial.
+24844Editorial.
+Edit distance:0
+
+
+24596Editorial.
+25833Editorial.
+Edit distance:0
+
+
+24596Editorial.
+25999Editorial.
+Edit distance:0
+
+
+24596Editorial.
+27016Editorial.
+Edit distance:0
+
+
+24596Editorial.
+27764Editorial.
+Edit distance:0
+
+
+24596Editorial.
+27847Editorial.
+Edit distance:0
+
+
+24596Editorial.
+28053Editorial.
+Edit distance:0
+
+
+24596Editorial.
+28342Editorial.
+Edit distance:0
+
+
+24596Editorial.
+29956Editorial.
+Edit distance:0
+
+
+24596Editorial.
+30433Editorial.
+Edit distance:0
+
+
+24596Editorial.
+30715Editorial.
+Edit distance:0
+
+
+24596Editorial.
+30735Editorial.
+Edit distance:0
+
+
+24599Editorial.
+24734Editorial.
+Edit distance:0
+
+
+24599Editorial.
+24844Editorial.
+Edit distance:0
+
+
+24599Editorial.
+25833Editorial.
+Edit distance:0
+
+
+24599Editorial.
+25999Editorial.
+Edit distance:0
+
+
+24599Editorial.
+27016Editorial.
+Edit distance:0
+
+
+24599Editorial.
+27764Editorial.
+Edit distance:0
+
+
+24599Editorial.
+27847Editorial.
+Edit distance:0
+
+
+24599Editorial.
+28053Editorial.
+Edit distance:0
+
+
+24599Editorial.
+28342Editorial.
+Edit distance:0
+
+
+24599Editorial.
+29956Editorial.
+Edit distance:0
+
+
+24599Editorial.
+30433Editorial.
+Edit distance:0
+
+
+24599Editorial.
+30715Editorial.
+Edit distance:0
+
+
+24599Editorial.
+30735Editorial.
+Edit distance:0
+
+
+24734Editorial.
+24844Editorial.
+Edit distance:0
+
+
+24734Editorial.
+25833Editorial.
+Edit distance:0
+
+
+24734Editorial.
+25999Editorial.
+Edit distance:0
+
+
+24734Editorial.
+27016Editorial.
+Edit distance:0
+
+
+24734Editorial.
+27764Editorial.
+Edit distance:0
+
+
+24734Editorial.
+27847Editorial.
+Edit distance:0
+
+
+24734Editorial.
+28053Editorial.
+Edit distance:0
+
+
+24734Editorial.
+28342Editorial.
+Edit distance:0
+
+
+24734Editorial.
+29956Editorial.
+Edit distance:0
+
+
+24734Editorial.
+30433Editorial.
+Edit distance:0
+
+
+24734Editorial.
+30715Editorial.
+Edit distance:0
+
+
+24734Editorial.
+30735Editorial.
+Edit distance:0
+
+
+24816Editorial of the Special Issue on CSCW in Design.
+28635Editorial of the Special Issue on Digital Cities.
+Edit distance:12
+
+
+24844Editorial.
+25833Editorial.
+Edit distance:0
+
+
+24844Editorial.
+25999Editorial.
+Edit distance:0
+
+
+24844Editorial.
+27016Editorial.
+Edit distance:0
+
+
+24844Editorial.
+27764Editorial.
+Edit distance:0
+
+
+24844Editorial.
+27847Editorial.
+Edit distance:0
+
+
+24844Editorial.
+28053Editorial.
+Edit distance:0
+
+
+24844Editorial.
+28342Editorial.
+Edit distance:0
+
+
+24844Editorial.
+29956Editorial.
+Edit distance:0
+
+
+24844Editorial.
+30433Editorial.
+Edit distance:0
+
+
+24844Editorial.
+30715Editorial.
+Edit distance:0
+
+
+24844Editorial.
+30735Editorial.
+Edit distance:0
+
+
+25196Special section: Scalable information systems.
+27328Special Section: Scalable information systems.
+Edit distance:1
+
+
+25248Geometric numerical algorithms.
+27140Selected numerical algorithms.
+Edit distance:7
+
+
+25453To the Readers.
+26129To the Readers.
+Edit distance:0
+
+
+25460Parallel computing technologies.
+27217Parallel computing technologies.
+Edit distance:0
+
+
+25460Parallel computing technologies.
+28064Parallel computing technologies.
+Edit distance:0
+
+
+25545Preface.
+25781Preface.
+Edit distance:0
+
+
+25545Preface.
+26163Preface.
+Edit distance:0
+
+
+25545Preface.
+26198Preface.
+Edit distance:0
+
+
+25545Preface.
+26810Preface.
+Edit distance:0
+
+
+25545Preface.
+26907Preface.
+Edit distance:0
+
+
+25545Preface.
+27132Preface.
+Edit distance:0
+
+
+25545Preface.
+27318Preface.
+Edit distance:0
+
+
+25551Models and data engineering.
+26516Models and data engineering.
+Edit distance:0
+
+
+25708Economics of computing services.
+26128Economics of computing services.
+Edit distance:0
+
+
+25712Introduction.
+26788Introduction.
+Edit distance:0
+
+
+25721Cyber physical systems technologies and applications.
+27579Cyber-physical systems technologies and application - Part II.
+Edit distance:11
+
+
+25781Preface.
+26163Preface.
+Edit distance:0
+
+
+25781Preface.
+26198Preface.
+Edit distance:0
+
+
+25781Preface.
+26810Preface.
+Edit distance:0
+
+
+25781Preface.
+26907Preface.
+Edit distance:0
+
+
+25781Preface.
+27132Preface.
+Edit distance:0
+
+
+25781Preface.
+27318Preface.
+Edit distance:0
+
+
+25833Editorial.
+25999Editorial.
+Edit distance:0
+
+
+25833Editorial.
+27016Editorial.
+Edit distance:0
+
+
+25833Editorial.
+27764Editorial.
+Edit distance:0
+
+
+25833Editorial.
+27847Editorial.
+Edit distance:0
+
+
+25833Editorial.
+28053Editorial.
+Edit distance:0
+
+
+25833Editorial.
+28342Editorial.
+Edit distance:0
+
+
+25833Editorial.
+29956Editorial.
+Edit distance:0
+
+
+25833Editorial.
+30433Editorial.
+Edit distance:0
+
+
+25833Editorial.
+30715Editorial.
+Edit distance:0
+
+
+25833Editorial.
+30735Editorial.
+Edit distance:0
+
+
+25999Editorial.
+27016Editorial.
+Edit distance:0
+
+
+25999Editorial.
+27764Editorial.
+Edit distance:0
+
+
+25999Editorial.
+27847Editorial.
+Edit distance:0
+
+
+25999Editorial.
+28053Editorial.
+Edit distance:0
+
+
+25999Editorial.
+28342Editorial.
+Edit distance:0
+
+
+25999Editorial.
+29956Editorial.
+Edit distance:0
+
+
+25999Editorial.
+30433Editorial.
+Edit distance:0
+
+
+25999Editorial.
+30715Editorial.
+Edit distance:0
+
+
+25999Editorial.
+30735Editorial.
+Edit distance:0
+
+
+26013Guest editorial.
+27519Guest editorial.
+Edit distance:0
+
+
+26049Foreword.
+30691Foreword.
+Edit distance:0
+
+
+26163Preface.
+26198Preface.
+Edit distance:0
+
+
+26163Preface.
+26810Preface.
+Edit distance:0
+
+
+26163Preface.
+26907Preface.
+Edit distance:0
+
+
+26163Preface.
+27132Preface.
+Edit distance:0
+
+
+26163Preface.
+27318Preface.
+Edit distance:0
+
+
+26198Preface.
+26810Preface.
+Edit distance:0
+
+
+26198Preface.
+26907Preface.
+Edit distance:0
+
+
+26198Preface.
+27132Preface.
+Edit distance:0
+
+
+26198Preface.
+27318Preface.
+Edit distance:0
+
+
+26370Special section: Green computing.
+27308Special Section: Trusted computing.
+Edit distance:6
+
+
+26765High Performance Computing and Networking Europe 1997.
+27181High Performance Computing and Networking Europe 1999.
+Edit distance:1
+
+
+26765High Performance Computing and Networking Europe 1997.
+27409High-Performance Computing and Networking Europe 1998.
+Edit distance:2
+
+
+26810Preface.
+26907Preface.
+Edit distance:0
+
+
+26810Preface.
+27132Preface.
+Edit distance:0
+
+
+26810Preface.
+27318Preface.
+Edit distance:0
+
+
+26907Preface.
+27132Preface.
+Edit distance:0
+
+
+26907Preface.
+27318Preface.
+Edit distance:0
+
+
+27016Editorial.
+27764Editorial.
+Edit distance:0
+
+
+27016Editorial.
+27847Editorial.
+Edit distance:0
+
+
+27016Editorial.
+28053Editorial.
+Edit distance:0
+
+
+27016Editorial.
+28342Editorial.
+Edit distance:0
+
+
+27016Editorial.
+29956Editorial.
+Edit distance:0
+
+
+27016Editorial.
+30433Editorial.
+Edit distance:0
+
+
+27016Editorial.
+30715Editorial.
+Edit distance:0
+
+
+27016Editorial.
+30735Editorial.
+Edit distance:0
+
+
+27132Preface.
+27318Preface.
+Edit distance:0
+
+
+27181High Performance Computing and Networking Europe 1999.
+27409High-Performance Computing and Networking Europe 1998.
+Edit distance:2
+
+
+27217Parallel computing technologies.
+28064Parallel computing technologies.
+Edit distance:0
+
+
+27468Welcome.
+35932Welcome!
+Edit distance:1
+
+
+27468Welcome.
+38656Welcome
+Edit distance:1
+
+
+27764Editorial.
+27847Editorial.
+Edit distance:0
+
+
+27764Editorial.
+28053Editorial.
+Edit distance:0
+
+
+27764Editorial.
+28342Editorial.
+Edit distance:0
+
+
+27764Editorial.
+29956Editorial.
+Edit distance:0
+
+
+27764Editorial.
+30433Editorial.
+Edit distance:0
+
+
+27764Editorial.
+30715Editorial.
+Edit distance:0
+
+
+27764Editorial.
+30735Editorial.
+Edit distance:0
+
+
+27847Editorial.
+28053Editorial.
+Edit distance:0
+
+
+27847Editorial.
+28342Editorial.
+Edit distance:0
+
+
+27847Editorial.
+29956Editorial.
+Edit distance:0
+
+
+27847Editorial.
+30433Editorial.
+Edit distance:0
+
+
+27847Editorial.
+30715Editorial.
+Edit distance:0
+
+
+27847Editorial.
+30735Editorial.
+Edit distance:0
+
+
+28053Editorial.
+28342Editorial.
+Edit distance:0
+
+
+28053Editorial.
+29956Editorial.
+Edit distance:0
+
+
+28053Editorial.
+30433Editorial.
+Edit distance:0
+
+
+28053Editorial.
+30715Editorial.
+Edit distance:0
+
+
+28053Editorial.
+30735Editorial.
+Edit distance:0
+
+
+28342Editorial.
+29956Editorial.
+Edit distance:0
+
+
+28342Editorial.
+30433Editorial.
+Edit distance:0
+
+
+28342Editorial.
+30715Editorial.
+Edit distance:0
+
+
+28342Editorial.
+30735Editorial.
+Edit distance:0
+
+
+28818Book Reviews.
+28828Book Reviews.
+Edit distance:0
+
+
+29956Editorial.
+30433Editorial.
+Edit distance:0
+
+
+29956Editorial.
+30715Editorial.
+Edit distance:0
+
+
+29956Editorial.
+30735Editorial.
+Edit distance:0
+
+
+30364Corrections to "An Efficient Algorithm for Matching Multiple Patterns".
+30461An Efficient Algorithm for Matching Multiple Patterns.
+Edit distance:17
+
+
+30374MPGS: An Interactive Tool for the Specification and Generation of Multimedia Presentations.
+31573Correction to 'MPGS: An Interactive Tool for the Specification and Generation of Multimedia Presentations'.
+Edit distance:16
+
+
+30408Editorial: Introducing the New Editor-in-Chief of IEEE Transactions on Knowledge and Data Engineering.
+31047Introducing the New Editor-in-Chief of the IEEE Transactions on Knowledge and Data Engineering.
+Edit distance:15
+
+
+30408Editorial: Introducing the New Editor-in-Chief of IEEE Transactions on Knowledge and Data Engineering.
+31430Editorial: Four Named to Join Editorial Board of IEEE Transactions on Knowledge and Data Engineering.
+Edit distance:25
+
+
+30433Editorial.
+30715Editorial.
+Edit distance:0
+
+
+30433Editorial.
+30735Editorial.
+Edit distance:0
+
+
+30531EIC Editorial: TKDE Editorial Board Changes.
+30801EIC Editorial: 2007 TKDE Editorial Board Changes.
+Edit distance:5
+
+
+30532Correction to "A Family of Directional Relation Models for Extended Objects".
+30538A Family of Directional Relation Models for Extended Objects.
+Edit distance:16
+
+
+30715Editorial.
+30735Editorial.
+Edit distance:0
+
+
+30737New EIC Editorial.
+30795EIC Editorial.
+Edit distance:4
+
+
+30854Correction to 'Automating Statistics Management for Query Optimizers'.
+31057Automating Statistics Management for Query Optimizers.
+Edit distance:16
+
+
+31125EIC Editorial: State of the Transactions.
+31461Editorial [State of the Transactions].
+Edit distance:7
+
+
+32121Message from the organizing committee chair
+32122Message from the advisory committee chair
+Edit distance:9
+
+
+32121Message from the organizing committee chair
+32123Message from the program committee chairs
+Edit distance:10
+
+
+32121Message from the organizing committee chair
+33954Message organizing committee chair
+Edit distance:9
+
+
+32122Message from the advisory committee chair
+32123Message from the program committee chairs
+Edit distance:9
+
+
+32576Special sessions
+38047Special sessions
+Edit distance:0
+
+
+33198Stateflow a useful tool for developing new logic algorithms. Case study: Building a state machine for windscreens. Hardware system
+33199Stateflow a useful tool for developing new logic algorithms. Case study: Building a state machine for windscreens. Software system
+Edit distance:4
+
+
+33463Welcome message
+34157Welcome message
+Edit distance:0
+
+
+33617Message from the chairs
+38617Message from the Chairs
+Edit distance:1
+
+
+33646Desktop virtualization: Path to pervasive computing in cloud computing era
+37385Desktop virtualization: Path to pervasive computing in cloud computing era
+Edit distance:0
+
+
+33703The extended supply chain: A virtual collaborative ecosystem to enhance and drive innovation
+37386The extended supply chain: A virtual collaborative ecosystem to enhance and drive innovation
+Edit distance:0
+
+
+33713Pervasive / ubiquitously connected
+37391Pervasive / ubiquitously connected
+Edit distance:0
+
+
+34445Invited Talks
+34625Invited Talks
+Edit distance:0
+
+
+34445Invited Talks
+37414Invited talk
+Edit distance:2
+
+
+34445Invited Talks
+39790Invited talks
+Edit distance:1
+
+
+34445Invited Talks
+40331Invited Talk
+Edit distance:1
+
+
+34625Invited Talks
+37414Invited talk
+Edit distance:2
+
+
+34625Invited Talks
+39790Invited talks
+Edit distance:1
+
+
+34625Invited Talks
+40331Invited Talk
+Edit distance:1
+
+
+34903Message from program co-chairs
+34921Message from program chair
+Edit distance:4
+
+
+34904A message from the conference chair
+34922Message from conference chair
+Edit distance:7
+
+
+34921Message from program chair
+36860Message from the program chair
+Edit distance:4
+
+
+34940Invited Talk by SSCPS Workshop
+34942Invited Talk by VVASS Workshop
+Edit distance:4
+
+
+34940Invited Talk by SSCPS Workshop
+34947Invited Talk by SSCPS Workshop
+Edit distance:0
+
+
+34940Invited Talk by SSCPS Workshop
+34948Invited Talk by VVASS Workshop
+Edit distance:4
+
+
+34942Invited Talk by VVASS Workshop
+34947Invited Talk by SSCPS Workshop
+Edit distance:4
+
+
+34942Invited Talk by VVASS Workshop
+34948Invited Talk by VVASS Workshop
+Edit distance:0
+
+
+34947Invited Talk by SSCPS Workshop
+34948Invited Talk by VVASS Workshop
+Edit distance:4
+
+
+35015Cover
+37711Cover
+Edit distance:0
+
+
+35015Cover
+39068Covers
+Edit distance:1
+
+
+35036Graphene for microelectronics: Can it make a difference?
+35037Graphene for microelectronics: Can it make a difference?
+Edit distance:0
+
+
+35094Advancing high performance heterogeneous integration through die stacking
+35099Advancing high performance heterogeneous integration through die stacking
+Edit distance:0
+
+
+35095Solid-state and biological systems interface
+35098Solid-State and biological systems interface
+Edit distance:1
+
+
+35096The industrialization of the Silicon Photonics: Technology road map and applications
+35100The industrialization of the Silicon Photonics: Technology road map and applications
+Edit distance:0
+
+
+35097Future silicon technology
+35102Future silicon technology
+Edit distance:0
+
+
+35530Program committee
+35929Program committee
+Edit distance:0
+
+
+35533Precision agriculture applications using wireless moisture sensor network
+39586IoT in Precision Agriculture applications using Wireless Moisture Sensor Network
+Edit distance:12
+
+
+35755The IEE seminar on security of distributed control systems
+35757IEE Seminar on Security of Distributed Control Systems
+Edit distance:9
+
+
+35900Implementation considerations for SDF technique
+35902Scale factor considerations for SDF technique
+Edit distance:10
+
+
+35932Welcome!
+38656Welcome
+Edit distance:1
+
+
+36853Message from the general chair
+36860Message from the program chair
+Edit distance:5
+
+
+37319Applying decorator design pattern for MEMS program model creation
+37381Applying composite design pattern for MEMS program model creation
+Edit distance:8
+
+
+37414Invited talk
+39790Invited talks
+Edit distance:1
+
+
+37414Invited talk
+40331Invited Talk
+Edit distance:1
+
+
+37711Cover
+39068Covers
+Edit distance:1
+
+
+37852Compendium of Single Event Effects Radiation Test Results from Ball Aerospace & Technologies Corp.
+37854Compendium of Total Ionizing Dose Radiation Test Results from Ball Aerospace & Technologies Corp.
+Edit distance:17
+
+
+38782Understanding the design variables that contribute to the response of a prosthetic foot: Part II — Rig validation
+38787Understanding the design variables that contribute to the response of a prosthetic foot: Part I — Rig design
+Edit distance:8
+
+
+39031Short term load forecasting by artificial neural network
+39513Short-term load forecasting using an artificial neural network
+Edit distance:9
+
+
+39512Short-term load forecasting using diagonal recurrent neural network
+39513Short-term load forecasting using an artificial neural network
+Edit distance:15
+
+
+39513Short-term load forecasting using an artificial neural network
+39514Short-term system load forecasting using an artificial neural network
+Edit distance:7
+
+
+39790Invited talks
+40331Invited Talk
+Edit distance:2
+
+
+40994Non-clausal Multi-ary alpha-Ordered Linear Generalized Resolution Method for Lattice-Valued First-Order Logic
+41014Non-clausal Multi-ary alpha-Generalized Resolution Principle for a Lattice-Valued First-Order Logic
+Edit distance:26
+
+
+Total: 764

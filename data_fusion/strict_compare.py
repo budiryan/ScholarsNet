@@ -24,13 +24,22 @@ with open('strict_compare.txt', 'w') as f:
             if s1 == s2:
                 f.write(str(i) + ' ' + str(j) + '\n')
                 print(str(i) + ' ' + str(j) + '\n')
-                f.write(entries[i][0] + '\n')
-                print(entries[i][0] + '\n')
-                f.write(entries[j][0] + '\n')
-                print(entries[j][0] + '\n')
-                f.write('\n\n')
+
+                if entries[i][0] is None:
+                    f.write('title1: null' + '\n')
+                    print('title1: null' + '\n')
+                else:
+                    f.write('title1: ' + entries[i][0] + '\n')
+                    print('title1: ' + entries[i][0] + '\n')
+
+                if entries[j][0] is None:
+                    f.write('title2: null' + '\n')
+                    print('title2: null' + '\n')
+                else:
+                    f.write('title2: ' + entries[j][0] + '\n')
+                    print('title2: ' + entries[j][0] + '\n')
+
                 print('\n')
                 count += 1
 
     f.write('Total: ' + str(count))
-

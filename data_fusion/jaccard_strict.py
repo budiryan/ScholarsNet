@@ -28,16 +28,27 @@ with open(output_file, 'w') as f:
             try:
                 jaccard_sim = float(intersection / union)
             except ZeroDivisionError:
-                jaccard_sim = 1  # 2 empty strings concatenated together lel, useless!
+                jaccard_sim = 0  # 2 empty strings concatenated together lel, useless!
             if jaccard_sim >= 0.75:
                 f.write(str(i) + ' ' + str(j) + '\n')
                 print(str(i) + ' ' + str(j) + '\n')
-                f.write('title1: ' + rows[i][0] + '\n')
-                print('title1: ' + rows[i][0] + '\n')
-                f.write('title2: ' + rows[j][0] + '\n')
-                print('title2: ' + rows[j][0] + '\n')
-                f.write('score: ' + str(float(intersection / union)) + '\n')
-                print('score: ' + str(float(intersection / union)) + '\n')
+
+                if rows[i][0] is None:
+                    f.write('title1: null' + '\n')
+                    print('title1: null' + '\n')
+                else:
+                    f.write('title1: ' + rows[i][0] + '\n')
+                    print('title1: ' + rows[i][0] + '\n')
+
+                if rows[j][0] is None:
+                    f.write('title2: null' + '\n')
+                    print('title2: null' + '\n')
+                else:
+                    f.write('title2: ' + rows[j][0] + '\n')
+                    print('title2: ' + rows[j][0] + '\n')
+
+                f.write('score: ' + str(jaccard_sim) + '\n')
+                print('score: ' + str(jaccard_sim) + '\n')
                 f.write('\n')
                 print('\n')
                 count += 1

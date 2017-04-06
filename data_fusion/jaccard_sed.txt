@@ -1,0 +1,8926 @@
+30 27970
+title1: A Computational Economy for Grid Computing and its Implementation in the   Nimrod-G Resource Brok
+title2: A computational economy for grid computing and its implementation in the Nimrod-G resource broker.
+score: 0.8666666666666667
+
+44 25597
+title1: Computational Grids in Action: The Natinal Fusion Collaboratory
+title2: Computational Grids in action: the National Fusion Collaboratory.
+score: 1.0
+
+162 177
+title1: Bulk Scheduling with DIANA Scheduler
+title2: Bulk Scheduling with the DIANA Scheduler
+score: 0.8333333333333334
+
+170 25118
+title1: A Case for Cooperative and Incentive-Based Coupling of Distributed   Clusters
+title2: A case for cooperative and incentive-based federation of distributed clusters.
+score: 0.8181818181818182
+
+193 249
+title1: Distributed Slicing in Dynamic Systems
+title2: Distributed Slicing in Dynamic Systems
+score: 1.0
+
+202 35505
+title1: Geographic Routing Around Obstacles in Wireless Sensor Networks
+title2: Geographical routing in wireless sensor networks
+score: 0.75
+
+262 27240
+title1: Compute and Storage Clouds Using Wide Area High Performance Networks
+title2: Compute and storage clouds using wide area high performance networks.
+score: 1.0
+
+278 22610
+title1: Randomization Adaptive Self-Stabilization
+title2: Randomization adaptive self-stabilization.
+score: 1.0
+
+310 319
+title1: The equations of the ideal latches
+title2: The equations of the ideal latches
+score: 1.0
+
+616 25093
+title1: Self-Organisation of Evolving Agent Populations in Digital Ecosystems
+title2: Self-organisation of evolving agent populations in Digital Ecosystems.
+score: 1.0
+
+760 766
+title1: The Haar Wavelet Transform of a Dendrogram
+title2: The Haar Wavelet Transform of a Dendrogram: Additional Notes
+score: 0.7777777777777778
+
+862 863
+title1: A New Email Retrieval Ranking Approach
+title2: A New Email Retrieval Ranking Approach
+score: 1.0
+
+902 5771
+title1: Data Mining: A prediction for performance improvement using   classification
+title2: Data Mining: A Prediction for Performance Improvement of Engineering   Students using Classification
+score: 0.75
+
+1000 10963
+title1: Cross-Lingual Adaptation using Structural Correspondence Learning
+title2: Cross-Lingual Adaptation Using Structural Correspondence Learning
+score: 1.0
+
+1064 1067
+title1: Pseudorandom number generation by $p$-adic ergodic transformations
+title2: Pseudorandom number generation by p-adic ergodic transformations: an   addendum
+score: 0.7777777777777778
+
+1083 1259
+title1: Comment on A dynamic ID-based Remote User Authentication Scheme
+title2: A Dynamic ID-based Remote User Authentication Scheme
+score: 0.7777777777777778
+
+1574 1588
+title1: Lossless Intra Coding in HEVC with 3-tap Filters
+title2: Lossless Intra Coding in HEVC with Adaptive 3-tap Filters
+score: 0.8888888888888888
+
+1629 6073
+title1: Orthonormal RBF wavelet and ridgelet-like series and transforms for   high-dimensional problems
+title2: Errata and supplements to: Orthonormal RBF Wavelet and Ridgelet-like   Series and Transforms for High-Dimensional Problems
+score: 0.7692307692307693
+
+1703 1704
+title1: Improved complexity bounds for real root isolation using Continued   Fractions
+title2: Improved complexity bounds for real root isolation using Continued   Fractions
+score: 1.0
+
+1740 19376
+title1: Compressed Modular Matrix Multiplication
+title2: Compressed matrix multiplication
+score: 0.75
+
+1774 1835
+title1: On the Complexity of Computing Gröbner Bases for Quasi-homogeneous   Systems
+title2: On the complexity of computing Gröbner bases for weighted homogeneous   systems
+score: 0.75
+
+1828 1897
+title1: Fast and deterministic computation of the determinant of a polynomial   matrix
+title2: Fast, deterministic computation of the Hermite normal form and   determinant of a polynomial matrix
+score: 0.7692307692307693
+
+1974 21413
+title1: Polynomial Constraint Satisfaction, Graph Bisection, and the Ising   Partition Function
+title2: Polynomial constraint satisfaction problems, graph bisection, and the Ising partition function
+score: 0.9090909090909091
+
+2092 2209
+title1: Tree-width of hypergraphs and surface duality
+title2: Tree-width of hypergraphs and surface duality
+score: 1.0
+
+2239 2254
+title1: Improving the Performance of TCP over the ATM-UBR service
+title2: UBR+: Improving Performance of TCP over ATM-UBR service
+score: 0.7777777777777778
+
+2298 17034
+title1: An Internet Multicast System for the Stock Market
+title2: An Internet multicast system for the stock market
+score: 1.0
+
+2417 2444
+title1: Throughput Optimal Distributed Control of Stochastic Wireless Networks
+title2: Throughput Optimal Distributed Control of Stochastic Wireless Networks
+score: 1.0
+
+2461 2480
+title1: Clustering and Sharing Incentives in BitTorrent Systems
+title2: Clustering and Sharing Incentives in BitTorrent Systems
+score: 1.0
+
+2525 2526
+title1: Unsaturated Throughput Analysis of IEEE 802.11 in Presence of Non Ideal   Transmission Channel and Capture Effects
+title2: Saturation Throughput Analysis of IEEE 802.11 in Presence of Non Ideal   Transmission Channel and Capture Effects
+score: 0.875
+
+2543 2546
+title1: A Technical Report On Grid Benchmarking using SEE V.O
+title2: A Technical Report On Grid Benchmarking using ATLAS V.O
+score: 0.8
+
+2629 2630
+title1: Stationary analysis of the Shortest Queue First service policy
+title2: Stationary analysis of the "Shortest Queue First" service policy: the   asymmetric case
+score: 0.8181818181818182
+
+2912 28640
+title1: Inventing E-Regulation in the US, EU and East Asia: Conflicting Social   Visions of the Internet & the Information Society
+title2: Inventing e-regulation in the US, EU and East Asia: conflicting social visions of the Information Society.
+score: 0.9375
+
+3150 16054
+title1: A System of Interaction and Structure
+title2: A system of interaction and structure
+score: 1.0
+
+3151 6260
+title1: A Comparison of Logic Programming Approaches for Representation and   Solving of Constraint Satisfaction Problems
+title2: Logic Programming Approaches for Representing and Solving Constraint   Satisfaction Problems: A Comparison
+score: 0.7857142857142857
+
+3152 15768
+title1: Termination Proofs for Logic Programs with Tabling
+title2: Termination proofs for logic programs with tabling
+score: 1.0
+
+3156 15946
+title1: A theory of normed simulations
+title2: A theory of normed simulations
+score: 1.0
+
+3158 15846
+title1: Boolean Satisfiability with Transitivity Constraints
+title2: Boolean satisfiability with transitivity constraints
+score: 1.0
+
+3161 15890
+title1: A syntactical analysis of non-size-increasing polynomial time   computation
+title2: A syntactical analysis of non-size-increasing polynomial time computation
+score: 1.0
+
+3164 15858
+title1: Resource-distribution via Boolean constraints
+title2: Resource-distribution via Boolean constraints
+score: 1.0
+
+3165 15941
+title1: A Classification of Symbolic Transition Systems
+title2: A classification of symbolic transition systems
+score: 1.0
+
+3167 15926
+title1: Disjunction and modular goal-directed proof search
+title2: Disjunction and modular goal-directed proof search
+score: 1.0
+
+3169 15945
+title1: Abstract versus Concrete Computation on Metric Partial Algebras
+title2: Abstract versus concrete computation on metric partial algebras
+score: 1.0
+
+3170 15877
+title1: Abstract Computability, Algebraic Specification and Initiality
+title2: Abstract computability and algebraic specification
+score: 0.8333333333333334
+
+3172 15939
+title1: On Equivalence and Canonical Forms in the LF Type Theory
+title2: On equivalence and canonical forms in the LF type theory
+score: 1.0
+
+3181 15958
+title1: Precongruence Formats for Decorated Trace Semantics
+title2: Precongruence formats for decorated trace semantics
+score: 1.0
+
+3182 15950
+title1: Some applications of logic to feasibility in higher types
+title2: Some applications of logic to feasibility in higher types
+score: 1.0
+
+3185 15931
+title1: Knuth-Bendix constraint solving is NP-complete
+title2: Knuth--bendix constraint solving is NP-complete
+score: 1.0
+
+3192 15897
+title1: An Elementary Fragment of Second-Order Lambda Calculus
+title2: An elementary fragment of second-order lambda calculus
+score: 1.0
+
+3194 15922
+title1: Sequent and Hypersequent Calculi for Abelian and Lukasiewicz Logics
+title2: Sequent and hypersequent calculi for abelian and &lstrok;ukasiewicz logics
+score: 0.7777777777777778
+
+3195 15898
+title1: Arithmetic, First-Order Logic, and Counting Quantifiers
+title2: Arithmetic, first-order logic, and counting quantifiers
+score: 1.0
+
+3204 15916
+title1: Optimizing Optimal Reduction: A Type Inference Algorithm for Elementary   Affine Logic
+title2: Optimizing optimal reduction: A type inference algorithm for elementary affine logic
+score: 1.0
+
+3206 15919
+title1: Monodic temporal resolution
+title2: Monodic temporal resolution
+score: 1.0
+
+3213 15960
+title1: Kleene algebra with domain
+title2: Kleene algebra with domain
+score: 1.0
+
+3220 16047
+title1: Logical Characterizations of Heap Abstractions
+title2: Logical characterizations of heap abstractions
+score: 1.0
+
+3236 16032
+title1: Predicate Abstraction with Indexed Predicates
+title2: Predicate abstraction with indexed predicates
+score: 1.0
+
+3256 3257
+title1: Introduction to linear logic and ludics, part I
+title2: Introduction to linear logic and ludics, part II
+score: 0.7777777777777778
+
+3272 16019
+title1: Bounds on the Automata Size for Presburger Arithmetic
+title2: Bounds on the automata size for Presburger arithmetic
+score: 1.0
+
+3291 16031
+title1: Verifying nondeterministic probabilistic channel systems against   $ω$-regular linear-time properties
+title2: Verifying nondeterministic probabilistic channel systems against ω-regular linear-time properties
+score: 1.0
+
+3299 16017
+title1: Alternating Timed Automata
+title2: Alternating timed automata
+score: 1.0
+
+3326 16007
+title1: A Finite Equational Base for CCS with Left Merge and Communication Merge
+title2: A finite equational base for CCS with left merge and communication merge
+score: 1.0
+
+3346 3352
+title1: Definitions by Rewriting in the Calculus of Constructions
+title2: Definitions by rewriting in the Calculus of Constructions
+score: 1.0
+
+3350 3353
+title1: Inductive types in the Calculus of Algebraic Constructions
+title2: Inductive types in the Calculus of Algebraic Constructions
+score: 1.0
+
+3377 22603
+title1: The Fibers and Range of Reduction Graphs in Ciliates
+title2: The fibers and range of reduction graphs in ciliates.
+score: 1.0
+
+3393 21882
+title1: Linearly bounded infinite graphs
+title2: Linearly bounded infinite graphs.
+score: 1.0
+
+3438 3443
+title1: EquiX---A Search and Query Language for XML
+title2: EquiX--A Search and Query Language for XML
+score: 1.0
+
+3506 15964
+title1: First-order Complete and Computationally Complete Query Languages for   Spatio-Temporal Databases
+title2: First-order complete and computationally complete query languages for spatio-temporal databases
+score: 1.0
+
+3520 18809
+title1: Semantics and Complexity of SPARQL
+title2: Semantics and complexity of SPARQL
+score: 1.0
+
+3612 16663
+title1: Can the Utility of Anonymized Data be used for Privacy Breaches?
+title2: Can the Utility of Anonymized Data be Used for Privacy Breaches?
+score: 1.0
+
+3658 18801
+title1: Transparent Anonymization: Thwarting Adversaries Who Know the Algorithm
+title2: Transparent anonymization: Thwarting adversaries who know the algorithm
+score: 1.0
+
+4079 4111
+title1: An Optimum Multilevel Dynamic Round Robin Scheduling Algorithm
+title2: Simulation of an Optimum Multilevel Dynamic Round Robin Scheduling   Algorithm
+score: 0.8
+
+4221 17215
+title1: Faults in Linux 2.6
+title2: Faults in Linux 2.6
+score: 1.0
+
+4381 4382
+title1: Generalised Bent Criteria for Boolean Functions (I)
+title2: Generalised Bent Criteria for Boolean Functions (II)
+score: 0.75
+
+4446 4448
+title1: A Decision Feedback Based Scheme for Slepian-Wolf Coding of sources with   Hidden Markov Correlation
+title2: Decision Feedback Based Scheme for Slepian-Wolf Coding of sources with   Hidden Markov Correlation
+score: 0.9285714285714286
+
+4456 4617
+title1: Stability of Scheduled Multi-access Communication over Quasi-static Flat   Fading Channels with Random Coding and Independent Decoding
+title2: Stability of Scheduled Multi-access Communication over Quasi-static Flat   Fading Channels with Random Coding and Joint Maximum Likelihood Decoding
+score: 0.7894736842105263
+
+4649 4658
+title1: Efficient Multiplication of Dense Matrices over GF(2)
+title2: Efficient Decomposition of Dense Matrices over GF(2)
+score: 0.75
+
+4828 7701
+title1: A Branch and Cut Algorithm for the Halfspace Depth Problem
+title2: A Branch and Cut Algorithm for the Halfspace Depth Problem
+score: 1.0
+
+4967 4969
+title1: Conditional Expressions for Blind Deconvolution: Multi-point form
+title2: Conditional Expressions for Blind Deconvolution: Derivative form
+score: 0.75
+
+5103 5106
+title1: Recognition of Handwritten Roman Script Using Tesseract Open source OCR   Engine
+title2: Recognition of handwritten Roman Numerals using Tesseract open source   OCR engine
+score: 0.8333333333333334
+
+5218 22428
+title1: Nested satisfiability
+title2: Nested Satisfiability.
+score: 1.0
+
+5232 22639
+title1: Easy Sets and Hard Certificate Schemes
+title2: Easy Sets and Hard Certificate Schemes.
+score: 1.0
+
+5359 15993
+title1: A new function algebra of EXPTIME functions by safe nested recursion
+title2: A new function algebra of EXPTIME functions by safe nested recursion
+score: 1.0
+
+5432 16147
+title1: Succinctness of the Complement and Intersection of Regular Expressions
+title2: Succinctness of the Complement and Intersection of Regular Expressions
+score: 1.0
+
+5477 5489
+title1: Refutation of Aslam's Proof that NP = P
+title2: Response to Refutation of Aslam's Proof that NP = P
+score: 0.7777777777777778
+
+5760 11048
+title1: T-Learning
+title2: Learning 
+score: 1.0
+
+5874 5875
+title1: A Stable Explicit Scheme for Solving Non-Homogeneous Constant   Coefficients Equation using Green's Function
+title2: A Stable Explicit Scheme for Solving Inhomogeneous Constant Coefficients   Differential Equation using Green's Function
+score: 0.9285714285714286
+
+6018 35151
+title1: Pixel matrices: An elementary technique for solving nonlinear systems
+title2: Pixel matrices: An elementary technique for solving nonlinear systems
+score: 1.0
+
+6045 6046
+title1: Stability analysis of the numerical Method of characteristics applied to   energy-preserving systems. Part I: Periodic boundary conditions
+title2: Stability analysis of the numerical Method of characteristics applied to   energy-preserving systems. Part II: Nonreflecting boundary conditions
+score: 0.7777777777777778
+
+6070 15942
+title1: Interval Constraint Solving for Camera Control and Motion Planning
+title2: Interval constraint solving for camera control and motion planning
+score: 1.0
+
+6080 16055
+title1: Efficient Solving of Quantified Inequality Constraints over the Real   Numbers
+title2: Efficient solving of quantified inequality constraints over the real numbers
+score: 1.0
+
+6092 8963
+title1: Asymptotic Analysis of a Leader Election Algorithm
+title2: A probabilistic analysis of a leader election algorithm
+score: 0.75
+
+6222 15765
+title1: Probabilistic Agent Programs
+title2: Probabilistic agent programs
+score: 1.0
+
+6259 6302
+title1: Causes and Explanations: A Structural-Model Approach, Part I: Causes
+title2: Causes and Explanations: A Structural-Model Approach. Part II:   Explanations
+score: 0.7777777777777778
+
+6287 16065
+title1: Domain-Dependent Knowledge in Answer Set Planning
+title2: Domain-dependent knowledge in answer set planning
+score: 1.0
+
+6303 15929
+title1: Reasoning about Evolving Nonmonotonic Knowledge Bases
+title2: Reasoning about evolving nonmonotonic knowledge bases
+score: 1.0
+
+6313 15933
+title1: Comparisons and Computation of Well-founded Semantics for Disjunctive   Logic Programs
+title2: Comparisons and computation of well-founded semantics for disjunctive logic programs
+score: 1.0
+
+6319 15924
+title1: Unfolding Partiality and Disjunctions in Stable Model Semantics
+title2: Unfolding partiality and disjunctions in stable model semantics
+score: 1.0
+
+6352 16045
+title1: Recycling Computed Answers in Rewrite Systems for Abduction
+title2: Recycling computed answers in rewrite systems for abduction
+score: 1.0
+
+6464 6520
+title1: Multi-Agent Programming Contest 2011 - The Python-DTU Team
+title2: Multi-Agent Programming Contest 2012 - The Python-DTU Team
+score: 0.75
+
+6482 26300
+title1: Computing Agents for Decision Support Systems
+title2: Computing agents for decision support systems.
+score: 1.0
+
+6490 8157
+title1: Proceedings Third Workshop on Formal Aspects of Virtual Organisations
+title2: Proceedings Second Workshop on Formal Aspects of Virtual Organisations
+score: 0.8
+
+6729 6776
+title1: Expoiting Syntactic Structure for Language Modeling
+title2: Exploiting Syntactic Structure for Natural Language Modeling
+score: 0.8571428571428571
+
+6768 6841
+title1: Pronoun Resolution in Japanese Sentences Using Surface Expressions and   Examples
+title2: Anaphora Resolution in Japanese Sentences Using Surface Expressions and   Examples
+score: 0.8181818181818182
+
+6911 6955
+title1: Blind Normalization of Speech From Different Channels and Speakers
+title2: Blind Normalization of Speech From Different Channels
+score: 0.7777777777777778
+
+6947 6962
+title1: Introduction to the CoNLL-2002 Shared Task: Language-Independent Named   Entity Recognition
+title2: Introduction to the CoNLL-2003 Shared Task: Language-Independent Named   Entity Recognition
+score: 1.0
+
+7044 19758
+title1: Trustworthy 100-Year Digital Objects: Durable Encoding for When It's Too   Late to Ask
+title2: Trustworthy 100-year digital objects: durable encoding for when it's too late to ask
+score: 1.0
+
+7120 7235
+title1: Comparing Repository Types - Challenges and barriers for subject-based   repositories, research repositories, national repository systems and   institutional repositories in serving scholarly communication
+title2: Comparing Repository Types - Challenges and barriers for subject-based   repositories, research repositories, national repository systems and   institutional repositories in serving scholarly communication
+score: 1.0
+
+7254 38995
+title1: The Open Annotation Collaboration (OAC) Model
+title2: The Open Annotation Collaboration (OAC) Model
+score: 1.0
+
+7653 21476
+title1: Testing Bipartiteness of Geometric Intersection Graphs
+title2: Testing bipartiteness of geometric intersection graphs
+score: 1.0
+
+7654 21518
+title1: Deterministic Sampling and Range Counting in Geometric Data Streams
+title2: Deterministic sampling and range counting in geometric data streams
+score: 1.0
+
+7679 21428
+title1: Squarepants in a Tree: Sum of Subtree Clustering and Hyperbolic Pants   Decomposition
+title2: Squarepants in a tree: Sum of subtree clustering and hyperbolic pants decomposition
+score: 1.0
+
+8055 22621
+title1: Machine structure oriented control code logic
+title2: Machine structure oriented control code logic.
+score: 1.0
+
+8150 8152
+title1: Defect Prevention Approaches in Medium Scale it Enterprises
+title2: Defect Prevention Approaches In Medium Scale It Enterprises
+score: 1.0
+
+8234 8235
+title1: OpenVanilla - A Non-Intrusive Plug-In Framework of Text Services
+title2: OpenVanilla - A Non-Intrusive Plug-In Framework of Text Services
+score: 1.0
+
+8357 8359
+title1: Emotions in Pervasive Computing Environments
+title2: Pervasive Emotions in Pervasive Computing Environments
+score: 1.0
+
+8501 8502
+title1: A Glance into the Future of Human Computer Interaction
+title2: A Glance into the Future of Human Computer Interactions
+score: 1.0
+
+8518 19034
+title1: Agent trade servers in financial exchange systems
+title2: Agent trade servers in financial exchange systems
+score: 1.0
+
+8878 21419
+title1: All Maximal Independent Sets and Dynamic Dominance for Sparse Graphs
+title2: All maximal independent sets and dynamic dominance for sparse graphs
+score: 1.0
+
+8923 21414
+title1: Randomized Fast Design of Short DNA Words
+title2: Randomized fast design of short DNA words
+score: 1.0
+
+8949 21410
+title1: Improved Approximate String Matching and Regular Expression Matching on   Ziv-Lempel Compressed Texts
+title2: Improved approximate string matching and regular expression matching on Ziv-Lempel compressed texts
+score: 1.0
+
+8972 30600
+title1: Straggler Identification in Round-Trip Data Streams via Newton's   Identities and Invertible Bloom Filters
+title2: Straggler Identification in Round-Trip Data Streams via Newton's Identities and Invertible Bloom Filters.
+score: 1.0
+
+8985 21621
+title1: Weighted Popular Matchings
+title2: Weighted popular matchings
+score: 1.0
+
+8986 21574
+title1: Dial a Ride from k-forest
+title2: Dial a Ride from 
+score: 0.8
+
+9218 16003
+title1: A compositional Semantics for CHR
+title2: A compositional semantics for CHR
+score: 1.0
+
+9314 16136
+title1: Linear-Logic Based Analysis of Constraint Handling Rules with   Disjunction
+title2: Linear-Logic Based Analysis of Constraint Handling Rules with Disjunction
+score: 1.0
+
+9454 9455
+title1: The Optimization of a Novel Prismatic Drive
+title2: The Multiobjective Optimization of a Prismatic Drive
+score: 0.75
+
+9454 9507
+title1: The Optimization of a Novel Prismatic Drive
+title2: The Kinetostatic Optimization of a Novel Prismatic Drive
+score: 0.875
+
+9467 9535
+title1: Kinematic Calibration of the Orthoglide-Type Mechanisms
+title2: Kinematic calibration of orthoglide-type mechanisms
+score: 0.8333333333333334
+
+9468 9671
+title1: The Design of a Novel Prismatic Drive for a Three-DOF   Parallel-Kinematics Machine
+title2: The Design of a Novel Prismatic Drive for a Three-DOF   Parallel-Kinematics Machine
+score: 1.0
+
+9471 9526
+title1: The Isoconditioning Loci of Planar Three-DOF Parallel Manipulators
+title2: The Isoconditioning Loci of Planar Three-DOF Parallel Manipulators
+score: 1.0
+
+9485 9534
+title1: Singular curves and cusp points in the joint space of 3-RPR parallel   manipulators
+title2: Singular Curves in the Joint Space and Cusp Points of 3-RPR parallel   manipulators
+score: 1.0
+
+9492 9665
+title1: A distributed Approach for Access and Visibility Task under Ergonomic   Constraints with a Manikin in a Virtual Reality Environment
+title2: A distributed Approach for Access and Visibility Task with a Manikin and   a Robot in a Virtual Reality Environment
+score: 0.7777777777777778
+
+9496 9518
+title1: The Computation of All 4R Serial Spherical Wrists With an Isotropic   Architecture
+title2: The Computation of All 4R Serial Spherical Wrists With an Isotropic   Architecture
+score: 1.0
+
+9508 9514
+title1: A Six Degree-Of-Freedom Haptic Device Based On The Orthoglide And A   Hybrid Agile Eye
+title2: A New Six Degree-of-Freedom Haptic Device based on the Orthoglide and   the Agile Eye
+score: 0.8571428571428571
+
+9510 9525
+title1: An Exhaustive Study of the Workspace Topologies of all 3R Orthogonal   Manipulators with Geometric Simplifications
+title2: An Exhaustive Study of the Workspaces Tolopogies of all 3R Orthogonal   Manipulators with Geometric Simplifications
+score: 0.8666666666666667
+
+9521 9523
+title1: Parametric stiffness analysis of the Orthoglide
+title2: Parametric Stiffness Analysis of the Orthoglide
+score: 1.0
+
+9560 9585
+title1: Singularity Analysis of Limited-dof Parallel Manipulators using   Grassmann-Cayley Algebra
+title2: Singularity Analysis of Lower-Mobility Parallel Manipulators Using   Grassmann-Cayley Algebra
+score: 0.8
+
+9572 9607
+title1: A new muscle fatigue and recovery model and its ergonomics application   in human simulation
+title2: A new muscle fatigue and recovery model and its ergonomics application   in human simulation
+score: 1.0
+
+9809 17666
+title1: Access Pattern-Based Code Compression for Memory-Constrained Embedded   Systems
+title2: Access pattern-based code compression for memory-constrained systems
+score: 0.875
+
+10090 10296
+title1: Welfare Undominated Groves Mechanisms
+title2: Undominated Groves Mechanisms
+score: 0.75
+
+10191 10192
+title1: MiBoard: Metacognitive Training Through Gaming in iSTART
+title2: MiBoard: iSTART Metacognitive Training through Gaming
+score: 0.8571428571428571
+
+10222 11339
+title1: Single-Call Mechanisms
+title2: Single-Call Mechanisms
+score: 1.0
+
+10263 11370
+title1: Mechanism Design via Consensus Estimates, Cross Checking, and Profit   Extraction
+title2: Mechanism Design via Consensus Estimates, Cross Checking, and Profit Extraction
+score: 1.0
+
+10282 11332
+title1: Bounded-Distance Network Creation Games
+title2: Bounded-Distance Network Creation Games
+score: 1.0
+
+10285 11327
+title1: On Multiple Round Sponsored Search Auctions with Budgets
+title2: On Multiple Keyword Sponsored Search Auctions with Budgets
+score: 0.7777777777777778
+
+10350 14166
+title1: Ray-Based Reflectance Model for Diffraction
+title2: Reflectance model for diffraction
+score: 0.8
+
+10358 14538
+title1: Inverse Procedural Modeling of Facade Layouts
+title2: Inverse procedural modeling of facade layouts
+score: 1.0
+
+10359 10360
+title1: A Survey of Spline-based Volumetric Data Modeling Framework and Its   Applications
+title2: A Spline-based Volumetric Data Modeling Framework and Its Applications
+score: 0.8181818181818182
+
+10387 14856
+title1: Gap Processing for Adaptive Maximal Poisson-Disk Sampling
+title2: Gap processing for adaptive maximal poisson-disk sampling
+score: 1.0
+
+10402 14842
+title1: Parallel Chen-Han (PCH) Algorithm for Discrete Geodesics
+title2: Parallel chen-han (PCH) algorithm for discrete geodesics
+score: 1.0
+
+10425 14386
+title1: Piko: A Design Framework for Programmable Graphics Pipelines
+title2: Piko: a framework for authoring programmable graphics pipelines
+score: 0.7777777777777778
+
+10469 14649
+title1: Pushing the Limits of 3D Color Printing: Error Diffusion with   Translucent Materials
+title2: Pushing the Limits of 3D Color Printing: Error Diffusion with Translucent Materials
+score: 1.0
+
+10477 14286
+title1: Ebb: A DSL for Physical Simulation on CPUs and GPUs
+title2: Ebb: A DSL for Physical Simulation on CPUs and GPUs
+score: 1.0
+
+10491 15118
+title1: Printed Perforated Lampshades for Continuous Projective Images
+title2: Printed Perforated Lampshades for Continuous Projective Images
+score: 1.0
+
+10530 15107
+title1: Interpolations of Smoke and Liquid Simulations
+title2: Interpolations of Smoke and Liquid Simulations
+score: 1.0
+
+10585 12626
+title1: Spatiotemporal sensistivity and visual attention for efficient rendering   of dynamic environments
+title2: Spatiotemporal sensitivity and visual attention for efficient rendering of dynamic environments
+score: 1.0
+
+10667 18180
+title1: Distributed deadlock detection
+title2: Distributed deadlock detection algorithm
+score: 0.75
+
+10669 16694
+title1: Preface: Special issue on measurement and modeling of computer systems
+title2: Preface: Special issue on measurement and modeling of computer systems
+score: 1.0
+
+10696 23102
+title1: Spatial Consensus Queries in a Collaborative Environment
+title2: Spatial Consensus Queries in a Collaborative Environment.
+score: 1.0
+
+10697 23096
+title1: Generating Moving Regions from Snapshots of Complex Regions
+title2: Generating Moving Regions from Snapshots of Complex Regions.
+score: 1.0
+
+10698 23095
+title1: Efficient Geo-Fencing via Hybrid Hashing: A Combination of Bucket Selection and In-Bucket Binary Search
+title2: Efficient Geo-Fencing via Hybrid Hashing: A Combination of Bucket Selection and In-Bucket Binary Search.
+score: 1.0
+
+10699 23104
+title1: Symbolic Trajectories
+title2: Symbolic Trajectories.
+score: 1.0
+
+10700 23087
+title1: TRIFL: A Generic Trajectory Index for Flash Storage
+title2: TRIFL: A Generic Trajectory Index for Flash Storage.
+score: 1.0
+
+10701 23100
+title1: Personalized Group Recommender Systems for Location- and Event-Based Social Networks
+title2: Personalized Group Recommender Systems for Location- and Event-Based Social Networks.
+score: 1.0
+
+10702 23105
+title1: Online Spatial Event Forecasting in Microblogs
+title2: Online Spatial Event Forecasting in Microblogs.
+score: 1.0
+
+10703 23094
+title1: Tilewise Accumulated Cost Surface Computation with Graphics Processing Units
+title2: Tilewise Accumulated Cost Surface Computation with Graphics Processing Units.
+score: 1.0
+
+10709 23099
+title1: Social Influence-Aware Reverse Nearest Neighbor Search
+title2: Social Influence-Aware Reverse Nearest Neighbor Search.
+score: 1.0
+
+10713 23107
+title1: Privacy-Aware Dynamic Ride Sharing
+title2: Privacy-Aware Dynamic Ride Sharing.
+score: 1.0
+
+10729 23091
+title1: Efficient Processing of Relevant Nearest-Neighbor Queries
+title2: Efficient Processing of Relevant Nearest-Neighbor Queries.
+score: 1.0
+
+10730 23097
+title1: Matching Labels and Markers in Historical Maps: An Algorithm with Interactive Postprocessing
+title2: Matching Labels and Markers in Historical Maps: An Algorithm with Interactive Postprocessing.
+score: 1.0
+
+10731 23106
+title1: On Local Expert Discovery via Geo-Located Crowds, Queries, and Candidates
+title2: On Local Expert Discovery via Geo-Located Crowds, Queries, and Candidates.
+score: 1.0
+
+10732 23098
+title1: Mining At Most Top-K&percnt; Spatiotemporal Co-occurrence Patterns in Datasets with Extended Spatial Representations
+title2: Mining At Most Top-Kamp;percnt; Spatiotemporal Co-occurrence Patterns in Datasets with Extended Spatial Representations.
+score: 0.8571428571428571
+
+10734 23103
+title1: Protecting Against Velocity-Based, Proximity-Based, and External Event Attacks in Location-Centric Social Networks
+title2: Protecting Against Velocity-Based, Proximity-Based, and External Event Attacks in Location-Centric Social Networks.
+score: 1.0
+
+10735 23092
+title1: Simulating Our LifeSteps by Example
+title2: Simulating Our LifeSteps by Example.
+score: 1.0
+
+10738 23090
+title1: TerraNNI: Natural Neighbor Interpolation on 2D and 3D Grids Using a GPU
+title2: TerraNNI: Natural Neighbor Interpolation on 2D and 3D Grids Using a GPU.
+score: 1.0
+
+10739 23086
+title1: Location Estimation Using Crowdsourced Spatial Relations
+title2: Location Estimation Using Crowdsourced Spatial Relations.
+score: 1.0
+
+10742 23093
+title1: An Efficient External Memory Algorithm for Terrain Viewshed Computation
+title2: An Efficient External Memory Algorithm for Terrain Viewshed Computation.
+score: 1.0
+
+10743 23088
+title1: Snap Rounding with Restore: An Algorithm for Producing Robust Geometric Datasets
+title2: Snap Rounding with Restore: An Algorithm for Producing Robust Geometric Datasets.
+score: 1.0
+
+10744 23108
+title1: Area-Preserving Simplification and Schematization of Polygonal Subdivisions
+title2: Area-Preserving Simplification and Schematization of Polygonal Subdivisions.
+score: 1.0
+
+10745 23089
+title1: A Server-Assigned Spatial Crowdsourcing Framework
+title2: A Server-Assigned Spatial Crowdsourcing Framework.
+score: 1.0
+
+10746 23101
+title1: A Path-Based Distance for Street Map Comparison
+title2: A Path-Based Distance for Street Map Comparison.
+score: 1.0
+
+10747 23085
+title1: Multirow Boundary-Labeling Algorithms for Panorama Images
+title2: Multirow Boundary-Labeling Algorithms for Panorama Images.
+score: 1.0
+
+11410 11724
+title1: Security in embedded systems: Design challenges
+title2: Security challenges in embedded systems
+score: 0.8333333333333334
+
+11484 11700
+title1: Modeling and analysis of core-centric network processors
+title2: Modeling and analysis of core-centric network processors
+score: 1.0
+
+11503 11516
+title1: Accurate and fast system-level power modeling: An XScale-based case study
+title2: Accurate and fast system-level power modeling: An XScale-based case study
+score: 1.0
+
+11551 24070
+title1: Preface
+title2: Preface.
+score: 1.0
+
+11551 25545
+title1: Preface
+title2: Preface.
+score: 1.0
+
+11551 25781
+title1: Preface
+title2: Preface.
+score: 1.0
+
+11551 26163
+title1: Preface
+title2: Preface.
+score: 1.0
+
+11551 26198
+title1: Preface
+title2: Preface.
+score: 1.0
+
+11551 26810
+title1: Preface
+title2: Preface.
+score: 1.0
+
+11551 26907
+title1: Preface
+title2: Preface.
+score: 1.0
+
+11551 27132
+title1: Preface
+title2: Preface.
+score: 1.0
+
+11551 27318
+title1: Preface
+title2: Preface.
+score: 1.0
+
+12247 12329
+title1: Ray tracing generalized cylinders
+title2: Corrigendum: Ray tracing generalized cylinders
+score: 0.8
+
+12268 12384
+title1: Incremental linear interpolation
+title2: Double-step incremental linear interpolation
+score: 0.75
+
+12309 21303
+title1: F
+title2: F
+score: 1.0
+
+12351 12438
+title1: Intersection algorithms for lines and circles
+title2: Corrigenda: intersection algorithms for lines and circles
+score: 0.8571428571428571
+
+12457 12470
+title1: Corrigendum: Topological considerations in isosurface generation
+title2: Topological considerations in isosurface generation
+score: 0.8333333333333334
+
+12563 13679
+title1: Perspective shadow maps
+title2: Logarithmic perspective shadow maps
+score: 0.75
+
+12654 14845
+title1: Context-based surface completion
+title2: Context-based coherent surface completion
+score: 0.75
+
+12739 22973
+title1: On 
+title2: On 
+score: 1.0
+
+12831 14766
+title1: High dynamic range video
+title2: Patch-based high dynamic range video
+score: 0.8
+
+13331 13403
+title1: Toward evaluating material design interface paradigms for novice users
+title2: Toward evaluating lighting design interface paradigms for novice users
+score: 0.8
+
+13443 13633
+title1: Stochastic progressive photon mapping
+title2: Progressive photon mapping
+score: 0.75
+
+13478 14827
+title1: ℓ
+title2: ℓ
+score: 1.0
+
+13633 14005
+title1: Progressive photon mapping
+title2: Adaptive progressive photon mapping
+score: 0.75
+
+13769 13981
+title1: A
+title2: A 
+score: 1.0
+
+13769 16825
+title1: A
+title2: A 
+score: 1.0
+
+13981 16825
+title1: A 
+title2: A 
+score: 1.0
+
+14115 14281
+title1: GPU-efficient recursive filtering and summed-area tables
+title2: Errata for GPU-Efficient Recursive Filtering and Summed-Area Tables
+score: 0.75
+
+14357 15024
+title1: Orbifold Tutte embeddings
+title2: Hyperbolic orbifold tutte embeddings
+score: 0.75
+
+14409 14876
+title1: Gradient-domain path tracing
+title2: Temporal gradient-domain path tracing
+score: 0.75
+
+14454 15866
+title1: An 
+title2: An 
+score: 1.0
+
+14454 17510
+title1: An 
+title2: An 
+score: 1.0
+
+14454 20754
+title1: An 
+title2: An 
+score: 1.0
+
+14454 21424
+title1: An 
+title2: An 
+score: 1.0
+
+14454 21465
+title1: An 
+title2: An 
+score: 1.0
+
+14454 22630
+title1: An 
+title2: An 
+score: 1.0
+
+15098 16395
+title1: The 
+title2: The 
+score: 1.0
+
+15098 18401
+title1: The 
+title2: The 
+score: 1.0
+
+15098 18803
+title1: The 
+title2: The 
+score: 1.0
+
+15098 21497
+title1: The 
+title2: The 
+score: 1.0
+
+15098 22788
+title1: The 
+title2: The ( 
+score: 1.0
+
+15155 15163
+title1: Author index
+title2: Author index
+score: 1.0
+
+15155 16982
+title1: Author index
+title2: Author Index
+score: 1.0
+
+15155 19618
+title1: Author index
+title2: Author Index
+score: 1.0
+
+15155 19652
+title1: Author index
+title2: Author Index
+score: 1.0
+
+15163 16982
+title1: Author index
+title2: Author Index
+score: 1.0
+
+15163 19618
+title1: Author index
+title2: Author Index
+score: 1.0
+
+15163 19652
+title1: Author index
+title2: Author Index
+score: 1.0
+
+15200 15201
+title1: Appendices A--D: A scalable method for deductive generalization in the spreadsheet paradigm
+title2: A scalable method for deductive generalization in the spreadsheet paradigm
+score: 0.8333333333333334
+
+15512 24197
+title1: Special issue on 
+title2: Special issue on e-maintenance.
+score: 0.75
+
+15786 15839
+title1: Team Projects in Computing Education
+title2: Team Projects in Computing Education
+score: 1.0
+
+15866 17510
+title1: An 
+title2: An 
+score: 1.0
+
+15866 20754
+title1: An 
+title2: An 
+score: 1.0
+
+15866 21424
+title1: An 
+title2: An 
+score: 1.0
+
+15866 21465
+title1: An 
+title2: An 
+score: 1.0
+
+15866 22630
+title1: An 
+title2: An 
+score: 1.0
+
+15962 15986
+title1: Erratum to splitting an operator: Algebraic modularity results for logics with fixpoint semantics
+title2: Splitting an operator: Algebraic modularity results for logics with fixpoint semantics
+score: 0.8461538461538461
+
+16058 16068
+title1: What causes a system to satisfy a specification?
+title2: Erratum for “What causes a system to satisfy a specification?”
+score: 0.7777777777777778
+
+16087 16203
+title1: Randomization in Automata on Infinite Trees
+title2: Erratum for “Randomization in Automata on Infinite Trees”
+score: 0.75
+
+16395 18401
+title1: The 
+title2: The 
+score: 1.0
+
+16395 18803
+title1: The 
+title2: The 
+score: 1.0
+
+16395 21497
+title1: The 
+title2: The 
+score: 1.0
+
+16395 22788
+title1: The 
+title2: The ( 
+score: 1.0
+
+16643 16644
+title1: Comparative document summarization via discriminative sentence selection
+title2: Comparative Document Summarization via Discriminative Sentence Selection
+score: 1.0
+
+16804 40408
+title1: D
+title2: D
+score: 1.0
+
+16816 24052
+title1: P
+title2: P
+score: 1.0
+
+16859 18180
+title1: The distributed deadlock detection algorithm
+title2: Distributed deadlock detection algorithm
+score: 0.8
+
+16982 19618
+title1: Author Index
+title2: Author Index
+score: 1.0
+
+16982 19652
+title1: Author Index
+title2: Author Index
+score: 1.0
+
+17390 17684
+title1: A mapping algorithm for computer-assisted exploration in the design of embedded systems
+title2: A note on “a mapping algorithm for computer-assisted exploration in the design of embedded systems”
+score: 0.8571428571428571
+
+17493 30528
+title1: I
+title2: i
+score: 1.0
+
+17510 20754
+title1: An 
+title2: An 
+score: 1.0
+
+17510 21424
+title1: An 
+title2: An 
+score: 1.0
+
+17510 21465
+title1: An 
+title2: An 
+score: 1.0
+
+17510 22630
+title1: An 
+title2: An 
+score: 1.0
+
+18152 33670
+title1: Spatial management of data
+title2: Spatial Management Of Data
+score: 1.0
+
+18199 18293
+title1: Security of statistical databases: multidimensional transformation
+title2: Security of statistical databases: multidimensional transformation
+score: 1.0
+
+18401 18803
+title1: The 
+title2: The 
+score: 1.0
+
+18401 21497
+title1: The 
+title2: The 
+score: 1.0
+
+18401 22788
+title1: The 
+title2: The ( 
+score: 1.0
+
+18436 18458
+title1: On estimating the cardinality of the projection of a database relation
+title2: A note on estimating the cardinality of the projection of a database relation
+score: 0.9
+
+18735 18847
+title1: Forward node-selecting queries over trees
+title2: Revisiting “forward node-selecting queries over trees”
+score: 0.8333333333333334
+
+18803 21497
+title1: The 
+title2: The 
+score: 1.0
+
+18803 22788
+title1: The 
+title2: The ( 
+score: 1.0
+
+19618 19652
+title1: Author Index
+title2: Author Index
+score: 1.0
+
+20079 20081
+title1: Analyzing MAC protocols for low data-rate applications
+title2: Analyzing MAC protocols for low data-rate applications
+score: 1.0
+
+20173 20211
+title1: Optimal multiobjective placement of distributed sensors against moving targets
+title2: Optimal placement of distributed sensors against moving targets
+score: 0.8888888888888888
+
+20243 34114
+title1: Opportunistic Routing in Low Duty-Cycle Wireless Sensor Networks
+title2: Performance of opportunistic routing in low duty-cycle wireless sensor networks
+score: 0.8
+
+20307 39201
+title1: A Novel Algorithm for Distributed Localization in Wireless Sensor Networks
+title2: A Novel Algorithm for Graded Precision Localization in Wireless Sensor Networks
+score: 0.75
+
+20754 21424
+title1: An 
+title2: An 
+score: 1.0
+
+20754 21465
+title1: An 
+title2: An 
+score: 1.0
+
+20754 22630
+title1: An 
+title2: An 
+score: 1.0
+
+20783 21375
+title1: Problems column
+title2: Problems column
+score: 1.0
+
+20783 21501
+title1: Problems column
+title2: Problems column
+score: 1.0
+
+20800 33463
+title1: Welcome Message
+title2: Welcome message
+score: 1.0
+
+20800 34157
+title1: Welcome Message
+title2: Welcome message
+score: 1.0
+
+21088 21233
+title1: List of Distinguished Reviewers ACM TACO 2014
+title2: List of distinguished reviewers ACM TACO
+score: 0.8571428571428571
+
+21088 21243
+title1: List of Distinguished Reviewers ACM TACO 2014
+title2: List of Distinguished Reviewers ACM TACO 2014
+score: 1.0
+
+21233 21243
+title1: List of distinguished reviewers ACM TACO
+title2: List of Distinguished Reviewers ACM TACO 2014
+score: 0.8571428571428571
+
+21363 38001
+title1: E
+title2: E
+score: 1.0
+
+21375 21501
+title1: Problems column
+title2: Problems column
+score: 1.0
+
+21424 21465
+title1: An 
+title2: An 
+score: 1.0
+
+21424 22630
+title1: An 
+title2: An 
+score: 1.0
+
+21465 22630
+title1: An 
+title2: An 
+score: 1.0
+
+21474 21609
+title1: Improved results for data migration and open shop scheduling
+title2: Corrigendum: Improved results for data migration and open shop scheduling
+score: 0.9
+
+21492 22981
+title1: Finding the 
+title2: Finding the 
+score: 1.0
+
+21497 22788
+title1: The 
+title2: The ( 
+score: 1.0
+
+21665 23051
+title1: Special issue on "Combining Compositionality and Concurrency": part 1.
+title2: Special issue on "Combining Compositionality and Concurrency": part 2.
+score: 0.8
+
+21752 22909
+title1: Nonterminals, Homomorphisms and Codings in Different Variations of OL-Systems. I. Deterministic Systems.
+title2: Nonterminals, Homomorphisms and Codings in Different Variations of OL-Systems. II. Nondeterministic Systems.
+score: 0.8461538461538461
+
+21865 22199
+title1: null
+title2: null
+score: 1.0
+
+21865 22871
+title1: null
+title2: null
+score: 1.0
+
+21865 39709
+title1: null
+title2: null
+score: 1.0
+
+21865 40099
+title1: null
+title2: null
+score: 1.0
+
+21865 40100
+title1: null
+title2: null
+score: 1.0
+
+21865 40101
+title1: null
+title2: null
+score: 1.0
+
+21865 40103
+title1: null
+title2: null
+score: 1.0
+
+21865 40104
+title1: null
+title2: null
+score: 1.0
+
+21865 40105
+title1: null
+title2: null
+score: 1.0
+
+21865 40106
+title1: null
+title2: null
+score: 1.0
+
+21865 40108
+title1: null
+title2: null
+score: 1.0
+
+21865 40109
+title1: null
+title2: null
+score: 1.0
+
+21865 40110
+title1: null
+title2: null
+score: 1.0
+
+21865 40111
+title1: null
+title2: null
+score: 1.0
+
+21865 40112
+title1: null
+title2: null
+score: 1.0
+
+21865 40113
+title1: null
+title2: null
+score: 1.0
+
+21865 40114
+title1: null
+title2: null
+score: 1.0
+
+21865 40115
+title1: null
+title2: null
+score: 1.0
+
+21865 40116
+title1: null
+title2: null
+score: 1.0
+
+21865 40117
+title1: null
+title2: null
+score: 1.0
+
+21865 40118
+title1: null
+title2: null
+score: 1.0
+
+21865 40119
+title1: null
+title2: null
+score: 1.0
+
+21865 40120
+title1: null
+title2: null
+score: 1.0
+
+21865 40121
+title1: null
+title2: null
+score: 1.0
+
+21865 40122
+title1: null
+title2: null
+score: 1.0
+
+21865 40123
+title1: null
+title2: null
+score: 1.0
+
+21865 40124
+title1: null
+title2: null
+score: 1.0
+
+21865 40125
+title1: null
+title2: null
+score: 1.0
+
+21865 40126
+title1: null
+title2: null
+score: 1.0
+
+21865 40127
+title1: null
+title2: null
+score: 1.0
+
+21865 40128
+title1: null
+title2: null
+score: 1.0
+
+21865 40129
+title1: null
+title2: null
+score: 1.0
+
+21865 40130
+title1: null
+title2: null
+score: 1.0
+
+21865 40131
+title1: null
+title2: null
+score: 1.0
+
+21865 40132
+title1: null
+title2: null
+score: 1.0
+
+21865 40133
+title1: null
+title2: null
+score: 1.0
+
+21865 40134
+title1: null
+title2: null
+score: 1.0
+
+21865 40135
+title1: null
+title2: null
+score: 1.0
+
+21865 40136
+title1: null
+title2: null
+score: 1.0
+
+21865 40137
+title1: null
+title2: null
+score: 1.0
+
+21865 40138
+title1: null
+title2: null
+score: 1.0
+
+21865 40139
+title1: null
+title2: null
+score: 1.0
+
+21865 40140
+title1: null
+title2: null
+score: 1.0
+
+21865 40141
+title1: null
+title2: null
+score: 1.0
+
+21865 40142
+title1: null
+title2: null
+score: 1.0
+
+21865 40143
+title1: null
+title2: null
+score: 1.0
+
+21865 40144
+title1: null
+title2: null
+score: 1.0
+
+21890 22447
+title1: Maximum Entropy Two-Station Cyclic Queues with Multiple General Servers.
+title2: Erratum: Maximum Entropy Two-Station Cyclic Queues with Multiple General Servers.
+score: 0.9
+
+21890 22918
+title1: Maximum Entropy Two-Station Cyclic Queues with Multiple General Servers.
+title2: Erratum: Maximum Entropy Two-Station Cyclic Queues with Multiple General Servers.
+score: 0.9
+
+21892 22591
+title1: Toward Formal Development of Programs from Algebraic Specifications: Implementations Revisited.
+title2: Toward Formal Development of Programs from Algebraic Specifications: Parameterisation Revisited.
+score: 0.8181818181818182
+
+21929 23006
+title1: Coincidental extension of scattered context languages.
+title2: Erratum: Coincidental extension of scattered context languages.
+score: 0.8571428571428571
+
+21983 22025
+title1: Information Theoretic Approximations for the 
+title2: Information Theoretic Approximations for 
+score: 0.8
+
+22001 22479
+title1: Erratum: The size of random bucket trees via urn models.
+title2: The size of random bucket trees via urn models.
+score: 0.9
+
+22053 22282
+title1: Letter from the Editor.
+title2: Letter from the Managing Editor.
+score: 0.8
+
+22090 22437
+title1: Parallel LL parsing.
+title2: Parallel LL parsing.
+score: 1.0
+
+22094 22972
+title1: Erratum: Proving Properties of Pascal Programs in MIZAR 2.
+title2: Proving Properties of Pascal Programs in MIZAR 2.
+score: 0.8888888888888888
+
+22199 22871
+title1: null
+title2: null
+score: 1.0
+
+22199 39709
+title1: null
+title2: null
+score: 1.0
+
+22199 40099
+title1: null
+title2: null
+score: 1.0
+
+22199 40100
+title1: null
+title2: null
+score: 1.0
+
+22199 40101
+title1: null
+title2: null
+score: 1.0
+
+22199 40103
+title1: null
+title2: null
+score: 1.0
+
+22199 40104
+title1: null
+title2: null
+score: 1.0
+
+22199 40105
+title1: null
+title2: null
+score: 1.0
+
+22199 40106
+title1: null
+title2: null
+score: 1.0
+
+22199 40108
+title1: null
+title2: null
+score: 1.0
+
+22199 40109
+title1: null
+title2: null
+score: 1.0
+
+22199 40110
+title1: null
+title2: null
+score: 1.0
+
+22199 40111
+title1: null
+title2: null
+score: 1.0
+
+22199 40112
+title1: null
+title2: null
+score: 1.0
+
+22199 40113
+title1: null
+title2: null
+score: 1.0
+
+22199 40114
+title1: null
+title2: null
+score: 1.0
+
+22199 40115
+title1: null
+title2: null
+score: 1.0
+
+22199 40116
+title1: null
+title2: null
+score: 1.0
+
+22199 40117
+title1: null
+title2: null
+score: 1.0
+
+22199 40118
+title1: null
+title2: null
+score: 1.0
+
+22199 40119
+title1: null
+title2: null
+score: 1.0
+
+22199 40120
+title1: null
+title2: null
+score: 1.0
+
+22199 40121
+title1: null
+title2: null
+score: 1.0
+
+22199 40122
+title1: null
+title2: null
+score: 1.0
+
+22199 40123
+title1: null
+title2: null
+score: 1.0
+
+22199 40124
+title1: null
+title2: null
+score: 1.0
+
+22199 40125
+title1: null
+title2: null
+score: 1.0
+
+22199 40126
+title1: null
+title2: null
+score: 1.0
+
+22199 40127
+title1: null
+title2: null
+score: 1.0
+
+22199 40128
+title1: null
+title2: null
+score: 1.0
+
+22199 40129
+title1: null
+title2: null
+score: 1.0
+
+22199 40130
+title1: null
+title2: null
+score: 1.0
+
+22199 40131
+title1: null
+title2: null
+score: 1.0
+
+22199 40132
+title1: null
+title2: null
+score: 1.0
+
+22199 40133
+title1: null
+title2: null
+score: 1.0
+
+22199 40134
+title1: null
+title2: null
+score: 1.0
+
+22199 40135
+title1: null
+title2: null
+score: 1.0
+
+22199 40136
+title1: null
+title2: null
+score: 1.0
+
+22199 40137
+title1: null
+title2: null
+score: 1.0
+
+22199 40138
+title1: null
+title2: null
+score: 1.0
+
+22199 40139
+title1: null
+title2: null
+score: 1.0
+
+22199 40140
+title1: null
+title2: null
+score: 1.0
+
+22199 40141
+title1: null
+title2: null
+score: 1.0
+
+22199 40142
+title1: null
+title2: null
+score: 1.0
+
+22199 40143
+title1: null
+title2: null
+score: 1.0
+
+22199 40144
+title1: null
+title2: null
+score: 1.0
+
+22249 22279
+title1: The Semigroups of Linearly Realizable Finite Automata I.
+title2: The Semigroups of Linearly Realizable Finite Automata II.
+score: 0.7777777777777778
+
+22269 22557
+title1: Critical Comments on the Programming Language Pascal.
+title2: More Comments on the Programming Language Pascal.
+score: 0.75
+
+22283 22431
+title1: Addenda and Corrigenda: Formal Semantics of a Class of High-Level Primitives for Coordinating Concurrent Processes
+title2: Formal Semantics of a Class of High-Level Primitives for Coordinating Concurrent Processes
+score: 0.7857142857142857
+
+22318 22923
+title1: Transposition of Large Tabular Data Structures with Applications to Physical Database Organization.
+title2: Transposition of Large Tabular Data Structures with Applications to Physical Database Organization.
+score: 1.0
+
+22349 22404
+title1: Avoidable binary patterns in partial words.
+title2: Erratum to: Avoidable binary patterns in partial words.
+score: 0.75
+
+22447 22918
+title1: Erratum: Maximum Entropy Two-Station Cyclic Queues with Multiple General Servers.
+title2: Erratum: Maximum Entropy Two-Station Cyclic Queues with Multiple General Servers.
+score: 1.0
+
+22472 22897
+title1: Transformational Methods and their Application to Complexity Problems.
+title2: Corrigenda: Transformational Methods and Their Application to Complexity Problems
+score: 0.8888888888888888
+
+22552 22848
+title1: The Complexity of Drawing Trees Nicely.
+title2: On the complexity of drawing trees nicely: corrigendum.
+score: 0.75
+
+22665 23064
+title1: On the Complexity of some Problems Concerning the Use of Procedures II.
+title2: On the Complexity of Some Problems Concerning the Use of Procedures I.
+score: 0.8181818181818182
+
+22840 22885
+title1: Null Values in Nested Relational Databases.
+title2: Addendum to Null Values in Nested Relational Databases.
+score: 0.75
+
+22871 39709
+title1: null
+title2: null
+score: 1.0
+
+22871 40099
+title1: null
+title2: null
+score: 1.0
+
+22871 40100
+title1: null
+title2: null
+score: 1.0
+
+22871 40101
+title1: null
+title2: null
+score: 1.0
+
+22871 40103
+title1: null
+title2: null
+score: 1.0
+
+22871 40104
+title1: null
+title2: null
+score: 1.0
+
+22871 40105
+title1: null
+title2: null
+score: 1.0
+
+22871 40106
+title1: null
+title2: null
+score: 1.0
+
+22871 40108
+title1: null
+title2: null
+score: 1.0
+
+22871 40109
+title1: null
+title2: null
+score: 1.0
+
+22871 40110
+title1: null
+title2: null
+score: 1.0
+
+22871 40111
+title1: null
+title2: null
+score: 1.0
+
+22871 40112
+title1: null
+title2: null
+score: 1.0
+
+22871 40113
+title1: null
+title2: null
+score: 1.0
+
+22871 40114
+title1: null
+title2: null
+score: 1.0
+
+22871 40115
+title1: null
+title2: null
+score: 1.0
+
+22871 40116
+title1: null
+title2: null
+score: 1.0
+
+22871 40117
+title1: null
+title2: null
+score: 1.0
+
+22871 40118
+title1: null
+title2: null
+score: 1.0
+
+22871 40119
+title1: null
+title2: null
+score: 1.0
+
+22871 40120
+title1: null
+title2: null
+score: 1.0
+
+22871 40121
+title1: null
+title2: null
+score: 1.0
+
+22871 40122
+title1: null
+title2: null
+score: 1.0
+
+22871 40123
+title1: null
+title2: null
+score: 1.0
+
+22871 40124
+title1: null
+title2: null
+score: 1.0
+
+22871 40125
+title1: null
+title2: null
+score: 1.0
+
+22871 40126
+title1: null
+title2: null
+score: 1.0
+
+22871 40127
+title1: null
+title2: null
+score: 1.0
+
+22871 40128
+title1: null
+title2: null
+score: 1.0
+
+22871 40129
+title1: null
+title2: null
+score: 1.0
+
+22871 40130
+title1: null
+title2: null
+score: 1.0
+
+22871 40131
+title1: null
+title2: null
+score: 1.0
+
+22871 40132
+title1: null
+title2: null
+score: 1.0
+
+22871 40133
+title1: null
+title2: null
+score: 1.0
+
+22871 40134
+title1: null
+title2: null
+score: 1.0
+
+22871 40135
+title1: null
+title2: null
+score: 1.0
+
+22871 40136
+title1: null
+title2: null
+score: 1.0
+
+22871 40137
+title1: null
+title2: null
+score: 1.0
+
+22871 40138
+title1: null
+title2: null
+score: 1.0
+
+22871 40139
+title1: null
+title2: null
+score: 1.0
+
+22871 40140
+title1: null
+title2: null
+score: 1.0
+
+22871 40141
+title1: null
+title2: null
+score: 1.0
+
+22871 40142
+title1: null
+title2: null
+score: 1.0
+
+22871 40143
+title1: null
+title2: null
+score: 1.0
+
+22871 40144
+title1: null
+title2: null
+score: 1.0
+
+23701 23936
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+23701 24036
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+23701 24050
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+23701 24283
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+23701 24295
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+23701 24490
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+23701 24590
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+23701 24596
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+23701 24599
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+23701 24734
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+23701 24844
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+23701 25833
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+23701 25999
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+23701 27016
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+23701 27764
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+23701 27847
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+23701 28053
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+23701 28342
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+23701 29956
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+23701 30433
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+23701 30715
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+23701 30735
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+23936 24036
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+23936 24050
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+23936 24283
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+23936 24295
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+23936 24490
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+23936 24590
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+23936 24596
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+23936 24599
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+23936 24734
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+23936 24844
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+23936 25833
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+23936 25999
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+23936 27016
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+23936 27764
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+23936 27847
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+23936 28053
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+23936 28342
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+23936 29956
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+23936 30433
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+23936 30715
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+23936 30735
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24020 24238
+title1: Corrigendum to "Supporting conflict management in collaborative design: An approach to assess engineering change impacts" [Computers in Industry 59 (2008) 882-893].
+title2: Corrigendum to "Supporting conflict management in collaborative design: An approach to assess engineering change impacts" [Computers in Industry 59 (9) (2008) 882-893].
+score: 0.95
+
+24036 24050
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24036 24283
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24036 24295
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24036 24490
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24036 24590
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24036 24596
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24036 24599
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24036 24734
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24036 24844
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24036 25833
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24036 25999
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24036 27016
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24036 27764
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24036 27847
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24036 28053
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24036 28342
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24036 29956
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24036 30433
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24036 30715
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24036 30735
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24050 24283
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24050 24295
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24050 24490
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24050 24590
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24050 24596
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24050 24599
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24050 24734
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24050 24844
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24050 25833
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24050 25999
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24050 27016
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24050 27764
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24050 27847
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24050 28053
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24050 28342
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24050 29956
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24050 30433
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24050 30715
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24050 30735
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24070 25545
+title1: Preface.
+title2: Preface.
+score: 1.0
+
+24070 25781
+title1: Preface.
+title2: Preface.
+score: 1.0
+
+24070 26163
+title1: Preface.
+title2: Preface.
+score: 1.0
+
+24070 26198
+title1: Preface.
+title2: Preface.
+score: 1.0
+
+24070 26810
+title1: Preface.
+title2: Preface.
+score: 1.0
+
+24070 26907
+title1: Preface.
+title2: Preface.
+score: 1.0
+
+24070 27132
+title1: Preface.
+title2: Preface.
+score: 1.0
+
+24070 27318
+title1: Preface.
+title2: Preface.
+score: 1.0
+
+24283 24295
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24283 24490
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24283 24590
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24283 24596
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24283 24599
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24283 24734
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24283 24844
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24283 25833
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24283 25999
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24283 27016
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24283 27764
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24283 27847
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24283 28053
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24283 28342
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24283 29956
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24283 30433
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24283 30715
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24283 30735
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24295 24490
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24295 24590
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24295 24596
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24295 24599
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24295 24734
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24295 24844
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24295 25833
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24295 25999
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24295 27016
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24295 27764
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24295 27847
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24295 28053
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24295 28342
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24295 29956
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24295 30433
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24295 30715
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24295 30735
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24410 26013
+title1: Guest Editorial.
+title2: Guest editorial.
+score: 1.0
+
+24410 27519
+title1: Guest Editorial.
+title2: Guest editorial.
+score: 1.0
+
+24490 24590
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24490 24596
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24490 24599
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24490 24734
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24490 24844
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24490 25833
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24490 25999
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24490 27016
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24490 27764
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24490 27847
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24490 28053
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24490 28342
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24490 29956
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24490 30433
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24490 30715
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24490 30735
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24494 24661
+title1: A decision support system for selecting convenience store location through integration of fuzzy AHP and artificial neural network.
+title2: Erratum to "A decision support system for selecting convenience store location through integration of fuzzy AHP and artificial neural network" [Comput. Ind. 47(2002) 199-214].
+score: 0.75
+
+24590 24596
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24590 24599
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24590 24734
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24590 24844
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24590 25833
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24590 25999
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24590 27016
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24590 27764
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24590 27847
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24590 28053
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24590 28342
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24590 29956
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24590 30433
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24590 30715
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24590 30735
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24596 24599
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24596 24734
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24596 24844
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24596 25833
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24596 25999
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24596 27016
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24596 27764
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24596 27847
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24596 28053
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24596 28342
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24596 29956
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24596 30433
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24596 30715
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24596 30735
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24599 24734
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24599 24844
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24599 25833
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24599 25999
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24599 27016
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24599 27764
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24599 27847
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24599 28053
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24599 28342
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24599 29956
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24599 30433
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24599 30715
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24599 30735
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24734 24844
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24734 25833
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24734 25999
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24734 27016
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24734 27764
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24734 27847
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24734 28053
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24734 28342
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24734 29956
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24734 30433
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24734 30715
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24734 30735
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24844 25833
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24844 25999
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24844 27016
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24844 27764
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24844 27847
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24844 28053
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24844 28342
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24844 29956
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24844 30433
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24844 30715
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+24844 30735
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+25196 27328
+title1: Special section: Scalable information systems.
+title2: Special Section: Scalable information systems.
+score: 1.0
+
+25210 39328
+title1: Scheduling and flexible control of bandwidth and in-transit services for end-to-end application workflows.
+title2: Flexible Scheduling and Control of Bandwidth and In-transit Services for End-to-End Application Workflows
+score: 1.0
+
+25453 26129
+title1: To the Readers.
+title2: To the Readers.
+score: 1.0
+
+25460 27217
+title1: Parallel computing technologies.
+title2: Parallel computing technologies.
+score: 1.0
+
+25460 28064
+title1: Parallel computing technologies.
+title2: Parallel computing technologies.
+score: 1.0
+
+25545 25781
+title1: Preface.
+title2: Preface.
+score: 1.0
+
+25545 26163
+title1: Preface.
+title2: Preface.
+score: 1.0
+
+25545 26198
+title1: Preface.
+title2: Preface.
+score: 1.0
+
+25545 26810
+title1: Preface.
+title2: Preface.
+score: 1.0
+
+25545 26907
+title1: Preface.
+title2: Preface.
+score: 1.0
+
+25545 27132
+title1: Preface.
+title2: Preface.
+score: 1.0
+
+25545 27318
+title1: Preface.
+title2: Preface.
+score: 1.0
+
+25551 26516
+title1: Models and data engineering.
+title2: Models and data engineering.
+score: 1.0
+
+25708 26128
+title1: Economics of computing services.
+title2: Economics of computing services.
+score: 1.0
+
+25712 26788
+title1: Introduction.
+title2: Introduction.
+score: 1.0
+
+25781 26163
+title1: Preface.
+title2: Preface.
+score: 1.0
+
+25781 26198
+title1: Preface.
+title2: Preface.
+score: 1.0
+
+25781 26810
+title1: Preface.
+title2: Preface.
+score: 1.0
+
+25781 26907
+title1: Preface.
+title2: Preface.
+score: 1.0
+
+25781 27132
+title1: Preface.
+title2: Preface.
+score: 1.0
+
+25781 27318
+title1: Preface.
+title2: Preface.
+score: 1.0
+
+25833 25999
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+25833 27016
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+25833 27764
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+25833 27847
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+25833 28053
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+25833 28342
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+25833 29956
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+25833 30433
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+25833 30715
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+25833 30735
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+25999 27016
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+25999 27764
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+25999 27847
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+25999 28053
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+25999 28342
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+25999 29956
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+25999 30433
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+25999 30715
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+25999 30735
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+26013 27519
+title1: Guest editorial.
+title2: Guest editorial.
+score: 1.0
+
+26049 30691
+title1: Foreword.
+title2: Foreword.
+score: 1.0
+
+26163 26198
+title1: Preface.
+title2: Preface.
+score: 1.0
+
+26163 26810
+title1: Preface.
+title2: Preface.
+score: 1.0
+
+26163 26907
+title1: Preface.
+title2: Preface.
+score: 1.0
+
+26163 27132
+title1: Preface.
+title2: Preface.
+score: 1.0
+
+26163 27318
+title1: Preface.
+title2: Preface.
+score: 1.0
+
+26198 26810
+title1: Preface.
+title2: Preface.
+score: 1.0
+
+26198 26907
+title1: Preface.
+title2: Preface.
+score: 1.0
+
+26198 27132
+title1: Preface.
+title2: Preface.
+score: 1.0
+
+26198 27318
+title1: Preface.
+title2: Preface.
+score: 1.0
+
+26220 26663
+title1: Special section: Applications of distributed and grid computing.
+title2: Special Section: Grid computing, high-performance and distributed applications.
+score: 0.7777777777777778
+
+26765 27181
+title1: High Performance Computing and Networking Europe 1997.
+title2: High Performance Computing and Networking Europe 1999.
+score: 0.75
+
+26810 26907
+title1: Preface.
+title2: Preface.
+score: 1.0
+
+26810 27132
+title1: Preface.
+title2: Preface.
+score: 1.0
+
+26810 27318
+title1: Preface.
+title2: Preface.
+score: 1.0
+
+26907 27132
+title1: Preface.
+title2: Preface.
+score: 1.0
+
+26907 27318
+title1: Preface.
+title2: Preface.
+score: 1.0
+
+27016 27764
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+27016 27847
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+27016 28053
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+27016 28342
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+27016 29956
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+27016 30433
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+27016 30715
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+27016 30735
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+27132 27318
+title1: Preface.
+title2: Preface.
+score: 1.0
+
+27217 28064
+title1: Parallel computing technologies.
+title2: Parallel computing technologies.
+score: 1.0
+
+27468 35932
+title1: Welcome.
+title2: Welcome!
+score: 1.0
+
+27468 38656
+title1: Welcome.
+title2: Welcome
+score: 1.0
+
+27764 27847
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+27764 28053
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+27764 28342
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+27764 29956
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+27764 30433
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+27764 30715
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+27764 30735
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+27785 36826
+title1: Keystroke dynamics as a biometric for authentication.
+title2: Keystroke dynamics for biometric authentication — A survey
+score: 0.75
+
+27847 28053
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+27847 28342
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+27847 29956
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+27847 30433
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+27847 30715
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+27847 30735
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+28053 28342
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+28053 29956
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+28053 30433
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+28053 30715
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+28053 30735
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+28342 29956
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+28342 30433
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+28342 30715
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+28342 30735
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+28818 28828
+title1: Book Reviews.
+title2: Book Reviews.
+score: 1.0
+
+29956 30433
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+29956 30715
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+29956 30735
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+30364 30461
+title1: Corrections to "An Efficient Algorithm for Matching Multiple Patterns".
+title2: An Efficient Algorithm for Matching Multiple Patterns.
+score: 0.7777777777777778
+
+30374 31573
+title1: MPGS: An Interactive Tool for the Specification and Generation of Multimedia Presentations.
+title2: Correction to 'MPGS: An Interactive Tool for the Specification and Generation of Multimedia Presentations'.
+score: 0.8571428571428571
+
+30408 31047
+title1: Editorial: Introducing the New Editor-in-Chief of IEEE Transactions on Knowledge and Data Engineering.
+title2: Introducing the New Editor-in-Chief of the IEEE Transactions on Knowledge and Data Engineering.
+score: 0.9230769230769231
+
+30433 30715
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+30433 30735
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+30438 30897
+title1: Editorial: Introducing the New AEs.
+title2: Introducing the New AEs.
+score: 0.8
+
+30531 30801
+title1: EIC Editorial: TKDE Editorial Board Changes.
+title2: EIC Editorial: 2007 TKDE Editorial Board Changes.
+score: 0.8333333333333334
+
+30532 30538
+title1: Correction to "A Family of Directional Relation Models for Extended Objects".
+title2: A Family of Directional Relation Models for Extended Objects.
+score: 0.8181818181818182
+
+30715 30735
+title1: Editorial.
+title2: Editorial.
+score: 1.0
+
+30854 31057
+title1: Correction to 'Automating Statistics Management for Query Optimizers'.
+title2: Automating Statistics Management for Query Optimizers.
+score: 0.75
+
+30966 31184
+title1: Association Algebra: A Mathematical Foundation for Object-Oriented Databases.
+title2: Temporal Association Algebra: A Mathematical Foundation for Processing Object-Oriented Temporal Databases.
+score: 0.8
+
+31125 31461
+title1: EIC Editorial: State of the Transactions.
+title2: Editorial [State of the Transactions].
+score: 0.8333333333333334
+
+32576 38047
+title1: Special sessions
+title2: Special sessions
+score: 1.0
+
+33198 33199
+title1: Stateflow a useful tool for developing new logic algorithms. Case study: Building a state machine for windscreens. Hardware system
+title2: Stateflow a useful tool for developing new logic algorithms. Case study: Building a state machine for windscreens. Software system
+score: 0.8888888888888888
+
+33463 34157
+title1: Welcome message
+title2: Welcome message
+score: 1.0
+
+33617 38617
+title1: Message from the chairs
+title2: Message from the Chairs
+score: 1.0
+
+33646 37385
+title1: Desktop virtualization: Path to pervasive computing in cloud computing era
+title2: Desktop virtualization: Path to pervasive computing in cloud computing era
+score: 1.0
+
+33703 37386
+title1: The extended supply chain: A virtual collaborative ecosystem to enhance and drive innovation
+title2: The extended supply chain: A virtual collaborative ecosystem to enhance and drive innovation
+score: 1.0
+
+33713 37391
+title1: Pervasive / ubiquitously connected
+title2: Pervasive / ubiquitously connected
+score: 1.0
+
+34445 34625
+title1: Invited Talks
+title2: Invited Talks
+score: 1.0
+
+34445 39790
+title1: Invited Talks
+title2: Invited talks
+score: 1.0
+
+34625 39790
+title1: Invited Talks
+title2: Invited talks
+score: 1.0
+
+34921 36860
+title1: Message from program chair
+title2: Message from the program chair
+score: 0.8
+
+34940 34947
+title1: Invited Talk by SSCPS Workshop
+title2: Invited Talk by SSCPS Workshop
+score: 1.0
+
+34942 34948
+title1: Invited Talk by VVASS Workshop
+title2: Invited Talk by VVASS Workshop
+score: 1.0
+
+35015 37711
+title1: Cover
+title2: Cover
+score: 1.0
+
+35036 35037
+title1: Graphene for microelectronics: Can it make a difference?
+title2: Graphene for microelectronics: Can it make a difference?
+score: 1.0
+
+35094 35099
+title1: Advancing high performance heterogeneous integration through die stacking
+title2: Advancing high performance heterogeneous integration through die stacking
+score: 1.0
+
+35095 35098
+title1: Solid-state and biological systems interface
+title2: Solid-State and biological systems interface
+score: 1.0
+
+35096 35100
+title1: The industrialization of the Silicon Photonics: Technology road map and applications
+title2: The industrialization of the Silicon Photonics: Technology road map and applications
+score: 1.0
+
+35097 35102
+title1: Future silicon technology
+title2: Future silicon technology
+score: 1.0
+
+35530 35929
+title1: Program committee
+title2: Program committee
+score: 1.0
+
+35533 39586
+title1: Precision agriculture applications using wireless moisture sensor network
+title2: IoT in Precision Agriculture applications using Wireless Moisture Sensor Network
+score: 0.8
+
+35755 35757
+title1: The IEE seminar on security of distributed control systems
+title2: IEE Seminar on Security of Distributed Control Systems
+score: 0.8888888888888888
+
+35932 38656
+title1: Welcome!
+title2: Welcome
+score: 1.0
+
+36853 38123
+title1: Message from the general chair
+title2: Message from the LANOMS'2011 general chair
+score: 0.8333333333333334
+
+37319 37381
+title1: Applying decorator design pattern for MEMS program model creation
+title2: Applying composite design pattern for MEMS program model creation
+score: 0.8
+
+37414 40331
+title1: Invited talk
+title2: Invited Talk
+score: 1.0
+
+38782 38787
+title1: Understanding the design variables that contribute to the response of a prosthetic foot: Part II — Rig validation
+title2: Understanding the design variables that contribute to the response of a prosthetic foot: Part I — Rig design
+score: 0.8235294117647058
+
+39513 39514
+title1: Short-term load forecasting using an artificial neural network
+title2: Short-term system load forecasting using an artificial neural network
+score: 0.8888888888888888
+
+39709 40099
+title1: null
+title2: null
+score: 1.0
+
+39709 40100
+title1: null
+title2: null
+score: 1.0
+
+39709 40101
+title1: null
+title2: null
+score: 1.0
+
+39709 40103
+title1: null
+title2: null
+score: 1.0
+
+39709 40104
+title1: null
+title2: null
+score: 1.0
+
+39709 40105
+title1: null
+title2: null
+score: 1.0
+
+39709 40106
+title1: null
+title2: null
+score: 1.0
+
+39709 40108
+title1: null
+title2: null
+score: 1.0
+
+39709 40109
+title1: null
+title2: null
+score: 1.0
+
+39709 40110
+title1: null
+title2: null
+score: 1.0
+
+39709 40111
+title1: null
+title2: null
+score: 1.0
+
+39709 40112
+title1: null
+title2: null
+score: 1.0
+
+39709 40113
+title1: null
+title2: null
+score: 1.0
+
+39709 40114
+title1: null
+title2: null
+score: 1.0
+
+39709 40115
+title1: null
+title2: null
+score: 1.0
+
+39709 40116
+title1: null
+title2: null
+score: 1.0
+
+39709 40117
+title1: null
+title2: null
+score: 1.0
+
+39709 40118
+title1: null
+title2: null
+score: 1.0
+
+39709 40119
+title1: null
+title2: null
+score: 1.0
+
+39709 40120
+title1: null
+title2: null
+score: 1.0
+
+39709 40121
+title1: null
+title2: null
+score: 1.0
+
+39709 40122
+title1: null
+title2: null
+score: 1.0
+
+39709 40123
+title1: null
+title2: null
+score: 1.0
+
+39709 40124
+title1: null
+title2: null
+score: 1.0
+
+39709 40125
+title1: null
+title2: null
+score: 1.0
+
+39709 40126
+title1: null
+title2: null
+score: 1.0
+
+39709 40127
+title1: null
+title2: null
+score: 1.0
+
+39709 40128
+title1: null
+title2: null
+score: 1.0
+
+39709 40129
+title1: null
+title2: null
+score: 1.0
+
+39709 40130
+title1: null
+title2: null
+score: 1.0
+
+39709 40131
+title1: null
+title2: null
+score: 1.0
+
+39709 40132
+title1: null
+title2: null
+score: 1.0
+
+39709 40133
+title1: null
+title2: null
+score: 1.0
+
+39709 40134
+title1: null
+title2: null
+score: 1.0
+
+39709 40135
+title1: null
+title2: null
+score: 1.0
+
+39709 40136
+title1: null
+title2: null
+score: 1.0
+
+39709 40137
+title1: null
+title2: null
+score: 1.0
+
+39709 40138
+title1: null
+title2: null
+score: 1.0
+
+39709 40139
+title1: null
+title2: null
+score: 1.0
+
+39709 40140
+title1: null
+title2: null
+score: 1.0
+
+39709 40141
+title1: null
+title2: null
+score: 1.0
+
+39709 40142
+title1: null
+title2: null
+score: 1.0
+
+39709 40143
+title1: null
+title2: null
+score: 1.0
+
+39709 40144
+title1: null
+title2: null
+score: 1.0
+
+40099 40100
+title1: null
+title2: null
+score: 1.0
+
+40099 40101
+title1: null
+title2: null
+score: 1.0
+
+40099 40103
+title1: null
+title2: null
+score: 1.0
+
+40099 40104
+title1: null
+title2: null
+score: 1.0
+
+40099 40105
+title1: null
+title2: null
+score: 1.0
+
+40099 40106
+title1: null
+title2: null
+score: 1.0
+
+40099 40108
+title1: null
+title2: null
+score: 1.0
+
+40099 40109
+title1: null
+title2: null
+score: 1.0
+
+40099 40110
+title1: null
+title2: null
+score: 1.0
+
+40099 40111
+title1: null
+title2: null
+score: 1.0
+
+40099 40112
+title1: null
+title2: null
+score: 1.0
+
+40099 40113
+title1: null
+title2: null
+score: 1.0
+
+40099 40114
+title1: null
+title2: null
+score: 1.0
+
+40099 40115
+title1: null
+title2: null
+score: 1.0
+
+40099 40116
+title1: null
+title2: null
+score: 1.0
+
+40099 40117
+title1: null
+title2: null
+score: 1.0
+
+40099 40118
+title1: null
+title2: null
+score: 1.0
+
+40099 40119
+title1: null
+title2: null
+score: 1.0
+
+40099 40120
+title1: null
+title2: null
+score: 1.0
+
+40099 40121
+title1: null
+title2: null
+score: 1.0
+
+40099 40122
+title1: null
+title2: null
+score: 1.0
+
+40099 40123
+title1: null
+title2: null
+score: 1.0
+
+40099 40124
+title1: null
+title2: null
+score: 1.0
+
+40099 40125
+title1: null
+title2: null
+score: 1.0
+
+40099 40126
+title1: null
+title2: null
+score: 1.0
+
+40099 40127
+title1: null
+title2: null
+score: 1.0
+
+40099 40128
+title1: null
+title2: null
+score: 1.0
+
+40099 40129
+title1: null
+title2: null
+score: 1.0
+
+40099 40130
+title1: null
+title2: null
+score: 1.0
+
+40099 40131
+title1: null
+title2: null
+score: 1.0
+
+40099 40132
+title1: null
+title2: null
+score: 1.0
+
+40099 40133
+title1: null
+title2: null
+score: 1.0
+
+40099 40134
+title1: null
+title2: null
+score: 1.0
+
+40099 40135
+title1: null
+title2: null
+score: 1.0
+
+40099 40136
+title1: null
+title2: null
+score: 1.0
+
+40099 40137
+title1: null
+title2: null
+score: 1.0
+
+40099 40138
+title1: null
+title2: null
+score: 1.0
+
+40099 40139
+title1: null
+title2: null
+score: 1.0
+
+40099 40140
+title1: null
+title2: null
+score: 1.0
+
+40099 40141
+title1: null
+title2: null
+score: 1.0
+
+40099 40142
+title1: null
+title2: null
+score: 1.0
+
+40099 40143
+title1: null
+title2: null
+score: 1.0
+
+40099 40144
+title1: null
+title2: null
+score: 1.0
+
+40100 40101
+title1: null
+title2: null
+score: 1.0
+
+40100 40103
+title1: null
+title2: null
+score: 1.0
+
+40100 40104
+title1: null
+title2: null
+score: 1.0
+
+40100 40105
+title1: null
+title2: null
+score: 1.0
+
+40100 40106
+title1: null
+title2: null
+score: 1.0
+
+40100 40108
+title1: null
+title2: null
+score: 1.0
+
+40100 40109
+title1: null
+title2: null
+score: 1.0
+
+40100 40110
+title1: null
+title2: null
+score: 1.0
+
+40100 40111
+title1: null
+title2: null
+score: 1.0
+
+40100 40112
+title1: null
+title2: null
+score: 1.0
+
+40100 40113
+title1: null
+title2: null
+score: 1.0
+
+40100 40114
+title1: null
+title2: null
+score: 1.0
+
+40100 40115
+title1: null
+title2: null
+score: 1.0
+
+40100 40116
+title1: null
+title2: null
+score: 1.0
+
+40100 40117
+title1: null
+title2: null
+score: 1.0
+
+40100 40118
+title1: null
+title2: null
+score: 1.0
+
+40100 40119
+title1: null
+title2: null
+score: 1.0
+
+40100 40120
+title1: null
+title2: null
+score: 1.0
+
+40100 40121
+title1: null
+title2: null
+score: 1.0
+
+40100 40122
+title1: null
+title2: null
+score: 1.0
+
+40100 40123
+title1: null
+title2: null
+score: 1.0
+
+40100 40124
+title1: null
+title2: null
+score: 1.0
+
+40100 40125
+title1: null
+title2: null
+score: 1.0
+
+40100 40126
+title1: null
+title2: null
+score: 1.0
+
+40100 40127
+title1: null
+title2: null
+score: 1.0
+
+40100 40128
+title1: null
+title2: null
+score: 1.0
+
+40100 40129
+title1: null
+title2: null
+score: 1.0
+
+40100 40130
+title1: null
+title2: null
+score: 1.0
+
+40100 40131
+title1: null
+title2: null
+score: 1.0
+
+40100 40132
+title1: null
+title2: null
+score: 1.0
+
+40100 40133
+title1: null
+title2: null
+score: 1.0
+
+40100 40134
+title1: null
+title2: null
+score: 1.0
+
+40100 40135
+title1: null
+title2: null
+score: 1.0
+
+40100 40136
+title1: null
+title2: null
+score: 1.0
+
+40100 40137
+title1: null
+title2: null
+score: 1.0
+
+40100 40138
+title1: null
+title2: null
+score: 1.0
+
+40100 40139
+title1: null
+title2: null
+score: 1.0
+
+40100 40140
+title1: null
+title2: null
+score: 1.0
+
+40100 40141
+title1: null
+title2: null
+score: 1.0
+
+40100 40142
+title1: null
+title2: null
+score: 1.0
+
+40100 40143
+title1: null
+title2: null
+score: 1.0
+
+40100 40144
+title1: null
+title2: null
+score: 1.0
+
+40101 40103
+title1: null
+title2: null
+score: 1.0
+
+40101 40104
+title1: null
+title2: null
+score: 1.0
+
+40101 40105
+title1: null
+title2: null
+score: 1.0
+
+40101 40106
+title1: null
+title2: null
+score: 1.0
+
+40101 40108
+title1: null
+title2: null
+score: 1.0
+
+40101 40109
+title1: null
+title2: null
+score: 1.0
+
+40101 40110
+title1: null
+title2: null
+score: 1.0
+
+40101 40111
+title1: null
+title2: null
+score: 1.0
+
+40101 40112
+title1: null
+title2: null
+score: 1.0
+
+40101 40113
+title1: null
+title2: null
+score: 1.0
+
+40101 40114
+title1: null
+title2: null
+score: 1.0
+
+40101 40115
+title1: null
+title2: null
+score: 1.0
+
+40101 40116
+title1: null
+title2: null
+score: 1.0
+
+40101 40117
+title1: null
+title2: null
+score: 1.0
+
+40101 40118
+title1: null
+title2: null
+score: 1.0
+
+40101 40119
+title1: null
+title2: null
+score: 1.0
+
+40101 40120
+title1: null
+title2: null
+score: 1.0
+
+40101 40121
+title1: null
+title2: null
+score: 1.0
+
+40101 40122
+title1: null
+title2: null
+score: 1.0
+
+40101 40123
+title1: null
+title2: null
+score: 1.0
+
+40101 40124
+title1: null
+title2: null
+score: 1.0
+
+40101 40125
+title1: null
+title2: null
+score: 1.0
+
+40101 40126
+title1: null
+title2: null
+score: 1.0
+
+40101 40127
+title1: null
+title2: null
+score: 1.0
+
+40101 40128
+title1: null
+title2: null
+score: 1.0
+
+40101 40129
+title1: null
+title2: null
+score: 1.0
+
+40101 40130
+title1: null
+title2: null
+score: 1.0
+
+40101 40131
+title1: null
+title2: null
+score: 1.0
+
+40101 40132
+title1: null
+title2: null
+score: 1.0
+
+40101 40133
+title1: null
+title2: null
+score: 1.0
+
+40101 40134
+title1: null
+title2: null
+score: 1.0
+
+40101 40135
+title1: null
+title2: null
+score: 1.0
+
+40101 40136
+title1: null
+title2: null
+score: 1.0
+
+40101 40137
+title1: null
+title2: null
+score: 1.0
+
+40101 40138
+title1: null
+title2: null
+score: 1.0
+
+40101 40139
+title1: null
+title2: null
+score: 1.0
+
+40101 40140
+title1: null
+title2: null
+score: 1.0
+
+40101 40141
+title1: null
+title2: null
+score: 1.0
+
+40101 40142
+title1: null
+title2: null
+score: 1.0
+
+40101 40143
+title1: null
+title2: null
+score: 1.0
+
+40101 40144
+title1: null
+title2: null
+score: 1.0
+
+40103 40104
+title1: null
+title2: null
+score: 1.0
+
+40103 40105
+title1: null
+title2: null
+score: 1.0
+
+40103 40106
+title1: null
+title2: null
+score: 1.0
+
+40103 40108
+title1: null
+title2: null
+score: 1.0
+
+40103 40109
+title1: null
+title2: null
+score: 1.0
+
+40103 40110
+title1: null
+title2: null
+score: 1.0
+
+40103 40111
+title1: null
+title2: null
+score: 1.0
+
+40103 40112
+title1: null
+title2: null
+score: 1.0
+
+40103 40113
+title1: null
+title2: null
+score: 1.0
+
+40103 40114
+title1: null
+title2: null
+score: 1.0
+
+40103 40115
+title1: null
+title2: null
+score: 1.0
+
+40103 40116
+title1: null
+title2: null
+score: 1.0
+
+40103 40117
+title1: null
+title2: null
+score: 1.0
+
+40103 40118
+title1: null
+title2: null
+score: 1.0
+
+40103 40119
+title1: null
+title2: null
+score: 1.0
+
+40103 40120
+title1: null
+title2: null
+score: 1.0
+
+40103 40121
+title1: null
+title2: null
+score: 1.0
+
+40103 40122
+title1: null
+title2: null
+score: 1.0
+
+40103 40123
+title1: null
+title2: null
+score: 1.0
+
+40103 40124
+title1: null
+title2: null
+score: 1.0
+
+40103 40125
+title1: null
+title2: null
+score: 1.0
+
+40103 40126
+title1: null
+title2: null
+score: 1.0
+
+40103 40127
+title1: null
+title2: null
+score: 1.0
+
+40103 40128
+title1: null
+title2: null
+score: 1.0
+
+40103 40129
+title1: null
+title2: null
+score: 1.0
+
+40103 40130
+title1: null
+title2: null
+score: 1.0
+
+40103 40131
+title1: null
+title2: null
+score: 1.0
+
+40103 40132
+title1: null
+title2: null
+score: 1.0
+
+40103 40133
+title1: null
+title2: null
+score: 1.0
+
+40103 40134
+title1: null
+title2: null
+score: 1.0
+
+40103 40135
+title1: null
+title2: null
+score: 1.0
+
+40103 40136
+title1: null
+title2: null
+score: 1.0
+
+40103 40137
+title1: null
+title2: null
+score: 1.0
+
+40103 40138
+title1: null
+title2: null
+score: 1.0
+
+40103 40139
+title1: null
+title2: null
+score: 1.0
+
+40103 40140
+title1: null
+title2: null
+score: 1.0
+
+40103 40141
+title1: null
+title2: null
+score: 1.0
+
+40103 40142
+title1: null
+title2: null
+score: 1.0
+
+40103 40143
+title1: null
+title2: null
+score: 1.0
+
+40103 40144
+title1: null
+title2: null
+score: 1.0
+
+40104 40105
+title1: null
+title2: null
+score: 1.0
+
+40104 40106
+title1: null
+title2: null
+score: 1.0
+
+40104 40108
+title1: null
+title2: null
+score: 1.0
+
+40104 40109
+title1: null
+title2: null
+score: 1.0
+
+40104 40110
+title1: null
+title2: null
+score: 1.0
+
+40104 40111
+title1: null
+title2: null
+score: 1.0
+
+40104 40112
+title1: null
+title2: null
+score: 1.0
+
+40104 40113
+title1: null
+title2: null
+score: 1.0
+
+40104 40114
+title1: null
+title2: null
+score: 1.0
+
+40104 40115
+title1: null
+title2: null
+score: 1.0
+
+40104 40116
+title1: null
+title2: null
+score: 1.0
+
+40104 40117
+title1: null
+title2: null
+score: 1.0
+
+40104 40118
+title1: null
+title2: null
+score: 1.0
+
+40104 40119
+title1: null
+title2: null
+score: 1.0
+
+40104 40120
+title1: null
+title2: null
+score: 1.0
+
+40104 40121
+title1: null
+title2: null
+score: 1.0
+
+40104 40122
+title1: null
+title2: null
+score: 1.0
+
+40104 40123
+title1: null
+title2: null
+score: 1.0
+
+40104 40124
+title1: null
+title2: null
+score: 1.0
+
+40104 40125
+title1: null
+title2: null
+score: 1.0
+
+40104 40126
+title1: null
+title2: null
+score: 1.0
+
+40104 40127
+title1: null
+title2: null
+score: 1.0
+
+40104 40128
+title1: null
+title2: null
+score: 1.0
+
+40104 40129
+title1: null
+title2: null
+score: 1.0
+
+40104 40130
+title1: null
+title2: null
+score: 1.0
+
+40104 40131
+title1: null
+title2: null
+score: 1.0
+
+40104 40132
+title1: null
+title2: null
+score: 1.0
+
+40104 40133
+title1: null
+title2: null
+score: 1.0
+
+40104 40134
+title1: null
+title2: null
+score: 1.0
+
+40104 40135
+title1: null
+title2: null
+score: 1.0
+
+40104 40136
+title1: null
+title2: null
+score: 1.0
+
+40104 40137
+title1: null
+title2: null
+score: 1.0
+
+40104 40138
+title1: null
+title2: null
+score: 1.0
+
+40104 40139
+title1: null
+title2: null
+score: 1.0
+
+40104 40140
+title1: null
+title2: null
+score: 1.0
+
+40104 40141
+title1: null
+title2: null
+score: 1.0
+
+40104 40142
+title1: null
+title2: null
+score: 1.0
+
+40104 40143
+title1: null
+title2: null
+score: 1.0
+
+40104 40144
+title1: null
+title2: null
+score: 1.0
+
+40105 40106
+title1: null
+title2: null
+score: 1.0
+
+40105 40108
+title1: null
+title2: null
+score: 1.0
+
+40105 40109
+title1: null
+title2: null
+score: 1.0
+
+40105 40110
+title1: null
+title2: null
+score: 1.0
+
+40105 40111
+title1: null
+title2: null
+score: 1.0
+
+40105 40112
+title1: null
+title2: null
+score: 1.0
+
+40105 40113
+title1: null
+title2: null
+score: 1.0
+
+40105 40114
+title1: null
+title2: null
+score: 1.0
+
+40105 40115
+title1: null
+title2: null
+score: 1.0
+
+40105 40116
+title1: null
+title2: null
+score: 1.0
+
+40105 40117
+title1: null
+title2: null
+score: 1.0
+
+40105 40118
+title1: null
+title2: null
+score: 1.0
+
+40105 40119
+title1: null
+title2: null
+score: 1.0
+
+40105 40120
+title1: null
+title2: null
+score: 1.0
+
+40105 40121
+title1: null
+title2: null
+score: 1.0
+
+40105 40122
+title1: null
+title2: null
+score: 1.0
+
+40105 40123
+title1: null
+title2: null
+score: 1.0
+
+40105 40124
+title1: null
+title2: null
+score: 1.0
+
+40105 40125
+title1: null
+title2: null
+score: 1.0
+
+40105 40126
+title1: null
+title2: null
+score: 1.0
+
+40105 40127
+title1: null
+title2: null
+score: 1.0
+
+40105 40128
+title1: null
+title2: null
+score: 1.0
+
+40105 40129
+title1: null
+title2: null
+score: 1.0
+
+40105 40130
+title1: null
+title2: null
+score: 1.0
+
+40105 40131
+title1: null
+title2: null
+score: 1.0
+
+40105 40132
+title1: null
+title2: null
+score: 1.0
+
+40105 40133
+title1: null
+title2: null
+score: 1.0
+
+40105 40134
+title1: null
+title2: null
+score: 1.0
+
+40105 40135
+title1: null
+title2: null
+score: 1.0
+
+40105 40136
+title1: null
+title2: null
+score: 1.0
+
+40105 40137
+title1: null
+title2: null
+score: 1.0
+
+40105 40138
+title1: null
+title2: null
+score: 1.0
+
+40105 40139
+title1: null
+title2: null
+score: 1.0
+
+40105 40140
+title1: null
+title2: null
+score: 1.0
+
+40105 40141
+title1: null
+title2: null
+score: 1.0
+
+40105 40142
+title1: null
+title2: null
+score: 1.0
+
+40105 40143
+title1: null
+title2: null
+score: 1.0
+
+40105 40144
+title1: null
+title2: null
+score: 1.0
+
+40106 40108
+title1: null
+title2: null
+score: 1.0
+
+40106 40109
+title1: null
+title2: null
+score: 1.0
+
+40106 40110
+title1: null
+title2: null
+score: 1.0
+
+40106 40111
+title1: null
+title2: null
+score: 1.0
+
+40106 40112
+title1: null
+title2: null
+score: 1.0
+
+40106 40113
+title1: null
+title2: null
+score: 1.0
+
+40106 40114
+title1: null
+title2: null
+score: 1.0
+
+40106 40115
+title1: null
+title2: null
+score: 1.0
+
+40106 40116
+title1: null
+title2: null
+score: 1.0
+
+40106 40117
+title1: null
+title2: null
+score: 1.0
+
+40106 40118
+title1: null
+title2: null
+score: 1.0
+
+40106 40119
+title1: null
+title2: null
+score: 1.0
+
+40106 40120
+title1: null
+title2: null
+score: 1.0
+
+40106 40121
+title1: null
+title2: null
+score: 1.0
+
+40106 40122
+title1: null
+title2: null
+score: 1.0
+
+40106 40123
+title1: null
+title2: null
+score: 1.0
+
+40106 40124
+title1: null
+title2: null
+score: 1.0
+
+40106 40125
+title1: null
+title2: null
+score: 1.0
+
+40106 40126
+title1: null
+title2: null
+score: 1.0
+
+40106 40127
+title1: null
+title2: null
+score: 1.0
+
+40106 40128
+title1: null
+title2: null
+score: 1.0
+
+40106 40129
+title1: null
+title2: null
+score: 1.0
+
+40106 40130
+title1: null
+title2: null
+score: 1.0
+
+40106 40131
+title1: null
+title2: null
+score: 1.0
+
+40106 40132
+title1: null
+title2: null
+score: 1.0
+
+40106 40133
+title1: null
+title2: null
+score: 1.0
+
+40106 40134
+title1: null
+title2: null
+score: 1.0
+
+40106 40135
+title1: null
+title2: null
+score: 1.0
+
+40106 40136
+title1: null
+title2: null
+score: 1.0
+
+40106 40137
+title1: null
+title2: null
+score: 1.0
+
+40106 40138
+title1: null
+title2: null
+score: 1.0
+
+40106 40139
+title1: null
+title2: null
+score: 1.0
+
+40106 40140
+title1: null
+title2: null
+score: 1.0
+
+40106 40141
+title1: null
+title2: null
+score: 1.0
+
+40106 40142
+title1: null
+title2: null
+score: 1.0
+
+40106 40143
+title1: null
+title2: null
+score: 1.0
+
+40106 40144
+title1: null
+title2: null
+score: 1.0
+
+40108 40109
+title1: null
+title2: null
+score: 1.0
+
+40108 40110
+title1: null
+title2: null
+score: 1.0
+
+40108 40111
+title1: null
+title2: null
+score: 1.0
+
+40108 40112
+title1: null
+title2: null
+score: 1.0
+
+40108 40113
+title1: null
+title2: null
+score: 1.0
+
+40108 40114
+title1: null
+title2: null
+score: 1.0
+
+40108 40115
+title1: null
+title2: null
+score: 1.0
+
+40108 40116
+title1: null
+title2: null
+score: 1.0
+
+40108 40117
+title1: null
+title2: null
+score: 1.0
+
+40108 40118
+title1: null
+title2: null
+score: 1.0
+
+40108 40119
+title1: null
+title2: null
+score: 1.0
+
+40108 40120
+title1: null
+title2: null
+score: 1.0
+
+40108 40121
+title1: null
+title2: null
+score: 1.0
+
+40108 40122
+title1: null
+title2: null
+score: 1.0
+
+40108 40123
+title1: null
+title2: null
+score: 1.0
+
+40108 40124
+title1: null
+title2: null
+score: 1.0
+
+40108 40125
+title1: null
+title2: null
+score: 1.0
+
+40108 40126
+title1: null
+title2: null
+score: 1.0
+
+40108 40127
+title1: null
+title2: null
+score: 1.0
+
+40108 40128
+title1: null
+title2: null
+score: 1.0
+
+40108 40129
+title1: null
+title2: null
+score: 1.0
+
+40108 40130
+title1: null
+title2: null
+score: 1.0
+
+40108 40131
+title1: null
+title2: null
+score: 1.0
+
+40108 40132
+title1: null
+title2: null
+score: 1.0
+
+40108 40133
+title1: null
+title2: null
+score: 1.0
+
+40108 40134
+title1: null
+title2: null
+score: 1.0
+
+40108 40135
+title1: null
+title2: null
+score: 1.0
+
+40108 40136
+title1: null
+title2: null
+score: 1.0
+
+40108 40137
+title1: null
+title2: null
+score: 1.0
+
+40108 40138
+title1: null
+title2: null
+score: 1.0
+
+40108 40139
+title1: null
+title2: null
+score: 1.0
+
+40108 40140
+title1: null
+title2: null
+score: 1.0
+
+40108 40141
+title1: null
+title2: null
+score: 1.0
+
+40108 40142
+title1: null
+title2: null
+score: 1.0
+
+40108 40143
+title1: null
+title2: null
+score: 1.0
+
+40108 40144
+title1: null
+title2: null
+score: 1.0
+
+40109 40110
+title1: null
+title2: null
+score: 1.0
+
+40109 40111
+title1: null
+title2: null
+score: 1.0
+
+40109 40112
+title1: null
+title2: null
+score: 1.0
+
+40109 40113
+title1: null
+title2: null
+score: 1.0
+
+40109 40114
+title1: null
+title2: null
+score: 1.0
+
+40109 40115
+title1: null
+title2: null
+score: 1.0
+
+40109 40116
+title1: null
+title2: null
+score: 1.0
+
+40109 40117
+title1: null
+title2: null
+score: 1.0
+
+40109 40118
+title1: null
+title2: null
+score: 1.0
+
+40109 40119
+title1: null
+title2: null
+score: 1.0
+
+40109 40120
+title1: null
+title2: null
+score: 1.0
+
+40109 40121
+title1: null
+title2: null
+score: 1.0
+
+40109 40122
+title1: null
+title2: null
+score: 1.0
+
+40109 40123
+title1: null
+title2: null
+score: 1.0
+
+40109 40124
+title1: null
+title2: null
+score: 1.0
+
+40109 40125
+title1: null
+title2: null
+score: 1.0
+
+40109 40126
+title1: null
+title2: null
+score: 1.0
+
+40109 40127
+title1: null
+title2: null
+score: 1.0
+
+40109 40128
+title1: null
+title2: null
+score: 1.0
+
+40109 40129
+title1: null
+title2: null
+score: 1.0
+
+40109 40130
+title1: null
+title2: null
+score: 1.0
+
+40109 40131
+title1: null
+title2: null
+score: 1.0
+
+40109 40132
+title1: null
+title2: null
+score: 1.0
+
+40109 40133
+title1: null
+title2: null
+score: 1.0
+
+40109 40134
+title1: null
+title2: null
+score: 1.0
+
+40109 40135
+title1: null
+title2: null
+score: 1.0
+
+40109 40136
+title1: null
+title2: null
+score: 1.0
+
+40109 40137
+title1: null
+title2: null
+score: 1.0
+
+40109 40138
+title1: null
+title2: null
+score: 1.0
+
+40109 40139
+title1: null
+title2: null
+score: 1.0
+
+40109 40140
+title1: null
+title2: null
+score: 1.0
+
+40109 40141
+title1: null
+title2: null
+score: 1.0
+
+40109 40142
+title1: null
+title2: null
+score: 1.0
+
+40109 40143
+title1: null
+title2: null
+score: 1.0
+
+40109 40144
+title1: null
+title2: null
+score: 1.0
+
+40110 40111
+title1: null
+title2: null
+score: 1.0
+
+40110 40112
+title1: null
+title2: null
+score: 1.0
+
+40110 40113
+title1: null
+title2: null
+score: 1.0
+
+40110 40114
+title1: null
+title2: null
+score: 1.0
+
+40110 40115
+title1: null
+title2: null
+score: 1.0
+
+40110 40116
+title1: null
+title2: null
+score: 1.0
+
+40110 40117
+title1: null
+title2: null
+score: 1.0
+
+40110 40118
+title1: null
+title2: null
+score: 1.0
+
+40110 40119
+title1: null
+title2: null
+score: 1.0
+
+40110 40120
+title1: null
+title2: null
+score: 1.0
+
+40110 40121
+title1: null
+title2: null
+score: 1.0
+
+40110 40122
+title1: null
+title2: null
+score: 1.0
+
+40110 40123
+title1: null
+title2: null
+score: 1.0
+
+40110 40124
+title1: null
+title2: null
+score: 1.0
+
+40110 40125
+title1: null
+title2: null
+score: 1.0
+
+40110 40126
+title1: null
+title2: null
+score: 1.0
+
+40110 40127
+title1: null
+title2: null
+score: 1.0
+
+40110 40128
+title1: null
+title2: null
+score: 1.0
+
+40110 40129
+title1: null
+title2: null
+score: 1.0
+
+40110 40130
+title1: null
+title2: null
+score: 1.0
+
+40110 40131
+title1: null
+title2: null
+score: 1.0
+
+40110 40132
+title1: null
+title2: null
+score: 1.0
+
+40110 40133
+title1: null
+title2: null
+score: 1.0
+
+40110 40134
+title1: null
+title2: null
+score: 1.0
+
+40110 40135
+title1: null
+title2: null
+score: 1.0
+
+40110 40136
+title1: null
+title2: null
+score: 1.0
+
+40110 40137
+title1: null
+title2: null
+score: 1.0
+
+40110 40138
+title1: null
+title2: null
+score: 1.0
+
+40110 40139
+title1: null
+title2: null
+score: 1.0
+
+40110 40140
+title1: null
+title2: null
+score: 1.0
+
+40110 40141
+title1: null
+title2: null
+score: 1.0
+
+40110 40142
+title1: null
+title2: null
+score: 1.0
+
+40110 40143
+title1: null
+title2: null
+score: 1.0
+
+40110 40144
+title1: null
+title2: null
+score: 1.0
+
+40111 40112
+title1: null
+title2: null
+score: 1.0
+
+40111 40113
+title1: null
+title2: null
+score: 1.0
+
+40111 40114
+title1: null
+title2: null
+score: 1.0
+
+40111 40115
+title1: null
+title2: null
+score: 1.0
+
+40111 40116
+title1: null
+title2: null
+score: 1.0
+
+40111 40117
+title1: null
+title2: null
+score: 1.0
+
+40111 40118
+title1: null
+title2: null
+score: 1.0
+
+40111 40119
+title1: null
+title2: null
+score: 1.0
+
+40111 40120
+title1: null
+title2: null
+score: 1.0
+
+40111 40121
+title1: null
+title2: null
+score: 1.0
+
+40111 40122
+title1: null
+title2: null
+score: 1.0
+
+40111 40123
+title1: null
+title2: null
+score: 1.0
+
+40111 40124
+title1: null
+title2: null
+score: 1.0
+
+40111 40125
+title1: null
+title2: null
+score: 1.0
+
+40111 40126
+title1: null
+title2: null
+score: 1.0
+
+40111 40127
+title1: null
+title2: null
+score: 1.0
+
+40111 40128
+title1: null
+title2: null
+score: 1.0
+
+40111 40129
+title1: null
+title2: null
+score: 1.0
+
+40111 40130
+title1: null
+title2: null
+score: 1.0
+
+40111 40131
+title1: null
+title2: null
+score: 1.0
+
+40111 40132
+title1: null
+title2: null
+score: 1.0
+
+40111 40133
+title1: null
+title2: null
+score: 1.0
+
+40111 40134
+title1: null
+title2: null
+score: 1.0
+
+40111 40135
+title1: null
+title2: null
+score: 1.0
+
+40111 40136
+title1: null
+title2: null
+score: 1.0
+
+40111 40137
+title1: null
+title2: null
+score: 1.0
+
+40111 40138
+title1: null
+title2: null
+score: 1.0
+
+40111 40139
+title1: null
+title2: null
+score: 1.0
+
+40111 40140
+title1: null
+title2: null
+score: 1.0
+
+40111 40141
+title1: null
+title2: null
+score: 1.0
+
+40111 40142
+title1: null
+title2: null
+score: 1.0
+
+40111 40143
+title1: null
+title2: null
+score: 1.0
+
+40111 40144
+title1: null
+title2: null
+score: 1.0
+
+40112 40113
+title1: null
+title2: null
+score: 1.0
+
+40112 40114
+title1: null
+title2: null
+score: 1.0
+
+40112 40115
+title1: null
+title2: null
+score: 1.0
+
+40112 40116
+title1: null
+title2: null
+score: 1.0
+
+40112 40117
+title1: null
+title2: null
+score: 1.0
+
+40112 40118
+title1: null
+title2: null
+score: 1.0
+
+40112 40119
+title1: null
+title2: null
+score: 1.0
+
+40112 40120
+title1: null
+title2: null
+score: 1.0
+
+40112 40121
+title1: null
+title2: null
+score: 1.0
+
+40112 40122
+title1: null
+title2: null
+score: 1.0
+
+40112 40123
+title1: null
+title2: null
+score: 1.0
+
+40112 40124
+title1: null
+title2: null
+score: 1.0
+
+40112 40125
+title1: null
+title2: null
+score: 1.0
+
+40112 40126
+title1: null
+title2: null
+score: 1.0
+
+40112 40127
+title1: null
+title2: null
+score: 1.0
+
+40112 40128
+title1: null
+title2: null
+score: 1.0
+
+40112 40129
+title1: null
+title2: null
+score: 1.0
+
+40112 40130
+title1: null
+title2: null
+score: 1.0
+
+40112 40131
+title1: null
+title2: null
+score: 1.0
+
+40112 40132
+title1: null
+title2: null
+score: 1.0
+
+40112 40133
+title1: null
+title2: null
+score: 1.0
+
+40112 40134
+title1: null
+title2: null
+score: 1.0
+
+40112 40135
+title1: null
+title2: null
+score: 1.0
+
+40112 40136
+title1: null
+title2: null
+score: 1.0
+
+40112 40137
+title1: null
+title2: null
+score: 1.0
+
+40112 40138
+title1: null
+title2: null
+score: 1.0
+
+40112 40139
+title1: null
+title2: null
+score: 1.0
+
+40112 40140
+title1: null
+title2: null
+score: 1.0
+
+40112 40141
+title1: null
+title2: null
+score: 1.0
+
+40112 40142
+title1: null
+title2: null
+score: 1.0
+
+40112 40143
+title1: null
+title2: null
+score: 1.0
+
+40112 40144
+title1: null
+title2: null
+score: 1.0
+
+40113 40114
+title1: null
+title2: null
+score: 1.0
+
+40113 40115
+title1: null
+title2: null
+score: 1.0
+
+40113 40116
+title1: null
+title2: null
+score: 1.0
+
+40113 40117
+title1: null
+title2: null
+score: 1.0
+
+40113 40118
+title1: null
+title2: null
+score: 1.0
+
+40113 40119
+title1: null
+title2: null
+score: 1.0
+
+40113 40120
+title1: null
+title2: null
+score: 1.0
+
+40113 40121
+title1: null
+title2: null
+score: 1.0
+
+40113 40122
+title1: null
+title2: null
+score: 1.0
+
+40113 40123
+title1: null
+title2: null
+score: 1.0
+
+40113 40124
+title1: null
+title2: null
+score: 1.0
+
+40113 40125
+title1: null
+title2: null
+score: 1.0
+
+40113 40126
+title1: null
+title2: null
+score: 1.0
+
+40113 40127
+title1: null
+title2: null
+score: 1.0
+
+40113 40128
+title1: null
+title2: null
+score: 1.0
+
+40113 40129
+title1: null
+title2: null
+score: 1.0
+
+40113 40130
+title1: null
+title2: null
+score: 1.0
+
+40113 40131
+title1: null
+title2: null
+score: 1.0
+
+40113 40132
+title1: null
+title2: null
+score: 1.0
+
+40113 40133
+title1: null
+title2: null
+score: 1.0
+
+40113 40134
+title1: null
+title2: null
+score: 1.0
+
+40113 40135
+title1: null
+title2: null
+score: 1.0
+
+40113 40136
+title1: null
+title2: null
+score: 1.0
+
+40113 40137
+title1: null
+title2: null
+score: 1.0
+
+40113 40138
+title1: null
+title2: null
+score: 1.0
+
+40113 40139
+title1: null
+title2: null
+score: 1.0
+
+40113 40140
+title1: null
+title2: null
+score: 1.0
+
+40113 40141
+title1: null
+title2: null
+score: 1.0
+
+40113 40142
+title1: null
+title2: null
+score: 1.0
+
+40113 40143
+title1: null
+title2: null
+score: 1.0
+
+40113 40144
+title1: null
+title2: null
+score: 1.0
+
+40114 40115
+title1: null
+title2: null
+score: 1.0
+
+40114 40116
+title1: null
+title2: null
+score: 1.0
+
+40114 40117
+title1: null
+title2: null
+score: 1.0
+
+40114 40118
+title1: null
+title2: null
+score: 1.0
+
+40114 40119
+title1: null
+title2: null
+score: 1.0
+
+40114 40120
+title1: null
+title2: null
+score: 1.0
+
+40114 40121
+title1: null
+title2: null
+score: 1.0
+
+40114 40122
+title1: null
+title2: null
+score: 1.0
+
+40114 40123
+title1: null
+title2: null
+score: 1.0
+
+40114 40124
+title1: null
+title2: null
+score: 1.0
+
+40114 40125
+title1: null
+title2: null
+score: 1.0
+
+40114 40126
+title1: null
+title2: null
+score: 1.0
+
+40114 40127
+title1: null
+title2: null
+score: 1.0
+
+40114 40128
+title1: null
+title2: null
+score: 1.0
+
+40114 40129
+title1: null
+title2: null
+score: 1.0
+
+40114 40130
+title1: null
+title2: null
+score: 1.0
+
+40114 40131
+title1: null
+title2: null
+score: 1.0
+
+40114 40132
+title1: null
+title2: null
+score: 1.0
+
+40114 40133
+title1: null
+title2: null
+score: 1.0
+
+40114 40134
+title1: null
+title2: null
+score: 1.0
+
+40114 40135
+title1: null
+title2: null
+score: 1.0
+
+40114 40136
+title1: null
+title2: null
+score: 1.0
+
+40114 40137
+title1: null
+title2: null
+score: 1.0
+
+40114 40138
+title1: null
+title2: null
+score: 1.0
+
+40114 40139
+title1: null
+title2: null
+score: 1.0
+
+40114 40140
+title1: null
+title2: null
+score: 1.0
+
+40114 40141
+title1: null
+title2: null
+score: 1.0
+
+40114 40142
+title1: null
+title2: null
+score: 1.0
+
+40114 40143
+title1: null
+title2: null
+score: 1.0
+
+40114 40144
+title1: null
+title2: null
+score: 1.0
+
+40115 40116
+title1: null
+title2: null
+score: 1.0
+
+40115 40117
+title1: null
+title2: null
+score: 1.0
+
+40115 40118
+title1: null
+title2: null
+score: 1.0
+
+40115 40119
+title1: null
+title2: null
+score: 1.0
+
+40115 40120
+title1: null
+title2: null
+score: 1.0
+
+40115 40121
+title1: null
+title2: null
+score: 1.0
+
+40115 40122
+title1: null
+title2: null
+score: 1.0
+
+40115 40123
+title1: null
+title2: null
+score: 1.0
+
+40115 40124
+title1: null
+title2: null
+score: 1.0
+
+40115 40125
+title1: null
+title2: null
+score: 1.0
+
+40115 40126
+title1: null
+title2: null
+score: 1.0
+
+40115 40127
+title1: null
+title2: null
+score: 1.0
+
+40115 40128
+title1: null
+title2: null
+score: 1.0
+
+40115 40129
+title1: null
+title2: null
+score: 1.0
+
+40115 40130
+title1: null
+title2: null
+score: 1.0
+
+40115 40131
+title1: null
+title2: null
+score: 1.0
+
+40115 40132
+title1: null
+title2: null
+score: 1.0
+
+40115 40133
+title1: null
+title2: null
+score: 1.0
+
+40115 40134
+title1: null
+title2: null
+score: 1.0
+
+40115 40135
+title1: null
+title2: null
+score: 1.0
+
+40115 40136
+title1: null
+title2: null
+score: 1.0
+
+40115 40137
+title1: null
+title2: null
+score: 1.0
+
+40115 40138
+title1: null
+title2: null
+score: 1.0
+
+40115 40139
+title1: null
+title2: null
+score: 1.0
+
+40115 40140
+title1: null
+title2: null
+score: 1.0
+
+40115 40141
+title1: null
+title2: null
+score: 1.0
+
+40115 40142
+title1: null
+title2: null
+score: 1.0
+
+40115 40143
+title1: null
+title2: null
+score: 1.0
+
+40115 40144
+title1: null
+title2: null
+score: 1.0
+
+40116 40117
+title1: null
+title2: null
+score: 1.0
+
+40116 40118
+title1: null
+title2: null
+score: 1.0
+
+40116 40119
+title1: null
+title2: null
+score: 1.0
+
+40116 40120
+title1: null
+title2: null
+score: 1.0
+
+40116 40121
+title1: null
+title2: null
+score: 1.0
+
+40116 40122
+title1: null
+title2: null
+score: 1.0
+
+40116 40123
+title1: null
+title2: null
+score: 1.0
+
+40116 40124
+title1: null
+title2: null
+score: 1.0
+
+40116 40125
+title1: null
+title2: null
+score: 1.0
+
+40116 40126
+title1: null
+title2: null
+score: 1.0
+
+40116 40127
+title1: null
+title2: null
+score: 1.0
+
+40116 40128
+title1: null
+title2: null
+score: 1.0
+
+40116 40129
+title1: null
+title2: null
+score: 1.0
+
+40116 40130
+title1: null
+title2: null
+score: 1.0
+
+40116 40131
+title1: null
+title2: null
+score: 1.0
+
+40116 40132
+title1: null
+title2: null
+score: 1.0
+
+40116 40133
+title1: null
+title2: null
+score: 1.0
+
+40116 40134
+title1: null
+title2: null
+score: 1.0
+
+40116 40135
+title1: null
+title2: null
+score: 1.0
+
+40116 40136
+title1: null
+title2: null
+score: 1.0
+
+40116 40137
+title1: null
+title2: null
+score: 1.0
+
+40116 40138
+title1: null
+title2: null
+score: 1.0
+
+40116 40139
+title1: null
+title2: null
+score: 1.0
+
+40116 40140
+title1: null
+title2: null
+score: 1.0
+
+40116 40141
+title1: null
+title2: null
+score: 1.0
+
+40116 40142
+title1: null
+title2: null
+score: 1.0
+
+40116 40143
+title1: null
+title2: null
+score: 1.0
+
+40116 40144
+title1: null
+title2: null
+score: 1.0
+
+40117 40118
+title1: null
+title2: null
+score: 1.0
+
+40117 40119
+title1: null
+title2: null
+score: 1.0
+
+40117 40120
+title1: null
+title2: null
+score: 1.0
+
+40117 40121
+title1: null
+title2: null
+score: 1.0
+
+40117 40122
+title1: null
+title2: null
+score: 1.0
+
+40117 40123
+title1: null
+title2: null
+score: 1.0
+
+40117 40124
+title1: null
+title2: null
+score: 1.0
+
+40117 40125
+title1: null
+title2: null
+score: 1.0
+
+40117 40126
+title1: null
+title2: null
+score: 1.0
+
+40117 40127
+title1: null
+title2: null
+score: 1.0
+
+40117 40128
+title1: null
+title2: null
+score: 1.0
+
+40117 40129
+title1: null
+title2: null
+score: 1.0
+
+40117 40130
+title1: null
+title2: null
+score: 1.0
+
+40117 40131
+title1: null
+title2: null
+score: 1.0
+
+40117 40132
+title1: null
+title2: null
+score: 1.0
+
+40117 40133
+title1: null
+title2: null
+score: 1.0
+
+40117 40134
+title1: null
+title2: null
+score: 1.0
+
+40117 40135
+title1: null
+title2: null
+score: 1.0
+
+40117 40136
+title1: null
+title2: null
+score: 1.0
+
+40117 40137
+title1: null
+title2: null
+score: 1.0
+
+40117 40138
+title1: null
+title2: null
+score: 1.0
+
+40117 40139
+title1: null
+title2: null
+score: 1.0
+
+40117 40140
+title1: null
+title2: null
+score: 1.0
+
+40117 40141
+title1: null
+title2: null
+score: 1.0
+
+40117 40142
+title1: null
+title2: null
+score: 1.0
+
+40117 40143
+title1: null
+title2: null
+score: 1.0
+
+40117 40144
+title1: null
+title2: null
+score: 1.0
+
+40118 40119
+title1: null
+title2: null
+score: 1.0
+
+40118 40120
+title1: null
+title2: null
+score: 1.0
+
+40118 40121
+title1: null
+title2: null
+score: 1.0
+
+40118 40122
+title1: null
+title2: null
+score: 1.0
+
+40118 40123
+title1: null
+title2: null
+score: 1.0
+
+40118 40124
+title1: null
+title2: null
+score: 1.0
+
+40118 40125
+title1: null
+title2: null
+score: 1.0
+
+40118 40126
+title1: null
+title2: null
+score: 1.0
+
+40118 40127
+title1: null
+title2: null
+score: 1.0
+
+40118 40128
+title1: null
+title2: null
+score: 1.0
+
+40118 40129
+title1: null
+title2: null
+score: 1.0
+
+40118 40130
+title1: null
+title2: null
+score: 1.0
+
+40118 40131
+title1: null
+title2: null
+score: 1.0
+
+40118 40132
+title1: null
+title2: null
+score: 1.0
+
+40118 40133
+title1: null
+title2: null
+score: 1.0
+
+40118 40134
+title1: null
+title2: null
+score: 1.0
+
+40118 40135
+title1: null
+title2: null
+score: 1.0
+
+40118 40136
+title1: null
+title2: null
+score: 1.0
+
+40118 40137
+title1: null
+title2: null
+score: 1.0
+
+40118 40138
+title1: null
+title2: null
+score: 1.0
+
+40118 40139
+title1: null
+title2: null
+score: 1.0
+
+40118 40140
+title1: null
+title2: null
+score: 1.0
+
+40118 40141
+title1: null
+title2: null
+score: 1.0
+
+40118 40142
+title1: null
+title2: null
+score: 1.0
+
+40118 40143
+title1: null
+title2: null
+score: 1.0
+
+40118 40144
+title1: null
+title2: null
+score: 1.0
+
+40119 40120
+title1: null
+title2: null
+score: 1.0
+
+40119 40121
+title1: null
+title2: null
+score: 1.0
+
+40119 40122
+title1: null
+title2: null
+score: 1.0
+
+40119 40123
+title1: null
+title2: null
+score: 1.0
+
+40119 40124
+title1: null
+title2: null
+score: 1.0
+
+40119 40125
+title1: null
+title2: null
+score: 1.0
+
+40119 40126
+title1: null
+title2: null
+score: 1.0
+
+40119 40127
+title1: null
+title2: null
+score: 1.0
+
+40119 40128
+title1: null
+title2: null
+score: 1.0
+
+40119 40129
+title1: null
+title2: null
+score: 1.0
+
+40119 40130
+title1: null
+title2: null
+score: 1.0
+
+40119 40131
+title1: null
+title2: null
+score: 1.0
+
+40119 40132
+title1: null
+title2: null
+score: 1.0
+
+40119 40133
+title1: null
+title2: null
+score: 1.0
+
+40119 40134
+title1: null
+title2: null
+score: 1.0
+
+40119 40135
+title1: null
+title2: null
+score: 1.0
+
+40119 40136
+title1: null
+title2: null
+score: 1.0
+
+40119 40137
+title1: null
+title2: null
+score: 1.0
+
+40119 40138
+title1: null
+title2: null
+score: 1.0
+
+40119 40139
+title1: null
+title2: null
+score: 1.0
+
+40119 40140
+title1: null
+title2: null
+score: 1.0
+
+40119 40141
+title1: null
+title2: null
+score: 1.0
+
+40119 40142
+title1: null
+title2: null
+score: 1.0
+
+40119 40143
+title1: null
+title2: null
+score: 1.0
+
+40119 40144
+title1: null
+title2: null
+score: 1.0
+
+40120 40121
+title1: null
+title2: null
+score: 1.0
+
+40120 40122
+title1: null
+title2: null
+score: 1.0
+
+40120 40123
+title1: null
+title2: null
+score: 1.0
+
+40120 40124
+title1: null
+title2: null
+score: 1.0
+
+40120 40125
+title1: null
+title2: null
+score: 1.0
+
+40120 40126
+title1: null
+title2: null
+score: 1.0
+
+40120 40127
+title1: null
+title2: null
+score: 1.0
+
+40120 40128
+title1: null
+title2: null
+score: 1.0
+
+40120 40129
+title1: null
+title2: null
+score: 1.0
+
+40120 40130
+title1: null
+title2: null
+score: 1.0
+
+40120 40131
+title1: null
+title2: null
+score: 1.0
+
+40120 40132
+title1: null
+title2: null
+score: 1.0
+
+40120 40133
+title1: null
+title2: null
+score: 1.0
+
+40120 40134
+title1: null
+title2: null
+score: 1.0
+
+40120 40135
+title1: null
+title2: null
+score: 1.0
+
+40120 40136
+title1: null
+title2: null
+score: 1.0
+
+40120 40137
+title1: null
+title2: null
+score: 1.0
+
+40120 40138
+title1: null
+title2: null
+score: 1.0
+
+40120 40139
+title1: null
+title2: null
+score: 1.0
+
+40120 40140
+title1: null
+title2: null
+score: 1.0
+
+40120 40141
+title1: null
+title2: null
+score: 1.0
+
+40120 40142
+title1: null
+title2: null
+score: 1.0
+
+40120 40143
+title1: null
+title2: null
+score: 1.0
+
+40120 40144
+title1: null
+title2: null
+score: 1.0
+
+40121 40122
+title1: null
+title2: null
+score: 1.0
+
+40121 40123
+title1: null
+title2: null
+score: 1.0
+
+40121 40124
+title1: null
+title2: null
+score: 1.0
+
+40121 40125
+title1: null
+title2: null
+score: 1.0
+
+40121 40126
+title1: null
+title2: null
+score: 1.0
+
+40121 40127
+title1: null
+title2: null
+score: 1.0
+
+40121 40128
+title1: null
+title2: null
+score: 1.0
+
+40121 40129
+title1: null
+title2: null
+score: 1.0
+
+40121 40130
+title1: null
+title2: null
+score: 1.0
+
+40121 40131
+title1: null
+title2: null
+score: 1.0
+
+40121 40132
+title1: null
+title2: null
+score: 1.0
+
+40121 40133
+title1: null
+title2: null
+score: 1.0
+
+40121 40134
+title1: null
+title2: null
+score: 1.0
+
+40121 40135
+title1: null
+title2: null
+score: 1.0
+
+40121 40136
+title1: null
+title2: null
+score: 1.0
+
+40121 40137
+title1: null
+title2: null
+score: 1.0
+
+40121 40138
+title1: null
+title2: null
+score: 1.0
+
+40121 40139
+title1: null
+title2: null
+score: 1.0
+
+40121 40140
+title1: null
+title2: null
+score: 1.0
+
+40121 40141
+title1: null
+title2: null
+score: 1.0
+
+40121 40142
+title1: null
+title2: null
+score: 1.0
+
+40121 40143
+title1: null
+title2: null
+score: 1.0
+
+40121 40144
+title1: null
+title2: null
+score: 1.0
+
+40122 40123
+title1: null
+title2: null
+score: 1.0
+
+40122 40124
+title1: null
+title2: null
+score: 1.0
+
+40122 40125
+title1: null
+title2: null
+score: 1.0
+
+40122 40126
+title1: null
+title2: null
+score: 1.0
+
+40122 40127
+title1: null
+title2: null
+score: 1.0
+
+40122 40128
+title1: null
+title2: null
+score: 1.0
+
+40122 40129
+title1: null
+title2: null
+score: 1.0
+
+40122 40130
+title1: null
+title2: null
+score: 1.0
+
+40122 40131
+title1: null
+title2: null
+score: 1.0
+
+40122 40132
+title1: null
+title2: null
+score: 1.0
+
+40122 40133
+title1: null
+title2: null
+score: 1.0
+
+40122 40134
+title1: null
+title2: null
+score: 1.0
+
+40122 40135
+title1: null
+title2: null
+score: 1.0
+
+40122 40136
+title1: null
+title2: null
+score: 1.0
+
+40122 40137
+title1: null
+title2: null
+score: 1.0
+
+40122 40138
+title1: null
+title2: null
+score: 1.0
+
+40122 40139
+title1: null
+title2: null
+score: 1.0
+
+40122 40140
+title1: null
+title2: null
+score: 1.0
+
+40122 40141
+title1: null
+title2: null
+score: 1.0
+
+40122 40142
+title1: null
+title2: null
+score: 1.0
+
+40122 40143
+title1: null
+title2: null
+score: 1.0
+
+40122 40144
+title1: null
+title2: null
+score: 1.0
+
+40123 40124
+title1: null
+title2: null
+score: 1.0
+
+40123 40125
+title1: null
+title2: null
+score: 1.0
+
+40123 40126
+title1: null
+title2: null
+score: 1.0
+
+40123 40127
+title1: null
+title2: null
+score: 1.0
+
+40123 40128
+title1: null
+title2: null
+score: 1.0
+
+40123 40129
+title1: null
+title2: null
+score: 1.0
+
+40123 40130
+title1: null
+title2: null
+score: 1.0
+
+40123 40131
+title1: null
+title2: null
+score: 1.0
+
+40123 40132
+title1: null
+title2: null
+score: 1.0
+
+40123 40133
+title1: null
+title2: null
+score: 1.0
+
+40123 40134
+title1: null
+title2: null
+score: 1.0
+
+40123 40135
+title1: null
+title2: null
+score: 1.0
+
+40123 40136
+title1: null
+title2: null
+score: 1.0
+
+40123 40137
+title1: null
+title2: null
+score: 1.0
+
+40123 40138
+title1: null
+title2: null
+score: 1.0
+
+40123 40139
+title1: null
+title2: null
+score: 1.0
+
+40123 40140
+title1: null
+title2: null
+score: 1.0
+
+40123 40141
+title1: null
+title2: null
+score: 1.0
+
+40123 40142
+title1: null
+title2: null
+score: 1.0
+
+40123 40143
+title1: null
+title2: null
+score: 1.0
+
+40123 40144
+title1: null
+title2: null
+score: 1.0
+
+40124 40125
+title1: null
+title2: null
+score: 1.0
+
+40124 40126
+title1: null
+title2: null
+score: 1.0
+
+40124 40127
+title1: null
+title2: null
+score: 1.0
+
+40124 40128
+title1: null
+title2: null
+score: 1.0
+
+40124 40129
+title1: null
+title2: null
+score: 1.0
+
+40124 40130
+title1: null
+title2: null
+score: 1.0
+
+40124 40131
+title1: null
+title2: null
+score: 1.0
+
+40124 40132
+title1: null
+title2: null
+score: 1.0
+
+40124 40133
+title1: null
+title2: null
+score: 1.0
+
+40124 40134
+title1: null
+title2: null
+score: 1.0
+
+40124 40135
+title1: null
+title2: null
+score: 1.0
+
+40124 40136
+title1: null
+title2: null
+score: 1.0
+
+40124 40137
+title1: null
+title2: null
+score: 1.0
+
+40124 40138
+title1: null
+title2: null
+score: 1.0
+
+40124 40139
+title1: null
+title2: null
+score: 1.0
+
+40124 40140
+title1: null
+title2: null
+score: 1.0
+
+40124 40141
+title1: null
+title2: null
+score: 1.0
+
+40124 40142
+title1: null
+title2: null
+score: 1.0
+
+40124 40143
+title1: null
+title2: null
+score: 1.0
+
+40124 40144
+title1: null
+title2: null
+score: 1.0
+
+40125 40126
+title1: null
+title2: null
+score: 1.0
+
+40125 40127
+title1: null
+title2: null
+score: 1.0
+
+40125 40128
+title1: null
+title2: null
+score: 1.0
+
+40125 40129
+title1: null
+title2: null
+score: 1.0
+
+40125 40130
+title1: null
+title2: null
+score: 1.0
+
+40125 40131
+title1: null
+title2: null
+score: 1.0
+
+40125 40132
+title1: null
+title2: null
+score: 1.0
+
+40125 40133
+title1: null
+title2: null
+score: 1.0
+
+40125 40134
+title1: null
+title2: null
+score: 1.0
+
+40125 40135
+title1: null
+title2: null
+score: 1.0
+
+40125 40136
+title1: null
+title2: null
+score: 1.0
+
+40125 40137
+title1: null
+title2: null
+score: 1.0
+
+40125 40138
+title1: null
+title2: null
+score: 1.0
+
+40125 40139
+title1: null
+title2: null
+score: 1.0
+
+40125 40140
+title1: null
+title2: null
+score: 1.0
+
+40125 40141
+title1: null
+title2: null
+score: 1.0
+
+40125 40142
+title1: null
+title2: null
+score: 1.0
+
+40125 40143
+title1: null
+title2: null
+score: 1.0
+
+40125 40144
+title1: null
+title2: null
+score: 1.0
+
+40126 40127
+title1: null
+title2: null
+score: 1.0
+
+40126 40128
+title1: null
+title2: null
+score: 1.0
+
+40126 40129
+title1: null
+title2: null
+score: 1.0
+
+40126 40130
+title1: null
+title2: null
+score: 1.0
+
+40126 40131
+title1: null
+title2: null
+score: 1.0
+
+40126 40132
+title1: null
+title2: null
+score: 1.0
+
+40126 40133
+title1: null
+title2: null
+score: 1.0
+
+40126 40134
+title1: null
+title2: null
+score: 1.0
+
+40126 40135
+title1: null
+title2: null
+score: 1.0
+
+40126 40136
+title1: null
+title2: null
+score: 1.0
+
+40126 40137
+title1: null
+title2: null
+score: 1.0
+
+40126 40138
+title1: null
+title2: null
+score: 1.0
+
+40126 40139
+title1: null
+title2: null
+score: 1.0
+
+40126 40140
+title1: null
+title2: null
+score: 1.0
+
+40126 40141
+title1: null
+title2: null
+score: 1.0
+
+40126 40142
+title1: null
+title2: null
+score: 1.0
+
+40126 40143
+title1: null
+title2: null
+score: 1.0
+
+40126 40144
+title1: null
+title2: null
+score: 1.0
+
+40127 40128
+title1: null
+title2: null
+score: 1.0
+
+40127 40129
+title1: null
+title2: null
+score: 1.0
+
+40127 40130
+title1: null
+title2: null
+score: 1.0
+
+40127 40131
+title1: null
+title2: null
+score: 1.0
+
+40127 40132
+title1: null
+title2: null
+score: 1.0
+
+40127 40133
+title1: null
+title2: null
+score: 1.0
+
+40127 40134
+title1: null
+title2: null
+score: 1.0
+
+40127 40135
+title1: null
+title2: null
+score: 1.0
+
+40127 40136
+title1: null
+title2: null
+score: 1.0
+
+40127 40137
+title1: null
+title2: null
+score: 1.0
+
+40127 40138
+title1: null
+title2: null
+score: 1.0
+
+40127 40139
+title1: null
+title2: null
+score: 1.0
+
+40127 40140
+title1: null
+title2: null
+score: 1.0
+
+40127 40141
+title1: null
+title2: null
+score: 1.0
+
+40127 40142
+title1: null
+title2: null
+score: 1.0
+
+40127 40143
+title1: null
+title2: null
+score: 1.0
+
+40127 40144
+title1: null
+title2: null
+score: 1.0
+
+40128 40129
+title1: null
+title2: null
+score: 1.0
+
+40128 40130
+title1: null
+title2: null
+score: 1.0
+
+40128 40131
+title1: null
+title2: null
+score: 1.0
+
+40128 40132
+title1: null
+title2: null
+score: 1.0
+
+40128 40133
+title1: null
+title2: null
+score: 1.0
+
+40128 40134
+title1: null
+title2: null
+score: 1.0
+
+40128 40135
+title1: null
+title2: null
+score: 1.0
+
+40128 40136
+title1: null
+title2: null
+score: 1.0
+
+40128 40137
+title1: null
+title2: null
+score: 1.0
+
+40128 40138
+title1: null
+title2: null
+score: 1.0
+
+40128 40139
+title1: null
+title2: null
+score: 1.0
+
+40128 40140
+title1: null
+title2: null
+score: 1.0
+
+40128 40141
+title1: null
+title2: null
+score: 1.0
+
+40128 40142
+title1: null
+title2: null
+score: 1.0
+
+40128 40143
+title1: null
+title2: null
+score: 1.0
+
+40128 40144
+title1: null
+title2: null
+score: 1.0
+
+40129 40130
+title1: null
+title2: null
+score: 1.0
+
+40129 40131
+title1: null
+title2: null
+score: 1.0
+
+40129 40132
+title1: null
+title2: null
+score: 1.0
+
+40129 40133
+title1: null
+title2: null
+score: 1.0
+
+40129 40134
+title1: null
+title2: null
+score: 1.0
+
+40129 40135
+title1: null
+title2: null
+score: 1.0
+
+40129 40136
+title1: null
+title2: null
+score: 1.0
+
+40129 40137
+title1: null
+title2: null
+score: 1.0
+
+40129 40138
+title1: null
+title2: null
+score: 1.0
+
+40129 40139
+title1: null
+title2: null
+score: 1.0
+
+40129 40140
+title1: null
+title2: null
+score: 1.0
+
+40129 40141
+title1: null
+title2: null
+score: 1.0
+
+40129 40142
+title1: null
+title2: null
+score: 1.0
+
+40129 40143
+title1: null
+title2: null
+score: 1.0
+
+40129 40144
+title1: null
+title2: null
+score: 1.0
+
+40130 40131
+title1: null
+title2: null
+score: 1.0
+
+40130 40132
+title1: null
+title2: null
+score: 1.0
+
+40130 40133
+title1: null
+title2: null
+score: 1.0
+
+40130 40134
+title1: null
+title2: null
+score: 1.0
+
+40130 40135
+title1: null
+title2: null
+score: 1.0
+
+40130 40136
+title1: null
+title2: null
+score: 1.0
+
+40130 40137
+title1: null
+title2: null
+score: 1.0
+
+40130 40138
+title1: null
+title2: null
+score: 1.0
+
+40130 40139
+title1: null
+title2: null
+score: 1.0
+
+40130 40140
+title1: null
+title2: null
+score: 1.0
+
+40130 40141
+title1: null
+title2: null
+score: 1.0
+
+40130 40142
+title1: null
+title2: null
+score: 1.0
+
+40130 40143
+title1: null
+title2: null
+score: 1.0
+
+40130 40144
+title1: null
+title2: null
+score: 1.0
+
+40131 40132
+title1: null
+title2: null
+score: 1.0
+
+40131 40133
+title1: null
+title2: null
+score: 1.0
+
+40131 40134
+title1: null
+title2: null
+score: 1.0
+
+40131 40135
+title1: null
+title2: null
+score: 1.0
+
+40131 40136
+title1: null
+title2: null
+score: 1.0
+
+40131 40137
+title1: null
+title2: null
+score: 1.0
+
+40131 40138
+title1: null
+title2: null
+score: 1.0
+
+40131 40139
+title1: null
+title2: null
+score: 1.0
+
+40131 40140
+title1: null
+title2: null
+score: 1.0
+
+40131 40141
+title1: null
+title2: null
+score: 1.0
+
+40131 40142
+title1: null
+title2: null
+score: 1.0
+
+40131 40143
+title1: null
+title2: null
+score: 1.0
+
+40131 40144
+title1: null
+title2: null
+score: 1.0
+
+40132 40133
+title1: null
+title2: null
+score: 1.0
+
+40132 40134
+title1: null
+title2: null
+score: 1.0
+
+40132 40135
+title1: null
+title2: null
+score: 1.0
+
+40132 40136
+title1: null
+title2: null
+score: 1.0
+
+40132 40137
+title1: null
+title2: null
+score: 1.0
+
+40132 40138
+title1: null
+title2: null
+score: 1.0
+
+40132 40139
+title1: null
+title2: null
+score: 1.0
+
+40132 40140
+title1: null
+title2: null
+score: 1.0
+
+40132 40141
+title1: null
+title2: null
+score: 1.0
+
+40132 40142
+title1: null
+title2: null
+score: 1.0
+
+40132 40143
+title1: null
+title2: null
+score: 1.0
+
+40132 40144
+title1: null
+title2: null
+score: 1.0
+
+40133 40134
+title1: null
+title2: null
+score: 1.0
+
+40133 40135
+title1: null
+title2: null
+score: 1.0
+
+40133 40136
+title1: null
+title2: null
+score: 1.0
+
+40133 40137
+title1: null
+title2: null
+score: 1.0
+
+40133 40138
+title1: null
+title2: null
+score: 1.0
+
+40133 40139
+title1: null
+title2: null
+score: 1.0
+
+40133 40140
+title1: null
+title2: null
+score: 1.0
+
+40133 40141
+title1: null
+title2: null
+score: 1.0
+
+40133 40142
+title1: null
+title2: null
+score: 1.0
+
+40133 40143
+title1: null
+title2: null
+score: 1.0
+
+40133 40144
+title1: null
+title2: null
+score: 1.0
+
+40134 40135
+title1: null
+title2: null
+score: 1.0
+
+40134 40136
+title1: null
+title2: null
+score: 1.0
+
+40134 40137
+title1: null
+title2: null
+score: 1.0
+
+40134 40138
+title1: null
+title2: null
+score: 1.0
+
+40134 40139
+title1: null
+title2: null
+score: 1.0
+
+40134 40140
+title1: null
+title2: null
+score: 1.0
+
+40134 40141
+title1: null
+title2: null
+score: 1.0
+
+40134 40142
+title1: null
+title2: null
+score: 1.0
+
+40134 40143
+title1: null
+title2: null
+score: 1.0
+
+40134 40144
+title1: null
+title2: null
+score: 1.0
+
+40135 40136
+title1: null
+title2: null
+score: 1.0
+
+40135 40137
+title1: null
+title2: null
+score: 1.0
+
+40135 40138
+title1: null
+title2: null
+score: 1.0
+
+40135 40139
+title1: null
+title2: null
+score: 1.0
+
+40135 40140
+title1: null
+title2: null
+score: 1.0
+
+40135 40141
+title1: null
+title2: null
+score: 1.0
+
+40135 40142
+title1: null
+title2: null
+score: 1.0
+
+40135 40143
+title1: null
+title2: null
+score: 1.0
+
+40135 40144
+title1: null
+title2: null
+score: 1.0
+
+40136 40137
+title1: null
+title2: null
+score: 1.0
+
+40136 40138
+title1: null
+title2: null
+score: 1.0
+
+40136 40139
+title1: null
+title2: null
+score: 1.0
+
+40136 40140
+title1: null
+title2: null
+score: 1.0
+
+40136 40141
+title1: null
+title2: null
+score: 1.0
+
+40136 40142
+title1: null
+title2: null
+score: 1.0
+
+40136 40143
+title1: null
+title2: null
+score: 1.0
+
+40136 40144
+title1: null
+title2: null
+score: 1.0
+
+40137 40138
+title1: null
+title2: null
+score: 1.0
+
+40137 40139
+title1: null
+title2: null
+score: 1.0
+
+40137 40140
+title1: null
+title2: null
+score: 1.0
+
+40137 40141
+title1: null
+title2: null
+score: 1.0
+
+40137 40142
+title1: null
+title2: null
+score: 1.0
+
+40137 40143
+title1: null
+title2: null
+score: 1.0
+
+40137 40144
+title1: null
+title2: null
+score: 1.0
+
+40138 40139
+title1: null
+title2: null
+score: 1.0
+
+40138 40140
+title1: null
+title2: null
+score: 1.0
+
+40138 40141
+title1: null
+title2: null
+score: 1.0
+
+40138 40142
+title1: null
+title2: null
+score: 1.0
+
+40138 40143
+title1: null
+title2: null
+score: 1.0
+
+40138 40144
+title1: null
+title2: null
+score: 1.0
+
+40139 40140
+title1: null
+title2: null
+score: 1.0
+
+40139 40141
+title1: null
+title2: null
+score: 1.0
+
+40139 40142
+title1: null
+title2: null
+score: 1.0
+
+40139 40143
+title1: null
+title2: null
+score: 1.0
+
+40139 40144
+title1: null
+title2: null
+score: 1.0
+
+40140 40141
+title1: null
+title2: null
+score: 1.0
+
+40140 40142
+title1: null
+title2: null
+score: 1.0
+
+40140 40143
+title1: null
+title2: null
+score: 1.0
+
+40140 40144
+title1: null
+title2: null
+score: 1.0
+
+40141 40142
+title1: null
+title2: null
+score: 1.0
+
+40141 40143
+title1: null
+title2: null
+score: 1.0
+
+40141 40144
+title1: null
+title2: null
+score: 1.0
+
+40142 40143
+title1: null
+title2: null
+score: 1.0
+
+40142 40144
+title1: null
+title2: null
+score: 1.0
+
+40143 40144
+title1: null
+title2: null
+score: 1.0
+
+TOTAL COUNT: 1785
