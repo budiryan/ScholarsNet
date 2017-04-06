@@ -3,13 +3,27 @@
     <form action="" method="post">
     {{ form.csrf }}
 
-    <div class="input text">
-        {{ form.search_query.label }} {{ form.search_query }}
-    </div>
-
-    <div class="input submit">
-        <input type="submit" value="Submit" />
-    </div>
+    <p>
+        <div class="input text">
+            {{ form.search_query.label }}: 
+            {{ form.search_query }}
+        </div>  
+    </p>
+    <p>
+    <b>Search for</b>:
+        <label class="checkbox-inline">
+            {{form.paper}} Papers
+        </label>
+        <label class="checkbox-inline">
+            {{form.author}} Authors
+        </label>
+    </p>
+    <p>
+        <label class="input submit">
+            <input type="submit" value="Submit" />
+        </label>
+    </p>
+    
     </form>
     {% with messages = get_flashed_messages(with_categories=true) %}
         {% if messages %}

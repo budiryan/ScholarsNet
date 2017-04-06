@@ -1,14 +1,28 @@
-<html>
-  <head>
-    {% if title %}
-    <title>{{ title }} - ScholarsNet</title>
+{%- extends "bootstrap/base.html" %}
+
+{% block title %}    
+  {% if title %}
+      {{ title }} - ScholarsNet
     {% else %}
-    <title>Welcome to ScholarsNet</title>
-    {% endif %}
-  </head>
-  <body>
-    <div>ScholarsNet: <a href="/index">Home</a></div>
-    <hr>
-    {% block content %}{% endblock %}
-  </body>
-</html>
+      Welcome to ScholarsNet
+  {% endif %}{% endblock %}
+
+{% import "bootstrap/fixes.html" as fixes %}
+
+{% block head %}
+{{super()}}
+
+{{fixes.ie8()}}
+{%- endblock %}
+
+{% block styles -%}
+    {{super()}}  {# do not forget to call super or Bootstrap's own stylesheets
+                    will disappear! #}
+<!--     <link rel="stylesheet" type="text/css"
+          href="{{url_for('static', filename='sample-app.css')}}"> -->
+{% endblock %}
+
+{% block navbar %}
+  <h1>{{ title }} - ScholarsNet</h1>
+  <hr/>
+{% endblock %}
