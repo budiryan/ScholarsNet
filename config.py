@@ -1,7 +1,8 @@
-# Security is for later
 import os
 
 
-basedir = os.path.abspath(os.path.dirname(__file__))
+# Security is for later
 WTF_CSRF_ENABLED = False
 SECRET_KEY = 'you-will-never-guess'
+PROJECT_ROOT = os.path.dirname(os.path.realpath(__file__))
+DATABASE = os.path.join(PROJECT_ROOT, 'sqlite', 'paperDB.db')

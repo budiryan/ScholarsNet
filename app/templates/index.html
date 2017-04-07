@@ -4,18 +4,18 @@
     {{ form.csrf }}
 
     <p>
-        <div class="input text">
+        <div class="input text input-lg" style="width: 60%">
             {{ form.search_query.label }}: 
             {{ form.search_query }}
-        </div>  
+            {% for error in form.search_query.errors %}
+                <span style="color: red;">Query cannot be empty!</span>
+            {% endfor %}
+        </div>
     </p>
     <p>
-    <b>Search for</b>:
-        <label class="checkbox-inline">
-            {{form.paper}} Papers
-        </label>
-        <label class="checkbox-inline">
-            {{form.author}} Authors
+        <label class="dropdown-inline">
+            {{form.search_category.label}} 
+            {{form.search_category}}
         </label>
     </p>
     <p>
@@ -25,13 +25,34 @@
     </p>
     
     </form>
-    {% with messages = get_flashed_messages(with_categories=true) %}
-        {% if messages %}
-            <ul>
-                {% for message in messages %}
-                    <li>{{ message[1] }}</li>
-                {% endfor %}
-            </ul>
+    {% if paper or author%}
+        <table>
+            <!-- {% if paper|length > 0 %} -->
+                <th>
+                    Paper:
+                </th>
+            <!-- {% endif %} -->
+            {% for row_index in range(paper|count) %}
+                <tr>
+                  <td><a href="/paper/{{paper[row_index]}}">{{paper[row_index]}}</a></td>
+                </tr>
+            {% endfor %}
+        </table>
+        {% if paper %}
+        <br>
         {% endif %}
-    {% endwith %}
+        <table>
+            <!-- {% if author|length > 0 %} -->
+                <th>
+                    Author:
+                </th>
+            <!-- {% endif %} -->
+            {% for row_index in range(author|count) %}
+                <tr>
+                  <td><a href="/author/{{author[row_index]}}">{{author[row_index]}}</a></td>
+                </tr>
+            {% endfor %}
+        </table>
+    {% endif %}
+
 {% endblock %}
