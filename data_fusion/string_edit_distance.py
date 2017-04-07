@@ -43,5 +43,5 @@ for i in range(l):
                     }
                 )
                 if count % 1 == 0:
-                    with open('strict_edit_distance.json', 'w') as f:
+                    with open('string_edit_distance.json', 'w') as f:
                         json.dump(result_array, f, indent=4)

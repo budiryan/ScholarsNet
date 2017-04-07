@@ -1,0 +1,2602 @@
+[
+    {
+        "url1": "http://arxiv.org/pdf/cs/0111048v1",
+        "j": 27690,
+        "url2": "http://dblp.uni-trier.de/db/journals/fgcs/fgcs18.html#AbramsonBG02",
+        "count": 1,
+        "title2": "A computational economy for grid computing and its implementation in the Nimrod-G resource broker.",
+        "title1": "A Computational Economy for Grid Computing and its Implementation in the   Nimrod-G Resource Brok",
+        "score": 0.8666666666666667,
+        "i": 30
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0301033v1",
+        "j": 25410,
+        "url2": "http://dblp.uni-trier.de/db/journals/fgcs/fgcs18.html#KeaheyFPSTFGM02",
+        "count": 2,
+        "title2": "Computational Grids in action: the National Fusion Collaboratory.",
+        "title1": "Computational Grids in Action: The Natinal Fusion Collaboratory",
+        "score": 0.7777777777777778,
+        "i": 44
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0602026v1",
+        "j": 177,
+        "url2": "http://arxiv.org/pdf/cs/0608048v1",
+        "count": 3,
+        "title2": "Bulk Scheduling with the DIANA Scheduler",
+        "title1": "Bulk Scheduling with DIANA Scheduler",
+        "score": 0.8333333333333334,
+        "i": 162
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0605060v1",
+        "j": 24950,
+        "url2": "http://dblp.uni-trier.de/db/journals/fgcs/fgcs24.html#RanjanHB08",
+        "count": 4,
+        "title2": "A case for cooperative and incentive-based federation of distributed clusters.",
+        "title1": "A Case for Cooperative and Incentive-Based Coupling of Distributed   Clusters",
+        "score": 0.8181818181818182,
+        "i": 170
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0612035v1",
+        "j": 248,
+        "url2": "http://arxiv.org/pdf/0712.3980v1",
+        "count": 5,
+        "title2": "Distributed Slicing in Dynamic Systems",
+        "title1": "Distributed Slicing in Dynamic Systems",
+        "score": 1.0,
+        "i": 192
+    },
+    {
+        "url1": "http://arxiv.org/pdf/0808.1802v1",
+        "j": 26990,
+        "url2": "http://dblp.uni-trier.de/db/journals/fgcs/fgcs25.html#GrossmanGSZ09",
+        "count": 6,
+        "title2": "Compute and storage clouds using wide area high performance networks.",
+        "title1": "Compute and Storage Clouds Using Wide Area High Performance Networks",
+        "score": 1.0,
+        "i": 261
+    },
+    {
+        "url1": "http://arxiv.org/pdf/0810.4440v1",
+        "j": 22487,
+        "url2": "http://dblp.uni-trier.de/db/journals/acta/acta47.html#DolevT10",
+        "count": 7,
+        "title2": "Randomization adaptive self-stabilization.",
+        "title1": "Randomization Adaptive Self-Stabilization",
+        "score": 1.0,
+        "i": 277
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0411009v2",
+        "j": 318,
+        "url2": "http://arxiv.org/pdf/0804.0879v1",
+        "count": 8,
+        "title2": "The equations of the ideal latches",
+        "title1": "The equations of the ideal latches",
+        "score": 1.0,
+        "i": 309
+    },
+    {
+        "url1": "http://arxiv.org/pdf/1201.4908v1",
+        "j": 24925,
+        "url2": "http://dblp.uni-trier.de/db/journals/ijiem/ijiem7.html#BriscoeW11",
+        "count": 9,
+        "title2": "Self-organisation of evolving agent populations in Digital Ecosystems.",
+        "title1": "Self-Organisation of Evolving Agent Populations in Digital Ecosystems",
+        "score": 1.0,
+        "i": 615
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0608107v3",
+        "j": 765,
+        "url2": "http://arxiv.org/pdf/cs/0702067v1",
+        "count": 10,
+        "title2": "The Haar Wavelet Transform of a Dendrogram: Additional Notes",
+        "title1": "The Haar Wavelet Transform of a Dendrogram",
+        "score": 0.7777777777777778,
+        "i": 759
+    },
+    {
+        "url1": "http://arxiv.org/pdf/1011.0404v1",
+        "j": 862,
+        "url2": "http://arxiv.org/pdf/1011.0502v1",
+        "count": 11,
+        "title2": "A New Email Retrieval Ranking Approach",
+        "title1": "A New Email Retrieval Ranking Approach",
+        "score": 1.0,
+        "i": 861
+    },
+    {
+        "url1": "http://arxiv.org/pdf/1201.3418v1",
+        "j": 5765,
+        "url2": "http://arxiv.org/pdf/1203.3832v1",
+        "count": 12,
+        "title2": "Data Mining: A Prediction for Performance Improvement of Engineering   Students using Classification",
+        "title1": "Data Mining: A prediction for performance improvement using   classification",
+        "score": 0.75,
+        "i": 901
+    },
+    {
+        "url1": "http://arxiv.org/pdf/1008.0716v2",
+        "j": 10949,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=2036277&ftid=1049602&dwn=1&CFID=746681321&CFTOKEN=39664281",
+        "count": 13,
+        "title2": "Cross-Lingual Adaptation Using Structural Correspondence Learning",
+        "title1": "Cross-Lingual Adaptation using Structural Correspondence Learning",
+        "score": 1.0,
+        "i": 999
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0401030v1",
+        "j": 1066,
+        "url2": "http://arxiv.org/pdf/cs/0402060v1",
+        "count": 14,
+        "title2": "Pseudorandom number generation by p-adic ergodic transformations: an   addendum",
+        "title1": "Pseudorandom number generation by $p$-adic ergodic transformations",
+        "score": 0.7777777777777778,
+        "i": 1063
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0410011v1",
+        "j": 1258,
+        "url2": "http://arxiv.org/pdf/0712.2235v1",
+        "count": 15,
+        "title2": "A Dynamic ID-based Remote User Authentication Scheme",
+        "title1": "Comment on A dynamic ID-based Remote User Authentication Scheme",
+        "score": 0.7777777777777778,
+        "i": 1082
+    },
+    {
+        "url1": "http://arxiv.org/pdf/1601.04473v1",
+        "j": 1587,
+        "url2": "http://arxiv.org/pdf/1604.07051v1",
+        "count": 16,
+        "title2": "Lossless Intra Coding in HEVC with Adaptive 3-tap Filters",
+        "title1": "Lossless Intra Coding in HEVC with 3-tap Filters",
+        "score": 0.8888888888888888,
+        "i": 1573
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0207006v1",
+        "j": 6067,
+        "url2": "http://arxiv.org/pdf/cs/0105014v1",
+        "count": 17,
+        "title2": "Errata and supplements to: Orthonormal RBF Wavelet and Ridgelet-like   Series and Transforms for High-Dimensional Problems",
+        "title1": "Orthonormal RBF wavelet and ridgelet-like series and transforms for   high-dimensional problems",
+        "score": 0.7692307692307693,
+        "i": 1628
+    },
+    {
+        "url1": "http://arxiv.org/pdf/1010.1764v2",
+        "j": 1703,
+        "url2": "http://arxiv.org/pdf/1010.2006v2",
+        "count": 18,
+        "title2": "Improved complexity bounds for real root isolation using Continued   Fractions",
+        "title1": "Improved complexity bounds for real root isolation using Continued   Fractions",
+        "score": 1.0,
+        "i": 1702
+    },
+    {
+        "url1": "http://arxiv.org/pdf/0803.1975v1",
+        "j": 19290,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=2493254&ftid=1390259&dwn=1&CFID=746735625&CFTOKEN=11830132",
+        "count": 19,
+        "title2": "Compressed matrix multiplication",
+        "title1": "Compressed Modular Matrix Multiplication",
+        "score": 0.75,
+        "i": 1739
+    },
+    {
+        "url1": "http://arxiv.org/pdf/1301.5612v3",
+        "j": 1834,
+        "url2": "http://arxiv.org/pdf/1412.7547v2",
+        "count": 20,
+        "title2": "On the complexity of computing Gr\u00f6bner bases for weighted homogeneous   systems",
+        "title1": "On the Complexity of Computing Gr\u00f6bner Bases for Quasi-homogeneous   Systems",
+        "score": 0.75,
+        "i": 1773
+    },
+    {
+        "url1": "http://arxiv.org/pdf/1409.5462v1",
+        "j": 1896,
+        "url2": "http://arxiv.org/pdf/1607.04176v1",
+        "count": 21,
+        "title2": "Fast, deterministic computation of the Hermite normal form and   determinant of a polynomial matrix",
+        "title1": "Fast and deterministic computation of the determinant of a polynomial   matrix",
+        "score": 0.7692307692307693,
+        "i": 1827
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0604079v3",
+        "j": 21306,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1597049&ftid=702829&dwn=1&CFID=746745052&CFTOKEN=36039224",
+        "count": 22,
+        "title2": "Polynomial constraint satisfaction problems, graph bisection, and the Ising partition function",
+        "title1": "Polynomial Constraint Satisfaction, Graph Bisection, and the Ising   Partition Function",
+        "score": 0.9090909090909091,
+        "i": 1973
+    },
+    {
+        "url1": "http://arxiv.org/pdf/0812.2990v1",
+        "j": 2207,
+        "url2": "http://arxiv.org/pdf/1006.3167v2",
+        "count": 23,
+        "title2": "Tree-width of hypergraphs and surface duality",
+        "title1": "Tree-width of hypergraphs and surface duality",
+        "score": 1.0,
+        "i": 2090
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/9809053v1",
+        "j": 2252,
+        "url2": "http://arxiv.org/pdf/cs/9809071v1",
+        "count": 24,
+        "title2": "UBR+: Improving Performance of TCP over ATM-UBR service",
+        "title1": "Improving the Performance of TCP over the ATM-UBR service",
+        "score": 0.7777777777777778,
+        "i": 2237
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0002011v1",
+        "j": 16966,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=380771&ftid=67904&dwn=1&CFID=746720428&CFTOKEN=43881081",
+        "count": 25,
+        "title2": "An Internet multicast system for the stock market",
+        "title1": "An Internet Multicast System for the Stock Market",
+        "score": 1.0,
+        "i": 2296
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0605042v2",
+        "j": 2442,
+        "url2": "http://arxiv.org/pdf/cs/0609106v1",
+        "count": 26,
+        "title2": "Throughput Optimal Distributed Control of Stochastic Wireless Networks",
+        "title1": "Throughput Optimal Distributed Control of Stochastic Wireless Networks",
+        "score": 1.0,
+        "i": 2415
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0611105v1",
+        "j": 2478,
+        "url2": "http://arxiv.org/pdf/cs/0703107v2",
+        "count": 27,
+        "title2": "Clustering and Sharing Incentives in BitTorrent Systems",
+        "title1": "Clustering and Sharing Incentives in BitTorrent Systems",
+        "score": 1.0,
+        "i": 2459
+    },
+    {
+        "url1": "http://arxiv.org/pdf/0710.5235v1",
+        "j": 2524,
+        "url2": "http://arxiv.org/pdf/0710.5236v1",
+        "count": 28,
+        "title2": "Saturation Throughput Analysis of IEEE 802.11 in Presence of Non Ideal   Transmission Channel and Capture Effects",
+        "title1": "Unsaturated Throughput Analysis of IEEE 802.11 in Presence of Non Ideal   Transmission Channel and Capture Effects",
+        "score": 0.875,
+        "i": 2523
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0703086v2",
+        "j": 2544,
+        "url2": "http://arxiv.org/pdf/0705.1915v3",
+        "count": 29,
+        "title2": "A Technical Report On Grid Benchmarking using ATLAS V.O",
+        "title1": "A Technical Report On Grid Benchmarking using SEE V.O",
+        "score": 0.8,
+        "i": 2541
+    },
+    {
+        "url1": "http://arxiv.org/pdf/1305.3490v1",
+        "j": 2628,
+        "url2": "http://arxiv.org/pdf/1305.3496v1",
+        "count": 30,
+        "title2": "Stationary analysis of the \"Shortest Queue First\" service policy: the   asymmetric case",
+        "title1": "Stationary analysis of the Shortest Queue First service policy",
+        "score": 0.8181818181818182,
+        "i": 2627
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0110002v1",
+        "j": 28345,
+        "url2": "http://dblp.uni-trier.de/db/journals/tele/tele19.html#Venturelli02",
+        "count": 31,
+        "title2": "Inventing e-regulation in the US, EU and East Asia: conflicting social visions of the Information Society.",
+        "title1": "Inventing E-Regulation in the US, EU and East Asia: Conflicting Social   Visions of the Internet & the Information Society",
+        "score": 0.9375,
+        "i": 2910
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/9910023v4",
+        "j": 16000,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1182614&ftid=403643&dwn=1&CFID=746715299&CFTOKEN=90725848",
+        "count": 32,
+        "title2": "A system of interaction and structure",
+        "title1": "A System of Interaction and Structure",
+        "score": 1.0,
+        "i": 3148
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0003026v1",
+        "j": 6254,
+        "url2": "http://arxiv.org/pdf/cs/0011030v1",
+        "count": 33,
+        "title2": "Logic Programming Approaches for Representing and Solving Constraint   Satisfaction Problems: A Comparison",
+        "title1": "A Comparison of Logic Programming Approaches for Representation and   Solving of Constraint Satisfaction Problems",
+        "score": 0.7857142857142857,
+        "i": 3149
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0003045v1",
+        "j": 15717,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=371357&ftid=49389&dwn=1&CFID=746712811&CFTOKEN=85567317",
+        "count": 34,
+        "title2": "Termination proofs for logic programs with tabling",
+        "title1": "Termination Proofs for Logic Programs with Tabling",
+        "score": 1.0,
+        "i": 3150
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0007030v2",
+        "j": 15892,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1024923&ftid=286333&dwn=1&CFID=746714464&CFTOKEN=79010352",
+        "count": 35,
+        "title2": "A theory of normed simulations",
+        "title1": "A theory of normed simulations",
+        "score": 1.0,
+        "i": 3154
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0008001v1",
+        "j": 15795,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=566390&ftid=82020&dwn=1&CFID=746713496&CFTOKEN=66402322",
+        "count": 36,
+        "title2": "Boolean satisfiability with transitivity constraints",
+        "title1": "Boolean Satisfiability with Transitivity Constraints",
+        "score": 1.0,
+        "i": 3156
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0011037v2",
+        "j": 15837,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=507386&ftid=76688&dwn=1&CFID=746714026&CFTOKEN=13555498",
+        "count": 37,
+        "title2": "A syntactical analysis of non-size-increasing polynomial time computation",
+        "title1": "A syntactical analysis of non-size-increasing polynomial time   computation",
+        "score": 1.0,
+        "i": 3159
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0012018v1",
+        "j": 15807,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=601778&ftid=111560&dwn=1&CFID=746713612&CFTOKEN=14638185",
+        "count": 38,
+        "title2": "Resource-distribution via Boolean constraints",
+        "title1": "Resource-distribution via Boolean constraints",
+        "score": 1.0,
+        "i": 3162
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0101013v1",
+        "j": 15887,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1042039&ftid=297885&dwn=1&CFID=746714433&CFTOKEN=83080152",
+        "count": 39,
+        "title2": "A classification of symbolic transition systems",
+        "title1": "A Classification of Symbolic Transition Systems",
+        "score": 1.0,
+        "i": 3163
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0104021v2",
+        "j": 15872,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1071599&ftid=313721&dwn=1&CFID=746714332&CFTOKEN=76963126",
+        "count": 40,
+        "title2": "Disjunction and modular goal-directed proof search",
+        "title1": "Disjunction and modular goal-directed proof search",
+        "score": 1.0,
+        "i": 3165
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0108007v1",
+        "j": 15891,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1024924&ftid=286334&dwn=1&CFID=746714460&CFTOKEN=97044398",
+        "count": 41,
+        "title2": "Abstract versus concrete computation on metric partial algebras",
+        "title1": "Abstract versus Concrete Computation on Metric Partial Algebras",
+        "score": 1.0,
+        "i": 3167
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0109001v1",
+        "j": 15824,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=505375&ftid=76608&dwn=1&CFID=746713762&CFTOKEN=17938046",
+        "count": 42,
+        "title2": "Abstract computability and algebraic specification",
+        "title1": "Abstract Computability, Algebraic Specification and Initiality",
+        "score": 0.8333333333333334,
+        "i": 3168
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0110028v1",
+        "j": 15885,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1042041&ftid=297887&dwn=1&CFID=746714422&CFTOKEN=66604270",
+        "count": 43,
+        "title2": "On equivalence and canonical forms in the LF type theory",
+        "title1": "On Equivalence and Canonical Forms in the LF Type Theory",
+        "score": 1.0,
+        "i": 3170
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0204039v1",
+        "j": 15904,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=963929&ftid=247792&dwn=1&CFID=746714557&CFTOKEN=31197961",
+        "count": 44,
+        "title2": "Precongruence formats for decorated trace semantics",
+        "title1": "Precongruence Formats for Decorated Trace Semantics",
+        "score": 1.0,
+        "i": 3179
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0204045v1",
+        "j": 15896,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=976713&ftid=252062&dwn=1&CFID=746714505&CFTOKEN=74857134",
+        "count": 45,
+        "title2": "Some applications of logic to feasibility in higher types",
+        "title1": "Some applications of logic to feasibility in higher types",
+        "score": 1.0,
+        "i": 3180
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0207068v1",
+        "j": 15877,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1055692&ftid=309446&dwn=1&CFID=746714355&CFTOKEN=83458662",
+        "count": 46,
+        "title2": "Knuth--bendix constraint solving is NP-complete",
+        "title1": "Knuth-Bendix constraint solving is NP-complete",
+        "score": 1.0,
+        "i": 3183
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0210022v3",
+        "j": 15844,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1055695&ftid=309449&dwn=1&CFID=746714104&CFTOKEN=85974594",
+        "count": 47,
+        "title2": "An elementary fragment of second-order lambda calculus",
+        "title1": "An Elementary Fragment of Second-Order Lambda Calculus",
+        "score": 1.0,
+        "i": 3190
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0211021v1",
+        "j": 15868,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1071600&ftid=313722&dwn=1&CFID=746714319&CFTOKEN=54290800",
+        "count": 48,
+        "title2": "Sequent and hypersequent calculi for abelian and &lstrok;ukasiewicz logics",
+        "title1": "Sequent and Hypersequent Calculi for Abelian and Lukasiewicz Logics",
+        "score": 0.7777777777777778,
+        "i": 3192
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0211022v1",
+        "j": 15845,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1071602&ftid=313724&dwn=1&CFID=746714127&CFTOKEN=14435358",
+        "count": 49,
+        "title2": "Arithmetic, first-order logic, and counting quantifiers",
+        "title1": "Arithmetic, First-Order Logic, and Counting Quantifiers",
+        "score": 1.0,
+        "i": 3193
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0305011v1",
+        "j": 15863,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1131315&ftid=356963&dwn=1&CFID=746714259&CFTOKEN=46493078",
+        "count": 50,
+        "title2": "Optimizing optimal reduction: A type inference algorithm for elementary affine logic",
+        "title1": "Optimizing Optimal Reduction: A Type Inference Algorithm for Elementary   Affine Logic",
+        "score": 1.0,
+        "i": 3202
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0306041v1",
+        "j": 15865,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1119443&ftid=347385&dwn=1&CFID=746714299&CFTOKEN=62523481",
+        "count": 51,
+        "title2": "Monodic temporal resolution",
+        "title1": "Monodic temporal resolution",
+        "score": 1.0,
+        "i": 3204
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0310054v1",
+        "j": 15906,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1183285&ftid=375179&dwn=1&CFID=746714685&CFTOKEN=65475726",
+        "count": 52,
+        "title2": "Kleene algebra with domain",
+        "title1": "Kleene algebra with domain",
+        "score": 1.0,
+        "i": 3211
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0312014v3",
+        "j": 15993,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1182618&ftid=403968&dwn=1&CFID=746715274&CFTOKEN=23693505",
+        "count": 53,
+        "title2": "Logical characterizations of heap abstractions",
+        "title1": "Logical Characterizations of Heap Abstractions",
+        "score": 1.0,
+        "i": 3218
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0407006v1",
+        "j": 15978,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1297662&ftid=474384&dwn=1&CFID=746715177&CFTOKEN=57820232",
+        "count": 54,
+        "title2": "Predicate abstraction with indexed predicates",
+        "title1": "Predicate Abstraction with Indexed Predicates",
+        "score": 1.0,
+        "i": 3234
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0501035v1",
+        "j": 3255,
+        "url2": "http://arxiv.org/pdf/cs/0501039v1",
+        "count": 55,
+        "title2": "Introduction to linear logic and ludics, part II",
+        "title1": "Introduction to linear logic and ludics, part I",
+        "score": 0.7777777777777778,
+        "i": 3254
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0506008v1",
+        "j": 15965,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1342995&ftid=508005&dwn=1&CFID=746715093&CFTOKEN=74447961",
+        "count": 56,
+        "title2": "Bounds on the automata size for Presburger arithmetic",
+        "title1": "Bounds on the Automata Size for Presburger Arithmetic",
+        "score": 1.0,
+        "i": 3270
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0511023v3",
+        "j": 15977,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1297663&ftid=474385&dwn=1&CFID=746715170&CFTOKEN=19309582",
+        "count": 57,
+        "title2": "Verifying nondeterministic probabilistic channel systems against \u03c9-regular linear-time properties",
+        "title1": "Verifying nondeterministic probabilistic channel systems against   $\u03c9$-regular linear-time properties",
+        "score": 1.0,
+        "i": 3289
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0512031v2",
+        "j": 15963,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1342994&ftid=508004&dwn=1&CFID=746715097&CFTOKEN=76358116",
+        "count": 58,
+        "title2": "Alternating timed automata",
+        "title1": "Alternating Timed Automata",
+        "score": 1.0,
+        "i": 3297
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0608001v2",
+        "j": 15953,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1459016&ftid=608346&dwn=1&CFID=746715016&CFTOKEN=85185356",
+        "count": 59,
+        "title2": "A finite equational base for CCS with left merge and communication merge",
+        "title1": "A Finite Equational Base for CCS with Left Merge and Communication Merge",
+        "score": 1.0,
+        "i": 3324
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0610065v1",
+        "j": 3350,
+        "url2": "http://arxiv.org/pdf/cs/0610072v1",
+        "count": 60,
+        "title2": "Definitions by rewriting in the Calculus of Constructions",
+        "title1": "Definitions by Rewriting in the Calculus of Constructions",
+        "score": 1.0,
+        "i": 3344
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0610070v1",
+        "j": 3351,
+        "url2": "http://arxiv.org/pdf/cs/0610073v1",
+        "count": 61,
+        "title2": "Inductive types in the Calculus of Algebraic Constructions",
+        "title1": "Inductive types in the Calculus of Algebraic Constructions",
+        "score": 1.0,
+        "i": 3348
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0702041v1",
+        "j": 22480,
+        "url2": "http://dblp.uni-trier.de/db/journals/acta/acta45.html#BrijderH08",
+        "count": 62,
+        "title2": "The fibers and range of reduction graphs in ciliates.",
+        "title1": "The Fibers and Range of Reduction Graphs in Ciliates",
+        "score": 1.0,
+        "i": 3375
+    },
+    {
+        "url1": "http://arxiv.org/pdf/0705.3487v1",
+        "j": 21767,
+        "url2": "http://dblp.uni-trier.de/db/journals/acta/acta43.html#CarayolM06",
+        "count": 63,
+        "title2": "Linearly bounded infinite graphs.",
+        "title1": "Linearly bounded infinite graphs",
+        "score": 1.0,
+        "i": 3391
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0011041v1",
+        "j": 3441,
+        "url2": "http://arxiv.org/pdf/cs/0110044v1",
+        "count": 64,
+        "title2": "EquiX--A Search and Query Language for XML",
+        "title1": "EquiX---A Search and Query Language for XML",
+        "score": 1.0,
+        "i": 3436
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0503012v2",
+        "j": 15910,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1342997&ftid=508007&dwn=1&CFID=746714742&CFTOKEN=76544400",
+        "count": 65,
+        "title2": "First-order complete and computationally complete query languages for spatio-temporal databases",
+        "title1": "First-order Complete and Computationally Complete Query Languages for   Spatio-Temporal Databases",
+        "score": 1.0,
+        "i": 3504
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0605124v1",
+        "j": 18726,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1567278&ftid=684603&dwn=1&CFID=746730787&CFTOKEN=33223059",
+        "count": 66,
+        "title2": "Semantics and complexity of SPARQL",
+        "title1": "Semantics and Complexity of SPARQL",
+        "score": 1.0,
+        "i": 3518
+    },
+    {
+        "url1": "http://arxiv.org/pdf/0905.1755v1",
+        "j": 16603,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1993080&ftid=1008728&dwn=1&CFID=746718521&CFTOKEN=39030315",
+        "count": 67,
+        "title2": "Can the Utility of Anonymized Data be Used for Privacy Breaches?",
+        "title1": "Can the Utility of Anonymized Data be used for Privacy Breaches?",
+        "score": 1.0,
+        "i": 3610
+    },
+    {
+        "url1": "http://arxiv.org/pdf/1003.5080v1",
+        "j": 18719,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1735887&ftid=773170&dwn=1&CFID=746730740&CFTOKEN=60939303",
+        "count": 68,
+        "title2": "Transparent anonymization: Thwarting adversaries who know the algorithm",
+        "title1": "Transparent Anonymization: Thwarting Adversaries Who Know the Algorithm",
+        "score": 1.0,
+        "i": 3656
+    },
+    {
+        "url1": "http://arxiv.org/pdf/1307.4167v1",
+        "j": 4109,
+        "url2": "http://arxiv.org/pdf/1309.3096v1",
+        "count": 69,
+        "title2": "Simulation of an Optimum Multilevel Dynamic Round Robin Scheduling   Algorithm",
+        "title1": "An Optimum Multilevel Dynamic Round Robin Scheduling Algorithm",
+        "score": 0.8,
+        "i": 4077
+    },
+    {
+        "url1": "http://arxiv.org/pdf/1407.4346v1",
+        "j": 17147,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=2619090&ftid=1479624&dwn=1&CFID=746721452&CFTOKEN=51863159",
+        "count": 70,
+        "title2": "Faults in Linux 2.6",
+        "title1": "Faults in Linux 2.6",
+        "score": 1.0,
+        "i": 4219
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0502049v1",
+        "j": 4380,
+        "url2": "http://arxiv.org/pdf/cs/0502050v1",
+        "count": 71,
+        "title2": "Generalised Bent Criteria for Boolean Functions (II)",
+        "title1": "Generalised Bent Criteria for Boolean Functions (I)",
+        "score": 0.75,
+        "i": 4379
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0506043v1",
+        "j": 4446,
+        "url2": "http://arxiv.org/pdf/cs/0506045v1",
+        "count": 72,
+        "title2": "Decision Feedback Based Scheme for Slepian-Wolf Coding of sources with   Hidden Markov Correlation",
+        "title1": "A Decision Feedback Based Scheme for Slepian-Wolf Coding of sources with   Hidden Markov Correlation",
+        "score": 0.9285714285714286,
+        "i": 4444
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0506077v3",
+        "j": 4615,
+        "url2": "http://arxiv.org/pdf/cs/0601093v1",
+        "count": 73,
+        "title2": "Stability of Scheduled Multi-access Communication over Quasi-static Flat   Fading Channels with Random Coding and Joint Maximum Likelihood Decoding",
+        "title1": "Stability of Scheduled Multi-access Communication over Quasi-static Flat   Fading Channels with Random Coding and Independent Decoding",
+        "score": 0.7894736842105263,
+        "i": 4454
+    },
+    {
+        "url1": "http://arxiv.org/pdf/0811.1714v1",
+        "j": 4656,
+        "url2": "http://arxiv.org/pdf/1006.1744v1",
+        "count": 74,
+        "title2": "Efficient Decomposition of Dense Matrices over GF(2)",
+        "title1": "Efficient Multiplication of Dense Matrices over GF(2)",
+        "score": 0.75,
+        "i": 4647
+    },
+    {
+        "url1": "http://arxiv.org/pdf/0910.1923v1",
+        "j": 7694,
+        "url2": "http://arxiv.org/pdf/0705.1956v1",
+        "count": 75,
+        "title2": "A Branch and Cut Algorithm for the Halfspace Depth Problem",
+        "title1": "A Branch and Cut Algorithm for the Halfspace Depth Problem",
+        "score": 1.0,
+        "i": 4826
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0609164v1",
+        "j": 4966,
+        "url2": "http://arxiv.org/pdf/cs/0610002v1",
+        "count": 76,
+        "title2": "Conditional Expressions for Blind Deconvolution: Derivative form",
+        "title1": "Conditional Expressions for Blind Deconvolution: Multi-point form",
+        "score": 0.75,
+        "i": 4964
+    },
+    {
+        "url1": "http://arxiv.org/pdf/1003.5891v1",
+        "j": 5103,
+        "url2": "http://arxiv.org/pdf/1003.5898v1",
+        "count": 77,
+        "title2": "Recognition of handwritten Roman Numerals using Tesseract open source   OCR engine",
+        "title1": "Recognition of Handwritten Roman Script Using Tesseract Open source OCR   Engine",
+        "score": 0.8333333333333334,
+        "i": 5100
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/9301111v1",
+        "j": 22306,
+        "url2": "http://dblp.uni-trier.de/db/journals/acta/acta28.html#Knuth90",
+        "count": 78,
+        "title2": "Nested Satisfiability.",
+        "title1": "Nested satisfiability",
+        "score": 1.0,
+        "i": 5215
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/9907035v1",
+        "j": 22515,
+        "url2": "http://dblp.uni-trier.de/db/journals/acta/acta34.html#HemaspaandraRW97",
+        "count": 79,
+        "title2": "Easy Sets and Hard Certificate Schemes.",
+        "title1": "Easy Sets and Hard Certificate Schemes",
+        "score": 1.0,
+        "i": 5229
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0607118v2",
+        "j": 15939,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1555748&ftid=654582&dwn=1&CFID=746714926&CFTOKEN=11416746",
+        "count": 80,
+        "title2": "A new function algebra of EXPTIME functions by safe nested recursion",
+        "title1": "A new function algebra of EXPTIME functions by safe nested recursion",
+        "score": 1.0,
+        "i": 5355
+    },
+    {
+        "url1": "http://arxiv.org/pdf/0802.2869v1",
+        "j": 16093,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=2071372&ftid=1103492&dwn=1&CFID=746715900&CFTOKEN=75839059",
+        "count": 81,
+        "title2": "Succinctness of the Complement and Intersection of Regular Expressions",
+        "title1": "Succinctness of the Complement and Intersection of Regular Expressions",
+        "score": 1.0,
+        "i": 5427
+    },
+    {
+        "url1": "http://arxiv.org/pdf/0904.3912v2",
+        "j": 5484,
+        "url2": "http://arxiv.org/pdf/0906.5112v3",
+        "count": 82,
+        "title2": "Response to Refutation of Aslam's Proof that NP = P",
+        "title1": "Refutation of Aslam's Proof that NP = P",
+        "score": 0.7777777777777778,
+        "i": 5472
+    },
+    {
+        "url1": "http://arxiv.org/pdf/1011.1599v2",
+        "j": 5869,
+        "url2": "http://arxiv.org/pdf/1011.2531v1",
+        "count": 83,
+        "title2": "A Stable Explicit Scheme for Solving Inhomogeneous Constant Coefficients   Differential Equation using Green's Function",
+        "title1": "A Stable Explicit Scheme for Solving Non-Homogeneous Constant   Coefficients Equation using Green's Function",
+        "score": 0.8,
+        "i": 5868
+    },
+    {
+        "url1": "http://arxiv.org/pdf/1605.00190v2",
+        "j": 34787,
+        "url2": "http://ieeexplore.ieee.org/document/7753120/",
+        "count": 84,
+        "title2": "Pixel matrices: An elementary technique for solving nonlinear systems",
+        "title1": "Pixel matrices: An elementary technique for solving nonlinear systems",
+        "score": 1.0,
+        "i": 6012
+    },
+    {
+        "url1": "http://arxiv.org/pdf/1610.09079v1",
+        "j": 6040,
+        "url2": "http://arxiv.org/pdf/1610.09080v1",
+        "count": 85,
+        "title2": "Stability analysis of the numerical Method of characteristics applied to   energy-preserving systems. Part II: Nonreflecting boundary conditions",
+        "title1": "Stability analysis of the numerical Method of characteristics applied to   energy-preserving systems. Part I: Periodic boundary conditions",
+        "score": 0.7777777777777778,
+        "i": 6039
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0007002v2",
+        "j": 15888,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1024927&ftid=286337&dwn=1&CFID=746714450&CFTOKEN=61239816",
+        "count": 86,
+        "title2": "Interval constraint solving for camera control and motion planning",
+        "title1": "Interval Constraint Solving for Camera Control and Motion Planning",
+        "score": 1.0,
+        "i": 6064
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0211016v4",
+        "j": 16001,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1183282&ftid=375176&dwn=1&CFID=746715300&CFTOKEN=59083661",
+        "count": 87,
+        "title2": "Efficient solving of quantified inequality constraints over the real numbers",
+        "title1": "Efficient Solving of Quantified Inequality Constraints over the Real   Numbers",
+        "score": 1.0,
+        "i": 6074
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0607032v1",
+        "j": 8956,
+        "url2": "http://arxiv.org/pdf/cs/0702056v1",
+        "count": 88,
+        "title2": "A probabilistic analysis of a leader election algorithm",
+        "title1": "Asymptotic Analysis of a Leader Election Algorithm",
+        "score": 0.75,
+        "i": 6086
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/9910016v1",
+        "j": 15714,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=359508&ftid=51099&dwn=1&CFID=746712785&CFTOKEN=83302404",
+        "count": 89,
+        "title2": "Probabilistic agent programs",
+        "title1": "Probabilistic Agent Programs",
+        "score": 1.0,
+        "i": 6216
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0011012v3",
+        "j": 6296,
+        "url2": "http://arxiv.org/pdf/cs/0208034v3",
+        "count": 90,
+        "title2": "Causes and Explanations: A Structural-Model Approach. Part II:   Explanations",
+        "title1": "Causes and Explanations: A Structural-Model Approach, Part I: Causes",
+        "score": 0.7777777777777778,
+        "i": 6253
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0207023v2",
+        "j": 16011,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1183279&ftid=375173&dwn=1&CFID=746715368&CFTOKEN=23070750",
+        "count": 91,
+        "title2": "Domain-dependent knowledge in answer set planning",
+        "title1": "Domain-Dependent Knowledge in Answer Set Planning",
+        "score": 1.0,
+        "i": 6281
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0209019v1",
+        "j": 15875,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1055693&ftid=309447&dwn=1&CFID=746714350&CFTOKEN=11067532",
+        "count": 92,
+        "title2": "Reasoning about evolving nonmonotonic knowledge bases",
+        "title1": "Reasoning about Evolving Nonmonotonic Knowledge Bases",
+        "score": 1.0,
+        "i": 6297
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0301010v2",
+        "j": 15879,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1055690&ftid=309444&dwn=1&CFID=746714381&CFTOKEN=14689496",
+        "count": 93,
+        "title2": "Comparisons and computation of well-founded semantics for disjunctive logic programs",
+        "title1": "Comparisons and Computation of Well-founded Semantics for Disjunctive   Logic Programs",
+        "score": 1.0,
+        "i": 6307
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0303009v2",
+        "j": 15870,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1119440&ftid=347382&dwn=1&CFID=746714315&CFTOKEN=38258663",
+        "count": 94,
+        "title2": "Unfolding partiality and disjunctions in stable model semantics",
+        "title1": "Unfolding Partiality and Disjunctions in Stable Model Semantics",
+        "score": 1.0,
+        "i": 6313
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0402033v1",
+        "j": 15991,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1227841&ftid=404615&dwn=1&CFID=746715255&CFTOKEN=67274292",
+        "count": 95,
+        "title2": "Recycling computed answers in rewrite systems for abduction",
+        "title1": "Recycling Computed Answers in Rewrite Systems for Abduction",
+        "score": 1.0,
+        "i": 6346
+    },
+    {
+        "url1": "http://arxiv.org/pdf/1110.0105v1",
+        "j": 6514,
+        "url2": "http://arxiv.org/pdf/1210.0437v1",
+        "count": 96,
+        "title2": "Multi-Agent Programming Contest 2012 - The Python-DTU Team",
+        "title1": "Multi-Agent Programming Contest 2011 - The Python-DTU Team",
+        "score": 0.75,
+        "i": 6458
+    },
+    {
+        "url1": "http://arxiv.org/pdf/1402.2793v2",
+        "j": 26085,
+        "url2": "http://dblp.uni-trier.de/db/journals/fgcs/fgcs37.html#KrzywickiFBK14",
+        "count": 97,
+        "title2": "Computing agents for decision support systems.",
+        "title1": "Computing Agents for Decision Support Systems",
+        "score": 1.0,
+        "i": 6476
+    },
+    {
+        "url1": "http://arxiv.org/pdf/1204.5796v1",
+        "j": 8150,
+        "url2": "http://arxiv.org/pdf/1001.5310v1",
+        "count": 98,
+        "title2": "Proceedings Second Workshop on Formal Aspects of Virtual Organisations",
+        "title1": "Proceedings Third Workshop on Formal Aspects of Virtual Organisations",
+        "score": 0.8,
+        "i": 6484
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/9912004v1",
+        "j": 6835,
+        "url2": "http://arxiv.org/pdf/cs/0009011v1",
+        "count": 99,
+        "title2": "Anaphora Resolution in Japanese Sentences Using Surface Expressions and   Examples",
+        "title1": "Pronoun Resolution in Japanese Sentences Using Surface Expressions and   Examples",
+        "score": 0.8181818181818182,
+        "i": 6762
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0204003v1",
+        "j": 6948,
+        "url2": "http://arxiv.org/pdf/cs/0304019v1",
+        "count": 100,
+        "title2": "Blind Normalization of Speech From Different Channels",
+        "title1": "Blind Normalization of Speech From Different Channels and Speakers",
+        "score": 0.7777777777777778,
+        "i": 6905
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0209010v1",
+        "j": 6955,
+        "url2": "http://arxiv.org/pdf/cs/0306050v1",
+        "count": 101,
+        "title2": "Introduction to the CoNLL-2003 Shared Task: Language-Independent Named   Entity Recognition",
+        "title1": "Introduction to the CoNLL-2002 Shared Task: Language-Independent Named   Entity Recognition",
+        "score": 0.8181818181818182,
+        "i": 6940
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0411092v1",
+        "j": 19670,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1080346&ftid=318925&dwn=1&CFID=746737779&CFTOKEN=59332768",
+        "count": 102,
+        "title2": "Trustworthy 100-year digital objects: durable encoding for when it's too late to ask",
+        "title1": "Trustworthy 100-Year Digital Objects: Durable Encoding for When It's Too   Late to Ask",
+        "score": 1.0,
+        "i": 7037
+    },
+    {
+        "url1": "http://arxiv.org/pdf/1003.4187v1",
+        "j": 7228,
+        "url2": "http://arxiv.org/pdf/1005.0839v1",
+        "count": 103,
+        "title2": "Comparing Repository Types - Challenges and barriers for subject-based   repositories, research repositories, national repository systems and   institutional repositories in serving scholarly communication",
+        "title1": "Comparing Repository Types - Challenges and barriers for subject-based   repositories, research repositories, national repository systems and   institutional repositories in serving scholarly communication",
+        "score": 1.0,
+        "i": 7113
+    },
+    {
+        "url1": "http://arxiv.org/pdf/1106.5178v1",
+        "j": 38607,
+        "url2": "http://ieeexplore.ieee.org/document/6167821/",
+        "count": 104,
+        "title2": "The Open Annotation Collaboration (OAC) Model",
+        "title1": "The Open Annotation Collaboration (OAC) Model",
+        "score": 1.0,
+        "i": 7247
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0307023v2",
+        "j": 21367,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1497291&ftid=600514&dwn=1&CFID=746745290&CFTOKEN=57681899",
+        "count": 105,
+        "title2": "Testing bipartiteness of geometric intersection graphs",
+        "title1": "Testing Bipartiteness of Geometric Intersection Graphs",
+        "score": 1.0,
+        "i": 7646
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0307027v1",
+        "j": 21406,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1240239&ftid=430741&dwn=1&CFID=746745460&CFTOKEN=54612852",
+        "count": 106,
+        "title2": "Deterministic sampling and range counting in geometric data streams",
+        "title1": "Deterministic Sampling and Range Counting in Geometric Data Streams",
+        "score": 1.0,
+        "i": 7647
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0604034v2",
+        "j": 21320,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1541890&ftid=644340&dwn=1&CFID=746745098&CFTOKEN=88559012",
+        "count": 107,
+        "title2": "Squarepants in a tree: Sum of subtree clustering and hyperbolic pants decomposition",
+        "title1": "Squarepants in a Tree: Sum of Subtree Clustering and Hyperbolic Pants   Decomposition",
+        "score": 1.0,
+        "i": 7672
+    },
+    {
+        "url1": "http://arxiv.org/pdf/0711.0836v3",
+        "j": 22498,
+        "url2": "http://dblp.uni-trier.de/db/journals/acta/acta46.html#BergstraM09",
+        "count": 108,
+        "title2": "Machine structure oriented control code logic.",
+        "title1": "Machine structure oriented control code logic",
+        "score": 1.0,
+        "i": 8048
+    },
+    {
+        "url1": "http://arxiv.org/pdf/1001.3918v1",
+        "j": 8145,
+        "url2": "http://arxiv.org/pdf/1001.4129v1",
+        "count": 109,
+        "title2": "Defect Prevention Approaches In Medium Scale It Enterprises",
+        "title1": "Defect Prevention Approaches in Medium Scale it Enterprises",
+        "score": 1.0,
+        "i": 8143
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0508041v2",
+        "j": 8228,
+        "url2": "http://arxiv.org/pdf/cs/0508042v2",
+        "count": 110,
+        "title2": "OpenVanilla - A Non-Intrusive Plug-In Framework of Text Services",
+        "title1": "OpenVanilla - A Non-Intrusive Plug-In Framework of Text Services",
+        "score": 1.0,
+        "i": 8227
+    },
+    {
+        "url1": "http://arxiv.org/pdf/0912.1810v1",
+        "j": 8352,
+        "url2": "http://arxiv.org/pdf/0912.2479v2",
+        "count": 111,
+        "title2": "Pervasive Emotions in Pervasive Computing Environments",
+        "title1": "Emotions in Pervasive Computing Environments",
+        "score": 1.0,
+        "i": 8350
+    },
+    {
+        "url1": "http://arxiv.org/pdf/1107.3893v1",
+        "j": 8495,
+        "url2": "http://arxiv.org/pdf/1107.4217v1",
+        "count": 112,
+        "title2": "A Glance into the Future of Human Computer Interactions",
+        "title1": "A Glance into the Future of Human Computer Interaction",
+        "score": 0.8,
+        "i": 8494
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0203023v1",
+        "j": 18951,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1013206&ftid=277858&dwn=1&CFID=746732712&CFTOKEN=44107257",
+        "count": 113,
+        "title2": "Agent trade servers in financial exchange systems",
+        "title1": "Agent trade servers in financial exchange systems",
+        "score": 1.0,
+        "i": 8511
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0407036v1",
+        "j": 21312,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1597042&ftid=702822&dwn=1&CFID=746745075&CFTOKEN=95885035",
+        "count": 114,
+        "title2": "All maximal independent sets and dynamic dominance for sparse graphs",
+        "title1": "All Maximal Independent Sets and Dynamic Dominance for Sparse Graphs",
+        "score": 1.0,
+        "i": 8871
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0601084v1",
+        "j": 21307,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1597047&ftid=702827&dwn=1&CFID=746745061&CFTOKEN=36902385",
+        "count": 115,
+        "title2": "Randomized fast design of short DNA words",
+        "title1": "Randomized Fast Design of Short DNA Words",
+        "score": 1.0,
+        "i": 8916
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0609085v2",
+        "j": 21303,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1644018&ftid=706949&dwn=1&CFID=746745039&CFTOKEN=71098319",
+        "count": 116,
+        "title2": "Improved approximate string matching and regular expression matching on Ziv-Lempel compressed texts",
+        "title1": "Improved Approximate String Matching and Regular Expression Matching on   Ziv-Lempel Compressed Texts",
+        "score": 1.0,
+        "i": 8942
+    },
+    {
+        "url1": "http://arxiv.org/pdf/0704.3313v3",
+        "j": 30289,
+        "url2": "http://dblp.uni-trier.de/db/journals/tkde/tkde23.html#EppsteinG11",
+        "count": 117,
+        "title2": "Straggler Identification in Round-Trip Data Streams via Newton's Identities and Invertible Bloom Filters.",
+        "title1": "Straggler Identification in Round-Trip Data Streams via Newton's   Identities and Invertible Bloom Filters",
+        "score": 1.0,
+        "i": 8965
+    },
+    {
+        "url1": "http://arxiv.org/pdf/0707.0546v1",
+        "j": 21508,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=2556951&ftid=1429182&dwn=1&CFID=746745931&CFTOKEN=40153846",
+        "count": 118,
+        "title2": "Weighted popular matchings",
+        "title1": "Weighted Popular Matchings",
+        "score": 1.0,
+        "i": 8978
+    },
+    {
+        "url1": "http://arxiv.org/pdf/0707.0648v1",
+        "j": 21462,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1721857&ftid=772728&dwn=1&CFID=746745680&CFTOKEN=55910884",
+        "count": 119,
+        "title2": "Dial a Ride from ",
+        "title1": "Dial a Ride from k-forest",
+        "score": 0.8,
+        "i": 8979
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0603079v1",
+        "j": 15949,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1462183&ftid=604300&dwn=1&CFID=746714988&CFTOKEN=52420604",
+        "count": 120,
+        "title2": "A compositional semantics for CHR",
+        "title1": "A compositional Semantics for CHR",
+        "score": 1.0,
+        "i": 9210
+    },
+    {
+        "url1": "http://arxiv.org/pdf/1009.2900v1",
+        "j": 16082,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=2422086&ftid=1348310&dwn=1&CFID=746715836&CFTOKEN=38489971",
+        "count": 121,
+        "title2": "Linear-Logic Based Analysis of Constraint Handling Rules with Disjunction",
+        "title1": "Linear-Logic Based Analysis of Constraint Handling Rules with   Disjunction",
+        "score": 1.0,
+        "i": 9306
+    },
+    {
+        "url1": "http://arxiv.org/pdf/0705.0738v1",
+        "j": 9446,
+        "url2": "http://arxiv.org/pdf/0705.0856v1",
+        "count": 122,
+        "title2": "The Multiobjective Optimization of a Prismatic Drive",
+        "title1": "The Optimization of a Novel Prismatic Drive",
+        "score": 0.75,
+        "i": 9445
+    },
+    {
+        "url1": "http://arxiv.org/pdf/0705.0738v1",
+        "j": 9498,
+        "url2": "http://arxiv.org/pdf/0707.3534v1",
+        "count": 123,
+        "title2": "The Kinetostatic Optimization of a Novel Prismatic Drive",
+        "title1": "The Optimization of a Novel Prismatic Drive",
+        "score": 0.875,
+        "i": 9445
+    },
+    {
+        "url1": "http://arxiv.org/pdf/0705.1215v1",
+        "j": 9526,
+        "url2": "http://arxiv.org/pdf/0711.1765v1",
+        "count": 124,
+        "title2": "Kinematic calibration of orthoglide-type mechanisms",
+        "title1": "Kinematic Calibration of the Orthoglide-Type Mechanisms",
+        "score": 0.8333333333333334,
+        "i": 9458
+    },
+    {
+        "url1": "http://arxiv.org/pdf/0705.1217v1",
+        "j": 9662,
+        "url2": "http://arxiv.org/pdf/1104.1249v1",
+        "count": 125,
+        "title2": "The Design of a Novel Prismatic Drive for a Three-DOF   Parallel-Kinematics Machine",
+        "title1": "The Design of a Novel Prismatic Drive for a Three-DOF   Parallel-Kinematics Machine",
+        "score": 1.0,
+        "i": 9459
+    },
+    {
+        "url1": "http://arxiv.org/pdf/0705.1272v1",
+        "j": 9517,
+        "url2": "http://arxiv.org/pdf/0708.3896v1",
+        "count": 126,
+        "title2": "The Isoconditioning Loci of Planar Three-DOF Parallel Manipulators",
+        "title1": "The Isoconditioning Loci of Planar Three-DOF Parallel Manipulators",
+        "score": 1.0,
+        "i": 9462
+    },
+    {
+        "url1": "http://arxiv.org/pdf/0707.1193v1",
+        "j": 9525,
+        "url2": "http://arxiv.org/pdf/0711.0574v1",
+        "count": 127,
+        "title2": "Singular Curves in the Joint Space and Cusp Points of 3-RPR parallel   manipulators",
+        "title1": "Singular curves and cusp points in the joint space of 3-RPR parallel   manipulators",
+        "score": 1.0,
+        "i": 9476
+    },
+    {
+        "url1": "http://arxiv.org/pdf/0707.2042v1",
+        "j": 9656,
+        "url2": "http://arxiv.org/pdf/1104.0780v1",
+        "count": 128,
+        "title2": "A distributed Approach for Access and Visibility Task with a Manikin and   a Robot in a Virtual Reality Environment",
+        "title1": "A distributed Approach for Access and Visibility Task under Ergonomic   Constraints with a Manikin in a Virtual Reality Environment",
+        "score": 0.7777777777777778,
+        "i": 9483
+    },
+    {
+        "url1": "http://arxiv.org/pdf/0707.2229v1",
+        "j": 9509,
+        "url2": "http://arxiv.org/pdf/0707.3673v1",
+        "count": 129,
+        "title2": "The Computation of All 4R Serial Spherical Wrists With an Isotropic   Architecture",
+        "title1": "The Computation of All 4R Serial Spherical Wrists With an Isotropic   Architecture",
+        "score": 1.0,
+        "i": 9487
+    },
+    {
+        "url1": "http://arxiv.org/pdf/0707.3550v1",
+        "j": 9505,
+        "url2": "http://arxiv.org/pdf/0707.3564v1",
+        "count": 130,
+        "title2": "A New Six Degree-of-Freedom Haptic Device based on the Orthoglide and   the Agile Eye",
+        "title1": "A Six Degree-Of-Freedom Haptic Device Based On The Orthoglide And A   Hybrid Agile Eye",
+        "score": 0.8571428571428571,
+        "i": 9499
+    },
+    {
+        "url1": "http://arxiv.org/pdf/0707.3553v1",
+        "j": 9516,
+        "url2": "http://arxiv.org/pdf/0708.3811v1",
+        "count": 131,
+        "title2": "An Exhaustive Study of the Workspaces Tolopogies of all 3R Orthogonal   Manipulators with Geometric Simplifications",
+        "title1": "An Exhaustive Study of the Workspace Topologies of all 3R Orthogonal   Manipulators with Geometric Simplifications",
+        "score": 0.75,
+        "i": 9501
+    },
+    {
+        "url1": "http://arxiv.org/pdf/0708.3607v1",
+        "j": 9514,
+        "url2": "http://arxiv.org/pdf/0708.3723v1",
+        "count": 132,
+        "title2": "Parametric Stiffness Analysis of the Orthoglide",
+        "title1": "Parametric stiffness analysis of the Orthoglide",
+        "score": 1.0,
+        "i": 9512
+    },
+    {
+        "url1": "http://arxiv.org/pdf/0809.3180v1",
+        "j": 9576,
+        "url2": "http://arxiv.org/pdf/0910.4012v1",
+        "count": 133,
+        "title2": "Singularity Analysis of Lower-Mobility Parallel Manipulators Using   Grassmann-Cayley Algebra",
+        "title1": "Singularity Analysis of Limited-dof Parallel Manipulators using   Grassmann-Cayley Algebra",
+        "score": 0.8,
+        "i": 9551
+    },
+    {
+        "url1": "http://arxiv.org/pdf/0901.0825v1",
+        "j": 9598,
+        "url2": "http://arxiv.org/pdf/1010.5891v1",
+        "count": 134,
+        "title2": "A new muscle fatigue and recovery model and its ergonomics application   in human simulation",
+        "title1": "A new muscle fatigue and recovery model and its ergonomics application   in human simulation",
+        "score": 1.0,
+        "i": 9563
+    },
+    {
+        "url1": "http://arxiv.org/pdf/0710.4799v1",
+        "j": 17595,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1391968&ftid=557637&dwn=1&CFID=746723345&CFTOKEN=81974361",
+        "count": 135,
+        "title2": "Access pattern-based code compression for memory-constrained systems",
+        "title1": "Access Pattern-Based Code Compression for Memory-Constrained Embedded   Systems",
+        "score": 0.875,
+        "i": 9800
+    },
+    {
+        "url1": "http://arxiv.org/pdf/0810.2865v1",
+        "j": 10287,
+        "url2": "http://arxiv.org/pdf/1203.1809v2",
+        "count": 136,
+        "title2": "Undominated Groves Mechanisms",
+        "title1": "Welfare Undominated Groves Mechanisms",
+        "score": 0.75,
+        "i": 10081
+    },
+    {
+        "url1": "http://arxiv.org/pdf/1009.2204v1",
+        "j": 10183,
+        "url2": "http://arxiv.org/pdf/1009.2205v1",
+        "count": 137,
+        "title2": "MiBoard: iSTART Metacognitive Training through Gaming",
+        "title1": "MiBoard: Metacognitive Training Through Gaming in iSTART",
+        "score": 0.8571428571428571,
+        "i": 10182
+    },
+    {
+        "url1": "http://arxiv.org/pdf/1011.6134v3",
+        "j": 11323,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=2741027&ftid=1566160&dwn=1&CFID=746684030&CFTOKEN=10859231",
+        "count": 138,
+        "title2": "Single-Call Mechanisms",
+        "title1": "Single-Call Mechanisms",
+        "score": 1.0,
+        "i": 10213
+    },
+    {
+        "url1": "http://arxiv.org/pdf/1108.4744v1",
+        "j": 11354,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=2465773&ftid=1375991&dwn=1&CFID=746684225&CFTOKEN=86021199",
+        "count": 139,
+        "title2": "Mechanism Design via Consensus Estimates, Cross Checking, and Profit Extraction",
+        "title1": "Mechanism Design via Consensus Estimates, Cross Checking, and Profit   Extraction",
+        "score": 1.0,
+        "i": 10254
+    },
+    {
+        "url1": "http://arxiv.org/pdf/1112.4264v1",
+        "j": 11316,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=2770639&ftid=1594431&dwn=1&CFID=746683968&CFTOKEN=18057789",
+        "count": 140,
+        "title2": "Bounded-Distance Network Creation Games",
+        "title1": "Bounded-Distance Network Creation Games",
+        "score": 1.0,
+        "i": 10273
+    },
+    {
+        "url1": "http://arxiv.org/pdf/1112.6361v1",
+        "j": 11311,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=2818357&ftid=1650902&dwn=1&CFID=746683956&CFTOKEN=39301476",
+        "count": 141,
+        "title2": "On Multiple Keyword Sponsored Search Auctions with Budgets",
+        "title1": "On Multiple Round Sponsored Search Auctions with Budgets",
+        "score": 0.7777777777777778,
+        "i": 10276
+    },
+    {
+        "url1": "http://arxiv.org/pdf/1101.5490v1",
+        "j": 14128,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=2231820&ftid=1284847&dwn=1&CFID=746701873&CFTOKEN=26795663",
+        "count": 142,
+        "title2": "Reflectance model for diffraction",
+        "title1": "Ray-Based Reflectance Model for Diffraction",
+        "score": 0.8,
+        "i": 10341
+    },
+    {
+        "url1": "http://arxiv.org/pdf/1308.0419v2",
+        "j": 14498,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=2601162&ftid=1488929&dwn=1&CFID=746703358&CFTOKEN=28553703",
+        "count": 143,
+        "title2": "Inverse procedural modeling of facade layouts",
+        "title1": "Inverse Procedural Modeling of Facade Layouts",
+        "score": 1.0,
+        "i": 10349
+    },
+    {
+        "url1": "http://arxiv.org/pdf/1308.0867v1",
+        "j": 10351,
+        "url2": "http://arxiv.org/pdf/1308.0869v1",
+        "count": 144,
+        "title2": "A Spline-based Volumetric Data Modeling Framework and Its Applications",
+        "title1": "A Survey of Spline-based Volumetric Data Modeling Framework and Its   Applications",
+        "score": 0.8181818181818182,
+        "i": 10350
+    },
+    {
+        "url1": "http://arxiv.org/pdf/1211.3297v2",
+        "j": 14815,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=2516973&ftid=1405079&dwn=1&CFID=746705018&CFTOKEN=72808234",
+        "count": 145,
+        "title2": "Gap processing for adaptive maximal poisson-disk sampling",
+        "title1": "Gap Processing for Adaptive Maximal Poisson-Disk Sampling",
+        "score": 1.0,
+        "i": 10378
+    },
+    {
+        "url1": "http://arxiv.org/pdf/1305.1293v1",
+        "j": 14801,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=2534161&ftid=1428066&dwn=1&CFID=746704891&CFTOKEN=77008975",
+        "count": 146,
+        "title2": "Parallel chen-han (PCH) algorithm for discrete geodesics",
+        "title1": "Parallel Chen-Han (PCH) Algorithm for Discrete Geodesics",
+        "score": 1.0,
+        "i": 10393
+    },
+    {
+        "url1": "http://arxiv.org/pdf/1404.6293v2",
+        "j": 14348,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=2766973&ftid=1608726&dwn=1&CFID=746702754&CFTOKEN=61111826",
+        "count": 147,
+        "title2": "Piko: a framework for authoring programmable graphics pipelines",
+        "title1": "Piko: A Design Framework for Programmable Graphics Pipelines",
+        "score": 0.7777777777777778,
+        "i": 10416
+    },
+    {
+        "url1": "http://arxiv.org/pdf/1506.02400v2",
+        "j": 14609,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=2832905&ftid=1655291&dwn=1&CFID=746703716&CFTOKEN=72460062",
+        "count": 148,
+        "title2": "Pushing the Limits of 3D Color Printing: Error Diffusion with Translucent Materials",
+        "title1": "Pushing the Limits of 3D Color Printing: Error Diffusion with   Translucent Materials",
+        "score": 1.0,
+        "i": 10460
+    },
+    {
+        "url1": "http://arxiv.org/pdf/1506.07577v3",
+        "j": 14248,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=2892632&ftid=1715319&dwn=1&CFID=746702410&CFTOKEN=90047556",
+        "count": 149,
+        "title2": "Ebb: A DSL for Physical Simulation on CPUs and GPUs",
+        "title1": "Ebb: A DSL for Physical Simulation on CPUs and GPUs",
+        "score": 1.0,
+        "i": 10468
+    },
+    {
+        "url1": "http://arxiv.org/pdf/1510.03023v1",
+        "j": 15076,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=2907049&ftid=1751850&dwn=1&CFID=746706996&CFTOKEN=62806892",
+        "count": 150,
+        "title2": "Printed Perforated Lampshades for Continuous Projective Images",
+        "title1": "Printed Perforated Lampshades for Continuous Projective Images",
+        "score": 1.0,
+        "i": 10482
+    },
+    {
+        "url1": "http://arxiv.org/pdf/1608.08570v1",
+        "j": 15065,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=2956233&ftid=1786932&dwn=1&CFID=746706925&CFTOKEN=15839648",
+        "count": 151,
+        "title2": "Interpolations of Smoke and Liquid Simulations",
+        "title1": "Interpolations of Smoke and Liquid Simulations",
+        "score": 1.0,
+        "i": 10521
+    },
+    {
+        "url1": "http://arxiv.org/pdf/cs/0511032v1",
+        "j": 12601,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=383748&ftid=61036&dwn=1&CFID=746694821&CFTOKEN=73764788",
+        "count": 152,
+        "title2": "Spatiotemporal sensitivity and visual attention for efficient rendering of dynamic environments",
+        "title1": "Spatiotemporal sensistivity and visual attention for efficient rendering   of dynamic environments",
+        "score": 0.8333333333333334,
+        "i": 10576
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=357365&ftid=58931&dwn=1&CFID=746679226&CFTOKEN=28488229",
+        "j": 18103,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=319717&ftid=6143&dwn=1&CFID=746725884&CFTOKEN=24408702",
+        "count": 153,
+        "title2": "Distributed deadlock detection algorithm",
+        "title1": "Distributed deadlock detection",
+        "score": 0.75,
+        "i": 10656
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=2829943&ftid=1704815&dwn=1&CFID=746679428&CFTOKEN=86150038",
+        "j": 22970,
+        "url2": "http://dblp.uni-trier.de/db/journals/tsas/tsas2.html#AliTSNK16",
+        "count": 154,
+        "title2": "Spatial Consensus Queries in a Collaborative Environment.",
+        "title1": "Spatial Consensus Queries in a Collaborative Environment",
+        "score": 1.0,
+        "i": 10683
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=2774220&ftid=1607498&dwn=1&CFID=746679421&CFTOKEN=85582737",
+        "j": 22964,
+        "url2": "http://dblp.uni-trier.de/db/journals/tsas/tsas1.html#McKennneyF15",
+        "count": 155,
+        "title2": "Generating Moving Regions from Snapshots of Complex Regions.",
+        "title1": "Generating Moving Regions from Snapshots of Complex Regions",
+        "score": 1.0,
+        "i": 10684
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=2774219&ftid=1607880&dwn=1&CFID=746679437&CFTOKEN=84931923",
+        "j": 22963,
+        "url2": "http://dblp.uni-trier.de/db/journals/tsas/tsas1.html#TangYZO15",
+        "count": 156,
+        "title2": "Efficient Geo-Fencing via Hybrid Hashing: A Combination of Bucket Selection and In-Bucket Binary Search.",
+        "title1": "Efficient Geo-Fencing via Hybrid Hashing: A Combination of Bucket Selection and In-Bucket Binary Search",
+        "score": 1.0,
+        "i": 10685
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=2786756&ftid=1608739&dwn=1&CFID=746679432&CFTOKEN=33777228",
+        "j": 22972,
+        "url2": "http://dblp.uni-trier.de/db/journals/tsas/tsas1.html#GutingVD15",
+        "count": 157,
+        "title2": "Symbolic Trajectories.",
+        "title1": "Symbolic Trajectories",
+        "score": 1.0,
+        "i": 10686
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=2786758&ftid=1607882&dwn=1&CFID=746679434&CFTOKEN=96248505",
+        "j": 22955,
+        "url2": "http://dblp.uni-trier.de/db/journals/tsas/tsas1.html#ThatPZ15",
+        "count": 158,
+        "title2": "TRIFL: A Generic Trajectory Index for Flash Storage.",
+        "title1": "TRIFL: A Generic Trajectory Index for Flash Storage",
+        "score": 1.0,
+        "i": 10687
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=2987381&ftid=1809092&dwn=1&CFID=746679447&CFTOKEN=83236202",
+        "j": 22968,
+        "url2": "http://dblp.uni-trier.de/db/journals/tsas/tsas2.html#PurushothamK16",
+        "count": 159,
+        "title2": "Personalized Group Recommender Systems for Location- and Event-Based Social Networks.",
+        "title1": "Personalized Group Recommender Systems for Location- and Event-Based Social Networks",
+        "score": 1.0,
+        "i": 10688
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=2997642&ftid=1814858&dwn=1&CFID=746679448&CFTOKEN=56924941",
+        "j": 22973,
+        "url2": "http://dblp.uni-trier.de/db/journals/tsas/tsas2.html#ZhaoCLR16",
+        "count": 160,
+        "title2": "Online Spatial Event Forecasting in Microblogs.",
+        "title1": "Online Spatial Event Forecasting in Microblogs",
+        "score": 1.0,
+        "i": 10689
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=2803172&ftid=1616231&dwn=1&CFID=746679429&CFTOKEN=23391789",
+        "j": 22962,
+        "url2": "http://dblp.uni-trier.de/db/journals/tsas/tsas1.html#KovanenS15",
+        "count": 161,
+        "title2": "Tilewise Accumulated Cost Surface Computation with Graphics Processing Units.",
+        "title1": "Tilewise Accumulated Cost Surface Computation with Graphics Processing Units",
+        "score": 1.0,
+        "i": 10690
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=2964906&ftid=1800224&dwn=1&CFID=746679442&CFTOKEN=92150098",
+        "j": 22967,
+        "url2": "http://dblp.uni-trier.de/db/journals/tsas/tsas2.html#HungYL16",
+        "count": 162,
+        "title2": "Social Influence-Aware Reverse Nearest Neighbor Search.",
+        "title1": "Social Influence-Aware Reverse Nearest Neighbor Search",
+        "score": 1.0,
+        "i": 10696
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=2845080&ftid=1704817&dwn=1&CFID=746679424&CFTOKEN=15574120",
+        "j": 22975,
+        "url2": "http://dblp.uni-trier.de/db/journals/tsas/tsas2.html#GoelKR16",
+        "count": 163,
+        "title2": "Privacy-Aware Dynamic Ride Sharing.",
+        "title1": "Privacy-Aware Dynamic Ride Sharing",
+        "score": 1.0,
+        "i": 10700
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=2934675&ftid=1795197&dwn=1&CFID=746679552&CFTOKEN=86661187",
+        "j": 22959,
+        "url2": "http://dblp.uni-trier.de/db/journals/tsas/tsas2.html#EfstathiadesEP16",
+        "count": 164,
+        "title2": "Efficient Processing of Relevant Nearest-Neighbor Queries.",
+        "title1": "Efficient Processing of Relevant Nearest-Neighbor Queries",
+        "score": 1.0,
+        "i": 10716
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=2994598&ftid=1814855&dwn=1&CFID=746679548&CFTOKEN=89175261",
+        "j": 22965,
+        "url2": "http://dblp.uni-trier.de/db/journals/tsas/tsas2.html#BudigDW16",
+        "count": 165,
+        "title2": "Matching Labels and Markers in Historical Maps: An Algorithm with Interactive Postprocessing.",
+        "title1": "Matching Labels and Markers in Historical Maps: An Algorithm with Interactive Postprocessing",
+        "score": 1.0,
+        "i": 10717
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=2994599&ftid=1809094&dwn=1&CFID=746679547&CFTOKEN=80833509",
+        "j": 22974,
+        "url2": "http://dblp.uni-trier.de/db/journals/tsas/tsas2.html#NiuLC16",
+        "count": 166,
+        "title2": "On Local Expert Discovery via Geo-Located Crowds, Queries, and Candidates.",
+        "title1": "On Local Expert Discovery via Geo-Located Crowds, Queries, and Candidates",
+        "score": 1.0,
+        "i": 10718
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=2936775&ftid=1795721&dwn=1&CFID=746679551&CFTOKEN=38871217",
+        "j": 22966,
+        "url2": "http://dblp.uni-trier.de/db/journals/tsas/tsas2.html#PillaiABKAM16",
+        "count": 167,
+        "title2": "Mining At Most Top-Kamp;percnt; Spatiotemporal Co-occurrence Patterns in Datasets with Extended Spatial Representations.",
+        "title1": "Mining At Most Top-K&percnt; Spatiotemporal Co-occurrence Patterns in Datasets with Extended Spatial Representations",
+        "score": 0.8571428571428571,
+        "i": 10719
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=2910580&ftid=1748002&dwn=1&CFID=746679556&CFTOKEN=38958021",
+        "j": 22971,
+        "url2": "http://dblp.uni-trier.de/db/journals/tsas/tsas2.html#GhinitaDSB16",
+        "count": 168,
+        "title2": "Protecting Against Velocity-Based, Proximity-Based, and External Event Attacks in Location-Centric Social Networks.",
+        "title1": "Protecting Against Velocity-Based, Proximity-Based, and External Event Attacks in Location-Centric Social Networks",
+        "score": 1.0,
+        "i": 10721
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=2937753&ftid=1796920&dwn=1&CFID=746679549&CFTOKEN=61397140",
+        "j": 22960,
+        "url2": "http://dblp.uni-trier.de/db/journals/tsas/tsas2.html#PelekisSTT16",
+        "count": 169,
+        "title2": "Simulating Our LifeSteps by Example.",
+        "title1": "Simulating Our LifeSteps by Example",
+        "score": 1.0,
+        "i": 10722
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=2786757&ftid=1748000&dwn=1&CFID=746679581&CFTOKEN=97890218",
+        "j": 22958,
+        "url2": "http://dblp.uni-trier.de/db/journals/tsas/tsas2.html#AgarwalBM16",
+        "count": 170,
+        "title2": "TerraNNI: Natural Neighbor Interpolation on 2D and 3D Grids Using a GPU.",
+        "title1": "TerraNNI: Natural Neighbor Interpolation on 2D and 3D Grids Using a GPU",
+        "score": 1.0,
+        "i": 10725
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=2894745&ftid=1747996&dwn=1&CFID=746679585&CFTOKEN=76137318",
+        "j": 22954,
+        "url2": "http://dblp.uni-trier.de/db/journals/tsas/tsas2.html#SkoumasPKS16",
+        "count": 171,
+        "title2": "Location Estimation Using Crowdsourced Spatial Relations.",
+        "title1": "Location Estimation Using Crowdsourced Spatial Relations",
+        "score": 1.0,
+        "i": 10726
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=2903206&ftid=1747998&dwn=1&CFID=746679583&CFTOKEN=43985454",
+        "j": 22961,
+        "url2": "http://dblp.uni-trier.de/db/journals/tsas/tsas2.html#FerreiraAMF16",
+        "count": 172,
+        "title2": "An Efficient External Memory Algorithm for Terrain Viewshed Computation.",
+        "title1": "An Efficient External Memory Algorithm for Terrain Viewshed Computation",
+        "score": 1.0,
+        "i": 10729
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=2811256&ftid=1700176&dwn=1&CFID=746679606&CFTOKEN=59032701",
+        "j": 22956,
+        "url2": "http://dblp.uni-trier.de/db/journals/tsas/tsas2.html#BelussiMNP16",
+        "count": 173,
+        "title2": "Snap Rounding with Restore: An Algorithm for Producing Robust Geometric Datasets.",
+        "title1": "Snap Rounding with Restore: An Algorithm for Producing Robust Geometric Datasets",
+        "score": 1.0,
+        "i": 10730
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=2818373&ftid=1707665&dwn=1&CFID=746679604&CFTOKEN=16903699",
+        "j": 22976,
+        "url2": "http://dblp.uni-trier.de/db/journals/tsas/tsas2.html#BuchinMRS16",
+        "count": 174,
+        "title2": "Area-Preserving Simplification and Schematization of Polygonal Subdivisions.",
+        "title1": "Area-Preserving Simplification and Schematization of Polygonal Subdivisions",
+        "score": 1.0,
+        "i": 10731
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=2729713&ftid=1608737&dwn=1&CFID=746679611&CFTOKEN=54981005",
+        "j": 22957,
+        "url2": "http://dblp.uni-trier.de/db/journals/tsas/tsas1.html#ToSK15",
+        "count": 175,
+        "title2": "A Server-Assigned Spatial Crowdsourcing Framework.",
+        "title1": "A Server-Assigned Spatial Crowdsourcing Framework",
+        "score": 1.0,
+        "i": 10732
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=2729977&ftid=1609196&dwn=1&CFID=746679608&CFTOKEN=98175251",
+        "j": 22969,
+        "url2": "http://dblp.uni-trier.de/db/journals/tsas/tsas1.html#AhmedFHW15",
+        "count": 176,
+        "title2": "A Path-Based Distance for Street Map Comparison.",
+        "title1": "A Path-Based Distance for Street Map Comparison",
+        "score": 1.0,
+        "i": 10733
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=2794299&ftid=1608735&dwn=1&CFID=746679616&CFTOKEN=11509438",
+        "j": 22953,
+        "url2": "http://dblp.uni-trier.de/db/journals/tsas/tsas1.html#GemsaHN15",
+        "count": 177,
+        "title2": "Multirow Boundary-Labeling Algorithms for Panorama Images.",
+        "title1": "Multirow Boundary-Labeling Algorithms for Panorama Images",
+        "score": 1.0,
+        "i": 10734
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=1015049&ftid=278434&dwn=1&CFID=746684622&CFTOKEN=14576712",
+        "j": 11705,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=2435262&ftid=1360261&dwn=1&CFID=746687440&CFTOKEN=79985512",
+        "count": 178,
+        "title2": "Security challenges in embedded systems",
+        "title1": "Security in embedded systems: Design challenges",
+        "score": 0.8333333333333334,
+        "i": 11394
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=1376809&ftid=525513&dwn=1&CFID=746685364&CFTOKEN=71743866",
+        "j": 11681,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1457260&ftid=602859&dwn=1&CFID=746687195&CFTOKEN=22675863",
+        "count": 179,
+        "title2": "Modeling and analysis of core-centric network processors",
+        "title1": "Modeling and analysis of core-centric network processors",
+        "score": 1.0,
+        "i": 11466
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=1347378&ftid=517612&dwn=1&CFID=746685526&CFTOKEN=16023357",
+        "j": 11498,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1274864&ftid=451044&dwn=1&CFID=746685634&CFTOKEN=92704659",
+        "count": 180,
+        "title2": "Accurate and fast system-level power modeling: An XScale-based case study",
+        "title1": "Accurate and fast system-level power modeling: An XScale-based case study",
+        "score": 1.0,
+        "i": 11485
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=6118&ftid=712&dwn=1&CFID=746691583&CFTOKEN=72539153",
+        "j": 12305,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=214383&ftid=29822&dwn=1&CFID=746692268&CFTOKEN=44785664",
+        "count": 181,
+        "title2": "Corrigendum: Ray tracing generalized cylinders",
+        "title1": "Ray tracing generalized cylinders",
+        "score": 0.8,
+        "i": 12224
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=3976&ftid=266615&dwn=1&CFID=746691715&CFTOKEN=59309377",
+        "j": 12360,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=130833&ftid=32977&dwn=1&CFID=746692813&CFTOKEN=63669890",
+        "count": 182,
+        "title2": "Double-step incremental linear interpolation",
+        "title1": "Incremental linear interpolation",
+        "score": 0.75,
+        "i": 12245
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=49157&ftid=20849&dwn=1&CFID=746692511&CFTOKEN=11330496",
+        "j": 12414,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=197874&ftid=26022&dwn=1&CFID=746693338&CFTOKEN=88400145",
+        "count": 183,
+        "title2": "Corrigenda: intersection algorithms for lines and circles",
+        "title1": "Intersection algorithms for lines and circles",
+        "score": 0.8571428571428571,
+        "i": 12327
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=215264&ftid=19043&dwn=1&CFID=746693436&CFTOKEN=42389935",
+        "j": 12446,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=195828&ftid=36930&dwn=1&CFID=746693569&CFTOKEN=19285104",
+        "count": 184,
+        "title2": "Topological considerations in isosurface generation",
+        "title1": "Corrigendum: Topological considerations in isosurface generation",
+        "score": 0.8333333333333334,
+        "i": 12433
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=566616&ftid=82622&dwn=1&CFID=746694340&CFTOKEN=19502456",
+        "j": 13643,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1409628&ftid=500688&dwn=1&CFID=746699301&CFTOKEN=56575041",
+        "count": 185,
+        "title2": "Logarithmic perspective shadow maps",
+        "title1": "Perspective shadow maps",
+        "score": 0.75,
+        "i": 12538
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=1015814&ftid=273337&dwn=1&CFID=746695003&CFTOKEN=13266728",
+        "j": 14804,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=2532548&ftid=1428062&dwn=1&CFID=746704913&CFTOKEN=80279416",
+        "count": 186,
+        "title2": "Context-based coherent surface completion",
+        "title1": "Context-based surface completion",
+        "score": 0.75,
+        "i": 12629
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=882270&ftid=226057&dwn=1&CFID=746695685&CFTOKEN=43384489",
+        "j": 14726,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=2508402&ftid=1411676&dwn=1&CFID=746704250&CFTOKEN=79133720",
+        "count": 187,
+        "title2": "Patch-based high dynamic range video",
+        "title1": "High dynamic range video",
+        "score": 0.8,
+        "i": 12804
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=1778772&ftid=798278&dwn=1&CFID=746697627&CFTOKEN=40654685",
+        "j": 13371,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1531332&ftid=661309&dwn=1&CFID=746697883&CFTOKEN=75184490",
+        "count": 188,
+        "title2": "Toward evaluating lighting design interface paradigms for novice users",
+        "title1": "Toward evaluating material design interface paradigms for novice users",
+        "score": 0.8,
+        "i": 13300
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=1618487&ftid=698968&dwn=1&CFID=746698026&CFTOKEN=89175123",
+        "j": 13597,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1409083&ftid=585567&dwn=1&CFID=746699041&CFTOKEN=60602095",
+        "count": 189,
+        "title2": "Progressive photon mapping",
+        "title1": "Stochastic progressive photon mapping",
+        "score": 0.75,
+        "i": 13409
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=1409083&ftid=585567&dwn=1&CFID=746699041&CFTOKEN=60602095",
+        "j": 13967,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=2451242&ftid=1369422&dwn=1&CFID=746701206&CFTOKEN=56940477",
+        "count": 190,
+        "title2": "Adaptive progressive photon mapping",
+        "title1": "Progressive photon mapping",
+        "score": 0.75,
+        "i": 13597
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=2024210&ftid=1058607&dwn=1&CFID=746701654&CFTOKEN=84825650",
+        "j": 14243,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=2600860&ftid=1471990&dwn=1&CFID=746702379&CFTOKEN=85411542",
+        "count": 191,
+        "title2": "Errata for GPU-Efficient Recursive Filtering and Summed-Area Tables",
+        "title1": "GPU-efficient recursive filtering and summed-area tables",
+        "score": 0.75,
+        "i": 14077
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=2818099&ftid=1638354&dwn=1&CFID=746702648&CFTOKEN=13743701",
+        "j": 14983,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=2982412&ftid=1813272&dwn=1&CFID=746706408&CFTOKEN=61900928",
+        "count": 192,
+        "title2": "Hyperbolic orbifold tutte embeddings",
+        "title1": "Orbifold Tutte embeddings",
+        "score": 0.75,
+        "i": 14319
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=2766997&ftid=1608702&dwn=1&CFID=746702832&CFTOKEN=42945630",
+        "j": 14835,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=2980256&ftid=1813283&dwn=1&CFID=746705316&CFTOKEN=63011289",
+        "count": 193,
+        "title2": "Temporal gradient-domain path tracing",
+        "title1": "Gradient-domain path tracing",
+        "score": 0.75,
+        "i": 14371
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=586082&ftid=86666&dwn=1&CFID=746707685&CFTOKEN=24156136",
+        "j": 15157,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=586083&ftid=86667&dwn=1&CFID=746707678&CFTOKEN=15986404",
+        "count": 194,
+        "title2": "A scalable method for deductive generalization in the spreadsheet paradigm",
+        "title1": "Appendices A--D: A scalable method for deductive generalization in the spreadsheet paradigm",
+        "score": 0.8333333333333334,
+        "i": 15156
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=2808192&ftid=1698346&dwn=1&CFID=746712953&CFTOKEN=69216666",
+        "j": 15788,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=2808079&ftid=1652141&dwn=1&CFID=746713428&CFTOKEN=99045010",
+        "count": 195,
+        "title2": "Team Projects in Computing Education",
+        "title1": "Team Projects in Computing Education",
+        "score": 1.0,
+        "i": 15735
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=1189735&ftid=403970&dwn=1&CFID=746714701&CFTOKEN=48047668",
+        "j": 15932,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1183284&ftid=375178&dwn=1&CFID=746714688&CFTOKEN=35461555",
+        "count": 196,
+        "title2": "Splitting an operator: Algebraic modularity results for logics with fixpoint semantics",
+        "title1": "Erratum to splitting an operator: Algebraic modularity results for logics with fixpoint semantics",
+        "score": 0.8461538461538461,
+        "i": 15908
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=1352588&ftid=526917&dwn=1&CFID=746715319&CFTOKEN=91313951",
+        "j": 16014,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1805959&ftid=815124&dwn=1&CFID=746715463&CFTOKEN=37052937",
+        "count": 197,
+        "title2": "Erratum for \u201cWhat causes a system to satisfy a specification?\u201d",
+        "title1": "What causes a system to satisfy a specification?",
+        "score": 0.7777777777777778,
+        "i": 16004
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=2629336&ftid=1484953&dwn=1&CFID=746715553&CFTOKEN=54242232",
+        "j": 16148,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=2824254&ftid=1633799&dwn=1&CFID=746716346&CFTOKEN=80906024",
+        "count": 198,
+        "title2": "Erratum for \u201cRandomization in Automata on Infinite Trees\u201d",
+        "title1": "Randomization in Automata on Infinite Trees",
+        "score": 0.75,
+        "i": 16033
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=2362386&ftid=1303579&dwn=1&CFID=746718439&CFTOKEN=86866811",
+        "j": 16584,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=2435211&ftid=1355340&dwn=1&CFID=746718421&CFTOKEN=80904817",
+        "count": 199,
+        "title2": "Comparative Document Summarization via Discriminative Sentence Selection",
+        "title1": "Comparative document summarization via discriminative sentence selection",
+        "score": 1.0,
+        "i": 16583
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=6516&ftid=12762&dwn=1&CFID=746719503&CFTOKEN=49229573",
+        "j": 18103,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=319717&ftid=6143&dwn=1&CFID=746725884&CFTOKEN=24408702",
+        "count": 200,
+        "title2": "Distributed deadlock detection algorithm",
+        "title1": "The distributed deadlock detection algorithm",
+        "score": 0.8,
+        "i": 16793
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=371273&ftid=68063&dwn=1&CFID=746722213&CFTOKEN=72661664",
+        "j": 17613,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1278365&ftid=454117&dwn=1&CFID=746723419&CFTOKEN=17705628",
+        "count": 201,
+        "title2": "A note on \u201ca mapping algorithm for computer-assisted exploration in the design of embedded systems\u201d",
+        "title1": "A mapping algorithm for computer-assisted exploration in the design of embedded systems",
+        "score": 0.8571428571428571,
+        "i": 17322
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=320648&ftid=5650&dwn=1&CFID=746725719&CFTOKEN=10111812",
+        "j": 33324,
+        "url2": "http://ieeexplore.ieee.org/document/718114/",
+        "count": 202,
+        "title2": "Spatial Management Of Data",
+        "title1": "Spatial management of data",
+        "score": 1.0,
+        "i": 18075
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=320645&ftid=63597&dwn=1&CFID=746725980&CFTOKEN=45196272",
+        "j": 18216,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=319555&ftid=2921&dwn=1&CFID=746726585&CFTOKEN=93165698",
+        "count": 203,
+        "title2": "Security of statistical databases: multidimensional transformation",
+        "title1": "Security of statistical databases: multidimensional transformation",
+        "score": 1.0,
+        "i": 18122
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=62034&ftid=20765&dwn=1&CFID=746727677&CFTOKEN=87333433",
+        "j": 18380,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=111218&ftid=21106&dwn=1&CFID=746727861&CFTOKEN=17150546",
+        "count": 204,
+        "title2": "A note on estimating the cardinality of the projection of a database relation",
+        "title1": "On estimating the cardinality of the projection of a database relation",
+        "score": 0.9,
+        "i": 18358
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=1206052&ftid=407301&dwn=1&CFID=746730137&CFTOKEN=50568869",
+        "j": 18764,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=2487265&ftid=1379988&dwn=1&CFID=746731148&CFTOKEN=17117887",
+        "count": 205,
+        "title2": "Revisiting \u201cforward node-selecting queries over trees\u201d",
+        "title1": "Forward node-selecting queries over trees",
+        "score": 0.8333333333333334,
+        "i": 18654
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=1806905&ftid=828782&dwn=1&CFID=746739272&CFTOKEN=27046388",
+        "j": 19992,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1824775&ftid=827460&dwn=1&CFID=746739280&CFTOKEN=30406994",
+        "count": 206,
+        "title2": "Analyzing MAC protocols for low data-rate applications",
+        "title1": "Analyzing MAC protocols for low data-rate applications",
+        "score": 1.0,
+        "i": 19990
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=2240095&ftid=1284998&dwn=1&CFID=746739753&CFTOKEN=63741784",
+        "j": 20122,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1525864&ftid=639230&dwn=1&CFID=746739893&CFTOKEN=32900008",
+        "count": 207,
+        "title2": "Optimal placement of distributed sensors against moving targets",
+        "title1": "Optimal multiobjective placement of distributed sensors against moving targets",
+        "score": 0.8888888888888888,
+        "i": 20084
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=2533686&ftid=1473819&dwn=1&CFID=746740064&CFTOKEN=20958374",
+        "j": 33766,
+        "url2": "http://ieeexplore.ieee.org/document/6402800/",
+        "count": 208,
+        "title2": "Performance of opportunistic routing in low duty-cycle wireless sensor networks",
+        "title1": "Opportunistic Routing in Low Duty-Cycle Wireless Sensor Networks",
+        "score": 0.8,
+        "i": 20154
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=2632150&ftid=1498954&dwn=1&CFID=746740325&CFTOKEN=45891995",
+        "j": 38811,
+        "url2": "http://ieeexplore.ieee.org/document/5384022/",
+        "count": 209,
+        "title2": "A Novel Algorithm for Graded Precision Localization in Wireless Sensor Networks",
+        "title1": "A Novel Algorithm for Distributed Localization in Wireless Sensor Networks",
+        "score": 0.75,
+        "i": 20217
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=1126001&ftid=348855&dwn=1&CFID=746744886&CFTOKEN=56323689",
+        "j": 21496,
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=2500123&ftid=1402709&dwn=1&CFID=746745899&CFTOKEN=63889510",
+        "count": 210,
+        "title2": "Corrigendum: Improved results for data migration and open shop scheduling",
+        "title1": "Improved results for data migration and open shop scheduling",
+        "score": 0.9,
+        "i": 21365
+    },
+    {
+        "url1": "http://dl.acm.org/ft_gateway.cfm?id=1290682&ftid=479542&dwn=1&CFID=746745356&CFTOKEN=65557577",
+        "j": 22852,
+        "url2": "http://dblp.uni-trier.de/db/journals/acta/acta36.html#Shen99",
+        "count": 211,
+        "title2": "Finding the ",
+        "title1": "Finding the ",
+        "score": 1.0,
+        "i": 21383
+    },
+    {
+        "url1": "http://dblp.uni-trier.de/db/journals/acta/acta26.html#KouvatsosA88",
+        "j": 22325,
+        "url2": "http://dblp.uni-trier.de/db/journals/acta/acta26.html#KouvatsosA89a",
+        "count": 212,
+        "title2": "Erratum: Maximum Entropy Two-Station Cyclic Queues with Multiple General Servers.",
+        "title1": "Maximum Entropy Two-Station Cyclic Queues with Multiple General Servers.",
+        "score": 0.9,
+        "i": 21775
+    },
+    {
+        "url1": "http://dblp.uni-trier.de/db/journals/acta/acta26.html#KouvatsosA88",
+        "j": 22790,
+        "url2": "http://dblp.uni-trier.de/db/journals/acta/acta26.html#KouvatsosA89",
+        "count": 213,
+        "title2": "Erratum: Maximum Entropy Two-Station Cyclic Queues with Multiple General Servers.",
+        "title1": "Maximum Entropy Two-Station Cyclic Queues with Multiple General Servers.",
+        "score": 0.9,
+        "i": 21775
+    },
+    {
+        "url1": "http://dblp.uni-trier.de/db/journals/acta/acta25.html#SannellaT88",
+        "j": 22468,
+        "url2": "http://dblp.uni-trier.de/db/journals/acta/acta29.html#SannellaST92",
+        "count": 214,
+        "title2": "Toward Formal Development of Programs from Algebraic Specifications: Parameterisation Revisited.",
+        "title1": "Toward Formal Development of Programs from Algebraic Specifications: Implementations Revisited.",
+        "score": 0.8181818181818182,
+        "i": 21777
+    },
+    {
+        "url1": "http://dblp.uni-trier.de/db/journals/acta/acta39.html#Meduna03",
+        "j": 22877,
+        "url2": "http://dblp.uni-trier.de/db/journals/acta/acta39.html#Meduna03a",
+        "count": 215,
+        "title2": "Erratum: Coincidental extension of scattered context languages.",
+        "title1": "Coincidental extension of scattered context languages.",
+        "score": 0.8571428571428571,
+        "i": 21813
+    },
+    {
+        "url1": "http://dblp.uni-trier.de/db/journals/acta/acta31.html#FalinDA94",
+        "j": 21908,
+        "url2": "http://dblp.uni-trier.de/db/journals/acta/acta17.html#Shore82",
+        "count": 216,
+        "title2": "Information Theoretic Approximations for ",
+        "title1": "Information Theoretic Approximations for the ",
+        "score": 0.8,
+        "i": 21867
+    },
+    {
+        "url1": "http://dblp.uni-trier.de/db/journals/acta/acta41.html#Mahmoud04a",
+        "j": 22356,
+        "url2": "http://dblp.uni-trier.de/db/journals/acta/acta38.html#Mahmoud02",
+        "count": 217,
+        "title2": "The size of random bucket trees via urn models.",
+        "title1": "Erratum: The size of random bucket trees via urn models.",
+        "score": 0.9,
+        "i": 21885
+    },
+    {
+        "url1": "http://dblp.uni-trier.de/db/journals/acta/acta44.html#VagnerM07a",
+        "j": 22315,
+        "url2": "http://dblp.uni-trier.de/db/journals/acta/acta44.html#VagnerM07",
+        "count": 218,
+        "title2": "Parallel LL parsing.",
+        "title1": "Parallel LL parsing.",
+        "score": 1.0,
+        "i": 21972
+    },
+    {
+        "url1": "http://dblp.uni-trier.de/db/journals/acta/acta22.html#RudnickiD86",
+        "j": 22844,
+        "url2": "http://dblp.uni-trier.de/db/journals/acta/acta22.html#RudnickiD85",
+        "count": 219,
+        "title2": "Proving Properties of Pascal Programs in MIZAR 2.",
+        "title1": "Erratum: Proving Properties of Pascal Programs in MIZAR 2.",
+        "score": 0.8888888888888888,
+        "i": 21976
+    },
+    {
+        "url1": "http://dblp.uni-trier.de/db/journals/acta/acta10.html#Eichner78",
+        "j": 22158,
+        "url2": "http://dblp.uni-trier.de/db/journals/acta/acta10.html#Eichner78a",
+        "count": 220,
+        "title2": "The Semigroups of Linearly Realizable Finite Automata II.",
+        "title1": "The Semigroups of Linearly Realizable Finite Automata I.",
+        "score": 0.7777777777777778,
+        "i": 22128
+    },
+    {
+        "url1": "http://dblp.uni-trier.de/db/journals/acta/acta3.html#Habermann73",
+        "j": 22434,
+        "url2": "http://dblp.uni-trier.de/db/journals/acta/acta4.html#LecarmeD74",
+        "count": 221,
+        "title2": "More Comments on the Programming Language Pascal.",
+        "title1": "Critical Comments on the Programming Language Pascal.",
+        "score": 0.75,
+        "i": 22148
+    },
+    {
+        "url1": "http://dblp.uni-trier.de/db/journals/acta/acta7.html#LauerC77",
+        "j": 22309,
+        "url2": "http://dblp.uni-trier.de/db/journals/acta/acta5.html#LauerC75",
+        "count": 222,
+        "title2": "Formal Semantics of a Class of High-Level Primitives for Coordinating Concurrent Processes",
+        "title1": "Addenda and Corrigenda: Formal Semantics of a Class of High-Level Primitives for Coordinating Concurrent Processes",
+        "score": 0.7857142857142857,
+        "i": 22161
+    },
+    {
+        "url1": "http://dblp.uni-trier.de/db/journals/acta/acta19.html#TsudaS83",
+        "j": 22795,
+        "url2": "http://dblp.uni-trier.de/db/journals/acta/acta19.html#TsudaUS83",
+        "count": 223,
+        "title2": "Transposition of Large Tabular Data Structures with Applications to Physical Database Organization.",
+        "title1": "Transposition of Large Tabular Data Structures with Applications to Physical Database Organization.",
+        "score": 1.0,
+        "i": 22196
+    },
+    {
+        "url1": "http://dblp.uni-trier.de/db/journals/acta/acta48.html#Blanchet-SadriMSW11",
+        "j": 22282,
+        "url2": "http://dblp.uni-trier.de/db/journals/acta/acta49.html#Blanchet-SadriMSW12",
+        "count": 224,
+        "title2": "Erratum to: Avoidable binary patterns in partial words.",
+        "title1": "Avoidable binary patterns in partial words.",
+        "score": 0.75,
+        "i": 22227
+    },
+    {
+        "url1": "http://dblp.uni-trier.de/db/journals/acta/acta26.html#KouvatsosA89a",
+        "j": 22790,
+        "url2": "http://dblp.uni-trier.de/db/journals/acta/acta26.html#KouvatsosA89",
+        "count": 225,
+        "title2": "Erratum: Maximum Entropy Two-Station Cyclic Queues with Multiple General Servers.",
+        "title1": "Erratum: Maximum Entropy Two-Station Cyclic Queues with Multiple General Servers.",
+        "score": 1.0,
+        "i": 22325
+    },
+    {
+        "url1": "http://dblp.uni-trier.de/db/journals/acta/acta6.html#Monien76",
+        "j": 22769,
+        "url2": "http://dblp.uni-trier.de/db/journals/acta/acta8.html#$",
+        "count": 226,
+        "title2": "Corrigenda: Transformational Methods and Their Application to Complexity Problems",
+        "title1": "Transformational Methods and their Application to Complexity Problems.",
+        "score": 0.8888888888888888,
+        "i": 22350
+    },
+    {
+        "url1": "http://dblp.uni-trier.de/db/journals/acta/acta18.html#SupowitR82",
+        "j": 22721,
+        "url2": "http://dblp.uni-trier.de/db/journals/acta/acta40.html#AkkermanBJT04",
+        "count": 227,
+        "title2": "On the complexity of drawing trees nicely: corrigendum.",
+        "title1": "The Complexity of Drawing Trees Nicely.",
+        "score": 0.75,
+        "i": 22429
+    },
+    {
+        "url1": "http://dblp.uni-trier.de/db/journals/acta/acta18.html#Winklmann82a",
+        "j": 22933,
+        "url2": "http://dblp.uni-trier.de/db/journals/acta/acta18.html#Winklmann82",
+        "count": 228,
+        "title2": "On the Complexity of Some Problems Concerning the Use of Procedures I.",
+        "title1": "On the Complexity of some Problems Concerning the Use of Procedures II.",
+        "score": 0.8181818181818182,
+        "i": 22540
+    },
+    {
+        "url1": "http://dblp.uni-trier.de/db/journals/acta/acta26.html#RothKS89",
+        "j": 22757,
+        "url2": "http://dblp.uni-trier.de/db/journals/acta/acta28.html#RothKS91",
+        "count": 229,
+        "title2": "Addendum to Null Values in Nested Relational Databases.",
+        "title1": "Null Values in Nested Relational Databases.",
+        "score": 0.75,
+        "i": 22713
+    },
+    {
+        "url1": "http://dblp.uni-trier.de/db/journals/cii/cii61.html#OuertaniG10",
+        "j": 24087,
+        "url2": "http://dblp.uni-trier.de/db/journals/cii/cii62.html#OuertaniG11",
+        "count": 230,
+        "title2": "Corrigendum to \"Supporting conflict management in collaborative design: An approach to assess engineering change impacts\" [Computers in Industry 59 (9) (2008) 882-893].",
+        "title1": "Corrigendum to \"Supporting conflict management in collaborative design: An approach to assess engineering change impacts\" [Computers in Industry 59 (2008) 882-893].",
+        "score": 0.95,
+        "i": 23874
+    },
+    {
+        "url1": "http://dblp.uni-trier.de/db/journals/cii/cii47.html#KuoCK02",
+        "j": 24500,
+        "url2": "http://dblp.uni-trier.de/db/journals/cii/cii64.html#MohamadghasemiH13",
+        "count": 231,
+        "title2": "Erratum to \"A decision support system for selecting convenience store location through integration of fuzzy AHP and artificial neural network\" [Comput. Ind. 47(2002) 199-214].",
+        "title1": "A decision support system for selecting convenience store location through integration of fuzzy AHP and artificial neural network.",
+        "score": 0.75,
+        "i": 24336
+    },
+    {
+        "url1": "http://dblp.uni-trier.de/db/journals/fgcs/fgcs56.html#AktasHP16",
+        "j": 38938,
+        "url2": "http://ieeexplore.ieee.org/document/7017641/",
+        "count": 232,
+        "title2": "Flexible Scheduling and Control of Bandwidth and In-transit Services for End-to-End Application Workflows",
+        "title1": "Scheduling and flexible control of bandwidth and in-transit services for end-to-end application workflows.",
+        "score": 1.0,
+        "i": 25039
+    },
+    {
+        "url1": "http://dblp.uni-trier.de/db/journals/fgcs/fgcs18.html#Malyshkin02",
+        "j": 26968,
+        "url2": "http://dblp.uni-trier.de/db/journals/fgcs/fgcs17.html#Malyshkin01",
+        "count": 233,
+        "title2": "Parallel computing technologies.",
+        "title1": "Parallel computing technologies.",
+        "score": 1.0,
+        "i": 25279
+    },
+    {
+        "url1": "http://dblp.uni-trier.de/db/journals/fgcs/fgcs18.html#Malyshkin02",
+        "j": 27780,
+        "url2": "http://dblp.uni-trier.de/db/journals/fgcs/fgcs21.html#Malyshkin05",
+        "count": 234,
+        "title2": "Parallel computing technologies.",
+        "title1": "Parallel computing technologies.",
+        "score": 1.0,
+        "i": 25279
+    },
+    {
+        "url1": "http://dblp.uni-trier.de/db/journals/fgcs/fgcs68.html#BellatrecheAP17",
+        "j": 26293,
+        "url2": "http://dblp.uni-trier.de/db/journals/fgcs/fgcs70.html#BellatrecheAP17a",
+        "count": 235,
+        "title2": "Models and data engineering.",
+        "title1": "Models and data engineering.",
+        "score": 1.0,
+        "i": 25364
+    },
+    {
+        "url1": "http://dblp.uni-trier.de/db/journals/fgcs/fgcs55.html#BanaresAV16",
+        "j": 25923,
+        "url2": "http://dblp.uni-trier.de/db/journals/fgcs/fgcs41.html#VanmechelenAR14",
+        "count": 236,
+        "title2": "Economics of computing services.",
+        "title1": "Economics of computing services.",
+        "score": 1.0,
+        "i": 25518
+    },
+    {
+        "url1": "http://dblp.uni-trier.de/db/journals/fgcs/fgcs20.html#Iglesias04",
+        "j": 26557,
+        "url2": "http://dblp.uni-trier.de/db/journals/fgcs/fgcs1.html#Fredriksson84",
+        "count": 237,
+        "title2": "Introduction.",
+        "title1": "Introduction.",
+        "score": 1.0,
+        "i": 25522
+    },
+    {
+        "url1": "http://dblp.uni-trier.de/db/journals/fgcs/fgcs13.html#HoekstraB98",
+        "j": 26935,
+        "url2": "http://dblp.uni-trier.de/db/journals/fgcs/fgcs16.html#Williams00",
+        "count": 238,
+        "title2": "High Performance Computing and Networking Europe 1999.",
+        "title1": "High Performance Computing and Networking Europe 1997.",
+        "score": 0.75,
+        "i": 26534
+    },
+    {
+        "url1": "http://dblp.uni-trier.de/db/journals/fgcs/fgcs17.html#Malyshkin01",
+        "j": 27780,
+        "url2": "http://dblp.uni-trier.de/db/journals/fgcs/fgcs21.html#Malyshkin05",
+        "count": 239,
+        "title2": "Parallel computing technologies.",
+        "title1": "Parallel computing technologies.",
+        "score": 1.0,
+        "i": 26968
+    },
+    {
+        "url1": "http://dblp.uni-trier.de/db/journals/fgcs/fgcs16.html#MonroseR00",
+        "j": 36457,
+        "url2": "http://ieeexplore.ieee.org/document/6496441/",
+        "count": 240,
+        "title2": "Keystroke dynamics for biometric authentication \u2014 A survey",
+        "title1": "Keystroke dynamics as a biometric for authentication.",
+        "score": 0.75,
+        "i": 27509
+    },
+    {
+        "url1": "http://dblp.uni-trier.de/db/journals/oos/oos3.html#X96a",
+        "j": 28533,
+        "url2": "http://dblp.uni-trier.de/db/journals/oos/oos3.html#X96",
+        "count": 241,
+        "title2": "Book Reviews.",
+        "title1": "Book Reviews.",
+        "score": 1.0,
+        "i": 28523
+    },
+    {
+        "url1": "http://dblp.uni-trier.de/db/journals/tkde/tkde5.html#FanS93a",
+        "j": 30154,
+        "url2": "http://dblp.uni-trier.de/db/journals/tkde/tkde5.html#FanS93",
+        "count": 242,
+        "title2": "An Efficient Algorithm for Matching Multiple Patterns.",
+        "title1": "Corrections to \"An Efficient Algorithm for Matching Multiple Patterns\".",
+        "score": 0.7777777777777778,
+        "i": 30063
+    },
+    {
+        "url1": "http://dblp.uni-trier.de/db/journals/tkde/tkde12.html#BertinoFS00",
+        "j": 31238,
+        "url2": "http://dblp.uni-trier.de/db/journals/tkde/tkde13.html#BertinoFS01",
+        "count": 243,
+        "title2": "Correction to 'MPGS: An Interactive Tool for the Specification and Generation of Multimedia Presentations'.",
+        "title1": "MPGS: An Interactive Tool for the Specification and Generation of Multimedia Presentations.",
+        "score": 0.8571428571428571,
+        "i": 30072
+    },
+    {
+        "url1": "http://dblp.uni-trier.de/db/journals/tkde/tkde19.html#SkiadopoulosSSK07a",
+        "j": 30227,
+        "url2": "http://dblp.uni-trier.de/db/journals/tkde/tkde19.html#SkiadopoulosSSK07",
+        "count": 244,
+        "title2": "A Family of Directional Relation Models for Extended Objects.",
+        "title1": "Correction to \"A Family of Directional Relation Models for Extended Objects\".",
+        "score": 0.8181818181818182,
+        "i": 30221
+    },
+    {
+        "url1": "http://dblp.uni-trier.de/db/journals/tkde/tkde13.html#ChaudhuriN01a",
+        "j": 30735,
+        "url2": "http://dblp.uni-trier.de/db/journals/tkde/tkde13.html#ChaudhuriN01",
+        "count": 245,
+        "title2": "Automating Statistics Management for Query Optimizers.",
+        "title1": "Correction to 'Automating Statistics Management for Query Optimizers'.",
+        "score": 0.75,
+        "i": 30533
+    },
+    {
+        "url1": "http://dblp.uni-trier.de/db/journals/tkde/tkde5.html#SuGL93",
+        "j": 30858,
+        "url2": "http://dblp.uni-trier.de/db/journals/tkde/tkde10.html#SuHC98",
+        "count": 246,
+        "title2": "Temporal Association Algebra: A Mathematical Foundation for Processing Object-Oriented Temporal Databases.",
+        "title1": "Association Algebra: A Mathematical Foundation for Object-Oriented Databases.",
+        "score": 0.8,
+        "i": 30644
+    },
+    {
+        "url1": "http://ieeexplore.ieee.org/document/6463603/",
+        "j": 32856,
+        "url2": "http://ieeexplore.ieee.org/document/6463895/",
+        "count": 247,
+        "title2": "Stateflow a useful tool for developing new logic algorithms. Case study: Building a state machine for windscreens. Software system",
+        "title1": "Stateflow a useful tool for developing new logic algorithms. Case study: Building a state machine for windscreens. Hardware system",
+        "score": 0.8888888888888888,
+        "i": 32855
+    },
+    {
+        "url1": "http://ieeexplore.ieee.org/document/6101256/",
+        "j": 37013,
+        "url2": "http://ieeexplore.ieee.org/document/6106464/",
+        "count": 248,
+        "title2": "Desktop virtualization: Path to pervasive computing in cloud computing era",
+        "title1": "Desktop virtualization: Path to pervasive computing in cloud computing era",
+        "score": 1.0,
+        "i": 33300
+    },
+    {
+        "url1": "http://ieeexplore.ieee.org/document/6101255/",
+        "j": 37014,
+        "url2": "http://ieeexplore.ieee.org/document/6106463/",
+        "count": 249,
+        "title2": "The extended supply chain: A virtual collaborative ecosystem to enhance and drive innovation",
+        "title1": "The extended supply chain: A virtual collaborative ecosystem to enhance and drive innovation",
+        "score": 1.0,
+        "i": 33357
+    },
+    {
+        "url1": "http://ieeexplore.ieee.org/document/6101254/",
+        "j": 37019,
+        "url2": "http://ieeexplore.ieee.org/document/6106462/",
+        "count": 250,
+        "title2": "Pervasive / ubiquitously connected",
+        "title1": "Pervasive / ubiquitously connected",
+        "score": 1.0,
+        "i": 33367
+    },
+    {
+        "url1": "http://ieeexplore.ieee.org/document/6343326/",
+        "j": 34673,
+        "url2": "http://ieeexplore.ieee.org/document/6341247/",
+        "count": 251,
+        "title2": "Graphene for microelectronics: Can it make a difference?",
+        "title1": "Graphene for microelectronics: Can it make a difference?",
+        "score": 1.0,
+        "i": 34672
+    },
+    {
+        "url1": "http://ieeexplore.ieee.org/document/6341246/",
+        "j": 34735,
+        "url2": "http://ieeexplore.ieee.org/document/6343325/",
+        "count": 252,
+        "title2": "Advancing high performance heterogeneous integration through die stacking",
+        "title1": "Advancing high performance heterogeneous integration through die stacking",
+        "score": 1.0,
+        "i": 34730
+    },
+    {
+        "url1": "http://ieeexplore.ieee.org/document/6341245/",
+        "j": 34734,
+        "url2": "http://ieeexplore.ieee.org/document/6343324/",
+        "count": 253,
+        "title2": "Solid-State and biological systems interface",
+        "title1": "Solid-state and biological systems interface",
+        "score": 1.0,
+        "i": 34731
+    },
+    {
+        "url1": "http://ieeexplore.ieee.org/document/6341244/",
+        "j": 34736,
+        "url2": "http://ieeexplore.ieee.org/document/6343323/",
+        "count": 254,
+        "title2": "The industrialization of the Silicon Photonics: Technology road map and applications",
+        "title1": "The industrialization of the Silicon Photonics: Technology road map and applications",
+        "score": 1.0,
+        "i": 34732
+    },
+    {
+        "url1": "http://ieeexplore.ieee.org/document/6341243/",
+        "j": 34738,
+        "url2": "http://ieeexplore.ieee.org/document/6343322/",
+        "count": 255,
+        "title2": "Future silicon technology",
+        "title1": "Future silicon technology",
+        "score": 1.0,
+        "i": 34733
+    },
+    {
+        "url1": "http://ieeexplore.ieee.org/document/7725400/",
+        "j": 39196,
+        "url2": "http://ieeexplore.ieee.org/document/7881983/",
+        "count": 256,
+        "title2": "IoT in Precision Agriculture applications using Wireless Moisture Sensor Network",
+        "title1": "Precision agriculture applications using wireless moisture sensor network",
+        "score": 0.8,
+        "i": 35167
+    },
+    {
+        "url1": "http://ieeexplore.ieee.org/document/1545616/",
+        "j": 35391,
+        "url2": "http://ieeexplore.ieee.org/document/1545614/",
+        "count": 257,
+        "title2": "IEE Seminar on Security of Distributed Control Systems",
+        "title1": "The IEE seminar on security of distributed control systems",
+        "score": 0.8888888888888888,
+        "i": 35389
+    },
+    {
+        "url1": "http://ieeexplore.ieee.org/document/7507510/",
+        "j": 37009,
+        "url2": "http://ieeexplore.ieee.org/document/7507509/",
+        "count": 258,
+        "title2": "Applying composite design pattern for MEMS program model creation",
+        "title1": "Applying decorator design pattern for MEMS program model creation",
+        "score": 0.8,
+        "i": 36947
+    },
+    {
+        "url1": "http://ieeexplore.ieee.org/document/7746539/",
+        "j": 38400,
+        "url2": "http://ieeexplore.ieee.org/document/7746536/",
+        "count": 259,
+        "title2": "Understanding the design variables that contribute to the response of a prosthetic foot: Part I \u2014 Rig design",
+        "title1": "Understanding the design variables that contribute to the response of a prosthetic foot: Part II \u2014 Rig validation",
+        "score": 0.8235294117647058,
+        "i": 38395
+    },
+    {
+        "url1": "http://ieeexplore.ieee.org/document/264285/",
+        "j": 39124,
+        "url2": "http://ieeexplore.ieee.org/document/264284/",
+        "count": 260,
+        "title2": "Short-term system load forecasting using an artificial neural network",
+        "title1": "Short-term load forecasting using an artificial neural network",
+        "score": 0.8888888888888888,
+        "i": 39123
+    }
+]

@@ -50,5 +50,3 @@ for i in range(l):
             if count % 1 == 0:
                 with open('strict_compare.json', 'w') as f:
                     json.dump(result_array, f, indent=4)
-
-f.write('Total: ' + str(count))

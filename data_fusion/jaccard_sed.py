@@ -6,7 +6,7 @@ import json
 
 path = '../sqlite/paperDB.db'
 connection = sqlite3.connect(path)
-output_file = 'jaccard_sed.txt'
+output_file = 'jaccard_sed.json'
 
 # url index: 4
 # with open(output_file, 'w') as f:
