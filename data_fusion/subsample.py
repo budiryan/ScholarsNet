@@ -19,8 +19,10 @@ if filename is not None:
         print('Entry ' + str(i) + ': Row ' + str(perm[i]))
         print('i: ' + str(entries[perm[i]]['i']) + ' j: ' + str(entries[perm[i]]['j']))
         print('Score: ' + str(entries[perm[i]]['score']) + '\n' if 'score' in entries[perm[i]] else '', end = '')
-        print('Title 1:' + entries[perm[i]]['title1'])
+        print('Title 1: ' + entries[perm[i]]['title1'])
+        print('URL 1: ' + entries[perm[i]]['url1'])
         print('Title 2:' + entries[perm[i]]['title2'])
+        print('URL 2: ' + entries[perm[i]]['url2'])
         print('Are they really the same? [y/n] ', end = '')
         is_TP.append(input() == 'y')
         print('')
@@ -28,4 +30,4 @@ if filename is not None:
     TP = np.sum(is_TP)
     print('TR count: ' + str(TP))
     print('TPR: ' + str(float(TP) / subsample_size))
-        
+
