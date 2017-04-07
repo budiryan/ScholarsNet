@@ -1,0 +1,232 @@
+[
+    {
+        "title2": "A computational economy for grid computing and its implementation in the Nimrod-G resource broker.",
+        "score": 0.8666666666666667,
+        "url1": "http://arxiv.org/pdf/cs/0111048v1",
+        "count": 1,
+        "title1": "A Computational Economy for Grid Computing and its Implementation in the   Nimrod-G Resource Brok",
+        "url2": "http://dblp.uni-trier.de/db/journals/fgcs/fgcs18.html#AbramsonBG02",
+        "j": 27690,
+        "i": 30
+    },
+    {
+        "title2": "Computational Grids in action: the National Fusion Collaboratory.",
+        "score": 1.0,
+        "url1": "http://arxiv.org/pdf/cs/0301033v1",
+        "count": 2,
+        "title1": "Computational Grids in Action: The Natinal Fusion Collaboratory",
+        "url2": "http://dblp.uni-trier.de/db/journals/fgcs/fgcs18.html#KeaheyFPSTFGM02",
+        "j": 25410,
+        "i": 44
+    },
+    {
+        "title2": "Bulk Scheduling with the DIANA Scheduler",
+        "score": 0.8333333333333334,
+        "url1": "http://arxiv.org/pdf/cs/0602026v1",
+        "count": 3,
+        "title1": "Bulk Scheduling with DIANA Scheduler",
+        "url2": "http://arxiv.org/pdf/cs/0608048v1",
+        "j": 177,
+        "i": 162
+    },
+    {
+        "title2": "A case for cooperative and incentive-based federation of distributed clusters.",
+        "score": 0.8181818181818182,
+        "url1": "http://arxiv.org/pdf/cs/0605060v1",
+        "count": 4,
+        "title1": "A Case for Cooperative and Incentive-Based Coupling of Distributed   Clusters",
+        "url2": "http://dblp.uni-trier.de/db/journals/fgcs/fgcs24.html#RanjanHB08",
+        "j": 24950,
+        "i": 170
+    },
+    {
+        "title2": "Distributed Slicing in Dynamic Systems",
+        "score": 1.0,
+        "url1": "http://arxiv.org/pdf/cs/0612035v1",
+        "count": 5,
+        "title1": "Distributed Slicing in Dynamic Systems",
+        "url2": "http://arxiv.org/pdf/0712.3980v1",
+        "j": 248,
+        "i": 192
+    },
+    {
+        "title2": "Geographical routing in wireless sensor networks",
+        "score": 0.75,
+        "url1": "http://arxiv.org/pdf/cs/0703094v1",
+        "count": 6,
+        "title1": "Geographic Routing Around Obstacles in Wireless Sensor Networks",
+        "url2": "http://ieeexplore.ieee.org/document/6294717/",
+        "j": 35140,
+        "i": 201
+    },
+    {
+        "title2": "Compute and storage clouds using wide area high performance networks.",
+        "score": 1.0,
+        "url1": "http://arxiv.org/pdf/0808.1802v1",
+        "count": 7,
+        "title1": "Compute and Storage Clouds Using Wide Area High Performance Networks",
+        "url2": "http://dblp.uni-trier.de/db/journals/fgcs/fgcs25.html#GrossmanGSZ09",
+        "j": 26990,
+        "i": 261
+    },
+    {
+        "title2": "Randomization adaptive self-stabilization.",
+        "score": 1.0,
+        "url1": "http://arxiv.org/pdf/0810.4440v1",
+        "count": 8,
+        "title1": "Randomization Adaptive Self-Stabilization",
+        "url2": "http://dblp.uni-trier.de/db/journals/acta/acta47.html#DolevT10",
+        "j": 22487,
+        "i": 277
+    },
+    {
+        "title2": "The equations of the ideal latches",
+        "score": 1.0,
+        "url1": "http://arxiv.org/pdf/cs/0411009v2",
+        "count": 9,
+        "title1": "The equations of the ideal latches",
+        "url2": "http://arxiv.org/pdf/0804.0879v1",
+        "j": 318,
+        "i": 309
+    },
+    {
+        "title2": "Self-organisation of evolving agent populations in Digital Ecosystems.",
+        "score": 1.0,
+        "url1": "http://arxiv.org/pdf/1201.4908v1",
+        "count": 10,
+        "title1": "Self-Organisation of Evolving Agent Populations in Digital Ecosystems",
+        "url2": "http://dblp.uni-trier.de/db/journals/ijiem/ijiem7.html#BriscoeW11",
+        "j": 24925,
+        "i": 615
+    },
+    {
+        "title2": "The Haar Wavelet Transform of a Dendrogram: Additional Notes",
+        "score": 0.7777777777777778,
+        "url1": "http://arxiv.org/pdf/cs/0608107v3",
+        "count": 11,
+        "title1": "The Haar Wavelet Transform of a Dendrogram",
+        "url2": "http://arxiv.org/pdf/cs/0702067v1",
+        "j": 765,
+        "i": 759
+    },
+    {
+        "title2": "A New Email Retrieval Ranking Approach",
+        "score": 1.0,
+        "url1": "http://arxiv.org/pdf/1011.0404v1",
+        "count": 12,
+        "title1": "A New Email Retrieval Ranking Approach",
+        "url2": "http://arxiv.org/pdf/1011.0502v1",
+        "j": 862,
+        "i": 861
+    },
+    {
+        "title2": "Data Mining: A Prediction for Performance Improvement of Engineering   Students using Classification",
+        "score": 0.75,
+        "url1": "http://arxiv.org/pdf/1201.3418v1",
+        "count": 13,
+        "title1": "Data Mining: A prediction for performance improvement using   classification",
+        "url2": "http://arxiv.org/pdf/1203.3832v1",
+        "j": 5765,
+        "i": 901
+    },
+    {
+        "title2": "Cross-Lingual Adaptation Using Structural Correspondence Learning",
+        "score": 1.0,
+        "url1": "http://arxiv.org/pdf/1008.0716v2",
+        "count": 14,
+        "title1": "Cross-Lingual Adaptation using Structural Correspondence Learning",
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=2036277&ftid=1049602&dwn=1&CFID=746681321&CFTOKEN=39664281",
+        "j": 10949,
+        "i": 999
+    },
+    {
+        "title2": "Pseudorandom number generation by p-adic ergodic transformations: an   addendum",
+        "score": 0.7777777777777778,
+        "url1": "http://arxiv.org/pdf/cs/0401030v1",
+        "count": 15,
+        "title1": "Pseudorandom number generation by $p$-adic ergodic transformations",
+        "url2": "http://arxiv.org/pdf/cs/0402060v1",
+        "j": 1066,
+        "i": 1063
+    },
+    {
+        "title2": "A Dynamic ID-based Remote User Authentication Scheme",
+        "score": 0.7777777777777778,
+        "url1": "http://arxiv.org/pdf/cs/0410011v1",
+        "count": 16,
+        "title1": "Comment on A dynamic ID-based Remote User Authentication Scheme",
+        "url2": "http://arxiv.org/pdf/0712.2235v1",
+        "j": 1258,
+        "i": 1082
+    },
+    {
+        "title2": "Lossless Intra Coding in HEVC with Adaptive 3-tap Filters",
+        "score": 0.8888888888888888,
+        "url1": "http://arxiv.org/pdf/1601.04473v1",
+        "count": 17,
+        "title1": "Lossless Intra Coding in HEVC with 3-tap Filters",
+        "url2": "http://arxiv.org/pdf/1604.07051v1",
+        "j": 1587,
+        "i": 1573
+    },
+    {
+        "title2": "Errata and supplements to: Orthonormal RBF Wavelet and Ridgelet-like   Series and Transforms for High-Dimensional Problems",
+        "score": 0.7692307692307693,
+        "url1": "http://arxiv.org/pdf/cs/0207006v1",
+        "count": 18,
+        "title1": "Orthonormal RBF wavelet and ridgelet-like series and transforms for   high-dimensional problems",
+        "url2": "http://arxiv.org/pdf/cs/0105014v1",
+        "j": 6067,
+        "i": 1628
+    },
+    {
+        "title2": "Improved complexity bounds for real root isolation using Continued   Fractions",
+        "score": 1.0,
+        "url1": "http://arxiv.org/pdf/1010.1764v2",
+        "count": 19,
+        "title1": "Improved complexity bounds for real root isolation using Continued   Fractions",
+        "url2": "http://arxiv.org/pdf/1010.2006v2",
+        "j": 1703,
+        "i": 1702
+    },
+    {
+        "title2": "Compressed matrix multiplication",
+        "score": 0.75,
+        "url1": "http://arxiv.org/pdf/0803.1975v1",
+        "count": 20,
+        "title1": "Compressed Modular Matrix Multiplication",
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=2493254&ftid=1390259&dwn=1&CFID=746735625&CFTOKEN=11830132",
+        "j": 19290,
+        "i": 1739
+    },
+    {
+        "title2": "On the complexity of computing Gr\u00f6bner bases for weighted homogeneous   systems",
+        "score": 0.75,
+        "url1": "http://arxiv.org/pdf/1301.5612v3",
+        "count": 21,
+        "title1": "On the Complexity of Computing Gr\u00f6bner Bases for Quasi-homogeneous   Systems",
+        "url2": "http://arxiv.org/pdf/1412.7547v2",
+        "j": 1834,
+        "i": 1773
+    },
+    {
+        "title2": "Fast, deterministic computation of the Hermite normal form and   determinant of a polynomial matrix",
+        "score": 0.7692307692307693,
+        "url1": "http://arxiv.org/pdf/1409.5462v1",
+        "count": 22,
+        "title1": "Fast and deterministic computation of the determinant of a polynomial   matrix",
+        "url2": "http://arxiv.org/pdf/1607.04176v1",
+        "j": 1896,
+        "i": 1827
+    },
+    {
+        "title2": "Polynomial constraint satisfaction problems, graph bisection, and the Ising partition function",
+        "score": 0.9090909090909091,
+        "url1": "http://arxiv.org/pdf/cs/0604079v3",
+        "count": 23,
+        "title1": "Polynomial Constraint Satisfaction, Graph Bisection, and the Ising   Partition Function",
+        "url2": "http://dl.acm.org/ft_gateway.cfm?id=1597049&ftid=702829&dwn=1&CFID=746745052&CFTOKEN=36039224",
+        "j": 21306,
+        "i": 1973
+    }
+]
