@@ -19,6 +19,8 @@ app.config['SECRET_KEY'] = '7d441f27d441f27567d441f2b6176a'
 # papers: title, doi, abstract, author, url, year, coauthors, origin
 connection = sqlite3.connect('../sqlite/paperDB.db')
 cursor = connection.cursor()
+cursor.execute('select * from papers')
+papers = cursor.fetchall()
 
 # get all rows from authors table
 cursor.execute('select * from authors')

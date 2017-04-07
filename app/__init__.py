@@ -1,5 +1,6 @@
 from flask import Flask
 from flask_bootstrap import Bootstrap
+import sqlite3
 
 
 app = Flask(__name__)
