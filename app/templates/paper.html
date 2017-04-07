@@ -1,0 +1,56 @@
+{% extends "base.html" %}
+{% block content %}
+    <table>
+      <tr>
+        <td><h2>
+          Title: {{title_}}
+        </h2></td>
+      </tr>
+      <tr>
+        <td><h4>
+          Doi: {{doi}}
+        </h4></td>
+      </tr>
+      <tr>
+        <td><h4>
+          Abstract:<br> {{abstract}}
+        </h4></td>
+      </tr>
+      <tr>
+        <td><h4>
+          Lead author: {{author}}
+        </h4></td>
+      </tr>
+      <tr>
+        <td><h4>
+          Coauthors:
+            <ul>
+           {% for a in coauthors %}
+            <li>{{a}}</li>
+            {% endfor %}
+            </ul>
+        </h4></td>
+      </tr>
+      <tr>
+        <td><h4>
+          URL: <a href={{url}}>{{url}}</a>
+        </h4></td>
+      </tr>
+      <tr>
+        <td><h4>
+          Year: {{year}}
+        </h4></td>
+      </tr>
+      <br><br>
+      <tr>
+        <td><h3>
+          You might also like:
+        <ul>
+           {% for r in recommendations %}
+            <li><a href="/paper/{{r}}">{{r}}</a></li>
+            {% endfor %}  
+          </ul>  
+          </h3></td>   
+      </tr>
+    </table>
+{% endblock %}

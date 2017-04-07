@@ -1,0 +1,48 @@
+{% extends "base.html" %}
+{% block content %}
+    <table>
+      <tr>
+          <td><img src={{ photo }}></td>
+      </tr>
+      <tr>
+          <td><h4>Name: {{name}}</h4></td>
+      </tr>
+      <tr>
+          <td><h4>Website: <a href={{website}}>{{website}}</a></h4></td>
+      </tr>
+      <tr>
+          <td><h4>Email: <a href=mailto:{{email}}>{{email}}</a></h4></td>
+      </tr>
+      <tr>
+          <td>
+          <h4>Affiliations: 
+          <ul>
+           {% for a in affiliations %}
+            <li>{{a}}</li>
+            {% endfor %}
+          </ul>
+          </h4>
+          </td>
+     </tr>
+     <tr>
+        <td>
+          <h4>Citation count: {{citation_count}}</h4>
+        </td>
+     </tr>
+     <tr>
+        <td>
+        <h4>Publication count: {{publication_count}}</h4>
+        </td>
+     </tr>
+     <tr>
+          <td>
+           <h4>Publication years: {{publication_years}}</h4>
+          </td>
+      </tr>
+      <tr>
+        <td>
+        <h4>Total downloads: {{total_downloads}}</h4>
+        </td>
+      </tr>
+  </table>
+{% endblock %}

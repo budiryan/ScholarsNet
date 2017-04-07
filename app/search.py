@@ -1,7 +1,62 @@
-from .db import get_db, close_connection
+import re
 
 
-def search(query, paper, author):
-    db = get_db()
-    cursor = db.cursor()
-    return cursor
+def calculate_rank(papers_or_authors, search_query):
+    # calculate search page rank using cosine similarity metric
+    score_rank = []
+    title_or_authors_rank = []
+    for index, paper in enumerate(papers_or_authors):
+        title = re.sub(r'[^\w\s]|_', '', paper[0]).lower().split(' ') if paper[0] is not None else ['']
+        length_of_intersection = len(set(search_query).intersection(set(title)))
+        l2_norm = len(search_query) * len(title)
+        cosine = (length_of_intersection / float(l2_norm)) if l2_norm != 0 else 0
+        score_rank.append(cosine)
+        title_or_authors_rank.append(paper[0] if paper[0] is not None else '')
+    rank_index = [x for (y, x) in sorted(zip(score_rank, range(len(title_or_authors_rank))), reverse=True)]
+    title_or_authors_rank = [title_or_authors_rank[i] for i in rank_index]
+    score_rank = [score_rank[i] for i in rank_index]
+    return title_or_authors_rank, rank_index, score_rank
+
+
+def search(search_query, search_category, db_cursor, num_result):
+    to_be_returned = ([], [], [], [])
+    # search category for title
+    db_cursor.execute('select * from papers')
+    papers = db_cursor.fetchall()
+    title_rank, rank_index_paper, score_rank_paper = calculate_rank(papers, search_query)
+    db_cursor.execute('select * from authors')
+    authors = db_cursor.fetchall()
+    author_rank, rank_index_author, score_rank_author = calculate_rank(authors, search_query)
+    num_of_items = num_result
+
+    if search_category == 'p':
+        if score_rank_paper[0] == 0.0:
+            print("Your search did not match any paper!!!")
+            to_be_returned = (["Your search did not match any paper!!!"], [None], [], [])
+        else:
+            to_be_returned = (title_rank[0:num_of_items], rank_index_paper[0:num_of_items], [], [])
+
+    elif search_category == 'a':
+        if score_rank_author[0] == 0.0:
+            to_be_returned = ([], [], ["Your search did not match any author!!!"], [None])
+        else:
+            to_be_returned = ([], [], author_rank[0:num_of_items], rank_index_author[0:num_of_items])
+
+    # search category for both
+    elif search_category == 'pa':
+        if score_rank_paper[0] == 0.0 and score_rank_author[0] == 0.0:
+            print("Your search did not match any shit!!!")
+            to_be_returned = (["Your search did not match any paper!!!"], [None], ["Your search did not match any author!!!"], [None])
+
+        elif score_rank_paper[0] == 0.0 and score_rank_author[0] > 0.0:
+            print("Your search did not match any paper!!!")
+            to_be_returned = ("Your search did not match any paper!!!", [None], author_rank[0:num_of_items], rank_index_author[0:num_of_items])
+
+        elif score_rank_paper[0] > 0.0 and score_rank_author[0] == 0:
+            print("Your search did not match any author!!!")
+            to_be_returned = (title_rank[0:num_of_items], rank_index_paper[0:num_of_items], ["Your search did not match any author!!!"], [None])
+
+        elif score_rank_paper[0] > 0.0 and score_rank_author[0] > 0.0:
+            to_be_returned = (title_rank[0:num_of_items], rank_index_paper[0:num_of_items], author_rank[0:num_of_items], rank_index_author[0:num_of_items])
+
+    return to_be_returned
