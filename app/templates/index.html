@@ -1,58 +1,73 @@
-{% extends "base.html" %}
-{% block content %}
-    <form action="" method="post">
-    {{ form.csrf }}
+<center>
+	{% extends "base.html" %}
+	{% block content %}
+	<form action="" method="post">
+		{{ form.csrf }}
+		<div class="input text input-lg">
+			{{ form.search_query }}
+			{% for error in form.search_query.errors %}
+			<span style="color: red;">Query cannot be empty!</span>
+			{% endfor %}	
 
-    <p>
-        <div class="input text input-lg" style="width: 60%">
-            {{ form.search_query.label }}: 
-            {{ form.search_query }}
-            {% for error in form.search_query.errors %}
-                <span style="color: red;">Query cannot be empty!</span>
-            {% endfor %}
-        </div>
-    </p>
-    <p>
-        <label class="dropdown-inline">
-            {{form.search_category.label}} 
-            {{form.search_category}}
-        </label>
-    </p>
-    <p>
-        <label class="input submit">
-            <input type="submit" value="Submit" />
-        </label>
-    </p>
-    
-    </form>
-    {% if paper or author%}
-        <table>
-            <!-- {% if paper|length > 0 %} -->
-                <th>
-                    Paper:
-                </th>
-            <!-- {% endif %} -->
-            {% for row_index in range(paper|count) %}
-                <tr>
-                  <td><a href="/paper/{{paper[row_index]}}">{{paper[row_index]}}</a></td>
-                </tr>
-            {% endfor %}
-        </table>
-        {% if paper %}
-        <br>
-        {% endif %}
-        <table>
-            <!-- {% if author|length > 0 %} -->
-                <th>
-                    Author:
-                </th>
-            <!-- {% endif %} -->
-            {% for row_index in range(author|count) %}
-                <tr>
-                  <td><a href="/author/{{author[row_index]}}">{{author[row_index]}}</a></td>
-                </tr>
-            {% endfor %}
-        </table>
-    {% endif %}
+		</div>
+		<label class="dropdown-inline">
+			{{form.search_category}}
+		</label>
+		<label class="input submit">
+			<input type="submit" value="Search" />
+		</label>
 
-{% endblock %}
+	</form>
+
+	{% if paper and author%}
+	<div class="row">
+		<div class="col-md-8">
+			<h3>Papers:</h3>
+		</div>
+		<div class="col-md-4">
+			<h3>Authors:</h3>
+		</div>
+	</div>
+	{% for row_index in range(20) %}
+	<div class="row">
+		<div class="col-md-8">
+			<a href="/paper/{{paper[row_index]}}">{{paper[row_index]}}</a>
+		</div>
+		<div class="col-md-4">
+			<a href="/author/{{author[row_index]}}">{{author[row_index]}}</a>
+		</div>
+	</div>
+	{% endfor %}
+
+	{% elif paper or author%}
+	<table>
+		<!-- {% if paper|length > 0 %} -->
+		<th>
+			Papers:
+		</th>
+		<!-- {% endif %} -->
+		{% for row_index in range(paper|count) %}
+		<tr>
+			<td><a href="/paper/{{paper[row_index]}}">{{paper[row_index]}}</a></td>
+		</tr>
+		{% endfor %}
+	</table>
+	{% if paper %}
+	<br>
+	{% endif %}
+	<table>
+		<!-- {% if author|length > 0 %} -->
+		<th>
+			Authors:
+		</th>
+		<!-- {% endif %} -->
+		{% for row_index in range(author|count) %}
+		<tr>
+			<td><a href="/author/{{author[row_index]}}">{{author[row_index]}}</a></td>
+		</tr>
+		{% endfor %}
+	</table>
+	{% endif %}
+
+	{% endblock %}
+</center>
