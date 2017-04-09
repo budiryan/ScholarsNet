@@ -32,31 +32,31 @@ def search(search_query, search_category, db_cursor, num_result):
     if search_category == 'p':
         if score_rank_paper[0] == 0.0:
             print("Your search did not match any paper!!!")
-            to_be_returned = (["Your search did not match any paper!!!"], [None], [], [])
+            to_be_returned = (["Your search did not match any paper!!!"], [])
         else:
-            to_be_returned = (title_rank[0:num_of_items], rank_index_paper[0:num_of_items], [], [])
+            to_be_returned = (title_rank[0:num_of_items], [])
 
     elif search_category == 'a':
         if score_rank_author[0] == 0.0:
-            to_be_returned = ([], [], ["Your search did not match any author!!!"], [None])
+            to_be_returned = ([], ["Your search did not match any author!!!"])
         else:
-            to_be_returned = ([], [], author_rank[0:num_of_items], rank_index_author[0:num_of_items])
+            to_be_returned = ([], author_rank[0:num_of_items])
 
     # search category for both
     elif search_category == 'pa':
         if score_rank_paper[0] == 0.0 and score_rank_author[0] == 0.0:
             print("Your search did not match any shit!!!")
-            to_be_returned = (["Your search did not match any paper!!!"], [None], ["Your search did not match any author!!!"], [None])
+            to_be_returned = (["Your search did not match any paper!!!"], ["Your search did not match any author!!!"])
 
         elif score_rank_paper[0] == 0.0 and score_rank_author[0] > 0.0:
             print("Your search did not match any paper!!!")
-            to_be_returned = ("Your search did not match any paper!!!", [None], author_rank[0:num_of_items], rank_index_author[0:num_of_items])
+            to_be_returned = ("Your search did not match any paper!!!", author_rank[0:num_of_items])
 
         elif score_rank_paper[0] > 0.0 and score_rank_author[0] == 0:
             print("Your search did not match any author!!!")
-            to_be_returned = (title_rank[0:num_of_items], rank_index_paper[0:num_of_items], ["Your search did not match any author!!!"], [None])
+            to_be_returned = (title_rank[0:num_of_items], ["Your search did not match any author!!!"])
 
         elif score_rank_paper[0] > 0.0 and score_rank_author[0] > 0.0:
-            to_be_returned = (title_rank[0:num_of_items], rank_index_paper[0:num_of_items], author_rank[0:num_of_items], rank_index_author[0:num_of_items])
+            to_be_returned = (title_rank[0:num_of_items], author_rank[0:num_of_items])
 
     return to_be_returned

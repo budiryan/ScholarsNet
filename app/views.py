@@ -40,8 +40,8 @@ def index():
         search_category = request.form['search_category']
         cursor = db.cursor()
         if form.validate():
-            paper, paper_index, author, author_index = search(search_query=search_query, search_category=search_category, db_cursor=cursor, num_result=20)
-            return render_template("index.html", title='Home', form=form, paper=paper, paper_index=paper_index, author=author, author_index=author_index)
+            paper, author = search(search_query=search_query, search_category=search_category, db_cursor=cursor, num_result=20)
+            return render_template("index.html", title='Home', form=form, paper=paper, author=author)
         else:
             print("Query cannot be empty!")
     return render_template("index.html", title='Home', form=form, paper=None, paper_index=None, author=None, author_index=None)
@@ -63,7 +63,7 @@ def paper(id):
     year = paper_row[5]
     coauthors = paper_row[6].split(',')
     # TODO: Find similar paper recommendations
-    paper, paper_index, author, author_index = search(search_query=re.sub(r'[^\w\s]|_', '', title).lower().split(' '), search_category='p', db_cursor=cursor, num_result=4)
+    paper, author = search(search_query=re.sub(r'[^\w\s]|_', '', title).lower().split(' '), search_category='p', db_cursor=cursor, num_result=4)
     recommendations = paper[1:]
     print(recommendations)
 
