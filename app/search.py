@@ -27,20 +27,29 @@ def search(search_query, search_category, db_cursor, num_result):
     db_cursor.execute('select * from authors')
     authors = db_cursor.fetchall()
     author_rank, rank_index_author, score_rank_author = calculate_rank(authors, search_query)
-    num_of_items = num_result
+    num_of_papers = num_result
+    num_of_authors = num_result
+    for i in range(num_result):
+        if score_rank_paper[i] == 0.0:
+            num_of_papers = i
+            break
+    for i in range(num_result):
+        if score_rank_author[i] == 0.0:
+            num_of_authors = i
+            break
 
     if search_category == 'p':
         if score_rank_paper[0] == 0.0:
             print("Your search did not match any paper!!!")
             to_be_returned = (["Your search did not match any paper!!!"], [])
         else:
-            to_be_returned = (title_rank[0:num_of_items], [])
+            to_be_returned = (title_rank[0:num_of_papers], [])
 
     elif search_category == 'a':
         if score_rank_author[0] == 0.0:
             to_be_returned = ([], ["Your search did not match any author!!!"])
         else:
-            to_be_returned = ([], author_rank[0:num_of_items])
+            to_be_returned = ([], author_rank[0:num_of_authors])
 
     # search category for both
     elif search_category == 'pa':
@@ -50,13 +59,13 @@ def search(search_query, search_category, db_cursor, num_result):
 
         elif score_rank_paper[0] == 0.0 and score_rank_author[0] > 0.0:
             print("Your search did not match any paper!!!")
-            to_be_returned = ("Your search did not match any paper!!!", author_rank[0:num_of_items])
+            to_be_returned = (["Your search did not match any paper!!!"], author_rank[0:num_of_authors])
 
         elif score_rank_paper[0] > 0.0 and score_rank_author[0] == 0:
             print("Your search did not match any author!!!")
-            to_be_returned = (title_rank[0:num_of_items], ["Your search did not match any author!!!"])
+            to_be_returned = (title_rank[0:num_of_papers], ["Your search did not match any author!!!"])
 
         elif score_rank_paper[0] > 0.0 and score_rank_author[0] > 0.0:
-            to_be_returned = (title_rank[0:num_of_items], author_rank[0:num_of_items])
+            to_be_returned = (title_rank[0:num_of_papers], author_rank[0:num_of_authors])
 
     return to_be_returned
