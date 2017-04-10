@@ -23,6 +23,44 @@ def get_db():
         g.sqlite_db = connect_db()
     return g.sqlite_db
 
+def get_author_papers(cursor, name):
+    cursor.execute('select * from papers')
+    rows = cursor.fetchall()
+
+    all_authors = []
+
+    for row in rows:
+        authors = [row[3]]
+        authors += row[6].split(', ')
+
+        for i in range(len(authors)):
+            if authors[i] != None and authors[i] != '':
+                authors[i] = re.sub('\(.*\)', '', authors[i])
+
+        abbr_authors = []
+        for name in authors:
+            if name == None or name == '':
+                continue
+
+            full_name = ''
+            names = name.split(' ')
+            for n in names[:-1]:
+                if n != None and n != '':
+                    full_name += n[0] + ' '
+            full_name += names[-1]
+            abbr_authors.append(full_name)
+
+        all_authors.append(abbr_authors)
+
+    papers = []
+
+    for i in range(len(rows)):
+        print(all_authors[i])
+        if name in all_authors[i]:
+            papers.append(rows[i][0])
+
+    return papers
+
 
 @app.teardown_appcontext
 def close_db(error):
@@ -82,9 +120,8 @@ def author(id):
     website = author_row[1]
     email = author_row[2]
     photo = author_row[3]
+
+    author_papers = get_author_papers(cursor, name)
+
     affiliations = author_row[4].split('|')
-    citation_count = author_row[5]
-    publication_count = author_row[6]
-    publication_years = author_row[7]
-    total_downloads = author_row[8]
-    return render_template("author.html", title=name, name=name, website=website, email=email, photo=photo, affiliations=affiliations, citation_count=citation_count, publication_count=publication_count, publication_years=publication_years, total_downloads=total_downloads)
+    return render_template("author.html", title=name, name=name, website=website, email=email, photo=photo, affiliations=affiliations, author_papers=author_papers )
