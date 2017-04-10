@@ -62,10 +62,10 @@ def paper(id):
     url = paper_row[4]
     year = paper_row[5]
     coauthors = paper_row[6].split(',')
-    # TODO: Find similar paper recommendations
-    paper, author = search(search_query=re.sub(r'[^\w\s]|_', '', title).lower().split(' '), search_category='p', db_cursor=cursor, num_result=4)
+    coauthors = [a for a in coauthors if (len(a) > 1 and author != a)]
+    # Find similar paper recommendations
+    paper, author_2 = search(search_query=re.sub(r'[^\w\s]|_', '', title).lower().split(' '), search_category='p', db_cursor=cursor, num_result=4)
     recommendations = paper[1:]
-    print(recommendations)
 
     return render_template("paper.html", title="Paper", title_=title, doi=doi, abstract=abstract, author=author, coauthors=coauthors, url=url, year=year, recommendations=recommendations)
 

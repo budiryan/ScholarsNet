@@ -6,21 +6,26 @@
           Title: {{title_}}
         </h2></td>
       </tr>
+      {% if doi|length >0 and doi != None%}
       <tr>
         <td><h4>
           Doi: {{doi}}
         </h4></td>
       </tr>
+      {% endif %}
+      {% if abstract|length >0 and abstract != None%}
       <tr>
         <td><h4>
           Abstract:<br> {{abstract}}
         </h4></td>
       </tr>
+      {% endif %}
       <tr>
         <td><h4>
           Lead author: {{author}}
         </h4></td>
       </tr>
+      {% if coauthors|count > 0 %}
       <tr>
         <td><h4>
           Coauthors:
@@ -31,6 +36,7 @@
             </ul>
         </h4></td>
       </tr>
+      {% endif %}
       <tr>
         <td><h4>
           URL: <a href={{url}}>{{url}}</a>
