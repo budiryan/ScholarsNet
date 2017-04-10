@@ -1,6 +1,29 @@
 import re
 
 
+def search_author_from_paper(db_cursor, list_of_authors_from_paper):
+    authors_from_table = db_cursor.execute('select name from authors').fetchall()
+    result = [(a, False) for a in list_of_authors_from_paper]
+    for index, a in enumerate(result):
+        for b in authors_from_table:
+            if a[0].lower().strip() == b[0].lower().strip():
+                result[index] = (b[0], True)
+                break
+    return result
+
+
+def search_paper_from_author(db_cursor, author_name):
+    papers_from_table = db_cursor.execute('select * from papers').fetchall()
+    result = []
+    # row[3], row[6]
+    for p in papers_from_table:
+        author_list = [p[3]] + p[6].split(',')
+        if author_name in author_list:
+            result.append(p[0])
+
+    return result
+
+
 def calculate_rank(papers_or_authors, search_query):
     # calculate search page rank using cosine similarity metric
     score_rank = []

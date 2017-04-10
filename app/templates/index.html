@@ -47,9 +47,15 @@
 		</th>
 		<!-- {% endif %} -->
 		{% for row_index in range(paper|count) %}
-		<tr>
-			<td><a href="/paper/{{paper[row_index]}}">{{paper[row_index]}}</a></td>
-		</tr>
+			{% if paper[row_index] != 'Your search did not match any paper!!!'%}
+			<tr>
+				<td><a href="/paper/{{paper[row_index]}}">{{paper[row_index]}}</a></td>
+			</tr>
+			{% else %}
+			<tr>
+				<td>{{paper[row_index]}}</td>
+			</tr>
+			{% endif %}
 		{% endfor %}
 	</table>
 	{% if paper %}
@@ -62,9 +68,15 @@
 		</th>
 		<!-- {% endif %} -->
 		{% for row_index in range(author|count) %}
+		{% if author[row_index] != 'Your search did not match any author!!!'%}
 		<tr>
 			<td><a href="/author/{{author[row_index]}}">{{author[row_index]}}</a></td>
 		</tr>
+		{% else %}
+			<tr>
+				<td>{{author[row_index]}}</td>
+			</tr>
+		{% endif %}
 		{% endfor %}
 	</table>
 	{% endif %}

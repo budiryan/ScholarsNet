@@ -1,11 +1,10 @@
 from flask import render_template, request
 from app import app
 from .forms import QueryForm
-from .search import search
+from .search import search, search_author_from_paper, search_paper_from_author
 import re
 import sqlite3
 from flask import g
-from pprint import pprint
 
 
 def connect_db():
@@ -22,57 +21,6 @@ def get_db():
     if not hasattr(g, 'sqlite_db'):
         g.sqlite_db = connect_db()
     return g.sqlite_db
-
-def get_author_papers(cursor, name):
-    cursor.execute('select * from papers')
-    rows = cursor.fetchall()
-
-    all_authors = []
-
-    name = re.sub('\(.*\)', '', name)
-
-    for name in authors:
-        if name == None or name == '':
-            continue
-
-        full_name = ''
-        names = name.split(' ')
-        for n in names[:-1]:
-            if n != None and n != '':
-                full_name += n[0] + ' '
-        full_name += names[-1]
-    name = full_name
-
-    for row in rows:
-        authors = [row[3]]
-        authors += row[6].split(', ')
-
-        for i in range(len(authors)):
-            if authors[i] != None and authors[i] != '':
-                authors[i] = re.sub('\(.*\)', '', authors[i])
-
-        abbr_authors = []
-        for name in authors:
-            if name == None or name == '':
-                continue
-
-            full_name = ''
-            names = name.split(' ')
-            for n in names[:-1]:
-                if n != None and n != '':
-                    full_name += n[0] + ' '
-            full_name += names[-1]
-            abbr_authors.append(full_name)
-
-        all_authors.append(abbr_authors)
-
-    papers = []
-
-    for i in range(len(rows)):
-        if name in all_authors[i]:
-            papers.append(rows[i][0])
-
-    return papers
 
 
 @app.teardown_appcontext
@@ -114,11 +62,18 @@ def paper(id):
     year = paper_row[5]
     coauthors = paper_row[6].split(',')
     coauthors = [a for a in coauthors if (len(a) > 1 and author != a)]
+
+    # Find authors from the author table
+    all_authors = search_author_from_paper(cursor, [author] + coauthors)
+    author = all_authors[0]
+    coauthors = all_authors[1:]
+
     # Find similar paper recommendations
     paper, author_2 = search(search_query=re.sub(r'[^\w\s]|_', '', title).lower().split(' '), search_category='p', db_cursor=cursor, num_result=4)
     recommendations = paper[1:]
 
-    return render_template("paper.html", title="Paper", title_=title, doi=doi, abstract=abstract, author=author, coauthors=coauthors, url=url, year=year, recommendations=recommendations)
+    return render_template("paper.html", title="Paper", title_=title, doi=doi, abstract=abstract,
+                           author=author, coauthors=coauthors, url=url, year=year, recommendations=recommendations)
 
 
 @app.route('/author/<id>', methods=['GET'])
@@ -134,7 +89,10 @@ def author(id):
     email = author_row[2]
     photo = author_row[3]
 
-    author_papers = get_author_papers(cursor, name)
+    # author_papers = get_author_papers(cursor, name)
+    author_papers = search_paper_from_author(cursor, name)
+    print('author papers are: ', author_papers)
 
     affiliations = author_row[4].split('|')
-    return render_template("author.html", title=name, name=name, website=website, email=email, photo=photo, affiliations=affiliations, author_papers=author_papers )
+    return render_template("author.html", title=name, name=name, website=website,
+                           email=email, photo=photo, affiliations=affiliations, author_papers=author_papers)

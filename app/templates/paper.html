@@ -3,7 +3,7 @@
     <table>
       <tr>
         <td><h2>
-          Title: {{title_}}
+          <b>Title</b>: {{title_}}
         </h2></td>
       </tr>
       {% if doi|length >0 and doi != None%}
@@ -13,25 +13,38 @@
         </h4></td>
       </tr>
       {% endif %}
-      {% if abstract|length >0 and abstract != None%}
+      {% if abstract|length >0 and abstract != None %}
       <tr>
         <td><h4>
-          Abstract:<br> {{abstract}}
+          <b>Abstract</b>:<br> {{abstract}}
         </h4></td>
       </tr>
       {% endif %}
+      {% if author[1] == True %}
       <tr>
         <td><h4>
-          Lead author: {{author}}
+          <b>Lead author</b>: <a href="/author/{{author[row_index]}}">{{author[0]}}</a>
         </h4></td>
       </tr>
+      {% else %}
+      <tr>
+        <td><h4>
+          <b>Lead author</b>: {{author[0]}}
+        </h4></td>
+      </tr>
+      {% endif %}
+      
       {% if coauthors|count > 0 %}
       <tr>
         <td><h4>
-          Coauthors:
+          <b>Coauthors</b>:
             <ul>
            {% for a in coauthors %}
-            <li>{{a}}</li>
+              {% if a[1] %}
+                <li><a href="/author/{{a[0]}}">{{a[0]}}</a></li>
+              {% else %}
+                <li>{{a[0]}}</li>
+              {% endif %}
             {% endfor %}
             </ul>
         </h4></td>
@@ -39,18 +52,18 @@
       {% endif %}
       <tr>
         <td><h4>
-          URL: <a href={{url}}>{{url}}</a>
+          <b>URL</b>: <a href={{url}}>{{url}}</a>
         </h4></td>
       </tr>
       <tr>
         <td><h4>
-          Year: {{year}}
+          <b>Year</b>: {{year}}
         </h4></td>
       </tr>
       <br><br>
       <tr>
         <td><h3>
-          You might also like:
+          <b>You might also like</b>:
         <ul>
            {% for r in recommendations %}
             <li><a href="/paper/{{r}}">{{r}}</a></li>

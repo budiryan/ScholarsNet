@@ -5,17 +5,17 @@
           <td><img src={{ photo }}></td>
       </tr>
       <tr>
-          <td><h4>Name: {{name}}</h4></td>
+          <td><h4><b>Name</b>: {{name}}</h4></td>
       </tr>
       <tr>
-          <td><h4>Website: <a href={{website}}>{{website}}</a></h4></td>
+          <td><h4><b>Website</b>: <a href={{website}}>{{website}}</a></h4></td>
       </tr>
       <tr>
-          <td><h4>Email: <a href=mailto:{{email}}>{{email}}</a></h4></td>
+          <td><h4><b>Email</b>: <a href=mailto:{{email}}>{{email}}</a></h4></td>
       </tr>
       <tr>
           <td>
-          <h4>Affiliations: 
+          <h4><b>Affiliations</b>: 
           <ul>
            {% for a in affiliations %}
             <li>{{a}}</li>
@@ -24,25 +24,15 @@
           </h4>
           </td>
      </tr>
-     <tr>
-        <td>
-          <h4>Citation count: {{citation_count}}</h4>
-        </td>
-     </tr>
-     <tr>
-        <td>
-        <h4>Publication count: {{publication_count}}</h4>
-        </td>
-     </tr>
-     <tr>
-          <td>
-           <h4>Publication years: {{publication_years}}</h4>
-          </td>
-      </tr>
       <tr>
         <td>
-        <h4>Total downloads: {{total_downloads}}</h4>
-        </td>
+        <h4><b>Papers</b>:<br></h4>
+          <ul>
+         {% for a in author_papers %}
+            <li><a href="/paper/{{a}}">{{a}}</a></li>
+         {% endfor %}
+         </ul>
+         </td>
       </tr>
   </table>
 {% endblock %}
