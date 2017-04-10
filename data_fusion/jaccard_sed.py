@@ -6,7 +6,7 @@ import json
 
 path = '../sqlite/paperDB.db'
 connection = sqlite3.connect(path)
-output_file = 'jaccard_sed.json'
+output_file = 'jaccard_sed2.json'
 
 # url index: 4
 # with open(output_file, 'w') as f:
@@ -31,7 +31,7 @@ for i in range(len(rows)):
             # add the shit here
             loop_times = min(len(s1), len(s2))
             for k in range(loop_times):
-                threshold = int(max(len(s1[k]), len(s2[k])) * 0.25)
+                threshold = int(max(len(s1[k]), len(s2[k])) * 0.125)
                 distance = editdistance.eval(s1[k], s2[k])
                 if distance < threshold:
                     if len(s1[k]) > len(s2[k]):
@@ -46,7 +46,7 @@ for i in range(len(rows)):
                 jaccard_sim = float(intersection / union)
             except ZeroDivisionError:
                 jaccard_sim = 0  # 2 empty strings concatenated together lel, useless!
-            if jaccard_sim >= 0.75:
+            if jaccard_sim >= 0.9:
                 print(str(i) + ' ' + str(j) + '\n')
                 if rows[i][0] is None:
                     print('title1: null' + '\n')

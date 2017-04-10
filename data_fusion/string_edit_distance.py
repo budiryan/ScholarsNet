@@ -3,6 +3,7 @@
 import sqlite3
 import editdistance
 import json
+import re
 
 path = '../sqlite/paperDB.db'
 connection = sqlite3.connect(path)
@@ -21,10 +22,10 @@ result_array = []
 for i in range(l):
     for j in range(i + 1, l):
         if i != j:
-            s1 = '' if entries[i][0] is None else entries[i][0]
-            s2 = '' if entries[j][0] is None else entries[j][0]
+            s1 = '' if entries[i][0] is None else re.sub(r'[^\w\s]|_', '', entries[i][0]).lower().strip()
+            s2 = '' if entries[j][0] is None else re.sub(r'[^\w\s]|_', '', entries[j][0]).lower().strip()
             d = editdistance.eval(s1, s2)
-            if d < len(s1) / 4:
+            if d < min(len(s1), len(s2)) / 8:
                 print(str(i) + s1 + '\n')
                 print(str(j) + s2 + '\n')
                 print('Edit distance:' + str(d) + '\n')
@@ -42,6 +43,5 @@ for i in range(l):
                         "count": count
                     }
                 )
-                if count % 1 == 0:
-                    with open('string_edit_distance.json', 'w') as f:
-                        json.dump(result_array, f, indent=4)
+                with open('string_edit_distance2.json', 'w') as f:
+                    json.dump(result_array, f, indent=4)

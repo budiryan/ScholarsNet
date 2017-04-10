@@ -5,7 +5,7 @@ import json
 
 path = '../sqlite/paperDB.db'
 connection = sqlite3.connect(path)
-output_file = 'jaccard_strict.json'
+output_file = 'jaccard_strict2.json'
 
 cursor = connection.cursor()
 cursor.execute('select * from papers')
@@ -30,7 +30,7 @@ for i in range(len(rows)):
                 jaccard_sim = float(intersection / union)
             except ZeroDivisionError:
                 jaccard_sim = 0  # 2 empty strings concatenated together lel, useless!
-            if jaccard_sim >= 0.75:
+            if jaccard_sim >= 0.9:
                 print(str(i) + ' ' + str(j) + '\n')
 
                 if rows[i][0] is None:
