@@ -22,8 +22,8 @@ result_array = []
 for i in range(l):
     for j in range(i + 1, l):
         if i != j:
-            s1 = '' if entries[i][0] is None else re.sub(r'[^\w\s]|_', '', entries[i][0]).lower().strip()
-            s2 = '' if entries[j][0] is None else re.sub(r'[^\w\s]|_', '', entries[j][0]).lower().strip()
+            s1 = '' if entries[i][0] is None else ' '.join(re.sub(r'[^\w\s]|_', '', entries[i][0]).lower().strip().split())
+            s2 = '' if entries[j][0] is None else ' '.join(re.sub(r'[^\w\s]|_', '', entries[j][0]).lower().strip().split())
             d = editdistance.eval(s1, s2)
             if d < min(len(s1), len(s2)) / 8:
                 print(str(i) + s1 + '\n')

@@ -1,3 +1,5 @@
+#!/usr/bin/env python3.5
+
 import sqlite3
 import editdistance
 import re
