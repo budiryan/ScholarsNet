@@ -20,24 +20,34 @@
 	</form>
 
 	{% if paper and author%}
-	<div class="row">
-		<div class="col-md-8">
-			<h3>Papers:</h3>
+		<div class="row">
+			<div class="col-xs-12">
+				<h3>Papers:</h3>
+			</div>
 		</div>
-		<div class="col-md-4">
-			<h3>Authors:</h3>
+		<div class="row">
+			{% for row_index in range(20) %}
+				<div class="row">
+				<div class="col-xs-12">
+					<a href="/paper/{{paper[row_index]}}">{{paper[row_index]}}</a>
+				</div>
+				</div>
+			{% endfor %}
 		</div>
-	</div>
-	{% for row_index in range(20) %}
-	<div class="row">
-		<div class="col-md-8">
-			<a href="/paper/{{paper[row_index]}}">{{paper[row_index]}}</a>
+		<div class="row">
+			<div class="col-xs-12">
+				<h3>Authors:</h3>
+			</div>
 		</div>
-		<div class="col-md-4">
-			<a href="/author/{{author[row_index]}}">{{author[row_index]}}</a>
+		<div class="row">
+			{% for row_index in range(20) %}
+				<div class="row">
+				<div class="col-xs-12">
+					<a href="/author/{{author[row_index]}}">{{author[row_index]}}</a>
+				</div>
+				</div>
+			{% endfor %}
 		</div>
-	</div>
-	{% endfor %}
 
 	{% elif paper or author%}
 	<table>
