@@ -4,3 +4,22 @@
 - doi actually helps, but not really helpful, considering the problems we have above.
 - Same paper but different title with some misspells. Examples: 'Exploit' & 'Expoit'
 - We used cosine similarity for the data portal search engine
+
+The 4 different algorithms are: 
+Pure jaccard similarity algorithm with similarity threshold = 0.75
+Modified jaccard similarity algorithm (For intersection part, we use string edit distance with a threshold)
+Directly comparing the 2 strings 
+Use string edit distance with a threshold = len(max(string 1, string 2)) / 4
+
+- Precision rate for each algorithm:
+Jaccard_sed: 0.67
+jaccard_strict : 0.69
+Strict_compare: 1.0
+String edit distance: 0.46
+
+- New trial thresholds:
+Jaccard_sed: 0.125, 0.9
+jaccard_strict: 0.9
+sed: 0.125
+
+
