@@ -36,7 +36,7 @@ def train():
 
     if not tfidf_vectorizer:
         print('training tfidf')
-        tfidf_vectorizer = TfidfVectorizer(stop_words='english')
+        tfidf_vectorizer = TfidfVectorizer(stop_words='english', norm='l2')
         tfidf_vectorizer = tfidf_vectorizer.fit(X)
         with open('tfidf_vectorizer.pickle', 'wb') as f:
             pickle.dump([tfidf_vectorizer], f)
