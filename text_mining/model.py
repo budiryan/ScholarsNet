@@ -24,7 +24,7 @@ def train():
     READ FILE, TRANSFORM TRAINING DATA INTO TF-IDF
     '''
     # Pickle no 2: tfidf_vectorizer
-    X = np.array(train_df['summary'])
+    X = np.array(train_df['title'])
     y = np.array(train_df['category'])
     tfidf_vectorizer = None
     try:
@@ -61,7 +61,7 @@ def train():
 
 
 if __name__ == '__main__':
-    X = np.array(train_df['summary'])
+    X = np.array(train_df['title'])
     y = np.array(train_df['category'])
     train_df = pd.read_csv('json/train.csv')
     tfidf, clf = train()
