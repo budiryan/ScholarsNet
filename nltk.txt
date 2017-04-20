@@ -1,9 +1,0 @@
-wordnet
-words
-punkt
-rslp
-sample_grammars
-snowball_data
-spanish_grammars
-tagsets
-universal_tagset
