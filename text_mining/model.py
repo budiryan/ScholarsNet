@@ -1,29 +1,30 @@
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.metrics import accuracy_score
-import nltk
-import string
+# import nltk
+# import string
 import pandas as pd
 import numpy as np
 import pickle
 
 
-def stem_tokens(tokens):
-    stemmer = nltk.stem.porter.PorterStemmer()
-    return [stemmer.stem(item) for item in tokens]
+# def stem_tokens(tokens):
+#     stemmer = nltk.stem.porter.PorterStemmer()
+#     return [stemmer.stem(item) for item in tokens]
 
 
-def normalize(text):
-    remove_punctuation_map = dict((ord(char), None) for char in string.punctuation)
-    return stem_tokens(nltk.word_tokenize(text.lower().translate(remove_punctuation_map)))
+# def normalize(text):
+#     remove_punctuation_map = dict((ord(char), None) for char in string.punctuation)
+#     return stem_tokens(nltk.word_tokenize(text.lower().translate(remove_punctuation_map)))
 
+train_df = pd.read_csv('json/train.csv')
 
 def train():
     '''
     READ FILE, TRANSFORM TRAINING DATA INTO TF-IDF
     '''
     # Pickle no 2: tfidf_vectorizer
-    X = np.array(train_df['title'])
+    X = np.array(train_df['summary'])
     y = np.array(train_df['category'])
     tfidf_vectorizer = None
     try:
@@ -35,9 +36,7 @@ def train():
 
     if not tfidf_vectorizer:
         print('training tfidf')
-        tfidf_vectorizer = TfidfVectorizer(
-            tokenizer=normalize, stop_words='english'
-            , analyzer='word', norm='l2')
+        tfidf_vectorizer = TfidfVectorizer(stop_words='english')
         tfidf_vectorizer = tfidf_vectorizer.fit(X)
         with open('tfidf_vectorizer.pickle', 'wb') as f:
             pickle.dump([tfidf_vectorizer], f)
@@ -62,7 +61,7 @@ def train():
 
 
 if __name__ == '__main__':
-    X = np.array(train_df['title'])
+    X = np.array(train_df['summary'])
     y = np.array(train_df['category'])
     train_df = pd.read_csv('json/train.csv')
     tfidf, clf = train()
