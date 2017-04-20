@@ -22,4 +22,25 @@ Jaccard_sed: 0.125, 0.9
 jaccard_strict: 0.9
 sed: 0.125
 
+- Training Naive Bayes using TF-IDF vector:
+9 categories:
+- Artificial Intelligence (AI)
+- Cybersecurity (SEC
+- Data, Knowledge and Information Management (DB)
+- Human Computer Interaction (HCI)
+- Networking and Computer Systems (NE)
+- Software Technologies (ST)
+- Theoretical Computer Science (TH)
+- Vision and Graphics (VG)
+- Other
+
+Accuracy statistics:
+Training on summary only: 55.2455000533 %
+Training on title only: 63.1776547023 %
+
+
+32 Categories:
+Accuracy statistics:
+Training on title only: 
+
 

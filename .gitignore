@@ -89,3 +89,7 @@ ENV/
 .ropeproject
 .bak
 .py.bak
+
+# json files
+text_mining/json
+text_mining/.ipynb_checkpoints

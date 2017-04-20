@@ -50,9 +50,9 @@ for query in queries:
             print('Summary: %s' % summary)
             print('\n\n')
 
-            json.dump({'title'   : title,
-                       'category': category,
-                       'summary' : summary},
+            json.dump({'title'   : title.decode('utf-8'),
+                       'category': category.decode('utf-8'),
+                       'summary' : summary.decode('utf-8')},
                        f, indent = 4)
 
             f.write(',')

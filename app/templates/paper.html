@@ -3,9 +3,11 @@
 {% block content %}
     <table>
       <tr>
-        <td><h2>
-          <b>Title</b>: {{title_}}
-        </h2></td>
+        <td>
+          <h2>
+            <b>Title</b>: {{title_}}
+          </h2>
+        </td>
       </tr>
       {% if doi|length >0 and doi != None%}
       <tr>
@@ -15,18 +17,18 @@
       </tr>
       {% endif %}
       {% if abstract|length >0 and abstract != None %}
-      <tr>
-        <td><h4>
-          <b>Abstract</b>:<br> {{abstract}}
-        </h4></td>
-      </tr>
+        <tr>
+          <td><h4>
+            <b>Abstract</b>:<br> {{abstract}}
+          </h4></td>
+        </tr>
       {% endif %}
       {% if author[1] == True %}
-      <tr>
-        <td><h4>
-          <b>Lead author</b>: <a href="/author/{{author[row_index]}}">{{author[0]}}</a>
-        </h4></td>
-      </tr>
+        <tr>
+          <td><h4>
+            <b>Lead author</b>: <a href="/author/{{author[0]}}">{{author[0]}}</a>
+          </h4></td>
+        </tr>
       {% else %}
       <tr>
         <td><h4>
@@ -37,18 +39,20 @@
       
       {% if coauthors|count > 0 %}
       <tr>
-        <td><h4>
-          <b>Coauthors</b>:
-            <ul>
-           {% for a in coauthors %}
-              {% if a[1] %}
-                <li><a href="/author/{{a[0]}}">{{a[0]}}</a></li>
-              {% else %}
-                <li>{{a[0]}}</li>
-              {% endif %}
-            {% endfor %}
-            </ul>
-        </h4></td>
+        <td>
+          <h4>
+            <b>Coauthors</b>:
+              <ul>
+              {% for a in coauthors %}
+                {% if a[1] %}
+                  <li><a href="/author/{{a[0]}}">{{a[0]}}</a></li>
+                {% else %}
+                  <li>{{a[0]}}</li>
+                {% endif %}
+              {% endfor %}
+              </ul>
+          </h4>
+        </td>
       </tr>
       {% endif %}
       <tr>
@@ -62,6 +66,15 @@
         </h4></td>
       </tr>
       <br><br>
+      <tr>
+        <td>
+        <h3>
+        <b>According to our predictive algorithm</b><br>
+        <b>Paper category is:</b><br>
+        {{category}}
+        </h3>
+        </td>
+      </tr>
       <tr>
         <td><h3>
           <b>You might also like</b>:

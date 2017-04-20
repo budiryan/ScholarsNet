@@ -1,95 +1,119 @@
 <center>
 	{% extends "base.html" %}
 	{% block content %}
-	<form action="" method="post">
-		{{ form.csrf }}
-		<div class="input text input-lg">
-			{{ form.search_query }}
-			{% for error in form.search_query.errors %}
-			<span style="color: red;">Query cannot be empty!</span>
-			{% endfor %}	
+		<form action="" method="post">
+			{{ form.csrf }}
+			<div class="input text input-lg">
+				{{ form.search_query }}
+				{% for error in form.search_query.errors %}
+					<span style="color: red;">Query cannot be empty!</span>
+				{% endfor %}	
+			</div>
+			<label class="dropdown-inline">
+				{{form.search_category}}
+			</label>
+			<label class="input submit">
+				<input type="submit" value="Search" />
+			</label>
+		</form>
 
-		</div>
-		<label class="dropdown-inline">
-			{{form.search_category}}
-		</label>
-		<label class="input submit">
-			<input type="submit" value="Search" />
-		</label>
+		{% if paper and author%}
+			<div class="row">
+				<div class="col-xs-12">
+					<h3>Papers:</h3>
+				</div>
+			</div>
 
-	</form>
+			<div class="row">
+				{% for row_index in range(paper|count) %}
+					{% if paper[row_index] == 'Your search did not match any paper!!!'%}
+						<div class="row">
+							<div class="col-xs-12">
+								<h4>Your search did not return any result!</h4>
+							</div>
+						</div>
+					{% else %}
+						<div class="row">
+							<div class="col-xs-12">
+							{% if paper_authors[row_index][1] %}
+								<a href="/paper/{{paper[row_index]}}">{{paper[row_index]}}</a> by <a href="/author/{{paper_authors[row_index][0]}}">{{paper_authors[row_index][0]}}</a>
+							{% else %}
+								<a href="/paper/{{paper[row_index]}}">{{paper[row_index]}}</a> by {{paper_authors[row_index][0]}}
+							</div>
+							{% endif %}
+						</div>
+					{% endif %}
+				{% endfor %}
+			</div>
 
-	{% if paper and author%}
+			<div class="row">
+				<div class="col-xs-12">
+					<h3>Authors:</h3>
+				</div>
+			</div>
+
+			<div class="row">
+				{% for row_index in range(author|count) %}
+					{% if paper[row_index] == 'Your search did not match any paper!!!'%}
+						<div class="row">
+							<div class="col-xs-12">
+								<h4>Your search did not return any result!</h4>
+							</div>
+						</div>
+					{% else %}
+					<div class="row">
+						<div class="col-xs-12">
+							<a href="/author/{{author[row_index]}}">{{author[row_index]}}</a>
+						</div>
+					</div>
+					{% endif %}
+				{% endfor %}
+			</div>
+
+		{% elif paper%}
+			<div class="row">
+				<div class="col-xs-12">
+					<h3>Papers:</h3>
+				</div>
+			</div>
+			
+			{% for row_index in range(paper|count) %}
+				{% if paper[row_index] != 'Your search did not match any paper!!!'%}
+					<div class="row">
+						<div class="col-xs-12">
+							<a href="/paper/{{paper[row_index]}}">{{paper[row_index]}}</a> by {{paper_authors[row_index]}}
+						</div>
+					</div>
+				{% else %}
+					<div class="row">
+						<div class="col-xs-12">
+							<h4>Your search did not return any result!</h4>
+						</div>
+					</div>
+				{% endif %}
+			{% endfor %}
+		
+		{% elif author %}
 		<div class="row">
 			<div class="col-xs-12">
-				<h3>Papers:</h3>
+				<h4>Authors:</h4>
 			</div>
 		</div>
-		<div class="row">
-			{% for row_index in range(20) %}
-				<div class="row">
-				<div class="col-xs-12">
-					<a href="/paper/{{paper[row_index]}}">{{paper[row_index]}}</a>
-				</div>
-				</div>
+			{% for row_index in range(author|count) %}
+				{% if author[row_index] != 'Your search did not match any author!!!'%}
+					<div class="row">
+						<div class="col-xs-12">
+							<a href="/author/{{author[row_index]}}">{{author[row_index]}}</a>
+						</div>
+					</div>
+				{% else %}
+					<div class="row">
+						<div class="col-xs-12">
+							<h4>Your search did not return any result!</h4>
+						</div>
+					</div>
+				{% endif %}
 			{% endfor %}
-		</div>
-		<div class="row">
-			<div class="col-xs-12">
-				<h3>Authors:</h3>
-			</div>
-		</div>
-		<div class="row">
-			{% for row_index in range(20) %}
-				<div class="row">
-				<div class="col-xs-12">
-					<a href="/author/{{author[row_index]}}">{{author[row_index]}}</a>
-				</div>
-				</div>
-			{% endfor %}
-		</div>
-
-	{% elif paper or author%}
-	<table>
-		<!-- {% if paper|length > 0 %} -->
-		<th>
-			Papers:
-		</th>
-		<!-- {% endif %} -->
-		{% for row_index in range(paper|count) %}
-			{% if paper[row_index] != 'Your search did not match any paper!!!'%}
-			<tr>
-				<td><a href="/paper/{{paper[row_index]}}">{{paper[row_index]}}</a></td>
-			</tr>
-			{% else %}
-			<tr>
-				<td>{{paper[row_index]}}</td>
-			</tr>
-			{% endif %}
-		{% endfor %}
-	</table>
-	{% if paper %}
-	<br>
-	{% endif %}
-	<table>
-		<!-- {% if author|length > 0 %} -->
-		<th>
-			Authors:
-		</th>
-		<!-- {% endif %} -->
-		{% for row_index in range(author|count) %}
-		{% if author[row_index] != 'Your search did not match any author!!!'%}
-		<tr>
-			<td><a href="/author/{{author[row_index]}}">{{author[row_index]}}</a></td>
-		</tr>
-		{% else %}
-			<tr>
-				<td>{{author[row_index]}}</td>
-			</tr>
 		{% endif %}
-		{% endfor %}
-	</table>
-	{% endif %}
-
 	{% endblock %}
 </center>

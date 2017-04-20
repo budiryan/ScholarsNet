@@ -2,9 +2,11 @@ from flask import render_template, request
 from app import app
 from .forms import QueryForm
 from .search import search, search_author_from_paper, search_paper_from_author
+from flask import g
 import re
 import sqlite3
-from flask import g
+import numpy as np
+import pickle
 
 
 def connect_db():
@@ -40,7 +42,13 @@ def index():
         cursor = db.cursor()
         if form.validate():
             paper, author = search(search_query=search_query, search_category=search_category, db_cursor=cursor, num_result=20)
-            return render_template("index.html", title='Home', form=form, paper=paper, author=author)
+            paper_authors = []
+            if len(paper) == 0 or paper[0] != 'Your search did not match any paper!!!':
+                for p in paper:
+                    paper_authors.append(cursor.execute('select author from papers where title=' + '"' + p + '"').fetchone()[0])
+            paper_authors_with_link = search_author_from_paper(cursor, paper_authors)
+            print('paper authors are: ', paper_authors_with_link)
+            return render_template("index.html", title='Home', form=form, paper=paper, author=author, paper_authors=paper_authors_with_link)
         else:
             print("Query cannot be empty!")
     return render_template("index.html", title='Home', form=form, paper=None, paper_index=None, author=None, author_index=None)
@@ -72,8 +80,24 @@ def paper(id):
     paper, author_2 = search(search_query=re.sub(r'[^\w\s]|_', '', title).lower().split(' '), search_category='p', db_cursor=cursor, num_result=4)
     recommendations = paper[1:]
 
+    # Find the category of this paper using the pre-trained model
+    # Load the pickles
+    # clf pickle
+    with open('text_mining/clf.pickle', 'rb') as f:
+        clf = pickle.load(f)[0]
+
+    # tfidf vectorizer pickle
+    with open('text_mining/tfidf_vectorizer.pickle', 'rb') as f:
+        tfidf_vectorizer = pickle.load(f)[0]
+
+    # Transform the current title to a vector
+    title_vector = tfidf_vectorizer.transform(np.array([title]))
+
+    # Predict the category of the paper
+    category = clf.predict(title_vector)
+
     return render_template("paper.html", title="Paper", title_=title, doi=doi, abstract=abstract,
-                           author=author, coauthors=coauthors, url=url, year=year, recommendations=recommendations)
+                           author=author, coauthors=coauthors, url=url, year=year, recommendations=recommendations, category=category[0])
 
 
 @app.route('/author/<id>', methods=['GET'])
@@ -91,7 +115,6 @@ def author(id):
 
     # author_papers = get_author_papers(cursor, name)
     author_papers = search_paper_from_author(cursor, name)
-    print('author papers are: ', author_papers)
 
     affiliations = author_row[4].split('|')
     return render_template("author.html", title=name, name=name, website=website,
