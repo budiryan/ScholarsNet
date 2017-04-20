@@ -1,23 +1,13 @@
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.metrics import accuracy_score
-# import nltk
-# import string
 import pandas as pd
 import numpy as np
 import pickle
 
 
-# def stem_tokens(tokens):
-#     stemmer = nltk.stem.porter.PorterStemmer()
-#     return [stemmer.stem(item) for item in tokens]
-
-
-# def normalize(text):
-#     remove_punctuation_map = dict((ord(char), None) for char in string.punctuation)
-#     return stem_tokens(nltk.word_tokenize(text.lower().translate(remove_punctuation_map)))
-
 train_df = pd.read_csv('json/train.csv')
+
 
 def train():
     '''
