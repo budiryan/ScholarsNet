@@ -1,6 +1,27 @@
 import re
 
 
+def search_authors_from_a_paper(author_table, authors_from_paper):
+    '''
+    Input: all authors from the author table, authors fetched from the paper table
+    Output: authors with T/F value indicating whether they are contained or not
+    '''
+    author_table = [a[0] for a in author_table]
+    authors_from_paper_1 = authors_from_paper[1].split(',')
+    authors_from_paper_1 = [a.strip() for a in authors_from_paper_1]
+    authors_from_paper_1 = [a for a in authors_from_paper_1 if a != '']
+    authors_from_paper = list(set([authors_from_paper[0]] + authors_from_paper_1))
+    result = []
+    for a in authors_from_paper:
+        if a in author_table:
+            result.append((a, True))
+        elif a == ' ':
+            continue
+        else:
+            result.append((a, False))
+    return result
+
+
 def search_author_from_paper(db_cursor, list_of_authors_from_paper):
     authors_from_table = db_cursor.execute('select name from authors').fetchall()
     result = [(a, False) for a in list_of_authors_from_paper]

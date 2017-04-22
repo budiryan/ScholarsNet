@@ -56,11 +56,9 @@ class IeeeSpider(scrapy.Spider):
         # Each record has a list of titleHistory(25 events each page), but only get the first event anyway
         for record in list_of_records:
             if "titleHistory" in record:
-                # list_of_events = record["titleHistory"]
                 event = record["titleHistory"][0]
                 yield scrapy.Request(urllib.parse.urljoin(host, event["publicationLink"]),
                                      callback=self.parse_papers)
-
 
     def parse_papers(self, response):
         # Response will be: A page with a list of research paper.

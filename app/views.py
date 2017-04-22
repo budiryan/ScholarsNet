@@ -1,7 +1,7 @@
 from flask import render_template, request
 from app import app
 from .forms import QueryForm
-from .search import search, search_author_from_paper, search_paper_from_author
+from .search import search, search_author_from_paper, search_paper_from_author, search_authors_from_a_paper
 from flask import g
 import re
 import sqlite3
@@ -36,18 +36,19 @@ def close_db(error):
 def index():
     form = QueryForm(request.form)
     db = get_db()
+    cursor = db.cursor()
+    author_table = cursor.execute('select name from authors').fetchall()
     if request.method == 'POST':
         search_query = re.sub(r'[^\w\s]|_', '', request.form['search_query']).lower().split(' ')
         search_category = request.form['search_category']
-        cursor = db.cursor()
         if form.validate():
             paper, author = search(search_query=search_query, search_category=search_category, db_cursor=cursor, num_result=20)
-            paper_authors = []
+            paper_authors_with_link = []
             if len(paper) == 0 or paper[0] != 'Your search did not match any paper!!!':
                 for p in paper:
-                    paper_authors.append(cursor.execute('select author from papers where title=' + '"' + p + '"').fetchone()[0])
-            paper_authors_with_link = search_author_from_paper(cursor, paper_authors)
-            print('paper authors are: ', paper_authors_with_link)
+                    author_table_mapping = search_authors_from_a_paper(author_table, cursor.execute('select author, coauthors from papers where title=' + '"' + p + '"').fetchone())
+                    paper_authors_with_link.append(author_table_mapping)
+                print('debug: ', paper_authors_with_link)
             return render_template("index.html", title='Home', form=form, paper=paper, author=author, paper_authors=paper_authors_with_link)
         else:
             print("Query cannot be empty!")

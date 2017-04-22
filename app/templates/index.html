@@ -33,15 +33,21 @@
 							</div>
 						</div>
 					{% else %}
-						<div class="row">
-							<div class="col-xs-12">
-							{% if paper_authors[row_index][1] %}
-								<a href="/paper/{{paper[row_index]}}">{{paper[row_index]}}</a> by <a href="/author/{{paper_authors[row_index][0]}}">{{paper_authors[row_index][0]}}</a>
-							{% else %}
-								<a href="/paper/{{paper[row_index]}}">{{paper[row_index]}}</a> by {{paper_authors[row_index][0]}}
+					<div class="container">
+						 <div class="panel panel-default">
+    						<div class="panel-body"">
+									<h5><b><a href="/paper/{{paper[row_index]}}">{{paper[row_index]}}</a></b></h5>
+								{% for a in paper_authors[row_index] %}
+									{% if a[1] %}
+										<a href="/author/{{a[0]}}">{{a[0]}}</a>
+									{% else %}
+										{{a[0]}}
+									{% endif %}
+										&nbsp;
+								{% endfor %}
 							</div>
-							{% endif %}
 						</div>
+					</div>
 					{% endif %}
 				{% endfor %}
 			</div>
@@ -61,9 +67,15 @@
 							</div>
 						</div>
 					{% else %}
-					<div class="row">
-						<div class="col-xs-12">
-							<a href="/author/{{author[row_index]}}">{{author[row_index]}}</a>
+					<div class="container">
+						<div class="panel panel-default">
+							<div class="panel-body"">
+								<div class="row">
+									<div class="col-xs-12">
+										<h5><b><a href="/author/{{author[row_index]}}">{{author[row_index]}}</a></b></h5>
+									</div>
+								</div>
+							</div>
 						</div>
 					</div>
 					{% endif %}
@@ -81,7 +93,19 @@
 				{% if paper[row_index] != 'Your search did not match any paper!!!'%}
 					<div class="row">
 						<div class="col-xs-12">
-							<a href="/paper/{{paper[row_index]}}">{{paper[row_index]}}</a> by {{paper_authors[row_index]}}
+							<h4><a href="/paper/{{paper[row_index]}}">{{paper[row_index]}}</a></h4>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-xs-12">
+						{% for a in paper_authors[row_index] %}
+							{% if a[1] %}
+								<a href="/author/{{a[0]}}">{{a[0]}}</a>
+							{% else %}
+								{{a[0]}}
+							{% endif %}
+								&nbsp;
+						{% endfor %}
 						</div>
 					</div>
 				{% else %}
