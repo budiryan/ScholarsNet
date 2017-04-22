@@ -41,7 +41,6 @@ def train():
         pass
 
     if not clf:
-        print('training')
         X = tfidf_vectorizer.transform(X)
         clf = MultinomialNB(alpha=1.0).fit(X, y)
         # clf = SVC().fit(X, y)

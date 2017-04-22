@@ -86,15 +86,15 @@ class AcmJournalSpider(scrapy.Spider):
             yield
 
         request_url = 'tab_abstract.cfm?id=' + url_id
-        # Fields: title, authors, abstract, citation count, published_in, download_count, pdf_link
         title = response.xpath('//*[@id="divmain"]/div/h1/strong/text()').extract_first()
-        # if doi == None:
-        #     doi = response.xpath('//*[@id="divmain"]/table[2]/tr/td/table/tr[4]/td/span[3]/a/text()').extract_first()
         author = response.xpath('//*[@id="divmain"]/table/tr/td[1]/table[2]/tr/td[2]/a/text()').extract_first()
         other_authors = response.xpath('//*[@id="divmain"]/table/tr/td[1]/table[2]/tr/td[2]/a/text()').extract()[1:]
-        citation_count = int(response.xpath('//*[@id="divmain"]/table/tr/td[2]/table/tr[3]/td/text()[1]').extract_first().strip().split(':')[-1].strip().replace(',', ''))
-        download_count = int(response.xpath('//*[@id="divmain"]/table/tr/td[2]/table/tr[3]/td/text()[2]').extract_first().strip().split(':')[-1].strip().replace(',', ''))
-        pdf_link = urllib.parse.urljoin(base_url, response.xpath('//*[@id="divmain"]/table/tr/td[1]/table[1]/tr/td[2]/a/@href').extract_first())
+        citation_count = int(response.xpath('//*[@id="divmain"]/table/tr/td[2]/table/tr[3]/td/text()[1]')
+                         .extract_first().strip().split(':')[-1].strip().replace(',', ''))
+        download_count = int(response.xpath('//*[@id="divmain"]/table/tr/td[2]/table/tr[3]/td/text()[2]')
+                         .extract_first().strip().split(':')[-1].strip().replace(',', ''))
+        pdf_link = urllib.parse.urljoin(base_url, response.xpath('//*[@id="divmain"]/table/tr/td[1]/table[1]/tr/td[2]/a/@href')
+                         .extract_first())
         data = {
             'title': title,
             'doi': doi,
