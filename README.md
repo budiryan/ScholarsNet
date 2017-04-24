@@ -11,7 +11,7 @@
 ## Live Demo
 https://scholarsnet.herokuapp.com/
 
-## Running Locally
+## Running Locally - Tested on Ubuntu 16.04
 - `sudo apt-get install build-essential libssl-dev libffi-dev python3-dev`
 - `sudo apt-get install python-virtualenv`
 - `git clone https://github.com/budiryan/COMP4332-data-portal.git`
