@@ -43,17 +43,17 @@ https://scholarsnet.herokuapp.com/
     - `python arxiv_updater.py`
     - After running the script, data from Arxiv will be retrieved
 - ### DBLP
-    - Open a new terminal
-    - In the new terminal:
-
-    `sudo docker run -p 8050:8050 scrapinghub/splash`
-    - Go back to your old terminal
     - Go to project root directory
     - `cd data_retrieval`
     - `cd dblp`
     - `python dblp_updater.py`
     - After running the script, data from DBLP will be retrieved
 - ### IEEE
+    - Open a new terminal
+    - In the new terminal:
+
+    `sudo docker run -p 8050:8050 scrapinghub/splash`
+    - Go back to your old terminal
     - Go to project root directory
     - `cd data_retrieval`
     - `cd paper_crawlers`
