@@ -11,6 +11,7 @@ total_paper_count = 0
 
 class IeeeSpider(scrapy.Spider):
     name = "ieee"
+    custom_settings = {'ROBOTSTXT_OBEY': True}
 
     def start_requests(self):
         url = 'http://ieeexplore.ieee.org/rest/publication'
