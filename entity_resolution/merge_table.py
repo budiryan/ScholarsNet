@@ -17,10 +17,11 @@ merge_connection = sqlite3.connect('../sqlite/paperDB.db')
 
 cursor = connection.cursor()
 merge_cursor = merge_connection.cursor()
+doi_list = []
+title_list = []
 
 for i in range(4):
-
-    print(table_names[i])
+    print('Now adding: ', table_names[i])
     cursor.execute('select ' + mapping['title'    ][i] + ','
                              + mapping['doi'      ][i] + ','
                              + mapping['abstract' ][i] + ','
@@ -33,9 +34,11 @@ for i in range(4):
     entries = cursor.fetchall()
     for entry in entries:
         try:
-            merge_cursor.execute('insert into papers values(?,?,?,?,?,?,?,?,?)', list(entry) + [table_names[i]])
+            if (entry[0] not in title_list) and (entry[1] not in doi_list):
+                merge_cursor.execute('insert into papers values(?,?,?,?,?,?,?,?,?)', list(entry) + [table_names[i]])
+                title_list.append(entry[0])
+                doi_list.append(entry[1])
         except:
             print(entry[0])
 
 merge_connection.commit()
-
