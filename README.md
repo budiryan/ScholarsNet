@@ -11,7 +11,7 @@
 ## Live Demo
 https://scholarsnet.herokuapp.com/
 
-## Install Dependencies:
+## Installing Dependencies:
 - Update your system:
 
 `sudo apt-get update`
@@ -32,7 +32,7 @@ https://scholarsnet.herokuapp.com/
 
 `pip install -r requirements.txt`
 
-## Data Collection
+## Phase 1: Data Collection
 - ### Arxiv
     - Go to project root directory
     - `cd data_retrieval`
@@ -57,6 +57,25 @@ https://scholarsnet.herokuapp.com/
     - `cd paper_crawlers`
     - `scrapy crawl acm_journal -o acm.json`
     - After running the script, data from IEEE will be retrieved
+
+## Phase 2: Schema Mapping & Entity Resolution
+- ### Generating the string edit distance matrix:
+    - Go to project root directory
+    - `cd entity_resolution`
+    - `python schema_mapping.py`
+    - See the output in 'edit_distance_output.txt'
+- ### Doing Entity resolution together with generating the unified schema:
+    - Go to project root directory
+    - cd sqlite
+    - `python acm_interface.py`
+    - `python arxiv_interface.py`
+    - `python dblp_interface.py`
+    - `python ieee_interface.py`
+    - `python authors_interface.py`
+    - `cd ..`
+    - `cd entity_resolution`
+    - `python merge_table.py`
+
 
 
 ## Running Locally - Tested on Ubuntu 16.04
