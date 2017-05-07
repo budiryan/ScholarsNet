@@ -52,6 +52,7 @@ https://scholarsnet.herokuapp.com/
     - `scrapy crawl ieee -o ieee.json`
     - After running the script, data from IEEE will be retrieved
 - ### ACM
+    - Go to project root directory
     - `cd data_retrieval`
     - `cd paper_crawlers`
     - `scrapy crawl acm_journal -o acm.json`
@@ -60,7 +61,7 @@ https://scholarsnet.herokuapp.com/
 
 ## Running Locally - Tested on Ubuntu 16.04
 - `./run.py`
-- Head to browser and enter `http://localhost:5000`
+- Head to your favorite browser and enter `http://localhost:5000`
 
 ## CONTRIBUTORS:
 - Budi RYAN (bryanaa) (https://github.com/budiryan)
