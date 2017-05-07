@@ -119,6 +119,7 @@ https://scholarsnet.herokuapp.com/
     - `python model.py`
 
 ## Phase 5: Running the Portal Locally 
+- Go to project root directory
 - `./run.py`
 - Head to your favorite browser and enter `http://localhost:5000`
 
