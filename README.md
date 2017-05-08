@@ -24,7 +24,7 @@ https://scholarsnet.herokuapp.com/
 - Install Python virtual environment: 
 
 `sudo apt-get install python-virtualenv`
-- `cd COMP4332-data-portal`
+- `cd ScholarsNet`
 - Create a new virtual environment: 
 
 `virtualenv -p python3 env --no-site-packages`
